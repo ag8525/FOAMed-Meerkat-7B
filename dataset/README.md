@@ -1,6 +1,8 @@
+> **Disclaimer:** All code, models, and outputs in this repository are intended **only** for research purposes. They are **not validated for clinical, diagnostic, or real-world operational use** and should not be relied upon in any setting involving patient care or safety-critical decisions.
+
 # MedQA Emergency Medicine (EM) Filtering Pipeline
 
-Create a high-quality **Emergency Medicine–focused** subset of the MedQA USMLE test set using a single, validated classification script.
+Create a high-quality **Emergency Medicineâ€“focused** subset of the MedQA USMLE test set using a single, validated classification script.
 
 ---
 
@@ -29,13 +31,13 @@ This pipeline programmatically classifies questions from the official MedQA **US
 
 ## Validation Summary
 
-A board-certified Emergency Medicine physician manually reviewed a **30-question** sample from the initial run and found the GPT-4o classifications to be **highly accurate**. The full test set (˜1200 questions) was then processed, yielding **379** EM-relevant questions. *(See Outputs for file names.)*
+A board-certified Emergency Medicine physician manually reviewed a **30-question** sample from the initial run and found the GPT-4o classifications to be **highly accurate**. The full test set (Ëœ1200 questions) was then processed, yielding **379** EM-relevant questions. *(See Outputs for file names.)*
 
 ---
 
 ## Environment
 
-Use the **same Python virtual environment** as the other data pipelines (TBL, CRACKCast, SGEM). For shared setup (creating a venv, installing dependencies, configuring `OPENAI_API_KEY`), see the repository’s **common setup guide** (e.g., `raw_data/README.md`).
+Use the **same Python virtual environment** as the other data pipelines (TBL, CRACKCast, SGEM). For shared setup (creating a venv, installing dependencies, configuring `OPENAI_API_KEY`), see the repositoryâ€™s **common setup guide** (e.g., `raw_data/README.md`).
 
 ---
 
@@ -46,12 +48,12 @@ The script expects the MedQA dataset to be present under your project root, e.g.
 ```
 FOAMed-Meerkat-7B/
 +- dataset/
-¦  +- classify_and_split_medqa.py    # run this script from here
-¦  +- data_clean/
-¦     +- questions/
-¦        +- US/
-¦           +- test.jsonl            # input file (official MedQA test set)
-¦           +- ...
+Â¦  +- classify_and_split_medqa.py    # run this script from here
+Â¦  +- data_clean/
+Â¦     +- questions/
+Â¦        +- US/
+Â¦           +- test.jsonl            # input file (official MedQA test set)
+Â¦           +- ...
 +- (other project files)
 ```
 
@@ -95,6 +97,6 @@ The script automatically creates and places two `.jsonl` output files in their f
 
 ## Troubleshooting
 
-- **OPENAI_API_KEY not set:** Ensure it’s available to the current shell (PowerShell: `$env:OPENAI_API_KEY="..."`; bash: `export OPENAI_API_KEY="..."`).  
+- **OPENAI_API_KEY not set:** Ensure itâ€™s available to the current shell (PowerShell: `$env:OPENAI_API_KEY="..."`; bash: `export OPENAI_API_KEY="..."`).  
 - **Path errors for `test.jsonl`:** Confirm the input file path matches the expected layout.  
 - **Rate limits / API errors:** Add simple retry logic or throttle calls if needed; verify your model and billing configuration.
