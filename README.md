@@ -1,3 +1,5 @@
+> **Disclaimer:** All code, models, and outputs in this repository are intended **only** for research and educational purposes. They are **not validated for clinical, diagnostic, or real-world operational use** and should not be relied upon in any setting involving patient care or safety-critical decisions.
+
 ## Overview
 
 <p align="center">
@@ -6,11 +8,6 @@
 
 Welcome to **FOAMed-Meerkat-7B** — let’s get foamy!
 
-> **Disclaimer:** All code, models, and outputs in this repository are intended **only** for research and educational purposes. They are **not validated for clinical, diagnostic, or real-world operational use** and should not be relied upon in any setting involving patient care or safety-critical decisions.
-
-<p align="center">
-  <img src="assets/rag_overview.png" alt="RAG pipelines overview" width="800">
-</p>
 
 **Project aim.** FOAMed-Meerkat-7B evaluated whether a small language model (Meerkat-7B) can answer emergency-medicine MCQs more reliably using Retrieval-Augmented Generation (RAG). I built and compared several pipelines—naïve retrieval, cross-encoder reranking, step-back question generation, and sibling-chunk enrichment—on the EM-MedQA dataset derived from FOAMed sources. The repo includes reproducible code for vector-store creation and batched evaluation; raw data cleaning and EM-MedQA preparation (which involved GPT-4o assistance and some manual steps) are documented separately in `raw_data/` and `dataset/`.
 
