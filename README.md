@@ -1,6 +1,10 @@
 ## Overview
 
 <p align="center">
+  <img src="assets/meerkat_foam.png" alt="Dr. Meerkat with foam" width="300">
+</p>
+
+<p align="center">
   <!-- Put your image at assets/rag_overview.png (or change the path below) -->
   <img src="assets/rag_overview.png" alt="RAG pipelines overview" width="800">
 </p>
