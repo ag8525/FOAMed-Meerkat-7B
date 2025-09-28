@@ -1,3 +1,5 @@
+> **Disclaimer:** All code, models, and outputs in this repository are intended **only** for research purposes. They are **not validated for clinical, diagnostic, or real-world operational use** and should not be relied upon in any setting involving patient care or safety-critical 
+
 # Clinical Content Data Processing Pipelines
 
 Clean and standardize Emergency Medicine content from three sources into **Markdown** suitable for a clinical AI knowledge base and **Retrieval-Augmented Generation (RAG)** workflows.
@@ -19,7 +21,7 @@ This repository contains **three pipelines**, one per source:
 
 - **The Bottom Line (TBL):** Medical trial summaries scraped from the TBL website.  
 - **CRACKCast:** Show notes extracted from PDF files.  
-- **SGEM (Skeptics’ Guide to Emergency Medicine):** Show notes scraped from the SGEM website.
+- **SGEM (Skepticsâ€™ Guide to Emergency Medicine):** Show notes scraped from the SGEM website.
 
 Each pipeline has its own folder and README describing **inputs**, **script order**, and **outputs**.
 
@@ -98,7 +100,7 @@ setx OPENAI_API_KEY "your-api-key-here"
 
 ## Running the Pipelines
 
-Run the scripts **inside each folder** and follow that folder’s README for input preparation and script order:
+Run the scripts **inside each folder** and follow that folderâ€™s README for input preparation and script order:
 
 - `tbl/README.md`
 - `crackcast/README.md`
