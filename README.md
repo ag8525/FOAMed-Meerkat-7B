@@ -1,4 +1,4 @@
-> **Disclaimer:** All code, models, and outputs in this repository are intended **only** for research and educational purposes. They are **not validated for clinical, diagnostic, or real-world operational use** and should not be relied upon in any setting involving patient care or safety-critical decisions.
+> **Disclaimer:** All code, models, and outputs in this repository are intended **only** for research purposes. They are **not validated for clinical, diagnostic, or real-world operational use** and should not be relied upon in any setting involving patient care or safety-critical decisions.
 
 ## Overview
 
