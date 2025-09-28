@@ -1,0 +1,130 @@
+# Metadata
+- Source: The Bottom Line
+- Title: ANNEXA-I – Andexanet for Factor Xa Inhibitor–Associated ICH
+- Original URL: https://www.thebottomline.org.uk/summaries/icm/annexa-i/
+- Scrape Date: 2025-07-17
+- Summary Date: AUTO_FILL_IF_AVAILABLE
+
+Andexanet for Factor Xa Inhibitor–Associated Acute Intracerebral Hemorrhage
+Connolly. NEJM 2024.
+DOI: 10.1056/NEJMoa2313040
+Clinical Question
+In patients who have recently taken factor Xa inhibitors with an intracerebral haemorrhage (ICH) did the administration of Andexanet result in better haemostatic efficacy compared to standard care?
+Background
+Factor Xa inhibitors (such as apixaban or rivaroxaban) are widely used however ICH is a possible consequence of their use
+It is hypothesised that rapid reversal with Andexanet, a novel antidote to the effect of FXA inhibitors, in the case of ICH, may reduce risk of haematoma expansion and thus improve outcomes
+Conventionally,
+prothrombin complex concentrate (PCC) is used to reverse any effect
+of FXA inhibitors, as there are no specific antidotes such as Idarucizumab, which can be used for dabigatran reversal
+ANNEXA 4
+was a single arm study in patients with acute major bleeding, associated with factor Xa inhibitors, that andexanet markedly reduced anti–factor Xa activity, and 82% of patients had excellent or good hemostatic efficacy
+Design
+International, multi-centre RCT
+Unblinded, but the end points were adjudicated by a committee whose members were unaware of the patients’ group assignments
+Allocated in 1:1 ratio
+Randomisation stratified by intention to use PCC and according to the time from onset of symptoms to baseline imaging (< or > 180 minutes)
+Power calculation based on ANNEXA 4 study with 80% achieving haemostatic efficacy
+900 patients would have 90% power to show an absolute difference of 10% improvement in haemostatic efficacy
+Pre-specified rules for stopping: trial stopped at interim analysis of 452 patients for efficacy
+Primary outcome of haemostatic efficacy achieved if all the following criteria were met:
+a change in the hematoma volume of 20% or less (excellent hemostatic efficacy) or 35% or less (good hemostatic efficacy) within 12 hours after baseline
+an increase in the NIHSS score of less than 7 points at 12 hours
+no receipt of rescue therapies such as andexanet, prothrombin complex concentrate, or surgery to decompress the hematoma within 3 to 12 hours after randomization
+The between-group difference, P value, and 95% CI were calculated with the use of a Cochran–Mantel–Haenszel test stratified according to the time from symptom onset to the performance of the baseline imaging scan (<180 or ≥180 minutes)
+Written obtained consent from patient or proxy allowed to be deferred in certain situations
+Setting
+June 2019 – May 2023
+131 sites in 23 countries
+Population
+Inclusion
+:
+Taken a FXA inhibitor within 15 hours
+ICH
+Within 12 hours of symptoms to baseline imaging scan
+Randomisation within 2 hours of baseline imaging scan
+Protocol was amended and inclusion criteria tightened:
+Only patients with ICH (not subdural or subarachnoid) with an estimated volume of 0.5 – 60ml and a maximum score on the NIHSS of 35
+6 hours from symptoms to scan
+Exclusion
+:
+GCS < 7
+NIHSS > 35
+Surgery within 12 hours of enrollment
+Recent thrombotic event (within 2 weeks)
+550 patients randomised
+Unable to confirm emergency or deferred consent in 20 patients so data deleted
+530 included
+263 to andexanet
+267 usual care
+Only 452 of those that had been enrolled up until the interim analysis were included in the primary efficacy analysis, the additional 78 enrolled post interim analysis were only included in the safety analyses
+Baseline Characteristics:
+Intervention vs. Control Group
+Relatively balanced but some differences in location of haemorrhage
+Comparing Andexanet vs Usual Care
+Age: 79 vs 79
+Female: 42 vs 50%
+Cr Clearance < 30 ml/min: 5 vs 4%
+Xa inhibitor used:
+Apixaban: 63 vs 60%
+Rivaroxaban: 29 vs 29%
+Intracerebral hemorrhage: 88 vs 94% (those included before the protocol amendment could be included if SDH/SAH present)
+Preceded by trauma: 12 vs 15%
+AF: 90.2 vs 84.2%
+SBP: 161 vs 160 mmHg
+Median haematoma volume: 11 vs 9 ml
+Median GCS: 15 vs 15
+Median time from symptoms to scan: 2.3 vs 2.4 hours
+Median time from presentation to receipt: 2.1 vs 2.4 hours
+Intervention
+Andexanet
+Given at either high or low dose depending on dose of Xa inhibitor and time between last dose and initiation of Andexanet (Table S1)
+Bolus over 15-30 minutes followed by infusion over 2 hours
+58 patients received high dose and 200 patients received low dose
+Control
+Usual care
+Determined by local physicians and could include PCC
+230 received PCC (85.5%)
+Of those receiving PCC: 4 factor PCC was given in 92.4%, 3-factor PCC in 3.4%, and PCC or F-VIII bypass inhibitor in 4.2%
+Outcome
+Primary outcome
+:
+Comparing andexanet vs usual care groups
+Haemostatic Efficacy: 67 vs 53 %
+Adjusted difference 13.4% (95% CI 4.6 – 22.2, p = 0.003)
+This remained significant in extended population (i.e. including all 530 patients, Table S4)
+Post-hoc analysis
+mRS of 0 to 3 at 30 days
+69/246 (28.0%) in andexanet group vs 79/255 (31.0%) in usual care group
+Authors’ Conclusions
+In a trial involving patients with ICH who had taken a factor Xa inhibitor within the previous 15 hours, andexanet rapidly reduced anti–factor Xa activity and resulted in better control of hematoma expansion on a composite measure than usual care but was associated with thrombotic events
+Strengths
+International RCT
+Largely balanced baseline characteristics
+Minimal loss to follow up
+Minimal cross over
+9 patients either did or did not get andexanet
+Robust safety analysis
+Measurement of anti-FXa activity enhances biological plausibility of results (Table S6)
+Weaknesses
+Unblinded, although end points were adjudicated by a committee who were unaware of the patient’s group assignment
+The trial was not powered to detect mortality difference or functional outcome differences
+Although primary outcome did include some patient important components, these were all early (12 hours) and the only assessment of whether these translated to more meaningful longer-term outcomes was a post-hoc analysis
+Additionally, primary outcome largely driven by haematoma volume change – this may or may not be clinically important given small baseline volumes
+Authors note that in INTERACT trial each 1 ml of growth was associated with 5% higher chance of death or dependency at 90 days
+Trial was sponsored and funded by Portola (who provided drug free of charge) and two employees were involved in trial design
+Large numbers of protocol amendments including changes to eligibility criteria and primary and secondary endpoints
+Uncertain how this trial would apply to those with more severe ICH (lower GCS +/- larger haematomas) as excluded those with GCS < 7 and baseline haematoma volume ~10mls and GCS 15.
+Likewise, treatment administered rapidly so can’t be applied to patients who may have a longer duration to receive treatment such as those in more rural areas
+No documentation (apart from PCC administration) as to what usual care consisted of
+An economic analysis would be important given increased cost of andexanet compared to PCC
+The Bottom Line
+This trial demonstrates a reduction in ICH haematoma expansion; however, it provides no evidence of long-term benefits that are patient important. There is, however, evidence of harm, with increased rates of thrombotic events and ischemic strokes
+As such I do not think this trial provides enough evidence for me to use andexanet
+External Links
+article
+Andexanet for Factor Xa Inhibitor–Associated Acute Intracerebral Hemorrhage
+Metadata
+Summary author: George Walker @hgmwalker89
+Summary date: 9th July 2024
+Peer-review editor: Celia Bradford
+Picture by: Amel Uzunovic / Pexels

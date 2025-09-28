@@ -1,0 +1,12 @@
+# High-level libraries for web scraping, data processing, and AI interaction
+openai
+pandas
+playwright
+PyMuPDF
+pdf2image
+pytesseract
+beautifulsoup4
+markdownify
+requests
+pyyaml
+tqdm

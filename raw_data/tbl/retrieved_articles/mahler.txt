@@ -1,0 +1,118 @@
+# Metadata
+- Source: The Bottom Line
+- Title: Mahler
+- Original URL: https://www.thebottomline.org.uk/summaries/em/heart/
+- Scrape Date: 2025-07-17
+- Summary Date: AUTO_FILL_IF_AVAILABLE
+
+The HEART Pathway Randomised Trial. Identifying Emergency Department Patients With Acute Chest Pain for Early Discharge
+Mahler et al. Circulation Cardiovascular Outcomes 2015; 8:00-00. doi:10.1161/CIRCOUTCOMES.114.001384
+Clinical Question
+In patients presenting to the Emergency Department with chest pain, does the HEART Pathway compared with usual care, reduce objective cardiac testing?
+Design
+Randomised control trial
+Block randomisation stratified by the presence of known coronary artery disease
+Intention to treat analysis
+Patients randomised to the HEART pathway received a second HEART score assessment by a study investigator blinded to the initial physician score
+Consensus of 2 reviewers blinded to treatment arm adjudicated subjective outcomes with disagreement settled by consensus or involvement of 3rd reviewer
+Follow up at 30 days with telephone interview using a validated questionnaire. Patients with incomplete follow up considered to be free of 30 day major adverse cardiac outcomes (MACE)
+Convenience sample (data collected on 6 days per week, 80 hours).
+Power calculation: Powered at 90% to detect a 15% reduction in objective cardiac testing within 20 days, with expected loss to follow up rate of 10%, and a 2 sided alpha of 5%
+Setting
+Single centre, tertiary academic Emergency Department, USA.
+Data collected: 9/2012 to 2/2014.
+Population
+Inclusion criteria: >21 years old presenting with symptoms suggestive of acute coronary syndrome (ACS)
+Both an ECG and troponin were ordered for the evaluation of ACS
+Exclusion criteria: new ST elevation >1mm, hypotension, life expectancy <1 year, requiring admission for non-cardiac cause, previous enrolment, non English speaking
+282 patients randomized
+Comparing baseline characteristics of the HEART group vs. control group:
+Female: 57% vs. 57%
+Race:
+White: 64% vs. 66%
+Black: 34% vs. 33%
+Risk factors:
+Smoking: 30% vs. 24%
+Hypertension 53% vs. 58%
+Hyperlipidemia: 43% vs. 43%
+Diabetes mellitus: 22% vs. 19%
+TIMI risk score >1: 43% vs. 45%
+Previous coronary disease: 20% vs. 21%
+Intervention
+The HEART pathway (n=141)
+HEART score determined with serial Troponin measurements at 0 and 3 hours
+The
+HEART score
+is based on 5 components: history (clinical suspicion of cardiac sounding history), ECG, age, risk factors and troponin. Each component is assessed on a scale of 0-2 and then added to produce a final score
+47% (n=66) of patients had a HEART score <=3 and negative Troponins at 0 and 3 hours
+Classified as low risk and suitable for early discharge without further cardiac testing
+32% (n=21) of low risk patients went on to have objective cardiac testing within 30 days of whom 2 patients had a positive exercise stress echocardiogram. One of these presumed to be false positive result by cardiologist, the second had a negative coronary angiogram
+53% (n=75) of patients had a HEART score >3 +/or positive Troponin
+Classified as high risk and admitted/referred to cardiology
+79% went on to have objective cardiac testing within 30 days
+4 patients lost to 30 day follow up
+Control
+Usual care (n=141)
+Clinicians encouraged to follow American College of Cardiology guidelines recommending serial cardiac biomarkers and objective cardiac testing before discharge from hospital
+6 patients lost to 30 day follow up
+For both intervention and control groups:
+Serum Troponins were performed using the ADVIA Centaur platform TnI-Ultra high sensitivity troponin assay.
+Cardiac testing modalities routinely available included exercise stress echo, dobutamine stress echo, coronary CT angiogram, stress nuclear imaging, stress cardiac MRI or invasive coronary angiogram
+Care delivered/investigations performed at physicians discretion
+Outcomes
+Primary outcome: rate of objective cardiac testing (stress test, CT angiography or cardiac angiography) within 30 days
+Significantly reduced in the HEART pathway compared with usual care
+56.7% vs. 68.8%, absolute risk reduction 12.1%, p=0.048
+NNT = 9
+Fragility index = 1
+Secondary outcomes: comparing HEART pathway with standard care
+Early discharge rate (discharge from ED without objective cardiac testing) – significantly increase in HEART pathway
+39.7% vs. 18.4%, p<0.001
+Length of stay – significantly reduced in HEART pathway
+median 9.9 hours vs. 21.9 hours, p=0.013
+Cardiac related recurrent ED visits – no significant difference
+2.8% vs. 4.3%, p=0.75
+Cardiac related non-index hospitilisation – no significant difference
+3.6% vs. 2.8%, p>0.999
+MACE (defined by composite of all-cause mortality, myocardial infarction or coronary revascularisation within 30 days) – no significant difference
+5.7% vs. 6.4%, p=1
+Test characteristics of HEART pathway for determining MACE
+Sensitivity: 100% (95% C.I. 63.1-100)
+Specificity: 49.6% (95% C.I. 40.8-58.4)
++ve Likelihood Ratio 1.99
+-ve Likelihood Ratio 0 (No patients indexed as low risk by the HEART pathway had a MACE)
+Interobserver agreement of HEART score was acceptable, k=0.63
+Authors’ Conclusions
+Use of the HEART pathway significantly decreased objective cardiac testing, resulted in an early discharge rate of nearly 40% and cut median length of stay by 12 hours. No patients identified for early discharge had MACE at 30 days and the HEART pathway was not associated with increased cardiac-related return ED visits or non-index hospitalizations.
+Strengths
+Randomised control trial
+Clinically relevant question and endpoints investigated
+Pragmatic study that allowed provider discretion in adherence to the HEART pathway yet still analysed with an intention to treat method
+Registered with
+clinicaltrials.gov
+Weaknesses
+Single centre US study with small sample size
+Convenience sample rather than consecutive patients with no description of what times patients were eligible for enrolment.
+Study not powered to detect differences in MACE between groups
+Level of agreement for assessment of HEART score was only 0.63
+Loss to follow up of 4% of patients
+Fragility index of 1 indicates that although statistically significant the difference between groups in relation to the primary endpoint was very small.
+A large proportion of patients across the trial received objective cardiac testing (68% in the usual care group) and this may not be reflective of UK practice in which low risk patients are probably less likely to receive objective cardiac testing.
+The Bottom Line
+The results of this study show that the HEART pathway may provide a useful risk stratification tool for assessing patients with potential acute coronary syndromes in the emergency department. There was a reduction in objective cardiac testing and length of stay while maintaining a very low risk of missing significant cardiac events. However before I start adopting the pathway in my practice I would like to see further larger studies looking at its use in a UK population.
+External Links
+[article]
+The HEART Pathway Randomized Trial Identifying Emergency Department Patients With Acute Chest Pain for Early Discharge
+[further reading]
+The original HEART score article with a description of how points are scored
+[further reading]
+MD Calc: HEART Score Calculator
+[further reading]
+R.E.B.E.L.EM: Is it Time to Start Using the HEART Pathway in the Emergency Department?
+[further reading]
+The SGEM: Groove is in the HEART Pathway
+Metadata
+Summary author: Ben Short
+Summary date: 25th November 2016
+Peer-review editor:
+@davidslessor

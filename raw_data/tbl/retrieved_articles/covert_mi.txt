@@ -1,0 +1,189 @@
+# Metadata
+- Source: The Bottom Line
+- Title: COVERT MI
+- Original URL: https://www.thebottomline.org.uk/summaries/covert-mi/
+- Scrape Date: 2025-07-17
+- Summary Date: AUTO_FILL_IF_AVAILABLE
+
+Effect of Colchicine on Myocardial Injury in acute Myocardial Infarction
+@mewton_nathan
+. Circulation. 2021 DOI: 10.1161/CIRCULATIONAHA.121.056177
+Clinical Question
+In patients who present with an acute STEMI  and are referred for percutaneous coronary intervention (PCI), does colchicine in comparsion with placebo reduce myocardial injury?
+Background
+The race is on to find an anti inflammatory to help reduce impact/risks of acute cardiac events, with negative trials involving methotrexate and monoclonal antibodies along with mixed reports with cyclosporine to date
+Colchicine, originally extracted from the autumn crocus has been used for its potent anti inflammatory effects for centuries
+Modern day use includes inflammatory conditions such as gout and pericarditis
+Looking for a potential role for colchicine in MIs is not new, given inflammation plays an important role in athersclerosis
+LoDoCo2 and CALCOT studies suggest that long term low dose colchicine given daily to those with stable IHD or a MI in preceding month reduces the risk of future acute myocardial infarction/death from cardiovascular causes.
+Despite this, prolonged use is suggested to increase rates of other infections and non cardiovascular mortality
+Inflammation is also thought to play an important role in myocardial reperfusion injury that starts in the first minutes post MI. This peaks in the first few days
+Colchicine, given acutely at the time of reperfusion at a high dose and short term could potentially be advantageous
+Design
+Investigator initiated, randomised double blinded placebo control trial
+Multicenter
+Eligible patients were randomised to receive colchicine or placebo
+1:1 ratio
+permuted blocks
+stratified by centre and by culprit coronary artery
+centralised computerised randomisation
+Sample size of 194 patients to
+provide 80% power to detect 30% reduction in experimental group
+2 sided alpha of 5%
+anticipating a 15% dropout rate
+ITT principle
+Subgroup analysis of primary outcome by:
+Age ( <70 or = and > 70)
+Sex
+Diabetes
+Multivessel disease status
+Time from symptom onset to hospital admission
+Type of culprit artery
+eGFR
+Myocardial area at risk size
+Registered on
+clincialtrials.gov
+Setting
+10 tertiary referral centres in France
+July 2018- July 2020
+Population
+Inclusion
+:
+>18 and <80yr olds
+First time STEMI
+Admitted for a primary or rescue PCI
+Infarct related artery had to be occluded at the time of initial angiography, based on Thrombosis in Myocardial Infarction (TIMI) flow 0 or 1
+Presentation within 12 hours of chest pain onset
+Exclusion
+:
+Haemodynamic instability
+Contraindications to cardiac MRI (CMR)
+claustrophobia
+defibrillator/pacemaker
+hypersensitivities to gadoteric acid or gadolinium contrast agents or meglumine
+Severe liver or renal failure ( eGFR<31)
+Chronic colchicine treatment
+No health insurance coverage
+Estimated 1200 assessed for eligibility, 195 underwent randomisation, (103 in colchicine and 92 in placebo); 31 of these patients were excluded and not included in primary analysis
+Baseline characteristics, generally equal apart from slight imbalance with dislipidaemia.
+Colchicine vs placebo:
+Age (mean) 59.0 vs 60.9
+Female  20.8% vs 18.7%
+BMI (mean) 27.3 vs 26.9
+Current smoker 43.6% vs 42.9%
+Diabetes 11.9% vs 14.3 %
+HTN 29.7% vs 31.9%
+Dyslipidaemia 28.7% vs 37.4%
+PMHx IHD 3% vs 3.3%
+PMHx HF 1% vs 1.1%
+Kilip class 1 at admission 92.8% vs 89.4%
+Systolic BP at admission (mean) 136 vs 139
+Heart rate (mean) 77 vs 77
+eGFR mLmin  93.8 (+/-16.6) vs 89.2 (+/- 30.4)
+Blood glucose mmol/L 8.8 vs 9.1
+CRP mg/L( median) 3 vs 3
+Hb g/L 146.2 vs 142.8
+Other variables in management that could act as confounders were also balanced between groups, including:
+Time from symptom onset to catheterisation lab admission
+Size of angiographic area of risk
+Infarct location- anterior vs non anterior territories
+Rescue PCI after thrombolysis
+Pharmacological treatment on discharge
+Intervention
+Colchicine for 5 days
+2mg loading
+0.5mg BD for 5 days
+To be given as close a possible to PCI
+Recommended to be given prior
+If not, immediately after
+Reduce to 0.5mg OD or early discontinuation if needed for side effects:
+GI symptoms
+Decline in eGFR/RCC/WCC
+Control
+Placebo
+Same colour size and packaging as colchicine
+Same regime as above
+Management common to both groups
+Standard care in terms of revasculariation procedures/medications according to European Society Cardiology Guidelines
+Remained in hospital as long as clinically indicated
+Assessments made:
+At enrolment
+Day 1
+Day 2
+Hospital discharge
+3 months
+CMR with IV gadolinium carried out on:
+Day 5
+3month follow up
+Outcome
+Primary outcome
+: Infarct size (IS) in grams of left ventricular mass assessed by late gadalinium enhancement CMR at 5 days – no significant difference between groups
+Colchicine vs placebo
+mean 26.0g (IQR 16.0-44.0) vs 28.4g (IQR 14.0-40.0)
+p=0.87
+Secondary outcomes
+: No significant differences between outcomes apart from the rate of thrombus at 5 days in colchicine arm (colchicine vs placebo):
+LV ejection fraction at 5 days by CMR
+LV ejection fraction at 3 months
+LV end diastolic volume at 3 months
+LV  thrombus frequency at the acute phase or during follow up
+22% vs 7.4% in acute phase (p=0.01)
+5.3% vs 2.6% on CMR at 3 month follow up (p=0.68)
+None of these patients were the 3 that developed ischaemic strokes noted on follow up
+Serious adverse events at 3months
+Major adverse cardiovascular events at discharge, 3months and 1year
+QoL measured at 12months
+Markers of inflammation during acute phase
+Subgroup analysis done on primary outcome showed no significant differences other than for sex, suggesting smaller IS in women treated with colchicine (mean 19.5g vs 30g) This should be taken with caution given small number of women enrolled (19.7% overall)
+Significant positive relationship between IS and angiographic area of risk, larger in colchicine group than placebo group. The data suggests for the largest areas at risk, colchicine was associated with a larger resulting IS.
+Authors’ Conclusions
+In patients with a first episode of STEMI and occluded culprit coronary artery, high dose colchicine given orally at the time of reperfusion for a short period did  not reduce myocardial damage induced by ischaemia reperfusion injury compared with placebo
+Strengths
+Multicentre
+Stratified by culprit vessel thus equivalent proportion of left anterior descending artery
+Person reporting CMR blinded to patient’s clinical status/study arm
+Only patients with confirmed occlusive MIs (OMIs) at the time of angiography (ie not ECG criteria alone) completed enrolment ensuring accurate inclusion
+Only one patient didn’t have TIMI 2 flow achieved after PCI (in placebo arm), again illustrating that patients selected were appropriate for the hypothesis
+Only short delays to study drug administration
+20mins median time in colchicine vs 13mins in placebo
+Weaknesses
+Unclear breakdown of the approx 1000 patients that where assessed for eligibility but not randomised
+Power calculation based on a pilot study (Deftereos et al) in Greece that had a smaller baseline control infarct size, excluded left main and left circumflex coronary. The pilot study also had 10% higher female patients and an unhealthier population ( higher rates of smoking dyslipidaemia HTN and diabetes). Possible that this resulted in underpowering the study in this cohort
+ITT was modified as a result of 1.5% having an error during the randomisation process which resulted in exclusion, unlikely to solely have a significant impact
+Blinding difficult given dose reductions only likely to occur in intervention arm
+GI side effects 34.4% in colchicine vs 10.1% placebo (P=0.0001)
+Ideal to have a second person reporting CMR to ensure rater reliability
+Unbalanced exclusions of 11% in placebo vs 21% in colchicine arm.
+Overall this is also more than the anticipated 15% thus at risk of underpowering study
+0% in placebo vs 5% in colchicine actively withdrew consent
+Only 78.6% of patients had CMRs done at 3months that were analysable
+74.2% in colchicine vs 83.5% in placebo thus at risk of attrition bias
+Given reperfusion injury starts in the first few mins, median time of oral administration was 20 and 13mins respectively
+Colchicine has a mean peak plasma concentration of up to 2hours
+MIs may also slow gut absorption
+Both of these may have impacted potential efficacy results but given no other mode of administration, this study reflects “real world” effectiveness
+External Validity may be questionable based on
+Study only in France
+Only patients with health insurance cover were included
+No breakdown of ethnicity
+All silent STEMIs excluded thus potentially excluding a big group of patients that may commonly present in some countries e.g advanced diabetics, elderly etc
+Factors that may affect the accessibility of patients with STEMI to a tertiary centre in France?
+Difficult to know the demographics of the patients that never made it to tertiary centre/missed STEMIs
+Median time from symptom onset to lab admission 2.9hrs, likely to be longer in some countries
+Primary outcome was not patient centred
+The Bottom Line
+In patients presenting to my department with a STEMI, my acute management will not currently involve colchicine
+The exact pathophysiology of reperfusion injury and mechanism in which colchicine may potentially create a protective atmosphere for cardiac tissue against it, may be more complex than predicted. As a result there are differing outcomes here compared to the pilot study on more comorbid patients in Greece with smaller infarcts. Mewton et al have attempted to mitigate any confounders including infarct size here with a strong methodology, however this study has given us more questions on the topic rather than answers
+Further studies including looking at exact indications, dosage and timings may change my opinion in the future
+COPE PCI has recently completed a promising pilot study which could help answer some of these questions
+External Links
+[article]
+COVERT MI
+[further reading]
+Anti-Inflammatory Treatment With Colchicine in Acute Myocardial Infarction A Pilot Study.
+[further reading]
+COPE PCI pilot
+Metadata
+Summary author: Halah Zareian @dochz
+Summary date:20th September 2021
+Peer-review editor: david slessor

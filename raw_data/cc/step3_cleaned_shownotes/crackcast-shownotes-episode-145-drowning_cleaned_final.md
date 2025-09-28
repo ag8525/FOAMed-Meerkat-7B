@@ -1,0 +1,203 @@
+```yaml
+title: "CrackCast Episode 145: Drowning"
+url: "https://canadiem.org/crackcast"
+date: 2018-01
+source: "CanadiEM – CrackCast"
+original_file: "CrackCast-Shownotes-Episode-145-Drowning.pdf"
+summary: |
+  Drowning is a significant cause of mortality, particularly in lower-income countries, and involves respiratory impairment due to submersion in liquid. Key management includes pulmonary and neurologic support, with no reliable prognostic indicators for long-term outcomes. Critical management steps involve immediate CPR with rescue breaths, rewarming to 34°C, and avoiding interventions like steroids or hyperventilation, which do not improve outcomes. Risk factors include young age, lack of supervision, and pre-existing conditions like seizure disorders. Complications can include neurologic injury, renal impairment, and cardiac dysrhythmias. The diving reflex may offer some protection by shunting blood to vital organs during submersion.
+```
+
+## Overview
+
+### Key Concepts
+
+- Drowning is a leading cause of death and loss of years of life, with over 90% of cases occurring in lower- and middle-income countries.
+- All significant drownings induce pulmonary injury and hypoxia by the amount of water aspirated and the duration of submersion.
+- Pulmonary and neurologic support is essential to optimize the victim’s chance of a favorable outcome from this hypoxic event.
+- Electroencephalography may be indicated in obtunded drowning victims to assess for subclinical seizures.
+- No prognostic scale or clinical presentation accurately predicts long-term neurologic outcome; normal neurologic recovery is documented in patients with prolonged submersions, persistent coma, cardiovascular instability, and fixed and dilated pupils.
+- Hyperventilation, steroids, dehydration, barbiturate coma, and neuromuscular blockade do not improve outcome after resuscitation.
+- Comatose patients who have been resuscitated after reasonable submersion time regardless of rhythm should not be rewarmed above 34°C.
+
+### Rosens in Perspective
+
+Traditionally, the terminology describing drowning injuries has been confusing and impractical.
+
+- There are other terms historically thrown around which may still be lingering:
+  - Drowning
+  - Secondary drowning
+  - Wet Non-fatal drowning
+  - Near-drowning
+  - Dry Drowning – A period of asphyxia due to laryngospasm
+  - Salt water drowning
+  - Fresh water drowning
+
+In the past, drowning referred to death within 24 hours of suffocation from submersion in a liquid, whereas near-drowning described victims who survived at least 24 hours past the initial event regardless of the outcome.
+
+Thankfully, in 2005 the World Health Organization (WHO) published a new policy defining drowning to clarify documentation and to better track drowning injuries worldwide. Drowning was defined as “the process of experiencing respiratory impairment from submersion/immersion in liquid.”
+
+Since that time, working groups have developed Utstein definitions to promote consistent international reporting and research.
+
+Furthermore, the WHO policy states, “Drowning outcomes should be classified as: death, morbidity, and no morbidity; the terms wet, dry, active, passive, silent, and secondary drowning should no longer be used.” The term near-drowning should not be used, and the association of the term drowning with a fatal outcome should be abandoned.
+
+According to the Utstein guidelines, drowning refers to: "A process resulting in primary respiratory impairment from submersion or immersion in a liquid medium."
+
+Apparently, 40 people die per hour from drowning - most are children less than 5 years old.
+
+## Core Questions
+
+### 1) List risk factors for drowning
+
+Risk factors:
+
+- Toddlers
+- Elderly (>75) (Hurricane Katrina deaths)
+- Boys
+- American Indian and Alaska Native
+- Seizure disorder
+- Autism or developmental disorders
+- Prolonged QT syndrome (immersion syndrome) or other cardiac mutations
+- Hypothermia
+- Hyperventilation before a shallow dive
+- Concomitant trauma, stroke, or myocardial infarction
+- No adult supervision
+- Risk-taking behavior
+- Summer months, on weekends, water sports
+- ETOH intake or drug intake
+- Inexperienced swimmers and very experienced swimmers
+
+### 2) List 5 variables that portend poor outcome
+
+List from Rosen’s:
+
+- Age
+  - Very young LESS than 3 YEARS OLD (increased risk for hypothermia and more metabolic demands)
+  - Very old (comorbidities)
+- Water temperature
+  - Cold-water immersion speeds the development of exhaustion, altered consciousness, and cardiac dysrhythmia.
+- Duration and degree of hypothermia
+- Lack of diving reflex
+- Ineffective response to resuscitation efforts
+- Drug and alcohol use (cited in PMID 24607870)
+
+The list from Uptodate and Rosen’s:
+
+- Duration of submersion >5 minutes (most critical factor)
+- Time to effective basic life support >10 minutes
+- Resuscitation duration >25 minutes
+- Age >14 years
+- Glasgow coma scale <5 (i.e., comatose)
+- Persistent apnea and requirement of cardiopulmonary resuscitation in the emergency department
+- Arterial blood pH <7.1 upon presentation
+
+Break it down into:
+
+- Event factors (duration, time to BLS)
+- Patient factors (age (older), drug and ETOH use, comorbidities)
+- Clinical factors (hypothermia, long resuscitation duration, low GCS, ongoing cardio/pulmonary arrest (especially asystole), low pH, unreactive pupils)
+
+Neurologically intact survival is reported for individual patients even with several of these factors present; none of several proposed scoring systems using combinations of these variables has 100% predictive power. Children who present with an abnormal head computed tomography (CT) scan (e.g., intracranial bleed, cerebral edema) within the first 24 hours have a nearly 100% mortality rate. Furthermore, an abnormal head CT scan at any time is associated with poor outcome (death or persistent vegetative state). Adverse neurologic findings on initial presentation do not preclude full neurologic recovery, although in general, patients whose duration of submersion or resuscitation exceeds 10 minutes have an unfavorable outcome. Unfortunately, in reality, we never really know these details accurately when that resuscitation rolls through the doors...
+
+### 3) Describe the diving reflex
+
+The diving reflex may also play a protective role in infant and child submersions. Activation of the diving reflex by fear or immersion of the face in cold water shunts blood centrally to the heart and brain. Apnea and bradycardia ensue, prolonging the duration of submersion tolerated without central nervous system (CNS) damage. The proposed protective effect of cold water immersion was unfortunately not seen in a study of 1094 drowning victims of all ages, where water temperature had no correlation.
+
+### 4) Describe the management of a drowning patient with respiratory distress
+
+...if you’re on scene proceed with wilderness medicine principles* then initiate basic life support (get out of the water, start CPR when on a solid surface, only immobilize C-spines if: fall from a height, diving into shallow water, signs of trauma, motorized vehicle collision)
+
+- Note that the priorities of CPR in the drowning victim differ from those in the typical adult cardiac arrest patient, which emphasize immediate uninterrupted chest compressions. If the patient does not respond to the delivery of two rescue breaths that make the chest rise, the rescuer should immediately begin performing high-quality chest compressions. CPR, including the application of an automated external defibrillator, is then performed according to standard guidelines. - Uptodate
+- Check for that pulse in hypothermic patients for at least 1 minute!
+
+Assuming you’re in the hospital:
+
+1. If you have time - brief your team on what you know
+   - Expected injuries
+   - Expected management priorities
+   - What to do if the patient deteriorates
+
+2. MOVIE!
+   - Goal SpO2 > 94%
+
+3. ABC vs. H+P patient
+   - Resuscitate → consider whether this is a medical or a trauma resus!
+     - Circulation
+       - Start CPR!
+       - Core temp
+         - Rewarming only up to 34°C followed by a 24-hour mild hypothermic treatment before normothermia is reached may be advantageous because of decreased pulmonary reperfusion injury and reduced secondary brain injury. Emerging resuscitation literature indicates an emerging role for therapeutic hypothermia in drowning victims.
+     - Airway
+       - Know that a lot of water can be swallowed, so consider decompressing with an NG prior to excessive bagging!
+         - Aspiration of gastric contents greatly compounds the degree of pulmonary injury and increases the risk of ARDS
+     - Breathing
+       - Look for signs of pulmonary injury - hypoxia, cyanosis, resp. Distress
+         - Rhonchi, wheezes, rales → things may be getting worse!
+     - Disability
+       - Cerebral focused resuscitation
+         - Avoid the killers!
+       - Injury of the cervical spine is not common in patients with submersion injuries, but precautions should be taken if there is a concerning history (e.g., dive into shallow water) or signs of injury.
+
+   - If you have time:
+
+     - Get a full SAMPLE history and event details
+     - Assess
+       - Consider what precipitated this drowning:
+         - drug or ethanol intoxication, cardiac arrest, hypoglycemia, seizure, and attempted suicide or homicide, NAT, C-spine injuries
+     - Workup
+     - Admit or treat and street!
+       - Asymptomatic patients should probably be observed for 6-8 hours to watch for delayed pulmonary injury (follow vital signs, follow clinical exam and consider repeat CXR prior to d/c)
+
+Note what is NOT above (i.e. no evidence for it!)
+
+- Steroids
+- Diuresis
+- Empirical antibiotics (unless in grossly contaminated water or signs of infection)
+
+Additional workup:
+
+- ABG
+- Labs with renal function
+- ECG (QTC!)
+- CXR (with repeat testing in a few hours if signs of pulmonary involvement on exam or vital signs)
+- Consider getting that CT head (and maybe C-spine) if the patient is stable to look for any pre-existing bleed, trauma, or cerebral edema (this may help our ICU colleagues prognosticate in 24 hrs)
+
+Victims with CNS injury may present with symptoms ranging from mild lethargy to coma with fixed and dilated pupils. CNS injury results from the initial hypoxic or ischemic insult and from the cascade of reperfusion injury that follows reestablishment of cerebral blood flow after an arrest. The release of inflammatory mediators and the generation of oxygen free radicals in the post-resuscitation period contribute to cytotoxic cerebral edema, compromise of the blood-brain barrier, and increased intracranial pressure.
+
+Cardiac dysrhythmias may incite drowning or develop as its consequence. Hypoxemia, acidosis, and, potentially, hypothermia are the primary factors responsible for dysrhythmias ranging from ventricular tachycardia and fibrillation to bradycardia asystole.
+
+Electrolyte disturbances are rarely significant enough to be dysrhythmogenic.
+
+Other clinical sequelae of drowning may include acute renal impairment, which is present on admission in approximately 50% of patients as the result of lactic acidosis; prolonged hypoperfusion; and, in some instances, rhabdomyolysis. Coagulopathy as a consequence of associated hypothermia or disseminated intravascular coagulation (DIC) may also occur.
+
+### 5) Discuss the indications for rewarming the drowning patient. To what temperature do we warm to?
+
+No consensus exists with regard to the appropriate length of resuscitative effort for hypothermic drowning victims in the ED.
+
+The safest parameter is to continue until the core temperature reaches at least 32°C to 35°C, because cerebral death cannot be diagnosed accurately in hypothermic patients with temperatures below this level. This parameter may not always be practical, however, because brain-dead patients are often poikilothermic.
+
+### 6) What are late complications of drowning?
+
+- Secondary neurologic injury - ischemia, cerebral edema, seizures
+- Hypovolemia - due to cold diuresis
+- Rhabdomyolysis
+- Renal impairment
+- Aspiration pneumonitis
+- Respiratory infection
+- Hypoxic cardiomyopathy
+- PTSD
+
+## Wisecracks
+
+### 1) What is immersion syndrome?
+
+Immersion syndrome refers specifically to syncope resulting from cardiac dysrhythmias on sudden contact with water that is at least 5°C lower than body temperature. The risk is proportional to the difference between body temperature and water temperature.
+
+Wetting of the face and head before entrance into the water may prevent the inciting sequence of events. Mechanisms for the syndrome are vagal stimulation leading to asystole and ventricular fibrillation secondary to QT prolongation after a massive release of catecholamines on contact with cold water. The resultant loss of consciousness leads to secondary drowning.
+
+Undetected primary cardiac arrhythmia (may be a more common cause of drowning than generally appreciated). As an example, cold water immersion and exercise can cause fatal arrhythmias in patients with the congenital long QT syndrome type 1. Similarly, mutations in the cardiac ryanodine receptor (RyR)-2 gene, which is associated with familial polymorphic VT in the absence of structural heart disease or QT prolongation, have been identified in some individuals with unexplained drowning. - Uptodate
+
+## References
+
+- [CanadiEM – CrackCast](https://canadiem.org/crackcast)
+- https://movewild.wordpress.com/2017/02/01/basic-wilderness-med-concepts/
+```

@@ -1,0 +1,287 @@
+# Metadata
+- topic: 1.1 - Critical Management Principles - 8 Brain Resus
+- source_folder: 1.1 - Critical Management Principles
+- original_file: Ch.8 Brain Resus.pdf
+
+Crack Cast Show Notes – Brain Resuscitation – Feb 2016 
+www.crackcast.org 
+ 
+CrackCast Episode 8 – Brain Resuscitation 
+ 
+Episode Overview: 
+ 
+1) Describe 6 therapeutic interventions for the post-arrest brain 
+2) List 5 techniques for initiating therapeutic hypothermia 
+3) List 4 mechanisms of therapeutic hypothermia in improving neurologic outcome 
+ 
+Wisecracks: 
+1) What components make up cerebral blood flow and CPP? 
+2) (shownotes only) Essential Evidence: Target Temperature Management at 330C vs 360C 
+after Cardiac Arrest (Nielsen et al., 2013) 
+ 
+Rosen’s in Perspective – Why Cerebral Resuscitation? 
+ 
+We frequently see post-cardiac arrest patients in the ED  
+ 
+prognostic significance of immediate post-ROSC period is limited 
+ 
+no laboratory or clinical predictors exist (yet) for the ED physician to make accurate 
+predictions on who will survive and who will not 
+○ each patient should be given a chance of recovery  
+ 
+In any shock state (see episode 6) we know that cerebral blood flow is often compromised 
+ 
+cerebral resuscitation is just as important as cardiac resuscitation 
+ 
+post-ischemic encephalopathy is a huge contributor to poor outcomes after ROSC 
+ 
+deprivation of blood flow leads to neuronal cell death in minutes of ischemia 
+ 
+re-perfusion injury also contributor to negative sequelae 
+ 
+Rosen’s thinks this topic is important enough to include complex figures in the textbook: 
+ 
+ 
+decreased cerebral blood flow (CBF) -- > cellular hypoxia -- > inability to produce ATP --> 
+(impairment of the ATPase pump leads to) excess intracellular Na+ ---> cytotoxic edema 
+--> excess Ca+ and GABA release --> metabolic failure --> oxygen radical formation --> 
+DNA damage/apoptosis/membrane degradation/cytoskeleton destruction --> membrane 
+attack complexes --> demargination / proteases --> increased cerebrovascular resistance 
+which leads to more decreases in cerebral blood flow 
+ 
+Let’s bring it back to the clinically relevant points. 
+ 
+ 
+1) Describe 6 therapeutic interventions for the post-arrest brain 
+ 
+Goal of therapeutic interventions are two-fold: 
+Crack Cast Show Notes – Brain Resuscitation – Feb 2016 
+www.crackcast.org 
+1) restore cerebral blood flow 
+2) prevent secondary injury 
+ 
+Standard Strategies: 
+ 
+For anyone still in cardiac arrest our first goal is ROSC 
+ 
+good quality CPR is vital to ROSC (good depth, speed, and minimize interuptions) – 
+inverse correlation between brain survival and CPR time 
+ 
+After we have achieved ROSC, a nice way to think about the post arrest brain is ““keep their 
+vitals and ABG in the normal range and keep their brain asleep” 
+ 
+General Goals: 
+1) avoid hypotension: MAP > 65 mmHg 
+2) avoid hypertension: diastolic < 120 mmHg 
+3) avoid hypoxia or hyperoxia 
+4) avoid hyper/hypocarbia 
+5) maintain euthermia (avoid fever/spikes in temperature) 
+6) maintain euglycemia 
+7) consider therapeutic hypothermia 
+8) aggressively treat seizures 
+9) supportive and IMPORTANT care  
+a) head in neutral position 
+b) collar LOOSELY applied if C spine injured (avoid impeding head’s venous 
+drainage) 
+c) prevent Valsalva (coughing/gagging) 
+d) avoid unnecessary stimulation and noisy environment 
+e) sedate and paralyze (consider EEG for subclinical SE) 
+ 
+Specific Management Strategies: 
+ 
+Treatment of hypotension, hypoperfusion, and hypoxia  
+ 
+the injured brain loses its ability to auto-regulate 
+○ Keep MAP > 65 and diastolic BP < 120 
+ 
+avoid inadvertent hyperventilation unless patient is imminently herniating 
+○ PaCO2 = 35-45 
+ 
+avoid hypoxia and hyperoxia 
+○ PaO2: 80-120 (18% higher mortality when PaO2 =300 for long periods) 
+ 
+Maintenance of body temperature 
+ 
+fever is damaging to the brain (increases metabolic demand 10% per degree C) 
+ 
+monitor core body temp: rectal, esophageal, bladder or vaginal  
+ 
+temp managed with antipyretics, cooling with fans +/- misting, commercial cooling 
+devices 
+Crack Cast Show Notes – Brain Resuscitation – Feb 2016 
+www.crackcast.org 
+ 
+What about resuscitative mild hypothermia? 
+ 
+stay tuned for question 3 but no clear mechanism  
+ 
+Treatment of HYPERglycemia 
+ 
+profound hyperglycemia leads to increased cellular pH, increased brain lactate, and 
+  
+increased neuronal loss 
+ 
+cautiously use insulin for high sugars 
+ 
+Seizure management 
+ 
+seizures increase brain metabolism by 400% 
+o increases oxygen delivery / demand mismatch 
+ 
+no evidence to support seizure prophylaxis, but if they occur need rapid treatment 
+ 
+treatment 
+o benzos, phenytoin, barbiturates 
+ 
+Immobilization/Sedation/Head position 
+ 
+appropriate sedation and paralysis can prevent brain stimulation  
+ 
+ensure quiet environment 
+ 
+preventing coughing, unnecessary suctioning, neck compression 
+ 
+ensure neck in neutral position 
+ 
+It all comes back to keeping the patient’s values NORMAL! 
+ 
+ 
+2) List 5 techniques for initiating therapeutic hypothermia 
+ 
+1) Cold saline infusion 
+2) Misting and fans 
+3) Ice packs in the groin and axilla 
+4) Cooling blankets (commercial cooling devices) 
+5) Internal cooling (bladder irrigation, chest tubes, ECMO) 
+ 
+Why care? The reported NNT for a good neurologic outcome is 7 (from Rosen’s) 
+ 
+The most recent edition of Rosen’s quotes the 2010 American and European guidelines for out 
+of hospital cardiac arrest (VF) 
+ 
+target temperature was 330C for 12-24 hrs 
+ 
+ideally begun in the ED after ROSC achieved 
+ 
+insert esophageal probe 
+ 
+2 L of cold saline 
+ 
+expose patient 
+ 
+avoid hypotension or hypoxia / do NOT delay PCI if needed 
+Crack Cast Show Notes – Brain Resuscitation – Feb 2016 
+www.crackcast.org 
+ 
+pharmacologic prevention of shivering: 
+ 
+paralytic, sedation, fentanyl 
+ 
+The new 2015 AHA guidelines suggest targeted therapy management between 32-360C for 24 
+hours with prognostication at 72 hours post arrest or post cooling.  
+This does not apply to other types of brain injury. Cooling for adults/children with TBI and acute 
+ischemic stroke have shown NO benefits from therapeutic hypothermia 
+ 
+3) List 4 mechanisms of therapeutic hypothermia in improving neurologic 
+outcome 
+ 
+No clear mechanism known; however, Rosen’s suggests 4: 
+1) decreases metabolic demand 
+2) decreases free radical formation 
+3) decreases production of inflammatory cytokines 
+4) prevents programmed neuronal cell death 
+ 
+ 
+Summary: key take home points 
+ 
+Bottom line: 
+ 
+initially comatose state in ER does not always mean bad long term outcome! Give 
+everyone the best chance of recovery 
+ 
+Prevent: 
+o hypotension, hypoperfusion, hypoxia 
+o hyperthermia, hyperglycemia 
+o seizures/coughing/vasalva  
+o body/head/neck positions that increase ICP 
+ 
+Wisecracks: 
+ 
+1) What components make up cerebral blood flow and CPP? 
+ 
+The graph below should be burned into your cerebral cortex!! 
+Crack Cast Show Notes – Brain Resuscitation – Feb 2016 
+www.crackcast.org 
+Taken from http://journals.lww.com/anesthesia-
+analgesia/Fulltext/2008/09000/Cerebral_Perfusion_Pressure_in_Neurotrauma__A.45.aspx 
+ 
+any change in BP between 50-150 mmHg doesn’t increase the cerebral blood flow 
+because your brain is able to AUTOREGULATE the size of the cerebral blood vessels.  
+ 
+after 150 mmHg the brain is maximally vasoconstricted and the cerebral blood flow 
+spikes upwards again 
+ 
+ideally we should keep the injured brain in 50-150mmHg sweet spot – ideally more than 
+100mmHg and less than 150mmHg 
+ 
+Some equations:  
+ 
+Cerebral Perfusion Pressure (CPP) = MAP – ICP or CVP (whichever is highest) 
+ 
+Cerebral Blood Flow (CBF) = CPP/CVR (Cerebral Vascular Resistance) 
+ 
+Brain Trauma Foundation support a CPP of 50-70mmHg in patients with severe traumatic brain 
+injury (this is usually calculated for patients once in the neuro-ICU) 
+ 
+Note: this is a gross oversimplification of a complicated fellowship topic. The key take home 
+point is that we need to do whatever we can to protect the injured brain because it does a finite 
+ability to auto-regulate!   
+ 
+2) Wisecracks Essential Evidence: Target Temperature Management at 
+330C versus 360C after Cardiac Arrest (Nielsen et al. 2013) 
+ 
+Worldwide, Nielsen et al.’s TTM study has been a practice changing multi-center randomized 
+controlled trial comparing targeted 330C vs 360C temperature management for post-cardiac 
+arrest patients. See original paper below: 
+ 
+Crack Cast Show Notes – Brain Resuscitation – Feb 2016 
+www.crackcast.org 
+http://www.nejm.org/doi/full/10.1056/NEJMoa1310519 
+ 
+Quick overview: 
+ 
+- Very well executed/designed multi-center randomized controlled trial based out of Europe and 
+Australia  
+- n = 939 (see original paper for full inclusion/exclusion criteria) BUT patients with an 
+unwitnessed arrest with initial rhythm of asystole were excluded. Thus, this study looked mainly 
+at post-VF arrest patients and thus the generalizability to other initial rhythms can be debated.  
+- modified intention-to-treat analysis 
+- No difference in primary outcome of mortality at 180 days  
+- 50% for 330C 
+- 48% for 360C  
+- hazard ratio for T33°C, 1.06; 95%CI 0.89-1.28; P=0.51 
+- No difference in secondary outcome of neurological performance (cerebral performance 
+score and modified rankin scale)  
+- Differences in: 
+ 
+- duration of mechanical ventilation shorter in 360C 
+ 
+- serious events marginally higher in 330C group 
+ 
+- higher rates of hypokalemia in the 330C group 
+ 
+Bottom line: No difference in primary or secondary outcomes between 360C and 330C groups.  
+ 
+It is important to note that both arms of the trial had active monitoring and regulation of 
+temperature (temperature was not left to fluctuate naturally) 
+ 
+**Thus, the target (330C vs 360C) might not be as important as actively maintaining 
+euthermia/mild hypothermia and preventing fever and spikes in temperature (previously 
+shown to result in poor outcomes) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

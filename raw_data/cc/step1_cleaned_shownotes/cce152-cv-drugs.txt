@@ -1,0 +1,985 @@
+# Metadata
+- topic: 4.2 - Toxicology - CCE152-CV-Drugs
+- source_folder: 4.2 - Toxicology
+- original_file: CCE152-CV-Drugs.pdf
+
+CrackCast Show Notes – Cardiovascular Drugs – February 2018 
+www.canadiem.org/crackcast 
+ 
+ 
+ 
+Episode 152 (Ch. 147 9th) – Cardiovascular Drugs 
+ 
+Episode Overview: 
+ 
+Cardioactive steroids = e.g. digitalis and plants 
+1. How does digoxin work (mechanism of action)? 
+2. How does digoxin toxicity present clinically? 
+3. Compare acute vs chronic digoxin toxicity 
+4. What are the risk factors for chronic digoxin toxicity? 
+5. What types of ECG findings are associated with digoxin toxicity? (List 3 
+dysrhythmias specific to digoxin toxicity).  
+6. Describe the management priorities in digoxin toxicity 
+a. a. List 5 indications for DigiFab 
+b. b. List 3 dosing strategies for DigiFab 
+7. What other treatments should be considered in patients with digoxin toxicity? 
+ 
+Beta adrenergic blockers 
+1. Which β blockers have membrane stabilizing activity? Why is this important? 
+2. Why is propranolol the most lethal β blocker? 
+3. Describe the stepwise management of β blocker toxicity 
+4. Which β blockers can be dialysed? 
+ 
+Calcium Channel Blockers 
+1. Describe the different mechanism of action of Dihydropyridines and Non-
+dihydropyridines. How is this relevant to toxicology?  
+2. Describe the stepwise management of CCB toxicity 
+ 
+Clonidine 
+1.  How does clonidine work? 
+2.  How does clonidine toxicity present and how is it managed? 
+ 
+Nitrates, Nitrites  
+1. What are 2 common clinical presentations of Nitrate/Nitrite toxicity? 
+2. How is nitrite poisoning managed?  
+ 
+Wisecracks 
+1. List 6 differential diagnoses for the “slow + low” patient 
+2. List 6 non-cardiac symptoms of cardioactive steroid intoxication  
+3. List three plants containing cardiac glycosides 
+4. Contrast adult vs. pediatric age differences in digoxin intoxication 
+5. What are the clinical differences in presentation between β blocker, CCB and digoxin 
+toxicity? 
+ 
+ 
+ 
+CrackCast Show Notes – Cardiovascular Drugs – February 2018 
+www.canadiem.org/crackcast 
+ 
+ 
+ 
+Welcome! This episode we’ll be covering five major groups of cardiovascular drugs:  
+● Cardioactive steroids = e.g. digitalis and plants 
+● Beta adrenergic blockers 
+● CCB’s 
+● Clonidine 
+● Nitrates, Nitrites  
+ 
+KEY CONCEPTS 
+ 
+Cardioactive Steroids  
+❏ Digoxin toxicity is often occult and should be considered in any patient who is on 
+digoxin and presents with gastrointestinal or visual disturbance and a new 
+dysrhythmia or conduction disturbance. 
+❏ Digi Fab is the specific antidote for digoxin toxicity and is dosed by body load of 
+digoxin, not by body weight of the patient. 
+❏ Indications for digitalis Fab are summarized in the episode (so stay tuned), and Fab 
+should be used before pacing or antidysrhythmic drugs.  
+❏ Hyperkalemia in acute digitalis toxicity is best treated with Fab fragments. 
+Conventional treatment as for any other cause of hyperkalemia is also appropriate 
+when Fab fragment preparations are not immediately available.  
+ 
+Beta-Adrenergic Blockers  
+❏ Beta-blocker intoxication usually causes bradydysrhythmias and occasionally AV 
+block.  
+❏ Noncardiac symptoms such as obtundation, seizures, and hypoglycemia may occur 
+❏ Volume expansion, atropine, calcium, and glucagon, HDI/glucose infusion, pressors 
+❏ When using HDI/glucose infusions, concentrate glucose solutions to avoid fluid 
+overload.  
+ 
+Calcium Channel Blockers  
+❏ Signs and symptoms of calcium channel blocker intoxication often occur early after 
+overdose but may be significantly delayed with sustained release products.  
+❏ AV block and bradydysrhythmias predominate with verapamil and diltiazem; 
+dihydropyridine calcium channel blockers may present with tachycardia.  
+ 
+Clonidine  
+❏ Clonidine poisoning may mimic opioid poisoning and is best treated with crystalloid 
+fluids followed by an infusion of norepinephrine and narcan.  
+ 
+Nitrates, Nitrites, and Methemoglobinemia  
+❏ Nitrates are contraindicated in patients who have recently taken phosphodiesterase 
+inhibitors for erectile dysfunction / pulmonary HTN. 
+❏ Patients with a methemoglobin concentration of 25% and/or symptoms of anemia 
+should be treated with methylene blue.  
+ 
+CrackCast Show Notes – Cardiovascular Drugs – February 2018 
+www.canadiem.org/crackcast 
+ 
+ 
+ 
+Core questions:  
+ 
+● Cardioactive steroids = e.g. digitalis and plants 
+ 
+Digoxin is derived from the Balkan foxglove plant, Digitalis lanata.  
+❏ Despite centuries of experience with digitalis, chronic and acute poisonings still 
+occur.  
+❏ Medication errors and toxic effects account for the most common causes (44%) of 
+preventable iatrogenic cardiac arrests.  
+ 
+ 
+1. How does digoxin work (mechanism of action)? 
+ 
+● Increases inotropy (inhibition of membrane sodium-potassium–adenosine 
+triphosphatase (Na+ ,K+ -ATPase), which increases intracellular sodium and 
+extracellular potassium concentrations. This increase in intracellular sodium 
+concentration results in dysfunction of the sodium-calcium ion exchanger, which 
+normally extrudes intracellular calcium after systole. This subsequent increase in 
+intracellular calcium concentration results in a larger amount of calcium pumped 
+into the sarcoplasmic reticulum so that on calcium-induced calcium release during 
+subsequent action potentials, a larger amount of calcium is released into the cell, 
+causing a more powerful contraction and thus increased cardiac output.)  
+○ Increase in intracellular Na+ and Calcium 
+● Decreases SA and AV nodal conduction  
+○ At toxic concentrations, digoxin can directly block the generation of impulses 
+in the SA node, depress conduction through the AV node, and increase the 
+sensitivity of the SA and AV nodes to catecholamines 
+○ In toxicity gives tachy-brady/AV block syndromes 
+● Purkinje effects:  
+○ decreased resting potential, resulting in slowed phase 0 depolarization and 
+conduction velocity; (2) decreased action potential duration, which increases 
+sensitivity of muscle fibers to electrical stimuli; and (3) enhanced 
+automaticity resulting from increased rate of phase 4 repolarization and 
+delayed after-depolarizations. 
+○ These mechanisms account for an increase in premature ventricular 
+contractions, which is the most common electrocardiographic manifestation of 
+digoxin toxicity. At extremes of toxicity, these effects result in a dangerous 
+sensitivity to mechanical and electrical stimulation. Interventions with 
+pacemaker wires, catheters, and cardioversion can result in asystole, 
+ventricular tachycardia, and ventricular fibrillation. 
+ 
+ 
+ 
+2. How does digoxin toxicity present clinically? 
+ 
+CrackCast Show Notes – Cardiovascular Drugs – February 2018 
+www.canadiem.org/crackcast 
+ 
+ 
+ 
+● Chronic = nonspecific symptoms (see wisecracks) 
+● Acute:  
+○ No sign or symptom, including dysrhythmia, is unique to digoxin poisoning, 
+so the differential diagnosis is broad.  
+○ More likely Low and Slow  
+○ Gastrointestinal symptoms - N/V and abdominal pain 
+ 
+Non cardiac symptoms include: 
+ 
+❏ General weakness 
+❏ Headache 
+❏ Dizziness 
+❏ ALOC 
+❏ Blurred “snowy” vision 
+❏ Yellow-green halos 
+❏ Scotomas 
+❏ N/V/D 
+❏ Abdominal Pain 
+❏ Anorexia 
+ 
+ 
+3. Compare acute vs chronic digoxin toxicity 
+ 
+See Table 147.1 in Rosen’s 9th Edition. 
+ 
+Chronic 
+Acute 
+Higher Mortality (LL50 6ng/ml) 
+Lower mortality 
+Ventricular Dysrhythmias more common 
+Bradycardia and AV block more common 
+Elderly 
+Younger 
+Underlying heart disease increases 
+morbidity and mortality 
+Absence of heart disease decreases 
+morbidity and mortality 
+ 
+○ The LL50 for acute intoxication is not known, but it is much higher, especially 
+in children.  
+○ The association of hyperkalemia with acute toxicity is obvious given the 
+mechanism of digoxin; either hypokalemia or hyperkalemia may occur with 
+chronic toxicity 
+○ Children with healthy hearts can tolerate massive acute oral ingestions without 
+Fab treatment. This excludes therapeutic errors, children who are taking 
+digoxin therapeutically, and children with heart disease. Dosage calculation 
+and administration errors account for more pediatric digoxin intoxication and 
+death than accidental oral ingestion.  
+ 
+ 
+4. What are the risk factors for chronic digoxin toxicity? 
+CrackCast Show Notes – Cardiovascular Drugs – February 2018 
+www.canadiem.org/crackcast 
+ 
+ 
+ 
+These factors decrease elimination, and alter the pharmacodynamics of the drugs.  
+ 
+• Renal Insufficiency 
+• Heart Disease 
+o Congenital 
+o Ischemic 
+o CHF 
+o Myocarditis 
+• Electrolyte Imbalance 
+o Hypo/HyperK 
+o HypoMg 
+o HyperCa 
+• Alkalosis 
+• Hypothyroidism 
+• Sympathomimetic Drugs 
+• Cardiotoxic Co-ingestants 
+o Beta-Blockers 
+o CCBs 
+o TCAs 
+• Drug Interactions 
+o Quinidine, Amiodarone 
+o Verapamil, diltiazem, nifedipine 
+o Erythromycin 
+o Captopril 
+• Elderly woman 
+ 
+ 
+ 
+5. What types of EKG findings are associated with digoxin toxicity? (List 3 
+dysrhythmias specific to digoxin toxicity).  
+ 
+Digoxin can produce virtually any dysrhythmia or conduction block, and bradycardias are as 
+common as tachycardias (Box 147.1).  
+ 
+However, none is unique to digoxin, and because they can all occur in the setting of ischemic 
+and other heart disease, digoxin toxicity remains a clinical rather than an 
+electrocardiographic diagnosis.  
+ 
+What rhythm is NOT associated with Dig toxicity = rapidly conducted SVTs (e.g. rapid 
+a. fib).  
+ 
+The specific ones! 
+● Afib with AV dissociation (slow ventricular rate)  
+● Atrial tachycardia with a block 
+● Bidirectional VT 
+● Junctional Tachycardia 
+ 
+ 
+CrackCast Show Notes – Cardiovascular Drugs – February 2018 
+www.canadiem.org/crackcast 
+ 
+ 
+ 
+ 
+6. Describe the management priorities in digoxin toxicity 
+ 
+The treatment of significant digoxin poisoning is the administration of digoxin-specific 
+fragment antigen-binding (Fab) antibodies (DigiFab); all other interventions are considered 
+complementary. 
+a. a. List 5 indications for DigiFab 
+ 
+In acute poisoning:  
+● History:  
+○ Other cardiac toxic drug ingestion - CCB, BB, TCA with shock 
+○ Acute ingestion > 10 mg plus clinical toxicity 
+○ Ingestion of plant containing cardioactive steroids plus dysrhythmias  
+● Physical:  
+○ Too fast and deadly:  unstable ventricular dysrhythmias (not PVCs) 
+○ Too slow and deadly: unstable dysrhythmias (hemodynamic compromise) 
+such as symptomatic sinus bradycardia, or second- or third-degree heart block 
+unresponsive to atropine. 
+○ Cardiac arrest  
+● Labs: serum potassium level above 5.0 mEq/L (acute ingestion)  
+○ Acute steady state > 13 nmol/L and one clinical sign 
+○ Any serum level > 19 nmol/L (this is not a steady state level, will change after 
+drug distributes) 
+ 
+Fab fragment therapy should be used before transvenous pacing, because the latter is 
+believed to carry risk of ventricular dysrhythmia, although the evidence for this is 
+mixed. 
+ 
+The peak level at 2 hrs is usually MUCH higher than the actual steady state level 
+(suggest false toxicity).  
+ 
+*Diagnosis and management rely heavily on serum digoxin concentrations, but it is the 
+steady state (6-8 hrs after the dose/overdose), rather than peak concentration, that correlates 
+with tissue toxicity and is used to calculate antidote dosages.  
+ 
+b. b. List 3 dosing strategies for DigiFab 
+ 
+● Empirically in the setting of cardiovascular collapse / arrest  - give 10-20 
+(logistically restrained) vials 
+● Based on steady-state digitoxin concentration  
+● Based on ingested dose of digoxin or digitoxin  
+ 
+See Boxes 147.5 and 147.7 for sample calculations. 
+ 
+Reactions:  
+● Sheep-derived digoxin antibodies, so people can develop:  
+CrackCast Show Notes – Cardiovascular Drugs – February 2018 
+www.canadiem.org/crackcast 
+ 
+ 
+ 
+○ Allergic reactions (esp. asthmatics)  
+○ Erythema, urticaria  
+● Hypokalemia 
+● CHF exacerbation  
+● Increase ventricular rate/atrial fibrillation  
+ 
+ 
+ 
+7. What other treatments should be considered in patients with digoxin toxicity? 
+ 
+Here are the big points:  
+1. Temporize bradycardia with atropine  
+2. Watch the K+ (helps guide acute Fab treatment or chronic OD’s need 
+repletion)  
+3. Correct the Mg+ 
+Temporizing measures while waiting for DigiFab  
+4. Consider pacing and cardioversion (avoid if possible!) 
+5. Consider Phenytoin or lidocaine for tachydysrhythmias 
+ 
+● We recommend using atropine as a temporizing measure for patients with shock 
+while Fab fragments are being administered. We also recommend atropine for 
+bradycardia refractory to Fab fragments. Standard dosing (0.02 mg/kg in children 
+with a minimum of 0.1 mg; 1 mg IV in adults) should be used. Doses can be repeated 
+every 3 to 5 minutes. In general, an external or transvenous pacemaker should be 
+readied once atropine has been administered. 
+● Significant magnesium depletion is present or suspected (eg, electrocardiographic 
+changes such as QTc prolongation are present), 1 to 2 g of magnesium sulfate 
+should be administered over 10 to 20 minutes (child: 25 mg/kg), followed by a 
+constant infusion of 1 to 2 g/hr until magnesium concentrations are normal (careful 
+in renal failure; and NO in bradydysrhythmias) 
+● Maintain K+ at 3.5-4 mmol/L (only in chronic toxicity)  
+● Digoxin immune Fab fragments are the preferred therapy for dysrhythmias, but a 
+dysrhythmia may require intervention while Fab fragments are readied, or to begin 
+to show effect after infusion.  
+ 
+Transvenous pacing has been a mainstay of treatment for several decades; however, there is 
+some evidence that the catheter may induce ventricular tachydysrhythmias in a myocardium 
+made irritable by digoxin, although convincing studies on this question are lacking. 
+Iatrogenic accidents of cardiac pacing are frequent (36%) in one study and can be fatal (up 
+to 13%). Transvenous pacing should be used only if external pacing fails. Pacing usually is 
+required only temporarily while waiting for Fab fragments to take clinical effect. 
+Cardioversion in the setting of digoxin poisoning should be reserved for life-threatening 
+dysrhythmias such as tachydysrhythmias with profound refractory hypotension, unstable 
+ventricular tachycardia, or ventricular fibrillation. 
+ 
+CrackCast Show Notes – Cardiovascular Drugs – February 2018 
+www.canadiem.org/crackcast 
+ 
+ 
+ 
+Because most assays measure both bound and unbound drug, digoxin concentrations will 
+be elevated for up to 1 week after Fab fragments administration, with values often greater 
+than 100 ng/ mL once Fab fragments have been administered.  
+ 
+ The significant protein binding and large volumes of distribution of digoxin suggest that 
+hemodialysis, hemoperfusion, and exchange transfusion are ineffective. The long half-lives 
+have therapeutic implications for temporizing measures such as pacemakers, atropine, and 
+antidysrhythmic drugs compared to the more definitive treatment of Fab fragments. 
+ 
+Plants with Digoxin in them!  
+1) Common oleander 2) yellow oleander 3) Lily of the valley 4) Red squill 5) Foxglove 6) 
+dog's bane 7) Milkweed 
+ 
+--------------------------------------------- 
+ 
+Beta adrenergic blockers 
+ 
+ 
+Have B1 effects:  
+Competitively inhibit endogenous catecholamines such as epinephrine at beta-adrenergic 
+receptors, blocking the catecholamine effects of inotropy (increased myocardial contraction), 
+dromotropy (enhanced cardiac conduction), and chronotropy (increased heart rate).  
+ 
+Have B2 effects:  
+Complex β2 effects include vascular (smooth muscle relaxation and vasodilation), liver 
+(glycogenolysis, gluconeogenesis), lung (bronchodilation), adipose tissue (release of free 
+fatty acids), and uterus (smooth muscle relaxation) effects.  
+ 
+ 
+ 
+Which β blockers have intrinsic sympathomimetic activity? Why is this important? 
+ 
+The intrinsic sympathomimetic activity of some beta-blockers such as pindolol, oxprenolol, 
+acebutolol, and carteolol can lead to some unusual manifestations such as ventricular 
+dysrhythmias and sinus tachycardia instead of bradycardia.  
+● Can produce:  
+○  torsades de pointes (Sotalol)  
+○ QT prolongation, VT (Acebutolol)  
+The first two on the “SANTA” mnemonic  
+ 
+ 
+ 
+1. Which β blockers have membrane stabilizing activity? Why is this important? 
+ 
+Propranolol, nadolol, and acebutolol have a membrane-stabilizing effect that impairs SA 
+and AV node function and leads to bradycardia and AV block. Ventricular conduction is also 
+depressed, leading to QRS widening, occasional ventricular dysrhythmias such as ventricular 
+tachycardia and ventricular fibrillation, and cardiogenic shock.  
+ 
+CrackCast Show Notes – Cardiovascular Drugs – February 2018 
+www.canadiem.org/crackcast 
+ 
+ 
+ 
+SAID simply….they BLOCK Na channels!  
+ 
+ 
+ 
+2. Why is propranolol the most lethal βB? 
+ 
+Much of propranolol’s unique toxicity derives from its:  
+● Lipophilic nature which allows it to penetrate the CNS, causing obtundation, 
+respiratory depression, and—with large overdoses—seizures.  
+○ Seizures probably result from a combination of hypotension, hypoglycemia, 
+hypoxia, and direct CNS toxicity including sodium-channel blockade.  
+ 
+Other beta-blockers are not lipophilic and do not have these effects. Of note, bronchospasm is 
+rarely a problem in cases of beta-blocker overdose, even with nonselective beta-blockers. The 
+few cases of symptomatic bronchospasm respond to the usual bronchodilator nebulizations. 
+ 
+Highly protein bound and lipophilic (can’t be dialysed).  
+ 
+ 
+3. Describe the stepwise management of βB toxicity 
+ 
+Immediate measures include IV fluids, supplemental oxygen, and monitoring of cardiac 
+rhythm and respirations. 
+ 
+Resuscitation sequence: 
+● AC not recommended by Rosen’s (Jesse says this: AC may or may not be appropriate, 
+consult your local toxicologist) 
+● In hypotensive patients, bolus 20 to 40 mL/kg of normal saline or lactated Ringer’s 
+● Temporize with IV atropine if HR < 50 bpm 
+● Give 3-6 g Calcium Gluconate over ~15 mins for bradycardia and hypotension  
+● Consider Glucagon:  
+○ Glucagon has both inotropic and chronotropic effects and does not depend 
+on beta-adrenergic receptors for its action; therefore, it has long been used 
+for beta-blocker toxicity. It stimulates the production of intracellular cyclic 
+adenosine monophosphate independently of the beta-adrenergic receptor. 
+Furthermore, it helps counteract the hypoglycemia induced by beta-blocker 
+overdose. Although not well studied, the initial dose of glucagon is a 5- to 10-
+mg IV bolus (0.05 to 0.1 mg/kg for children). If a response occurs to 
+glucagon, specifically if heart rate, blood pressure, or symptom improvement 
+is observed, the “response dose” should be started as an infusion at a rate of 
+the response dose administered over 1 hour.  
+○ Can consider glucagon for patients with bradycardia or hypotension not 
+responsive to crystalloid fluids, atropine, and an initial bolus of calcium.  
+○ Usually an infusion is needed due to the 20 min half-life 
+○ *thought to be a transient bridge to HDI therapy* 
+● High dose insulin therapy:  
+CrackCast Show Notes – Cardiovascular Drugs – February 2018 
+www.canadiem.org/crackcast 
+ 
+ 
+ 
+○ Despite glucagon’s longer history for treatment of beta-blocker toxicity, HDI 
+is a superior therapy. HDI is not a vasopressor; it is a profound inotrope 
+with vasodilating properties. The mechanism for HDI is not fully elucidated 
+but probably involves both optimization of the use of carbohydrates for fuel by 
+cardiac myocytes and modulation of intracellular calcium. HDI improves 
+cardiac output significantly in beta-blocker toxicity from an increase in stroke 
+volume more than heart rate. 
+○ Dose range: 0.5 - 10 U/Kg/hr 
+■ One “amp” of D50 should be administered followed by 1 U/kg of 
+regular insulin as a loading dose. An infusion of 25 g/hr of 
+concentrated glucose should be initiated in addition to an infusion of 
+insulin at 1 U/kg/hr. The insulin infusion should be increased by 2 
+U/kg/hr every 10 minutes until hypotension resolved or a maximum 
+rate of 10 U/kg/hr is reached.  
+○ Requires frequent glucose measurements (use dextrose to keep glucose > 
+12)  
+○ Replace K+ because of insulin shifting 
+○ We recommend HDI for patients experiencing hypotension despite crystalloid 
+fluid, atropine, and a single bolus of calcium and glucagon. We also 
+recommend a central venous catheter and an arterial catheter be placed 
+immediately upon the decision to initiate HDI. 
+● Catecholamines (norepinephrine is preferred 1st line, then vasopressin) are 
+indicated when mean arterial pressure (MAP) cannot be maintained at 60 mm Hg or 
+above, despite use of crystalloid infusion, calcium, atropine, glucagon, and HDI. A 
+single catecholamine of choice after HDI and glucagon has not emerged.  
+● Pacemaker for refractory cases of bradycardia. A pacemaker is particularly 
+useful when cardiac contractility is vigorous but bradycardia is Persistent. 
+● Intralipid:  IFE is a reasonable therapy in beta-blocker overdose in patients with 
+shock refractory to conventional treatments. We recommend IFE in patients with 
+persistent bradycardia or hypotension not responding to IV fluids, calcium, HDI, 
+and at least three vasopressors or inotropes at maximum recommended infusion 
+rates. Dosing for IFE is also not universally agreed upon. We recommend an initial 
+bolus of 1.5 mL/kg of 20% lipid solution given over 2 to 3 minutes, followed 
+immediately by an infusion of 0.25 mL/kg/min. 
+● ECMO: We recommend ECMO in cases where patients have hypotension refractory 
+to HDI, at least three catecholamines, and IFE, or in cases with bradycardia 
+unresponsive to inotropes and a pacemaker. 
+ 
+● Specific cases:  
+○ PROPRANOLOL:  
+■ Bicarbonate should be dosed at 1 to 2 mEq/kg IV as a bolus repeated 
+every 3 to 5 minutes until the QRS narrows to less than 120 ms.  
+○ SOTALOL:  
+CrackCast Show Notes – Cardiovascular Drugs – February 2018 
+www.canadiem.org/crackcast 
+ 
+ 
+ 
+■ Pulsatile ventricular tachycardia can most safely be treated with 
+lidocaine. 
+■ Pulseless VT  = defibrillation  
+■ Overdrive pacing with isoproterenol or a pacemaker and magnesium 
+sulfate are specific therapies for torsades de pointes. 
+ 
+ 
+4. Which β blockers can be dialysed? 
+ 
+SANTA can’t pee….. 
+• Sotalol 
+• Atenolol 
+• Timolol 
+• Acebutolol 
+• Nadolol 
+ 
+Hemodialysis or hemoperfusion may be beneficial for beta-blockers with lower Vd, lower 
+protein binding, and greater hydrophilicity.  
+ 
+ 
+ 
+CCB’s 
+ 
+1. Describe the different mechanism of action of Dihydropyridines and Non-
+dihydropyridines. How is this relevant to toxicology? 
+ 
+Dihydropyridines: 
+● Amlodipine 
+● Nifedipine 
+● Other “-pines”   
+Non-dihydropyridines:  
+● Verapamil 
+● Diltiazem  
+ 
+Calcium channel antagonists block the slow L-type calcium channels in the myocardium and 
+vascular smooth muscle, leading to coronary and peripheral vasodilation. They also reduce 
+cardiac contractility, depress SA nodal activity, and slow AV conduction.  
+ 
+In cases of overdose, verapamil has the deadliest profile, combining severe myocardial 
+depression and peripheral vasodilation. Both verapamil and diltiazem act on the heart and 
+blood vessels, whereas dihydropyridine calcium channel blockers (such as nifedipine) 
+cause primarily vasodilation and subsequent reflex tachycardia.  
+ 
+IN TOXICOLOGY THIS DIFFERENTIATION IS NOT AS PRONOUNCED  
+As with beta-blockers, selectivity is lost after overdose, and toxicity is fourfold; the calcium 
+antagonists have negative effects on heart rate, contractility, conduction, and vascular tone, 
+CrackCast Show Notes – Cardiovascular Drugs – February 2018 
+www.canadiem.org/crackcast 
+ 
+ 
+ 
+with the exception of dihydropyridine calcium channel blockers, which tend to result in 
+tachycardia even in severe toxicity. 
+ 
+ 
+2. Describe the stepwise management of CCB toxicity 
+ 
+Very rapidly absorbed (usually within 30 mins)  
+ 
+Flowsteps:  
+1. MOVIE 
+2. Fluid bolus for hypotension  
+3. Temporizing measures:  
+a. Atropine 
+i. 
+For symptomatic bradycardia < 50 bpm 
+b. IV calcium  
+i. 
+3-6 g Calcium Gluconate over 15 mins; may be repeated 
+4. High insulin glucose therapy 
+a. Dose range: 0.5 - 10 U/Kg/hr 
+i. 
+One “amp” of D50 should be administered (if glucose <11) followed 
+by 1 U/kg of regular insulin as a loading dose. An infusion of 25 g/hr 
+of concentrated glucose should be initiated in addition to an infusion 
+of insulin at 1 U/kg/hr. The insulin infusion should be increased by 2 
+U/kg/hr every 10 minutes until hypotension resolves or a maximum 
+rate of 10 U/kg/hr is reached.  
+5. Vasopressors  
+6. Stop-gap therapies:  
+a. Methylene blue  
+i. 
+ Inhibits the enzyme guanylyl cyclase, resulting in decreased 
+production of cyclic guanosine monophosphate (cGMP) and 
+inhibition of endothelial smooth muscle relaxation, causing an 
+increase in systemic vascular resistance.  
+ii. 
+Especially helpful for amlodipine toxicity  
+iii. 
+Consider use of methylene blue only as an alternative salvage 
+therapy to ECMO when HDI, catecholamines, and IFE have failed. 
+Dosing involves a 1- to 2-mg/kg bolus of a 1% methylene blue solution 
+followed by an infusion of 1 mg/kg for up to 6 hours. 
+b. Intralipid:  
+i. 
+Animal evidence exists that IFE may be effective especially for the 
+treatment of verapamil toxicity. Human case reports exist of successful 
+resuscitation of toxicity from diltiazem and verapamil. Dosing and 
+indications are identical to those for beta-blocker toxicity. We 
+recommend that IFE be used in patients with hypotension refractory to 
+calcium, HDI, and three vasopressors. 
+c. ECMO 
+CrackCast Show Notes – Cardiovascular Drugs – February 2018 
+www.canadiem.org/crackcast 
+ 
+ 
+ 
+ 
+Things NOT recommended:  
+● Do not recommend glucagon in calcium channel blocker poisoning. It has no 
+mechanistic advantage over epinephrine, and no good evidence exists to support its 
+use in calcium channel blocker poisoning 
+ 
+High protein binding and Vd greater than 1 to 2 L/kg make hemodialysis or hemoperfusion 
+ineffective. With sustained-release preparations, their half-lives are relatively short, generally 
+limiting toxicity to 24 to 36 hours. 
+ 
+ 
+ 
+Clonidine 
+ 
+1.  How does clonidine work? 
+ 
+Clonidine is a centrally acting α2-adrenergic agonist (its a sympatholytic) and imidazoline 
+agonist initially approved by the FDA as a treatment for hypertension in 1974. Since that 
+time, its use has expanded to treat conditions such as attention-deficit/hyperactivity disorder 
+(ADHD), pheochromocytoma, and withdrawal from opioids, ethanol, and nicotine. It is also 
+used in spinal and epidural anesthesia. Based on its mechanism of action, it mimics clinical 
+features of both opioid poisoning and poisoning from digoxin, beta-blockers, or calcium 
+channel blockers.  
+ 
+ 
+2.  How does clonidine toxicity present and how is it managed? 
+ 
+Binding to pre-synaptic α2-adrenergic receptors in the brain: 
+● Less norepinephrine release =  
+○ Bradycardia, hypotension, decreased mental status, miosis, and occasionally 
+hypothermia. 
+ 
+Supportive care is the mainstay of management:  
+● Generous IV fluid boluses for hypotension  
+● Vasopressors - ideally norepinephrine for hypotension  
+● Naloxone:  
+○ Recommend escalating doses of naloxone of 0.1 mg, 0.4 mg, 2 mg, and 10 mg. 
+Naloxone is indicated solely if the patient is obtunded or has an unprotected 
+airway, and it should be administered in parallel with any necessary IV fluids 
+or catecholamines. 
+ 
+Clonidine’s peak effects occur 2 to 4 hours post-ingestion. Its half-life is between 5 and 13 
+hours. Therefore patients with normal vital signs and mental status 4 hours post-ingestion 
+may be discharged home or to an appropriate psychiatric facility. 
+ 
+ 
+ 
+CrackCast Show Notes – Cardiovascular Drugs – February 2018 
+www.canadiem.org/crackcast 
+ 
+ 
+ 
+Nitrates, Nitrites  
+ 
+Nitrates (nitroglycerin, isosorbide mononitrate, and dinitrate) are widely used as 
+vasodilators in the treatment of heart failure and ischemic heart disease. 
+ 
+Other exposures:  
+● Young adults, usually male, who inhale various alkyl nitrites (amyl, butyl, isobutyl, or 
+ethyl nitrite) in the hope of enhancing or prolonging sexual pleasure aka “poppers”. 
+● Nitrates are occasionally found in rural well water contaminated by livestock or 
+fertilizer runoff. Oral nitrates may be converted to nitrites in the gastrointestinal 
+tract, especially in infants up to 4 months old.  
+ 
+Methemoglobin is incapable of carrying oxygen, thus it alters the shape of the hemoglobin-
+dissociation curve shifting it to the left, causing functional anemia via impaired oxygen 
+delivery. 
+ 
+1. What are 2 common clinical presentations of Nitrate/Nitrite toxicity? 
+ 
+Hypotension (due to vasodilation) - with reflex tachycardia and headache 
+ 
+Low SP02 & cyanosis occurs commonly if the percentage of methemoglobin exceeds 
+10%. 
+ 
+Higher concentrations of methemoglobin may result in fatigue, dyspnea, weakness, dizziness, 
+drowsiness, coma, seizures, and death. 
+ 
+How to confirm the diagnosis:  
+1. Pt. has a low SpO2 (usually in the 75-85% range)***  
+a. Trial of the High flow oxygen test - 15 lpm via NRB  
+b. = no improvement of cyanosis → think MetHgb.  
+2. Blood CO-oximetry  
+a. MetHgb > 10% usually causes symptoms 
+ 
+***[clinical pearl] 
+Clinicians should be wary of interpreting pulse-oximetry in the setting of 
+methemoglobinemia. Pulse oximeters function by reading the absorbance of light at 
+wavelengths of 660 and 940 nm, which are selected to separate oxy and deoxyhemoglobin. 
+Methemoglobin absorbs light at both these wavelengths more than either oxy or 
+deoxyhemoglobin. This results in unreliable pulse oximetry that typically reads between 75% 
+and 85%, regardless ofthe patient’s oxygenation status. 
+ 
+Blood upon venipuncture reveals “chocolate-colored” 
+ 
+ 
+2. How is nitrite poisoning managed?  
+ 
+CrackCast Show Notes – Cardiovascular Drugs – February 2018 
+www.canadiem.org/crackcast 
+ 
+ 
+ 
+In the case of the too-high IV nitro infusion for sympathetic crashing acute pulmonary 
+edema (SCAPE) = Nitrate poisoning usually responds to supine positioning, IV fluids, 
+and reduction of dose or removal of the offending agent. 
+ 
+In the case of nitrate/nitrite induced methemoglobinemia =  
+1. supportive care such as supplemental oxygen and IV fluids.  
+2. severely poisoned patients (symptomatic and MetHgb levels on co-oximetry >20-
+25%) should be treated with IV methylene blue.  
+3. An intravenous dose of 1–2 mg/ kg (max dose 24hrs 7mg/kg) of 1% methylene blue 
+solution for patients with a methemoglobin concentration greater than 25% and 
+any symptoms of functional anemia.  
+ 
+The infusion should be given over 5 minutes to reduce pain at the IV site. A clinical response 
+should occur within minutes of infusion. If cyanosis does not resolve in 1 hour, a second 
+infusion of 1 mg/kg can be repeated. 
+ 
+ 
+ 
+Wisecracks 
+ 
+1. List 6 differential diagnoses for the “Slow + Low” patient (bradycardia and 
+hypotension) 
+ 
+● CCB OD 
+● BB OD 
+● Digoxin OD 
+● Cardiac glycoside plant / animal ingestion 
+● tizanidine or imidazoline receptor agonists such as tetrahydrozoline and 
+oxymetazoline  
+● sedative-hypnotic drug overdose,  
+●  hypoglycemic drug ingestion,  
+● opioid overdose,  
+● CNS injury or infection, endocrine-metabolic disorder, sepsis, and acute myocardial 
+infarction. 
+ 
+2. List 6 non-cardiac symptoms of cardioactive steroid intoxication  
+ 
+• General 
+o Weakness 
+o Fatigue 
+o Malaise 
+• GI 
+o NV 
+o Anorexia 
+o AP 
+o Diarrhea 
+CrackCast Show Notes – Cardiovascular Drugs – February 2018 
+www.canadiem.org/crackcast 
+ 
+ 
+ 
+• Optho 
+o Blurred vision 
+o Photophobia 
+o Chromatopsia 
+o Transient amblyopia, diplopia, scotomas, blindness 
+• Neurologic 
+o Dizziness 
+o HA 
+o Confusion 
+o Visual or auditory hallucinations 
+o Paranoid ideations/psychosis 
+o Somnolence 
+o Abn Dreams 
+o Paresthesias and neuralgias 
+o Aphasia 
+o Seizures 
+ 
+Those “classic” (but actually not pathognomonic) features:  
+● Gastroenteritis symptoms 
+● Chromatopsia  
+ 
+Methanol, metformin, ethambutol, ethyl chloride, quinine, and other antimalarial 
+medications are all capable of producing visual disturbances. Gastrointestinal disturbances 
+are common and nonspecific and may be misdiagnosed as gastritis, enteritis, or colitis. 
+ 
+3. List three plants containing cardiac glycosides 
+ 
+Paralyzes the Na+ ,K+ -ATPase pump, potassium cannot be transported into the cell = serum 
+potassium rise.  
+ 
+● Digoxin is derived from the Balkan foxglove plant, Digitalis lanata 
+● Oleander (Nerium oleander), common to much of the Southern United States, 
+contains oleandrin, a cardiac glycoside.  
+○ Can be yellow, white, pink 
+○ Importantly: this is a drug overdose where activated charcoal has shown 
+a mortality benefit if given early!  
+● Lily-of-the-Valley (Convallaria majalis), found in much of the Northern Hemisphere, 
+contains convallatoxin, a cardiac glycoside. 
+ 
+Monkshood toxicity may mimic it! Many other plants may contain similar toxins that affect 
+cardiac sodium and potassium channels (but not digitoxin)   
+ 
+CrackCast Show Notes – Cardiovascular Drugs – February 2018 
+www.canadiem.org/crackcast 
+ 
+ 
+ 
+ 
+Purple foxglove aka digitalis purpurea 
+ 
+ 
+ 
+Balkan Foxglove 
+ 
+ 
+Oleander 
+CrackCast Show Notes – Cardiovascular Drugs – February 2018 
+www.canadiem.org/crackcast 
+ 
+ 
+ 
+ 
+Lily of the Valley 
+ 
+Plants with Digoxin in them!  
+1) Common oleander 2) yellow oleander 3) Lily of the valley 4) Red squill 5) Foxglove 6) 
+dog's bane 7) Milkweed 
+ 
+4. Contrast adult vs. pediatric age differences in digoxin intoxication 
+ 
+Children with healthy hearts can tolerate massive acute oral ingestions without Fab 
+treatment. This excludes therapeutic errors, children who are taking digoxin therapeutically, 
+and children with heart disease. Dosage calculation and administration errors account for 
+more pediatric digoxin intoxication and death than accidental oral ingestion.  
+ 
+Adult 
+Pediatric 
+Toxic at lower concentrations 
+Asymptomatic at higher concentrations 
+Nausea, fatigue, and visual changes 
+Obtundation and vomiting more common 
+Tachydysrhythmias as common as blocks 
+and brady’s 
+Bradydysrhythmias and blocks most 
+common 
+Allergic reactions to Fab uncommon 
+Allergic reactions extremely rare 
+Vd less variable 
+Vd more variable 
+ 
+5. What are the clinical differences in presentation b/n β blocker, CCB and digoxin 
+toxicity? 
+ 
+Beta blocker 
+ 
+Acute toxicity 
+Calcium channel blocker 
+ 
+Acute toxicity  
+Digoxin toxicity  
+>99% of cases are from 
+chronic toxicity 
+● Rapid onset < 30 
+mins (unless delayed 
+release form)  
+● Rapid onset < 30 
+mins (unless delayed 
+release form)  
+● More gradual onset, 
+vague symptoms 
+● Bradycardia 
+● Bradycardia 
+● Cardiac: 
+CrackCast Show Notes – Cardiovascular Drugs – February 2018 
+www.canadiem.org/crackcast 
+ 
+ 
+ 
+● Hypotension  
+● Unconsciousness 
+● Seizures*  
+● Hypoglycemia 
+(especially in 
+children)  
+● Hypotension  
+● Consciousness 
+normal  
+● Hyperglycemia 
+● non-cardiogenic 
+pulmonary edema, 
+respiratory distress, 
+and apnea 
+ 
+○ tachy/brady 
+dysrhythmias 
+○ Less 
+hypotension 
+● Non-cardiac sxt 
+○ GI distress 
+○ Malaise 
+○ Weakness 
+○ Dizziness 
+○ Confusion 
+○ Altered LOC 
+○ Visual 
+changes 
+Special concerns:  
+● Propranolol, nadolol, 
+betaxolol, sotalol and 
+acebutolol =  leading 
+to QRS widening, 
+occasional ventricular 
+dysrhythmias such as 
+ventricular 
+tachycardia and 
+ventricular 
+fibrillation, and 
+cardiogenic shock 
+ 
+Special concerns:  
+● 
+Amlodipine: can cause a 
+reflex tachycardia and 
+hypotension  
+● 
+Calcium influx into the 
+pancreas is blocked = 
+leading to hyperglycemia  
+● 
+Pediatrics: Nifedipine, 
+verapamil, and probably 
+other drugs in its class join 
+the short list of 
+medications that can kill a 
+child with ingestion of a 
+single tablet. Seizures may 
+be more common in children 
+than in adults and should be 
+treated with diazepam, 
+lorazepam, or phenobarbital. 
+ 
+Special notes:  
+● Has a rapidly acting 
+antidote!  
+● Can present with any 
+dysrhythmia other 
+than A fib. With 
+RVR 
+● Acute toxicity is rare 
+● Inquire re: cardiac 
+glycoside containing 
+plants  
+● Myocardium is 
+irritable 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

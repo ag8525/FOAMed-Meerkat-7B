@@ -1,0 +1,275 @@
+# Metadata
+- topic: 3.12 - ID - CrackCast-Shownotes-Episode-131-Rabies
+- source_folder: 3.12 - ID
+- original_file: CrackCast-Shownotes-Episode-131-Rabies.pdf
+
+CrackCast Show Notes – Rabies – November 2017 
+www.canadiem.org/crackcast 
+ 
+ 
+Chapter 131 – Rabies 
+ 
+Episode Overview: 
+ 
+1) What are the top 5 rabies-virus carrying animals in Canada? In the world? 
+2) Describe the pathogenesis of the rabies virus disease (see fig. 123.6)  
+3) List 5 stages of rabies. What are the clinical presentations of rabies? 
+4) How is rabies diagnosed? 
+5) What factors are involved in a rabies risk assessment. Which types of animal contact 
+require PEP? 
+6) Describe important aspects of rabies post-exposure immunoprophylaxis for the 
+following exposures:  
+a) Non-immunized 
+b) Immunized  
+ 
+Wisecracks 
+ 
+1) List 4 reservoirs of rabies 
+2) What is the dose of HRIG? 
+ 
+Key Points: 
+ 
+• 
+Post-exposure prophylaxis (PEP) for rabies should be administered to individuals 
+exposed to the secretions of high-risk animals - raccoons, bats, skunks, foxes, 
+coyotes, dogs along the Mexican border, and wild carnivores in rabies-endemic 
+areas 
+• 
+PEP given strictly according to WHO or CDC guidelines is extremely effective in 
+preventing rabies. PEP includes wound care, passive immunization with RIG, and 
+active immunization with rabies vaccine 
+• 
+Discussion with public health officials is recommended to guide decisions regarding 
+when PEP should be considered. The CDC clinician information line is 877-554-4625 
+or 800-CDC-INFO. In British Columbia, call BCCDC @ 604-707-2400 
+ 
+ 
+Rosen’s in Perspective 
+ 
+● Where is the highest annual death rate from rabies in the world?  
+ 
+According to the BC Centres for Disease Control, rabies is: 
+ 
+“Clinical illness is characterized by acute encephalomyelitis (headache, fever, 
+hydrophobia, delirium, convulsions, paralysis) progressing to coma and death.” 
+ 
+Susceptibility depends on a few things. According to UptoDate: 
+ 
+“Host susceptibility to infection — A patient's susceptibility to rabies infection is related to 
+several factors. As an example, a bite with prominent salivary contamination on exposed 
+CrackCast Show Notes – Rabies – November 2017 
+www.canadiem.org/crackcast 
+ 
+ 
+skin of the face and head is more likely to result in a productive infection than a bite through 
+clothing where saliva may be absorbed. 
+ 
+Other factors that may increase host susceptibility to infection include: 
+ 
+● The virus variant 
+● The size of the viral inoculum 
+● The degree of innervation at the site of the bite 
+● Host immunity and genetics 
+All mammals are believed susceptible to rabies virus infection, although species differ in 
+relative susceptibility. For example, foxes, coyotes, wolves, and jackals are quite susceptible 
+whereas opossums are relatively resistant .” 
+ 
+1) What are the top 5 rabies-virus carrying animals in Canada? In the 
+world? 
+ 
+Canada:  
+1. Bat 
+2. Raccoon 
+3. Skunk 
+4. Bovine 
+5. Red Fox / Arctic Fox 
+ 
+Data above from Canadian Food Inspection Agency here 
+ 
+World: 
+ 
+Daaaaaaags: Most common vector worldwide. Dogbites to humans account for most of the 
+approx 55, 000 cases / year (Most in Asia and Africa: estimates range from 30,000 and 
+70,000 deaths per year) 
+ 
+CrackCast Show Notes – Rabies – November 2017 
+www.canadiem.org/crackcast 
+ 
+ 
+Question 2) Describe the pathogenesis of the rabies virus disease  
+ 
+See Fig. 123.6  
+ 
+Zoonotic Badness caused by neurotropic viruses in the Rhabdoviridae Family, genus 
+Lyssavirus. 
+ 
+These bullet shaped Lyssavirus virion likes to infect neuronal tissues, starting in the PNS 
+and migrating to the CNS at approximately 50 to 100 mm per day. 
+ 
+Transmission via: 
+❏ Exposure to saliva via animal bite 
+❏ Rare aerosolized particles in bat caves 
+❏ Accidental lab exposures 
+❏ Transplantation of tissue/organs from infected donor 
+ 
+IMPORTANT TO NOTE: “No transmission of rabies has been documented from infected 
+patients to health care personnel or household contacts or by fomites or environmental 
+surfaces “ -UptoDate 
+ 
+3) List 5 stages of rabies. What are the clinical presentations of rabies? 
+ 
+1. Virus enters muscle tissue of host through bite wound 
+2. Virus enters the peripheral nervous system via the NMJ 
+3. Virus travels from PNS to the spinal cord and brain 
+4. Virus enters the brain and undergoes extensive replication, leading to neuronal 
+dysfunction 
+5. Replicates in salivary glands, enters peripheral nerves of skin & Purkinje cells, 
+spreads from brain to infect many tissues and host organs 
+ 
+4) How is rabies diagnosed? 
+ 
+Gold standard: PCR of Skin >>> Saliva>> Urine/Serum/CSF 
+ 
+Antibody titres: serum antibodies to rabies virus “May not be present until several days after 
+the onset of clinical signs and may appear even later in the CSF. If no vaccine or rabies 
+immune globulin has been given, the presence of antibody to rabies virus in serum {or in the 
+CSF} is diagnostic of infection.” -UptoDate 
+The following samples and tests should be obtained: 
+● Saliva – All saliva specimens should be collected and placed in a small sterile 
+container and sealed securely. Laboratory tests to be performed include reverse 
+transcriptase polymerase chain reaction (RT-PCR) for the detection of virus RNA and 
+viral culture for the isolation of infectious virus. 
+CrackCast Show Notes – Rabies – November 2017 
+www.canadiem.org/crackcast 
+ 
+ 
+● Skin biopsy – A section of full thickness skin (ie, five to six mm in diameter) should be 
+taken from the posterior region of the neck at the hairline. The sample should contain a 
+minimum of approximately 10 hair follicles and include the cutaneous nerves at the base 
+of the follicles. The specimen should be placed on a small piece of moist sterile gauze 
+(without immersion in diluent or transport media) and put in a sealed container. 
+Laboratory tests to be performed include RT-PCR and immunofluorescence staining for 
+viral antigen. 
+● Serum and cerebrospinal fluid – A minimum of 0.5 mL of serum and CSF should be 
+obtained for testing. If the patient has been immunized, a second serum specimen 
+should be obtained a few days later to see if antibody titers are rising [7]. Laboratory 
+tests for rabies antibody include indirect immunofluorescence and virus neutralization 
+assays. 
+ 
+5) What factors are involved in a rabies risk assessment. Which types of 
+animal contact require PEP? 
+ 
+Animal and type of exposure (bite vs. scratch vs. handling) 
+Exposure site (highly innervated >>> low innervation) 
+Host vaccination status 
+ 
+Here is the full list: 
+❏ The epidemiology of animal rabies in the region 
+❏ The type of exposure 
+❏ Bites 
+❏ Bat exposures 
+❏ Non-bite animal exposures 
+❏ Human-to-human transmission 
+❏ Risk for health care workers 
+❏ Transplant recipients 
+❏ Bite and non-bite exposures 
+❏ Whether the exposure was provoked or unprovoked 
+❏ The species and vaccination status of the animal 
+ 
+Table 123.3 - Guidelines to determine need for rabies postexposure prophylaxis (PEP) 
+Animal 
+Evaluation & Dispo of Animal 
+PEP Recommendations 
+Dogs, cats, ferrets 
+Healthy and available for 10 days 
+observation 
+No vaccination unless 
+animal develops symptoms 
+ 
+Rabid or suspected rabid 
+Vaccinate immediately 
+ 
+Unknown or escaped 
+Consult public health 
+officials 
+Raccoons, skunks, 
+foxes 
+Regard as rabid unless animal is 
+proven to be seronegative by lab 
+testing 
+Consider immediate 
+prophylaxis 
+Livestock, rodents, 
+rabbits, hares, other 
+mammals 
+Consider individually 
+Consult public health 
+officials; bites of rodents 
+rarely require PEP 
+CrackCast Show Notes – Rabies – November 2017 
+www.canadiem.org/crackcast 
+ 
+ 
+6) Describe important aspects of rabies post-exposure 
+immunoprophylaxis for the following exposures:  
+A) Non-immunized, B) Immunized  
+ 
+See Rosen’s Table 123.2 Pre- and Postexposure Vaccination Recommendations 
+ 
+This Table provides: 
+ 
+- 
+Number of vaccine doses / number of clinic visits 
+- 
+Administration route (intramuscular vs. intradermal) 
+- 
+Injection schedule (ex. Days 0, 7, 21, 28) 
+ 
+Wisecracks 
+ 
+1) List 4 reservoirs of rabies 
+ 
+BATS>>>Raccoons>>Skunks>> Fox 
+ 
+2) What is the dose of HRIG? 
+ 
+20mg/kg injected into tissue around wound. If full volume cannot be injected around wound, 
+pick other site than vaccine site and inject remaining volume IM 
+ 
+What is the clinical presentation of rabies?  
+ 
+● Incubation: 1-3 months; should be on your ddx for myelitis or encephalitis!  
+ 
+From UPTODATE:  
+ 
+● The prodrome consists of nonspecific flu-like symptoms, including malaise, 
+anorexia, irritability, low grade fever, sore throat, headache, nausea, and vomiting. 
+There may also be specific neurologic signs and symptoms at the site of virus entry 
+that are suggestive of rabies infection, including paresthesias, pain and pruritus. 
+● An acute neurologic syndrome of either encephalitic or paralytic rabies 
+(classical rabies) follows the prodrome and typically lasts for two to seven days. 
+Manifestations may include hyperactivity, persistent fever, fluctuating consciousness, 
+painful pharyngeal or inspiratory spasms, autonomic stimulation (hypersalivation), 
+hydrophobia and seizures. Paralytic rabies is characterized by quadriparesis and 
+sphincter involvement.  
+● Atypical rabies = BAT ASSOCIATED, which is less common than either classic 
+form, has been most often described in patients with bat-associated rabies. Atypical 
+features include neuropathic pain, choreiform movements of the bitten limb during 
+the prodromal phase, focal brainstem signs, cranial nerve palsies, myoclonus, and 
+seizures. (See 'Clinical rabies' above.) 
+ 
+CrackCast Show Notes – Rabies – November 2017 
+www.canadiem.org/crackcast 
+ 
+ 
+● The clinical diagnosis of rabies is straightforward in developing countries when a 
+non-immunized patient presents after a bite by a known rabid animal. In developed 
+countries, many patients have an unrecognized exposure (eg, to a bat) and diagnosis 
+is often delayed.  
+○ In developed countries, some patients may have an unrecognized exposure 
+(eg, to a bat) or were unaware of the risks of an exposure and did not receive 
+postexposure prophylaxis [49]. In the 52 cases of human rabies reported in 
+the United States between 1990 and 2006, approximately 50 percent 
+were diagnosed postmortem [25]. The clinical diagnosis of rabies is more 
+straightforward in developing countries when a nonimmunized patient 
+presents after a bite by a potentially or known rabid animal. 

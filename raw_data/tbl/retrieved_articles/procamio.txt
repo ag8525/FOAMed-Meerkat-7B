@@ -1,0 +1,100 @@
+# Metadata
+- Source: The Bottom Line
+- Title: PROCAMIO
+- Original URL: https://www.thebottomline.org.uk/summaries/em/procamio/
+- Scrape Date: 2025-07-17
+- Summary Date: AUTO_FILL_IF_AVAILABLE
+
+PROCAMIO: Randomized Comparison of Intravenous Procainamide Vs. Intravenous Amiodarone for the Acute Treatment of Tolerated Wide QRS Tachycardia
+Ortiz. European Heart Journal: Advanced Access June 2016, doi:10.1093/eurheartj/ehw230
+Clinical Question
+In patients with wide QRS (probably ventricular) tachycardia, does intravenous procainamide compared with intravenous amiodarone reduce major adverse cardiac events?
+Design
+Multi-centre, prospective, open labelled randomised control trial
+Block randomisation in groups of ten on 1:1 basis with allocation concealment maintained through use of sealed envelopes
+Unblinded
+Study period was 20mins of drug administration + 20mins following administration + observation period of 24hrs
+Modified intention to treat analysis
+Sample size calculation: 302 patients required to detect an absolute risk reduction of 15% from a baseline rate of 20% in the procainamide group
+Setting
+26 hospitals in Spain, 16 of which recruited
+Cardiology and Emergency Departments
+Study recruited over 6yr period (stopped early at this point due to decreasing recruitment rate)
+Study period not explicitly defined
+Population
+Inclusion criteria:
+Adults with regular wide complex tachycardia
+HR≥120bpm, QRS≥120ms
+Haemodynamically stable: BP ≥90; No dyspnoea at rest, severe angina nor signs of peripheral hypoperfusion
+Exclusion criteria:
+Treatment with either study drug in proceeding 24hrs
+Poor haemodynamic tolerance
+Irregular tachycardia
+Tachycardia deemed supraventricular (based mostly on response to vagal manoeuvres or adenosine, ECG analysis not encouraged)
+Contraindications to study drugs
+74 patients randomised
+12 patients excluded post randomisation
+non-sustained VT (n=4), study drug in preceding 24 hours (n=3), protocol violation (n=1), other (n=4)
+Intervention
+Procainamide
+10mg/kg over 20mins
+Control
+Amiodarone
+5mg/kg over 20mins
+Outcome
+Primary outcome: Incidence of Major Cardiac Adverse Effect (MACE) during study period – significantly reduced in Procainamide vs. Amiodarone group
+9% vs. 41%,  Odds Ratio (OR) 0.1, 95% C.I. 0.03-0.6, p=0.006,
+Fragility index
+of 3 patients
+The majority of patients in both group who developed a MACE required immediate Direct Current Cardioversion
+MACE defined as
+Clinical signs of hypoperfusion
+Signs of Heart Failure
+Severe Hypotension (≤70mmHg SBP if pre-treatment BP ≤100mmHg and ≤80mmHg if pre-treatment BP >100mmHg)
+Tachycardia acceleration > 20bpm
+Fast Polymorphic VT
+Secondary outcomes
+Termination of VT – significantly increased in Procainamide vs. Amiodarone group
+67% vs. 38% (OR 3.3, 95% C.I. 1.2-9.3, p=0.026,
+Fragility index
+of 1 patient)
+For intention to treat analysis (included patients that were excluded post randomisation): 68% vs. 42% (OR 2.7, 95% C.I. 1.04-7.08, p=0.04,
+Fragility index
+of 1 patient)
+Total Adverse Events – No significant difference
+24% vs. 48% (OR 0.34, 95% C.I. 0.12-1, p=0.052)
+Adverse Events during 24hr observation period – No significant difference
+18% vs. 31% (OR 0.49 95% C.I. 0.15-1.6, p=0.24)
+Subgroup Analysis in patients with structural heart disease also showed lower major cardiac adverse events and higher termination rate in the Procainamide group.
+Authors’ Conclusions
+For the treatment of the acute episode of sustained monomorphic well-tolerated wide QRS tachycardia (probably VT), procainamide therapy was associated with less major cardiac adverse events and a higher proportion of tachycardia termination within 40 min.
+Strengths
+Randomised control trial
+Multi-centre
+Clinically relevant question and end points studied
+Trial registered at
+clinicaltrials.gov
+Weaknesses
+Unblinded
+Did not reach estimated sample size calculated by power calculation
+Low fragility index
+Procainamide is not widely available in UK Emergency Departments
+No comparison with safety/efficacy of electrical cardioversion
+Unexpectedly high rate of adverse effects in amiodarone arm.This may have been due to the fact that amiodarone was given over 20 minutes.
+ALS guidelines
+recommend it being given over 20-60 minutes for stable VT.
+The Bottom Line
+The results of this trial suggest an improved safety profile and efficacy of 10mg/kg intravenous procainamide over 20mins when compared with 5mg/kg intravenous amiodarone over 20mins in tolerated wide complex tachycardia.
+External Links
+[article]
+PROCAMIO: Randomized Comparison of Intravenous Procainamide Vs. Intravenous Amiodarone for the Acute Treatment of Tolerated Wide QRS Tachycardia
+[further reading]
+EMNerd-The Case of the Dysrhythmic Heart
+[further reading]
+LIFTL: VT
+Metadata
+Summary author: Joe Schrieber
+@j_schrieber
+Summary date: 21/07/2016
+Peer-review editor:
+@davidslessor

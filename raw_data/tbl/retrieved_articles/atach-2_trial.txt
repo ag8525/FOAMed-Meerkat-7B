@@ -1,0 +1,99 @@
+# Metadata
+- Source: The Bottom Line
+- Title: ATACH-2 Trial
+- Original URL: https://www.thebottomline.org.uk/summaries/icm/atach-2/
+- Scrape Date: 2025-07-17
+- Summary Date: AUTO_FILL_IF_AVAILABLE
+
+Intensive Blood-Pressure Lowering in Patients with Acute Cerebral Hemorrhage
+Qureshi et al. NEJM 2016 DOI: 10.1056/NEJMoa1603460
+Clinical Question
+In patients with acute intracerebral haemorrhage and who are hypertensive, does rapid lowering of systolic blood pressure compared to standard therapy improve patient outcomes ?
+Design
+Randomised, multi-centre, open-label
+Central randomisation using trial website by minimisation algorithm combined with biased-coin method
+Follow up period of 3 months
+Power calculation based on assumption that death or disability would be 10% lower in intervention group. Expected control event rate of 60%.
+alpha error 0.05, power 90%
+Sample size of 1280 required taking into account non-adherence
+Intention-to-treat analysis
+Setting
+110 sites in United States, Japan, China, Taiwan, South Korea and Germany
+May 2011 to September 2015
+Population
+Inclusion:
+18 years and above
+GCS > 4
+Intraparenchymal haematoma of less than 60cm3 on initial CT scan
+Within 3 hours (extended to 4.5 hours) of symptom onset
+At least one reading of systolic blood pressure of 180 mmHg or more between symptom onset and the initiation of intravenous antihypertensive treatment
+Exclusion:
+Time of symptom onset not reliably established
+Previously known AVM, neoplasm or aneurysm
+Intracerebral hematoma considered to be related to trauma.
+lCH located in infratentorial regions such as pons or cerebellum
+IVH associated with intraparenchymal hemorrhage and blood completely fills one lateral ventricle or more than half of both ventricles
+Subject is considered a candidate for immediate surgical intervention by the neurosurgery service
+Pregnancy or parturition within previous 30 days or active lactation
+Any history of bleeding diathesis or coagulopathy
+Use of warfarin within the last 5 days
+A platelet count less than 50,000/mm3
+Known sensitivity to nicardipine
+Pre-morbid mRS of 4 or greater
+Subject’s living will precludes aggressive ICU management
+8532 patients screened, 1000 randomised
+Intervention
+* Treatment could be initiated before randomisation to lower the systolic blood pressure to less than 180 mmHg but were excluded if systolic BP reduced below 140 mmHg before randomisation
+Target systolic BP 110 to 139 mmHg throughout the 24 hours after randomisation
+Control
+Target systolic BP 140 to 179 mmHg throughout the 24 hours after randomisation
+Management common to both groups
+1st line = IV nicardipine infusion
+initiated at 5mg/hr, increased by 2.5mg/hour every 15 minutes as needed, up to a maximum dose of 15mg/hr
+2nd line (if target not achieved after 30 mins) = IV labetalol (IV diltiazem or urapidil if labetolol not available)
+Outcome
+Primary outcome:
+Proportion of patients who had modified Rankin scores 4 to 6 at 3 months (significant disability or death)
+No difference between groups (38.7% in intervention, 37.7% in control)
+Unadjusted analysis: relative risk 1.02 (CI 0.83 – 1.25, p=0.84)
+Adjusted analysis: relative risk 1.04 (CI 0.85 – 1.27, p=0.72)
+Secondary outcome:
+Unadjusted analysis showed no difference between groups in:
+EQ-5D scores at 3 months
+VAS at 3 months
+Proportion of patients with expansion of 33% or more in volume of haematoma on 24 hour scan compared to baseline scan
+Safety outcomes (fall in GCS by 2 or increase of NIH Stroke Score by 4)
+Incidence of serious adverse events within 72 hours
+Higher incidence of serious adverse events within 3 months in intervention group when analysis adjusted
+25.6% in intervention, 20% in control; p=0.05
+Primary treatment failure = not achieving target within 2 hours after randomisation
+61 (12.2%) in intervention arm, 4 (0.8%) in control arm; p<0.001
+Secondary treatment failure = hourly minimum systolic BP above target range for 2 consecutive hours during the period of 2 to 24 hours after randomisation
+78 (15.6%) in intervention arm, 7 (1.4%) in control arm; p<0.001
+Authors’ Conclusions
+The results of the trial do not support the reduction of systolic blood pressure to a target of 110 to 139 mmHg in patients with intracerebral haemorrhage
+Strengths
+Multi-centre trial
+Clinically meaningful and relevant outcome measures
+Weaknesses
+Recruitment criteria changed during the trial
+Reasons for failure to randomise screened population not included
+Under-powered – power calculations based on event rate of 60%, actual observed event rate in study of 38%, increasing likelihood ot type 2 error
+More than 50% of patients recruited from Asia sites and may not be reflective of European population
+Intracerebral haemorrhage grouped as a single entity
+Significant difference between groups with regards to treatment failure (primary and secondary)
+The Bottom Line
+The results of this trial and that of the INTERACT2 trial do not support an early, intensive control of systolic blood pressure in patients with acute intracranial haemorrhage
+External Links
+[article]
+Intensive Blood-Pressure Lowering in Patients with Acute Cerebral Hemorrhage
+[further reading]
+Supplementary material
+[further reading]
+Rapid Blood-Pressure Lowering in Patients with Acute Intracerebral Hemorrhage (INTERACT2)
+Metadata
+Summary author:
+Adrian Wong
+Summary date: 15 July 2016
+Peer-review editor:
+Duncan Chambler

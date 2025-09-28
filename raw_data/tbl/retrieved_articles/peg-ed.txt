@@ -1,0 +1,123 @@
+# Metadata
+- Source: The Bottom Line
+- Title: PEG-eD
+- Original URL: https://www.thebottomline.org.uk/summaries/icm/peg-ed/
+- Scrape Date: 2025-07-17
+- Summary Date: AUTO_FILL_IF_AVAILABLE
+
+Diagnosis of Pulmonary Embolism with d-Dimer Adjusted to Clinical Probability
+Kearon et al for the PEG-eD study investigators. NEJM 2019; 381:2125-34. DOI:10.1056/NEJMoa1909159
+Clinical Question
+In low and moderate risk patients presenting to the Emergency Department with symptoms suggestive of pulmonary embolism (PE), can a higher d-dimer threshold be used to safely exclude pulmonary embolism without the need for imaging?
+Background
+Diagnostic testing for pulmonary embolism in the Emergency Department (ED) relies on the use of clinical assessment, biomarker levels and diagnostic imaging
+A d-dimer cut-off of < 500 ng per millilitre is the current default in most hospitals for excluding PEs in low-risk patients
+Patients with moderate risk pre-test probability are investigated with medical imaging in preference to d-dimer in most institutions
+Imaging tests (mainly Computerised Tomography Pulmonary Angiography (CTPA)), exposes patients to radiation and the risk of contrast allergy. In addition, performing these tests can increase departmental length of stay
+Identifying patients suspected of having PE who can be discharged safely without the need for diagnostic imaging is therefore important
+The
+ADJUST-PE
+study from 2014 reported that the use of an adjusted d-dimer based on patient age, could be used to safely exclude PE
+The
+YEARS study
+from 2017 found that a protocol for PE exclusion adjusted for pre-test probability and a d-dimer cut off of < 1000 was safe
+The recently published
+European Society of Cardiology (ESC) guidelines
+for the diagnosis and management of pulmonary embolism recommended considering the use of a d-dimer cut off adapted for clinical probability to exclude PE (class IIa; level B)
+PEG-eD aimed to investigate whether using a d-dimer cut-off of twice the usual threshold could be safely used to exclude PE. In addition, they also aimed to asses whether d-dimer could be used safely in patients at moderate risk of PE
+Design
+Prospective, multi-centre cohort study
+Intention to treat analysis
+Sample size based on an estimate that patients diagnosed with VTE by 90 days was 0.8% if ruled out according to PEG-eD algorithm. 2,000 patients were calculated to provide 90% power to exclude a percentage with venous thromboembolism of 2.0%
+Pre-test probability of PE determined by the seven-item Wells clinical prediction rule (scores range from 0 to 12.5)
+Low risk (low clinical pretest probability (CTP))
+: 0 to 4.0
+Moderate risk (moderate CTP)
+: 4.5 to 6.0
+High Risk (high CTP)
+: ≥ 6.5
+Further investigation determined by the
+PEGeD algorithm:
+Low C-PTP
+and a d-dimer of < 1,000 ng per millilitre and
+moderate C-PTP
+and a d-dimer of < 500 ng per millilitre underwent no further diagnostic testing
+Study outcomes assessed at 90 days after initial diagnostic testing, by telephone or in clinic
+Setting
+University-based clinical centres in Canada
+December 2015 to May 2018
+Population
+Inclusion
+: Outpatients with symptoms or signs suggestive of pulmonary embolism
+Exclusion
+:
+Younger than 18 years of age,
+Received full-dose anticoagulant therapy for 24 hours
+Major surgery in the past 21 days
+D-dimer level known before the C-PTP was assessed
+Chest imaging performed contrary to the protocol
+Contrast-enhanced CT of the chest performed for another reason
+An ongoing need for anticoagulant therapy
+Life expectancy of less than 3 months
+Pregnant or geographically inaccessible for follow-up
+2017 patients included in the final analysis
+Baseline demographics:
+mean age of the patients was 52 years
+66.2% were female
+86.9% of the patients had a low C-PTP, 10.8% had a moderate C-PTP, and 2.3% had a high C-PTP
+d-Dimer testing was performed predominantly with the STA-Liatest assay (70.9% of the tests)
+Intervention
+Use of the PEG-eD algorithm in all patients
+Management of patients not meeting PEG-eD criteria
+All other patients, including all patients with a high C-PTP, underwent chest imaging (mainly CTPA)
+If chest imaging showed pulmonary embolism, patients received anticoagulant therapy; otherwise, patients did not receive anticoagulant therapy
+Outcome
+Primary outcome
+: No patients with a low or moderate C-PTP, with a d-dimer level below the predefined threshold, had evidence of symptomatic, objectively verified venous thromboembolism at 90-day follow up
+149 out of 2017 (7.4%) of patients were diagnosed with pulmonary embolism
+Of 1970 patients (97.7% of the total population) who had a low or moderate C-PTP, 1325 (67.3%) had a negative d-dimer test and did not receive anticoagulant therapy
+None of these patients (95% confidence interval 0.00 to 0.29%) had venous thromboembolism during 90 day follow-up
+Secondary outcomes
+: Overall number of patients not diagnosed with VTE who subsequently had evidence of this at follow up:
+1 patient (0.05%; 95% CI, 0.01 to 0.30), who had a low C-PTP, a positive d-dimer test (1200 ng per milliliter), and negative findings on CT pulmonary angiography
+Of the 1,285 patients with a low C-PTP, 315 patients had a D-dimer level of 500 to 999 ng per millilitre. None of these patients had a VTE on follow-up
+Chest imaging reduced from 51.9% to 34.3% with PEG-eD algorithm (difference -17.6; 95% CI -19.2 to -15.9)
+There were 7 major bleeding episodes, 23 minor bleeding episodes, and 34 deaths during follow-up
+34 deaths occurred during follow-up, none of which were deemed to be attributable to pulmonary embolism
+Authors’ Conclusions
+Ruling out PE in patients with a low C-PTP who have a d-dimer level of less than 1000 ng per milliliter is a low-risk strategy. This strategy is also appropriate for excluding pulmonary embolism in patients with a moderate C-PTP who have a d-dimer level of less than 500 ng per millilitre
+Strengths
+Addresses a common Emergency Department presentation and clinical dilemma
+Power calculation performed for the precision of the estimate
+The investigators used an internationally recognised and well-validated scoring system (Wells)
+Results consistent with prior studies in this area
+90-day follow-up appropriate to ensure all (or most) VTEs were captured
+Intention to treat analysis used
+Canadian setting means that results are likely to have reasonable external validity in the USA, Europe and Australia
+All outcome events were evaluated with the use of predefined criteria by a central adjudication committee who were blinded to the results of diagnostic testing
+Weaknesses
+The overall PE rate was less than would be expected in an Emergency Department setting, and lower than that seen in the ADJUST-PE and YEARS studies, suggesting that the threshold for the investigation of PE was lower in this study
+In addition, only 13% of patients were moderate or high-risk for PE
+The 7.4% PE rate is however similar to that of other North American populations
+Most diagnostic work-ups for PE would include use of the PERC rule. In a low-risk patient, a negative PERC score would obviate the need for d-dimer
+Only 40 patients were moderate risk CTP with a negative d-dimer, so no firm conclusions can be drawn from this group
+This was an observational study, and may be subject to selection bias and convenience sampling
+There was a discrepancy in numbers between figure 1 and table 1
+As this was a cohort study, there was no direct comparison group of usual practice
+Although 2017 patients were included in the study, only 315 patients were directly relevant to answering the question of whether a higher d-dimer threshold can be safely used in low-risk patients. It is unclear how many of this group could have been excluded on the basis of Wells and PERC score alone
+The Bottom Line
+Using a d-dimer cut off adjusted for clinical probability appears to be a safe strategy to reduce the use of diagnostic imaging in low-risk patients with PE
+This approach should be adopted by Emergency Departments in the work-up of patients suspected of having pulmonary embolism
+External Links
+[article]
+Diagnosis of Pulmonary Embolism with d-Dimer Adjusted to Clinical Probability
+[further reading]
+Level Pegging? St Emlyn’s Journal Club Review
+[further reading]
+REBEL EM Review
+Metadata
+Summary author:
+Fraser Magee
+Summary date: 19th December 2019
+Peer-review editor:
+Steve Mathieu

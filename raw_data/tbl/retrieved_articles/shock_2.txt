@@ -1,0 +1,103 @@
+# Metadata
+- Source: The Bottom Line
+- Title: SHOCK 2
+- Original URL: https://www.thebottomline.org.uk/summaries/icm/iabp-shock-2/
+- Scrape Date: 2025-07-17
+- Summary Date: AUTO_FILL_IF_AVAILABLE
+
+Intra-aortic balloon counterpulsation in acute myocardial infarction complicated by cardiogenic shock (IABP-SHOCK II): final 12 month results of a randomised, open-label trial
+IABP-SHOCK II Trial Investigators.NEJM;2012,367(14)1287-96, DOI: 10.1056/NEJMoa1208410
+Clinical Question
+In patients with acute MI and cardiogenic shock, does intraaortic balloon counterpulsation (IABP) vs. medical therapy alone improve mortality?
+Design
+Randomised controlled trial
+Randomisation performed centrally via internet based program
+Stratified by centre
+Non-blinded
+Power calculation: 588 patients required to detect 12% change in survival rate, assuming survival rate of 56% in control group
+Intention to treat analysis
+Setting
+37 centres in Germany
+June 2009 – March 2012
+Population
+Inclusion criteria:
+Acute MI (with or without ST elevation)
+Cardiogenic shock as defined by all of following criteria:
+BP <90mmHg for >30min or required catecholamine infusion to maintain BP >90mmHg
+Clinical signs of pulmonary congestion
+Impaired end-organ perfusion (altered mental status, cold, clammy skin and extremities, urine output <30ml/hr, lactate >2)
+Early revascularisation (PCI or CABG) planned
+Exclusion criteria:
+CPR >30 minutes
+Coma with fixed dilated pupils not induced by drugs
+Mechanical cause of cardiogenic shock
+No intrinsic heart action
+Onset of shock >12 hours before screening
+Massive PE
+Age >90
+Contraindication to insertion of IABP
+600 patients randomised
+Intervention
+Intraaortic balloon counterpulsation (IABP)
+Inserted either before the PCI or immediately after PCI, at physician’s discretion
+Initiated with 1:1 triggering
+Weaned when BP >90mmHg for >30minutes without support
+Duration of IABP support (median) 3 days
+13 patients (4.3%) did not have IABP inserted, most often due to death prior to insertion
+Control
+No IABP
+30 patients (10%) subsequently had IABP inserted, most within 24 hours
+Comparing intervention group vs. control group before randomisation
+Lactate: 3.6 vs. 4.7
+Fibrinolysis <24 hours before randomisation: 9.3% vs. 6.7%
+Resuscitation before randomisation: 42.2% vs. 47.8%
+STEMI: 66.7% vs. 71.1%
+Anterior MI: 45.6% vs. 39.2%
+BP: 89mmHg vs. 90mmHg
+Comparing treatments given to the intervention group vs. control group
+Primary PCI: 95.3% vs. 96.3%, P=0.55
+Immediate bypass surgery: 2.7% vs. 3.3%, P=0.62
+Left ventricular assist device: 3.7% vs. 7.4%, P=0.053
+Outcome
+Comparing intervention group to control group:
+Primary outcome:
+30 day all cause mortality – no significant difference
+39.7% vs. 41.3%, P=0.69, RR 0.96 (95% CI 0.79-1.17)
+Secondary outcomes:
+No significant differences
+Re-infarction in hospital: 3% vs. 1.3%, P=0.16
+Peripheral ischaemic complications requiring intervention: 4.3% vs. 3.4%, P=0.53
+Life threatening or severe bleeding: 3.3% vs. 4.4%, P=0.51
+Sepsis: 15.7% vs. 20.5%, P=0.15
+Mortality in patients who had the IABP inserted before re-vascularisation, (n=37) vs. patients in whom the IABP was inserted post re-vascularisation (n=240): 36.4% vs. 36.8%, P=0.96
+SAPS II score significantly improved at day 2 (P=0.02) in intervention group vs. control group, but no significant improvement on day 4 (P=0.14) (exact SAPS II scores not stated)
+Authors’ Conclusions
+Use of IABP vs. conventional therapy did not reduce mortality
+Strengths
+Randomised controlled trial
+Allocation concealment maintained
+Minimal loss to follow-up
+Multi-centre
+Weaknesses
+Non-blinded
+High cross over rate from control to intervention treatment and vice-versa
+No specific criteria for when a left ventricular assist device was utilised
+The Bottom Line
+In patients with cardiogenic shock following acute MI, the use of IABP did not improve mortality or any longterm secondary outcome. The use of IABPs resulted in no significant increase in complications.
+External Links
+[open access pdf of article]
+Intraaortic Balloon Support for Myocardial Infarction with Cardiogenic Shock
+[Further reading]
+LITFL IABP
+[Further reading]
+ESICM: IABP and cardiogenic shock
+[Further reading]
+IABP Shock II 12 month follow up
+[Further reading]
+Expert opinion: IABP trials
+Metadata
+Summary author:
+@davidslessor
+Summary date: 8th July 2015
+Peer-review editor:
+@stevemathieu75

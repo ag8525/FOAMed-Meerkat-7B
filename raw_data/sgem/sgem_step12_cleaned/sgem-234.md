@@ -1,0 +1,33 @@
+---
+url: https://thesgem.com/2018/10/sgem234-contrast-induced-nephropathy-a-unicorn/
+title: 'SGEM#234: Contrast Induced Nephropathy – A Unicorn? - Part 1'
+date: 2018-10-20
+audio_url: https://media.blubrry.com/thesgem/content.blubrry.com/thesgem/SGEM234.mp3
+download_date: 2025-08-11
+---
+
+
+
+## Summary
+A 64-year-old woman with type-2 diabetes presented with chest pain and shortness of breath, requiring a CTPA to rule out pulmonary embolism despite concerns about contrast-induced nephropathy (CIN) due to her GFR of 50. Recent evidence, including a meta-analysis by Aycock and Westafer, indicates that modern contrast agents, specifically iso-osmolar or low osmolar contrast, are not significantly associated with acute kidney injury (AKI), as demonstrated by an odds ratio of 0.94 (95% CI 0.83 to 1.07) for AKI incidence. The study, which included over 100,000 patients, found no significant differences in AKI, mortality, or need for renal replacement therapy between contrast-enhanced and noncontrast CT scans. The findings suggest that other patient- and illness-level factors contribute more to AKI development than contrast use, supporting the safe use of contrast-enhanced CT in necessary clinical scenarios without additional prophylactic measures like bicarbonate or NAC.
+
+## Case
+A 64-year-old woman with type-2 diabetes presents to the emergency department with chest pain and some shortness of breath. The acute coronary syndrome work-up is negative, but she is Well’s high and needs a CTPA to rule out a pulmonary embolism. Her GFR is 50, and you are wondering if the contrast needed for the CT will cause an acute kidney injury (AKI) and if so, can you do anything to mitigate causing an AKI?
+
+## Background
+Contrast-induced nephropathy (CIN) is a condition historically associated with acute kidney injury (AKI) following the administration of contrast material during CT scans, particularly when high osmolar contrast agents were used. The clinical significance of CIN has been debated, as early non-controlled studies suggested a link between contrast use and AKI. However, with the current use of iso-osmolar or low osmolar contrast agents, recent observational studies indicate that AKI related to contrast is not prevalent. The definition of CIN typically involves a rise in serum creatinine by 25% or an absolute increase of 0.3 to 0.5 mg/dL within three days post-contrast administration, focusing on laboratory changes rather than direct patient outcomes such as mortality or dialysis requirement.
+
+## Clinical Point
+Is CT contrast associated with acute kidney injury?
+
+## SGEM Bottom Line
+CT contrast is not associated with acute kidney injury.
+
+## Case Resolution
+The patient has the CTPA study done without receiving bicarb or NAC, and no pulmonary embolism was identified. There was a small suspected pneumonia but requires clinical correlation.
+
+## Clinical Application
+If a contrast-enhanced CT study is needed for patient management, you should get the scan even in high-risk patients.
+
+**What Do I Tell My Patient?**
+There is no sign of a heart attack or blood clot with the CT scan. However, we did pick up a possible early pneumonia on the CT scan. I have written a prescription for antibiotics. See your PCP next week and come back to the ED if you develop a rash, your shortness of breath gets worse, or you are worried.

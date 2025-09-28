@@ -1,0 +1,105 @@
+# Metadata
+- Source: The Bottom Line
+- Title: Foulds
+- Original URL: https://www.thebottomline.org.uk/summaries/icm/foulds/
+- Scrape Date: 2025-07-17
+- Summary Date: AUTO_FILL_IF_AVAILABLE
+
+A randomised cross-over trial comparing the McGrath
+® series 5 videolaryngoscope with the Macintosh laryngoscope in patients with cervical spine immobilisation
+Foulds, L.T et al. Anaesthesia 2016. 71, 437-442. doi:10.1111/anae.13384
+Clinical Question
+In patients with cervical immobilisation, does the Mcgrath
+®
+videolaryngoscope compared to the Macintosh laryngoscope provide a better view of the larynx?
+Design
+Prospective, randomised controlled cross-over study
+Randomisation by random number sequence.
+Consecutive patients
+Powered for equivalence: 50 patients required to determine that the primary outcome would be the same or better in 90% of patients (with 2-sided 95% C.I. of ±8%)
+Procedure performed by 2 anaesthetists who were experienced in the use of both the McGrath and Macintosh laryngoscopes.
+Setting
+Operating Theatres, Single centre, Scotland
+Dates of data collection not stated
+Population
+Inclusion criteria:
+Adult patients presenting for elective operative procedures requiring          tracheal intubation.
+Without suspected C-spine pathology
+Exclusion criteria:
+Hiatus hernia, symptomatic reflux, pharyngeal pathology, requiring alternative laryngoscopic procedure or raised intra-cranial pressure.
+50 patients randomised. 1 patients had procedure cancelled post randomisation
+Comparing baseline characteristics and airway parameters of group intubated with McGrath vs. Macintosh laryngoscope – no significant differences
+BMI: 27.4 vs. 29.2
+Mallampati 3/4: 25% vs. 24%
+Mouth-opening <3cm: 4% vs. 0%
+Reduced neck movement: 12.5% vs. 0%
+Intervention
+Laryngoscopy with Macintosh blade, followed by laryngoscopy and intubation with McGrath videolaryngosope
+Control
+Laryngoscopy with McGrath videolaryngoscope, followed by laryngoscopy and intubation with Macintosh blade
+In both intervention and control groups
+Patients paralysed with muscle relaxant and immobilised with C-spine collar
+Initial laryngoscopy to assess view only
+For Macintosh laryngoscopy size 4 blade used
+For McGrath laryngoscopy, series 5 videolaryngoscope used, with blade set at middle length, and use of stylet pre-formed with 60 degree bend 4cm from the tip
+In between each laryngoscopy, the patient was re-oxygenated
+Outcome
+Primary outcome: View obtained (Cormack and Lehane grade)
+Cormack and Lehane grade better (92%) or the same (8%) in the McGrath
+®
+group versus the Macintosh group (p < 0.01)
+Comparing McGrath
+®
+vs. Macintosh group
+92% vs. 6% had a Grade 1 view
+0% vs. 57% had a Grade 3/4 view
+Secondary outcomes: comparing McGrath vs. Macintosh group
+Time to intubation – no significant difference
+45 seconds
+vs. 60 seconds, p = 0.125
+Rate of successful intubation – significantly higher in McGrath group
+100% vs. 72%, p=0.017
+Fragility index: 2 patients
+Complications – No significant difference
+Minor trauma to lips/pharynx: 10% vs. 20%
+Desaturation <92%: 0% vs. 4%
+Authors’ Conclusions
+In patients with a simulated difficult airway, via cervical immobilisation, the McGrath
+®
+videolaryngoscope provided significantly improved laryngeal views when compared with the Macintosh laryngoscope.
+Furthermore, the use of the McGrath
+®
+videolaryngoscope provided increased tracheal intubation success rates.
+Strengths
+Clinically important question
+Appropriate design to compare techniques
+Randomisation via random number sequence
+Powered prospectively
+Similar baseline characteristics
+Weaknesses
+Single centre
+Only two anaesthetists, both experienced in McGrath
+®
+videolaryngoscopy
+Didn’t reach target recruitment for power calculation.
+Immobilised patients in reality often anaesthetised as an emergency using manual in-line stabilisation rather than electively in theatres with the presence of a cervical collar.
+Non-blinded
+Lack of standard anaesthesia/muscle relaxant
+Subjective primary outcome
+The Bottom Line
+In this study, in patients immobilised with a semi-rigid cervical collar, the grade of laryngoscopic view and rate of successful intubations was greater when using a McGrath
+®
+series 5 videolaryngoscope when compared with a Macintosh blade, in the hands of two anaesthetists experienced in both techniques.
+External Links
+[article]
+A randomised cross-over trial comparing the McGrath® series 5 videolaryngoscope with the Macintosh laryngoscope in patients with cervical spine immobilisation
+[further listening]
+EmCrit – Has Video Laryngoscopy Killed the Direct Laryngoscope?
+[further reading]
+LITFL: video laryngoscopy
+Metadata
+Summary author:
+Joe Schrieber
+Summary date: 28/10/2016
+Peer-review editor:
+David Slessor

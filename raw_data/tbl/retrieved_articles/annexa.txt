@@ -1,0 +1,103 @@
+# Metadata
+- Source: The Bottom Line
+- Title: ANNEXA
+- Original URL: https://www.thebottomline.org.uk/summaries/icm/annexa/
+- Scrape Date: 2025-07-17
+- Summary Date: AUTO_FILL_IF_AVAILABLE
+
+Andexanet Alfa for the Reversal of Factor Xa Inhibitor Activity
+Siegal DM. N Engl J Med 2015, Nov 11. doi: 10.1056/NEJMoa1510991
+Clinical Question
+In healthy adults taking either apixaban (ANNEXA-A) or rivaroxaban (ANNEXA-R) does andexanet alfa compared to placebo normalise anticoagulation?
+Design
+2 part, phase 3 randomised, double-blind, placebo-controlled study
+Central randomisation via an interactive web-based response system
+2 consecutive parts within each sub-trial:
+Part 1 – bolus dose of andexanet vs. placebo
+Part 2 – bolus dose followed by a 2-hour infusion vs. placebo
+Doubled blinded – the participants and the researchers were unaware of allocation;only a designated research pharmacist aware
+145 participants were sufficient to provide a 99% power to detect a difference in the percentage change in anti-factor Xa activity from baseline at a two sided alpha level of 5% within each part of the study
+Setting
+2 separate sites:
+ANNEXA-A in Arizona, USA
+ANNEXA-R in California, USA
+March 2014 to May 2015
+Population
+Inclusion criteria:
+Reasonably healthy volunteers aged 50-75 years of age
+In ANNEXA-A participants received 5mg of apixaban twice daily
+In ANNEXA-R participants received 20mg of rivaroxaban once daily
+Exclusion criteria:
+History of abnormal bleeding, active bleeding or risk factors for bleeding
+History of thrombosis or risk factors for thrombosis
+History of adult asthma or use of inhaled medications
+145 patients randomly assigned to andexanet or placebo in a 3:1 ratio (ANNEXA-A) or a 2:1 ratio (ANNEXA-R)
+Intervention
+ANNEXA-A
+All participants received 5mg of apixaban orally twice daily for 3.5 days to achieve steady state plasma levels
+Andexanet administered 3 hours after last dose to coincide with peak plasma concentration
+Part 1 – Bolus
+400 mg andexanet IV bolus at 30 mg/minute rate
+Part 2 – Bolus and Infusion
+400 mg andexanet IV bolus (same as Part 1) followed by infusion at 4 mg/minute for 120 minutes
+ANNEXA-R
+All participants received 20mg of rivaroxaban orally once daily for 4 days to achieve steady state plasma levels
+Andexanet administered 4 hours after last dose to coincide with peak plasma concentration
+Part 1 – Bolus
+800 mg andexanet IV bolus at 30 mg/minute rate
+Part 2 – Bolus and Infusion
+800 mg andexanet IV bolus (same as Part 1) followed by infusion at 8 mg/minute for 120 minutes
+Control
+Placebo
+All four groups above (ANNEXA-A Parts 1 and 2; ANNEXA-R Parts 1 and 2) were matched with four groups who received identically prepared placebo at the same administration rates
+Outcome
+Primary outcome: anti-factor Xa activity was reduced to a greater extent with andexanet compared to placebo (expressed as mean reduction as percentage of baseline – higher % demonstrates greater normalisation of anticoagulation)
+Part 1 – Bolus:
+ANNEXA-A 94±2% vs. 21±11% (p < 0.001)
+ANNEXA-R 92±11% vs. 21±15% (p < 0.001).
+Part 2 – Bolus and Infusion:
+ANNEXA-A 92±3% vs. 33±6% (p < 0.001)
+ANNEXA-R 97±3% vs. 45±12% (p < 0.001)
+Secondary outcome:
+Thrombin generation – treatment with andexanet appeared to restore thrombin generation (expressed as change in mean thrombin generation – higher value demonstrates stronger coagulation)
+Part 1 – Bolus:
+ANNEXA-A 1323.2±335.4 nM·min vs. 88.2±125.8 nM·min (p < 0.001)
+ANNEXA-R 1314.2±331.2 nM·min vs. 173.9±104.2 nM·min (p < 0.001)
+Part 2 – Bolus and Infusion:
+ANNEXA-A 1193.1+/- 263.3 nM·min vs. 189.4+/- 184.8 nM·min (p < 0.001)
+ANNEXA-R 1510.4 +/- 344.8 nM·min vs. 264.4 +/- 140.7 nM·min (p < 0.001)
+Unbound fraction of apixaban and rivaroxaban – andexanet reduced the measured unbound concentration of apixaban and rivaroxaban by a statistically significant change when administered either by bolus (Part 1) or by bolus + infusion (Part 2)
+Safety concerns
+There were no serious events reported and no thrombotic events reported
+One patient developed hives and had the andexanet infusion discontinued after 35 minutes
+Authors’ Conclusions
+This study provides good evidence that andexanet rapidly restores factor Xa activity, thrombin generation and reduces the unbound fraction of Xa inhibitor in older subjects treated with apixaban or rivaroxaban
+Strengths
+Highly relevant and important clinical question
+Well designed phase 3 studies
+Clear objective measurable outcomes
+Appropriate study design with appropriate blinding of researchers and participants
+Clear description of participants who didn’t complete the study protocol
+Analysed on an intention to treat basis. Only one participant wasn’t included as described above. One subject withdrew and another was lost to follow up but both were included in the efficacy and safety analyses
+Inclusion of older subjects (population who are more likely to take Xa inhibitors)
+Weaknesses
+Although effort was made to match the study population to the population who most commonly have atrial fibrillation and venothromboembolic disease the median age ranged from 53-60 in the 8 groups above, which is still quite a lot lower than the median age range in the large atrial fibrillation trials (70-73)
+The subjects all had normal renal function and body mass index <28 again not representative of the typical population who might be talking factor Xa inhibitors
+The Bottom Line
+Both ANNEXA-A and ANNEXA-R show impressive reversal of anti-factor Xa activity by andexanet.
+It should however be made clear that safety data of any meaning will only come from larger phase 3b-4 studies, which are in progress (Clinical trials.gov NCT02329327). Caution must be exercised with any new drug particularly if the results are used to guide emergency reversal of patients anti-coagulated with factor Xa inhibitors, which of course is the intended aim of such agents due to the myriad of factors that affect bleeding tendency in the acute setting.
+External Links
+[article]
+Andexanet Alfa for the Reversal of Factor Xa Inhibitor Activity
+[editorial]
+Antidote for Factor Xa Anticoagulants
+[youtube]
+Mode of action of Andexanet Alfa
+[youtube]
+The ANNEXA-A and ANNEXA-R Trials
+Metadata
+Summary author:
+@DrJamiePlumb
+Summary date: 27 January 2016
+Peer-review editor:
+@DuncanChambler

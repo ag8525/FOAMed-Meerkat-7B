@@ -1,0 +1,562 @@
+```yaml
+title: "CrackCast Episode 97: Renal Failure"
+url: "https://canadiem.org/crackcast"
+date: 2017-08
+source: "CanadiEM – CrackCast"
+original_file: "CrackCast-Shownotes-Episode-97-Renal-Failure.pdf"
+summary: |
+  The document focuses on renal failure, particularly acute kidney injury (AKI) and chronic kidney disease (CKD), discussing their causes, diagnostic approaches, and management strategies. AKI is categorized into pre-renal, intrinsic, and post-renal causes, with diagnostic differentiation based on laboratory tests such as BUN:Cr ratio and urine sodium levels. Key management steps include addressing life-threatening conditions like hyperkalemia and pulmonary edema, and understanding the implications of diuretic use in volume-overloaded patients. The document also covers complications of AKI, such as metabolic acidosis and electrolyte imbalances, and highlights the importance of recognizing reversible and treatable causes of CKD. Additionally, it outlines the mechanisms of drug toxicity in CKD and the indications for emergency dialysis, emphasizing the need for careful monitoring and intervention in patients with renal impairment.
+```
+
+## Overview
+
+### Rosen's in Perspective
+
+So what’s the emergency about kidney disease?
+
+Well here’s the thought process:
+
+1. Identify renal failure (azotemia)
+   - Rule out life threats: hyperK, pulmonary edema
+   - Is this AKI or a pre-existing CKD?
+   - ...all the rest of the steps we’ll cover in the show!
+
+AKI can be from pre-renal, intrinsic parenchymal damage, or post-renal/obstructive causes.
+
+When you say Acute Tubular necrosis, it means the cause of intrinsic AKI can NOT be attributed to a glomerular, vascular, or interstitial cause.
+
+### Soap Box
+
+Remember all you lasix happy people:
+
+Patients w/ CHF or cirrhosis are often salt-overloaded and water-overloaded HOWEVER their effective intra-arterial volume is decreased.
+
+Giving these patients diuretics can further decrease intravascular volume = decreased glomerular filtration and prerenal azotemia.
+
+In the end “a state of chronic, stable, prerenal azotemia may be the best achievable compromise between symptomatic volume overload and severe renal hypoperfusion.” - Rosen’s 9th edition
+
+## Core Questions
+
+### 1) Describe a general approach to the evaluation of acute kidney injury (AKI)
+
+Azotemia (azot, "nitrogen" + -emia, "blood condition") is a medical condition characterized by abnormally high levels of nitrogen-containing compounds (such as urea, creatinine, various body waste compounds, and other nitrogen-rich compounds) in the blood. - Wikipedia.
+
+Hx: Look for pre-renal causes:
+
+- Decreased cardiac output signs & symptoms (lightheadedness, SOB, PND, orthopnea, etc.)
+- Bleeding
+- GI fluid loss
+- Abnormal polyuria
+
+Hx: Obstructive / Post Renal:
+
+- Nocturia / frequency / hesitancy or decreased urinary stream
+- Dysuria / hematuria (infection / inflammation or neoplasm)
+- Hx kidney stones or chronic urinary tract infection (UTI).
+
+Pearl: Hx of acute anuria (<100 mL of urine/day) = high-grade urinary tract obstruction but can also include:
+
+- Severe volume depletion
+- Severe acute glomerulonephritis
+- Cortical necrosis
+- Bilateral renal vascular occlusion.
+
+Intermittent anuria usually = Obstruction
+
+Ask about med use and other toxin exposures, rash, dark urine, fever, and arthritis.
+
+Refer to Fig 87.1 for a structured approach to Azotemia
+
+### 2) List clinical features of AKI
+
+Box 87.1
+
+**Cardiovascular**
+- Pulmonary edema
+- Arrhythmia
+- Hypertension
+- Pericarditis
+- Pericardial effusion
+- Myocardial effusion
+- Pulmonary embolism
+
+**Metabolic**
+- Hyponatremia
+- Hyperkalemia
+- Hypocalcemia
+- Hyperphosphatemia
+- Hypermagnesemia
+- Hyperuricemia
+
+**Neurologic**
+- Asterixis
+- Neuromuscular irritability
+- Mental status changes
+- Somnolence
+- Coma
+- Seizures
+
+**Gastrointestinal**
+- Nausea
+- Vomiting
+- Gastritis
+- Gastroduodenal ulcer
+- Gastrointestinal bleeding
+- Pancreatitis
+- Malnutrition
+
+**Hematologic**
+- Anemia
+- Hemorrhagic diathesis
+
+**Infectious**
+- Pneumonia
+- Septicemia
+- UTI
+- Wound infection
+
+### 3) List the causes of prerenal azotemia
+
+Box 87.2
+
+**Volume loss**
+- GI losses
+- Renal (diuresis)
+- Blood loss
+- Insensible losses
+- Third-spacing sequestration
+- Pancreatitis
+- Peritonitis
+- Trauma
+- Burns
+
+**Cardiac causes**
+- Myocardial infarction
+- Valvular disease
+- Cardiomyopathy
+- Decreased effective arterial volume
+- Antihypertensive medication
+- Nitrates
+
+**Neurogenic causes**
+- Sepsis
+- Anaphylaxis
+- Hypoalbuminemia
+- Nephrotic syndrome
+- Liver disease
+
+### 4) Compare laboratory test differences between pre-renal azotemia and Intrinsic AKI
+
+|                | Pre Renal | Intrinsic | Post          |
+|----------------|-----------|-----------|---------------|
+| BUN : Cr (ratio) | Usually >20 | 10-20     | 10-20         |
+| Urine Na (mEq/L) | <20        | >30       | <20 early >40 late |
+| FENa (%)        | <1         | >2-3      | <1 early >3 late |
+| Urine Osm (mOsm/kg) | >350       | ~300      | >400 early 300 late |
+| Urine Specific Gravity | >1.020     | ~1.010    | >1.010 early <1.010 late |
+| Urine Micro    | Normal +/- hyaline casts | ATN: Hyaline casts w/ dark granular casts, renal epi cells or casts | Normal +/- hyaline casts or granular casts |
+
+### 5) List the intrinsic renal diseases that cause AKI
+
+Box 87.4
+
+**Vascular Diseases**
+
+**Large-Vessel Diseases**
+- Renal artery thrombosis or stenosis
+- Renal vein thrombosis
+- Atheroembolic disease
+
+**Small- and Medium-Sized Vessel Diseases**
+- Scleroderma
+- Malignant hypertension
+- Hemolytic uremic syndrome
+- Thrombotic thrombocytopenic purpura
+- HIV-associated microangiopathy
+
+**Glomerular (Systemic) Diseases**
+- Systemic lupus erythematosus
+- Infective endocarditis
+- Systemic vasculitis
+- Henoch-Schonlein purpura
+- HIV-associated nephropathy
+- Essential mixed cryoglobinemia
+- Goodpasture’s syndrome
+
+**Primary Renal Diseases**
+- Poststreptococcal glomerulonephritis
+- Other postinfectious glomerulonephritis
+- Rapidly progressive glomerulonephritis
+
+**Tubulointerstitial Diseases and Conditions**
+- Drugs
+- Toxins
+- Infections
+- Multiple myeloma
+
+**Acute Tubular Necrosis**
+- Ischemia -> Shock, sepsis, severe pre-renal azotemia
+- Nephrotoxins -> Antibiotics, radiographic contrast agents, myoglobinuria, hemoglobinuria
+
+**Other Diseases and Conditions**
+- Severe liver disease
+- Allergic reactions
+- NSAIDs
+
+### 6) List the RFs for contrast induced ATN
+
+According to LITFL here
+
+Top 3:
+
+- Pre-existing renal disease (especially Cr >120)
+- Diabetes mellitus
+- Age >75yrs
+
+Others:
+
+- CHF
+- Hypertension
+- Hypovolemia
+- Nephrotoxins (NSAIDs, cyclosporin, aminoglycosides, amphotericin)
+- High dose contrast, intra-arterial worse than IV
+- Cirrhosis/nephrotic syndrome
+- Multiple myeloma
+- PVD
+- High uric acid and hypercholesterolemia
+
+### 7) List the causes of postrenal renal failure
+
+Box 87.3
+
+**Intrarenal and Ureteral Causes**
+- Kidney stone
+- Sloughed papilla
+- Malignancy
+- Retroperitoneal fibrosis
+- Uric acid, oxalic acid, or phosphate crystal precipitation
+- Sulfonamide, methotrexate, acyclovir, or indinavir precipitation
+
+**Bladder**
+- Kidney stone
+- Blood clot
+- Prostatic hypertrophy
+- Bladder carcinoma
+- Neurogenic bladder
+
+**Urethra**
+- Phimosis
+- Stricture
+
+### 8) List the causes of pigment induced AKI
+
+Box 87.5
+
+**Rhabdomyolysis and myoglobinuria**
+- Crush injury
+- Compartment syndrome
+- Electrical injury
+- Myonecrosis from coma or immobilization
+- Acute arterial occlusion
+- Vigorous exertion
+- Status epilepticus
+- Hyperthermia/heat stress
+- Metabolic myopathy
+- Drugs/toxins
+- Hypokalemia
+- Hypophosphatemia
+
+**Hemoglobinuria**
+- Acute hemolysis
+- Transfusion reaction
+- Infections
+
+### 9) List causes of hematuria, what are the most common?
+
+Think:
+
+- UTI
+- Stones
+- Exercise Induced
+- Trauma
+- Endometriosis
+- Cancer
+- PCKD
+- Glomerular Disease
+
+According to UptoDate:
+
+### 10) List complications of AKI
+
+Spaced repetition! Essentially the same as questions 1, but here is another way of thinking about it
+
+Checkout the CCC at LITFL here
+
+- Volume overload – CHF, HTN
+- Metabolic acidosis
+- Hyperchloraemia
+- Accumulation of organic anions – PO4
+- Decreased Alb -> decreased buffering
+- Impaired insulin action -> hyperglycaemia
+- Catcholamine resistance (bAR downregulation)
+- Increased iNOS
+- Electrolytes – increased K+ and low Na+
+- Pulmonary oedema – low albumin -> decreased oncotic pressure + volume overload
+- ALI – neutrophil activation and sequestration in the lung
+- Uraemia (ALOC and pericarditis)
+- Immune – decreased clearance of oxidant stress, tissue oedema, WCC dysfunction – increased risk of infection
+- Haematological – decreased RBC synthesis and increased destruction of RBC -> anaemia, decreased EPO, platelet dysfunction secondary to uremic toxins, vWF -> bleeding
+- GI – GI oedema -> compartment syndrome, decreased nutritional absorption, gut ischaemia -> peptic ulcer disease
+- Pharmacology – increased Vd, decreased bioavailability, albumin, decreased elimination -> under dosing or toxicity
+
+### 11) Compare and Contrast nephritic vs nephrotic syndrome
+
+Check out this link for a more in-depth video: [here](https://canadiem.org/crackcast)
+
+### 12) List the Main Causes of CKD
+
+Box 87.6
+
+**Vascular causes**
+- Renal artery disease
+- Hypertensive nephrosclerosis
+
+**Glomerularopathies – Primary**
+- Focal sclerosing glomerularnephritis (GN)
+- Membranoproliferative GN
+- Membranous GN
+- Crescentic GN
+- IgA nephropathy
+
+**Glomerularopathies – Secondary**
+- Diabetic nephropathy
+- Collagen vascular disease
+- Amyloidosis
+- Post-infectious
+- HIV nephropathy
+
+**Tubulointerstitial causes**
+- Nephrotoxins
+- Analgesic nephropathy
+- Hypercalcemia or nephrocalcinosis
+- Multiple myeloma
+- Reflux nephropathy
+- Sickle cell nephropathy
+- Chronic pyelonephritis
+- Tuberculosis
+
+**Obstructive Causes**
+- Nephrolithiasis
+- Ureteral tuberculosis
+- Retroperitoneal fibrosis
+- Retroperitoneal tumor
+- Prostatic obstruction
+- Congenital abnormalities
+
+**Hereditary Causes**
+- Polycystic kidney disease
+- Alport’s syndrome
+- Medullary cystic disease
+
+### 13) List the reversible and treatable causes of CKD
+
+Box 87.7
+
+**Reversible Factors**
+- Hypovolemia
+- CHF
+- Pericardial tamponade
+- Severe hypertension
+- Catabolic state, protein loads
+- Nephrotoxic agents
+- Obstructive disease
+- Reflux disease
+
+**Treatable Causes**
+- Renal artery stenosis
+- Malignant hypertension
+- Acute interstitial nephritis
+- Hypercalcemic nephropathy
+- Multiple myeloma
+- Vasculitis
+- Obstructive nephropathy
+- Reflux nephropathy
+
+### 14) List the mechanisms of drug toxicity in CKD
+
+Box 87.8
+
+- Excessive drug level
+- Impaired renal excretion of drug
+- Impaired renal excretion of metabolite
+- Impaired hepatic metabolism
+- Increased sensitivity to drug
+- Changes in protein binding
+- Changes in volume of distribution
+- Changes in target organ sensitivity
+- Metabolic loads administered with drug
+- Misinterpretation of measured serum drug level
+
+### 15) List four major complications of CKD and their management
+
+**A) Hyperkalemia (see Table 87.1 for dose/moa/details)**
+
+- Calcium gluconate
+- Albuterol
+- Glucose & insulin
+- Sodium bicarbonate
+- Dialysis
+- IV diuretics
+
+**B) Bleeding**
+
+Likely platelet dysfunction secondary to uremia:
+
+Desmopressin 0.3-0.4mcg/kg (max dose 20mcg)
+
+**C) Pulmonary edema**
+
+IV nitro glycerin and NIPPV
+Dialysis
+
+**D) Infection**
+
+Sepsis workup including blood cultures (peripheral and off any lines)
+Consider advanced imaging of fistulae (especially in Prosthetic bridge fistula)
+Big guns for antibiotics (Cipro and Septra for UTI, or Ceft and vanco for unwell)
+
+**E) Hypocalcemia**
+
+Asymptomatic = Not urgent
+
+Tetany: IV Calcium (gluconate peripheral or chloride central)
+
+**F) Hyperphosphatemia**
+
+Calcium-based antacids that bind ingested phosphate in the gut
+Dialysis
+
+**G) Hypermagnesemia**
+
+Stop laxatives and Mg replacement.
+Dialysis
+
+### 16) Compare the mechanisms of dialysis in HD and PD
+
+The basis of all dialysis is having the patient's blood come in contact with a semi-permeable membrane.
+
+In IHD, that membrane is external to the patient and thus via venous access, we remove their blood and return it post filtration.
+
+In peritoneal dialysis, the patient's peritoneum acts as the membrane. The dialysate is pumped into the patient's abdomen via a Silastic catheter.
+
+### 17) List indications for emergency dialysis
+
+Box 87.9
+
+- Pulmonary edema
+- Severe uncontrollable hypertension
+- Hyperkalemia
+- Other severe electrolyte or acid-base disturbances
+- Some overdoses
+- Pericarditis (possibly)
+
+### 18) List complications of hemodialysis
+
+**Vascular Access–Related Complications**
+
+- Occlusion
+- Bleeding
+- Infection
+
+**Non–Vascular Access–Related Complications**
+
+- Hypotension (see next question)
+- Bleeding (pericardial, pleural, GI, ICH, abdominal, retroperitoneal)
+- VTE
+- CAD
+- Neurologic Dysfunction (disequilibrium syndrome)
+
+### 19) List DDx for Hypotension in the hemodialysis patients
+
+Box 87.10
+
+- Hypovolemia
+- Excessive fluid removal
+- Hemorrhage
+- Septicemia
+- Cardiogenic shock
+- Dysrhythmia
+- Pericardial tamponade
+- Myocardial infarction
+- Myocardial or valvular dysfunction
+- Electrolyte disorders
+- Hyperkalemia or hypokalemia
+- Hypercalcemia or hypocalcemia
+- Hypermagnesemia
+- Vascular instability
+- Drug-related
+- Dialysate-related
+- Autonomic neuropathy
+- Excessive access arteriovenous flow
+- Anaphylactoid reaction
+- Air embolism
+
+### 20) List causes of altered mental status in dialysis patients
+
+Box 87.11
+
+**Structural Conditions**
+- Cerebrovascular accident
+- Subdural hematoma
+- Intracerebral abscess
+- Brain tumor
+
+**Metabolic Conditions**
+- Disequilibrium syndrome
+- Uremia
+- Drug effects
+- Meningitis
+- Hypertensive encephalopathy
+- Hypotension
+- Postictal state
+- Hypernatremia or hyponatremia
+- Hypercalcemia
+- Hypermagnesemia
+- Hypoglycemia
+- Severe hyperglycemia
+- Hypoxemia
+- Dialysis dementia
+
+### 21) Describe the management of peritonitis in the PD patient
+
+Likely SBP
+
+Send dialysate of catheter (sterile technique) if:
+
+- >100 WBCs/mm3 peritoneal fluid
+- >50% neutrophils
+- Positive Gram staining
+
+If fluid is normal then consider ruling out surgical cause
+
+IP antibiotics: Vanco and ceftazidime or cefepime
+
+Consider adding Heparin 500 to 1000 units to dialysate bag to decrease fibrin formation and subsequent obstruction of catheter
+
+## Wisecracks
+
+### 1) How do NSAIDs cause AKI?
+
+- Blocking prostaglandin = decreased glomerular perfusion = decreased GFR
+  - This can happen in patients with normal intravascular volume and normal glomerular perfusion! (includes all NSAIDs, and Aspirin)
+- Direct interstitial nephritis
+- Direct papillary necrosis.
+
+### 2) Describe the likely pathophysiologic etiology of the following casts
+
+- Hyaline Casts: Acellular think pre or post renal
+- Red Cell Casts: Glomerular disease (i.e., nephritic syndrome)
+- White Cell Casts: Interstitial disease (i.e., pyelonephritis or AIN)
+- Granular Casts: Tubular disease (i.e., ATN)
+- Fatty Casts: Nephrotic syndrome
+```

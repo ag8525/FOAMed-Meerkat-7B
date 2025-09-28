@@ -1,0 +1,1354 @@
+# Metadata
+- topic: 5.1 - The Pediatric Patient - CC-EP-175-Neurologic-Disorders-ch.-174-Rosens-9th-Ed.
+- source_folder: 5.1 - The Pediatric Patient
+- original_file: CC-EP-175-Neurologic-Disorders-ch.-174-Rosens-9th-Ed..pdf
+
+ 
+ 
+CrackCast Show Notes – Pediatric Neurologic Disorders – May 2017 
+ 
+www.canadiem.org/crackcast 
+ 
+Chapter 175 – Pediatric Neurologic Disorders 
+ 
+Episode Overview 
+ 
+• 
+Causes of altered mental status in children are broad. Use a comprehensive approach! 
+(e.g. DIMES)  
+o Includes vascular events (e.g., stroke, arteriovenous malformation with bleed), 
+infection (e.g., meningitis, sepsis, encephalitis), trauma, toxic ingestion, anatomic 
+or structural abnormality (e.g., intracranial mass or tumor), metabolic 
+derangements, intussusception, or seizures, which may be subclinical. 
+• 
+Altered mental status in children has a varied spectrum of clinical presentations and may 
+include any of the following: altered level of consciousness, excessive sleepiness, 
+irritability, lethargy, and abnormal behavior. 
+• 
+Signs and symptoms of bacterial meningitis vary by age and can include nonspecific 
+manifestations in infants and young children, such as irritability and lethargy. 
+• 
+Antibiotic therapy for the patient with suspected bacterial meningitis, should not be 
+delayed by an LP. Initial antibiotic coverage should be broad and guided by the most 
+likely pathogens in the patient’s age group. 
+• 
+When treating the patient with seizures: 
+o A careful and detailed history is instrumental in determining whether an event 
+was a seizure. If the event was a seizure, the history should delineate which type 
+of seizure occurred (partial or generalized) and whether the clinical event fits into 
+a known epilepsy syndrome. 
+o Status epilepticus constitutes a neurologic emergency that carries high morbidity 
+and mortality rates. Initial treatment is typically with IV lorazepam, followed by 
+fosphenytoin. 
+• 
+A simple febrile seizure is generalized, lasts less than 15 minutes, and occurs in a 
+neurologically and developmentally normal child between 6 months and 6 years of age. 
+• 
+Children with simple febrile seizures do not require blood and urine testing, other than as 
+needed lab work for the evaluation of the fever source. In immunized infants 6 to 18 
+months of age with a first-time simple febrile seizure, a lumbar puncture (LP) can be 
+avoided if the child is not-ill appearing, has returned to baseline, and there are no clinical 
+signs of meningitis. 
+• 
+The possibility of provoked seizures should be considered because many causes are 
+treatable. 
+• 
+Breath-holding spells occurs in children 6 months to 6 years of age and are triggered by 
+pain or emotional upset. After a trigger, the child becomes pale or cyanotic and may lose 
+consciousness, sometimes with a brief period of clonic movements or opisthotonos. 
+• 
+When treating the patient with headaches, consider the following: 
+o Most headaches in children have benign causes that usually can be diagnosed 
+by a careful history and physical examination. Radiologic evaluation by CT, MRI, 
+or both may be necessary to rule out secondary causes of headache such as 
+intracranial hemorrhage, subarachnoid hemorrhage, brain tumor, or brain 
+abscess. 
+o Warning signs of secondary headaches include sudden onset, occurrence with 
+straining or exertion, association with neurologic symptoms, change in headache 
+pattern, nocturnal awakening, and bilateral occipital headaches. 
+ 
+ 
+ 
+ 
+CrackCast Show Notes – Pediatric Neurologic Disorders – May 2017 
+ 
+www.canadiem.org/crackcast 
+ 
+• 
+When treating the patient with ataxia:  
+o In children, 40% of ataxia cases are caused by acute cerebellar ataxia. 
+o A toxicology screen is the test with the highest diagnostic yield for acute-onset 
+ataxia in children. 
+o Approximately 45% to 60% of all childhood brain tumors arise in the brainstem or 
+cerebellum and can manifest as slowly progressive ataxia. 
+• 
+The cause of vertigo with hearing loss is significantly different from that of vertigo without 
+hearing loss. This differentiation can be helpful in guiding the diagnostic evaluation. 
+• 
+When assessing an infant or child with motor weakness, it is important to distinguish 
+presentations consistent with upper motor neuron pathology from lower motor neuron 
+processes. 
+• 
+When treating the pediatric patient with either a suspected or confirmed stroke, consider 
+the following: 
+o Strokes are less common in children than in adults. They represent a neurologic 
+emergency and may be hemorrhagic or ischemic in nature. Imaging with CT 
+and/or MR can help confirm the diagnosis of stroke. An important component of 
+stroke management involves the prevention of secondary brain injury. 
+• 
+Spinal cord compression is a medical emergency regardless of cause and requires 
+prompt diagnosis and treatment. It may arise from trauma, infection, inflammation, or 
+malignancy. 
+• 
+The diagnosis of Guillain-Barré syndrome (GBS) is largely clinical, although LP may be 
+helpful in confirming the diagnosis. Patients with GBS are at risk for respiratory 
+compromise and should be admitted to the hospital for observation and supportive care. 
+• 
+The diagnosis of infant botulism is largely clinical. If there is high clinical suspicion, 
+treatment should be initiated promptly, without awaiting laboratory confirmation. Given 
+the risk of respiratory compromise, infants with botulism should be admitted to the 
+hospital for observation and supportive care. 
+• 
+Diagnosis of myasthenia gravis in the ED may be confirmed with the Tensilon test. 
+(remember: injection of an acetylcholine esterase inhibitor to assess for increased 
+strength on repetitive movements). The disorder can often be treated on an outpatient 
+basis, but patients with truncal involvement and concern for respiratory compromise 
+should be admitted to the hospital for observation and supportive care. 
+ 
+Core Questions 
+ 
+1. List ten causes of provoked (acutely symptomatic) seizures. 
+2. List four episodic disorders that may mimic seizures in neonates and four in non-
+neonates. 
+3. Give an approach to acute seizure control in a 9-month-old and in a 5-year-old. 
+a. How does it differ if you are unable to obtain IV or IO access? 
+4. What is the definition of status epilepticus? 
+5. List 6 medical treatments for status epilepticus. 
+6. What is the definition of a simple febrile seizure? 
+7. Describe the management of febrile seizure. 
+8. List 5 reasons for CT Head after seizure and describe management after the 1st peds 
+seizure. 
+a. Which patients should have outpatient imaging and neurology follow-up? 
+b. Which children with seizure should be admitted to hospital? 
+9. List 10 differential diagnoses for headache in peds. 
+ 
+ 
+CrackCast Show Notes – Pediatric Neurologic Disorders – May 2017 
+ 
+www.canadiem.org/crackcast 
+ 
+10. List 8 indications for radiologic imaging in patients with headache. 
+11. With regards to presentation and management, how are migraines different in children? 
+12. Describe the criteria which define migraine headache (review). 
+13. List 10 causes of pediatric ataxia. 
+14. Describe an approach to the pediatric patient with ataxia. 
+15. List 5 central and 5 peripheral causes of vertigo. Which is the more common cause of 
+vertigo in children? 
+16. List 8 risk factors for pediatric stroke.  
+ 
+Show Notes only:  
+● Spinal Cord Disorders 
+● GBS 
+● Myasthenia Gravis 
+ 
+Wisecracks 
+ 
+1. Describe each of the following: 
+a. Infantile Spasms 
+b. Absence Epilepsy 
+c. Benign Rolandic Epilepsy of Childhood 
+d. Lennox-Gastaut Syndrome 
+2. What is the most common cause of status epilepticus in children? In adults? 
+3. List five side effects of therapeutic dilantin use. 
+4. When is LP indicated in children with febrile seizures? 
+5. Give causes of acute, acute recurrent, chronic progressive and chronic non-progressive 
+headaches. 
+6. Describe the presentation of infantile botulism.  
+ 
+Rosen’s In Perspective: 
+ 
+This chapter includes the following pediatric neurologic disorders—altered mental status, 
+seizures, headache, ataxia and derangements of balance and motor dysfunction. In this RIP, we 
+want to quickly touch on “altered mental status in children”. It’s a topic covered in this chapter 
+that we’ve discussed in the past.  
+ 
+Really, the key point is keep a BROAD DIFFERENTIAL! Use an approach like VITAMIN C&D, 
+AEIOUTIPS, DIMES, or if it is the neonate: think through THE MISFITS:  
+ 
+• 
+Vascular events (e.g., stroke, arteriovenous malformation with bleed) 
+• 
+Infection (e.g., meningitis, sepsis, encephalitis) 
+• 
+Trauma 
+• 
+Toxic ingestion 
+• 
+Anatomic or structural abnormality (e.g., intracranial mass or tumor)  
+• 
+Metabolic derangements (e.g., DKA, hypoglycemia, urea cycle defect) 
+• 
+Intussusception  
+• 
+Seizures 
+ 
+ 
+CrackCast Show Notes – Pediatric Neurologic Disorders – May 2017 
+ 
+www.canadiem.org/crackcast 
+ 
+It is important to note that we will not be covering pediatric CNS infections in this podcast. 
+However, we have included a couple of tables that are will act as a small refresher. 
+ 
+Check out Episode 109 on CNS infections for a deep discussion on pediatric 
+meningitis/encephalitis.  
+ 
+Also, check out Tables 174.2 and 174.3 in Rosen’s 9th Edition for a more comprehensive review 
+of causative agents of pediatric bacterial meningitis and their associated antibiotic therapy. 
+ 
+Bacterial Meningitis: Common Causative Pathogens by Age 
+Age Group 
+Pathogens 
+Newborns 
+GBS, E. Coli, Listeria 
+Infants and Children 
+Strep. pneumo, N. meningitidis, H. Flu B 
+Adolescents and Young Adults 
+Strep. pneumo, N. meningitidis 
+ 
+Bacterial Meningitis: Initial Empirical Antibiotic Coverage by Age 
+Age Group 
+Pathogens 
+0-28 days 
+Ampicillin PLUS gentamycin OR cefotaxime 
+28 days – 3 months 
+Ampicillin OR vancomycin PLUS cefotaxime 
+OR ceftriaxone 
+>/3 months 
+Cefotaxime OR ceftriaxone PLUS vancomycin 
+ 
+Core Questions 
+ 
+[1] List ten causes of provoked (acutely symptomatic) seizures. 
+ 
+To review, let’s talk about the classifications for symptomatic seizures: 
+ 
+REMEMBER: A seizure is defined as a paroxysmal event characterized by temporary 
+involuntary changes in the patient caused by abnormal and excessive activity of a group of 
+cortical neurons. 
+ 
+Classifications of Seizures 
+Type: 
+Sub-Type: 
+Generalized 
+Tonic-clonic 
+Absence  
+Myoclonic 
+Clonic 
+Tonic 
+Atonic 
+Focal 
+Simple Partial (normal mental status) 
+Complex Partial (altered mental status) 
+Unknown 
+Epileptic Spasms 
+ 
+ 
+For a more comprehensive classification of seizures, please refer to Table 174.4 in Rosen’s 9th 
+Edition. 
+ 
+ 
+CrackCast Show Notes – Pediatric Neurologic Disorders – May 2017 
+ 
+www.canadiem.org/crackcast 
+ 
+ 
+Provoked seizures are caused by an identifiable trigger and stem from a broad array of 
+disturbances, including fever, metabolic derangements, and trauma. Unprovoked seizures have 
+no clear immediate precedent. Epilepsy is commonly defined as the occurrence of two or more 
+unprovoked seizures. 
+ 
+DIMES for anything related to altered LOC: 
+ 
+● Fever 
+○ Infection 
+■ Don’t forget about atypical febrile seizures (no fever)  
+■ Don’t forget about gastrointestinal-related seizures  
+○ Hemorrhage  
+● Toxin 
+○ Drug intoxication or withdrawal 
+● Metabolic 
+○ Electrolytes 
+○ Inborn-EOM 
+○ Liver/renal disease 
+● Neoplastic 
+● Vascular 
+○ AVM rupture 
+● Degenerative 
+○ Hypoxia  
+ 
+For a more comprehensive list of causes for acute symptomatic seizures, please refer to Table 
+174.5 in Rosen’s 9th Edition. 
+ 
+[2] List four episodic disorders that may mimic seizures in neonates and 
+four in non-neonates. 
+ 
+Neonates: 
+ 
+• 
+Jitteriness 
+• 
+Benign neonatal sleep myoclonus 
+• 
+Nonepileptic apnea 
+• 
+Opisthotonos (hyperextension, back arching, spasticity - either physiologic or pathologic 
+in cases of meningitis, tetanus)  
+• 
+Normal movement 
+ 
+Non-neonates:  
+ 
+• 
+Syncope 
+• 
+BRUE 
+• 
+Breath-holding spells  
+• 
+Migraine with aura (vomiting, motor deficits, altered LOC) 
+• 
+Sydenham’s chorea 
+• 
+Various sleep disorders - narcolepsy, cataplexy  
+• 
+Tics 
+ 
+ 
+CrackCast Show Notes – Pediatric Neurologic Disorders – May 2017 
+ 
+www.canadiem.org/crackcast 
+ 
+• 
+Psychogenic non-epileptic seizures 
+• 
+Panic attacks  
+ 
+For a more comprehensive list of mimics of epilepsy disorders, please refer to Table 174.6 in 
+Rosen’s 9th Edition. 
+ 
+[3] Give an approach to acute seizure control in a neonate and in a 5-year-
+old. 
+ 
+According to the Canadian Pediatric Society, the objectives for the acute management of CSE 
+are as follows: 
+ 
+1. Maintenance of adequate airway, breathing and circulation (ABCs). 
+2. Termination of the seizure and prevention of recurrence. 
+3. Diagnosis and initial therapy of life-threatening causes of CSE (e.g., hypoglycemia, 
+meningitis and cerebral space-occupying lesions). 
+4. Arrangement of appropriate referral for ongoing care or transport to a secondary or 
+tertiary care centre. 
+5. Management of refractory status epilepticus (RSE). 
+ 
+Specific seizure control:  
+ 
+Let’s talk about the drugs - THIS ASSUMES YOU’VE EXCLUDED ANY CORRECTABLE 
+METABOLIC CAUSES!! (e.g. glucose < 2.6 mmol/L)  
+ 
+• 
+First line:  
+○ Lorazepam (IV/IO/Buccal/PR) 
+■ Dose: 0.1 mg/kg, maximum one-time dose 4 mg 
+■ Interval: Every 5 minutes x 2 
+■ Note: STOP after two proper doses of benzo’s (subsequent ones aren’t 
+effective and probably just lead to respiratory depression)  
+• 
+Second line:  
+○ Fosphenytoin/phenytoin 
+■ Dose: 20 mg/kg 
+■ Interval: IV over 5-10 minutes (in NS or D5W) 
+○ Phenobarbital  
+■ Dose: 20 mg/kg  
+■ Interval: 1 mg/kg/min over 20 minutes 
+○ Valproic acid  
+■ Note: probably has a role, but not as fully researched in kids 
+ 
+How does it differ if you are unable to obtain IV or IO access? 
+ 
+Remember: Effectiveness (compared to IV) in descending order: IN >>> Buccal >> PR 
+ 
+• 
+IN route 
+○ Midazolam  
+■ Dose: 0.2 mg/kg (max 5 mg/nostril)  
+• 
+IM route 
+ 
+ 
+CrackCast Show Notes – Pediatric Neurologic Disorders – May 2017 
+ 
+www.canadiem.org/crackcast 
+ 
+○ Midazolam  
+■ Dose: 0.2 mg/kg  
+○ Fosphenytoin  
+■ Dose: 20 mg/kg IM (max 1 g)  
+• 
+PR: 
+○ Diazepam  
+■ Dose: 0.5 mg/kg  
+○ Lorazepam  
+■ Dose: 0.1 mg/kg 
+• 
+Buccal: 
+○ Midazolam  
+■ Dose: 0.5 mg/kg 
+○ Lorazepam  
+■ Dose: 0.1 mg/kg 
+ 
+Pro tip: just memorize lorazepam 0.1 mg/kg for any route except IM or IN; in which case 
+its 0.2 mg/kg for midazolam  
+ 
+Note: “During the administration of medications, pulse rate, respiratory rate, BP, cardiac 
+monitoring and oxygen saturation via pulse oximeter should be followed on a regular basis. 
+Anticonvulsant medications may cause loss of airway reflexes, respiratory depression, 
+hypotension and cardiac arrhythmias.” - CPS Statement.  
+ 
+[4] What is the definition of status epilepticus? 
+ 
+Remember: status epilepticus is typically defined as:  
+• 
+5 minutes or more of continuous seizure activity (clinical or electroencephalographic)  
+• 
+Recurrent seizure activity without return to baseline between seizures. 
+ 
+NOTE: The number one cause of status epilepticus is a febrile illness. 
+ 
+NOTE: Never forget about non-convulsive status epilepticus. Non- convulsive status epilepticus 
+is marked by an altered mental status. Patients may demonstrate confusion, unresponsiveness, 
+abnormal motor movements, twitches, lip smacking, or automatisms. An electroencephalogram 
+(EEG) can confirm the diagnosis and should be obtained if non-convulsive status is suspected.  
+ 
+[5] List 6 non-pharm. and six pharm. treatments for status epilepticus. 
+ 
+1. Ensure the patient stays safe (fall prevention; clear the area of hard objects; don’t put 
+anything in the mouth!)  
+2. Maintain ABC’s  
+a. Side lying if secretions or vomit; on the back if assisting with ventilation 
+b. Suction supplies ready 
+c. NPA 
+d. Apply oxygen via non-rebreather or BVM if supporting ventilation  
+e. End tidal C02 if available  
+3. Managing bradycardia, hypotension or delayed capillary refill with volume resuscitation 
+and oxygenation/ventilation  
+4. Terminate the seizure  
+ 
+ 
+CrackCast Show Notes – Pediatric Neurologic Disorders – May 2017 
+ 
+www.canadiem.org/crackcast 
+ 
+a. In animal models, ischemic and excitotoxic neuronal cell loss starts to occur after 
+30 min of seizure activity. Seizures that last longer than 5 min to 10 min are at 
+high risk of continuing for at least 30 min, so early treatment is associated with 
+the best outcome. - CPS Statement 
+5. Search for and correct any reversible provoking triggers - hypoglycemia, hyponatremia, 
+hypocalcemia 
+ 
+Order of preference:  
+ 
+1. 1st line: Benzos 
+2. 2nd line: Fosphenytoin (or phenobarbital if patient is already on phenytoin)  
+a. Fosphenytoin can be given 3x faster than phenytoin and has fewer side effects; 
+can be given IM 
+b. Phenobarbital has greater risks for apnea, depressed consciousness, and 
+hypotension, 
+3. If refractory to a first line agent and a second line agent = you have refractory status 
+epilepticus*; consider these agents (in consultation with PICU):  
+a. Phenobarbital  
+b. Pentobarbital  
+c. Midazolam infusion (post-intubation)  
+d. Levetiracetam  
+e. Propofol 
+f. 
+Topiramate  
+4. Full laboratory investigations for metabolic abnormalities  
+5. Treatment of hyperthermia 
+ 
+NOTE: CSE that is unresponsive to two different antiepileptic medications (e.g., a 
+benzodiazepine and phenytoin) is considered to be refractory, although some authorities have 
+added a duration criterion such as longer than 30 min or longer than 60 min.  
+ 
+[6] What is the definition of a simple febrile seizure? 
+ 
+Definition: generalized seizure occurring in the presence of a fever without CNS infection.  
+ 
+• 
+Occurring in a developmentally and neurologically normal child 
+• 
+Less than 15 minutes  
+• 
+Between 6 months and 5 years  
+• 
+Normal neurologic examination pre and post-seizure 
+ 
+What makes a simple febrile seizure complex: 
+ 
+• 
+Multiple seizures occurring within 24 hours 
+• 
+Seizure lasts longer than 15 minutes 
+• 
+Seizure occurs outside of normal age range 
+• 
+Focal component to seizure. 
+ 
+NOTE: Regardless of the seizure being febrile, we should always consider whether there is an 
+acute provoked cause of the seizure. Overall, 33% of children who have a febrile seizure will 
+have another one. 
+ 
+ 
+CrackCast Show Notes – Pediatric Neurologic Disorders – May 2017 
+ 
+www.canadiem.org/crackcast 
+ 
+NOTE: Temperature does not need to be markedly elevated; almost 50% of children with a 
+febrile seizure have a documented temperature below 39°C. 
+ 
+NOTE: Meningitis should be considered in any patient with seizures and fever, although a child 
+whose mental status is normal before and after the seizure is very unlikely to have meningitis. 
+We recommend evaluation and treatment for meningitis in infants younger than 3 months 
+presenting with febrile seizures. They are not only at higher risk for serious bacterial infections, 
+including meningitis, but their mental status is difficult to assess accurately. 
+ 
+[7] Describe the management of febrile seizure. 
+ 
+NOTE: The acute management is similar to most other seizures!  
+ 
+According to the CPS: 
+  
+The objectives for the acute management of CSE are as follows: 
+ 
+1. Maintenance of adequate airway, breathing and circulation (ABCs). 
+2. Termination of the seizure [intervene if > 5 mins] and prevention of recurrence. 
+3. Diagnosis and initial therapy of life-threatening causes of CSE (e.g., hypoglycemia, 
+meningitis and cerebral space-occupying lesions). 
+ 
+NOTE: Electroencephalography and neuroimaging generally are not required after a first simple 
+febrile seizure. 
+ 
+[8] List 5 reasons for CT Head after seizure and describe management after 
+the 1st peds seizure. 
+ 
+NOTE: According to CPS: “history of trauma, evidence of increased ICP, focal neurological 
+signs, unexplained loss of consciousness or suspicion of cerebral herniation are some of the 
+indications for a computed tomography (CT) scan of the head.”  
+ 
+You may be asking about which patients should have outpatient imaging and neurology 
+follow-up: 
+ 
+ANSWER: Most kids who need imaging - need it in the ER (or admission); EEG’s are a less 
+urgent investigation.  
+ 
+NOTE: According to UptoDate: “A CT scan is most often used for emergency department 
+assessment. In the setting of a first seizure, a non-contrast CT scan reveals findings that 
+change acute management in 3 to 9 percent of children and infants Among children with a first 
+seizure that is apparently unprovoked, the risk of an urgent finding may be even lower: in a 
+prospective multicenter study of 475 children (age 1 month to 18 years) with an unprovoked first 
+seizure, CT or MRI identified an emergent/urgent finding in 0.8 percent of patients and non-
+urgent findings in an additional 10 percent.” 
+ 
+You may also be asking which seizures warrant EEG’s: 
+ 
+ANSWER: Complex febrile seizures, new unprovoked seizures, recurrent unprovoked seizures  
+ 
+ 
+ 
+CrackCast Show Notes – Pediatric Neurologic Disorders – May 2017 
+ 
+www.canadiem.org/crackcast 
+ 
+Which children with seizure should be admitted to hospital? 
+ 
+ANSWER: New focal neurologic deficits, persistent altered mental status, 
+recent trauma, persistent headache, or partial seizures, neonatal seizures, high parental 
+anxiety.  
+ 
+NOTE: Infants and children who present in status epilepticus not related to fever should have 
+neuroimaging. 
+ 
+[9] List 10 ddx for HA in peds. 
+ 
+By age 15, 75% of children will have experienced a headache; most of these headaches are 
+benign primary headache syndromes.  
+ 
+REMEMBER: Most of the pediatric headaches are migraines.  
+ 
+Migraine headaches likely come about as a result of an interaction between genetic 
+redisposition and environmental stressors. The mechanism of migraine headaches is thought to 
+involve a primary dysfunction of the brain in which a wave of spreading cortical neuronal 
+depression is accompanied by vascular changes. Derangement of the trigeminovascular reflex 
+results in alterations of regional blood flow, and this neurovascular interaction is thought to 
+contribute to neurogenic inflammation and the development of migraine headaches.  
+ 
+The primary goal of the ED evaluation is to differentiate life-threatening causes of headaches 
+from primary headaches, such as migraine or tension headaches. A few different terms are 
+used to characterize headaches: acute, acute recurrent, chronic non-progressive, chronic 
+progressive, and mixed.  
+ 
+REMEMBER: The child’s history is the most important component to an accurate diagnosis 
+ 
+ 
+Primary headache causes:  
+ 
+• 
+Migraine headache 
+• 
+Tension headache  
+• 
+Cluster headache  
+• 
+Chronic daily headache  
+ 
+Secondary headache causes: 
+ 
+• 
+Trauma (e.g., intracranial bleed, concussion, skull fracture) 
+• 
+Structural (e.g., neoplasm, AVM) 
+• 
+Systemic (e.g., hypertension, metabolic) 
+• 
+Infection (e.g., meningitis, abscess, etc…) 
+• 
+Toxic (e.g., medication ingestion) 
+ 
+ 
+For a more comprehensive list of causes for secondary headaches in pediatric populations, 
+please refer to Table 174.8 in Rosen’s 9th Edition. 
+ 
+ 
+ 
+CrackCast Show Notes – Pediatric Neurologic Disorders – May 2017 
+ 
+www.canadiem.org/crackcast 
+ 
+ 
+ 
+Remember: In the absence of other signs of CNS involvement (e.g., nuchal rigidity, alteration in 
+level of consciousness, focal neurologic findings), headaches in febrile children usually do not 
+constitute evidence of CNS infection. Non-specific viral illnesses represent most diagnoses in 
+children presenting to the ED with an acute headache.  
+ 
+[10] List 8 indications for radiologic imaging in patients with HA. 
+ 
+For a more comprehensive list of indications for radiologic imaging of patients with headaches, 
+please refer to Box 174.3 in Rosen’s 9th Edition 
+ 
+Indications for Radiologic Imaging in Patients with Headache 
+Strongly Indicated if: 
+• 
+Abnormal neurologic examination  
+• 
+Signs and symptoms of elevated ICP 
+• 
+Meningeal signs PLUS focal 
+neurological findings or altered mental 
+status 
+• 
+Significant head trauma 
+• 
+Progressive neurological deficits 
+• 
+Significant head trauma 
+• 
+Severe nocturnal headache waking the 
+patient from sleep or is present upon 
+waking 
+• 
+Severe headaches  
+• 
+Chronic progressive worsening 
+headache 
+• 
+Presence of VP shunt 
+Consider if: 
+• 
+Headache or vomiting upon waking 
+• 
+Unvarying location of headache, 
+especially if occipital 
+• 
+Persistent headache with no family Hx 
+of migraines 
+• 
+Neurocutaneous syndrome 
+• 
+Age<3  
+ 
+ 
+While the obvious physical exam findings will prompt the average health care worker to get 
+imaging; some of these things are easily missed if you aren’t doing a FULL deliberate history!  
+ 
+REMEMBER: Red Flags  
+ 
+• 
+History of head trauma 
+• 
+Symptoms of increased ICP - Valsalva/cough/strain 
+• 
+Awakening from sleep  
+• 
+Chronic progressive h/a 
+• 
+Headache on awakening  
+• 
+Occipital h/a  
+• 
+No family headache of migraines  
+ 
+ 
+CrackCast Show Notes – Pediatric Neurologic Disorders – May 2017 
+ 
+www.canadiem.org/crackcast 
+ 
+[11] With regards to presentation and management, how are migraines 
+different in children? 
+ 
+ANSWER: 
+ 
+• 
+Pediatric migraine headaches are more commonly bilateral 
+• 
+Atypical or migraine variants are more common in children:  
+○ Hemiplegic migraine  
+○ Ophthalmoplegic migraine 
+○ Basilar migraine  
+○ “Alice in wonderland syndrome” (acute confusional state)  
+○ Ocular migraine 
+○ Abdominal migraine  
+ 
+[12] Describe the criteria which define migraine headache. 
+ 
+Migraine without an aura: 
+  
+Also known as common migraine, is the most frequent type of pediatric and adolescent migraine 
+and includes the following criteria: more than five attacks that last 2 to 72 hours (untreated or 
+unsuccessfully treated), accompanied by nausea, vomiting, photophobia or phonophobia—and 
+including a minimum of two of the following criteria: unilateral or bilateral location, pulsing 
+quality, moderate to severe intensity, and aggravated by routine physical activities. 
+ 
+ 
+Migraine with an aura: 
+ 
+Previously known as classic migraine, is diagnosed when at least two attacks fulfilling the 
+diagnosis of migraine occur accompanied by a variety of sensory warning symptoms, such as 
+flickering lights, loss of vision, and tingling or numbness. The aura typically develops over 5 or 
+more minutes and completely resolve within 60 minutes. 
+ 
+[13] List 10 causes of pediatric ataxia. 
+ 
+Definition: abnormal modulation or organization of movement; can be congenital or acquired   
+ 
+Congenital ataxia is associated with CNS abnormalities. Acquired ataxia can be acute, episodic, 
+or chronic. The chronic ataxias are usually caused by inherited metabolic or genetic disorders. 
+Usually, ataxia is caused by cerebellar dysfunction, but lesions in the corticospinal tract or 
+dorsal columns of the spinal cord may also be causative. 
+ 
+In children, 40% of ataxia cases are caused by acute cerebellar ataxia: 
+ 
+• 
+Boys are predominantly afflicted at 2-4 years of life  
+• 
+A history of recent illness with multiple causative agents is seen in 70% of patients, but 
+Varicella virus is the most common, associated with up to 26% of cases. The disease is 
+thought to be due to an autoimmune phenomenon leading to cerebellar demyelination. 
+ 
+ 
+ 
+ 
+CrackCast Show Notes – Pediatric Neurologic Disorders – May 2017 
+ 
+www.canadiem.org/crackcast 
+ 
+Other causes of childhood ataxia include: 
+ 
+• 
+Acute post-infectious demyelinating encephalomyelitis 
+• 
+Brainstem encephalitis 
+• 
+Drug ingestion 
+• 
+Guillain-Barré Syndrome 
+• 
+Metabolic disorders 
+• 
+Aminoacidopathies 
+• 
+Mitochondrial disorders 
+• 
+Organic acidopathies  
+• 
+Urea cycle disorders 
+• 
+Migraine headaches 
+• 
+MS 
+• 
+Neoplasm 
+• 
+Opsoclonus-myoclonus syndrome 
+• 
+Recurrent and chronic genetic ataxias 
+• 
+Seizure 
+• 
+Stroke 
+• 
+Vertebral artery dissection 
+ 
+[14] Describe an approach to the pediatric patient with ataxia. 
+ 
+Usually we’ll see these kids in the first few days after onset, usually because of a refusal to 
+walk, unsteadiness of arm movements, or sudden development of a wide-based so-called 
+drunken gait. 
+ 
+REMEMBER: Diagnosis is in the HX and Physical!  
+ 
+Key questions to ask:  
+• 
+Does this child or family have any congenital or family history of ataxia? 
+• 
+Does this kid have normal mental status? 
+o If yes:  
+§ 
+Ask about any recent viral infections 
+○ If no:  
+§ 
+Be worried!  
+§ 
+Differential and workup needs to include:  
+• 
+Toxic ingestions / overdoses 
+○ Up to 32% of cases of acute childhood ataxia are due to 
+drug toxicity, usually anticonvulsants, benzodiazepines, 
+alcohol, or antihistamines or, less commonly, from 
+exposure to organic chemicals or heavy metals.  
+• 
+Meningitis / encephalitis  
+• 
+Hydrocephalus 
+• 
+CNS lesions 
+○ Post trauma / neck dissection  
+○ Malignancy 
+■ Approximately 45% to 60% of all childhood brain 
+tumors arise in the brainstem or cerebellum and 
+can be manifested with slowly progressive ataxia. 
+ 
+ 
+CrackCast Show Notes – Pediatric Neurologic Disorders – May 2017 
+ 
+www.canadiem.org/crackcast 
+ 
+■ Acute decompensation can occur, with the 
+development of hydrocephalus or hemorrhage into 
+the lesion. 
+• 
+Strokes 
+• 
+Acute post-infectious disseminated demyelinating 
+encephalomyelitis, 
+○ Alteration in consciousness and multifocal neurologic 
+deficits, as well as by fever and frequent occurrence of 
+seizures. 
+ 
+NOTE: Urine and serum toxicology studies are the highest yield laboratory studies. CT and MRI 
+findings are usually normal in patients with post-infectious ataxia, but demyelination, tumor, 
+hydrocephalus, or traumatic injuries may be identified. CSF analysis may show mild pleocytosis 
+or lymphocytosis in acute post-infectious ataxia; findings are normal in most other cases. 
+ 
+[15] List 5 central and 5 peripheral causes of vertigo. Which is the more 
+common cause of vertigo in children? 
+ 
+REMEMBER: Vertigo = illusion of movement. Disease processes that effect the balance of the 
+vestibular, visual, and proprioceptive systems can cause vertigo by impairing the neural activity 
+of the vestibular nucleus. Diseases of the ear, eighth cranial nerve, neck, brainstem, or eye can 
+lead to vertiginous symptoms. Vertigo is characterized as central or peripheral, depending on 
+whether the cause is in the CNS. 
+ 
+NOTE: Key things to ask about on history: 
+ 
+• 
+Ear symptoms: such as otalgia, hearing loss, and tinnitus  
+• 
+Other important historical features that should be determined include headache, loss of 
+consciousness, head trauma or barotrauma, and family history of migraine or seizure 
+disorders 
+ 
+Patients can be divided into those who have hearing loss and those who have normal hearing. 
+In the group with hearing loss, further characterization of the loss as conductive or sensorineural 
+(using the Weber and Rinne tests) can help localize the peripheral lesion from the middle ear, 
+labyrinth, or eighth cranial nerve. 
+ 
+The differential diagnosis for vertigo is as follows: 
+ 
+• 
+Central - think infectious, inflammatory, vascular, neoplastic 
+ 
+○ AVM’s 
+○ Brain abscess 
+○ Chiari malformations 
+○ Encephalitis 
+○ Meningitis 
+○ Seizures 
+○ Trauma 
+ 
+ 
+ 
+ 
+CrackCast Show Notes – Pediatric Neurologic Disorders – May 2017 
+ 
+www.canadiem.org/crackcast 
+ 
+• 
+Peripheral - think outside in: wax, cholesteatoma, OM, labyrinthine concussion/infection, 
+vestibular neuronitis, congenital, benign  
+ 
+○ BPPV 
+○ Cholesteatoma 
+○ DM 
+○ Otitis media 
+○ Vestibular neuronitis 
+ 
+For a more comprehensive list of differential diagnoses for central and peripheral vertigo, please 
+refer to Box 174.5 in Rosen’s 9th Edition 
+ 
+NOTE: A few pediatric-specific disease entities to know about:  
+ 
+• 
+The most frequent cause of benign paroxysmal vertigo of childhood is a migraine 
+headache, with vertigo occurring as the aura of an episode. 
+• 
+Patients with basilar artery migraines also present with vertigo, hemiparesis, ataxia, 
+palsies of the third, sixth, or seventh cranial nerve, drop attacks, and blindness in various 
+combinations, followed by migraine headache. 
+• 
+Benign paroxysmal positional vertigo is rare in children,but can occur spontaneously as 
+well as after trauma. The earliest age at which it has been reported is 11 years. It is 
+believed to be due to otoliths that have moved out of their normal positions in the utricle 
+and is corrected by canalith repositioning maneuvers (e.g., Epley maneuver). 
+• 
+Ménière’s disease, a syndrome with a combination of vertigo, fluctuating hearing loss, 
+and tinnitus, is responsible for 1.5% to 4% of cases of pediatric vertigo. 
+• 
+Vestibular neuronitis, thought to be caused by viral infections, is manifested as vertigo 
+without hearing loss. A preceding cold is found in 60% of patients. It is manifested with 
+severe vertigo that resolves in a few days, they can get persistent vertigo with rapid 
+head position changes lasting a few months until their brain adapts to it.  
+• 
+Labyrinthitis is an inflammatory process involving the inner ear membranous labyrinth; it 
+manifests with vertigo, hearing loss, and tinnitus. Cytomegalovirus, rubella virus, and 
+rubeola viruses are common causative agents. Bacterial labyrinthitis usually occurs in 
+association with meningitis and should be suspected in any ill child with vertigo and high 
+fevers, especially in combination with a perforated tympanic membrane.  
+• 
+Neurofibromatosis can be manifested with vertigo if it involves the superior vestibular 
+nerve.  
+• 
+Other genetic syndromes such as Alport syndrome are also associated with vertigo 
+• 
+Ototoxic drugs are also associated with vertigo 
+• 
+Cranial nerve deficits associated with vertigo may indicate a brainstem lesion or tumor. 
+Vertigo is the presenting symptom in 5% to 12% of cases of multiple sclerosis. 
+ 
+Laboratory tests in the vertiginous patient should be dictated by the history and physical 
+examination and may include glucose and electrolyte level assessment, thyroid function tests, 
+and viral titers or serologic studies (e.g., for Lyme disease or syphilis). CT or MRI is indicated for 
+patients for whom an underlying CNS abnormality (central vertigo) is suspected. 
+ 
+Management of the vertiginous patient depends on the underlying cause, which may not be 
+evident in the ED. For acute symptomatic relief, vestibular suppressants such as meclizine and 
+diazepam may be helpful. 
+ 
+ 
+ 
+CrackCast Show Notes – Pediatric Neurologic Disorders – May 2017 
+ 
+www.canadiem.org/crackcast 
+ 
+ 
+ 
+NOTE: Of all these, which are the most common causes of vertigo in children? 
+ 
+1. Otitis media  
+2. Migraine Disorders 
+ 
+[16] List 8 risk factors for pediatric stroke.  
+ 
+REMEMBER: Strokes in children are rare; unlike adults the incidence of hemorrhagic and 
+ischemic strokes is roughly equal - 50-50. (~1 in 100k). SAH is also much less common (0.4 in 
+100k) and is often aneurysmal.  
+ 
+One could think categorically about the common aetiologies and risk factors of ischemic stroke, 
+as recommended by UpToDate: 
+ 
+• 
+Cardiac abnormalities 
+• 
+Vascular lesions 
+• 
+Hematologic abnormalities 
+• 
+Infection 
+• 
+Head and neck trauma 
+• 
+Genetic conditions.  
+ 
+Additionally, you could also break it down with Virchow’s Triangle:  
+ 
+• 
+Venous stasis 
+• 
+Endothelial injury 
+• 
+Hypercoagulable  
+ 
+Or, you could consider the risk factors for stroke in pediatric patients by thinking about common 
+causes:  
+ 
+• 
+Sickle cell disease (puts you at risk for BOTH hemorrhagic and ischemic strokes)  
+○ This is the most cause of strokes in children 
+• 
+Structural heart disease (embolic vs. complication of anticoagulation)  
+• 
+Moyamoya disease 
+ 
+For the hemorrhagic strokes, typically these are due to: 
+ 
+• 
+Ruptured AVM’s 
+• 
+Hematologic abnormalities (including thrombocytopenia or platelet dysfunction, 
+hemophilia and other congenital or acquired coagulopathies, and hemoglobinopathies)  
+ 
+ 
+ 
+For a more comprehensive list of the risk factors for pediatric stroke, please refer to Box 174.6 
+in Rosen’s 9th Edition 
+ 
+ 
+ 
+ 
+CrackCast Show Notes – Pediatric Neurologic Disorders – May 2017 
+ 
+www.canadiem.org/crackcast 
+ 
+Show Notes Only:  
+ 
+[1] Spinal Cord Disorders 
+ 
+REMEMBER: Think of intrinsic (e.g. viral-induced transverse myelitis) vs. extrinsic spinal cord 
+disorders (e.g. epidural abscess)  
+ 
+Clinical findings:  
+ 
+• 
+Paraplegia 
+• 
+Hyporeflexia 
+• 
+Sensory deficits 
+• 
+Complete sensory loss or paresthesias below the level of the spinal cord lesion(s) 
+• 
+Also, if the distal portion of the cord is affected, patients will have bowel and bladder 
+incontinence. 
+ 
+Management: Based on the underlying process - surgery vs antibiotics vs steroids.  
+ 
+[2] Guillain- Barré Syndrome 
+ 
+Definition: An acute, demyelinating polyneuropathy that typically presents as transient, 
+symmetric, ascending paralysis in the setting of a recent infection.  
+ 
+It is thought to be autoimmune-mediated and classically causes demyelination of motor and 
+sensory nerves. Children of all ages may be affected; however, it is uncommon in young 
+toddlers and infants. Often, there is a history of a preceding minor viral or gastrointestinal illness 
+in the weeks prior to presentation.  
+ 
+NOTE: Campylobacter jejuni is the most common infectious agent associated with GBS. 
+ 
+Management: Watch for rapid respiratory deterioration; IVIG or plasma exchange.  
+ 
+ 
+[3] Myasthenia Gravis 
+ 
+ 
+Definition: Myasthenia gravis is an autoimmune disorder characterized by autoantibodies 
+directed against the acetylcholine receptor of the neuromuscular junction. This action produces 
+intermittent and fatigable weakness. Myasthenia gravis is usually seen in adults; however, there 
+are three types that affect children—neonatal (transient), congenital, and juvenile. 
+ 
+REMEMBER: MG has a waxing and waning weakness, worsens as the day goes on and often 
+presents with bilateral ptosis.  
+ 
+The Tensilon test may be used in the ED to confirm the diagnosis. Edrophonium (Tensilon), an 
+acetylcholinesterase inhibitor, is administered IV. By blocking the action of acetylcholinesterase 
+at the neuromuscular junction, the presence of acetylcholine is prolonged, and muscle 
+weakness transiently improves. Atropine should be available during the administration of 
+edrophonium to treat possible cholinergic reactions (e.g.,bradycardia). 
+ 
+ 
+ 
+CrackCast Show Notes – Pediatric Neurologic Disorders – May 2017 
+ 
+www.canadiem.org/crackcast 
+ 
+NOTE: Watch for the myasthenic crisis precipitated by an acute stressor (may need intubation!) 
+[see CRACKCast episode on neuromuscular disease].  
+ 
+Management: Oral cholinesterase inhibitor therapy is the maintenance therapy.  
+ 
+Wisecracks 
+ 
+[1] Describe each of the following: 
+ 
+• 
+Infantile Spasms 
+ 
+○ UptoDate defines infantile spasms (IS) is an age-specific convulsive disorder of 
+infancy and early childhood. 
+○ Most children with IS present between three and seven months of age; onset 
+after 18 months is rare.  
+○ Spasms are symmetric contractions of flexor or extensor axial or limb muscles. 
+They vary in pattern, intensity, duration and extent. Most spasms occur in 
+clusters of two to more than 100 over one to several minutes. 
+○ EEG is required to make the diagnosis. - will show hypsarrhythmia (very 
+disorganized EEG rhythm) Management is controversial and complex. Prognosis 
+is poor.  
+ 
+• 
+Absence Epilepsy 
+ 
+○ According to UptoDate, the hallmark seizure type is the typical absence seizure 
+(TAS), characterized by profound impairment of consciousness, abrupt in onset 
+and termination, lasting an average of 10 seconds.  
+○ TAS are frequently associated with early arrest in activity, staring, repetitive 
+eyelid movements, and automatisms. 
+○ Usually occurs in children 4 - 10 yrs of age.  
+○ The overall prognosis of [childhood absence epilepsy] CAE is favorable. In most 
+cases, seizures respond well to the first-line drug monotherapy and remit before 
+puberty, without cognitive sequelae. 
+ 
+• 
+Benign Rolandic Epilepsy of Childhood 
+  
+○ Benign (childhood) epilepsy with centrotemporal spikes (BCECTS or BECTS, 
+also called benign Rolandic epilepsy) is the most common, presenting at a mean 
+age of eight years, with focal motor or secondarily generalized seizures that 
+occur mostly at night.  
+○ These kids usually outgrow their seizures by adolescence.  
+ 
+• 
+Lennox-Gastaut Syndrome 
+ 
+○ According to UptoDate: 
+○ Benign occipital epilepsy of childhood (Gastaut syndrome) presents at a mean 
+age of nine years with seizures that have prominent visual symptoms including 
+blindness and hallucinations. 
+○ Seizures usually occur during the daytime and are brief, but can be frequent, 
+indicating antiseizure drug treatment in most individuals. EEG demonstrates 
+ 
+ 
+CrackCast Show Notes – Pediatric Neurologic Disorders – May 2017 
+ 
+www.canadiem.org/crackcast 
+ 
+occipital spikes and waves that are activated by eye closure. Seizures often remit 
+prior to adulthood  
+ 
+ 
+[2] What is the most common cause of status epilepticus in children? In 
+adults? 
+ 
+Children:  
+ 
+• 
+Febrile status epilepticus (~30%) 
+ 
+Adults:  
+ 
+• 
+Acute symptomatic causes (> 50%) 
+ 
+○ Structural brain lesion (acute or longstanding)  
+○ Toxic cause 
+○ Metabolic cause 
+ 
+• 
+Remote symptomatic causes / low antiepileptic drug levels  
+ 
+ 
+[3] List five side effects of therapeutic Dilantin use. 
+ 
+Long term:  
+ 
+• 
+Gum hyperplasia 
+• 
+Facial coarsening 
+• 
+Neurologic changes: confusion, slurred speech, diplopia, ataxia 
+• 
+Rash  
+ 
+Rare but serious s/e:  
+ 
+• 
+Agranulocytosis 
+• 
+SJS/TEN 
+• 
+Aplastic anemia 
+• 
+Hepatic failure 
+• 
+Dermatitis/rash 
+• 
+Serum sickness 
+• 
+Adenopathy 
+• 
+Pseudolymphoma  
+• 
+Neuropathy 
+• 
+Ataxia 
+• 
+Lupus syndrome 
+• 
+Hirsutism 
+ 
+ 
+ 
+ 
+ 
+ 
+CrackCast Show Notes – Pediatric Neurologic Disorders – May 2017 
+ 
+www.canadiem.org/crackcast 
+ 
+[4] When is LP indicated in children with febrile seizures? 
+ 
+NOTE: According to newer AAP recommendations, LP is not necessary in children older than 
+12 to 18 months in whom clinical findings are not suggestive of meningitis.  
+ 
+In immunized infants 6 to 18 months of age with a first-time simple febrile seizure, LP can be 
+avoided if the child is not ill-appearing, has returned to baseline, and there are no clinical signs 
+of meningitis. 
+ 
+Additional consideration of the need for LP should be made for children:  
+ 
+• 
+Between 6 and 12 months of age whose vaccination status for H. influenzae type b or 
+Streptococcus pneumoniae is incomplete  
+• 
+In children who have been pretreated with antibiotics. 
+• 
+Patients presenting with unprovoked seizures who demonstrate persistent abnormal 
+mental status, do not return to baseline, or show signs of meningitis. 
+ 
+[5] Give causes of acute, acute recurrent, chronic progressive and chronic 
+non-progressive headaches. 
+ 
+Acute Headaches: 
+ 
+• 
+AVM’s 
+• 
+Acute intracranial bleed 
+• 
+Sinusitis 
+• 
+Otitis media 
+• 
+Traumatic head injury 
+ 
+Acute Recurrent Headaches: 
+ 
+• 
+Cluster Headaches 
+ 
+Chronic Progressive Headaches: 
+ 
+• 
+Intracranial neoplasms 
+• 
+Pseudotumor cerebri 
+• 
+Hydrocephalus 
+• 
+Brain abscess 
+ 
+Chronic Non-progressive Headache: 
+ 
+• 
+Muscle Contraction Headache 
+• 
+Conversion Headache 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CrackCast Show Notes – Pediatric Neurologic Disorders – May 2017 
+ 
+www.canadiem.org/crackcast 
+ 
+[6] Describe the presentation of infantile botulism.  
+ 
+REMEMBER: Infant botulism typically affects infants younger than 6 to 8 months. It results from 
+intestinal colonization with Clostridium botulinum. A neurotoxin produced by C. botulinum 
+impairs acetylcholine release from the presynaptic membrane, thereby affecting skeletal 
+muscle, smooth muscle, and autonomic function.  
+ 
+It usually has an insidious onset, with progressive symptoms including poor suck, lethargy, and 
+hypotonia. Cranial nerve exam may also be abnormal. Infants develop constipation and poor 
+feeding, with subsequent hypotonia and weakness, which may require respiratory support. 
+ 
+Sources:  
+ 
+• 
+Unpasteurized honey (potential reservoir for C. botulinum)  
+• 
+Most US cases of infant botulism are thought to arise from ingestion of environmental 
+dust particles containing C. botulinum spores and may be associated with active 
+construction areas in which there is disruption of the ground. 
+○ Infants have higher stomach pH and so these spores are not killed as they are in 
+adults - which is why honey is contraindicated in infants < 1 yo  
+ 
+Diagnosis: 
+ 
+The diagnosis of botulism may be confirmed through isolation of botulinum toxin in the stool; 
+EMG’s can also confirm the dx.  
+ 
+Management: 
+ 
+• 
+Supportive care 
+• 
+Preparation in case of invasive ventilation requirements 
+• 
+BABY BIG 
+○ Initial dosing for botulism immunoglobulin in infants less than 1 year of age is 50 
+mg/kg of body weight in a single IV infusion.  
+ 

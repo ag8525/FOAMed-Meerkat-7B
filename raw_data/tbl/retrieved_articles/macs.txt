@@ -1,0 +1,68 @@
+# Metadata
+- Source: The Bottom Line
+- Title: MACS
+- Original URL: https://www.thebottomline.org.uk/summaries/em/macs/
+- Scrape Date: 2025-07-17
+- Summary Date: AUTO_FILL_IF_AVAILABLE
+
+Body: The Manchester Acute Coronary Syndromes (MACS) decision rule for suspected cardiac chest pain: derivation and external validation
+Body et al Heart 2014; online first 29.04.14.
+Clinical Question
+Can a clinical decision rule be derived and validated for use in the Emergency Department that allows immediate exclusion of ACS?
+Design
+Prospective observational diagnostic cohort studies, both derivation and validation
+Investigators who determined gold standard were blinded to test of interest and vice versa
+Setting
+Derivation study at single Emergency Department in UK, January 2006 – February 2007
+Validation study in different single Emergency Department, UK, April – July 2010
+Population
+Inclusion: >25 years presenting to ED within 24 hours of experiencing chest pain suspected to be cardiac in origin
+Excluded if required admission due to another medical condition, dialysis patient, pregnant or chest trauma
+698 patients in derivation study and 463 in validation study
+Test of Interest
+66 variables tested, with 8 variables included in final decision rule: high sensitivity troponin T, heart-type fatty acid binding protein, ECG ischaemia, sweating observed, vomiting, systolic BP <100mmHg, worsening angina, pain radiating to right arm/shoulder
+Gold Standard Investigation
+Acute MI diagnosed by 2 independent investigators who reviewed notes and investigations
+based on troponin rise and/or fall and relevant clinical contect (all had troponin measured at >12 hours after onset of symptoms)
+MACE: Major adverse cardiac events (death, prevalent or incident acute MI, coronary re-vascularisation or new coronary stenosis >50% within 30 days) diagnosed by follow up after 30 days
+Outcome
+Primary outcome: MACE within 30 days.
+Regarding test of interest
+Area under curve  of 0.95 (95% C.I. 0.93-0.97) for predicting MACE in derivation study and 0.92 (95% C.I. 0.89-0.95) in validation study
+Group identified as being at very low risk (35.5% of population in derivation study and 27% in validation study)
+had zero missed MIs in both derivation and validation study.
+had 1 (0.4%) missed MACE in derivation study
+patient had normal troponins and ECG. Admitting clinician documented that the patient did not have worsening angina.  In-patient team were sufficiently concerned based upon the history that they performed an in-patient angiography, followed by a PCI for LAD disease.
+had 2 (1.6%) missed MACEs in validation study.
+both patients had coronary stenosis detected at angiography but did not require intervention.
+Overall sensitivity of 99.4% (95% C.I 96.5-100) in derivation study and 98% in validation study (95% C.I. 93-99.8)
+In validation study negative likelihood ratio = 0.05 and the post-test probability following a negative test = 1.3%
+Patients identified as being high risk had a 100% rate of MACE in the derivation study and a 95.7% rate of MACE in the validation study
+Authors’ Conclusions
+The proposed decision rule could identify 25% of patients that could be immediately discharged as well as identify high-risk patients.
+Strengths
+Validated in a separate centre to derivation study
+Blinding of investigators
+Minimal loss to follow up
+Appropriate gold standard investigation
+Weaknesses
+Each study performed in single centre
+A small number of patients had two independent ratings performed which led to wide confidence intervals for the inter-observer reliability of the variables tested
+‘Sweating observed’ Kappa score 0.84 (95% C.I 0.16 to 1.0)
+‘Worsening angina’ Kappa score 0.65 (95% C.I. -0.02 to 1.0)
+With only moderate numbers of patients in the validation study, the 95% confidence intervals for the sensitivity were wider than we would hope for at 93-99.8%. The lower limit of the 95% C.I. may deter some from using this clinical decision rule until further evidence is available.
+Coronary stenosis without intervention was included as part of MACE. It is debatable as to whether this is a relevant outcome for an Emergency Department decision rule. If this was not included then the sensitivity in the validation study would have been 100%!
+The Bottom Line
+The Manchester Acute Coronary Syndromes (MACS) decision rule looks very promising and has the potential to help identify patients presenting with suspected cardiac chest pain that can be immediately discharged. The Manchester team are currently planning a randomised trial to compare the MACS rule with standard treatment. We eagerly await the results!
+Links
+Full text pdf
+/
+abstract
+Editorial, Commentaries or Blogs
+http://stemlynsblog.org/
+Metadata
+Summary author:
+@DavidSlessor
+Summary date: 12 May 2014
+Peer-review editor:
+@stevemathieu75

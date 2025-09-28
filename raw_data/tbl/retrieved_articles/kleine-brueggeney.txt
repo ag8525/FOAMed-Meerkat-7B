@@ -1,0 +1,193 @@
+# Metadata
+- Source: The Bottom Line
+- Title: Kleine-Brueggeney
+- Original URL: https://www.thebottomline.org.uk/summaries/icm/kleine-brueggeney/
+- Scrape Date: 2025-07-17
+- Summary Date: AUTO_FILL_IF_AVAILABLE
+
+Evaluation of six videolaryngoscopes in 720 patients with a simulated difficult airway: a multicentre randomized controlled trial
+Kleine-Brueggeney. BJA 2016; 116(5):670-9. doi: 10.1093/bja/aew058
+Clinical Question
+In patients having elective surgery and with a simulated difficult airway (using a cervical collar), does the choice of videolaryngoscope affect the first attempt intubation success rate?
+Design
+Multicentre randomised controlled trial
+Computer generated randomisation using sealed opaque envelopes
+Block randomisation of 10 and separated for each anaesthetist
+6 different videolaryngoscopes were evaluated
+Intention to treat analysis
+Sample size calculation: 107 patients per device were required to give an α level of 0.05 and a power 80%. This was based on an intubation success rate of 0.9 as the clinically acceptable lower limit for a device that is designed for management of difficult airways
+Setting
+3 university hospitals in Switzerland
+December 2012 – January 2015
+Population
+Inclusion: Patients undergoing elective surgery requiring tracheal intubation; ASA I-III
+Exclusion: risk of aspiration and known or predicted difficult airway (BMI >35 kg m
+−2
+, Mallampati >III, thyromental distance <6 cm, interincisor distance <3.5 cm, known difficult mask ventilation/ laryngoscopy, and planned or previous history of awake tracheal intubation)
+720 patients (120 in each group)
+Baseline characterstics: sex; age; BMI; mallampati score; thymomental distance; mouth opening with and without collar were similar in all groups
+Intervention
+6 different videolaryngoscopes were evaluated
+three unchannelled
+Reusable C-MAC
+TM
+D-blade and stylet
+GlideScope
+TM
+blade 3 with glidescope stylet
+McGrath
+TM
+with MAC blade 3 and stylet
+three channelled
+Airtraq
+TM
+size 2 in women and 3 in men
+A.P. Advance
+TM
+difficult airway blade
+KingVision
+TM
+with blade 3
+Airway managed by one of twelve consultant anaesthetists
+Cervical collar was used to simulate a difficult airway. This was adjusted to permit a minimal mouth opening of 18mm. The head was was taped to the trolley to inhibit neck movement
+Successful intubation was defined as placement of the tube in the trachea within 180 s, confirmed by end-tidal carbon dioxide
+Two intubation attempts with the randomised videolaryngoscope were allowed. The study was terminated once tracheal intubation was achieved, after two unsuccessful attempts, or when airway injury, bronchospasm, technical failure of the videolaryngoscope, or a reduction of oxygen saturation below 90% occurred
+Control
+Each videolaryngoscope was compared with the other five
+Outcome
+Primary outcome: first-attempt intubation success rate
+> 90% for
+C-MAC
+and
+McGrath
+95% CI > 0.9 only for
+McGrath
+McGrath
+: 117 patients (98%) CI 92-99
+C-MAC
+: 114 patients (95%) CI 89-98
+KingVision
+: 104 patients (87%) CI 79-92
+GlideScope
+: 102 patients (85%) CI 77-90
+Airtraq
+: 102 patients (85%) CI 77-90
+A.P. Advance
+: 44 patients (37%) CI 28-46
+Secondary outcome:
+subjective grade of handling of videolaryngoscope – combined excellent and good ratings:
+insertion of the device into the oropharynx
+McGrath
+(94%) >
+CMAC
+(91%) >
+Glidescope
+(79%) >
+Airtraq
+(73%) >
+KingVision
+(67%) >
+A.P Advance
+(58%)
+quality of view
+McGrath
+(93%) +
+Glidescope
+(93%) +
+Airtraq
+(93%) >
+CMAC
+(92%) >
+KingVision
+(91%) >
+A.P Advance
+(73%)
+ease of tube insertion
+Airtraq
+(82%) >
+McGrath
+(78%) >
+KingVision
+(73%)
+CMAC
+(69%) >
+Glidescope
+(64%) >
+A.P Advance
+(52%)
+median time to view vocal cords (in seconds)
+CMAC
+(17) >
+McGrath
+(18) >
+Glidescope
+(19) >
+Airtraq
+(20) >
+KingVision
+(26) >
+A.P Advance
+(30)
+median time to advance tube (in seconds)
+Airtraq
+(27)
+>
+KingVision
+(31) >
+McGrath
+(33) >
+CMAC
+(36) >
+Glidescope
+(40) >
+A.P Advance
+(50)
+median intubation time of successful attempt (in seconds)
+Airtraq
+(47)
+>
+McGrath
+(53) >
+CMAC
+(56) >
+KingVision
+(59)
+>
+Glidescope
+(60) >
+A.P Advance
+(93)
+Adverse events: no statistically significant differences between the videolaryngoscopes for side-effects such as hoarseness (11–18%), sore throat (10–19%), dysphagia (2–8%), or postoperative nausea and vomiting (9–14%)
+Authors’ Conclusions
+This trial revealed differences in the performance of six videolaryngoscopes in 720 patients with restricted neck movement and limited mouth opening. In this setting, first-attempt success rates were 85–98%, except for the A.P. Advance difficult airway blade. Highest success and lowest tissue trauma rates were achieved by the McGrath and C-MAC D-blade, highlighting the importance of the videolaryngoscope blade design
+Strengths
+Study was registered at
+clinicaltrials.gov
+(identifier NCT01692535)
+To ensure that each anaesthetist intubated 10 times with each videolaryngoscope, block randomisation was separated for each anaesthetist participating in this study
+Induction and neuromuscular blocking agent (rocuronium 0.6mg/kg) choice was standardised
+Adequate neuromuscular block in readiness for tracheal intubation was controlled by loss if 1Hz muscle twitching (TOF Watch
+TM
+)
+All participating consultant anaesthetists were considered airway management experts and trained with all videolaryngoscopes on both manikins and patients until they, as airway specialists, felt competent with each device
+This is a well constructed trial bound by the limitations of airway equipment research: blinding and subjectivity are hard to improve
+Weaknesses
+A standard Macintosh laryngoscope would have been a useful control . The authors provide reasons for this
+We did not include a standard Macintosh laryngoscope with direct laryngoscopy because it is known that in patients with difficult airways videolaryngoscopes are superior regarding intubation success rates, glottic view, and rates of difficult intubation
+The C-MAC videolaryngoscope macintosh blade would have been a useful comparator
+The performance ability for each anaesthetists with the range of videolaryngoscopes was based on self-assessment for competency
+Exclusion of patients with predicted difficult airways (including anyone obese) may limit external validity / generalisability
+Applying a collar for simulation is not the same as all difficult airways that may present to anaesthetists
+The Bottom Line
+The trial primary hypothesis, first attempt intubation success rate > 90%, was accepted only for the McGrath. The A.P Advance performed well below the other comparators. Whilst the internal validity of the trial is limited by subjectivity and the operator being unblinded, it provides a useful overview of variation in performance and handling of the scopes
+External Links
+[abstract]
+Evaluation of six videolaryngoscopes in 720 patients with a simulated difficult airway: a multicentre randomized controlled trial
+[series of video resources]
+SMACC-Dub Laryngoscopy
+Metadata
+Summary author:
+Steve Mathieu
+Summary date: 30th May 2016
+Peer-review editor:
+Duncan Chambler

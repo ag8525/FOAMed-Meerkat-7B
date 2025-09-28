@@ -1,0 +1,263 @@
+# Metadata
+- topic: 3.4 - Vascular System - CrackCast-Shownotes-Episode-86-Abdominal-Aortic-Aneurysm
+- source_folder: 3.4 - Vascular System
+- original_file: CrackCast-Shownotes-Episode-86-Abdominal-Aortic-Aneurysm.pdf
+
+CrackCast Show Notes – Abdominal Aortic Aneurysm – June 2017 
+www.canadiem.org/crackcast 
+ 
+ 
+Chapter 85 – Abdominal Aortic Aneurysm 
+ 
+Episode Overview: 
+ 
+1. List six presentations of an abdominal aortic aneurysm. 
+2. Compare Aneurysm and Pseudoaneurysm 
+3. List common misdiagnoses in patients with ruptured AAA 
+4. List three common early and delayed complications of AAA repair 
+5. List common delayed complications of Endovascular repair 
+ 
+Wisecracks 
+ 
+1. 
+What to do about the intact, asymptomatic aneurysm?  
+ 
+Rosen's in Perspective 
+ 
+● AAA = is a TRUE aneurysm in that it involves a localised dilation and weakness to all 
+three layers of an artery. IMA 
+ 
+● See the excellent Rosen’s Figure 86-1 
+ 
+● Remember AAA ⧣ an acute aortic dissection; these are different diseases!  
+○ And the term dissecting aortic aneurysm is also erroneous.  
+○ Aortic dissection = blood enters the media of the artery and splits the aortic 
+wall  
+● An aneurysm can develop anywhere, but usually a AAA develops infra-renally.  
+○ Normal = 2 cm 
+○ AAA = > 3 cm 
+ 
+Pathophysiology:  
+ 
+● This is a disease of aging - rare before 50 yrs of age 
+● AAA seems to happen in people with biochemical disease leading to loss of elastin 
+and collagen; not athersclerotic disease!  
+● Infectious / traumatic / connective tissue disease related AAA are RARE 
+● Most risk factors are populational - not individual  
+○ The “presence or absence of risk factors should not strongly influence 
+diagnostic considerations in any individual patient” (i.e. he’s <50, his brother 
+didn’t have a AAA, he doesn’t smoke, and he is healthy = therefore he doesn’t 
+have a AAA → wrong thinking!)  
+○ Up to half of AAA in the USA occur in non-smokers, women and ppl younger 
+than 65 yrs!  
+○ Women often present with ruptured AAA! 
+● Key red flags to ask yourself if you’re thinking of a AAA:  
+○ Age > 65, Men 
+○ Anyone with CAD or peripheral vascular disease 
+○ Brothers of patients with AAA (>30%!)  
+CrackCast Show Notes – Abdominal Aortic Aneurysm – June 2017 
+www.canadiem.org/crackcast 
+ 
+ 
+Diagnostics: 
+ 
+● U/S - 100% sensitive when a *technically adequate study* can be obtained 
+○ Does have operator and patient-induced limitations  
+● CT:  
+○ The test of choice for people with a suspected ruptured AAA 
+○ IV contrast helps determine the lumen / false lumens and any fistulae  
+■ But contrast isn’t mandatory  
+○ Helps see retroperitoneal hemorrhage and peri-aortic hematoma  
+ 
+1) List 6 presentations of an abdominal aortic aneurysm. 
+ 
+The Natural Hx of AAA: enlarge→ rupture → hemorrhagic cardiac arrest 
+● Risk increases with size, most ruptures are > 5 cm 
+● Most (any anyone can!) rupture retroperitoneally  
+○ But can rupture intraperitoneally, into the IVC, or into the GI tract 
+● Some can embolize clots and atheromatous material distally; others can erode 
+through the duodenum and ureters.  
+● An acutely ruptured aneurysm vs. An expanding aneurysm may be clinically 
+indistinguishable 
+ 
+Presentations:  
+● Incidental: ***most AAA are discovered incidentally!!*** 
+● Pain - in the abdomen / back / flank / chest / thigh / groin / scrotum /  
+○ Often vague, dull 
+■ This can be in the contexts of weeks/days of pain due to a contained, 
+rupture aneurysm retroperitoneal  
+○ Throbbing, colicky  
+○ Acute / severe pain suggests impending rupture  
+● An awareness of an abdominal mass / fullness  
+● Back pain - due to vertebral body erosion 
+● Nausea, Vomiting, weight loss, bowel obstruction symptoms: 
+○ Due to compression of the duodenum  
+● Ureteral colic 
+○ Ureters being obstructed by the mass 
+● Syncope   
+● Upper or lower GI bleeding 
+○ Aorto-enteric fistula: when an unrepaired AAA erodes through - usually the 
+duodenum. It may initially cause intra-abdoMinal infection/abscess and then 
+progress to unexplained GI bleeding.  
+● High-output congestive heart failure:  
+○ Aortovenous/aortocaval fistula: the aorta erodes into the vena cava. Blood is 
+shunted into the venous system causing dyspnea, JVD, abdominal bruits, 
+pulmonary edema, peripheral edema. Lower extremity cyanosis, hematuria, 
+rectal bleeding.  
+○ Usually develop renal failure 
+ 
+CrackCast Show Notes – Abdominal Aortic Aneurysm – June 2017 
+www.canadiem.org/crackcast 
+ 
+ 
+● Physical findings:  
+○ A pulsatile, expansile, palpable abdominal mass (most are non-tender, unless 
+they have ruptured)  
+■ In non-obese patients 50-70% of aneurysms 4-5 cm can be palpated.  
+■ Any reasonable clinical suspicion of AAA warrants further imaging 
+○ Triad of: pain-mass-hypotension  
+○ Distended, large, tender, guarded abdomen (due to blood-induced ileus)  
+ 
+A few other points when it comes to presentation 
+○ Bruits = are insensitive and nonspecific for AAA 
+○ Most people have normal femoral pulses  
+○ Thromboembolic complications can occur: blue toe syndrome, acute distal 
+lower extremity occlusions,  
+ 
+2) Compare Aneurysm and Pseudoaneurysm 
+ 
+Aneurysm  
+Pseudoaneurysm  
+● 
+Occur due to trans-mural weakening: loss 
+of collagen/elastin/arterial muscle 
+integrity  
+● 
+Arise from a defect in the arterial wall 
+● 
+Arise from a leaking anastomosis after AAA 
+repair  
+Think of the femoral pseudoA. That develops post 
+femoral access  
+● 
+A localized dilatation of the aorta, 
+involving all three layers of the artery 
+(IMA).  
+● 
+A collection of flowing  blood that 
+communicates with the true lumen, but is 
+enclosed with (contained by) just the 
+adventitia or surrounding soft tissue 
+ 
+3) List common misdiagnoses in patients with ruptured AAA 
+ 
+From Box 86-1 
+“Common misdiagnoses in patients with ruptured AAA” 
+ 
+Acute abdomen: pancreatitis, diverticulitis, 
+cholecystitis, appendicitis, bowel obstruction  
+Renal colic  
+Intestinal ischemia  
+MSK back pain  
+perforated viscus  
+Acute MI 
+ 
+4) List three common complications of traditional AAA repair 
+ 
+How are AAA repaired?  
+ 
+● Traditional  
+○ Open laparotomy  
+■ Longitudinal cut, and graft is anastomosed in place 
+● Occasionally a bifurcation graft is used.  
+CrackCast Show Notes – Abdominal Aortic Aneurysm – June 2017 
+www.canadiem.org/crackcast 
+ 
+ 
+● Endovascular  
+○ Becoming the increasingly popular option 
+○ Stent graft is placed through the femoral artery to the correct position based 
+on fluoroscopy  
+ 
+Complications - can occur at anytime post-op 
+● Infection - difficult to diagnose!  
+○ Graft contamination 
+○ Adjacent infectious spread 
+○ Hematogenous seeding 
+● Aortoenteric fistula (AEF) 
+○ Think about this in anyone with GI bleeding and a history of AAA surgery  
+■ Usually another GI source is found, but if not, think AEF! 
+● Pseudoaneurysm (anastomotic aneurysm)  
+○ Arise from the leaking anastomosis site 
+ 
+5) List common delayed complications of Endovascular repair 
+ 
+● Depends on the graft type (single vs. bifurcation grafts) but in general (beefed up 
+from Uptodate):  
+ 
+1. Infection  
+2. Ischemic complications 
+a. Spinal cord ischemia 
+b. CVA 
+c. Extremity ischemia 
+d. Visceral ischemia (Celiac/SMA/Renal) 
+e. Post implantation syndrome (fever, leukocytosis and reactive inflammation, 
+can get uni or bilateral reactive pleural effusions - SIRS to the max) 
+3. Aortoenteric fistula 
+4. Pseudoaneurysm (anastomotic aneurysm)  
+5. Chylous Ascites / Chylothorax 
+6. Endo Leak (blood flow outside the graft lumen - BUT contained within the aneurysm 
+sac - and it grows) - in as many as 20% of patients who have had repair! 
+a. Type I - separation of proximal / distal end of graft from aortic wall 
+(incompetent seal) 
+b. Type II - retrograde bleeding from branch vessels into aneurysm sac (eg 
+lumbar arteries feeding) 
+c. Type III -  leaking between components of the graft (in a bifurcation graft) 
+d. Type IV - leakage through the graft fabric itself (gore tex popped a hole!) 
+ 
+Many of these endoleaks can resolve spontaneously; we’ll need to order CT-with contrast in 
+the ER to diagnose them! See Figure 86-7 in Rosen’s. 
+ 
+ 
+ 
+ 
+CrackCast Show Notes – Abdominal Aortic Aneurysm – June 2017 
+www.canadiem.org/crackcast 
+ 
+ 
+Wisecracks 
+ 
+1) What to do about the intact, asymptomatic aneurysm?  
+ 
+So, you’re working in the ER, you get a CT scan for renal colic, and you find an AAA that’s 
+5.3 cm…. 
+ 
+● According to Rosen’s clinical trials have been done comparing early surgery vs. close 
+follow-up with serial ultrasounds / symptom onset / or size greater than 5.5cm.  
+● Found that watchful waiting has similar mortality to early elective repair 
+● Depends on features of aneurysm (location, complications, localised aneurysm etc), 
+but these patients generally need close f/u in the community. Consult Vascular in the 
+department and arrange o/p management. 
+ 
+Important to give good discharge teaching re: flank/back/abdominal pain as a red flag for 
+possible AAA rupture 
+ 
+Management of a ruptured AAA: 
+ 
+● Anyone with a confirmed ruptured AAA should be taken to the OR urgently, 
+regardless of hemodynamic stability  
+● MOVIE 
+○ Ask for at least 6 units of blood to be immediately available  
+○ Send for cross match 
+● Get that bedside US done ASAP 
+● Hypotensive patients → should go to the OR, not the CT scanner!  
+● Don’t attempt to fully resuscitate these patients in the ER; they need a surgeon  
+○ Target resuscitation to mental status  
+○ A good aim is systolic BP 90-100 
+● Resuscitate with BLOOD (MTP!!!) 
+○ 1:1:1 = RBC, FFP, Platelets (most come as a five pack of pooled platelets)  
+● CAREFUL in reducing BP in the patient with hypertensive AAA rupture - because 
+they will crash HARD 
+● Mortality for ruptured AAA = 30-40% 
+○ Patients in cardiac arrest or very frail are usually not considered for repair  
+ 

@@ -1,0 +1,110 @@
+# Metadata
+- Source: The Bottom Line
+- Title: Kumar
+- Original URL: https://www.thebottomline.org.uk/summaries/icm/kumar-1/
+- Scrape Date: 2025-07-17
+- Summary Date: AUTO_FILL_IF_AVAILABLE
+
+Duration of hypotension before initiation of effective antimicrobial therapy is the critical determinant of survival in human septic shock
+Kumar. Crit Care Med 2006; 34 (6):1589-1596. doi:10.1097/01.CCM.0000217961.75225.E9
+Clinical Question
+Does a delay in antibiotic administration in patients with septic shock result in an increased mortality?
+Design
+Retrospective cohort of 2,731 adult septic shock patients from the US and Canada
+3 cohorts collected from:
+1 academic tertiary hospital in Manitoba, Canada – June 1989-April 1999
+7 hospitals in Manitoba, Canada – May 1999 – June 2004
+3 academic American hospitals – July 1999 – June 2004
+Patients were identified from either local databases or from coding records
+Setting
+14 ICU’s in 10 hospitals
+4 medical; 4 surgical; 6 both medical and surgical ICU’s
+4 academic and 6 community hospitals
+July 1989 – June 2004
+Population
+Inclusion: adults 18 years and over with septic shock based on SCCM/ACP definition 1991
+2 or more SIRS criteria + organ dysfunction + sepsis induced hypotension despite adequate fluid resuscitation
+MAP < 65mmHg or decrease in baseline SBP of 40mmHg
+Exclusion: other causes of shock; patients with sepsis & severe sepsis (hypotension resolved in the absence of therapy of following administration of <2L of 0.9% NaCL or equivalent)
+Demographics and descriptive data
+Average age was 62.7 ± 16.4 years
+54.3% males and 45.7% females
+Average APACHE II 26.0 ± 8.6
+Drotrecogin-alfa (activated) used in 91 cases outside clinical trials (actual number not recorded) and low-dose steroids in 657 cases
+Of the 2,731 patient records reviewed 2,154 were included after excluding
+19 patients who never received antibiotics before death
+558 patients who were on antimicrobial therapy that was either proven (defined pathogen) or adjudicated (undefined pathogen) effective for the infection thought to underlie septic shock before the onset of infection
+Documented infections were present in 77.9% of cases
+respiratory and gastrointestinal/intrabdominal sites accounted for 2/3rd of all infections
+Intervention
+Antibiotic administration timed from onset of septic shock
+onset of septic shock taken at point of onset of hypotension in these 2 situations:
+hypotension persisting despite > 2L 0.9% NaCL or equivalent (persistent hypotension)
+hypotension only transiently improved (hypotension for <1h) with fluid resuscitation
+inclusive of ambulance, paramedic or nursing home records (recurrent hypotension)
+Control
+None
+Outcome
+In 2,154 adult patients with septic shock, overall hospital mortality was 56.2%
+If effective antimicrobials were administered, survival was:
+82.7% if occurred within 30 minutes of onset of hypotension
+77.2% if occurred within 1 hour
+42% if occurred within 6 hours
+Over the first 6 hours after the onset of recurrent or persistent hypotension, each hour of delay in initiation of effective antimicrobial therapy was associated with a mean decrease in survival of 7.6% (range 3.6-9.9%)
+In univarate analysis, antimicrobial delay was a statistically significant determinant of survival to ICU and hospital discharge (each p<0.001 by log rank analysis)
+OR 1.119 per hour delay (95% CI 1.103-1.136, p<0.0001)
+In multivarate analysis, with other management variables (including effectiveness of initial antibiotic choice, amount of fluid received, choice and rapidity of vasoactive drug), time or effective antimicrobial therapy was most strongly associated with outcome (p<0.0001).
+Median time to antibiotic administration from onset of hypotension was 6 hours (average 13.51 ± 0.45 (SE) hours)
+14.5%, 32.5% and 51.4% of patients had received antimicrobials within 1st hour, by 3 hours and by 6 hours following onset of hypotension
+30% had still not received effective antimicrobials at 12 hours
+Subgroup analysis demonstrated no difference in the relationship between mortality and duration of time between onset of hypotension and effective antimicrobial regardless of whether: infection was clinically suspected or documented; culture positive or negative; bacteraemic or non-bacteraemic; community acquired or nosocomial; or Gram-positive, Gram-negative or fungal
+Overall mortality of 56.2% is very high for septic shock based on current standards (
+ProCESS
+= 20%,
+Gaieski  et al, Crit Care Med 2010
+= 31%). It is reasonable to attribute this to an improvement in antibiotic practice or adoption of all interventions of the SSC. However, Australia & New Zealand data demonstrated a lower mortality of 35% back in 2000,
+Kaukonen et al, JAMA 2014
+)
+Authors’ Conclusions
+‘Effective antimicrobial administration within the first hour of documented hypotension was associated with increased survival to hospital discharge in adult patients with septic shock. Despite a progressive increase in mortality rate with increasing delays, only 50% of septic shock patients received antimicrobial therapy within 6 hours of documented hypotension’
+Strengths
+A large cohort study involving 10 different institutions
+Clinically high relevance and importance
+Diagnostic criteria for site-specific infections clearly documented in Appendix
+For any scenarios regarding data collection which had not been covered by predetermined rules, data was reviewed independently by two infectious disease/intensivists blinded to outcome. Discordant assessments were reviewed by a third physician whose decision was determinate
+Weaknesses
+Non-randomised
+Study spanned from 1989 – 2004. Introduces temporal confounding with changes in practice
+Unclear how many patients were included from each of the 3 cohorts. There were ‘approximately 150’ from each of the 3 American academic institutions.
+38% of the patients had indications for source control (either open surgical or percutaneous) but there is no information regarding when (or even if) this happened
+‘Questionable cases or data elements’ were reviewed by the Principal Investigator for adjudication. A second independent adjudicator would have reduced the risk of clinician bias
+No data presented about organ dysfunction (lactate, renal function, other organ support)
+Minimal information presented about vasoactive drugs, assessment of fluid responsiveness and fluid resuscitation measures
+The study was supported by unconditional grants from a number of pharmaceutical industries. However, they had no role in the design, data collection or writing of the report.
+The Bottom Line
+This study is a landmark paper in critical care practice. The message is powerful. Early and appropriate antibiotic therapy saves lives. The methodology of the paper is not without some significant limitations but a randomised controlled trial is not likely to ever occur now. Source control and early appropriate antibiotics will remain an integral part of the Surviving Sepsis Campaign.
+External Links
+[article abstract]
+Kumar. Duration of hypotension before initiation of effective antimicrobial therapy is the critical determinant of survival in human septic shock. Crit Care Med 2006
+[further reading]
+ProCESS: Review by The Bottom Line
+with link to article
+[further reading]
+Mortality Related to Severe Sepsis and Septic Shock Among Critically Ill Patients in Australia and New Zealand, 2000-2012
+[
+further reading
+]
+Association between timing of antibiotic administration and mortality from septic shock in patients treated with a quantitative resuscitation protocol. EMSHOCKNET
+[further reading]
+Gaieski. Impact of time to antibiotics on survival in patients with severe sepsis or septic shock in whom early goal-directed therapy was initiated in the emergency department. Crit Care Med 2010
+[further reading]
+Kumar. Initiation of inappropriate antimicrobial therapy results in a fivefold reduction of survival in human septic shock. Chest 2009
+[further reading]
+Antibiotic Timing
+– Life in the Fast Lane
+Metadata
+Summary author:
+@stevemathieu75
+Summary date: 30th July 2014
+Peer-review editor:
+@davidslessor

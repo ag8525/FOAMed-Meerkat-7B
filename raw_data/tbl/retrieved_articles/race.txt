@@ -1,0 +1,110 @@
+# Metadata
+- Source: The Bottom Line
+- Title: RACE
+- Original URL: https://www.thebottomline.org.uk/summaries/icm/the-rapid-administration-of-carnitine-in-sepsis-race-randomized-clinical-trial/
+- Scrape Date: 2025-07-17
+- Summary Date: AUTO_FILL_IF_AVAILABLE
+
+Effect of Levocarnitine vs Placebo as an Adjunctive Treatment for Septic Shock. The Rapid Administration of Carnitine in Sepsis (RACE) Randomized Clinical Trial
+Alan Jones. JAMA 2018; Published in line Dec 21st 2018;1(8):e186076. doi:10.1001/jamanetworkopen.2018.6076
+Clinical Question
+In patients with septic shock, does one or more doses of levocarnitine, compared with placebo, reduce organ failure at 48 hours?
+Background
+Despite significant research investment over the last 5 decades, there remains a lack of specific pharmacologic therapies targeting the pathophysiology of sepsis
+Levocarnitine may mitigate some of the metabolic effects of sepsis by simultaneously enhancing fatty acid entry into the mitochondria, clearing their toxic effects from the cytosol and sequestering intramitochondrial acetate, leading to a decrease in the inhibitory effect of acetyl–coenzyme A on the pyruvate dehydrogenase complex
+Preclinical animal models and two small clinical trials of acetyl-l-carnitine and l-carnitine have demonstrated their relative safety and a reduction of organ dysfunction and possibly mortality
+Design
+Prospective, randomised, blinded, placebo-controlled clinical trial
+Bayesian response-adaptive randomisation
+Centralised web-based portal was used to determine treatment allocation
+Patients were randomly assigned to 1 of 3 doses of levocarnitine or saline placebo
+Site-based blocked randomisation approach ensured that approximately one-third of participants were allocated to the control arm
+Intention To Treat (ITT) and Per Protocol (PP) analyses
+Interim analyses were conducted on every 12 patients
+At each interim analysis, the relative allocation probability of the 3 active treatment arms was adjusted to be proportional to the probability that each arm would lead to the greatest improvement in the SOFA score
+For safety, clinical physicians could elect to break study masking, although in no instance did this occur
+Based on
+Monte Carlo simulation
+of 30 000 simulated trials enrolling up to 250 patients, the probability of a positive trial assuming no treatment effect (the type I error rate α) was 4.3%. The power of the trial (β) was dependent on the true treatment effect. If the true SOFA score effects for the 3 levocarnitine treatment arms were 0, 1, and 2, corresponding to mortality effects of 0%, 6%, and 12%, respectively, then the power of the trial was 91.1%.
+Setting
+Emergency Departments and ICUs’ in 16 large urban medical centers in the United States
+March 5th 2013 – February 5th 2018
+Population
+Inclusion
+: Patients 18 years or older with confirmed or presumed infection and all of the following:
+the presence of 2 or more systemic inflammatory response criteria
+enrolment within 24 hours of recognition of septic shock with initiation of a standardised sepsis treatment pathway
+the use of high-dose vasopressors (norepinephrine >0.05 μg/kg/min, dopamine >10 μg/kg/min, phenylephrine >0.4 μg/kg/min, epinephrine >0.05 μg/kg/min, or any vasopressin dose) to treat shock for at least 4 hours at the time of enrollment
+cumulative SOFA score of at least 6
+blood lactate level exceeding 18 mg/dL or 2 mmol/l liter
+to convert lactate level to mmol/l, multiply by 0.111
+Exclusion
+: Patient was pregnant or breastfeeding or had any of the following characteristics: primary diagnosis other than sepsis, an established do-not-resuscitate status or advance directive restricting aggressive care, any history of seizures, known inborn error of metabolism, anticipated surgery that would interfere with a 12-hour infusion, active participation in another interventional trial, cardiopulmonary resuscitation before enrollment, known allergy to levocarnitine, active warfarin treatment, or severe immunocompromised state
+2694 individuals were screened and 250 patients enrolled 250
+41 patients died before the 48-hour time point and required last SOFA score carried forward to calculate the primary outcome
+1 patient withdrew before treatment and two additional patients withdrew after treatment, permitting no 28-day mortality assessment, leaving 247 patients for the modified ITT analysis.  An additional 17 patients never began (n = 4) or did not complete (n = 13) the 12-hour infusion. After exclusion of these patients and withdrawals, 230 patients remained for the Per Protocol analysis
+Groups were well matched for baseline demographics, co-morbidities, physiological variables, and severity of illness measurements with the exception of age, which was older in the low- and medium-dose groups, and  APACHE II scores which were lowest in the high-dose group and highest in the medium-dose group despite well-matched SOFA scores
+Comparing placebo vs. low vs. medium vs. high dose:
+Age: 60 vs. 68 vs. 65 vs. 60
+APACHE II score: 23 vs. 25 vs. 24 vs. 19
+SOFA score: 12 vs. 11 vs. 12 vs. 11
+Intervention
+3 active treatment arms consisted of:
+low (6 g) doses (n=35) of levocarnitine administered intravenously over a 12-hour period
+medium (12 g) doses (n=34) of levocarnitine administered intravenously over a 12-hour period
+high (18 g) doses (n=106) of levocarnitine administered intravenously over a 12-hour period
+Control
+Placebo (n=75) consisted of an identical volume of 0.9% saline administered intravenously over a 12-hour period
+Management common to both groups
+For each dose of levocarnitine or placebo, 33% of the total dose was administered as a 20-mL bolus over 2 to 3 minutes, followed by a fixed-rate continuous infusion of 1 L over the next 12 hours
+Outcome
+Primary outcome
+:
+Change in the SOFA scores from enrollment to 48 hours, with negative numbers indicating improvement
+The most efficacious dose of levocarnitine (18 g) demonstrated 78% and 77% probabilities of superiority compared with placebo in the intent-to-treat (ITT) and per-protocol (PP) analyses, respectively
+The posterior probability that the 18-g dose is superior to placebo was 0.78, which did not meet the a priori threshold of 0.90
+28-day mortality
+Mortality at 28 days was 45.9% (34 of 74) in the placebo group compared with 43.3% (45 of 104) for the most promising levocarnitine dose (18 g)
+Raw and Fitted Change in the SOFA Scores (48-Hour SOFA Score Minus Enrollment SOFA Score) for the Intent-to-Treat and Per-Protocol Analyses
+Secondary outcome
+:  No significant differences in any of the outcomes
+median ICU length of stay
+placebo: 7 days; interquartile range [IQR], 3-15 days
+low-dose: 6 days; IQR, 4-11 days
+medium-dose: 7 days;IQR, 3-13 days
+high-dose: 6 days; IQR, 3-15 days
+P = 0.90
+additional median numbers of hospital days after ICU discharge
+8 days (IQR, 1-18 days), 4 days (IQR, 1-13 days), 5 days (IQR, 1-17 days), and 6 days (IQR, 0-14 days), respectively (P = 0.48)
+no difference in the proportion of patients who had care withdrawn
+0.13, 0.20, 0.12, and 0.07, respectively (P = 0.15).
+median number of ICU days
+8 days (IQR, 4-20 days) for survivors vs 5 days (IQR, 2-10 days) for non-survivors. The median number of non-ICU hospital days was 16 days (IQR, 9-28 days) among survivors vs 7 days (IQR 3-14 days) among non-survivors
+Authors’ Conclusions
+Levocarnitine did not meaningfully reduce organ failure at 48 hours in patients with septic shock
+Strengths
+Pharmacists were the only individuals not masked to treatment, and they had no study-related contact with the investigators or participants
+Levocarnitine or placebo was prepared in identical polypropylene infusion bags with labels that included the study identification number, patient name, medical record number, and infusion rate
+Demonstrates the potential benefit of a
+Bayesian adaptive randomization
+design by preferentially allocating patients toward the most efficacious high dose, rather than the lower doses, whilst maintaining allocation to placebo patients
+Weaknesses
+A change in the SOFA score may not represent the best surrogate end point for primary outcome measurement in sepsis trials
+Whilst adequately powered, only 106 patients were enrolled at the highest levocarnitine dose. Small treatment effects may have not been detected
+APACHE II scores were lower in the high-dose arm
+The Bottom Line
+Patients with septic shock and moderate organ dysfunction treated with low (6 g), medium (12 g), or high (18 g) doses of levocarnitine had no significant reduction in their cumulative organ failure at 48 hours compared with placebo
+This is an innovative trial assessing metabolic modulation in sepsis but has not shown any benefit at the doses or infusion regimen used
+External Links
+[article]
+Effect of Levocarnitine vs Placebo as an Adjunctive Treatment for Septic Shock. The Rapid Administration of Carnitine in Sepsis (RACE) Randomized Clinical Trial
+[Editorial]
+Bayesian Adaptive Randomization in Dose-Finding Trials
+[further reading]
+Practical Bayesian Adaptive Randomization in Clinical Trials
+Metadata
+Summary author:
+Steve Mathieu
+Summary date: 6th January 2019
+Peer-review editor:
+Dave Slessor

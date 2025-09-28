@@ -1,0 +1,122 @@
+# Metadata
+- Source: The Bottom Line
+- Title: 3Mg trial
+- Original URL: https://www.thebottomline.org.uk/summaries/icm/3mg/
+- Scrape Date: 2025-07-17
+- Summary Date: AUTO_FILL_IF_AVAILABLE
+
+Intravenous or nebulised magnesium sulphate versus standard therapy for severe acute asthma (3Mg trial): a double-blind, randomised controlled trial
+Goodacre. Lancet Respir Med 2013; 1: 293–300
+Clinical Question
+Does intravenous or nebulised MgSO
+4
+improve symptoms of breathlessness and reduce the need for hospital admission in adults with severe acute asthma?
+Design
+Randomised, controlled trial
+Double-blinded
+Placebo-controlled
+Multi-centre
+Intention to treat analysis
+Setting
+34 Emergency Departments in the UK
+over 1/3 recruitments were from 3 ED’s (Edinburgh, Sheffield and Bath)
+30th July 2008 to 30th June 2012
+Population
+Adults, aged over 16
+ED attendees
+Severe acute asthma as defined by BTS Guidelines
+PEFR < 50% best or predicted
+RR > 25/min
+HR > 110/min
+Inability to complete sentences in 1 breath
+Exclusions
+Life-threatening asthma
+O2 sats < 92%; Silent chest; Cyanosis; Poor respiratory effort; Bradycardia; Arrhythmia; Hypotension; Exhaustion; Coma; Confusion
+Contraindication to either nebulised or intravenous MgSO
+4
+Patients unable to give verbal or written consent
+Previous participant in 3Mg trial
+1084 patients randomised and analysed on intention to treat basis
+target was 1200 patients but terminated early because funding expired
+Intervention
+Intravenous MgSO
+4
+(2g over 20 minutes) + standard BTS/SIGN guidelines
+Nebulised MgSO
+4
+(500mg x 3 at 20 minute intervals) + standard BTS/SIGN guidelines
+Control
+Placebo + standard BTS/SIGN guidelines
+BTS/Sign standard therapy – oxygen, nebulised salbutamol (5mg), nebulised ipratropium (500mcg) and oral prednisilone. Other treatments were at the discretion of the clinician
+Outcome
+In words
+Primary outcomes
+No difference in rates of admission to hospital between intervention and control groups
+285/394 (72%)  vs. 261/332 (79%) vs. vs. 281/358 (78%) patients were admitted to hospital before 7 days in the intravenous vs. nebulised vs. placebo group
+Odds ratio of 0.84 (CI 0.61 – 1.15; p=0.276)
+No difference in patient-reported visual analogue score (VAS) for breathlessness between intervention and control at 2 hours
+0mm (CI -1.9 – 1.9; p=0.999)
+Secondary outcomes
+No difference between intervention and control groups in:
+Mortality (1 death each in intervention groups and none in control)
+Use of ventilation/respiratory support
+Length of hospital stay
+Admission to HDU or ICU
+Change in PEFR and physiological variables
+Increased incidence of side-effects up to 30 days in intervention compared to control groups
+To be reported:
+Change in quality of life at 1 month
+Number of unscheduled health-care contacts over subsequent month
+Satisfaction with care
+In numbers
+Authors’ Conclusions
+Nebulised MgSO
+4
+has no role in the management of severe acute asthma in adults and at best, only a limited role for intravenous MgSO
+4
+in this setting.
+Strengths
+Double blinded randomised controlled trial
+treatment packs used which all contained an intravenous infusion and three nebuliser solutions
+Multi-centred
+Control group of established recommendations (BTS/SIGN)
+Study registered ISRCTN04417063
+Weaknesses
+Recruitment was terminated early as funding expired
+Underpowered: Designed to detect a 10% difference in admission rates
+recruitment of 1200 patients would have meant 90% power to detect the planned 10% absolute reduction in proportion of patients admitted to hospital from ED.
+recruitment of 1084 patients meant 84-87% power to detect a 10% absolute reduction in admission rate for interventions versus control
+Protocol amendment during the trial to also include individuals who had received MgSO
+4
+in the 24 hour before recruitment
+The Bottom Line
+This is the largest trial looking at the role of MgSO
+4
+in the treatment of acute severe asthma in adults. I have never used nebulised MgSO
+4
+to treat asthma in adults and this won’t change. The use of intravenous MgSO
+4
+in severe acute asthmatics is not without its side effects but I would still continue to use it in patients with life-threatening asthma. My expectation of achieving any significant clinical impact by giving 2g magnesium will remain low
+External Links
+[original article full text]:
+Intravenous or nebulised magnesium sulphate versus standard therapy for severe acute asthma (3Mg trial) by Goodacre
+[podcast]:
+Magnesium in acute severe asthma; 3Mg trial.
+HEFT EMCAST
+[Further reading]:
+BTS/SIGN Guidelines on management of asthma 2012
+(NB study used 2007 guidelines)
+[Further reading]:
+Economic evaluation of 3Mg trial
+– Health Technology Assessment 2014
+[Further reading]:
+Intravenous magnesium sulfate for treating adults with acute asthma in the emergency department. Cochrane review
+[Further reading]:
+Does Magnesium work in asthma?
+St Emelyns
+Metadata
+Summary author:
+@avkwong
+Summary date: 8th July 2014
+Peer-review editor:
+@stevemathieu75

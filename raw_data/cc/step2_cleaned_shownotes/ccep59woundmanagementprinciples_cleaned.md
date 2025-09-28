@@ -1,0 +1,123 @@
+```yaml
+title: "CrackCast Episode 59: Wound Management Principles"
+url: "https://canadiem.org/crackcast"
+date: 2017-01
+source: "CanadiEM – CrackCast"
+original_file: CCEp59.WoundManagementPrinciples.pdf
+summary: "Will be added later"
+```
+
+## Overview
+
+### Rosens in Perspective
+
+Infection risk is proportional to location, mechanism, host, and care. Varies <1% to 20%.
+
+Infection also affects ultimate scar outcome, and wound-related complaints are the 4th most common cause of malpractice.
+
+## Core Questions
+
+### 1) List risk factors for wound infection
+
+- Injury > 8-12 hours old
+- Locations with poor blood supply (Leg and thigh > arms > feet > chest > back > face > scalp)
+- Contaminated wound
+- Blunt mechanism
+- Subcutaneous sutures
+- Repair material (sutures > staples > tape)
+- Anaesthesia with epi (really?)
+- High-velocity missile injuries
+
+### 2) List the 5 stages of wound healing
+
+- Coagulation (immediate)
+  - Standard cascade of intrinsic and extrinsic clotting factors culminating in platelet plug with fibrin crosslinking
+- Inflammation (immediate - 48 hours)
+  - Platelets release factors which encourage WBC migration into wound. Specifically, neutrophils and monocytes scavenge debris and bacteria
+  - Maturation of monocytes into macrophages promotes release of chemotactic substances triggering fibroblast replication and neovascularization
+- Collagen metabolism (>48 hours, peaks 7d, greatest mass 3wks)
+  - Fibroblasts synthesize and deposit disordered collagen
+  - Requires oxygen
+  - Remodeling and cross-linking continues for 6-12 months
+- Wound contraction
+  - Immediately skin retracts, when during next 3-4d wound length decreases independent of collagen
+- Epithelialization 48 hours - days
+  - Epithelial cells migrate across wound, soon resembling uninjured skin
+
+### 3) List toxic doses of local anesthetics
+
+- Lido without epinephrine is 3-5mg/kg (max 35 ml 1% in 70kg), with epinephrine it's 5-7 (max 49 ml 1% in 70 kg)
+- Bupivacaine 2.5mg/kg without (25ml of 0.5% in 70kg) 3mg/kg with (max 42ml 0.5% in 70kg)
+  - Max intraoral = 90mg
+
+The theory is that having epinephrine promotes vasoconstriction and reduces systemic absorption of the anesthetic.
+
+### 4) List 3 types of wound closures
+
+- Primary
+  - Use in cases of clean wound, generally <8-12 hours (face up to 24 hours). Physician judgment is the best method for deciding safety in wound closure. For guidance see Question 1
+- Delayed Primary Closure
+  - For wounds that meet risk factors from question 1 but require closure for satisfactory cosmetic outcomes (i.e., face, visible area)
+  - Typically not done in ED as requires primary packing, daily follow-up, and re-closure in 4-5d
+- Left Open
+  - Typically not seen in ED except in very dirty wounds or exceedingly small
+  - Rosen’s notes few studies looking at wounds <2cm, no difference in scar formation at 3 months
+
+### 5) List advantages of and contraindications of tissue adhesives
+
+**Advantages:**
+- Quick, comfortable, no suture removal, antibiotic properties, no risk of needle stick injuries, similar cosmetic outcomes
+
+**Disadvantages:**
+- Inability to use petroleum-based products on the wound (i.e., antibacterials), can't use in high tension areas, can’t swim, must limit forces to glue, greater risk of dehiscence
+
+### 6) List indications for tetanus immune prophylaxis
+
+Caveat: * some sources say if wound is ‘dirty’ reduce to 5 years
+
+### 7) List 5 specific wound care instructions
+
+### 8) List 7 situations where antibiotic prophylaxis is indicated in wound management
+
+- Cat bites - all. (Staphylococcus, streptococcus, and Pasteurella multocida). Amox clav (875mg x 7d)
+- Dog bites - controversial. Guidelines say limit to hand, very dirty, older patients, deep puncture, and immunocompromised. Amox clav x7d
+- Fight bites - human bites or assumed to the hand. First thoroughly look for tendon or joint damage. Streptococcus, staphylococcus, Eikenella corrodens, and bacteroides. Amox Clav, plastic surgery consultant opinion
+- Puncture wound of foot - no data supporting but should be considered especially in puncture through rubber shoe (pseudomonas). Ciproflox for pseudomonas, keflex for staph/strep. ?MRSA Septra or Doxycycline
+- Delayed primary closure in high-risk patient
+- Open fractures
+- High-velocity missile wounds
+
+## Wisecracks
+
+### 1) Evidence guided tips for scar healing?
+
+- Silicone dressings?
+  - Cochrane: There is weak evidence of a benefit of silicone gel sheeting as a prevention for abnormal scarring in high-risk individuals but the poor quality of research means a great deal of uncertainty prevails. Trials evaluating silicone gel sheeting as a treatment for hypertrophic and keloid scarring showed improvements in scar thickness and scar color but are of poor quality and highly susceptible to bias.
+  - Seems to be up to 12 months
+- Pressure/compression therapy
+  - Initial pressure dressing as soon as tolerated by patient
+  - Massage - our local plastics cite massage after first 1-2 weeks up to 6 months
+- Avoiding sun exposure up to a year - good evidence
+- No evidence for anything else including aloe, vitamin E, etc. Although good practice is probably keeping the skin hydrated
+
+### 2) How to decrease pain of anaesthetic injection?
+
+- Buffering: 1:10 with lido (i.e., 1ml bicarb in 10 ml lidocaine) or 1:100 bupivacaine
+- Inject through broken tissue - no increased risk of infection
+- Smaller needle with low pressure
+- ‘Jiggle’ skin
+- Consider block for large area
+- EMLA/cold spray/LET/Lidocaine prior to needle
+- Inject slowly
+- Bring local to skin temperature
+
+### 3) Where can I find a concise guide to Suture material use?
+
+- Shout out to Dan Ting and Jared Baylis: published a guide to suture use with wonderful infographics at our host site CanadiEM.
+
+Search google for CanadiEM sutures or see link here: [Nice Threads: A Guide to Suture Choice in the ED](https://canadiem.org/nice-threads-guide-suture-choice-ed/)
+
+## References
+
+- [Nice Threads: A Guide to Suture Choice in the ED](https://canadiem.org/nice-threads-guide-suture-choice-ed/)
+```

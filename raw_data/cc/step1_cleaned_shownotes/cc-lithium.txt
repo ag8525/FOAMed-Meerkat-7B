@@ -1,0 +1,334 @@
+# Metadata
+- topic: 4.2 - Toxicology - CC-lithium
+- source_folder: 4.2 - Toxicology
+- original_file: CC-lithium.pdf
+
+ 
+ 
+CrackCast Show Notes – Lithium – March 2018 
+www.canadiem.org/crackcast 
+CRACKCast E160 – Lithium 
+ 
+Key concepts;  
+ 
+❏ The clinical pattern of acute and chronic toxicity is different. Gastrointestinal 
+symptoms occur early and neurological toxicity manifest late in acute toxicity. 
+ 
+❏ Neurological findings (such as, tremors, clonus, and somnolence) often are 
+presenting signs of chronic lithium toxicity and gastrointestinal symptoms may be 
+absent.  
+ 
+❏ Neither activated charcoal nor whole bowel irrigation (WBI) is indicated in the routine 
+management of acute or chronic lithium toxicity.  
+ 
+❏ Serial lithium concentrations should be obtained every 2 to 4 hours initially to 
+determine the peak level and the need for dialysis.  
+ 
+❏ Fluid hydration with crystalloid is essential to enhance the removal of lithium 
+through the kidney. Diuretics are contraindicated.  
+ 
+❏ We recommend dialysis for acute lithium concentrations >4 mEq/L (4 mmol/L), and 
+chronic lithium concentrations >2.5 mEq/L (2.5 mmol/L), or for patients with signs of 
+severe neurological toxicity regardless of the concentration. 
+ 
+Core questions  
+ 
+1. How does lithium work? 
+2. What is the clinical presentation of lithium toxicity? 
+3. List risk factors for toxicity in the setting of chronic lithium use. 
+4. List 4 factors which impair renal filtration of Li 
+5. List 2 disease states caused by Li 
+6.  Describe the management of lithium toxicity. 
+7. What are the indications for dialysis in a patient with lithium toxicity? 
+ 
+ 
+ 
+Wisecracks:  
+ 
+1. List 4 common clinical scenarios for Li toxicity and describe the clinical 
+syndromes 
+2. List the ECG changes potentially seen in lithium toxicity 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CrackCast Show Notes – Lithium – March 2018 
+www.canadiem.org/crackcast 
+Rosen’s In Perspective:  
+ 
+Lithium was approved for the treatment of bipolar disorder in 1970, and it remains one 
+of the most effective agents for both depressive and manic symptoms.  
+ 
+“Lithium is a monovalent cation with a narrow therapeutic range, and significant toxicity can 
+result when outside of this range.” 
+ 
+Lithium largely has no effect when given in therapeutic doses to patients without 
+mood disorders.  
+ 
+“Lithium toxicity is nonspecific and may present in a manner similar to many systemic and 
+neurologic disorders, so obtaining a history of use or ingestion is critical to making the 
+diagnosis.” 
+ 
+ 
+ 
+[1] How does lithium work? 
+ 
+ 
+In spite of long-term therapeutic use, the mechanism by which lithium acts is still not fully 
+understood. Its efficacy in the treatment of psychiatric illnesses is thought to be due to the 
+modulation of neurotransmitters, which has downstream effects through cell signaling and 
+molecular mechanisms. 
+ 
+ 
+ 
+[2] What is the clinical presentation of lithium toxicity? 
+ 
+Lithium is rapidly absorbed from the gastrointestinal tract and peaks in the serum 1 to 
+2 hours after ingestion of immediate release preparation and 4 to 5 hours with 
+sustained release preparations.  
+ 
+“In overdose situations, absorption and peak concentrations may be delayed. Once 
+absorbed, lithium enters the serum followed by a delayed distribution to the tissues.” 
+ 
+Lithium is NOT metabolised (it's a metal) and is excreted unchanged in the urine.  
+ 
+Unless the patient intentionally overdoses, most toxicity occurs in the setting of acute 
+or chronic intravascular volume depletion or renal impairment  
+ 
+The classic presentation of significant lithium toxicity comprises altered mental 
+status; tremors; hyperreflexia, clonus, or fasciculations; and vomiting or diarrhea.  
+ 
+However, clinical features of lithium toxicity depend on whether it is acute or chronic in 
+nature (Table 154.1). Thus, evaluation of the potentially lithium toxic patient requires 
+ 
+ 
+CrackCast Show Notes – Lithium – March 2018 
+www.canadiem.org/crackcast 
+knowledge of whether the patient was previously taking lithium, the timing of the last dose, 
+and the amount of drug ingested.  
+ 
+Acute toxicity  = GI symptoms predominate 
+● Patient wasn’t on lithium and wanted to OD on it 
+Chronic toxicity = neurologic symptoms predominate 
+●  an increase in serum levels of lithium in a patient who is regularly taking lithium. This 
+can either be from reduced excretion, renal insufficiency, or dose adjustment (either 
+by a clinician or by the patient). Chronic lithium toxicity causes predominantly 
+neurological symptoms.  
+● Acute-on-chronic toxicity occurs when a patient with a stable steady-state lithium 
+level takes a substantial additional amount of lithium, whether intentional or 
+accidental. These patients present with a combination of both acute and chronic 
+toxicity signs and symptoms. Either acute or chronic toxicity can result in cardiac 
+conduction abnormalities or bradycardia;   
+ 
+Table 154.1: Clinical Features of Lithium Toxicity  
+ 
+CLINICAL 
+FEATURES 
+TYPE OF TOXICITY 
+ACUTE 
+CHRONIC 
+Gastrointestinal1 
+Nausea 
+Vomiting 
+Diarrhea 
+Mild or nonexistent 
+Neurological11,12 
+Similar to chronic toxicity, occurs several 
+hours after lithium distribution to the brain 
+Tremors 
+Clonus 
+Hyperreflexia 
+Somnolence 
+Extrapyramidal 
+symptoms 
+Coma 
+Seizures 
+Cardiac13-14 
+Sinus node dysfunction 
+AV blockade 
+Brugada pattern on ECG 
+Ischemic changes on ECG 
+QTc prolongation 
+AV, Atrioventricular; ECG, electrocardiogram. 
+ 
+ 
+Mnemonic time: 
+❏ Leukostasis 
+❏ Insipidus 
+❏ Tremor / teratogen 
+❏ Hypothyroidism 
+❏ Increased weight 
+ 
+ 
+CrackCast Show Notes – Lithium – March 2018 
+www.canadiem.org/crackcast 
+❏ Vomiting ? nausea 
+❏ Myocardium = ecg changes 
+❏ Serotonin syndrome / nms like effect 
+ 
+[3] List risk factors for toxicity in the setting of chronic lithium 
+use. 
+ 
+● Nephrogenic DI 
+● Renal impairment 
+● Acute illness  
+● Diuretic use, NSAIDS, ACE/ARB drugs  
+● Dementia  
+● Increased age 
+● SILENT: cerebellar findings with pseudodementia 
+ 
+ 
+[4] List 4 factors which impair renal filtration of Lithium 
+ 
+● Volume depletion  
+● Kidney injury 
+● Nephrogenic DI 
+● Diuretic use 
+ 
+ 
+ 
+[5] List 2 disease states caused by Lithium 
+ 
+Here’s a bunch:  
+● nephrogenic diabetes insipidus  
+● Hypothyroidism (and hyperthyroidism)  
+○ Both of these conditions are reversible with discontinuation of the 
+medication and respond well to conventional management. 
+● Hypercalcemia and hyperparathyroidism also can occur and reverse upon 
+discontinuation of lithium.  
+● Patients chronically taking lithium can develop the syndrome of irreversible 
+lithium-effectuated neurotoxicity (SILENT). Patients with SILENT will often have 
+persistent cerebellar and brainstem dysfunction, dementia, and extrapyramidal signs 
+even after lithium use has been discontinued for more than 2 months.  
+ 
+ 
+ 
+[6] Describe the management of lithium toxicity. 
+ 
+Think about other ingestants or your ddx: 
+● Toxins: 
+ 
+ 
+CrackCast Show Notes – Lithium – March 2018 
+www.canadiem.org/crackcast 
+○ Salicylates, iron, ASA, acetaminophen, substance withdrawal, serotonin 
+syndrome!  
+ 
+“Lithium concentrations should be obtained in all patients who are taking lithium, or have 
+access to lithium, and present with potential toxicity. Because of the insidious and 
+nonspecific nature of chronic lithium toxicity, a serum lithium level is also advisable in 
+patients who are on lithium maintenance, regardless of their reason for presentation (normal 
+levels 0.6 - 1.2 mmol/L)”  
+ 
+Box 154.1: Diagnostic Testing For Lithium:  
+• 
+Serum lithium level 
+• 
+Serum electrolytes 
+• 
+Electrocardiogram (ECG) 
+• 
+If the clinical picture dictates: 
+o Acetaminophen/salicylate levels 
+o Thyroid function tests 
+ 
+ 
+No specific antidote exists for lithium toxicity, and activated charcoal does not bind 
+lithium.  
+ 
+Supportive care and enhanced elimination are the mainstays of treatment. Because 
+lithium is primarily excreted unchanged by the kidney, intravenous crystalloid should 
+be administered early.  
+ 
+Most patients who are lithium-toxic are dehydrated because of gastrointestinal losses 
+in acute toxicity or from underlying dehydration leading to chronic toxicity.  
+ 
+Crystalloid should be infused as a 1 L bolus followed by a continuous infusion at 
+150% of the calculated maintenance rate if there are no contraindications, such as 
+congestive heart failure.  
+ 
+Diuretics are contraindicated, because they can cause worsening dehydration and 
+reabsorption of lithium. Electrolyte abnormalities, if significant, should be corrected.  
+ 
+ 
+We do not recommend the use of whole bowel irrigation (WBI) in routine lithium 
+ingestions. “ - Rosen’s 
+ 
+ 
+ 
+[7] What are the indications for dialysis in a patient with lithium 
+toxicity? 
+ 
+Lithium is highly dialyzable and dialysis is indicated for patients exhibiting signs of 
+severe lithium toxicity  
+ 
+ 
+ 
+CrackCast Show Notes – Lithium – March 2018 
+www.canadiem.org/crackcast 
+Dialysis can remove lithium at a rate five to seven times the rate of typical renal 
+elimination.  
+ 
+Box 154.2: Indications For Dialysis in Lithium Poisoned Patients  
+1. Severely symptomatic patients 
+2. Unable to tolerate fluid hydration 
+3. Renal impairment 
+4. Acute toxicity: Levels above 4 mEq/L 
+5. Chronic toxicity: Levels above 2.5 mEq/L 
+ 
+ 
+ 
+ 
+Wisecracks:  
+[1] List 4 common clinical scenarios for Li toxicity and 
+describe the clinical syndromes 
+ 
+● Acute toxicity 
+○  a recent ingestion in a patient who is not therapeutically taking 
+lithium.  
+○ Acute toxicity typically manifests with gastrointestinal symptoms 
+such as vomiting and diarrhea and can mimic many other 
+disease states.  
+○ Neurologic consequences of an acute lithium overdose (such as, 
+altered mental status and seizures) occur several hours later after 
+lithium redistributes to the brain, but in some cases where lithium has 
+delayed-release properties, this can occur even 12 or more hours after 
+ingestion.  
+○ May have cardiac toxicity  
+● Acute on chronic toxicity  
+○ Overlap of GI, Neuro, and cardiotoxicity (AV blockade, qtc prolonged, 
+ischemic changes)   
+● Chronic toxicity (reduced excretion, renal insufficiency, dose adjustment 
+(either by a clinician or by the patient). 
+○ predominantly neurological symptoms = ataxia, EPS, tremors, 
+seizures, coma/somnolence. 
+● Lithium has also been implicated in serotonin syndrome when combined 
+with other drugs, such as monoamine oxidase (MAO) inhibitors, selective 
+serotonin reuptake inhibitor (SSRIs), dextromethorphan, and meperidine.  
+ 
+ 
+ Any changes in renal excretion due to conditions such as dehydration, 
+hyponatremia, or renal dysfunction will lead to increases in serum lithium levels. 
+ 
+ 
+ 
+ 
+ 
+ 
+CrackCast Show Notes – Lithium – March 2018 
+www.canadiem.org/crackcast 
+[2] List the ECG changes potentially seen in lithium toxicity 
+ 
+These are usually seen in acute overdose 
+ 
+❏ Bradycardia 
+❏ Junctional rhythm / AV blockade  
+❏ ST changes 
+❏ QT prolongation 
+❏ Flattened or inverted T-waves 
+❏ Brugada pattern on ECG 
+❏ Ischemic changes on ECG 
+ 

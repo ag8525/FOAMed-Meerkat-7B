@@ -1,0 +1,88 @@
+# Metadata
+- Source: The Bottom Line
+- Title: MOPETT
+- Original URL: https://www.thebottomline.org.uk/summaries/icm/mopett/
+- Scrape Date: 2025-07-17
+- Summary Date: AUTO_FILL_IF_AVAILABLE
+
+Moderate pulmonary embolism treated with thrombolysis
+Sharifi. American Journal of Cardiology: 2013; 111(2)273-277.
+Clinical Question
+In patients with moderate Pulmonary Embolism (PE), does low dose thrombolysis + anticoagulation, compared with anticoagulation alone, reduce pulmonary artery pressure at 28 months?
+Design
+Randomised controlled trial
+Patients and clinicians non-blinded
+Blinding of cardiologists who determined result of primary outcome
+Powered at 90% to detect 10% reduction in pulmonary artery pressure with 5% accepted alpha error if 110 patients randomised. Aimed to recruit 120 to allow for attrition.
+Setting
+Single centre, USA
+2008 – 2010
+Population
+Inclusion: signs and symptoms suggestive of PE, with confirmatory imaging (CT or V/Q)
+moderate PE defined if above criteria met and either of the following:
+CT-PA involvement of >70% involvement of thrombus in
+≥
+2 lobar or left or right main pulmonary arteries
+high-probability V/Q scan showing V/Q mismatch in
+≥
+2 lobes
+Exclusion: onset of symptoms >10 days, >8 hours since start of parenteral anticoagulation, BP<95 or
+≥
+200/100, contraindication to thrombolysis
+121 patients randomised
+Intervention
+tPA and enoxaparin
+tPA
+if ≥ 50kg: 10mg bolus, followed by 40mg within 2 hours (half standard dose)
+<50kg: total dose 0.5mg/kg with 10mg bolus with remainder within 2 hours
+Enoxaparin 1mg/kg SC BD, (maximum dose 80mg) or unfractionated heparin (70units/kg bolus up to maximum 6,000 units, followed by infusion 10units/kg/hr up to maximum 1000 units/hr. At 3 hours after termination of thrombolysis infusion increased to 18units/kg/hr. Target APTR 1.5-2.
+Control
+Enoxaparin alone
+1mg/kg SC BD or unfractionated heparin 80 units/kg bolus followed by 18 units/kg/hr with target APTR 1.5-2.
+Management common to both groups
+Enoxaparin was the preferred heparinoid in both groups, however unfractionated heparin was used if there was evidence of renal failure or for patient preference.
+Outcome
+Primary outcome: development of pulmonary hypertension (pulmonary artery systolic pressure ≥ 40mmHg) as assessed by ECHO at 28 months
+16% in treatment group vs. 57% in control group, P<0.001, NNT 2.5
+mean PASP at 28 months 28 vs. 43mmHg, P<0.001
+Secondary outcomes:
+composite endpoint of pulmonary hypertension and recurrent PE at 28 months
+16% in treatment group vs. 63% in control group, P<0.001
+Recurrent PE
+0% vs. 5%, P=0.08
+Mortality
+1.6% vs. 5%, P=0.3
+Total mortality + recurrent PE
+1.6% vs. 10%, P=0.049
+Bleeding
+0% vs. 0%
+Authors’ Conclusions
+Low dose thrombolysis is safe and effective in the treatment of moderate PE
+Strengths
+Randomised trial
+Blinding of cardiologists who performed ECHO determining result of primary outcome
+Standard method for determining pulmonary artery pressure
+Weaknesses
+Single centre
+Patients and clinicians non-blinded
+Authors stated that their second primary outcome was the composite endpoint of pulmonary hypertension and recurrent PE but the study did not perform a power calculation for this
+Small sample size. Underpowered to determine differences in mortality
+Confidence intervals not reported
+Older definition of ‘sub-massive’ using anatomical rather than functional criteria. Only 21% of patients had RV enlargement and 6% had RV hypokinesia which are criteria used in most  definitions of submassive PE. The included population may therefore be a lower-risk cohort than other trials investigating ‘intermediate-risk’ PEs.
+Trial was not registered on clinicaltrials.gov
+Target APTR for control group was lower than in other trials. Were they under-treated?
+The Bottom Line
+The addition of low dose thrombolysis in moderate PE decreased pulmonary artery systolic pressure by an average of 15mmHg at 28 months. Other studies will need to tell us if this is clinically relevant. A larger study is also required to determine if this benefit is offset by the potential risks from thrombolysis.
+Links
+Full text only available with subscription
+abstract
+doi: 10.1016/j.amjcard.2012.09.27
+Editorial, Commentaries or Blogs
+EMCrit
+Life in the Fast Lane
+Metadata
+Summary author:
+@DavidSlessor
+Summary date: 26 June 2014
+Peer-review editor:
+@DuncanChambler

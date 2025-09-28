@@ -1,0 +1,146 @@
+# Metadata
+- Source: The Bottom Line
+- Title: Expedited transfer to a cardiac arrest centre for non-ST-elevation out-of-hospital cardiac arrest (ARREST)
+- Original URL: https://www.thebottomline.org.uk/summaries/arrest-2/
+- Scrape Date: 2025-07-17
+- Summary Date: AUTO_FILL_IF_AVAILABLE
+
+Expedited transfer to a cardiac arrest centre for non-ST-elevation out-of-hospital cardiac arrest (ARREST): a UK prospective, multicentre, parallel, randomised clinical trial
+@drtpatterson
+Lancet 2023. Aug 25;S0140-6736(23)01351-X. doi: 10.1016/S0140-6736(23)01351-X.
+Clinical Question
+In patients with non-ST elevation out-of-hospital cardiac arrest, does expedited delivery of patients to a cardiac arrest centre, compared with delivery to the geographically closest hospital, improve all-cause mortality at 30 days?
+Background
+Regional variations have been reported in the survival of patients following out-of-hospital cardiac arrest
+It is possible that
+concentrating services within regionalised centres may improve survival through utilising the skills and experience of health-care providers and the infrastructure within those centres
+However,
+previous studies
+have demonstrated that expedited coronary angiography following out-of-hospital cardiac arrest (OHCA) without ST elevation does not improve survival, and may worsen outcomes
+Therefore, it is unknown whether direct transfer to a cardiac centre in this context will be helpful
+Design
+Multicentre, open-label, randomised trial
+Randomisation performed by paramedics at dispatch desk using online randomisation system with
+permuted blocks of 4 or 6 without stratification
+Non-blinded due to the nature of the intervention
+Randomisation was paused twice for 8 months (March to November 2020, and January to August 2021) due to the COVID-19 pandemic
+Sample size based on local data and pilot study. 430 patients per group would achieve 80% power with a false positive rate of 5%, to detect an absolute risk reduction in 30 day mortality from 60% to 50%, allowing for 10% loss to follow-up
+Intention-to-treat analysis
+Prospectively registered with the International Standard Randomised Controlled Trials Registry
+Setting
+London – 35 hospitals in London and the London Ambulance Service
+Data collected: January 2018 – December 2022
+Population
+Inclusion
+: Patients (aged ≥18 years) with return of spontaneous circulation following OHCA
+Exclusions:
+Presumed non-cardiac cause
+Pregnancy
+ST-elevation myocardial infarction on post-resuscitation 12-lead ECG
+Do-not-attempt-resuscitation order
+Baseline demographics & prehospital key events
+(cardiac centre vs nearest ED)
+:
+Number of patients randomised: 431 vs 431
+Number of patients withdrawn from study post randomisation: 17 vs 18
+Age: 64 vs 63 years
+Male sex: 69% vs 67%
+Ethnicity:
+White: 54% vs 54%
+Asian: 17% vs 17%
+Afro-Caribbean: 5% vs 6%
+Medical History & CAD risk factors:
+Diabetes: 26% vs 24%
+Hypertension: 48% vs 51%
+Current smoker: 10% vs 13%
+Hypercholesterolaemia: 29% vs 26%
+Previous MI: 15% vs 13%
+Symptoms preceding cardiac arrest:
+Chest pain: 24% vs 30%
+Dizziness: 9% vs 20%
+Breathlessness: 41% vs 35%
+Witnessed: 82% vs 80%
+Presenting cardiac rhythm:
+AED non-shockable, asystole or PEA: 44% vs 46%
+AED shockable, VF or pulseless VT: 55% vs 55%
+Initial CPR attempt:
+Bystander: 70% vs 76%
+LAS: 30% vs 24%
+Adrenaline administered: 65% vs 63%
+Time from arrest to ROSC (mins): 24 vs 25
+Time from arrest to hospital arrival (mins): 84 vs 77
+Post ROSC ECG
+ST elevation: 2% vs 1%
+Bundle branch block: 28% vs 24%
+ST depression and/or T wave changes: 38% vs 44%
+Intervention
+Transfer to cardiac arrest centre
+Resuscitated OHCA patients were transported directly to a cardiac arrest centre (CAC) with strategic delivery to the catheter laboratory
+On arrival patients were assessed by the on-call team (including cardiologist and intensivist teams)
+Control
+Transfer to geographically closest Emergency Department
+Resuscitated OHCA patients were transported to the geographically closest Emergency Department (ED)
+Management common to both groups
+LAS resuscitation protocols following European and International guidelines
+In-hospital management was left to physician discretion
+Both groups were required to have delayed neuroprognostication >72 hours
+Outcome
+Primary efficacy endpoint:
+All-cause mortality at 30 days was not statistically different between groups
+63% vs 63% (RR 1.00; 95% CI 0.90 to 1.11)
+Secondary efficacy endpoints:
+There were no significant differences in 3-month mortality, or mRS score at discharge and at 3 months between groups
+3-month mortality: 65% vs 64% (RR 1.02; 95% CI 0.92 to 1.12)
+Favourable mRS at discharge: 32% vs 32% (RR 1.01; 95% CI 0.92 to 1.11)
+Favourable mRS at 3-months: 30% vs 31% (RR 1.01; 95% CI 0.92 to 1.11)
+Participants who were
+alive at 3 months
+had worse neurological outcomes measured with mRS at discharge in CAC group than in the standard care group: OR 1.55; 95% CI 1.00 to 2·41
+Subgroup analysis based on age:
+<57 years associated with a reduced risk of all-cause mortality by 30 days in the CAC group (RR 0·76, 95% CI 0·60–0·97)
+57-71 years associated with a higher risk of all-cause mortality by 30 days in the CAC group (RR 1.28, 95% CI 1.05 to 1.56)
+Protocol deviations and Crossover:
+19 protocol deviations were recorded, including:
+3 cross-overs (1 randomised to ED taken to CAC, 2 randomised to CAC taken to ED)
+10 patients did not meet the eligibility criteria
+Cause of arrest:
+Cardiac: 62.8% vs 59.3%
+Non-cardiac: 20.8% vs 19.1%
+Inpatient interventions:
+Coronary angiogram performed: 56.1% vs 37.3%
+Arrest to coronary angiography (hours): 2.3 vs 5.7
+Organ support:
+Admitted to ICU: 80% vs 69%
+Ventilatory: 85.7% vs 76.1%
+Renal: 11.2% vs 8.4%
+Haemodynamic support: 72.1% vs 62.1%
+Authors’ Conclusions
+“We show no difference in the primary endpoint of all-cause mortality at 30 days in patients with resuscitated cardiac arrest without ST elevation in the community who were delivered to a cardiac arrest centre compared with those who were delivered to the geographically closest emergency department.”
+Strengths
+Multi-centre, randomised, controlled trial
+Central randomisation with permuted blocks ensured allocation concealment
+Baseline demographics were well matched between groups including age, presence of CAD risk factors, witnessed arrest, presenting rhythm, time to defibrillation and distribution of coronary disease
+Intention to treat analysis, few protocol deviations and crossover, and minimal attrition enhances internal validity
+Broad inclusion criteria with few exclusions enhances external validity
+Patient-centered primary outcome with potentially significant strategic planning implications
+Remarkable execution of a complex intervention, which is the first of its kind in randomising resuscitated OHCA without ST elevation to specific centres
+An important development that challenges resource intensive recommendations from multiple professional bodies in the absence of randomised data, and a reminder that observational data is prone to confounders
+The null result of this study and secondary outcome of less favourable neurological outcomes in survivors at 3 months in the CAC group is a logical continuation of the
+TOMAHAWK
+study, and lends further weight to the hypothesis that the priority for resuscitated OHCA without ST elevation is immediate stabilisation on ICU, rather than early coronary intervention
+Limitations
+Open-label nature of the study could introduce bias although not obviously in any one direction
+The hypothesis from observational data that patients with absence of ROSC before hospital admission, or those with ROSC associated with ST-elevation myocardial infarction may benefit from transfer to a CAC, was not tested in this study
+It is possible that the result of this trial overlooks subgroups that could benefit from the intervention; in particular a benefit is implied for younger people and this is acknowledged by the authors. As there is plausibility in terms of reversibility potential and increased physiological reserve, this could be considered hypothesis generating
+External validity is limited by the setting of this study in a densely populated, relatively small urban area. Whether this will generalise to non-urban areas with greater geographical spread is not known, although one might hypothesise that as the difference in transit times is likely to be higher, transfer to a CAC may worsen outcomes in this setting
+The Bottom Line
+This well executed study does not support the prehospital transfer of all patients to a cardiac arrest centre following resuscitated cardiac arrest without ST elevation
+External Links
+article
+Expedited transfer to a cardiac arrest centre for non-ST-elevation out-of-hospital cardiac arrest (ARREST): a UK prospective, multicentre, parallel, randomised clinical trial
+further reading
+JC: The ARREST trial. Does bypass to cardiac arrest centres save lives? St Emlyn’s
+Metadata
+Summary author: Andrew Achilleos
+Summary date: 4th September 2023
+Peer-review editor: David Slessor

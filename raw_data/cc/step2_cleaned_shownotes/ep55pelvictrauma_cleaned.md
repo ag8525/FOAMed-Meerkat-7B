@@ -1,0 +1,228 @@
+```yaml
+title: "CrackCast Episode 55: Pelvic Trauma"
+url: "https://canadiem.org/crackcast/"
+date: 2016-12
+source: "CanadiEM – CrackCast"
+original_file: "Ep55.PelvicTrauma.pdf"
+summary: "Will be added later"
+```
+
+## Overview
+
+### Rosens in Perspective
+
+- **Key message**: Be scared! Patients can easily exsanguinate into their pelvis from pelvic ring fractures.
+  - Also requires a large amount of force - look for other injuries.
+- **Epidemiology**:
+  - Primarily result from MVCs and pedestrian struck trauma.
+  - Less commonly (5-10%) falls from height.
+  - Mortality is 9-22% - independent predictor of death.
+- **Anatomy**:
+  - Complex structure, but at the core is a ring protecting visceral components (GI tract, vasculature, nerves).
+  - Major components of stability: posterior arch (weight bearing), symphysis pubis anteriorly.
+  - Unstable ring fractures mostly due to disruption of ligaments of the posterior arch.
+  - **Vascular**:
+    - Lots of vascular structures! Internal and external iliac arteries.
+    - Superior gluteal artery commonly injured in posterior arch fractures.
+    - Obturator and internal pudendal arteries commonly injured in ramus fractures.
+    - Veins form venous plexus and have no valves and adhere closely to pelvic walls - can hemorrhage easily and are not compressible.
+  - **Neurologic**:
+    - Cauda equina in sacral spinal canal.
+    - Injury to posterior pelvis/sacrum can cause lower neurologic deficits & autonomic dysfunction.
+    - Check rectal tone, post-void residual, etc.!
+
+## Core Questions
+
+### 1) Describe common pelvic fractures and their classification
+
+- It can be useful to consider both types of classification (stability as well as mechanism).
+- Key is underlying principles of stability and co-injury over detailed specifics.
+- Broad classification: stable vs. unstable fractures.
+
+#### a) Young-Burgess classification
+
+- Based on mechanism of injury.
+- **Anterior-Posterior Compression (APC)**:
+  - APC I: symphysis < 2.5cm (stable).
+  - APC II: symphysis > 2.5cm, SI disruption (partially stable).
+  - APC III: symphysis > 2.5cm, SI shearing (completely unstable).
+- **Lateral Compression (LC)**:
+  - LC I: ipsilateral sacral crush injury (stable).
+  - LC II: ipsilateral sacral crush injury, disruption of posterior SI ligaments, possibly iliac wing fracture (partially unstable).
+  - LC III: internal rotation of ipsilateral hemipelvis with external rotation of contralateral hemipelvis (‘windswept pelvis’) (partially unstable or completely unstable).
+- **Vertical Shear (VS)**:
+  - Vertical displacement of symphysis and JI joints.
+  - ALWAYS UNSTABLE.
+- **Combined Mechanism (CM)**:
+  - ALWAYS UNSTABLE.
+
+#### b) Tile classification
+
+- Type A, B, and C (C is worse).
+- All about rotational (hinging pelvis) stability and vertical (shearing) stability.
+- **A - Stable Injuries**:
+  - Rotationally and vertically stable.
+  - Fracture of bones outside the pelvic ring itself.
+    - Avulsion fractures.
+      - Athletic injury, sudden forceful muscular contraction.
+      - Common in older children/teens - physeal avulsion.
+      - Ischial tuberosity, iliac crest epiphysis, ASIS.
+      - Can avulse AIIS from kicking (rectus femoris contraction) but can also be normal os acetabuli.
+      - Conservative treatment, surgery rarely needed.
+    - Isolated iliac wing fracture.
+    - Inferior public ramus fracture.
+    - Transverse sacral or coccyx fracture.
+      - Mechanism:
+        - Forced flexion.
+        - Fall from height.
+      - Below S4 unlikely to result in neurologic injury.
+      - Treated conservatively.
+      - Above S4 common neurologic injury.
+      - Need careful neurologic exam and surgical referral.
+    - Undisplaced fractures of the pelvic ring.
+      - Be careful and always search for second ring fracture.
+      - Commonly isolated fracture of inferior and superior public ramus.
+      - If displaced - look for another fracture!
+      - Fracture of both rami on ipsilateral side can be associated with unrecognized impaction fracture of posterior pelvis.
+      - Get a CT if clinically any posterior pelvic pain or instability.
+      - In one study, 95% of elderly patients with isolated ramus fracture had sacral fractures on MRI!
+      - Lateral compression mechanism (Young-Burgess I) associated with 7% mortality.
+    - Four-pillar fractures of both pubic rami on both sides (“butterfly segment”).
+      - Straddle mechanism - direct blow to symphysis.
+      - High rate of concomitant injuries - Computer Tomography.
+      - High rate of injury to GU tract.
+- **B - Partially Stable**:
+  - Rotationally unstable, vertically stable.
+  - High energy impacts - mechanism determines injury types.
+  - B1: Open book fracture.
+    - Typically from AP force.
+    - Radiology:
+      - Symphysis widening > 2.5cm.
+      - Widening of SI joints.
+    - Can have severe vascular & neurologic compromise.
+    - Complete separation of hemipelvis from shearing (vs. hinging of SI joint) is completely unstable (Tile C) - need CT to tell.
+  - B2: ‘Closed book fracture’.
+    - Typically from lateral compression.
+    - Overriding of pubic symphysis (internal rotation of hemipelvises).
+    - Decreases volume of pelvis, typically associated with less blood loss than AP injuries.
+- **C - Unstable**:
+  - Rotation unstable, vertically unstable.
+  - Result from vertical shearing force on the pelvis.
+    - E.g. fall from height, ‘submarining’ under dashboard.
+  - SI joint has been disrupted from vertical shearing force.
+    - Look for avulsion of ischial spine, avulsion of lower lateral lip of the sacrum, and injury to L5 transverse process on radiology - all insertion sites of important ligaments.
+  - Potential for large volume blood loss, significant hypovolemia, PEA arrest.
+  - C1 - unilateral.
+  - C2 - bilateral.
+  - C3 - bilateral with involvement of acetabulum.
+  - Remember - vertical fractures of the sacrum count as well - transverse do not (orientation to the pelvic ring is different).
+    - Denis classification (see later).
+
+#### b) Denis classification
+
+- Classification of vertical sacral fractures.
+- Higher numbers are worse in terms of potential for neurologic injury and pelvic instability.
+- Denis I - lateral to sacral foramina.
+- Denis II - through sacral foramina.
+- Denis III - medial to sacral foramina, involving spinal canal.
+
+### 2) List 3 categories of complications of pelvic fractures
+
+- **Associated injuries**:
+  - Urologic:
+    - More common in men, anterior pelvic fractures.
+    - Check for blood at the meatus.
+    - Retrograde urethrogram to check for urethral injury.
+    - Don’t forget bladder can be injured as well.
+  - Neurologic:
+    - Worse with worsening instability (Tile A < B < C).
+    - Worse with more medial vertical sacral fractures (Denis I < II < III).
+    - Cauda equina possible.
+  - Gynecologic:
+    - Can have open pelvic fracture into vagina.
+    - Look for blood at introitus.
+    - Careful manual examination.
+  - Gastrointestinal:
+    - Open pelvic fracture into GI tract.
+    - High risk of infection.
+    - Careful digital internal examination.
+- **Hypovolemia/shock**:
+  - Can easily lose 10-15 units of blood volume into pelvis.
+  - Consider in trauma patients in PEA.
+  - APC had highest average transfusion requirements (15 units), VS next (9 units), LC least (4 units).
+- **Infection**:
+  - Open pelvic fractures can be occult and open into “dirty” areas such as GI tract of vaginal vault.
+
+### 3) Describe the approach and management of hemodynamically unstable pelvic fracture
+
+- Access -> stabilize -> control hemorrhage -> resuscitate with blood -> definitive treatment.
+- Ensure excellent IV or central access above the pelvis.
+- Consider early activation of massive transfusion protocol.
+  - Typical to require 10 - 20 units of pRBCs in first 24 hours.
+  - Do not delay definitive treatment in order to attain normotensive vitals.
+- Bind/stabilize pelvis with sheet or pelvis binder.
+  - Consider requesting orthopedic external fixation of pelvis.
+- Recently some articles published about REBOA (resuscitative endovascular balloon occlusion of the aorta).
+  - Trained ED physicians only! Still experimental.
+  - Balloon catheter threaded into thoracic aorta and inflated to occlude lower body perfusion.
+  - Prevents further hemorrhage, increases afterload and brain perfusion.
+  - See Qasim et al., 2015 for excellent review [here](http://emcrit.org/wp-content/uploads/2016/03/REBOA-Review.pdf).
+  - Also successfully performed prehospital by London HEMS!! What a bunch of bad asses (Sadek et al., Oct. 2016 - [link](http://www.resuscitationjournal.com/article/S0300-9572(16)30136-8)).
+- Assess for associated injuries:
+  - Patients with both retroperitoneal hemorrhage from pelvic fracture and intrabdominal hemorrhage have a mortality rate of 40%.
+    - Make sure to involve ortho, general surgery, and interventional radiology in planning approach for whether to go to OR for pelvis or abdomen first, or combined setup.
+    - Ortho may also place pelvic packing during laparotomy.
+  - Remember: pelvic injuries bleed into retroperitoneal space, but FAST exam looks at intraperitoneal space. False-negative FAST exam has an odds ratio of 3.5 in patients with pelvic trauma! Don’t rely on it!
+  - Rosens talks about DPL… yeah no.
+- Angiography and embolization for suspected arterial bleeds.
+- Orthopedic referral.
+
+### 4) List 5 radiographic cues to posterior arch fractures
+
+- This is box 55-3 in Rosens:
+  - Avulsion of L5 transverse process.
+  - Avulsion of ischial spine.
+  - Avulsion of lower lateral lip of the sacrum.
+  - Displacement at the site of a pubic ramus fracture.
+  - Asymmetry or lack of definition of bony cortex at the superior aspect of the sacral foramina.
+
+### 5) What is the management of penetrating pelvic trauma?
+
+- Complex anatomy, very high likelihood of visceral, vascular, and/or neurologic injury.
+- Overall mortality is 6-12%.
+- All cases of penetrating pelvic trauma should have emergent surgical consultation and should be covered with broad spectrum antibiotics.
+- DRE is important to assess for injury to the rectum.
+
+## Wisecracks
+
+### 1) How are open pelvic fractures diagnosed and managed?
+
+- Important to look for occult open fractures.
+- Can be intravaginal, intrarectal.
+- Look for blood at introitus, injury to the perineum or gluteal region, and make sure to perform a DRE and vaginal examination.
+  - Be careful with internal exams in order to not lacerate finger on bone fragments.
+- Active bleeding can be controlled with direct pressure.
+- Cover early with broad spectrum antibiotics and anaerobic coverage.
+
+### 2) What is the classification of acetabular fractures?
+
+- Finally! A universal classification!
+- **Type A** - anterior or posterior column fracture.
+  - Posterior more common.
+    - Forceful impact to flexed knee (dashboard injury).
+  - Anterior less common.
+    - Extension of superior ramus fracture into acetabulum.
+- **Type B** - anterior and posterior column, segment of acetabulum still attached to ilium.
+  - Often T-shaped fracture.
+- **Type C** - anterior and posterior column, no segment of acetabulum still attached to ilium.
+- All of these need CT and orthopedic referral.
+
+### 3) How are coccygeal fractures managed?
+
+- Conservatively!
+- Rest.
+- Analgesia.
+- Sitz baths.
+- Stool softeners.
+- If ongoing intolerable pain, can consider non-emergent orthopedic referral for local steroid injection or coccygectomy.
+```

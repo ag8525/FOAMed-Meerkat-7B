@@ -1,0 +1,123 @@
+# Metadata
+- Source: The Bottom Line
+- Title: PATCH
+- Original URL: https://www.thebottomline.org.uk/summaries/icm/patch-2/
+- Scrape Date: 2025-07-17
+- Summary Date: AUTO_FILL_IF_AVAILABLE
+
+Prehospital Tranexamic Acid for Severe Trauma
+The PATCH-Trauma Investigators and the ANZICS Clinical Trials Group
+NEJM 2023: June 14, 2023
+DOI: 10.1056/NEJMoa2215457
+Clinical Question
+In adult patients with major trauma, who are at risk for trauma-induced coagulopathy does early administration of 1g of tranexamic acid (TXA) followed by an infusion of 1g over 8 hours, compared with placebo, increase survival with a favourable functional outcome at 6 months?
+Background
+Tranexamic Acid is a competitive inhibitor of plasminogen activation and at much higher concentrations a non-competitive inhibitor of plasmin, thus interferes with the fibrinolytic process
+Trauma is the leading cause of death in young people. The mechanism of death is most commonly haemorrhage which is exacerbated by coagulopathy and fibrinolysis
+The use of TXA varies across the world. It has been widely adopted in UK trauma settings, whereas the USA and Australia use it in less than 20% of trauma services
+There have been several trials of TXA in trauma patients.
+CRASH-2 showed reduction in 28-day mortality in patients who received TXA within 3 hours of injury. This recruited in various health care settings with the majority of patients in countries with limited healthcare resources. Patients had a relatively low injury severity score compared with this trial
+CRASH-3 was a trial of TXA in head injured patients. The group with mild-moderate head injury benefited from TXA, but overall there was no significant effect
+The TAMPITI trial examined the impact of TXA dosing on coagulation profiles and showed minimal impact on real time coagulation, however there was a dose dependent increase risk of venous thromboembolism
+The STAAMP and ROC trials were conducted in patients with trauma in high income countries. Both did not demonstrate a survival benefit in those receiving TXA therapy, although the STAAMP trial showed a benefit in those who received it within 1 hour of injury
+Design
+Pragmatic, double-blinded, placebo-controlled trial
+1:1 randomisation to TXA or placebo
+90% power to detect an increase in favourable GOS-E (score 5-8) from 60 to 69% with TXA
+Consent was not required immediately but was sought as soon as practical from the patient or their next of kin
+A data and safety monitoring committee oversaw the study and reviewed the appropriateness of continuation of the trial at 2 time points during the study
+Patients were screened at the scene of the trauma and if inclusion criteria were met, randomisation occurred using a phone ‘app’ which determined the group allocation
+Blinding was achieved as the placebo drug was packaged in an identical 10ml glass vial and stored in a tamper-proof foil pack
+Stratification occurred by state jurisdiction and GCS <9
+Patients, clinicians, follow-up assessors were blind to the allocation
+Primary outcome assessed by standardised telephone interview
+Setting
+36 trauma services in 3 countries: Australia, New Zealand and Germany
+Enrollment occurred from From July 28, 2014, to September 28, 2021 and data collection spanned to 6 months beyond the final recruitment
+Population
+Inclusion
+: Adult patients with major trauma assessed as having high risk for coagulopathy (COAST score >3) who were able to have TXA administered within 3 hours of the injury
+The COAST score (
+C
+oa
+gulopathy of
+S
+evere
+T
+rauma score) is a well validated predictor of coagulopathy in trauma patients and has 5 components: entrapment, systolic blood pressure, temperature, suspected chest trauma, suspected intra-abdominal or pelvic trauma
+Exclusion
+: pregnant patients or resident of aged care facility
+Subgroups:
+age (<50 years), GCS (<9), initial SBP <75 mmHg, mechanism of injury (blunt/penetrating/burn), and time of injury to 1st dose of TXA (<1hr, <2hrs, <3hrs)
+Baseline characteristics
+The intervention and control group were well matched at baseline. Mean age was around 44 years with ~70% male, ~92% of patients had blunt trauma and ~ 34% had a GCS <9, median injury severity score 29. 39.3% subsequently received a diagnosis of head or neck injury of > moderate severity
+Intervention
+TXA
+1g of TXA administered as a slow push over 10 minutes at the scene of the trauma or enroute to hospital. Administration was encouraged to be as soon as possible
+1g of TXA in 1 litre of 0.9% saline administered over the next 8 hours
+Control
+Placebo
+Administered as a slow push over 10 minutes at the scene of the trauma or enroute to hospital
+Placebo in 1 litre of 0.9% saline administered over the next 8 hours
+Management common to both groups
+Patients in both groups received standard care in the pre-hospital, in-hospital and post-hospital phases of their illness
+If a suspected adverse reaction happened with the drug administration, it could be stopped immediately or if an exclusion criteria was discovered
+If survival became impossible then the drug was ceased
+If consent was withdrawn then no further drug was given
+All patients had a venous duplex study at Day 7
+Blood coagulation profiles and lactate on admission, 8 hours and 24 hours
+Outcome
+Primary outcome
+: there was no significant difference in survival with a favourable functional outcome at 6 months, as assessed by the Glasgow Outcome Scale–Extended (GOS-E>5)
+Primary outcome data was available in 87% of patients
+Analysis was by intention to treat
+Comparing TXA to placebo:
+53.7% (307/572) had a GOS-E>5 vs 53.5% (299/559)
+ARR 0.2%; 95% CI, −5.6 to 6.0; (risk ratio, 1.00; 95% CI, 0.90 to 1.12; P=0.95)
+Secondary outcomes
+: comparing TXA to placebo
+Mortality:
+At 24 hours – significantly reduced in TXA group
+9.7% (64/657) vs 14.1% (90/640) – (RR: 0.69; 95% CI, 0.51-0.94)
+At 28 days – significantly reduced in TXA group
+17.3% (113/653) vs 21.8% (139/637) (RR: 0.79; 95% CI, 0.63-0.99)
+At 6 months – no significant difference
+19% (123/648) vs 22.9% (144/629) (RR: 0.83; 95% CI, 0.67-1.03)
+Bleeding was noted as the cause of death in 29.3% vs 36.1% (HR 0.66; 95% CI 0.43-1.01)
+Vascular occlusion – no significant difference
+All: 23.6% vs 19.7% (RR: 1.20; 95% CI, 0.97-1.48)
+DVT: 15.2% vs 12.5% (RR: 1.22; 95% CI, 0.93–1.60)
+No other significant differences in secondary outcomes such as sepsis, transfusion rates, fibrinogen and INR at 8 hrs and 24 hrs
+Per-protocol analysis yielded similar results to the intention to treat analysis
+Post-hoc analysis
+Favourable neurological outcome in patients with score ≤2 on Abbreviated Injury Scale (head or neck region)
+70.2% vs 66.1% (RR: 1.06; 95% CI, 0.96 to 1.18)
+Authors’ Conclusions
+Among adults with major trauma and suspected trauma-induced coagulopathy who were being treated in advanced trauma systems, prehospital administration of tranexamic acid followed by an infusion over 8 hours did not result in a greater number of patients surviving with a favourable functional outcome at 6 months than placebo
+Strengths
+Analysis of the outcome was by intention to treat
+A per-protocol analysis was also conducted which excluded those who did not actually meet inclusion criteria, or had met an exclusion criteria, or who had not received both doses of their allocated medication or who had received open-label TXA
+Allocation concealment and blinding of patient, clinicians, outcome assessors
+Good baseline balance between groups
+Patients had high injury severity scores thus increasing the chance of finding a treatment effect
+The results of this trial are more applicable/generalisable to advanced trauma settings compared with previous trials such as CRASH-2
+Unlike previous trials, the primary outcome not only focuses on mortality but also functional outcome. This clinically meaningful outcome is very important to patients, their families and the broader community
+Weaknesses
+Loss to follow up was relatively high ~13%. The investigators compensated for this by increasing the sample size to 1316 (from 1184)
+Protocol deviations occurred in 215 patients (32.7%) in the tranexamic acid group and in 238 patients (37.0%) in the placebo group, including 104 (15.8%) and 106 (16.5%), respectively, who received open-label tranexamic acid in the hospital. It is always difficult in a high stakes illness to avoid protocol deviation, particularly when faced with a patient who is haemorrhaging before you
+Longer term follow-up may shed more light on those who survived with a poor outcome at 6 months. There may be subsequent improvement in their function, so 12-month outcomes would add to these results
+There is inadequate statistical power to interpret the subgroup findings due to small numbers, eg penetrating trauma
+The Bottom Line
+The PATCH trial supports the findings of CRASH-2 in that prehospital TXA reduces early death due to haemorrhage in major trauma patients
+However, there are more survivors with poor neurological outcome in the TXA group. This clearly has an impact on patient’s quality of life, implications for family and economic implications for a society caring for highly dependent people
+I think on the balance of things, prehospital TXA should continue to be used in patients with major trauma at risk of coagulopathy
+Longer term outcomes would also add to interpretation of this trial
+External Links
+PATCH trauma trial
+NEJM Editorial PATCH-trauma
+CRASH-2 trial
+Metadata
+Summary author: Celia Bradford @celiabradford
+Summary date: 16th June 2023
+Peer-review editor: David Slessor
+Image by: Pixabay / Ulleo

@@ -1,0 +1,101 @@
+---
+source: The Bottom Line
+title: ITACTIC (Viscoelastic Haemostatic Assay Augmented Protocols for Major Trauma Haemorrhage)
+original_url: https://www.thebottomline.org.uk/summaries/icm/itactic/
+scrape_date: 2025-07-17
+summary_author: George Walker (@hgmwalker89)
+summary_date: 2020-10-15
+peer_review_editor: @davidslessor
+summary: |
+  The ITACTIC trial investigated whether viscoelastic haemostatic assay (VHA) augmented transfusion strategies improve outcomes in adult trauma patients with haemorrhagic shock compared to conventional coagulation tests (CCT). Conducted across seven European trauma centers, the study found no significant difference in the primary outcome of patients being alive and free of massive transfusion at 24 hours between the VHA and CCT groups. However, a subgroup analysis indicated reduced 28-day mortality in patients with severe traumatic brain injury in the VHA group. Despite faster intervention times with VHA, the trial concluded that VHA did not significantly enhance overall outcomes over CCT, suggesting the need for further research to define VHA's role in trauma care.
+
+---
+
+# Viscoelastic Haemostatic Assay Augmented Protocols for Major Trauma Haemorrhage (ITACTIC Trial)
+
+## Clinical Question
+In adult trauma patients presenting with signs of haemorrhagic shock, does the use of a viscoelastic haemostatic assay (VHA) augmented transfusion strategy compared to a strategy augmented by conventional coagulation tests (CCT) increase the number of patients alive and free of massive transfusion at 24 hours?
+
+## Background
+- VHA-guided haemorrhage management is increasingly used.
+- TEG and ROTEM are common assays providing rapid, point-of-care coagulation state monitoring.
+- A 2016 Cochrane Review suggested potential benefits of VHA-guided transfusion strategies, though evidence was primarily from cardiac surgery trials.
+- European guidelines recommend CCT and/or VHA for haemostasis monitoring, but high-quality trauma trials are limited.
+
+## Design
+- Multi-centre, randomised controlled trial
+- Compared outcomes in patients receiving an empiric major haemorrhage protocol (MHP) supplemented by haemostatic therapy guided by either VHA or CCTs
+- Randomised 1:1 with block randomisation by centre
+- Allocation via opaque envelopes
+- Planned sample size: 392 (196 per arm)
+- Intention-to-treat and per-protocol analyses
+
+## Setting
+- 7 major trauma centres in Europe (Denmark, Netherlands, Norway, Germany, UK)
+- Study period: 1 June 2016 to 30 July 2018
+
+## Population
+
+**Inclusion Criteria:**
+- Adult trauma patients with clinical signs of bleeding
+- Local MHP activation and PRBC transfusion initiated
+- Within 3 hours of injury and 1 hour after ED admission
+
+**Exclusion Criteria:**
+- None specified
+
+**Enrollment:**
+- 1308 screened, 479 eligible, 411 randomised
+  - 203 to CCT group (195 in ITT analysis)
+  - 208 to VHA group (201 in ITT analysis)
+
+## Intervention
+
+**VHA Group:**
+- Use of viscoelastic haemostatic assay (VHA)
+- Blood product replacement guided by ROTEM/TEG readings
+- Point-of-care testing with immediate action on results
+
+## Control
+
+**CCT Group:**
+- Use of conventional coagulation tests (CCT)
+- Blood product replacement guided by trial protocol algorithms
+
+## Outcomes
+
+### Primary Outcome
+- No significant difference in the proportion of patients alive and free of massive transfusion at 24 hours:
+  - VHA: 67%
+  - CCT: 64%
+  - Odds ratio: 1.15 (95% CI: 0.76–1.73)
+
+### Secondary Outcomes
+- No significant differences in any secondary outcomes
+
+### Subgroup Analyses
+- Severe traumatic brain injury: 28-day mortality significantly reduced in VHA group (44% vs. 74%, p = 0.016)
+- Post-hoc analysis: Interventions given 21 minutes faster in VHA group (p < 0.05)
+
+## Authors’ Conclusions
+VHA augmented MHP testing did not improve overall outcomes compared to CCT augmented MHP.
+
+## Strengths and Weaknesses
+- **Strengths**
+  - Well-randomised, multi-centre trial with good external validity
+  - Fast time to randomisation
+  - Patient-focused outcomes with sensible safety reporting
+  - Intention-to-treat and per-protocol analyses
+- **Weaknesses**
+  - Low occurrence of trauma-induced coagulopathy
+  - Secondary outcomes and post-hoc analyses not adjusted for multiple comparisons
+  - No data on significant surgical bleeding
+  - Exclusion of patients reaching haemostasis within the first hour
+
+## Bottom Line
+In adult trauma patients with haemorrhagic shock, this trial did not show a benefit of VHA augmented protocols over CCT augmented protocols. Further studies are warranted to explore VHA's role in trauma management.
+
+## External Links
+- **Abstract:** [Viscoelastic haemostatic assay augmented protocols for major trauma haemorrhage (ITACTIC)](https://doi.org/10.1007/s00134-020-06266-1)
+- **Further reading:** The use of viscoelastic haemostatic assays in the management of major bleeding: A British Society for Haematology Guideline
+- **LITFL:** Thromboelastogram (TEG)

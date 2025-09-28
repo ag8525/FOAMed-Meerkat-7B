@@ -1,0 +1,100 @@
+---
+source: The Bottom Line
+title: COVERT MI
+original_url: https://www.thebottomline.org.uk/summaries/covert-mi/
+scrape_date: 2025-07-17
+summary_author: Halah Zareian @dochz
+summary_date: 2021-09-20
+peer_review_editor: David Slessor
+summary: |
+  The COVERT MI study investigated the effect of colchicine on myocardial injury in patients with acute STEMI undergoing PCI. This randomized, double-blind, placebo-controlled trial conducted across 10 French centers involved 195 patients, assessing whether colchicine could reduce infarct size compared to placebo. Despite its anti-inflammatory potential, colchicine did not significantly reduce myocardial damage, with infarct sizes being similar between the colchicine and placebo groups. Notably, colchicine was associated with a higher incidence of left ventricular thrombus in the acute phase. The study concluded that colchicine does not alter acute STEMI management, highlighting the need for further research to determine its role in myocardial infarction treatment.
+
+---
+
+# Effect of Colchicine on Myocardial Injury in Acute Myocardial Infarction (COVERT MI)
+
+## Clinical Question
+In patients presenting with an acute STEMI and referred for percutaneous coronary intervention (PCI), does colchicine compared to placebo reduce myocardial injury?
+
+## Background
+Colchicine, known for its anti-inflammatory properties, is being explored for its potential role in reducing myocardial injury during acute cardiac events. Previous studies like LoDoCo2 and CALCOT suggest benefits in stable ischemic heart disease, but its acute use during myocardial infarction (MI) remains under investigation.
+
+## Design
+- Investigator-initiated, randomised, double-blind, placebo-controlled trial
+- Multicentre
+- Randomisation: 1:1 ratio, permuted blocks, stratified by centre and culprit coronary artery
+- Centralised computerised randomisation
+- Sample size: 194 patients for 80% power to detect a 30% reduction in infarct size
+- Intention-to-treat principle
+
+## Setting
+- 10 tertiary referral centres in France
+- Study period: July 2018 to July 2020
+
+## Population
+
+**Inclusion Criteria:**
+- Adults aged >18 and <80 years
+- First-time STEMI
+- Admitted for primary or rescue PCI
+- Occluded infarct-related artery at initial angiography (TIMI flow 0 or 1)
+- Presentation within 12 hours of chest pain onset
+
+**Exclusion Criteria:**
+- Haemodynamic instability
+- Contraindications to cardiac MRI
+- Severe liver or renal failure (eGFR <31)
+- Chronic colchicine treatment
+- No health insurance coverage
+
+**Enrollment:**
+- 195 patients randomised (103 colchicine, 92 placebo); 31 excluded from primary analysis
+
+## Intervention
+
+**Colchicine Group:**
+- 2 mg loading dose, followed by 0.5 mg twice daily for 5 days
+- Administered as close to PCI as possible, preferably before
+- Dose adjustments for side effects
+
+## Control
+- Placebo, identical in appearance and regimen to colchicine
+- Standard care per European Society of Cardiology Guidelines
+
+## Outcomes
+
+### Primary Outcome
+- Infarct size (IS) in grams of left ventricular mass at 5 days (CMR with late gadolinium enhancement)
+  - Colchicine: mean 26.0g (IQR 16.0–44.0)
+  - Placebo: mean 28.4g (IQR 14.0–40.0)
+  - p = 0.87
+
+### Secondary Outcomes
+- No significant differences except for LV thrombus frequency at 5 days (colchicine vs placebo):
+  - Acute phase: 22% vs 7.4% (p = 0.01)
+  - 3-month follow-up: 5.3% vs 2.6% (p = 0.68)
+
+## Authors’ Conclusions
+High-dose colchicine given at reperfusion did not reduce myocardial damage from ischaemia-reperfusion injury compared to placebo in first-time STEMI patients.
+
+## Strengths and Weaknesses
+- **Strengths**
+  - Multicentre design
+  - Stratification by culprit vessel
+  - Blinded CMR assessment
+  - Inclusion based on confirmed occlusive MIs
+- **Weaknesses**
+  - Unclear breakdown of non-randomised patients
+  - Power calculation based on a pilot study with different baseline characteristics
+  - Modified ITT due to randomisation errors
+  - Blinding challenges due to side effects
+  - Higher exclusion rate in colchicine group
+
+## Bottom Line
+Colchicine does not currently alter acute STEMI management in my practice. Further research is needed to clarify its role, dosage, and timing in myocardial infarction.
+
+## External Links
+- **Original article**: [COVERT MI](https://www.thebottomline.org.uk/summaries/covert-mi/)
+- **Further reading**: Anti-Inflammatory Treatment With Colchicine in Acute Myocardial Infarction: A Pilot Study
+- **Further reading**: COPE PCI pilot study
+```

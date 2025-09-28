@@ -1,0 +1,135 @@
+# Metadata
+- Source: The Bottom Line
+- Title: TRACT Tranfusion Timing
+- Original URL: https://www.thebottomline.org.uk/summaries/em/tract-transfusion-timing/
+- Scrape Date: 2025-07-17
+- Summary Date: AUTO_FILL_IF_AVAILABLE
+
+Immediate Transfusion in African Children with Uncomplicated Severe Anaemia
+K.Maitland et al. New England Journal of Medicine; August 1st 2019; 381:407-419; doi:
+10.1056/NEJMoa1900105
+Clinical Question
+In children hospitalised with uncomplicated severe anaemia, is an immediate blood transfusion strategy superior to delayed transfusion in reducing 28-day mortality?
+Background
+World Health Organisation guidelines encourage a restrictive transfusion approach in children in sub-Saharan Africa with anaemia
+The current recommendation is not to transfuse if haemoglobin levels are 4 to 6 g/dL
+WHO guideline
+Compliance with these guidelines is poor
+Data from FEAST study
+Blood is a scarce resource, particularly in sub-Saharan Africa, and it also has a significant cost implication
+Previous studies in the sub-Saharan African population have challenged traditional practice in relation to intravenous fluid therapy
+SSSP2 study;
+FEAST study
+In the developed world, restrictive transfusion in critically ill adults has been shown to be consistent with improved or similar mortality outcomes when compared with more liberal strategies
+TRISS study
+;
+TRICC study
+;
+TRICS-III study
+;
+TITRe2 study
+This is the first randomised controlled trial to investigate delayed versus immediate transfusion in African children
+Design
+Open-label, multi-centre, factorial, randomised controlled trial
+Children randomised in a 1:1 ratio to undergo immediate transfusion (intervention group) or no immediate transfusion (control group)
+Computer-generated randomisation sequence with permuted blocks of variable size
+Allocation concealment using opaque, sealed envelopes
+Patients stratified according to trial centre
+Factorial design meant that children in intervention arm underwent a second randomisation to receive either 20 ml or 30 ml of whole blood per kilogram of body weight
+80% power calculation performed for study to detect a 50% relative difference in 28-day mortality from 9% in the control group to 4.5% in the treatment group
+Primary outcome
+was mortality at 28 days after randomisation
+Secondary outcomes
+were mortality at 48 hours, 90 days and 180 days; development of new profound anaemia (HgB < 4 g/dL) during the primary hospitalisation or severe anaemia (HgB < 6 g/dL) after hospital discharge; hospital readmission; the percentage of children who had correction of anaemia (defined as HgB > 9 g/dL); suspected transfusion reactions; serious adverse events; and cost and cost effectiveness
+Adverse events determined by a blinded end-point review committee
+Setting
+Three hospitals in Uganda and one hospital in Malawi
+September 2014 to May 2017
+Population
+Inclusion
+: Children aged between 2 months and 12 years of age who were hospitalised for uncomplicated severe anaemia (defined as a haemoglobin level of 4 to 6 g/dL)
+Exclusion
+:
+Signs of
+clinical severity
+: reduced level of consciousness; respiratory distress; acute haemoglobinuria; known sickle cell disease
+Severe anaemia
+: Haemoglobin level < 4 g/dL
+Children with known chronic disease
+Children who were exclusively breast fed
+6171 children
+assessed for eligibility
+2452 excluded due to
+clinical severity
+1415 children did not have anaemia
+329 refused consent
+410 excluded for other reasons
+1565 children underwent randomisation
+. 778 randomised to immediate blood transfusion. 787 children randomised to the control group
+Median age 26 months (IQR 12-50)
+62.6% children
+positive for malaria
+56.6% male sex
+No major baseline imbalances between groups
+Intervention
+Immediate transfusion
+20 or 30 ml/kg of whole blood (or 10-15 mls of packed or settled cells) transfusion administered depending on secondary randomisation group as part of factorial study design. See
+Transfusion Volume for Children with Severe Anemia in Africa
+Second transfusions if indicated at designated randomisation volume
+Additional transfusions administered with 20 ml/kg blood volume, regardless of secondary randomisation group
+Control
+Delayed transfusion
+20 ml/kg of whole blood transfusion if haemoglobin dropped below 4 g/dL or if new signs of clinical severity developed
+Management common to both groups
+All children treated in general paediatric wards
+No ventilatory facilities available
+Point of care testing available for haemoglobin, glucose and lactate
+Other treatments, including antimalarial and antibiotic regimens, were administered according to national guidelines
+Bedside observations were performed at admission, every 30 minutes for the first 2 hours, and then 4,8,16,24 and 48 hours after initiation of the first transfusion or randomisation
+Haemoglobin assessed with the use of the HaemoCue system every 8 hours during the first 24 hours and then at 48 hours or if indicated by clinical deterioration
+Outcome
+Primary outcome
+: No difference between intervention and control groups in 28 day mortality
+7  children out of 778 died in the immediate transfusion group and 6 children out of 787 died in the control group (0.9% vs 0.8%; hazard ratio 0.54; 95% confidence interval 0.22 to 1.36; p=0.19)
+Median time to transfusion in immediate-transfusion group was 1.3 hours versus 24.9 hours in the delayed transfusion group
+44.8% of children in the delayed transfusion group had received a transfusion by 96 hours, compared with 100% of children in the immediate-transfusion group
+Secondary outcomes
+: Median length of hospital stay 3 days (IQR 3 to 4) in immediate-transfusion group and 4 days (IQR 3 to 6) in the delayed-transfusion group (HR for time to discharge 1,62; 95% CI 1.46 to 1.80)
+The immediate transfusion group were more likely to have
+correction of anaemia
+(defined as a haemoglobin of great than 9.0 g/dL) (51.3% vs. 5.5%; HR 11.73 (95% CI 8.69-15.84)
+The delayed-transfusion group were more likely to
+develop profound anaemia
+during hospitalisation (39.3% vs. 1.4%; HR 0.03 (95% CI 0.02-0.05) and more likely to develop severe anaemia after hospital discharge (18.0% vs. 13.6%; HR 0.73 (95% CI 0.56 – 0.94)
+No difference
+in death at 90 days, death at 180 days, hospital readmission rates or adverse events
+Economic analysis
+found that overall costs were, on average, $5.63 less in the control group.
+Authors’ Conclusions
+Although mortality was too low to either show or refute any benefits from immediate transfusion, our large, multicentre trial showed that among children with uncomplicated severe anaemia, the immediate-transfusion strategy resulted in fewer children who had development of profound anaemia (haemoglobin level <4 g per decilitre), which is an absolute indication for transfusion, and more children who had early haemoglobin recovery than the triggered transfusion strategy
+Strengths
+A well-conducted, multicentre randomised controlled trial, with power calculation performed to detect a difference in a patient centred outcome
+Good compliance with assigned study intervention
+Minimal loss to follow-up (5%) despite a resource-poor setting and follow-up occurring to 180 days
+Important clinical question addressed
+Assessors for adverse events were blinded to the study group
+Economic analysis performed
+Weaknesses
+Sub-Saharan African setting limits generalisability to the developed world
+Study was underpowered to detect a mortality difference. This was overestimated in the power calculation
+Unclear how standard of care in the study reflected real-world practice, particularly in frequency of haemoglobin monitoring. The lower than expected mortality rate leads one to suspect that study participants received superior care than usual
+The Bottom Line
+Compliance with the WHO recommendation of a restrictive transfusion strategy in physiologically stable children with a haemoglobin of 4 to 6 g/dL is safe, provided they have haemoglobin measured at regular intervals and have ongoing clinical assessment performed.
+External Links
+[abstract]
+Maitland. Immediate Transfusion in African Children with Uncomplicated Severe Anemia
+[editorial]
+Immediate Transfusion and Transfusion Volume in African Children with Severe Anemia
+[further reading]
+Maitland. Transfusion Volume for Children with Severe Anemia in Africa
+Metadata
+Summary author:
+Fraser Magee
+Summary date: 7th August 2019
+Peer-review editor:
+Adrian Wong

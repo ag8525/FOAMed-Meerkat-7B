@@ -1,0 +1,109 @@
+# Metadata
+- Source: The Bottom Line
+- Title: FiSh
+- Original URL: https://www.thebottomline.org.uk/summaries/fish/
+- Scrape Date: 2025-07-17
+- Summary Date: AUTO_FILL_IF_AVAILABLE
+
+Restricted Fluid therapy in early septic shock: results of the fluid in shock (FiSh) pilot trial
+Inwald DP. Arch Dis Childhood 2018; Online first 07 Aug 2018. doi: 0.1136/archdischild-2018-314924
+Clinical Question
+In children with septic shock, does a restricted fluid bolus volume, compared with a standard fluid bolus volume, improve outcomes?
+Background
+Rapid liberal fluid bolus therapy for paediatric septic shock is standard practice in high income countries
+The
+FEAST
+trial, set in Africa, demonstrated an increased mortality with this approach
+No previous RCTs have compared restrictive vs. standard fluid boluses in a high income country
+Design
+Randomised controlled trial
+1:1 randomisaiton
+Open-label
+Pilot RCT without defined primary outcome, hence without usual power calculation
+Intention to treat analysis
+Setting
+4 regional hospitals and 9 district general hospitals in England
+Acute assessment area (e.g paediatric assessment unit or ED)
+Data collected: July 2016 – April 2017
+Population
+Inclusion:
+Age: older than 37 weeks corrected gestational age and < 16 years
+Clinical suspicion of infection
+Shock: age-adjusted systolic BP <5th centile and/or capillary refill time (CRT) >= 3s after 20ml/kg of bolus fluid
+Exclusion: Prior receipt of >20ml/kg bolus fluid, conditions in which bolus fluid resuscitation should be curtailed; full active resuscitation not within current goals of care
+75 patients randomised
+Comparing baseline characteristics of intervention vs. control groups
+Median age in months (IQR): 11 (1-35) vs. 2 (1-17)
+Male: 62% vs. 53%
+Median weight in kgs (IQR): 9 (5-13) vs. 5 (4-10)
+Shock criteria
+CRT only: 77% vs. 88%
+Hypotension only: 5% vs. 6%
+CRT & hypotension: 3% vs. 6%
+Neither: 15% vs. 0%
+Paediatric Index of Mortality 2 score: 2.1 vs. 2.0
+Infection confirmed: 51% vs. 50%
+Bacterial infection: 31% vs. 50%
+Viral infection: 63% vs. 50%
+Malaria: 6% vs. 0%
+Intervention
+Restrictive fluid boluses (n=39)
+10ml/kg bolus (500ml maximum)
+8% of patients did not receive their 1st bolus because deemed no longer required fluid bolus post randomisation
+Control
+Standard fluid bolus (n=34)
+20ml/kg (1000ml maximum)
+All patients received their 1st fluid bolus
+Of their subsequent boluses, 1 patient received a fluid bolus when the shock criteria were not met, and 2 patients did not receive a bolus when the shock criteria were met
+Management common to both groups
+4 hour resuscitation period. One fluid bolus given at 15 minutes intervals
+At end each 15 minutes, if age adjusted signs of shock persisted then another bolus given
+if no signs of shock or patient developed signs of fluid overload (pulmonary oedema, new/increasing hepatomegaly) then fluid boluses were witheld
+Fluid type and other interventions at discretion of treating clinician
+After 4 hour resuscitation period treatment at discretion of treating clinician
+Outcome
+Outcomes – comparing intervention vs. control group
+Total volume study fluid, mean (SD) during
+1st hour: 13.5ml/kg (8) vs. 20.7ml/kg (8.3)
+1st 4 hours: 14.5ml/kg (11.1) vs. 25.7ml/kg (12), p<0.001
+No significant difference in:
+Number of fluid boluses administered
+0: 8% vs. 0%
+1: 59% vs. 74%
+2: 21% vs. 18%
+3: 8% vs. 3%
+>3: 5% vs. 6%
+Bolus given within 15 minutes: 81% vs. 68%
+Mortality at 30 days: 0% vs. 0%
+Serious adverse events: 0% vs. 0%
+Admitted to PICU: 26% vs. 32%
+Mechanical ventilation: 11% vs. 25%
+Receipt of inotropes: 3% vs. 16%
+Authors’ Conclusions
+A larger FiSH trial with the current design in the UK is not feasible
+Strengths
+Randomised controlled trial
+Multi-centre
+Weaknesses
+Pilot study, no primary outcome or power calculation
+Open-label
+Small number of patients included with significant baseline differences
+6 patients recruited who did not meet inclusion criteria- All randomised to intervention arm
+Lack of equipoise among some clinicians identified during interviews with staff, favouring restrictive fluid boluses due to concerns over fluid overload
+The Bottom Line
+Paediatric patients with septic shock in the UK who were randomized to a restrictive fluid bolus strategy received less fluids that patients randomized to a standard fluid bolus
+No significant differences were seen in any of the patient centred outcomes studied in this pilot trial
+A low level of severe illness in the population studied means that detecting differences in mortality would not be feasible with a larger trial in the UK
+External Links
+[article]
+Restricted fluid bolus volume in early septic shock: results of the Fluids in Shock pilot trial
+[further reading]
+Mortality after fluid bolus in African Children with Severe infection
+[further reading]
+Exploring mechanisms of excess mortality with early fluid administration: insights from the FEAST trial
+Metadata
+Summary author:
+@davidslessor
+Summary date: 12th September 2018
+Peer-review editor:
+Segun Olusanya

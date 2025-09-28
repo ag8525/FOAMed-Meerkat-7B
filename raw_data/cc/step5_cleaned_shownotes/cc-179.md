@@ -1,0 +1,203 @@
+---
+title: "CrackCast Episode 179: Drug Therapy in Pregnancy"
+url: "https://canadiem.org/crackcast/"
+date: 2023
+source: "CanadiEM – CrackCast"
+original_file: "CC-EP-179-Drug-Therapy-in-Pregnancy-1.pdf"
+summary: |
+  The document discusses drug therapy in pregnancy, emphasizing the importance of gestational age in determining the impact of drug exposure, particularly during organogenesis. It highlights the limited human data on teratogenicity and fetal toxicity, advising that medications should only be administered when maternal benefits outweigh fetal risks. The document outlines the outdated FDA classification system for drug toxicity in pregnancy and introduces the Pregnancy and Lactation Labeling Rule (PLLR) for better risk assessment. It lists teratogenic drugs to avoid, such as isotretinoin and warfarin, and identifies safe medications like acetaminophen and certain antiemetics. The document also addresses the management of hypotension in pregnant patients, recommending norepinephrine as the first-line vasopressor.
+
+---
+
+## Overview
+
+### Key Concepts
+
+- Chemically induced birth defects are believed to be responsible for approximately 1% to 3% of birth defects.
+- Gestational age is crucial in determining the impact of any given exposure, especially during organogenesis (days 21–56 of fetal life), when major body organs are formed.
+- Human data on teratogenicity and fetal toxicity of medications is often limited, and causal associations are difficult to determine, especially with newer medications.
+- In general, the health of the fetus is directly related to the health of the mother, and drugs should be given when the maternal benefits outweigh the risks to the fetus.
+- Certain medications should be avoided during pregnancy, if possible, because they are known teratogens or cause potential toxic effects in the newborn; these include anticonvulsants, warfarin derivatives, NSAIDs, sulfonamides, fluoroquinolones, and ACE inhibitors.
+
+### Rosens in Perspective
+
+This chapter is all about safety. It is a long chapter in the textbook with a lot of “what ifs, maybes, probablys.” The reality is that we don’t have a lot of solid evidence to “PROVE” any one drug is totally safe in pregnancy. As a result, we’re definitely avoiding any drugs that haven’t been studied! i.e., 90% of drugs…!
+
+As a quick refresher: a teratogen is any chemical, pharmacologic, environmental, or mechanical agent that can cause disruptive development of the conceptus. Included in this definition are functional impairment, growth restriction, and congenital malformations. These may range from subtle neurobehavioral effects to devastating physiologic effects and physical deformities, including fetal death.
+
+In reality, we should care about preconception health all the way till the baby is weaned from breastfeeding; however, classically the highest risk times are during the time of organogenesis (days 21–56 of fetal life). (Exposure during this period may result in major anatomic defects.)
+
+Exposure after the period of organogenesis may affect the growth and development of the fetus. Functional development of the central nervous system (CNS) is affected when it is exposed to a CNS teratogen during the 10th to 17th weeks of pregnancy.
+
+Check out more information at: [Motherisk](http://www.motherisk.org/prof/index.jsp)
+
+## Core Questions
+
+### 1. Describe the classification system of drug toxicity in pregnancy
+
+This question is already out of date because the US Food and Drug Administration (FDA) had assigned one of five letters—A, B, C, D, and X—to the drug, depending on the strength of evidence for its safety or teratogenicity.
+
+See Box 180.1 for more details. Essentially:
+- Class A – Controlled studies show no risk
+- Class B – No evidence exists for human subjects
+- Class C – Use may engender risk for fetus
+- Class D – Positive evidence of risk is based on studies or post-marketing data
+- Class X – Drugs are contraindicated in pregnancy
+
+- This classification system has been criticized as overly simplistic and perhaps inaccurate. Many believed that the classification system conveyed the incorrect impression that there is a gradation of reproductive risk from exposure across categories (i.e., that risk increases from A to B to C to D to X) and that the drugs within a given category present similar reproductive risks.
+- As a result, more than 90% of newly introduced drugs in the United States are assigned to class C, an undetermined teratogenic risk.
+- However, in 2015 the FDA issued a final rule for drug labeling during pregnancy, called the Pregnancy and Lactation Labeling Rule (PLLR)
+  - Available at [NCBI](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5083079/)
+  - PLLR changes the content and format for prescription drug labeling to help health care providers assess the benefits and risks in counseling pregnant and nursing women who are taking medications.
+  - The rule requires the removal of letter categories and mandates labeling that includes a summary of risks of drug use during pregnancy and lactation, a discussion of the data supporting that summary, and any relevant information to help health care providers make informed decisions and counsel patients.
+  - Drugs already approved before this rule will be phased in gradually.
+
+- So, when you look up old drugs you’ll see the “Pregnancy Risk Factor” listed, but newer drugs will just have “Pregnancy Implications” listed.
+  - More information is available at:
+    - [FDA](https://www.fda.gov/Drugs/DevelopmentApprovalProcess/DevelopmentResources/Labeling/ucm093307.htm)
+    - [RheumNow](http://rheumnow.com/content/pllr-pregnancy-lactation-labeling-rule-explained)
+
+### 2. List 10 bad teratogens
+
+As stated above, this pregnancy risk scoring system is no longer being used as of 2015. See question 1.
+
+Here are some “X” drugs:
+- Any birth control pills or hormonal agents
+- Isotretinoin
+- Leflunomide
+- Methotrexate
+- Methylene blue
+- Phenytoin
+- Phenobarbital
+- Rosuvastatin
+- Simvastatin
+- Tamazepam
+- Valproate
+- Warfarin
+
+Here are some “D” drugs:
+- Amiodarone
+- All NSAIDs in the 3rd trimester
+- Carbamazepine
+- Paroxetine
+- Sulfonamides
+- Tetracyclines
+
+### 3. List 5 dangerous medicines to be avoided if breastfeeding
+
+Concerns exist for:
+- Amiodarone
+- Chemotherapeutic/antineoplastic agents
+- Chloramphenicol
+- Ergotamine
+- Gold salts
+- Phenindione
+- Radioactive pharmaceuticals
+- Retinoids
+- Tetracyclines (chronic > 3 weeks)
+- Certain psychotropic medications
+- Codeine
+- Pseudoephedrine
+
+Copied from: [AAP](https://www.aap.org/en-us/Pages/Breastfeeding-and-Medication.aspx)
+
+For more resources on this, see:
+- [MotherToBaby](https://mothertobaby.org/)
+- [LactMed](https://toxnet.nlm.nih.gov/newtoxnet/lactmed.htm)
+
+### 4. List 4 dangerous antibiotics in pregnancy
+
+Antibiotics without known teratogenic effects include:
+- Cephalosporins
+- Penicillins
+- Erythromycin (except the estolate)
+- Azithromycin
+- Clindamycin
+- Augmentin
+- Metronidazole
+
+Though indication and unmeasured confounders could account for results, in a nested case control study including over 95,000 pregnant women, an association between spontaneous abortion and first trimester use of:
+- Macrolides
+- Tetracyclines (excluding erythromycin)
+- Quinolones
+- Sulfonamides
+- Metronidazole
+
+Source: UpToDate
+
+Avoided agents typically include therefore:
+- Aminoglycosides
+- Doxycycline
+- Tetracyclines
+- Fluoroquinolones
+- Trimethoprim
+- Sulfonamides
+- Nitrofurantoin
+
+### 5. List 2 safe anti-dysrhythmics in pregnancy
+
+- Adenosine
+- Digoxin
+- Verapamil
+- Procainamide
+- Some beta blockers
+
+The top four are definitely the most widely supported. Electrical cardioversion is very safe!
+
+Emergent or elective electrical cardioversion can be performed at all stages of pregnancy, and should be used for any sustained arrhythmia with hemodynamic compromise and can be considered for drug-refractory arrhythmias. Electrical cardioversion does not result in compromise of blood flow to the fetus. While there is a theoretical risk of inducing an arrhythmia in the fetus, this risk is very small due to the high fibrillation threshold and small amount of energy reaching the fetus.
+
+Nonetheless, fetal rhythm monitoring is recommended because of rare reported cases of cardioversion precipitating fetal distress requiring emergency cesarean delivery. In the third trimester, some physicians prefer to perform electrical cardioversion under general anesthesia and intubation considering the more difficult airway and increased risk of gastric aspiration during pregnancy. - UpToDate
+
+### 6. What is your first-choice vasopressor in pregnancy?
+
+According to Rosen’s, the first-choice drug for a pregnant woman in shock is phenylephrine.
+
+But let’s dive deeper with some help from UpToDate.
+
+The big concern is balancing maternal blood flow and fetal blood flow. Vasopressors and inotropes can vasoconstrict uterine blood vessels, reducing fetal blood flow.
+
+Thus, other interventions should be used initially to manage hypotension, such as administration of intravenous fluids and placing the patient in the left lateral decubitus position to prevent compression of the inferior vena cava by the gravid uterus. Hypotension that persists despite these initial interventions requires vasopressor therapy, since sustained maternal hypotension decreases uterine blood flow.
+
+There is a paucity of clinical studies with no consensus about which is the best vasopressor for maternal hypotension or shock due to critical illness. In addition, the 2016 sepsis treatment guidelines published by the Society of Critical Care Medicine do not specifically address the care of pregnant patients. However, we agree with others that following these guidelines is reasonable for the management of maternal hypotension from septic shock. Thus, we consider norepinephrine as the first-line vasoactive agent in pregnant patients who fail to respond to early aggressive volume resuscitation. Although norepinephrine can reduce uterine blood flow, there are no data to suggest that norepinephrine has an adverse effect on the well-being of the fetus. Thus, we consider this risk to be outweighed by the benefit of maternal resuscitation.
+
+For pregnant patients with refractory shock, the best second-line agent is unknown. However, indirect evidence from randomized trials of vasopressors for hypotension caused by spinal anesthesia and the 2016 sepsis guidelines, suggest that phenylephrine may be a reasonable second-line agent. - UpToDate
+
+### 7. What analgesics and antiemetics are safe in pregnancy?
+
+Don’t use them unless you need them! Also, short courses (< 48-96 hrs) are much safer than long-term use!
+
+**Analgesics**
+
+- “Safe”: Acetaminophen
+- NSAIDs: Safe during weeks 12-30 (second trimester)
+- Second-line agent: Opioids
+- Third line choice if all other agents ineffective: Fentanyl and morphine most commonly used
+- Consider avoiding altogether in first trimester and before term
+
+**Antiemetics**
+
+- Vitamin B6
+- Doxylamine succinate
+- Ginger
+- Diphenhydramine
+- Dimenhydrinate
+- Metoclopramide
+- Prochlorperazine
+- Ondansetron
+
+**DO NOT use**
+
+- Codeine
+- Ergotamine
+
+## References
+
+- [Motherisk](http://www.motherisk.org/prof/index.jsp)
+- [NCBI](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5083079/)
+- [FDA](https://www.fda.gov/Drugs/DevelopmentApprovalProcess/DevelopmentResources/Labeling/ucm093307.htm)
+- [RheumNow](http://rheumnow.com/content/pllr-pregnancy-lactation-labeling-rule-explained)
+- [AAP](https://www.aap.org/en-us/Pages/Breastfeeding-and-Medication.aspx)
+- [MotherToBaby](https://mothertobaby.org/)
+- [LactMed](https://toxnet.nlm.nih.gov/newtoxnet/lactmed.htm)
+- UpToDate
+```

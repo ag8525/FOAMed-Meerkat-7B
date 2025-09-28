@@ -1,0 +1,714 @@
+# Metadata
+- topic: 3.12 - ID - CC-EP-133-Parasitic-Infections--125-Rosens-9th-Ed.-1-2
+- source_folder: 3.12 - ID
+- original_file: CC-EP-133-Parasitic-Infections-Ch.-125-Rosens-9th-Ed.-1-2.pdf
+
+CrackCast Show Notes – Parasitic Infections – December 2017 
+ 
+www.canadiem.org/crackcast 
+ 
+ 
+ 
+Chapter 133 – Parasitic Infections  
+Episode Overview 
+ 
+Key Points: 
+ 
+1. Parasitic disease may manifest with almost any symptom or constellation of signs and 
+symptoms. Accordingly, a travel history should be obtained from all patient with clinically 
+significant signs and symptoms of unclear cause. The combination of presenting signs 
+and symptoms and a history of recent travel to a specific geographical regions can lead 
+to early diagnosis and the initiation of pharmacotherapy, decreasing morbidity and 
+mortality and increasing the probability of eradiation of the infection. 
+2. Parasitic co-infections are particularly common in patients with HIV infections and AIDS. 
+A travel history is essential because the clinical presentation may be atypical, morbidity 
+and mortality more severe, and treatment and eradication of the parasite are often 
+prolonged in these patients. 
+3. Acute malaria should be suspected in patients with irregular high fevers associated with 
+headache, abdominal pain, or respiratory infection. Falciparum malaria, which has a 
+unique morphology easily identifiable on a peripheral blood smear, is the only species of 
+malaria that causes coma and death. Furthermore, it is the most highly resistant to 
+chemotherapy, demanding close observation and clinical follow-up of patients. Patients 
+who are clinically ill or who are suspected of having falciparum malaria should be 
+hospitalized for evaluation and treatment. 
+4. Cysticercosis should be considered in the differential diagnosis for new-onset seizures, 
+especially in immigrants from Central and South America 
+5. Giardiasis should be suspected in patients with diarrhea who have recently been 
+camping or drinking unfiltered mountain spring water. Patients may tolerated several 
+weeks of severe bloating, flatulence, eructation, and weight loss without fever before 
+seeking medical attention 
+ 
+Core Questions: 
+ 
+1. Describe the life-cycle of malaria and list 4 common types.   
+2. Describe clinical features of  malarial infection.  What is unique to each type? 
+3. Describe the diagnosis and treatment of acute malarial infection. 
+4. List 5 complications of malaria 
+5. What is black-water fever? 
+6. What is Babesiosis?  What is its vector and how does it present? 
+7. Describe the features of American Trypanosomiasis + African Trypanosoma 
+8. List 6 common illnesses causing fever  in the returning traveler and 5 life threatening 
+infections 
+9. Other than malaria, list 3 other organisms that cause: 
+a. CNS infection 
+b. Anemia 
+c. Pulmonary Symptoms 
+10. List the most common organism causing: 
+a. Peripheral edema 
+b. Dermatologic symptoms x2 
+CrackCast Show Notes – Parasitic Infections – December 2017 
+ 
+www.canadiem.org/crackcast 
+ 
+ 
+c. Visual symptoms 
+d. CV symptoms 
+11. List 5 common GI parasites and their typical manifestations 
+ 
+Wise Cracks: 
+ 
+1. Rounds Pimper: quick association of parasite and treatment  
+2. A 32 year-old male has returned from a BBQ tour of South America. He is now actively 
+seizing. 
+a. What does he have? 
+b. Your CT scanner is down, how else do you confirm the diagnosis? 
+3. What are kissing bugs? 
+ 
+ 
+ 
+Rosen’s in Perspective 
+ 
+This chapter is infamous for THE LARGEST LISTS IN THE WHOLE BOOK. We won’t be 
+covering them all. If you feel the need to OCD, go check out the chapter. 
+ 
+Refer to Box 125.1 in Rosen’s 9th Edition for the comprehensive table detailing the travel 
+history for evaluation of parasitic disease in the emergency department 
+ 
+Questions For All Patients 
+• 
+What were the exact dates of travel? 
+• 
+What countries did the patient visit? 
+• 
+How much time did you spend in each country? 
+• 
+What was the patient doing in the country, and 
+where was he/she living? 
+• 
+Was the patient staying in cities or rural villages? 
+• 
+Was the patient sleeping in hotels or tents? 
+• 
+Did the patient engage in protected or unprotected 
+sexual intercourse? 
+• 
+What did the patient eat or drink? 
+• 
+What were the patient’s activities?  
+• 
+Did the patient receive prophylactic immunizations 
+before travel? 
+• 
+Did the patient take malaria chemoprophylaxis and 
+comply with the regimen? 
+• 
+Did the patient use mosquito repellant and netting? 
+• 
+Does the patient have underlying chronic medical 
+problems? 
+• 
+What medications does the patient take? 
+• 
+When did symptoms start, and what has been the 
+chronology of symptoms, particularly fever and 
+diarrhea? 
+ 
+ 
+ 
+ 
+CrackCast Show Notes – Parasitic Infections – December 2017 
+ 
+www.canadiem.org/crackcast 
+ 
+ 
+ 
+ 
+Questions for Recent 
+Immigrants 
+• 
+When did the patient arrive, and from where? 
+• 
+What acute or chronic illnesses did the patient have 
+previously while living in the country of origin? 
+• 
+What treatment did they receive there? 
+• 
+If the patient is a refugee or immigrant, what 
+countries did the patient pass through, and what 
+were the living conditions? 
+• 
+What was the season during the patient’s stay or 
+travel in the countries (e.g., monsoon versus dry)? 
+• 
+What animal exposure or bites has the patient 
+experience? 
+• 
+Has the patient had exposure to fresh water in work 
+or recreational activities? 
+ 
+***NOTE***: Moral of today and this chapter:  
+1. Don’t eat raw meats, fish, or unwashed anything 
+2. Don’t walk around barefoot 
+3. Don’t eat dirt or poop 
+4. Don’t hang around animals 
+5. Live in a saran-wrap bubble  
+ 
+Refer to Table 125.1 in Rosen’s 9th Edition for the comprehensive table detailing the 
+various anti-parasitic agents and their indications/mechanisms of action 
+ 
+ 
+[1] Describe the life-cycle of malaria and list 4 common types  
+ 
+There are four stages of the life-cycle of the malaria parasite: 
+ 
+Stage 1 - Mosquito Stage: Female anopheles takes blood meal and injects parasite into blood 
+ 
+Stage 2 - Human Liver Stage: liver cells infected, then rupture 
+ 
+Stage 3 -  Human Blood Stage: RBCs infected, then rupture 
+ 
+Stage 4 - Sexual stage: Female anopheles takes another blood meals and ingests parasite 
+ 
+There are four major types of malaria and one rare type:  
+ 
+• 
+Plasmodium Falciparum (deadly) 
+• 
+Plasmodium Malarie 
+• 
+Plasmodium Ovale (recurrent) 
+• 
+Vivax (recurrent) 
+• 
+*** 5th type*** plasmodium knowlesi (primates to humans) 
+ 
+ 
+ 
+CrackCast Show Notes – Parasitic Infections – December 2017 
+ 
+www.canadiem.org/crackcast 
+ 
+ 
+[2] Describe clinical features of  malarial infection.  What is unique to each 
+type? 
+ 
+With malarial infection, it is all about the FEVER! 
+ 
+• 
+Early with malaria infection, febrile paroxysms occur at irregular intervals throughout day 
+• 
+Later in infection febrile paroxysms become regular 
+§ 
+When you see febrile paroxysms every other day, think about the following types 
+of malaria: 
+❏ P. vivax 
+❏ P. ovale, 
+❏ P. falciparum 
+§ 
+If the fevers occur every third day, think: 
+❏ P. malariae.  
+• 
+If an individual experiences seizures as a result of their infection, they are likely to be 
+infected with P. falciprum  
+§ 
+Seizures may herald CEREBRAL MALARIA 
+• 
+Watch for in febrile seizures in pediatric patients infected with any of the species 
+• 
+Non-immune patients can have temps above 40ºC leading to tachycardia complicated 
+by febrile delirium 
+ 
+There are two major forms of malarial infection: uncomplicated and severe. \ 
+ 
+Uncomplicated Malaria:  
+ 
+• 
+The patient will have symptoms of malaria 
+• 
+The patient will have positive parasitological test  
+• 
+The patient will NOT have signs of severe malaria 
+ 
+Severe Malaria (Think Falciprum >>>> Vivax): 
+ 
+• 
+Risk factors:  
+§ 
+Non-immune individuals 
+§ 
+Immunocompromised patients (including asplenic individuals) 
+§ 
+Children 6 to 36 months of age 
+§ 
+Pregnant women  
+• 
+Features: 
+§ 
+CNS: Altered consciousness, (+/- meningismus) seizures, focal deficits (cerebral 
+malaria) 
+§ 
+GI: Vomiting, jaundice 
+§ 
+RESP: Respiratory distress +/- ARDS 
+§ 
+RENAL: AKI 
+§ 
+CVS: Shock 
+§ 
+HAEM: Severe hemolytic anemia with jaundice, coagulopathies and spontaneous 
+hemorrhage 
+§ 
+METABOLIC: acidosis and hypoglycemia 
+§ 
+HIGH PARASITE LOAD: >2% RBCs infected or >100,000 parasites/mm3 
+ 
+For an excellent summary of malaria, its pathophysiology, and its treatment, check out the 
+LITFL post: https://lifeinthefastlane.com/ccc/malaria/ 
+CrackCast Show Notes – Parasitic Infections – December 2017 
+ 
+www.canadiem.org/crackcast 
+ 
+ 
+Remember, the pathophysiology of malarial infection is the result of CYTOADHERENCE: 
+ 
+• 
+AKA: parasitized (and non-parasitized) red cells adhering to small vessels causing 
+infarcts, capillary leakage, and organ dysfunction 
+ 
+This process of cytoadherence and tissue damage results in the following complications: 
+ 
+Cerebral Malaria: 
+ 
+• 
+Presentation: 
+§ 
+Encephalopathy with impaired consciousness 
+§ 
+Delirium  
+§ 
+Seizures 
+• 
+Risk Factors:  
+§ 
+Children and older adults  
+§ 
+Pregnancy 
+§ 
+Poor nutritional status 
+§ 
+HIV infection 
+§ 
+Host genetic susceptibility 
+§ 
+History of splenectomy  
+ 
+Always remember the differential diagnosis for malaria:  
+ 
+Differential Diagnosis for Malaria: 
+ 
+• 
+Leptospirosis  
+• 
+Pneumonia  
+• 
+Typhoid fever 
+• 
+Hemorrhagic fever   
+• 
+Sepsis due to bacteremia 
+• 
+Dengue fever 
+• 
+Chikungunya  
+• 
+Meningitis 
+ 
+ 
+[3] Describe the diagnosis and treatment of acute malarial infection 
+ 
+Diagnosis of Acute Malarial Infections: 
+ 
+There are two tests that we use for the diagnosis of acute malarial infections: 
+ 
+1. Thick & thin films for microscopy (1-3 Q12hrs Gold standard) 
+2. Malaria rapid Antigen (sample in febrile stage) test 
+ 
+ 
+ 
+***NOTE***: If slides are negative on your first attempt, repeat testing every 24 hours for 3 days 
+ 
+ 
+ 
+CrackCast Show Notes – Parasitic Infections – December 2017 
+ 
+www.canadiem.org/crackcast 
+ 
+ 
+Treatment of Acute Malarial Infections:  
+ 
+Uncomplicated: 
+ 
+• 
+PO quinine +  doxycycline 
+• 
+PO chloroquine (watch for resistance) 
+ 
+***NOTE***: Chloroquine -sensitive regions: Central America & Middle East 
+ 
+Complicated: 
+ 
+• 
+IV artesunate OR 
+• 
+IV quinine + doxycycline 
+ 
+ 
+[4] List 7 complications of malaria 
+ 
+There are a number of complications related to malarial infection. There are seven of the most 
+important listed below: 
+ 
+Complications of Malarial Infections: 
+ 
+● Cerebral Malaria 
+● Hypoglycemia 
+● Metabolic Acidosis 
+● ATN 
+● ARDS 
+● DIC  
+● Blackwater fever 
+ 
+ 
+ 
+[5] What is black-water fever? 
+ 
+Black-water Fever: 
+ 
+• 
+Black-water Fever is a result of the hemolytic anemia caused by malarial infection. AS 
+red cells burst, hemoglobinuria occurs, causing the urine to take on a dark appearance. 
+• 
+This is often accompanied by the typical fevers, chills, and rigors of malarial infection, 
+but is also accompanied by jaundice, profound fast-onset anemia, and vomiting.  
+ 
+***NOTE***: Black-water fever is not to be confused with the nephrotic syndrome caused by P. 
+malariae infection. These are two completely different processes. 
+ 
+ 
+ 
+ 
+ 
+ 
+CrackCast Show Notes – Parasitic Infections – December 2017 
+ 
+www.canadiem.org/crackcast 
+ 
+ 
+[6] What is Ba’be’siosis?  What is its vector and how does it present? 
+ 
+Ba’be’siosis: 
+ 
+• 
+Definition: 
+§ 
+Ba’be’siosis is a tickborne disease that is like malaria, that is characterized by 
+acute febrile illness tickborne  
+• 
+Causative Agent: 
+§ 
+Ba’be’siosis is caused by an intraerythrocytic protozoal parasites of the genus 
+Babesia 
+• 
+Vector: 
+§ 
+The vector for ba’be’siosis is the Ixodes tick, largely found on deer and mice, 
+cattle.  
+• 
+Clinical presentation : 
+§ 
+Incubation period of 1 to 4 weeks after tick exposure, followed by non-specific 
+influenza-like illness, with fever, chills, headache, fatigue, and anorexia, 
+§ 
+Unlike Lyme disease, rash is not a major feature; however, if you see erythema 
+figuratum , consider septic ba’be’siosis.  
+§ 
+Asplenic patients can get hypotension, severe hemolytic anemia, 
+hemoglobinuria, jaundice, renal insufficiency, ARDS, DIC  
+§ 
+Think about this in endemic areas as cause of post-transfusion infection 
+ 
+ 
+[7]  Describe the features of American Trypanosomiasis and African 
+Trypanosoma 
+ 
+American Trypanosomiasis (Chagas Disease): 
+ 
+• 
+Causative Agent: 
+§ 
+Trypanosomiasis Cruzi 
+• 
+Endemic Region: 
+§ 
+South America 
+• 
+Vector: 
+§ 
+Reduviidae bug (Assassin/Kissing Bug) 
+• 
+Clinical Presentation: 
+§ 
+Romaña sign - swelling of the ipsilateral eye and eyelid to the bite from 
+inadvertent spreading of infected bug feces into the eye 
+• 
+Complications: 
+§ 
+Myocarditis  
+§ 
+Dilated Cardiomyopathy 
+§ 
+Meningo-Encephalitis (can be chronic) 
+• 
+Treatment: 
+§ 
+Nifurtimox / Benznidazole 
+ 
+African Trypanosoma (African Sleeping Sickness): 
+ 
+• 
+Causative Agent 
+§ 
+Trypanosomiasis Brucei 
+• 
+Endemic Region: 
+CrackCast Show Notes – Parasitic Infections – December 2017 
+ 
+www.canadiem.org/crackcast 
+ 
+ 
+§ 
+Africa 
+• 
+Vector: 
+§ 
+TseTse fly 
+• 
+Clinical Presentation: 
+§ 
+Extreme sleepiness + coma 
+• 
+Treatment: 
+§ 
+Suramin 
+ 
+ 
+ 
+[8] List 6 common illnesses causing fever in the returning traveler and 5 life 
+threatening infections 
+ 
+Remember, this list will change depending on where the traveler is returning from! That detailed 
+history is crucial. Who, what, when, where, why, how?  
+ 
+Common illnesses:  
+ 
+• 
+Dengue fever 
+• 
+Chikungunya  
+• 
+Meningitis 
+• 
+Pneumonia  
+• 
+Sepsis due to bacteremia 
+• 
+Typhoid fever  
+• 
+Leptospirosis  
+• 
+Viral hemorrhagic fever  
+ 
+Life threatening infections: 
+ 
+● Secondary bacterial infection / sepsis  
+● Emerging viral illness - e.g. Ebola, MERS CoV,  
+● HIV  
+● Cerebral malaria  
+ 
+ 
+[9] Other than malaria, list 3 other organisms that cause the following: 
+ 
+ 
+CNS infection: 
+ 
+• 
+Neurocysticercosis 
+• 
+Echinococcus (hydatid cysts) 
+• 
+African Trypanosomiasis (sleeping sickness) 
+• 
+Trichinella spiralis 
+ 
+Anemia: 
+ 
+• 
+Helminthic infections (with concomitant eosinophilia) 
+• 
+Ba’be’siosis 
+CrackCast Show Notes – Parasitic Infections – December 2017 
+ 
+www.canadiem.org/crackcast 
+ 
+ 
+• 
+Whipworm 
+• 
+Hookworm 
+• 
+Tapeworms / flatworm / fluke 
+ 
+Pulmonary Symptoms: 
+ 
+• 
+E. histolytica (pleural effusions) 
+• 
+PCP aka PJP (think HIV) 
+• 
+Löffler’s syndrome (round worm / hook worm / thread worm) pneumonia w/ eosinophilia 
+• 
+Strongyloides (think lung infections with Aortitis)  
+ 
+ 
+[10] List the most common organism causing the following: 
+ 
+Peripheral edema: 
+ 
+• 
+Elephantiasis 
+ 
+Dermatologic symptoms: 
+ 
+• 
+Leishmaniasis  
+ 
+Visual symptoms:  
+ 
+• 
+Onchocerciasis river blindness 
+ 
+CV symptoms: 
+ 
+• 
+Chagas Disease aka Trypanosoma cruzi causing myocarditis 
+ 
+ 
+[11] List 5 common GI parasites and their typical manifestations 
+ 
+Diarrhea:  
+ 
+• 
+Cryptosporidium and Cyclospora  
+• 
+E. histolytica  
+• 
+Giardia 
+• 
+Schistosomiasis 
+ 
+Abdominal pain: 
+ 
+• 
+Tropical appendicitis: ITS A THING! Think = enterobiasis, amebiasis, ascariasis, 
+trichuriasis, and taeniasis 
+• 
+A. lumbricoides (roundworm)  
+• 
+Strongyloides 
+• 
+E. histolytica (can mimic viral hepatitis) 
+ 
+ 
+CrackCast Show Notes – Parasitic Infections – December 2017 
+ 
+www.canadiem.org/crackcast 
+ 
+ 
+WiseCracks: 
+ 
+[1] Classic rounds pimper: quick association of parasite to treatment 
+ 
+Parasite: 
+Treatment: 
+Entamoeba Histolytica 
+Flagyl 
+Giardia 
+Flagyl 
+Leishmaniasis 
+Amphotericin B 
+Schistosomiasis 
+Praziquantel 
+Trypanosoma Cruzi 
+Nifurtimax / Benznidazole 
+Neurocysticercosis 
+Albenazole 
+Pinworm 
+Albenadzole / mobendazole 
+ 
+ 
+[2] A 32 year-old male has returned from a BBQ tour of South America. He 
+is now actively seizing. What does he have and how can we diagnose it 
+without a CT scanner? 
+ 
+Diagnosis: 
+ 
+• 
+Neurocysticercosis 
+• 
+Think about it in patients exposed to undercooked pork and seizures 
+ 
+Diagnostic Modality: 
+ 
+• 
+Obviously, you CT scan is the gold standard for diagnosis of neurocysticercosis, 
+however, you can use a soft tissue radiograph looking for typical soft tissue calcifications 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Courtesy of Dr. Bruno Lorensini, 
+Radiopaedia.org, rID: 35710 
+Courtesy of Dr. Kenny Sim, 
+Radiopaedia.org, rID: 35191 
+CrackCast Show Notes – Parasitic Infections – December 2017 
+ 
+www.canadiem.org/crackcast 
+ 
+ 
+[3] What are kissing bugs? 
+ 
+Whenever you hear the term “kissing bugs”, think Chagas Disease. The kissing bug or Reduviid 
+bug is the vector for Chagas disease. Its bite is the cause of the Romaña’s sign (painless 
+unilateral periorbital edema). If you see Romaña’s Sign, it is pathognomonic for Chagas 
+Disease. 

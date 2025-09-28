@@ -1,0 +1,131 @@
+# Metadata
+- Source: The Bottom Line
+- Title: Ferrer
+- Original URL: https://www.thebottomline.org.uk/summaries/icm/ferrer/
+- Scrape Date: 2025-07-17
+- Summary Date: AUTO_FILL_IF_AVAILABLE
+
+Empiric Antibiotic Treatment Reduces Mortality in Severe Sepsis and Septic Shock From the First Hour: Results From a Guideline-Based Performance Improvement Program
+Ferrer. Crit Care Med 2014; 38:367-374. doi:10.1097/CCM.0000000000000330
+Clinical Question
+In patients with severe sepsis or septic shock, is the timing of first administration of antibiotics associated with the in-hospital mortality rate?
+Design
+Retrospective observational cohort study
+Utilised data from voluntary Surviving Sepsis Campaign database
+Adequacy of screening, inclusion and data accuracy not checked
+Generalized Estimating Equation (GEE) used for population-level average
+Setting
+165 intensive care units across Europe, United States and South America
+January 2005 to February 2010
+Population
+Inclusion: patients admitted to ICU with a suspected infection, two or more SIRS criteria and one or more organ dysfunction criteria (that is, severe sepsis or septic shock)
+Exclusion: if antibiotics were not given (1.6%), if antibiotics had already been given (32%) or if it was unclear when they were given (3.0%).
+28,150 screened and 17,990 analysed after the above exclusions.
+Intervention
+Timing of antibiotics
+stratified into 0–1 hr, 1–2 hrs, 2–3 hrs, 3–4 hrs, 4–5 hrs, 5–6 hrs and > 6 hrs
+appropriateness of antibiotics, and the specific drug and dosage were not analysed
+Controlled factors
+Authors tested the impact of 51 covariates in the model. Classified as:
+confounder
+if it was associated with >10% change in odds ratio
+effect modifier
+if this was statistically significant with p<0.05
+Outcome
+In words
+Raw data: Hospital mortality was lowest in the cohort given antibiotics between hours 1 and 2 and increased significantly beyond this time frame (that is, a ‘J-shaped’ distribution was observed)
+Adjusted GEE population averaged logistic regression model:
+Three covariates identified as confounders (statistical significance not reported)
+Sepsis severity score (an unpublished but validated score based on the Surviving Sepsis Campaign database)
+Clinical location (Emergency department, in-patient hospital ward, or already in ICU)
+Geographical location (Europe, United States, or South America)
+Hospital mortality was lowest in the cohort given antibiotics before 1 hour and increase for each hour of delay.
+When compared sequentially, with the ‘< 1hr’ cohort as the baseline, the p value becomes <0.05 at 2–3 hours. That is, there is significant possibility that the observed difference in outcome between <1 hr and 1–2 hrs may be due to chance alone.
+In numbers
+Adjusted hospital mortality
+Time
+OR
+p
+Mortality
+95% CI
+NNH
+<1
+1.00
+–
+24.6%
+23.2–26.0
+–
+1–2
+1.07
+0.165
+25.9%
+24.5–27.2
+73
+2–3
+1.14
+0.021
+27.0%
+25.3–28.7
+35
+3–4
+1.19
+0.009
+27.9%
+25.6–30.1
+25
+4–5
+1.24
+0.006
+28.8%
+25.9–31.7
+19
+5–6
+1.47
+<0.001
+32.3%
+28.5–36.2
+8
+>6
+1.52
+<0.001
+33.1%
+30.9–35.3
+7
+Baseline is taken as ‘<1’ cohort. Time = Time from diagnosis of sepsis until first antibiotics, in hours; OR = odds ratio; p = p-value; CI = confidence interval; NNH = number-needed-to-harm (calculated using
+this formula from CEBM
+)
+Authors’ Conclusions
+“This study demonstrates a significant association between delay in antibiotic administration over the first 6 hours after identification of patients with severe sepsis and septic shock and increasing mortality.”
+Strengths
+Large dataset collected from three continents over 5 years
+Validated statistical method to control for anticipated covariates
+Raw and adjusted data published
+Inclusion of ‘severe sepsis’ and not just ‘septic shock’ patients
+Weaknesses
+Authors are affiliated with Surviving Sepsis Campaign and SSC guidelines. Although it is commendable that they sought to provide evidence for the guidelines, they may have cognitive biases in favour of finding an association. Could this be repeated by a different, unassociated research group?
+As highlighted in previous SSC publications (see Levy and Dellinger link below), the quality, accuracy and completeness of the dataset was not verified
+Inherently, other unanticipated confounding factors may exist
+Zero time was the point of identification and diagnosis of severe sepsis or septic shock. Patients may have already developed severe sepsis or septic shock some time before this but then went undiagnosed. Therefore ‘zero time’ has subjectivity. This is a weakness of all similar studies and will be difficult to overcome. It is unlikely to reduce the validity of the conclusion though.
+The Bottom Line
+This larger and broader observational study addresses a question that cannot ethically be answered by a randomised, controlled trial.
+It provides strong evidence that the time between diagnosis of severe sepsis or septic shock and the first dose of antibiotics is critical.
+Whether there exists a difference between 0–1 hour and 1–2 hours could be debated, but greater than 2 hours is almost certainly associated with a higher rate of hospital mortality.
+External Links
+[Article abstract]
+Empiric Antibiotic Treatment Reduces Mortality in Severe Sepsis and Septic Shock From the First Hour: Results From a Guideline-Based Performance Improvement Program by Ferrer et al.
+[Editorial]
+The Golden Hour of Antibiotic Administration in Severe Sepsis: Avoid a False Start Striving for Gold by van Zanten.
+[Further reading]
+The Surviving Sepsis Campaign: results of an international guideline-based performance improvement program targeting severe sepsis by Levy and Dellinger et al.
+[Further reading]
+Duration of hypotension before initiation of effective antimicrobial therapy is the critical determinant of survival in human septic shock by Kumar.
+[Further reading]
+Antibiotic Timing by LITFL.
+[Further reading]
+Statistical Analysis of Correlated Data Using Generalized Estimating Equations: An Orientation by Hanley et al.
+Metadata
+Summary author:
+@DuncanChambler
+Summary date: 1 August 2014
+Peer-review editor:
+@stevemathieu75

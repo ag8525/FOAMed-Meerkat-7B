@@ -1,0 +1,160 @@
+# Metadata
+- Source: The Bottom Line
+- Title: EXTEND
+- Original URL: https://www.thebottomline.org.uk/summaries/extend/
+- Scrape Date: 2025-07-17
+- Summary Date: AUTO_FILL_IF_AVAILABLE
+
+Thrombolysis Guided by Perfusion Imaging up to 9 Hours after Onset of Stroke
+Ma. NEJM 2019; 380(19)1795-1803. DOI:10.1056/NEJMoa1813046
+Clinical Question
+In patients with acute ischaemic stroke, with salvageable brain tissue, does alteplase compared with placebo, administered between 4.5 – 9 hours post stroke onset, improve functional outcome at 90 days?
+Background
+The time to initiate intravenous thrombolysis for acute ischaemic stroke is generally limited to within 4.5 hours of stroke onset. This is based on studies that used plain CT imaging for selection of patients
+Perfusion imaging (CT/MRI) can show potential viable brain tissue beyond 4.5 hours of stroke onset
+Endovascular therapy has been demonstrated to improve outcomes in patients with salvageable brain tissue up to 24 hours after stroke onset
+DAWN
+.
+DEFUSE 3
+There is therefore the potential for thrombolysis to have a benefit for some patients who have a longer duration post stroke onset
+Design
+Randomised controlled trial
+1:1 ratio
+Centralised website, stratified by geographic region and time of intervention after stroke onset
+Placebo-controlled
+Medications provided by Beohringer Ingerlheim
+RAPID automated software used to assess CT/MRI imaging
+Intention to treat analysis
+Terminated early following publication of
+WAKE-UP
+trial as researchers felt loss of equipoise
+WAKE-UP trial was terminated early due to lack of funding
+It demonstrated a significantly improved functional outcome in patients that woke up with a stroke and who were treated with thrombolysis compared with placebo
+The trial had a fragility index of 7 patients
+Double blinded
+Original sample size calculation: 400 patients would provide 80% power to detect a between group difference of 15% in the primary outcome, (36% in intervention group and 21% in placebo group) with a false positive rate of 4%, with allowance for 90 patients to be lost to follow up
+The prespecified plan was to assess the primary outcome using binary logistic regression analysis
+On publication, this was not used
+Instead the authors used covariate-adjusted modified regression analysis
+No documentation as to why they changed the statistical plan
+Setting
+17 centres in Australasia, 10 centres in Taiwan, 1 centre in Finland
+Data collected 2010 – 2018
+Population
+Inclusion criteria
+:
+Adult patients
+Excellent baseline function (score <2 on modified Rankin scale)
+4.5 – 9 hours posts stroke onset with NIHSS score of 4-26 at presentation
+Patients who had stroke symptoms on wakening had the onset of stroke estimated as the midpoint of sleep
+Hypoperfused but salvageable regions of brain detected on automated CT/MRI perfusion imaging
+Perfusion lesion/ischaemic core mismatch defined as ratio >1.2 between the volume of hypoperfusion and the volume of the ischaemic core, an absolute difference in volume >10ml, and an ischaemic-core volume <70ml
+Exclusion criteria
+:
+Intracranial haemorrhage
+Rapidly improving symptoms
+Infarct core >1/3rd middle cerebral artery territory
+Stroke within last 3 months
+Current use of anticoagulants/glycoprotein IIb/IIIa inhibitors
+BP >185/110 or requiring aggressive treatment to reduce BP to within these limits
+Investigator was considering the use of endovascular thrombectomy at the time of enrolment
+225 patients randomised
+Comparing intervention vs. control group
+Age: 74 vs. 71
+Median NIHSS score at presentation: 12 vs. 10
+Time from stroke onset to randomisation
+>4.5 – 6 hours: 11% vs. 10%
+>6 – 9 hours: 25% vs. 25%
+Awoke with stroke symptoms: 65% vs. 65%
+Imaging results
+Large vessel occlusion: 69% vs. 72%
+Median volume of irreversibly injured ischaemic-core tissue: 4.6ml vs. 2.4ml
+Median perfusion-lesion volume: 74ml vs. 78ml
+Intervention
+Alteplase
+0.9mg/kg (max 90mg) administered as a 10% bolus and 90% infusion over 1 hour
+Control
+Matching placebo
+Management common to both groups
+Guideline based care for acute stroke recommended for all patients
+Outcome
+Primary outcome
+: Excellent functional outcome at 90 days (modified Rankin scale score of 0-1)
+35.4% in alteplase group vs. 29.5% in placebo group
+Adjusted risk ratio – significantly better in alteplase goup
+1.44 (95% C.I. 1.01-2.06), p=0.04
+Unadjusted risk ratio – no significant difference
+1.2 (95% C.I. 0.82-1.76), p=0.35
+Fragility index 0
+Using original planned logistic regression – no significant difference
+Adjusted OR 1.88 (95% C.I. 0.99-3.59), p=0.056
+Unadjusted OR 1.31 (95% C.I. 0.75-2.3)
+Secondary outcomes
+:
+Functional improvement at 90 days (improvement of at least 1 point on mRS) – no significant difference
+Adjusted Odds Ratio 1.55 (95% C.I.) 0.96-2.49)
+Unadjusted Odds Ration 1.18 (95% C.I. 0.74-1.87)
+Functional independence at 90 days (mRS score 0-2)
+49.6% vs. 42.9%
+Adjusted OR 1.36 (95% C.I 1.06-1.76) – significantly improved
+Unadjusted OR 1.16 (0.87-1.54) – no significant difference
+% of reperfusion at 24 hours >=90%
+50% vs. 28% – significantly better in alteplase group
+Adjusted OR 1.73 (95% C.I. 1.22-2.46)
+Unadjusted OR 1.76 (95% C.I. 1.23-2.51)
+Tertiary Outcomes
+Major neurologic improvement (reduction in NIHSS score of at least 8 points or a score of 0/1)
+at 24 hours – significantly improved in altepase group
+23.9% vs. 9.8%
+Adjusted OR 2.76 (95% C.I. 1.45-5.26)
+Unadjusted OR 2.43 (95% C.I. 1.27-4.67)
+at 72 hours – no significant difference
+Adjusted OR 1.56 (95% C.I. 0.97-2.52)
+Unadjusted OR 1.45 (95% C.I. 0.9-2.34)
+at 90 days – no significant difference
+Adjusted OR 1.17 (95% C.I. 0.91-1.52)
+Unadjusted OR  1.18 (95% C.I. 0.91-1.53)
+Safety outcomes – no significant differences
+Death within 90 days
+11.5% vs. 8.9%
+Adjusted OR 1.17 (95% C.I. 0.57-2.4)
+Unadjusted OR 1.29 (95% C.I. 0.59-2.82)
+Symptomatic intracranial haemorrhage within 36 hours
+6.2% vs. 0.9%
+Adjusted OR 7.22 (95% C.I. 0.97-2.4)
+Unadjusted OR 6.94 (95% C.I. 0.86-55.73)
+Sub-group analysis
+No significant interactions according to large vessel occlusion status and time to intervention
+Authors’ Conclusions
+Aleplase therapy in patients that had a favourable perfusion-imaging profile between 4.5 – 9 hours after stroke onset or on awakening with stroke symptoms resulted in no or minor neurologic deficits more often than the use of placebo
+Due to study limitations further trials required
+Strengths
+Randomised controlled trial
+Double blinded
+Multi-centre
+Intention to treat analysis
+No loss to follow up
+Weaknesses
+Study terminated early
+Change in statistical analysis used, with original planned statistical analysis demonstrating no significant difference
+Imbalances in baseline characteristics
+Unadjusted outcomes did not show a benefit
+Fragility index of 0 patients
+The time from symptom onset was calculated from the mid-point in time of sleep if patients woke with stroke symptoms – there was no way of knowing what the actual time of symptom onset was
+The Bottom Line
+This randomized controlled trial reported a significant improvement in functional outcomes at 90 days in patients with salvageable brain tissue who were 4.5-9 hours post onset of stroke, and were treated with alteplase in comparison with placebo
+However, the study was stopped early, the original planned statistical analysis demonstrated no significant improvement and the fragility index was 0
+Therefore further trial are required before this treatment can be recommended
+External Links
+[article]
+Thrombolysis Guided by Perfusion Imaging up to 9 Hours after Onset of Stroke
+[further reading]
+EMCrit: The Case of the Magician’s Sleight
+[further reading]
+TBL review of stroke trials
+Metadata
+Summary author:
+David Slessor
+Summary date: 21st May 2019
+Peer-review editor:
+Celia Bradford

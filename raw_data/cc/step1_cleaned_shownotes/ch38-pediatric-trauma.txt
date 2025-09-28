@@ -1,0 +1,741 @@
+# Metadata
+- topic: 2.1 - Trauma- General Concepts - 38 Pediatric Trauma
+- source_folder: 2.1 - Trauma- General Concepts
+- original_file: Ch.38 Pediatric Trauma.pdf
+
+Crack Cast Show Notes – Pediatric Trauma – August 2016 
+www.crackcast.org 
+ 
+ 
+Chapter 38 – Pediatric Trauma 
+ 
+Episode Overview: 
+ 
+1) List 5 relevant anatomic/physiologic differences between children and adults in 
+relation to trauma management 
+2) List 8 airway differences between pediatrics and adults with their relevant 
+implications 
+3) List potential fluid therapies for hemorrhagic shock and their doses 
+4) List 3 ideal IO sites in pediatrics and describe the procedure 
+5) Describe the pediatric GCS 
+6) List 6 indications for laparotomy 
+7) List 6 signs of elevated ICP in infants and children 
+8) What is an impact seizure? 
+9) List the 5 layers of the scalp and describe 3 types of extra cranial bleeding in 
+pediatrics 
+10)  What is the difference between a linear and a diastatic skull fracture 
+11)  Describe the typical presentation and etiologic cause of an epidural hematoma and a 
+subdural hematoma 
+12)  Describe the management of elevated ICP 
+13)  List 10 anatomical differences between the pediatric and adult cervical spine 
+14)  How can you discern between true subluxation and pseudosubluxation at C2/C3 
+15)  List 2 ways to choose the size of chest tube in pediatrics 
+16)  What are indications for ER resuscitative thoracotomy in chest trauma? 
+17)  List pediatric specific cardiovascular and abdominal injury patterns  
+ 
+Rosen’s in Perspective:  
+ 
+Principles of disease: 
+ 
+● children have: 
+○ proportionally larger abdominal organs 
+○ less subcutaneous fat 
+○ less protective abdominal muscles 
+○ proportionally larger kidneys 
+○ flexible cartilaginous ribs that can compress internal organs without showing 
+fractures  
+ 
+Clinical features: 
+ 
+● very difficult to obtain complete history  
+● physical exam is plagued with difficulty 
+○ tachypnea 
+○ abdominal tenderness / bruising  
+○ shock 
+○ shoulder pain 
+Crack Cast Show Notes – Pediatric Trauma – August 2016 
+www.crackcast.org 
+ 
+ 
+○ vomiting (late sign in child with duodenal hematoma or pancreatic injury) 
+○ rectal exam is insensitive 
+ 
+● SERIAL exams are essential! 
+ 
+Circulation and Hemorrhage control: 
+ 
+● pediatric shock: 
+○ cool distal extremities, decreases in peripheral vs. central pulse quality, 
+delayed cap refill 
+○ altered sensorium 
+ 
+FAST and family: 
+ 
+● ultrasound for blood 
+● allowing family to be present during the resuscitation  
+○ informing them of what happened 
+■ utilizing social work and child life specialists 
+ 
+Secondary survey: 
+ 
+● AMPLE history 
+● Tasks to complete 
+○ continuous repeated vitals signs 
+○ provision of analgesia  
+○ abx and tetanus 
+○ monitor urine output 
+○ post-intubation sedation and medication 
+○ don’t forget adequate analgesia! 
+ 
+Physical examination: 
+ 
+● head to toe exam: pit to finger exam 
+● remove the kid off backboard 
+● many orthopedic injuries are missed 
+ 
+Diagnostic evaluation: 
+ 
+Labs: 
+● initial hemoglobin is usually unreliable: do serial measurements 
+● glucose level 
+ 
+Radiology: 
+● CXR  
+● pelvis x-ray unless: 
+○ age >3 and no complaint of injury 
+○ no impaired LOC 
+Crack Cast Show Notes – Pediatric Trauma – August 2016 
+www.crackcast.org 
+ 
+ 
+○ no major distracting injury 
+○ no complaint of pelvic pain 
+○ no signs of fracture on inspection 
+○ no pain on pelvic stressing 
+○ no pain on hip rotation or flexion 
+● skeletal survey in young children suspected of having NAT 
+ 
+Formulas to know! 
+ 
+○ Cuffed ET: 
+■ age in years/4 + 3.5 
+○ Uncuffed ET 
+■ age in years/4 + 4 
+○ Tube depth 
+■ age in years/2 + 12 
+■ Appropriate tube size X 3 = number of cm at the teeth that the ETT 
+should be taped at.  
+○ Chest tube size: 
+■ 2 x ETT size 
+○ Femoral line: 3-6 F.  
+ 
+1) List 5 relevant anatomic/physiologic differences between children and 
+adults in relation to trauma management 
+ 
+1) More widely distributed forces in a child = multiple injuries more likely to occur due to 
+structural differences  
+■ Brain is less protected: thinner cranial bones, less myelination  
+■ More anterior inner organs with less muscle and fat: liver, spleen, and 
+less protected spleen  
+■ Pulmonary injuries occur without skeletal injuries due to elastic ribs  
+■ Open growth plates = salter-type fractures with long term implications  
+■ SCIWORA injuries occur due to an elastic vertebral column and 
+tenuous blood supply  
+ 
+2) Larger surface area = prone to heat loss ---> hypothermia = negative effect on cardiac 
+function, inotropy, LV contractility, platelet function, renal and hepatic drug clearance, 
+metabolic academia 
+ 
+3) Higher, proportional requirements for free water, electrolytes, minerals due to higher 
+metabolism  
+ 
+4) Higher 02 consumption and glucose utilization per kg = need energy and calories sooner - 
+due to increased metabolism  
+ 
+5) Great capacity to maintain BP despite 25-30% blood loss 
+■ little role for inotropy: mostly dependent on chronotropy and SVR 
+Crack Cast Show Notes – Pediatric Trauma – August 2016 
+www.crackcast.org 
+ 
+ 
+■ **compensated shock (TachyC and slow cap. refill) are warnings that 
+the kid is about to crash!** 
+ 
+2) List 8 airway differences between pediatrics and adults with their 
+relevant implications 
+ 
+ 
+Differences 
+Implications 
+Physiologic 
+Increased vagal response to laryngoscopy  
+Bradycardia - have atropine on hand!  
+Anatomic 
+Larger tongue 
+#1 cause of airway obstruction; need better head 
+positioning +/- OPA/NPA 
+ 
+Larger adenoidal tissues 
+Nasotracheal intubation and NPA's are tougher to 
+insert 
+ 
+Floppy epiglottis more U shaped 
+"use miller blade" (false dogma) 
+and change in intubation technique - ‘insert Miller 
+blade into the esophagus and then SLOWLY 
+withdraw until you see the glottis’ 
+ 
+Cephalad, anterior larynx 
+tougher to visualize the cords, need to angle 45 deg. 
+forward to see them 
+ 
+Cricoid ring the most narrow part of the airway 
+(the first cricoid cartilage of the trachea)  
+May need uncuffed tubes in kids <8 yrs (or need to 
+downsize slightly) 
+ 
+Narrow tracheal diameter and distance between 
+rings 
+Needle cric. for kids <12 yrs: not surgical airway 
+ 
+SHORTER tracheal length; large airways more 
+narrow 
+Right mainstem intubation (neck extension) and 
+EASY dislodgement of tube (neck flexion) ; greater 
+airway resistance 
+ 
+3) List potential fluid therapies for hemorrhagic shock and their doses 
+ 
+● standard trauma/resus room protocol : MOVIE 
+● 10-20ml/kg of crystalloid IV bolus repeated up to three times then: 
+○ PRBCs: 10 ml/kg 
+○ FFP: 25 ml/kg 
+○ Platelets: 10 ml/kg 
+ 
+4) List 3 ideal IO sites in pediatrics and describe the procedure 
+ 
+Need to use the mantra “1-2-IO” - get access ASAP 
+ 
+● IV access: if not do an IO 
+○ proximal medial tibia 
+○ proximal humerus 
+○ anterior distal femur 
+ 
+ 
+Crack Cast Show Notes – Pediatric Trauma – August 2016 
+www.crackcast.org 
+ 
+ 
+5) Describe the pediatric GCS 
+ 
+AVPU system / age appropriate GCS score 
+○ the problem with the peds GCS is that it DOESN'T help you 
+prognosticate neurological outcome as the adult GCS score (no 
+validation) and has poor inter-rater reliability 
+ 
+Children with poor scores can have great outcomes 
+ 
+Signs of herniation might be indicated by: 
+● pupil size and reactivity  
+● extremity movement and tone 
+● posturing and reflexes 
+ 
+Treatment: 
+ 
+mannitol 0.5 g/kg IV; maintain CPP of at least 50 
+ 
+assess for spinal injury 
+ 
+6) List 6 indications for laparotomy 
+ 
+○ hemodynamic instability despite aggressive resuscitation 
+○ free fluid on FAST and instability 
+○ massive bleeding (intraperitoneal) despite blood 
+○ pneumoperitoneum / intraperitoneal bladder rupture / grade V renovascular 
+injury 
+○ gunshot wound 
+○ evisceration 
+○ peritonitis  
+ 
+ 
+Image retrieved from bestpractice.bmj.com August 5th, 2016 
+Crack Cast Show Notes – Pediatric Trauma – August 2016 
+www.crackcast.org 
+ 
+ 
+7) List 6 signs of elevated ICP in infants and children 
+ 
+Signs of increased ICP in infants - Rosen’s Box 38-8 
+ 
+■ full fontanel 
+■ split sutures 
+■ altered state of consciousness 
+■ paradoxical irritability 
+■ persistent emesis  
+■ setting sun sign 
+ 
+Signs of increased ICP in children - 38-9 pg. 312 
+ 
+ 
+headache 
+■ stiff neck 
+■ photophobia 
+■ Altered mental status 
+■ persistent emesis 
+■ cranial nerve involvement 
+■ papilledema 
+■ hypertension, bradycardia, hypoventilation 
+■ decorticate and decerebrate posturing 
+ 
+8) What is an impact seizure? 
+ 
+Principles of disease: 
+ 
+● important anatomic differences 
+○ larger, heavier cranial vault 
+■ high amount of torque on the C spine axis in toddlers and infants 
+○ malleable sutures 
+■ brain parenchymal damage without skull fractures 
+ 
+***this highlights the principle that in kids: they get soft tissue damage WITHOUT showing 
+fractures!!*** 
+ 
+Less myelinated brain with higher water content 
+■ more susceptible to shearing forces and further injury 
+ 
+Clinical features: 
+ 
+Key points on history: 
+○ height of fall, method of landing, surface of impact, use of restraints, helmet 
+use, LOC immediately after injury, signs of progressive lethargy/irritability/ 
+recurrent vomiting/etc. 
+■ vomiting is an unclear prognostic indicator : may just be a familial 
+predisposition to vomiting vs. intracranial injury 
+Crack Cast Show Notes – Pediatric Trauma – August 2016 
+www.crackcast.org 
+ 
+ 
+ 
+○ impact seizure: a seizure with immediate return to normal mental status after 
+the postictal period: usually NOT associated with parenchymal injury.  
+■ seizures > 20 mins from injury portend greater possibility of TBI and 
+need for CT and neurosurgery consult.  
+Physical exam:  
+○ ABC's interventions 
+■ maintain oxygenation and perfusion 
+■ optimize glucose 
+■ euvolemia  
+● CPP = MAP - ICP 
+○ no matter what a child's neuro presentation in the ED try to resuscitate 
+ 
+9) List the 5 layers of the scalp and describe 3 types of extra cranial 
+bleeding in pediatrics 
+ 
+Layers of the scalp – use the SCALP mnemonic: 
+ 
+S – Skin 
+C – Connective Tissue 
+A – Aponeurosis 
+L – Loose Connective Tissue 
+P – Periosteum  
+ 
+ 
+Caput succedaneum: hematoma, freely mobile and crosses suture lines 
+ 
+Cephalohematoma:  
+ 
+blood UNDER periosteum = does NOT cross suture lines 
+ 
+scalp bleeding can be profuse and lead to shock in infants 
+ 
+Cerebral contusions 
+ 
+clearly demonstrable on CT scan as a brain parenchymal injury 
+ 
+neuro features with altered MS 
+ 
+10)  What is the difference between a linear and a diastatic skull fracture 
+ 
+Skull fracture factors associated with poor outcomes: 
+ 
+1) fracture over a vascular channel 
+2) a depressed fracture 
+3) a diastatic fracture 
+ 
+cross through/along suture lines and leptomeningeal cysts (growing fractures) may 
+develop (>2mm of separation) 
+4) fracture extending over the area of the medial meningeal artery 
+5) rhinorrhea, otorrhea 
+Crack Cast Show Notes – Pediatric Trauma – August 2016 
+www.crackcast.org 
+ 
+ 
+ 
+11)  Describe the typical presentation and etiologic cause of an epidural 
+hematoma and a subdural hematoma 
+ 
+Epidural hematoma 
+ 
+ 
+"head injury: lucid interval: followed by rapid deterioration" 
+ 
+due to VENOUS bleeds in kids (adults = arterial bleed) 
+o delayed signs and symptoms 
+ 
+highly associated with overlying skull fractures 
+ 
+Subdural hematoma  
+ 
+ 
+usually associated with rupture of bridging veins.  
+ 
+most common in kids <2 yrs. of age 
+ 
+may be chronic in the child  
+o with "shaken baby syndrome" or NAT! 
+ 
+vague: vomiting failure to thrive, altered LOC, seizures.  
+ 
+need fundoscopic exam to rule out retinal hemorrhage pathognomonic of NAT (non-
+accidental trauma) 
+ 
+12) Describe the management of elevated ICP 
+ 
+Diagnostic strategies: 
+ 
+● serial exams are key 
+● absence of focal findings doesn't rule out injury  
+○ papilledema requires days to develop 
+● cushing's response is ominous  
+● monro-kellie doctrine 
+○ as ICP increases - brain perfusion/ability to autoregulate decreases 
+● herniation syndromes: 
+○ uncal herniation 
+■ unilaterally dilated pupil 
+● compression of ipsilateral third nerve, contralateral hemiplegia, 
+hyperventilation 
+● "down and out pupil" 
+● may progress to frank apnea and cardiac arrest 
+Treatment: 
+ 
+● **prophylactic treatment with anticonvulsants not recommended ** 
+○ incidence of post-traumatic seizures is low 
+● treatment of Increased ICP: non-pharmacologic methods and pharmacologic 
+methods 
+○ 1) Non-pharmacologic 
+■ elevate HOB >30 deg 
+Crack Cast Show Notes – Pediatric Trauma – August 2016 
+www.crackcast.org 
+ 
+ 
+■ head in midline 
+■ avoid hyperthermia 
+■ mild hypothermia 
+■ maintain euvolemia 
+■ decompressive craniotomy 
+○ 2) Pharmacologic 
+■ Mannitol (0.5 g/kg IV) 
+● rapid osmotic diuresis 
+■ Hypertonic saline (0.1-1 mL/kg of 3% saline) 
+■ Pentobarbital / phenobarbital 
+● lowers cerebral metabolism 
+■ Neuromuscular blockade 
+■ Sedation 
+■ Treat seizures aggressively  
+● Stop gap therapies: 
+○ hyperventilation for ACUTE increase in ICP (temporary fix) 
+ 
+13)  List 10 anatomical differences between the pediatric and adult 
+cervical spine 
+ 
+Spinal injury 
+ 
+● rare 
+● higher cord injuries are more common 
+● SCIWORA (Spinal Cord Injury without Radiography Abnormality) - found in 25-50% 
+of spinal injuries 
+ 
+Principles of disease 
+ 
+● C-spine features approach adult patterns around age 8-10.  
+● Key differences in the peds: C spine: 
+○ higher fulcrum C2-3 (higher c spine injuries) 
+○ larger head size - greater flexion and extension injuries  
+○ smaller neck muscle mass  
+○ increase interspinous lig. flexibility 
+○ flatter facet joints 
+○ incomplete ossification at multiple bony sites 
+○ anterior surfaces of the vertebral bodies are more wedge shaped 
+○ Epiphytes of spinous processes tips mimic fractures  
+○ Narrow predontoind space  
+○ Pseudosubluxation of C2-3 seen on 40% of children 8-12 yrs  
+○ Pre vertebral space varies with respiration  
+○  
+Clinical features 
+ 
+● need to consider MOI; standard trauma primary survey 
+● C-spine injury indicators 
+Crack Cast Show Notes – Pediatric Trauma – August 2016 
+www.crackcast.org 
+ 
+ 
+○ tenderness in the body c-spine area 
+○ paralysis or paresthesias 
+○ ptosis 
+○ priapism 
+● incomplete (some motor or sensory function below the level of the lesion)   vs 
+complete lesions 
+○ NOT a one-time assessment: to be continued until spinal shock resolves 
+● exam tests: 
+○ bulbocavernosus reflex 
+○ rectal or anal wink 
+Cord syndromes: 
+ 
+Central cord 
+Anterior cord 
+Brown_sequard 
+Complete 
+ extension injury 
+flexion injury 
+hemisection of the 
+cord 
+cutt  
+----arm tone < leg 
+tone 
+----- 
+distal symptoms > 
+proximal 
+**burning 
+dysesthesias in 
+fingers and hands*** 
+---complete motor 
+paralysis, loss of 
+pain and 
+temperature 
+sensation 
+---position and 
+vibration is 
+preserved 
+ 
+--ipsilateral loss of 
+motor function and 
+proprioception at the 
+level of transection 
+---contralateral loss 
+of pain and 
+temperature 
+sensation one or two 
+levels below the 
+lesion 
+ 
+ 
+Radiology 
+ 
+● NEXUS criteria 
+○ but very few kids in the study actually had SCI and no cases of SCIWORA 
+○ <1% of the kids in the study had an injury 
+○ most of the injured cases were older than 9 years 
+● CT c-spine is the imaging of choice 
+○ don't bother with x-ray if you're actually suspicious of a cervical injury 
+○ poor sensitivity of plain radiographs at detecting bony fractures 
+● Plain radiographic clearing requires: 
+○  imaging the C7-T1 interface 
+○ three views of the c spine 
+○ predental space < 6mm in kids less than 6 years 
+○ prevertebral space < 1/2-1/3 the vertebral body width 
+○ the four cervical radiographic lines:  
+● patients with persistent neck pain despite negative radiographs and CT should get an 
+MRI 
+● flex / ext. views are rarely helpful 
+ 
+Crack Cast Show Notes – Pediatric Trauma – August 2016 
+www.crackcast.org 
+ 
+ 
+ 
+Management: 
+● Two phases of SCI 
+○ Direct injury : irreversible injury 
+■ due to ischemia, hypoxia, tissue death 
+● Spinal shock 
+○ Injury above T1: 
+■ lower extremity findings of SCI: flaccid paralysis of skeletal and 
+smooth muscle leading to hypovolemia due to decreased SVR 
+○ resolves in hours to 1 day 
+● Neurogenic shock 
+○ injury above T6 
+○ loss of sympathetic tone and have UNOPPOSED parasympathetic tone: 
+hypoTN and Bradycardia 
+■ trxt: atropine, ino-pressors, fluids are used 
+● Backboards should be removed ASAP: only use is for extraction 
+ 
+ 
+14) How can you discern between true subluxation and 
+pseudosubluxation at C2/C3 
+ 
+■ Pseudosubluxation  of the c-Spine at C2-3 is common in kids 
+● Swischuk line 
+○ spinolaminar line of C1-3, If the line crosses C2's 
+anterior cortical margin by less than 2 mm, (and no 
+cervical soft tissue swelling and no fracture is seen) the 
+image demonstrates pseudosubluxation 
+○  
+ 
+ 
+Crack Cast Show Notes – Pediatric Trauma – August 2016 
+www.crackcast.org 
+ 
+ 
+● occipital cervical junction injuries: 
+○ suspect in any child pedestrian vs. vehicle injury  
+■ with a big chin laceration 
+○ most of these injuries are immediately fatal 
+○ Power's ratio > 1 indicates atlanto-occipital dislocation 
+■ Normal = 0.77 
+■ distance from D to C / distance from A to B 
+ 
+ 
+ 
+ 
+15)  List 2 ways to choose the size of chest tube in pediatrics 
+ 
+2 X ETT size  
+4 X ETT size  
+ 
+16)  What are indications for ER resuscitative thoracotomy in chest 
+trauma? 
+ 
+● RARE 
+● same indications as adults (see episode on Major Trauma) 
+○ penetrating chest trauma with signs of life and less than 15 min of CPR 
+○ blunt trauma with signs of life and pericardial tamponade with <10 mins of 
+CPR 
+ 
+ 
+Crack Cast Show Notes – Pediatric Trauma – August 2016 
+www.crackcast.org 
+ 
+ 
+17)  List pediatric specific cardiovascular and abdominal injury patterns  
+ 
+Lap-belt injury 
+Handlebar injury 
+Sports-related injury 
+ 
+Principles of disease 
+ 
+● impairment of diaphragmatic breathing impairs ventilation 
+○ children's only way of improving ventilation is with increased RR 
+○ gastric distension impairs vital capacity 
+○ end-tidal CO2 is helpful 
+● ribs are more compliant, so rib fractures are usually associated with massive trauma 
+or in the setting of abuse: their absence doesn't rule out a serious injury 
+ 
+Specific disorders: 
+ 
+Pneumothorax: 
+● widespread transmission of breath sounds can mislead the clinician 
+○ **listen in the axilla*** 
+● <20% pneumothorax with no need for transport or ventilation may be watched 
+● Ultrasound highly sensitive and specific for detecting ultrasound 
+ 
+Open pneumothorax 
+● bidirectional flow of air  
+● significantly impairs oxygenation and ventilation 
+● Treatment: 
+○ three sided occlusive dressing 
+○ separate incision with chest tube 
+ 
+Tension pneumothorax 
+● one-way valve 
+● signs are often SUBTLE in pediatric patients 
+ 
+Hemothorax: 
+● difficult to identify on supine CXR 
+● rare; associated with big mechanism of injury 
+● need large tube drainage 
+● operating room thoracotomy if: 
+○ >15ml/kg of blood immediately exudes 
+○ continuous air leak 
+ 
+Pulmonary contusion: 
+● chest compliance in children puts them at increased risk of contusion even in the 
+absence of external chest trauma 
+ 
+Crack Cast Show Notes – Pediatric Trauma – August 2016 
+www.crackcast.org 
+ 
+ 
+Traumatic diaphragmatic hernia 
+● associated with MVC's and lap belt use 
+● need to consider comorbid small bowel injury/hematoma and CHANCE fractures 
+● Trxt: insert NG tube to decompress the stomach; avoid BVM; intubation and surgery 
+ 
+Cardiac and vascular injuries: 
+● rare 
+● similar signs and symptoms as in adults 
+● watch for pericardial tamponade 
+○ need thoracotomy 
+● commotio cordis 
+○ sudden impact to the anterior chest which stops cardiac function or leads to a 
+dysrhythmia  
+○ shock may persist despite resuscitation efforts 
+○ may need long term antiarrhythmic agents, pacemakers, and cardiac support 
+ 
+Abdominal injury 
+● most common cause of unrecognized fatal injury in children 
+● most often associated with MVC's 
+ 
+So now to answer the specific question:  
+ 
+○ Three injuries assoc. with lap belt use: 
+■ small bowel injury/hematoma 
+■ pancreatitis 
+■ chance fractures 
+○ bike handlebar injuries 
+■ duodenal hematoma 
+■ pancreatic transection/trauma 
+○ sports related: 
+■ spleen, kidney, intestinal tract 
+ 
+Diagnostic strategies and management: 
+ 
+● abdominal distention is common due to ingested air 
+● early foley catheter helps decompress the bladder and assess U/O 
+● FAST ultrasound: If positive and patient stable --> on to CT +/- angiography 
+● indications for laparotomy: 
+○ hemodynamic instability despite aggressive resuscitation 
+○ free fluid on FAST and instability 
+○ massive bleeding intraperitoneal despite blood 
+○ pneumoperitoneum / intraperitoneal bladder rupture / grade V renovasc. injury 
+○ gunshot wound 
+○ evisceration 
+○ peritonitis 
+ 
+Crack Cast Show Notes – Pediatric Trauma – August 2016 
+www.crackcast.org 
+ 
+ 
+Spleen injury 
+○ most common injury 
+○ need hospital admission 
+Livery Injury 
+○ most common cause of lethal hemorrhage 
+○ need close hospital observation, serial exams and Hgb. 
+ 
+Penetrating injury: 
+○ DPL : only performed in low resource settings 
+ 
+Disposition 
+ED role:  
+○ resuscitation and stabilization and transfer to appropriate facility 
+○ avoid extensive imaging if your centre can't deal with the results 
+○ low threshold for admission with serial exams 
+ 
+Cessation of care: 
+○ obvious if  
+■ livor mortis, rigor mortis, massive injuries 
+○ attempts should be made if  there are signs of life 
+○ parental presence during resuscitation should be encouraged  
+ 
+ 

@@ -1,0 +1,126 @@
+# Metadata
+- Source: The Bottom Line
+- Title: SNOCAT
+- Original URL: https://www.thebottomline.org.uk/summaries/snocat/
+- Scrape Date: 2025-07-17
+- Summary Date: AUTO_FILL_IF_AVAILABLE
+
+Effect of Out-of-Hospital Sodium Nitrite on Survival to Hospital Admission After Cardiac Arrest: A Randomized Clinical Trial
+Kim
+@uwcardiology
+. JAMA. 2021 January 12;325(2):138-145. doi: 10.1001/jama.2020.24326.
+Clinical Question
+In patients with out-of-hospital cardiac arrest, does sodium nitrite, compared with placebo, improve survival to hospital admission?
+Background
+Out-of-hospital cardiac arrest continues to have a high risk of morbidity and mortality
+Nitrate therapy can mitigate cellular injury and death following reperfusion after ischemia, and has been shown to be cytoprotective in animal models
+A previous phase 1 trial using sodium nitrate at doses of 45 mg or 60 mg demonstrated serum levels of 10 μM and 20 μM within 10 to 15 minutes. Animal models have suggested that nitrate levels at this level during the early reperfusion period following cardiac arrest are associated with an improved survival
+Design
+Double-blind, randomized phase 2 clinical trial
+Randomization was performed using computer-generated random samples and permuted block sizes of 3, 6, and 9
+Stratification occurred across 4 regions in Washington state
+Randomization was done in a 1:1:1 fashion between 45 mg of sodium nitrite, 60 mg of sodium nitrite, or placebo
+All involved personnel were blinded including paramedics, nurses, physicians, and study abstractors
+Sample size calculation: 1500 patients required to provide 80% power to detect an absolute increase of 8% for the primary outcome, with a false positive rate of 5%
+Setting
+Conducted in Seattle and King County in Washington State
+Study was conducted from February 8, 2018 to August 19, 2019, with follow-up and data abstraction completed by December 31, 2019
+Population
+1502 (66%) out of 2264 patients with cardiac arrest were enrolled
+Mean age, 64 years [SD, 17 years]
+990 men and 502 women
+1497 patients were randomized
+500 patients in the sodium nitrate 45 mg group
+498 patients in the sodium nitrate 60 mg group
+499 patients in the placebo group
+Inclusion
+:
+Received advanced life support by paramedics
+Had intravenous or intraosseous access
+Age >18 years
+Comatose at enrollment
+Exclusion
+:
+Trauma as the cause of cardiac arrest
+Age <18 years
+Had DNR order, rigor, or lividity
+Not comatose
+Incarcerated
+Pregnant
+Comparing baseline characteristics of sodium nitrite 45mg vs 60mg vs placebo groups
+Age: 65 vs 64 vs 67
+Male: 66% vs 66% vs 67%
+Witnessed cardiac arrest: 50% vs 50% vs 50%
+Initial rhythm VF/VT: 19% vs 25% vs 24%
+Intubation: 97% vs 96% vs 95%
+Intervention
+Sodium nitrate
+45 mg or 60 mg of sodium nitrite given intravenously or intraosseously
+Control
+Placebo
+Given intravenously or intraosseously
+Management common to both groups
+Beyond the study medication, patients received similar treatments via standard out-of-hospital resuscitation protocols
+Outcome
+Primary outcome
+:
+Survival to hospital admission, defined as formal inpatient assignment and arrival to a hospital ICU bed – no significant difference
+Comparing 45 mg vs 60 mg vs placebo
+41% vs 43% vs 44%
+Mean difference for 45mg vs placebo: −2.9% (95% CI. −8.0 to ∞; P = .82)
+Mean difference for 60mg dose vs placebo: −1.3% (95% CI. −6.5% to ∞; P = .66)
+Secondary outcomes
+: No statistical differences found for any secondary outcomes (45 mg group vs 60 mg group vs placebo)
+Rate of rearrest (defined as loss of pulse)
+48% vs 53% vs 48% (out of a total of 270 patients with out-of-hospital return of spontaneous circulation)
+Rate of return of spontaneous circulation
+54% vs 59% vs 59%
+Number of days in the ICU
+Mean (SD): 8.9 days (10.4) vs 7.3 days (7.2) vs 6.7 days (8.1)
+Cumulative survival to 24 hours
+34.1% vs 34.4% vs 36.5%
+Survival to hospital discharge
+13.2% vs 14.5% vs 14.9%
+Moderate cerebral disability or better (CPC score of 1 or 2) at hospital discharge
+12.0% vs 13.3% vs 13.3%
+Severe cerebral disability or coma (CPC score of 3 or 4) at hospital discharge
+1.0% vs 1.0% vs 1.4%
+Additional prespecified and post hoc a
+nalyses:
+No statistically significant differences found
+Time to death
+Reduction in the first recorded blood pressure level at hospital arrival
+Sustained hypotension
+Incidence of withdrawal of life-sustaining support
+Incidence of cardiac catheterization
+Incidence of targeted temperature management
+A priori subgroups:
+No statistically significant differences found
+Initial rhythm of ventricular fibrillation
+Authors’ Conclusions
+“Among patients with out-of-hospital cardiac arrest, administration of sodium nitrite, compared with placebo, did not significantly improve survival to hospital admission. These findings do not support the use of sodium nitrite during
+resuscitation from out-of-hospital cardiac arrest.”
+Strengths
+Double-blinded and randomized design mitigates bias
+Asks a clinically relevant question
+Phase 2 study that moves beyond the preliminary animal data
+Authors published negative data without “dressing up” the results
+Secondary outcomes and post-hoc outcomes were clinically relevant
+Weaknesses
+Time to administration of sodium nitrate was longer than the studies in animals, but was consistent with the timing of interventions in other trials
+Authors note that the study was underpowered to detect smaller differences, and effects size may have been overestimated based on more robust animal data
+Authors note that enrollment bias may have been present
+Study was not powered or designed specifically to examine the VF population
+278 patients were not enrolled because they were not considered for enrollment by EMS personnel, and 41 not enrolled for “other reasons” but the article does not elaborate on these reasons, unclear what impact this may have had on the results
+The Bottom Line
+This appears to be a well-designed study with convincing data to support the authors’ conclusion that sodium nitrate is not useful during resuscitation from out-of-hospital cardiac arrest
+External Links
+Effect of Out-of-Hospital Sodium Nitrite on Survival to Hospital Admission After Cardiac Arrest: A Randomized Clinical Trial
+Comment and Response: Effect of Sodium Nitrite on Survival of Cardiac Arrest to Hospital Admission
+Comment and Response: Effect of Sodium Nitrite on Survival of Cardiac Arrest to Hospital Admission—Reply
+Metadata
+Summary author:
+Dan Hu, PharmD, BCCCP
+Summary date: 10/12/21
+Peer-review editor: @davidslessor
+Photo by camilo jimenez on Unsplash

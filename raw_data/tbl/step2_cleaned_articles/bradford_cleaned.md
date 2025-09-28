@@ -1,0 +1,106 @@
+---
+source: The Bottom Line
+title: Bradford Trial
+original_url: https://www.thebottomline.org.uk/summaries/icm/bradford/
+scrape_date: 2025-07-17
+summary_author: @davidslessor
+summary_date: 2015-11-03
+peer_review_editor: @DuncanChambler
+summary: "Will be added later"
+---
+
+# Induced Hypermagnesaemia Following Aneurysmal Subarachnoid Haemorrhage: A Randomised Controlled Trial
+
+## Clinical Question
+In patients with aneurysmal subarachnoid haemorrhage (SAH), does induced hypermagnesaemia reduce the incidence of cerebral artery vasospasm?
+
+## Design
+- Randomised controlled trial  
+- Stratified randomisation by World Federation of Neurosurgical Societies (WFNS) Grade of SAH  
+- Variable block size  
+- Allocation concealment with sealed opaque envelopes  
+- Non-blinded clinical staff; blinded outcome assessors and neurosurgical staff  
+- Sample size calculation: 190 patients for 80% power to detect a reduction in vasospasm incidence from 60% to 40%  
+
+## Setting
+- Two tertiary centres in Australia  
+- Study period: April 2005 to December 2009  
+
+## Population
+
+**Inclusion Criteria:**
+- Clinical history consistent with aneurysmal SAH within the previous 72 hours  
+- Aneurysmal SAH confirmed on CT  
+
+**Exclusion Criteria:**
+- Age < 18 years  
+- Creatinine > 200 mmol/L  
+- Imminent death within 72 hours  
+- Myasthenia gravis  
+- Pregnancy  
+- Pre-existing cerebral vasospasm  
+
+**Enrollment:**
+- 162 patients randomised  
+
+## Intervention
+
+**High Magnesium Group:**
+- Target serum magnesium: 1.60–2.50 mmol/L  
+- Mean serum magnesium: 1.70 mmol/L during study  
+
+## Control
+
+**Standard Magnesium Group:**
+- Target serum magnesium: 0.65–1.05 mmol/L  
+- Mean serum magnesium: 0.87 mmol/L during study  
+
+**Both Groups:**
+- IV magnesium sulphate infusion at 20 ml/hr, adjusted to target concentration  
+- Discontinued 12 days post-haemorrhage, on ICU discharge, or if death was imminent  
+- Standard SAH management, including nimodipine and BP support with noradrenaline  
+- Ruptured aneurysms secured surgically or endovascularly within 48 hours  
+- Cerebral angiography on day 5 or earlier if vasospasm suspected  
+
+## Outcomes
+
+### Primary Outcome
+- Incidence of cerebral arterial vasospasm diagnosed by digital subtraction angiography  
+  - No significant difference: Odds Ratio 0.51 (95% CI: 0.26–1.02), p = 0.06  
+
+### Secondary Outcomes
+- No significant differences in:
+  - Glasgow Outcome Score at 90 days  
+  - Modified Rankin Score at 90 days  
+  - Proportion requiring endovascular treatment for vasospasm  
+  - Duration of ICU stay  
+
+### Tertiary Outcomes
+- Higher median noradrenaline use in intervention group  
+- Lower mean serum calcium concentration in intervention group  
+
+## Authors’ Conclusions
+Targeting high-range magnesium levels in SAH patients decreased vasospasm incidence, but not significantly. Larger trials are needed to determine if significant differences exist and if they improve patient outcomes.
+
+## Strengths and Weaknesses
+- **Strengths**
+  - Randomised controlled trial with allocation concealment  
+  - Blinded assessors for primary outcome  
+  - Good separation of magnesium levels between groups  
+  - Intention-to-treat analysis  
+
+- **Weaknesses**
+  - Underpowered study  
+  - Non-blinded ICU clinicians  
+  - No assessment of agreement between outcome assessors  
+  - Blood pressure not recorded, which may have influenced results  
+
+## Bottom Line
+This underpowered study found a non-significant reduction in vasospasm post-SAH with hypermagnesaemia. Larger trials are needed to confirm any significant differences and potential improvements in patient outcomes.
+
+## Competing Interests
+The lead author is an editor for The Bottom Line. This summary and critique were written and peer-reviewed independently.
+
+## External Links
+- **Original article**: [A randomised controlled trial of induced hypermagnesaemia following aneurysmal subarachnoid haemorrhage](https://www.thebottomline.org.uk/summaries/icm/bradford/)
+- **Further reading**: ICN & Celia Bradford: Vasospasm after SAH

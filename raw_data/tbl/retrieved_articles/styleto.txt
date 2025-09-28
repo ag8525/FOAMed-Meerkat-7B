@@ -1,0 +1,137 @@
+# Metadata
+- Source: The Bottom Line
+- Title: STYLETO
+- Original URL: https://www.thebottomline.org.uk/summaries/icm/styleto/
+- Scrape Date: 2025-07-17
+- Summary Date: AUTO_FILL_IF_AVAILABLE
+
+Effect of the use of an endotracheal
+tube and stylet versus an endotracheal tube
+alone on first‑attempt intubation success: a
+multicentre, randomised clinical trial in 999
+patients
+Jaber et al. ICM 20201; doi.org/10.1007/s00134-021-06417-y
+Clinical Question
+In critically ill adults, does the use of an intubating stylet compared to tracheal tube alone, increase first-attempt successful intubation?
+Background
+Acute respiratory failure requiring mechanical ventilation is one of the leading causes of ICU admission
+Intubation in the ICU setting has a higher complication rate compared to the operating theatre
+Various devices and strategies have been developed with varying success, complication and adoption rates
+The use of a preformed stylet has been proposed to increase first-attempt success rate
+Previous trial comparing bougie and stylet in the ED setting showed a higher 1st attempt intubation rate in the bougie group
+Design
+Unblinded, parallel-group, pragmatic randomised controlled trial
+Power calculations determined that a sample size of 1040 patients would provide 95% power to detect a 10% absolute difference between tracheal tube alone and stylet group with a type 1 error of 5% ; assuming 10% missing data
+Central randomisation in 1:1 ratio in blocks of variable sizes
+Treatment assignments were concealed from patients, research staff and the statistician
+The
+primary outcome
+was the proportion of patients with successful first-attempt intubation
+Success was defined by the presence of normal waveform capnography trace over 4 or more breaths (or in absence of capnography tube position was confirmed by auscultation of lungs and over stomach)
+The pre-specified
+secondary outcome
+was the proportion of patients who had at least one complication related to tracheal intubation (occurring within 1 hour of intubation):
+Hypoxia (Sats < 80% during intubation attempts)
+Cardiovascular collapse (sBP < 65 mmHg recorded at least once; sBP < 90 mmHg that lasted 30 mins despite up to 1L fluid loading; required use of vasoactive drugs; cardiac arrest)
+Death
+Operator-assessed difficult intubation
+Oesophageal intubation
+Operator-reported aspiration
+Arrhythmia
+Agitation
+Serious Adverse Events reported included:
+Mucosal bleeding
+Laryngeal, tracheal, mediastinal or oesophageal injuries
+Lowest peripheral oxygen saturation
+Highest FiO2
+Highest PEEP in the first 6 – 24hrs post-intubation
+Clinical outcomes (in addition to above)
+ICU length of stay
+ICU-free days within 1st 28-days post-intubation
+Invasive ventilator-free days within 1st 28-days post-intubation
+28-day mortality
+90-day mortality
+Setting
+32 ICUs in France
+Between October 2019 and March 2020
+Population
+Inclusion
+:
+Above 18 years of age
+Covered by public health insurance
+Required emergency mechanical ventilation through tracheal tube on the ICU
+Exclusion
+:
+Intubation following cardiac arrest
+Previous intubation on the ICU during same admission with prior inclusion in the study
+Pregnant or breastfeeding woman
+1626 screened who met inclusion criteria, 1040 randomised; 41 did not complete trial
+501 in stylet group, 498 in control group included in final analysis with no protocol deviation
+No significant difference
+in baseline or airway characteristics between groups
+Stylet group had a higher prevalence of low risk MACOCHA score (77.1% vs 75.2%)
+Intervention
+1st intubation attempt with a tracheal tube and a stylet with a bend angle of 25 to 35 degrees at the distal tip
+Control
+1st intubation attempt with tracheal tube alone
+Management common to both groups
+All other aspects of patient care during and after intubation was at the discretion of attending physicians
+Montpellier intubation protocol
+was recommended
+Operator characteristics (
+supplementary material
+)
+Higher proportion of senior anaesthetist in stylet group (13.4% vs 9.0%)
+Higher proportion of anaesthetic nurse in control group (5.1% vs 2.2%)
+Drug used for intubation
+Higher proportion of ketamine use in stylet group (72.2% vs 65.5%)
+Outcome
+Primary outcome
+: Higher incidence of successful first-attempt intubation in stylet group compared to control (78.2% vs 71.5%. p=0.01)
+Predefined subgroup (including operator factors) analysis did not modify this outcome
+Secondary outcomes
+:
+Comparing stylet vs. control group
+No significant difference in complication rates
+38.7% vs 40.2%, p=0.64
+No significant difference in serious adverse events
+4.0% vs 3.6%, p=0.76
+No significant difference in:
+Safety outcomes
+Traumatic injuries
+Clinical outcomes including length of stay and mortality
+Authors’ Conclusions
+In this multicentre, randomised trial involving critically ill adults undergoing tracheal intubation, the use of a stylet for tracheal intubation was safe and  resulted in significantly higher first-attempt intubation success than the use of a tracheal tube alone.
+Strengths
+Prepublished trial
+protocol
+Well conducted trial attempting to answer a relevant question with regards to airway management practice
+Inclusion criteria (with few exclusion criteria) reflective of ICU practice and hence likely to be generalisable
+Good balance of patients from all 32 sites that were involved in randomisation
+Results similar from previous studies (such as INTUBE) regarding rates of first pass success in ICU intubations
+NO
+protocol violations
+Predefined subgroup analysis of primary outcome included relevant factors
+Secondary outcomes were relevant
+Weaknesses
+Did not achieve recruitment target although the actual 1st attempt success rate in control group was as expected
+No blinding of the intervention was possible
+First pass success was primarily defined by capnography trace, yet only ~85% in each group used capnography. The proportion using capnography seems dangerously low for what should be mandated monitoring for all intubations within ICU
+Some adverse events (difficulty, injuries) were operator reported – this could result in underreporting
+Management of everything else pre, during and after intubation was at discretion of treating teams. It could be argued this is a bigger determinant of risk for adverse events happening (e.g. choice of drugs used) as opposed to the use of a stylet or not
+In both groups approximately 58% of intubations were done by anaesthetists – this is not reflective of practice in all ICUs
+The Bottom Line
+Successful intubation is the final outcome of a series of complex interactions between operator and devices used which are continually evolving
+The rate of successful 1st attempt success is surprisingly low
+Interestingly, the experience of the operator did not affect the primary outcome
+My current practice is to use a bougie in both direct and video-laryngoscopy with a low threshold for stylet in video-laryngoscopy depending on the view/situation
+External Links
+Effect of the use of an endotracheal tube and stylet versus an endotracheal tube alone on first‑attempt intubation success: a multicentre, randomised clinical trial in 999 patients
+Editorial
+ESICM Podcast with Samir Jaber
+INTUBE Study
+Metadata
+Summary author:
+Adrian Wong
+Summary date: 2nd June 2021
+Peer-review editor: George Walker

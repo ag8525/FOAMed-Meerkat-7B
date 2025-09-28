@@ -1,0 +1,135 @@
+# Metadata
+- Source: The Bottom Line
+- Title: Ferrari
+- Original URL: https://www.thebottomline.org.uk/summaries/ferrari/
+- Scrape Date: 2025-07-17
+- Summary Date: AUTO_FILL_IF_AVAILABLE
+
+Diuretics Versus Volume Expansion in the Initial Management of Acute Intermediate High‐Risk Pulmonary Embolism
+Ferrari E. Lung (2022); DOI:10.1007/s00408-022-00530-5
+Clinical Question
+In adult patients with acute pulmonary embolism and right heart strain does a strategy of volume expansion or early diuretic therapy result in a more rapid resolution of troponin levels?
+Background
+Acute pulmonary embolism (PE) is a common cause for hospital presentation
+Right heart strain is associated with an increased mortality in patient’s with PE
+Current ESC 2019 guidelines recommend consideration of ‘cautious fluid loading’ if CVP low
+Right ventricular (RV) dilatation may result in compression of the left ventricle and further compromise cardiac output
+This may be ameliorated by diuretic therapy
+Design
+Multi-centre, unblinded parallel group randomised controlled trial
+1:1 randomisation but remainder of randomisation strategy not documented
+Written informed consent
+No information regarding allocation concealment
+Study powered to 90% to demonstrate ‘superiority of diuretics’ in the normalisation of troponin at 72 hours
+44 patient required, but to offset any study exits 60 recruited
+No mention of anticipated effect sizes
+TTE performed at admission, 4 hours post treatment and then daily until normalisation or post ICU discharge
+All TTEs were checked by two blinded readers
+Troponin and BNP were measure on admission, then every 12 hours until normalisation
+Maximum time delay from definitive diagnosis to randomisation was 2 hours, and maximum time from randomisation to treatment was 1 hour
+All patients followed for at least 30 days
+Registered on clinical trials.gov (NCT02531581)
+Setting
+Multi-centre study but number of centres not reported
+The authors were from two hospitals in Cannes and Nice
+January 2016 – December 2019
+Population
+Inclusion
+: Patient presenting with acute pulmonary embolism confirmed on CT and all of:
+RV Dilatation (measured by RV:LV ratio > 0.9 in apical view or >0.7 in parasternal long axis)
+RV dysfunction tricuspid annular plane systolic excursion (TAPSE) < 16mm and RV lateral wall velocity (RV S’) < 10mm/s
+Troponin (Tn) 70ng/L and B-type natriuretic peptide (BNP) > 100 pg/mL
+Exclusion
+:
+Cardiogenic shock
+Need for thrombolysis
+Need for catecholamine infusion
+Cardiopulmonary resuscitation on admission.
+Severe chronic renal disease (GFR , 30ml/min)
+An IVC diameter < 21mm
+Already received fluid or diuretic therapy in the prior 24 hours
+Chronic diuretic use
+181 patients assessed for eligibility
+121 excluded
+Not meeting inclusion criteria (n=120)
+Declined consent (n=1)
+60 randomised
+30 volume expansion
+30 diuretic therapy
+Comparing baseline characteristics of intervention vs. control group
+Very similar between the two groups (volume expansion vs diuretic therapy):
+Median age: 75 vs 71
+Male: 17% vs 20%
+Baseline Vital Signs
+Median SBP (mmHg): 138 vs 132
+Median HR: 94 vs 91
+SpO2: 95% vs 95%
+Oxygen Rate: 3L/min v 3L/min
+Biomarkers
+Creatinine (μmol/L): 92 vs 89
+Troponin (ng/mL): 456 vs 620
+BNP (pg/mL): 384 vs 407
+ECHO Parameters
+RV:LV ratio on 4 chamber view: 1.15 vs 1.1
+TAPSE (mm): 14 vs 13
+RV S’ (mm/s): 9 vs 8
+Systolic pulmonary artery pressure (mmHg) 54 vs 58
+Intervention
+Volume expansion:
+500ml Saline infusion over 4 hours
+Followed by a further 1000ml over 24 hours
+Diuretic therapy:
+IV Furosemide bolus 40mg
+Further 40mg bolus after four hours in urine output < 500ml in that time period
+Management common to both groups
+Immediate therapeutic anticoagulation
+Thrombolysis if indicated by hypotension of cardiogenic shock
+Outcome
+Primary outcome
+:
+No difference in time to normalisation of Troponin concentrations (< 70 ng/L). 72 vs 76 hours (p = 0.74)
+Secondary outcomes
+:
+Biomarkers
+Longer time to normalisation of BNP in volume expansion group 108 vs 56 hours (p = 0.05)
+Time to 50% reduction in BNP shorter in diuretic group and greater proportion (47% vs 13%) of participants in diuretic group had reduction in BNP at hour 12
+ECHO Features
+Significantly greater reduction in systolic pulmonary artery pressure at 4 hours in diuretic group: 0 vs -7mmHg (p = 0.006)
+This was not significant at 24 or 48 hours
+Significantly greater reduction in IVC diameter at 4 hours: 0 vs -3 mm (p= 0.008)
+This was not significant at 24 or 48 hours
+No significant difference in any of the following parameters at 4, 24 or 48 hours:
+TAPSE
+RV S’
+Authors’ Conclusions
+A single intravenous bolus of 40 mg furosemide was well-tolerated
+Compared with volume expansion, intravenous diuretic therapy modifies neither Tn kinetics nor RV echocardiographic parameters but accelerates BNP normalization, and reduction in sPAP and IVC diameter significantly
+These findings, which need to be confirmed in trials with clinical end points, may translate to a rapid improvement in RV function using one-shot diuretic
+Strengths
+Well designed phase 2 trial
+Addresses a challenging clinical question in which there is little guidance
+Detailed ECHO and biomarker data obtained
+No loss to follow up
+Good separation between groups with respect to urine output
+Weaknesses
+Limited methodology provided in the manuscript makes assessing internal validity hard
+This was a Phase 2 trial that can only be hypothesis generating and further studies would be required prior to implementation in clinical practice
+Although the use of troponin or BNP at presentation has been used to risk stratify patients, it may not follow that normalisation of these biomarkers equates to improved prognosis
+The conclusion that RV function may be improved by the administration of diuretics is not directly supported by the trial data
+There was no measurement of cardiac output which may have been informative
+The Bottom Line
+When performing ECHO routinely on patients with PE,  right ventricular dysfunction is present in a high proportion (33% in this study)
+Diuretics will likely reduce right atrial pressure and pulmonary artery pressure when given to these patients but it is not clear this will change outcomes
+I will continue to aim to provide a tailored approach to maintain cardiac output in patients with PE – this may include modifying pre-load with fluid or diuretics, contractility with inodilators, and afterload with vasodilators and anticoagulants
+External Links
+Article:
+Diuretics vs Volume Expansion
+Further Reading:
+2019 ESC Guidelines
+Related Reading:
+TBL PE Summaries
+Metadata
+Summary author: Alastair Brown – @alastairbrown21
+Summary date: 9th June 2022
+Peer-review editor: George Walker
+Picture by: Pexels

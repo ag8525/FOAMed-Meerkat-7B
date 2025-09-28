@@ -1,0 +1,134 @@
+# Metadata
+- Source: The Bottom Line
+- Title: TRAUMOX2 – Early Restrictive vs Liberal Oxygen for Trauma Patients
+- Original URL: https://www.thebottomline.org.uk/summaries/icm/traumox2/
+- Scrape Date: 2025-07-17
+- Summary Date: AUTO_FILL_IF_AVAILABLE
+
+Early Restrictive vs Liberal Oxygen for Trauma Patients
+Arleth. JAMA 2024. doi: 10.1001/jama.2024.25786
+Clinical Question
+In adult patients experiencing blunt or penetrating trauma does an early restrictive oxygen strategy compared to a liberal oxygen strategy reduce death and/or major respiratory complications within 30 days?
+Background
+ATLS guidelines recommend that all severely injured patients should receive supplemental oxygen in the initial period following injury
+It has been shown that hyperoxaemia is a common finding in trauma patients
+However, there is little evidence to support this practice and whilst oxygen targets have been widely studied in the ICU population there are limited studies assessing optimal oxygen targets in the trauma population specifically
+Design
+Investigator-initiated, international, multi-centre, parallel-group, superiority trial
+Open-label design but outcome assessors blinded to group
+Randomised in a 1:1 ratio
+Sealed envelopes used
+Variable block sizes of 4,6,8
+Stratification variables included site (hospital vs pre-hospital) and intubation status
+1420 patients needed to show an absolute decrease in death +/- pulmonary complications of 5 % (15 to 10%) with 80% power at the 5% significance level
+Based on pilot study data (TRAUMOX1)
+Data recorded hourly with ABGs obtained at 1 hr (+/- 30 mins) and 6 hr (+/- 2 hrs) from randomisation
+Modified intention to treat analysis as post-randomisation exclusions allowed if discharge was expected within 24 hours due to no/minor injuries only on secondary survery
+Pre-specified subgroups
+Pre published statistical analysis plan and protocol and manuscripts written in duplicate before unblinding
+Setting
+15 pre-hospital bases and 5 major trauma centres (MTC) in Denmark, Netherlands and Switzerland
+December 2021 – September 2023
+Population
+Inclusion
+:
+≥ 18 years old
+Blunt or penetrating trauma
+Direct transfer from scene to participating MTC, triggering a full trauma team activation
+Initial belief that hospital stay was likely longer than 24 hours
+Enrollment possible in pre-hospital setting or on trauma centre admission
+Exclusion
+:
+Traumatic cardiac arrest
+Carbon Monoxide poisoning
+Patients that with no/minor injuries following secondary survey excluded if expected to be discharged < 24 hours
+5441 screened → 1979 randomised
+~20% of 3462 excluded were missed
+733 in restrictive group included in primary analysis
+233 excluded after randomisation (174 due to no/minor injury)
+15 withdrew consent and 2 lost to follow up
+724 in liberal group included in primary analysis
+236 excluded after randomisation (165 due to non or minor injury)
+32 withdrew consent and 2 lost to follow up
+Comparing baseline characteristics of restrictive vs. liberal group
+Age: 48 vs 51
+Male: 72 vs 73%
+Current Smoker: 27 vs 34%
+Blunt Trauma: 89 vs 90%
+Intubated at Randomisation: 24 vs 24%
+Pre-Hospital Randomisation: 41 vs 41%
+Time from injury to arrival at trauma centre: 58 vs 55 mins
+Time with supplemental oxygen prior to randomisation: 32 vs 30 mins
+First vital signs
+SBP < 90 mmHg: 7 vs 8%
+HR > 110: 14 vs 14%
+GCS < 9: 18 vs 19%
+Median ISS: 14 vs 14
+Discharge Location:
+ICU: 37 vs 32%
+OT: 22 vs 23%
+Ward: 40 vs 45%
+Intervention
+Use of a restrictive oxygen strategy
+Lowest dose of oxygen to maintain SpO2 of 94%
+PaO2 at 1 hour: 85 mmHg
+PaO2 at 6 hours: 86 mmHg
+Control
+Use of a liberal oxygen strategy
+Pre-hospital, Trauma Room and intra-hospital transportation: 15L/min or FiO2 1.0 in intubated patients
+In OT, ICU or Ward: at least 12L/min or FiO2 0.6 or higher
+PaO2 at 1 hour: 280mmHg
+PaO2 at 6 hours: 230mmHg
+Management common to both groups
+Both interventions continued for 8 hours
+All other treatment as per standard care
+Outcome
+Comparing restrictive vs liberal oxygenation strategies
+Major respiratory complications defined as pneumonia (CDC criteria) and ARDS (Berlin Criteria)
+Primary outcome
+:
+Death and/or major respiratory complications – no significant difference
+118/733 (16.1%) vs 121/724 (16.7%)
+Risk difference 0.56% (95% CI: -2.7 to 3.82)
+OR 1.01 (95% CI 0.75 – 1.37)
+No difference in pre-specified subgroups including intubation state, ICU admission, moderate/severe TBI, known lung disease, site of inclusion and ISS score > or < 15
+Secondary outcomes
+:
+No significant difference in:
+Death: 8.6 vs 7.3%, OR 1.28 (95% CI 0.85 – 1.92)
+Major Respiratory Complications: 8.9 vs 10.8%, OR 0.84 (95% CI 0.59 – 1.19)
+Exploratory outcomes:
+Significant (on adjusted OR) increase in hypoxaemic episodes and decrease in surgical site infection in restrictive group
+No difference in ICU readmission, sepsis or pneumonia post discharge
+Authors’ Conclusions
+The use of a restrictive compared to liberal oxygen strategy for 8 hours did no reduce the death and/or major respiratory complications within 30 days
+Strengths
+Randomised trial with maintenance of allocation concealment, with such a large number of pre-hospital patients, impressive given the concurrent competing challenges of managing this cohort of patients
+Median of ~ 50 minutes from injury to randomisation important
+Clear separation between groups achieved
+Minimal loss to follow up
+Low rates of protocol violations
+Weaknesses
+Post randomisation exclusions may introduce bias
+Paul Young highlighted in his editorial at CCR Down Under that maybe if allocated to liberal arm then discharge maybe less likely in those with minimal or no injuries within 24 hours if receiving 12L O2 than compared to a patient on the ward who was receiving less oxygen
+Open-label design
+Observed event rates lower than used in the power calculations
+The point estimates for the two components of the composite outcome pointed in different directions – this can make it challenging to interpret
+Is 8 hours long enough to show an effect?
+In animal models,
+damage caused by hyperoxia
+has been shown to occur within 12 hours
+Additionally, 60% of the restrictive group were randomised in-hospital and whilst the time with supplemental oxygen was relatively short (median 30 mins, IQR 15 – 53) prior to randomisation; it is plausible that prior exposure in the restrictive group may result in a contamination bias
+May not be generalisable to all settings e.g. LMIC
+Patient cohort not that unwell – median ISS 15 correlates with moderate severity of trauma, and low rates of physiological derangement
+The Bottom Line
+Based on this trial it seems reasonable to target normoxia (SpO2 94-98%) in the early phase for patients with moderate to severe trauma
+External Links
+article
+Early Restrictive vs Liberal Oxygen for Trauma Patients The TRAUMOX2 Randomized Clinical Trial
+CCR Down Under Day 2 Presentation
+Metadata
+Summary author: George Walker @hgmwalker89
+Summary date: 12th December 2024
+Peer-review editor: David Slessor
+Picture by: RDNE Stock Project/Pexels

@@ -1,0 +1,76 @@
+# Metadata
+- Source: The Bottom Line
+- Title: McCourt
+- Original URL: https://www.thebottomline.org.uk/summaries/icm/mccourt/
+- Scrape Date: 2025-07-17
+- Summary Date: AUTO_FILL_IF_AVAILABLE
+
+Comparison of rocuronium and suxamethonium for use during rapid sequence induction of anaesthesia
+McCourt. Anaesthesia 1998;53:867-871. doi: 10.1046/j.1365-2044.1998.00342.x
+Clinical Question
+In patients undergoing rapid sequence induction, does the use of suxamethonium or rocuronium (at a standard or higher dose), produce better intubating conditions?
+Design
+Randomised control trial
+Blinding of those performing laryngoscopy (not present in room until ~45 seconds after neuromuscular blocking agent given)
+Power calculation: 260 patients required to detect a difference of 10%
+probability of
+false negative result 20%
+false positive result 5%
+Setting
+2 centres – UK and Finland
+Population
+Inclusion: age 18-75 undergoing elective or emergency surgery requiring tracheal intubation
+Exclusion: pregnancy, weight deviated >35% from ideal weight; predicted/known difficult airway
+310 patients included in analysis out of 348 patients enrolled
+Intervention
+Rocuronium at either 0.6mg/kg or 1.0mg/kg
+After 50 patients included in both groups, study continued with whichever dose gave better intubating conditions
+Control
+Suxamethonium 1mg/kg
+All patients treated with pre-oxyenation, 1-2mcg/kg fentanyl,  3-5mg/kg thiopentone and cricoid pressure. Laryngoscopy performed 50 seconds after the end of injection of neuromuscular agent. Experience/seniority of person performing laryngoscopy not stated
+Outcome
+Primary outcome:
+Clinically acceptable intubating conditions (i.e. excellent or good) – no significant difference between suxamethonium 1mg/kg vs rocuronium 1mg/kg
+Intubation assessed using 3-point scoring system (excellent, good, or poor)
+Secondary outcomes:
+Frequency of good/excellent intubating conditions significantly higher in the 1mg/kg rocuronium  group vs.  0.6mg/kg rocuronium group
+excellent intubating conditions significantly more common in suxamethonium  vs rocuronium 1mg/kg group
+Authors’ Conclusions
+1mg/kg rocuronium provides acceptable intubating conditions and similar to suxamethonium
+Strengths
+Randomised
+Blinding of outcome assessors
+Assessed for unmasking i.e. asked if witnessed fasciculations from suxamethonium – occurred in 5 patients
+Standard induction technique (apart from intervention of interest)
+Important paper demonstrating that a ‘higher’ dose of 1mg/kg rocuronium is required to achieve comparable intubating conditions with suxamethonium for RSI
+Weaknesses
+38 (11%) excluded due to major protocol violations or unanticipated difficult intubations for anatomical reasons. This is a significant limitation as the muscle relaxant used may have affected whether or not there was an unanticipated difficult intubation, that may have incorrectly been ascribed to an anatomical reason. In addition as the staff administrating the drugs were non blinded any biases may have led to ‘major protocol violations’
+Sponsored by manufacturers of rocuronium
+Primary outcome was not a patient orientated outcome. However, without much larger number of patients an outcome such as 1st pass success would not have been adequately powered
+Did not report episodes of desaturation or any side-effects
+Experience of doctor performing laryngoscopy not reported
+The Bottom Line
+In patients undergoing a RSI, who were not anticipated to have a difficult airway, 1mg/kg suxamethonium and 1mg/kg rocuronium produced similar clinically acceptable intubating conditions. Suxamethonium was more likely than rocuronium to produce ‘excellent’ intubating conditions and is one of the reasons it is preferred by some clinicians. Whether this benefit would make a significant difference in patients with anticipated difficult airway
+and
+where ‘wake up’ is not an option is beyond the scope of this study. Rocuronium seems to be increasingly favoured in this situation as it provides similar early onset of muscle relaxation but lasts longer than suxamethonium. This may provide better conditions to allow ongoing airway management and if necessary progression to a surgical airway.
+External Links
+[article abstract]
+Comparison of rocuronium and suxamethonium for use during rapid sequence induction of anaesthesia
+[Further reading]
+LITFL
+[Further reading]
+St. Emelyns Best Bet Sux vs. Roc
+[Further reading]
+RESUSMe Less RSI desaturation with Roc
+[Further reading]
+RESUSMe More on Rocuronium (and Sugammadex)
+[Further reading]
+Cochrane review Sux vs. Roc
+[Further reading]
+PHARM Sux vs Roc – why Sux still holds an edge in RSI
+Metadata
+Summary author:
+@DavidSlessor
+Summary date: 20th October 2014
+Peer-review editor:
+@stevemathieu75

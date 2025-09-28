@@ -1,0 +1,114 @@
+# Metadata
+- Source: The Bottom Line
+- Title: AVOID
+- Original URL: https://www.thebottomline.org.uk/summaries/icm/avoid/
+- Scrape Date: 2025-07-17
+- Summary Date: AUTO_FILL_IF_AVAILABLE
+
+Air Versus Oxygen in ST-Segment Elevation Myocardial Infarction
+Stub. Circulation 2015; 131:2143-2150. DOI: 10.1161/circulationaha.114.014494
+Clinical Question
+In patients with ST-elevation-myocardial infarction (STEMI), without hypoxia, does receiving supplemental oxygen compared with no supplemental oxygen reduce early myocardial injury?
+Design
+Randomised, controlled clinical trial
+Computer-generated randomisation sequence
+Sealed opaque envelopes ensured allocation concealment
+Block randomisation; size/variability unclear
+Single blinded: clinicians and patients were aware. Outcome assessors and statisticians were blinded
+326 patients required to power the study at 90% to detect a 20% reduction in myocardial injury as assessed by peak cardiac troponin (cTnI) level and a probability of a type 1 error of 0.01.The sample size was increased to allow for an inaccurate prehospital diagnosis of STEMI. The final recruitment target was 600 prehospital randomisations, with 490 meeting inclusion criteria on arrival to hospital
+Setting
+Pre-hospital Ambulance Victoria and 9 metropolitan hospitals with 24-hour PCI in Melbourne, Australia
+October 2011 to July 2014
+Inclusion: adult patients with acute STEMI
+age >18
+chest pain <12 hours
+prehospital ECG evidence of STEMI, as determined by the paramedic, defined at ST-segment elevation of >0.1mV in 2 contiguous limb leads, or >0.2mV in 2 contiguous chest leads, or new LBBB pattern
+Exclusion: SaO
+2
+< 94%, bronchospasm requiring nebulised salbutamol with oxygen, altered conscious state or planned transport to a nonparticipating hospital
+638 patients were screened and randomised. 470 patients (74%) were subsequently included in analysis. All had emergent angiography
+50 patients excluded due to pre-hospital protocol violation
+118 excluded after physician assessment suggested an alternative diagnosis to STEMI
+Baseline characteristics similar: age; male preponderance; risk factors for cardiovascular disease; pain scores; physiology; and times to hospital arrival and medical intervention
+Intervention
+Oxygen group
+Patients received supplementary oxygen via face mask at 8L/min administered by the paramedics and continued until transfer from the cardiac catheter lab to the cardiac ward.
+1 patient did not receive oxygen in this group
+Control
+No oxygen group
+Patients did not receive oxygen unless SaO
+2
+<94% in which case they received oxygen via nasal prongs (4L/min) or a mask (8L/min) to achieve SaO
+2
+>94%
+17 patients required oxygen
+In both groups
+All patients received aspirin 300mg orally by paramedics. Additional antiplatelet therapy and choice of anticoagulation and PCI strategy were at the discretion of the treating interventional cardiologist.
+Time to PCI was similar between the 2 groups (150.5 minutes in oxygen group vs 162 minutes in no oxygen group p =0.09)
+There were similar procedural related details in the 2 groups such as use of stents, administration of GPIIb/IIIa antagonists
+Outcome
+Primary outcome: myocardial injury
+No difference in mean peak troponin level in the oxygen and no oxygen group
+57.4 vs 48 mcg/L (CI 0.92-1.56; p=0.18)
+Significant increase in mean peak creatinine kinase (CK) in the oxygen group compared with the no oxygen group
+1948 vs 1543 U/L (CI 1.04-1.52; p=0.01)
+Secondary outcome:
+Rate of major cardiac arrhythmia (sustained and nonsustained ventricular and atrial tachyarrhythmia) at hospital discharge
+No difference in the oxygen group compared with the no oxygen group
+40.4% vs 31.4% p= 0.05
+Recurrent myocardial infarction at hospital discharge
+Increased in the oxygen group compared with the no oxygen group
+5.5% vs 0.9% p=0.006
+Recurrent myocardial infarction at 6 months
+No significant difference
+7.6% vs 3.6% p=0.07
+Median infarct size at 6 months as determined by cardiac MRI (CMR)
+Increased in the oxygen group
+20.3 vs 13.1 p=0.04
+Only 32% received CMR
+Adverse events at 6 months: no difference
+Major cardiac events (all cause mortality, recurrent MI, repeat revascularisation, stroke) and STEMI
+46 (21.9%) vs 34 (15.4%) p=0.08
+Authors’ Conclusions
+This trial does not provide evidence that routine oxygen therapy for STEMI is beneficial and there is some suggestion that it may increase myocardial injury
+Strengths
+A relevant clinical question that challenges dogma. Clinical practice guidelines do not currently provide recommendations for oxygen therapy in STEMI
+Allocation concealment
+Intention to treat analysis of primary endpoints
+Only 3% lost to follow-up
+Outcomes assessed by blinded assessors
+Weaknesses
+Not generalisable to all AMI, only STEMI
+Treatment not blinded
+Primary outcome measures are surrogate endpoints
+The median saturation in the oxygen arm was 100% and 98% in the no oxygen arm. This difference may not be clinically significant. PaO
+2
+would be a better marker of hyperoxia
+No information given about the location of the occlusion, although the culprit artery and extent of disease was documented. A more proximal occlusion would cause a greater infarct size and it is not clear if there is a difference between the oxygen and no oxygen group regarding this
+Secondary outcomes were not analysed on a intention to treat basis
+Not powered to detect differences in clinically meaningful outcomes
+Only 32 % of patients had follow-up cardiac magnetic resonance (CMR) imaging which makes interpretation of this result impossible
+The Bottom Line
+This trial fails to show any benefit in giving oxygen to normoxic patients with STEMI undergoing PCI and may in fact cause harm
+The results should be interpreted cautiously as the endpoints are surrogate outcomes only
+However, there is sound physiological evidence to suggest hyperoxia is harmful
+We await results of An Efficacy and Outcome Study of Supplemental Oxygen Treatment in Patients With Suspected Myocardial Infarction (DETO2X-AMI) which has clinical meaningful morbidity and mortality outcomes
+External Links
+[article abstract]
+Air Versus Oxygen in ST-Segment Elevation Myocardial Infarction
+[further reading]
+An Efficacy and Outcome Study of Supplemental Oxygen Treatment in Patients with Suspected Myocardial Infarction (DETO2X-AMI)
+[further reading]
+2013 ACCF/AHA Guideline for the Management of ST-Elevation Myocardial Infarction
+[further reading]
+Cabello. Oxygen therapy for acute myocardial infarction. Cochrane Database Syst Rev. 2013;8
+[blog]
+Oxygen: Friend or Foe? Emergency Medicine Literature of Note. Ryan Radecki
+[podcast]
+PreSMACC MiniRage
+Metadata
+Summary author:
+@celiabradford
+Summary date: 17th September 2015
+Peer-review editor:
+@stevemathieu75

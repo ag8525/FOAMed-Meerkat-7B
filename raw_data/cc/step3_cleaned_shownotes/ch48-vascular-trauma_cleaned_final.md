@@ -1,0 +1,256 @@
+```yaml
+title: "CrackCast Episode 186: Vascular Trauma"
+url: "https://canadiem.org/crackcast"
+date: 2016-11
+source: "CanadiEM – CrackCast"
+original_file: "Ch.48 Vascular Trauma.pdf"
+summary: |
+  Vascular trauma encompasses both occlusive and non-occlusive injuries, with occlusive injuries such as transection, thrombosis, and reversible spasm leading to complete loss of perfusion, while non-occlusive injuries like intimal flap, dissection, arteriovenous fistula, and pseudoaneurysm preserve some blood flow. The management of vascular injuries has evolved with advances in diagnostic imaging and surgical techniques, significantly reducing amputation rates. Key diagnostic tools include physical examination, Ankle-Brachial Index (ABI), Arterial Pressure Index (API), and imaging modalities like CT angiography and duplex ultrasound. Management in the emergency department focuses on maintaining hemodynamic stability, controlling hemorrhage, and preparing for surgical intervention, with a priority on vascular repair over orthopedic procedures. Complications of vascular trauma can include delayed thrombosis, claudication, chronic pain, edema, and aneurysm formation, necessitating careful follow-up and potential surgical repair.
+```
+
+## Overview
+
+### Rosens in Perspective
+
+Bottom Line: PVI comes down to:
+
+Occlusive (transection, thrombosis, and reversible spasm) vs Non-Occlusive Injuries (intimal flap, dissection, arteriovenous fistula [AVF], & pseudoaneurysm)
+
+With the advances in angiography and primary artery re-anastomosis, limb amputation rates have dropped from 40-73% (when ligation was the only option) to 5-21% in high-velocity military situations (lower in civilian settings).
+
+Non-invasive diagnostic modalities have further decreased the need for angio and surgery.
+
+### Etiology of Peripheral Vascular Trauma
+
+**Blunt Trauma**  
+Less commonly leads to vascular injury, but are usually more severe leading to amputation. Avulsion forces (stretching), crush forces, associated fracture fragments can lacerate/entrap vessels.
+
+Massive avulsion forces - if the skin is torn, vessels and nerves will tear too. Electrical, lightning, burn injuries, prolonged immobilization, compartment syndrome.
+
+**Penetrating Trauma**
+
+**Iatrogenic:**  
+⅓ of vascular injuries in some reviews (due to percutaneous vascular treatments (heart CATH, central lines, etc.))
+
+**GSW/stabbing related:**  
+MOST common cause of vascular injury in the USA: the young healthy male in an inner-urban city area.
+
+Often venous and/or arterial injury.
+
+**GSW factors:**  
+Higher velocity = higher incidence of injury. Even if a bullet doesn’t transect an artery, the soft tissue distension and recoil shockwave can cause a concussive injury leading to intimal artery thrombosis with a delayed presentation days after (and beyond the missile path!)
+
+**Stab wounds:**  
+Partial laceration often leads to delayed complications. Location determines injury!
+
+**Shotgun wounds:**  
+Significant damage at <3 m. Pellets can migrate through the venous/arterial system as a delayed complication.
+
+**Combination:**  
+Animal bites, crush wounds, blast wounds.
+
+### Pathophysiology
+
+Ischemia to distal tissues → anaerobic metabolism consumes all substrate → irreversible cell disruption and death. → edema → progression of damage.
+
+## Core Questions
+
+### 1. List three types/mechanisms of occlusive and four types of non-occlusive vascular injuries.
+
+**Occlusive = all perfusion is lost**  
+- Transection may have pulsatile bleeding. Vessels usually retract and spasm, unless longitudinal cut or venous injuries.
+- Thrombosis: intraluminal thrombosis acutely due to stasis OR clot formation due to scarring may be delayed.
+- Reversible arterial spasm: segmental arterial spasm post-trauma that can cause distal ischemia. Common in children. Reverses with:
+  - Warm saline compresses
+  - Topical nitrates
+  - IV nitrates
+  - CCBs
+  - Alpha blockers
+  - Prostaglandins
+
+**Non-occlusive = some residual flow is preserved**  
+- Intimal flap / Dissection: excessive stretch / concussion = Intima tear becomes nidus for thrombosis days-weeks post-injury. Treatment: antiplatelet agents.
+- Compartment Syndrome: after crush/long bone # or reperfusion injury. Symptoms may progress due to progressive edema in the tissue space. Pulses may be palpable until very LATE in the course. Require frequent re-assessments.
+- AV fistula: both artery and adjacent vein injured and form a connection. High-pressure arterial flow overcomes venous flow (engorgement). May have bruit/thrill. May have distal ischemia or high-output heart failure.
+- Pseudoaneurysm: tear in the adventitia - leading to hemorrhage enclosed in fascia. Under arterial pressure → compresses adjacent tissue. Communicates with intima → can cause embolisms. Present days/months later with compression neuropathy, peripheral arterial embolism, or “tumor.”
+
+### 2. What are the hard and soft signs of peripheral vascular injury?
+
+**Basic first aid:**  
+Compress bleeding source with one finger / a TQ. Control other life threats.
+
+People with massive injuries don’t survive to hospital. Those who do may have subtle, occult, claudication, peripheral embolization. Be sure to ask about previous trauma in the last few months!
+
+**Classification based on:**  
+- **Hard signs:** > 90%
+  - H - expanding Hematoma that’s pulsatile
+  - A - arterial, pulsatile bleeding
+  - R - bRuit or thRill
+  - D - Don't feel Distal pulse
+
+- **Soft signs - 35% risk of + angiographic injury**
+  - Diminished pulse in comparison to the other side
+  - Isolated peripheral nerve injury: Penetrating injury to the nerve usually damages the adjacent artery. Look for IMMEDIATE post-penetrating injury nerve dysfunction.
+  - History of severe hemorrhage in the field
+  - Unexplained hypotension
+  - Large non-pulsatile hematoma
+
+**High-risk wounds based on mechanism and LOCATION**  
+- Penetrating injury that is “near” to major neurovascular bundle (AC fossa, axilla, popliteal fossa, groin)
+- Bites from dogs/cats
+- Fractures
+- Crush injuries/dislocations
+
+### 3. What are maximum cold and warm ischemia times?
+
+- **Warm ischemia** = no specific measures to cool a limb with compromised blood flow (i.e., the limb is at room temperature). 6 hrs until complete muscle and nerve damage. After that, 10% of people will have irreversible damage. After 12 hrs, 90% will have irreversible damage.
+- **Cold ischemia** = cooling the affected limb to just above freezing. To reduce metabolic demands of the underperfused tissues. Then the tissue can usually tolerate up to 24 hrs of ischemia (or more?).
+
+### 4. How are vascular injuries diagnosed in the ED? List 5 investigations that assist in the diagnosis of peripheral vascular injury other than physical exam.
+
+**History and physical combined are 92% sensitive and 95% specific for appropriate triage into surgery, imaging, and observation (except for GSW and blast injuries).**
+
+**History**  
+- Clear onset and mechanism of injury (e.g., crush vs. bite vs. GSW!)
+- Occupation and hand dominance
+- Medical comorbidities, asplenia, steroid use.
+- Other co-injuries that limit the extremity neurological exam.
+
+**Physical exam:**  
+- Pulse palpation for strength/quality (inaccurate)
+- False positive pulse deficit in 10-27% of cases
+- False negative findings through a non-occlusive lesion
+- Compressive casts should be removed!
+- They may have collateral flow
+- Palpate BOTH limbs
+- Test for two-point discrimination on both extremities
+- Bruit auscultation (for AV fistula)
+- Re-examine hematoma for expansion / pulsatility
+
+**Investigations:**  
+- X-ray: only useful for suspected fractures or foreign bodies
+- Pulse oximetry: of little to no use - very inconsistent
+- Hand-held doppler: most useful when used to calculate ABI/API
+- Basics: Ankle-Brachial Index / Arterial Pressure Index / Pulse Ox / Hand Doppler
+- Normal arterial flow has a high-pitched triphasic quality
+- Duplex ultrasound (B-mode and doppler ultrasound) is most accurate for finding partial vessel obstructions. Unless in the area: profunda femoris, profunda brachii, iliac, and subclavian vessels. 83-100% sensitivity, 99% specificity.
+- CT: With contrast enhancement: 93-100% sensitivity and 87-100% specificity compared to catheter-based angiography.
+- MRI = of no current usefulness acutely
+- Formal Arteriography: Requires an IV catheter shooting dye directly into the vessel. Less frequently needed. Benefits: Bullet artifacts, orthopedic hardware, no problem with out-of-phase contrast injection. Can be diagnostic and therapeutic to treat pseudoaneurysm, AV fistulae, injection to dissolve thrombolytic agents. 99% sensitivity, and 97% specificity.
+
+### 5. How do you measure the arterial pressure index (API)? What is an abnormal result?
+
+**Thought process:**  
+API: comparison of systolic BP in the injured vs. uninjured limb. Think of the API as: “the injured limb is what we care about, so it's the “top!” Priority and therefore the injured leg systolic pressure is the numerator (on “top”) divided by the uninjured limb.
+
+Think of the score like a score on a test: anything less than 90% is bad, 90-99% is “pretty” good, but once you get 100%, the “limb” passes the test.
+
+**From LITFL:**
+
+**Upper extremity:**  
+- The patient is placed supine with the cuff placed on the injured upper extremity.
+- The ipsilateral brachial artery is detected with a Doppler device until the brachial artery is clearly heard. Alternatively, the cuff can be placed on the forearm and the ulnar or radial arteries are assessed (the cuff has to be distal to the injury!).
+- The cuff is pumped up 20 mmHg past the point where the Doppler sound disappears. The cuff is slowly released until the Doppler device picks up the arterial sound again (the systolic pressure).
+- The pressure at which this sound occurs is recorded and the procedure is repeated for the opposite uninjured upper extremity.
+
+**Lower extremity:**  
+- The patient is placed supine with the cuff placed on the injured lower extremity.
+- The ipsilateral dorsalis pedis or posterior tibial artery is detected with a Doppler device until the artery is clearly heard.
+- The cuff is pumped up 20 mmHg past the point where the Doppler sound disappears. The cuff is slowly released until the Doppler device picks up the arterial sound again (the systolic pressure).
+- The pressure at which this sound occurs is recorded and the procedure is repeated for the opposite uninjured lower extremity.
+- The blood pressure is also measured at the brachial artery in an uninjured upper extremity.
+
+**API Calculation**  
+API calculated by: API = the systolic pressure of the injured extremity (ankle or forearm) divided by the brachial systolic pressure in the uninjured upper extremity. Cutoff is 0.9. API > 0.9 is highly unlikely to have a vascular injury and may be observed/discharged depending on the nature of any other injuries, premorbid and social factors.
+
+Rosen’s states that people with a score of 0.9 -0.99 should be observed for 12-24 hrs with a repeat PE and API.
+
+Anyone with API >0.99 and a normal exam can be discharged home and you can avoid doing a CT angio.
+
+API < 0.9 indicates possible vascular injury: requires further evaluation, preferably by computed tomography angiogram (CTA). Doppler ultrasound (50-100% sensitive, 95% specific) can be used as an alternative, and surgeons can perform intraoperative angiograms under fluoroscopy. 100% PPV and 95% NPV!
+
+**Limitations of API:**  
+- If both limbs are injured or there is too much soft tissue injury preventing doppler measurement and BP cuff testing.
+- If there is an intimal flap allowing partial flow.
+- Good collateral flow (Proximal subclavian and iliac).
+- Arteries with NO palpable pulses: Profunda femoris, profunda brachii, peroneal arteries.
+- Shotgun wounds.
+- ***Will NOT find venous injuries!!***
+
+### 6. How are vascular injuries managed in the ED?
+
+**From litfl.com (http://lifeinthefastlane.com/trauma-tribulation-030/)**
+
+**From Rosen’s:**
+
+For suspected injuries:  
+Manage proximity wounds over 24 hrs, and reserve CTA for those with abnormal physical findings or an ABI/API <0.9.
+
+Hypotensive patients should have a goal systolic BP of 90 mmHg to avoid “popping the clot” and need open surgical repair.
+
+The surgery may include a temporary shunt, end-to-end reanastomosis, or saphenous vein graft.
+
+At high risk for compartment syndrome post-surgery.
+
+Need broad-spectrum antibiotics.  
+***Vascular repair is prioritized over orthopedic repair***
+
+For wilderness situations:  
+- Tourniquet
+- Foley catheter in orifice, then blow it up with saline!
+- 50-70% of patients with severely mangled limbs and multi-trauma may need field amputation.
+- Attempt to maximize success with extremity cold packs.
+
+**Special populations:**  
+- Venous injuries poorly identified by imaging.
+- Children have small vessels with high risks of vasospasm - they need standard catheter-based angiography.
+
+### 7. List 5 late complications of major vascular injury
+
+1. Delayed Thrombosis (e.g., post-operative anastomoses or shunt placement)
+2. Intermittent claudication
+3. Chronic pain (nerve compression / ischemia)
+4. Edema (venous compression / elevated compartment pressure)
+5. Aneurysm / Pseudoaneurysm formation
+
+Almost all these need scheduled repair, especially in children. Delayed amputation!
+
+## Wisecracks
+
+### 1. List 4 causes of a pulse deficit other than vascular injury
+
+- Congenitally absent vessel
+- Vasospasm (Careful, this can be a sign of vascular injury)
+- Shock / low BP
+- PVD
+- Provider Error !!!
+
+### 2. Name all the main branches of arterial vessels in the upper and lower extremity
+
+**Upper limb:** axillary > brachial > PA / SUCA / IUCA > CIA / ulnar artery / radial artery  
+**Lower limb:** external iliac > femoral artery > Popliteal artery > PT / AT → DP  
+Profunda femoris > LFCA
+
+### 3. Which vessel in the upper extremity is most commonly injured? In the lower extremity?
+
+**Upper extremity:**  
+- Brachial artery !!!
+- But don’t forget:
+  - Axillary Artery / Vein - posterior shoulder dislocation
+  - Subclavian artery - penetrating thoracic trauma (associated hemo/pneumothorax brachial plexus injury)
+  - Pulses may be normal in up to 60% of cases.
+  - ***API’s are inaccurate due to collateral flow!***
+
+NEED a CTA or true angiography.  
+Blunt injuries from clavicle # or dislocation with associated brachial plexus injuries.
+
+Subclavian vein much more lethal > artery injury - due to high risk of Air embolism.
+
+**Lower extremity:**  
+- Femoral artery and vein injuries - think penetrating wounds >> intertroch # and hip dislocation, iatrogenic injury from femoral artery line placement.
+
+### 4. Describe options for the diagnosis of vascular injury following posterior knee dislocation.
+
+- Approach 1 - routine arteriography on every case of knee dislocation.
+- Approach 2 - CTA or arteriography on selected cases in which vascular injury is not clear based upon physical exam / ABI measurement / abnormal color or flow Doppler or duplex scan.
+- Approach 3 - Physical exam and API - if both normal then you’re done!

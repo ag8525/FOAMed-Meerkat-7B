@@ -1,0 +1,95 @@
+# Metadata
+- Source: The Bottom Line
+- Title: Anderson
+- Original URL: https://www.thebottomline.org.uk/summaries/icm/anderson/
+- Scrape Date: 2025-07-17
+- Summary Date: AUTO_FILL_IF_AVAILABLE
+
+Low-Dose versus Standard-Dose Intravenous Alteplase in Acute Ischemic Stroke
+Anderson CS et al. NEJM 2016 DOI: 10.1056/NEJMoa1515510
+Clinical Question
+In patients with acute ischaemic stroke, is low-dose thrombolysis therapy with intravenous alteplase non-inferior to standard-dose therapy with respect to death and disability at 90 days?
+Design
+One aspect of Enhanced Control of Hypertension and Thrombolysis Stroke Study (
+ENCHANTED
+) which also looks at early intensive lowering of BP
+Prospective, randomized
+Open-label trial with blinded outcome assessors
+Non-inferiority
+Follow up evaluation carried out in person or by telephone by trained and certified staff
+Sample size 3300 patients: 90% power for detecting non-inferiority relative margin of 14%, assuming 5% dropout
+Setting
+International, multicentre
+111 centres in 13 countries; Asia, Australia/New Zealand, Europe and South America
+March 2012 – August 2015
+Population
+Inclusion:
+≥18 years with a clinical diagnosis of acute ischemic stroke confirmed by brain imaging
+able to receive thrombolysis treatment within 4.5 hours of symptom onset
+were previously independent, as defined by a prestroke functional ability of 1 or less on the modified Rankin scale (mRS)
+systolic blood pressure ≤185 mmHg
+patients with higher BP can still be included provided the BP is reduced to the entry level prior to commencement of alteplase
+Exclusion
+unlikely to benefit from the therapy due to pre-existing disability (e.g. advanced dementia) or very high likelihood of death within 24 hours
+another medical illness that interferes with outcome assessments
+unlikely to adhere to follow-up procedures
+no consent to participate
+previously enrolled in
+ENCHANTED
+69305 screened, 3310 randomised
+Intervention:
+Low-dose group (n=1650)
+rtPA 0.6 mg/kg i.v. alteplase, maximum total dose of 60mg
+15% bolus (maximum bolus dose of 9mg)
+infusion of the remainder of the total dose over 60 minutes
+Control:
+Standard-dose group (n=1643)
+rtPA 0.9 mg/kg i.v. alteplase, maximum total dose of 90mg
+10% bolus (maximum bolus dose of 9mg)
+infusion of the remainder of the total dose over 60 minutes
+Outcome
+Primary: No significant difference in modified Rankin Score of 2-6 (indicates a poor outcome with increasing degree of disability and death)
+Secondary:
+Incidence of symptomatic intracranial haemorrhage reduced in the low-dose alteplase group
+Mortality at 7 days reduced in low dose group: 3.6% vs 5.3% (odds ratio, 0.67; 95% CI, 0.48 to 0.94; P=0.02)
+No significant difference between groups in incidence of:
+Death of major disability
+Death within 90 days
+Overall health utility score on EQ-5D
+Admission to residential care
+Median duration of hospitalization
+Death or neurological deterioration within 72 hours
+Serious adverse events
+Authors conclusion
+In patients with acute ischaemic stroke who were eligible for thrombolysis, low-dose alteplase was not shown to be non-inferior to standard dose in terms of death and disability
+Strengths
+International, multicentre
+Assessor blinded
+Thrombolysis protocol based on most commonly adopted practice
+Weakness
+Over 60% of patients recruited were Asian which may limit external validity
+Not powered to detect difference between Asian and non-Asian population
+Main reasons patients with ischaemic stroke were excluded was inability to deliver thrombolysis therapy within 4.5 hours
+Approximately 10% of patients in both groups were excluded in final per-protocol analysis
+No consideration of occlusion site or interventional recanalisation strategies
+The Bottom Line
+Data from previous meta-analysis suggest an increase risk of symptomatic and fatal intracranial haemorrhage with the use of thrombolysis. This trial fails to demonstrate non-inferiority (or superiority) of low-dose alteplase compared to standard-dose. With the results of this trial, standard dose alteplase should remain in institutions that are able to provide thrombolytic therapy for acute ischaemic stoke.
+External links
+[Article]
+Low-Dose versus Standard-Dose Intravenous Alteplase in Acute Ischemic Stroke
+[Further reading]
+Supplementary material
+[Further reading]
+Thrombolysis in acute ischaemic stroke: time for a rethink?
+[Further reading]
+LITFL: Stroke Thrombolysis
+[Further reading]
+R.E.B.E.L EM: The ENCHANTED Trial: Is Low-Dose the Right Dose for Intravenous tPA in Acute Ischemic Stroke?
+[Further reading] EMNerd (EMCrit)
+The Case of the Non-inferior Inferiority Continues
+Metadata
+Summary author:
+Adrian Wong
+Summary date: 25th May 2016
+Peer-review editor:
+Dave Slessor

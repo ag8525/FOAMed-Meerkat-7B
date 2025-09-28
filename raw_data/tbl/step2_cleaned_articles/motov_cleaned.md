@@ -1,0 +1,103 @@
+```yaml
+---
+source: The Bottom Line
+title: Motov Trial
+original_url: https://www.thebottomline.org.uk/summaries/em/motov/
+scrape_date: 2025-07-17
+summary_author: @davidslessor
+summary_date: 2015-09-17
+peer_review_editor: @duncanchambler
+summary: "Will be added later"
+---
+
+# Intravenous Subdissociative-Dose Ketamine Versus Morphine for Analgesia in the Emergency Department: A Randomized Controlled Trial
+
+## Clinical Question
+In patients with acute, moderate to severe pain in the emergency department (ED), does ketamine compared with morphine reduce pain scores by an equivalent amount?
+
+## Design
+- Randomised controlled trial  
+- Double-blinded  
+- Block randomisation  
+- Convenience sample (required both study investigator and ED pharmacist availability)  
+- Sample size of 90 provided at least 83% power to detect a difference of at least 1.3 in pain score (SD assumed = 3) at 30 minutes, with a false positive rate of 5%  
+
+## Setting
+- Single-centre  
+- Community teaching ED in the USA  
+- Study period: June 2013 to May 2014  
+
+## Population
+
+**Inclusion Criteria:**
+- Age 18-55  
+- Presented with acute (<7 days) abdominal, flank, back, or musculoskeletal pain  
+- Pain score of ≥ 5  
+- Required opioid analgesia as determined by treating physician  
+
+**Exclusion Criteria:**
+- Pregnancy, altered mental status, allergy  
+- Weight <46 kg or >115 kg  
+- Unstable vital signs, acute head or eye injury, seizure  
+- Chronic pain, renal or hepatic insufficiency  
+- Alcohol or drug use, psychiatric illness  
+- Opioid use within previous 4 hours  
+
+**Enrollment:**
+- 90 patients randomised  
+
+## Intervention
+- 0.3 mg/kg ketamine  
+
+## Control
+- 0.1 mg/kg morphine  
+
+**For both groups:**
+- Medication prepared by pharmacist in 10 ml of normal saline, administered as an IV push over 3-5 minutes  
+- Fentanyl 1 mcg/kg given as rescue analgesic if pain score of ≥ 5 and requested analgesia  
+
+## Outcomes
+
+### Primary Outcome
+- Reduction of pain score at 30 minutes: no significant difference  
+  - Ketamine vs. morphine mean difference: 0.2 (95% CI: -1.19 to 1.46, p = 0.97)  
+
+### Secondary Outcomes
+- Need for rescue analgesia at 30 or 60 minutes: no significant difference  
+- Vital signs:  
+  - No significant difference in pulse rate at 15 or 30 minutes  
+  - Systolic and diastolic BP, and respiratory rate significantly higher at 15 minutes in ketamine group; no significant difference at 30 minutes  
+
+**Adverse Events:**
+- Significantly greater number of patients reported adverse effects immediately after medication injection and at 15 minutes, predominantly dizziness and disorientation  
+- Equivalent at 30 minutes  
+- No serious adverse effects in either group  
+
+**Post-hoc Analysis:**
+- Complete resolution of pain at 15 minutes: significantly greater in ketamine group  
+- Complete resolution of pain at 30 minutes: no significant difference  
+- Need for rescue analgesia at 120 minutes: significantly greater in ketamine group  
+
+## Authors’ Conclusions
+Subdissociative ketamine is effective and safe as morphine for the treatment of acute pain.
+
+## Strengths and Weaknesses
+- **Strengths**
+  - Randomised controlled trial  
+  - Double-blinded  
+  - Allocation concealment maintained  
+- **Weaknesses**
+  - Single-centre  
+  - Convenience sample  
+  - Potential for unblinding due to effects of ketamine (e.g., nystagmus)  
+  - Absence of delirium reporting beyond 30 minutes  
+  - Lack of data on ketamine's impact on drug-seeking behaviour  
+
+## Bottom Line
+In patients with acute moderate to severe pain, subdissociative ketamine achieved a similar reduction in pain scores compared with morphine. It resulted in an increased number of minor side effects post-injection, which resolved by 30 minutes. Further evidence is required to change from the current standard of morphine.
+
+## External Links
+- **Article abstract:** [Intravenous Subdissociative-Dose Ketamine Versus Morphine for Analgesia in the Emergency Department: A Randomized Controlled Trial]  
+- **Further reading:** EM Literature of Note  
+- **Further reading:** St Emlyn’s: K is Good For You – Subdissociative Ketamine vs Morphine in the ED
+```

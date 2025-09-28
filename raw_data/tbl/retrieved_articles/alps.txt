@@ -1,0 +1,108 @@
+# Metadata
+- Source: The Bottom Line
+- Title: ALPS
+- Original URL: https://www.thebottomline.org.uk/summaries/alps/
+- Scrape Date: 2025-07-17
+- Summary Date: AUTO_FILL_IF_AVAILABLE
+
+Amiodarone, Lidocaine, or Placebo in Out-of-Hospital Cardiac Arrest
+Kudenchuk. NEJM 2016; April 4:online. doi:10.1056/NEJMoa1514204
+Clinical Question
+In adult patients with nontraumatic out-of-hospital cardiac arrest and shock-refractory ventricular fibrillation (VF) or pulseless ventricular tachycardia (pVT), does amiodarone or lidocaine along with standard care result in improved survival and more favourable neurological outcome compared with placebo?
+Design
+Double-blind, randomized control trial
+Multi-center
+Randomization was performed in permuted blocks of concealed size and was stratified to site and Emergency Medical Service (EMS) agency
+Sample size 3026; Amiodarone (974), Lidocaine (993), Placebo (1059)
+Primary analysis included only those randomly assigned who actually met all eligibility criteria and had an initial (rather than secondary) rhythm of VF of pulseless VT (per-protocol population)
+Intention to treat analysis in all randomly assigned patients (included those with secondary rhythm of VF or pVT)
+90% power to detect an absolute difference of 6.3 percentage point difference in survival to hospital discharge between the amiodarone group and the placebo group
+Interim reviews were conducted twice/year with formal stopping boundaries
+Setting
+55 EMS agencies at 10 North American sites
+May 7 2012 – October 25 2105
+Population
+Inclusion: adult patients with non-traumatic cardiac arrest and shock-refractory VF or pVT with intravenous or intraosseus access
+shock-refractory was defined as persistent or recurrent VF or pVT after one or more shocks anytime during resuscitation
+Exclusion: patients who had already received open-label lidocaine or amiodarone during the resuscitation or who had a hypersensitivity to these drugs
+4653 were included in the intention-to-treat analysis. This was reduced to 3026 for the per-protocol population analysis
+The baseline characteristics of each group were well matched
+Prespecified subgroups were:
+Witnessed arrest, bystander CPR, location, time to drug, route of drug, continuous or interrupted chest compressions, survival at the site and EMS drug-administration practice
+Intervention
+Trial drugs were packaged in identically appearing sealed kits each having 3 identically formulated syringes
+Each syringe held 3ml of colourless fluid containing
+Amiodarone 3 x 150mg
+OR
+Lidocaine 3 x 60mg
+OR
+0.9% sodium chloride
+The initial dose of the drug consisted of 2 syringes as a bolus (or 1 syringe if body weight estimated to be <45kg). If VF or pVT persisted another syringe was delivered
+Control
+0.9% sodium chloride
+In Both Groups
+Standard Advanced Life Support algorithm
+Post-cardiac arrest care in accordance with the
+2008 ILCOR Consensus Statement
+was encouraged
+Outcome
+Primary outcome: Survival to hospital discharge
+Amiodarone group (24.4%), Lidocaine group (23.7%), Placebo (21%).
+Absolute risk difference:
+amiodarone vs placebo 3.2% (95%CI -0.4 to 7.0) P=0.08
+lidocaine vs placebo 2.6% (95% CI -1.0 to 6.3) P=0.16
+amiodarone vs Lidocaine 0.7% (95% CI -3.2 to 4.7) P=0.70
+Secondary outcome: Survival with favourable neurological outcome at hospital discharge were similar in all groups (amiodarone 18.8%, lidocaine 17.5%, placebo 16.6%)
+Subgroup analysis:
+In patients with a witnessed arrest, survival to discharge was higher in the intervention group
+by-stander witnessed arrest: 27.7% (amiodarone) vs 27.8% (lidocaine) vs 22.7% (placebo)
+absolute risk difference:
+amiodarone vs placebo: 5% (95% CI 0.3 – 9.7) P=0.04
+lidocaine vs placebo: 5.2% (95% CI 0.5 – 9.9) P=0.03
+no statistical difference between amiodarone and lidocaine
+EMS witnessed arrest: 38.6% (amiodarone) vs 23.3% (lidocaine) vs 16.7% (placebo)
+absolute risk difference of 21.9% favouring amiodarone over placebo (95% CI 5.8 – 38.0) P=0.01
+no statistical difference between lidocaine and placebo
+In patients with an unwitnessed arrest, survival did not differ between trial groups
+Patients receiving placebo were more likely to receive the additional dose of the trial drug (P=<0.01), more shocks (P=<0.01) and other rhythm-control medications and less likely to survive to hospital admission (P=0.01)
+Patients receiving amiodarone or lignocaine were less likely to require further CPR in hospital
+Adverse events: patients receiving amiodarone were more likely to require temporary pacing in the first 24 hours (4.9% vs lidocaine 3.2% vs placebo 2.7% P=0.02)
+In the intention-to-treat analysis there was no difference in outcomes between the groups
+Authors’ Conclusions
+Neither amiodarone nor lidocaine increased survival or good neurological outcome compared with placebo in out-of-hospital cardiac arrest
+Strengths
+RCT
+Multicentre
+Clinically meaningful outcome
+Allocation concealment and double blinding
+patients, investigators and trial personnel were unaware of the trial-drug assignment
+drugs were indistinguishable in identical syringes
+Drugs were tested regularly for stability
+Near complete follow-up
+Weaknesses
+The trial may well be underpowered to detect a statistically significant result. A 9000 patient trial would be needed to establish if a 3 percentage point difference as a true effect of amiodarone. If this was confirmed, there would be 1800 more survivors in North America each year
+It would be interesting to know if the neurological outcome at discharge was better in the ‘witnessed’ OHCA group that received amiodarone or did it just increase the number of ‘bad survivors’ in this subgroup?
+The Bottom Line
+Amiodarone was not shown to have a statistically significant benefit over placebo in refractory VF/pVT in OHCA. However, the 3% difference in survival to discharge may well be clinically important
+Amiodarone and lidocaine were superior in the witnessed out of hospital cardiac arrest group although caution should be taken with this sub-group analysis
+More patients who received amiodarone required temporary pacing (amiodarone 4.9%, lidocaine 3.2%, placebo 2.7% P=0.02)
+This trial should not change current arrest protocols and amiodarone should continue to be used for VF/pVT in OHCA
+External Links
+[abstract]
+Amiodarone, Lidocaine, or Placebo in Out-of-Hospital Cardiac Arrest
+[podcast]
+Nielsen on Targeted Temperature Management after Cardiac Arrest. Intensive Care Network
+[further reading]
+ROC-CCC. The Bottom Line
+[further reading]
+ILCOR Consensus Statement. Post-Cardiac Arrest Syndrome
+[further reading]
+Amiodarone, lidocaine or placebo in OHCA. REBEL EM. Salim Rezaie
+[further reading]
+JC: Arrested Developments. St.Emlyn’s
+Metadata
+Summary author:
+Celia Bradford
+Summary date: April 5 2016
+Peer-review editor:
+Steve Mathieu

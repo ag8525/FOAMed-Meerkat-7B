@@ -1,0 +1,103 @@
+# Metadata
+- Source: The Bottom Line
+- Title: RePHILL Trial
+- Original URL: https://www.thebottomline.org.uk/summaries/icm/rephill/
+- Scrape Date: 2025-07-17
+- Summary author: Celia Bradford @celiabradford
+- Summary Date: 29 March 2022
+- Peer-review Editor: Adrian Wong @avkwong
+
+# Title
+Resuscitation with Blood Products in Patients with Trauma-Related Haemorrhagic Shock Receiving Prehospital Care (RePHILL Trial)  
+**Crombe N et al.**  
+Lancet Haematology 2022; online March 7. doi:10.1016/S2352-3026(22)00040-0
+
+# Clinical Question
+In patients with trauma-related haemorrhagic shock, does prehospital administration of packed red cells and lyophilised plasma (LyoPlas) compared with normal saline reduce the composite outcome of mortality and failure to reach lactate clearance?
+
+# Background
+- Early transfusion in traumatic haemorrhagic shock is expanding from military to civilian settings.
+- Evidence on prehospital transfusion benefits is limited and of low quality.
+- Previous RCTs (PAMPER and COMBAT) showed discordant results on prehospital plasma transfusion.
+- The PROPPR trial (2015) showed no significant mortality difference in hospital settings but reduced death from exsanguination with a 1:1:1 plasma, platelets, and RBCs ratio.
+
+# Design
+- Multicentre, open-label RCT with 1:1 allocation
+- Conducted across 4 prehospital critical care services in the UK
+- Randomisation: November 29, 2016, to January 2, 2021
+- Temporary suspension during COVID-19 pandemic
+- Allocation concealment with identical boxes for PRBC-LyoPlas and saline
+- Intention-to-treat analysis
+- Blinded outcome assessors
+- Ethics approval obtained; consent delayed due to urgency
+
+# Setting
+- Four prehospital critical care services in the UK
+
+# Population
+
+**Inclusion Criteria:**
+- Adults (>16 years) with traumatic injury and hypotension (SBP < 90 mmHg) or absent palpable radial pulse
+- Hypotension attributed to haemorrhage
+
+**Exclusion Criteria:**
+- Prior transfusion of blood products
+- Known refusal of blood products
+- Pregnancy
+- Isolated head injury without haemorrhage
+- Prisoners
+
+**Enrollment:**
+- 432 participants: 209 to PRBC + LyoPlas group, 223 to saline group
+- COVID-19 and funding issues prevented reaching the target of 490 participants
+
+# Intervention
+
+**PRBC + LyoPlas Group:**
+- Up to 2 units of O negative, Rh negative, Kell negative, leukodepleted packed cells and 2 units of LyoPlas
+- Alternating administration
+- Further resuscitation with saline if SBP < 90 mmHg
+
+# Control
+
+**Normal Saline Group:**
+- Up to 4 x 250 ml bags of 0.9% normal saline
+
+**Common Management:**
+- Fluids delivered through a fluid warmer
+- TXA therapy in 96% of intervention and 98% of control group
+- Interventions continued until hospital arrival or SBP > 90 mmHg
+
+# Outcomes
+
+## Primary Outcome
+- Composite of mortality or failure to reach lactate clearance (<20% per hour in the first 2 hours)
+- Intervention vs control: 64% vs 65% [ARR 1.01 (95% CI 0.88-1.17)]
+
+## Secondary Outcomes
+- No significant differences in mortality, lactate clearance, vital signs, or INR
+- Higher haemoglobin on ED arrival in intervention group
+- More blood products given in intervention group
+
+# Authors’ Conclusions
+The trial did not demonstrate a benefit for the composite outcome of mortality and lactate clearance in trauma patients with haemorrhagic shock receiving PRBC-LyoPlas compared with 0.9% saline.
+
+# Strengths
+- Allocation concealment and intention-to-treat analysis
+- Blinded outcome assessors
+- Addressed an important clinical question
+
+# Weaknesses
+- Patients were not anaemic on average, potentially underestimating treatment effect
+- Composite outcomes with variable importance
+- Short time from randomisation to hospitalisation
+- Underpowered trial with wide confidence intervals
+- Differences in trial design compared to PAMPER trial
+
+# Bottom Line
+The logistical challenges and costs of carrying packed cells and LyoPlas for prehospital administration in trauma-related haemorrhagic shock are substantial. In this trial, prehospital transfusion did not benefit patient outcomes. Further trials are needed to identify specific patient groups that may benefit.
+
+# External Links
+- **Original article**: [The RePHILL trial](https://www.thebottomline.org.uk/summaries/icm/rephill/)
+- **Further reading**: JC: The RePHILL trial. St Emlyn’s
+- **Further reading**: Acid-base, electrolyte, and metabolite concentrations in packed red blood cells

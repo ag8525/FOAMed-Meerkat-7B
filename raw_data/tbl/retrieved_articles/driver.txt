@@ -1,0 +1,65 @@
+# Metadata
+- Source: The Bottom Line
+- Title: Driver
+- Original URL: https://www.thebottomline.org.uk/summaries/icm/esmolol-vf/
+- Scrape Date: 2025-07-17
+- Summary Date: AUTO_FILL_IF_AVAILABLE
+
+Use of esmolol after failure of standard cardiopulmonary resuscitation to treat patients with refractory ventricular fibrillation
+Driver. Resuscitation 2014;(85),1337-1341. http://dx.doi.org/10.1016/j.resuscitation.2014.06.032
+Clinical Question
+In patients with refractory ventricular fibrillation does the use of esmolol improve mortality?
+Design
+Retrospective observational analysis
+Non-randomised
+Non-blinded
+Setting
+Single centre, tertiary Emergency Department, USA
+January 2011 – January 2014
+Population
+Inclusion:
+ED diagnosis coded as: cardiac arrest, ventricular fibrillation or pulseless VT
+initial rhythm: VF or VT
+had received at least 3 defibrillation attempts, 300mg amiodarone and 3mg adrenaline and remained in cardiac arrest
+Exclusion: received esmolol before cardiac arrest or after return of spontaneous circulation
+25 patients included
+Intervention
+Esmolol
+loading dose 500mcg/kg
+followed by infusion: 0-100mcg/kg/min
+Control
+Patients that did not receive esmolol
+Outcome
+Primary outcome: not defined
+survival with good neurological outcome
+50% in esmolol group vs. 11% in control group, P=0.07
+no significant difference in rates of ROSC or survival to discharge
+Authors’ Conclusions
+Prospective studies of beta-blockade in cardiac arrest are warranted. In patients with refractory VF beta-blockade should be considered
+Strengths
+Clear inclusion/exclusion criteria
+Standardised dosing of esmolol
+Reported use of therapeutic hypothermia and emergent cardiac catheterisation
+Reported patient-orientated outcomes
+Weaknesses
+Retrospective
+Small sample size
+Non-randomised, non-blinded. Unclear why some patients treated with esmolol and others were not. Unclear why different rates of therapeutic hypothermia and emergent cardiac catheterisation between the two groups
+The Bottom Line
+The use of esmolol for refractory VF was associated with a dramatic, but non significant, improvement in mortality. This association may be due to a causal effect of esmolol. However, the small sample size or confounding variables such as the use of therapeutic hypothermia and emergent cardiac catheterisation may also account for the differences found. Further studies are required. In the mean time, if I have a patient with refractory VF, with no other treatment options available such as cardiac catheterisation I will use esmolol prior to stopping resuscitation.
+Survival with good neurological outcome can be achieved with prolonged CPR (56-68 minutes)
+External Links
+[article abstract]
+[Use of esmolol after failure of standard cardiopulmonary resuscitation to treat patients with refractory ventricular fibrillation.]
+[Further Reading]
+LITFL Electrical Storm or Refractory VF/VT
+[Further Reading]
+UMEM Educational Peals
+[Podcast]
+EMCrit Intra-arrest
+Metadata
+Summary author:
+@davidslessor
+Summary date: 17 Dec 2014
+Peer-review editor:
+@DuncanChambler

@@ -1,0 +1,80 @@
+# Metadata
+- Source: The Bottom Line
+- Title: Sadfar
+- Original URL: https://www.thebottomline.org.uk/summaries/icm/chlorhexidine-crbsi/
+- Scrape Date: 2025-07-17
+- Summary Date: AUTO_FILL_IF_AVAILABLE
+
+Chlorhexidine-Impregnated Dressing for Prevention of Catheter-Related Bloodstream Infection: A Meta-Analysis
+Safdar et al. Crit Care Med 2014; 42(7): 1703-13
+Clinical Question
+Does chlorhexidine-impregnated dressing compared to conventional site care prevent catheter-related blood stream infections and catheter colonisation?
+Design
+Search strategy
+Search engines: Pubmed, Medline, Embase and  Web of Science
+Keywords: “chlorhexidine, dressing, sponge, central venous catheter, arterial catheter, bacteremia, bloodstream infection”
+Dates: Up to date October 2012
+Data extraction
+Three independent investigators
+Study quality
+Assessed in line with Cochrane Handbook of Systematic Reviews
+Risk of bias was reported as low/high
+2 studies (with haem/onc patients) thought to be high risk due to increased risk of baseline infection and non-standard infection control risk practices.
+All other studies were deemed to be at low risk.
+Population
+Inclusion criteria
+prospective randomised controlled trial
+provide microbiologically based definition for  catheter-related blood stream infections (CRBSI) and systematically report the prevalence of CRBSI in both intervention and control goup
+Exclusion criteria: case-control, retrospective, non-randomised
+Primary search yielded 505 citations, 9 studies chosen
+Study population: 4 adult ICU, 1 paeds ICU, 1 neonatal ICU, 2 Haem/oncology, 1 adults- not specified.
+Intervention
+Chlorhexidine-impregnated dressing for intravascular catheter
+Control
+Conventional site care for intravascular catheter
+occlusive dressing in 8 studies, and no dressing in 1 study
+In both intervention and control groups:
+Catheter types were variable; CVC alone, CVC+ arterial/pulmonary catheter, CVC+ tunnelled CVC, long term tunnelled CVC.
+Studies also varied in skin antiseptic measures, dressing change interval and duration of catheter in situ
+Results
+Primary outcome – Catheter related blood stream infections – significantly less in chlorhexidine group vs. control
+1.1% vs 2.1%
+Secondary outcome – Catheter colonisation – significantly less in chlorhexidine group
+7 studies presented this data
+Sub-group analysis
+Haematological malignancy (2 studies)- significantly less in chlorhexidine group
+Adult ICU populations (5 studies)- significantly less in chlorhexidine group
+Paediatric population (2 studies)- no significant difference
+average duration of catheters >2/52 (3 studies)- no significant difference
+average duration of catheters <2/52 (5 studies)- significantly less in chlorhexidine group
+Other relevant outcomes
+No real data on chlorhexidine resistance
+Contact dermatitis was the most common adverse event
+Authors Conclusions
+Chlorhexidine impregnated dressing significantly reduced catheter colonisation and catheter related blood stream infections
+May not be of value for long term (>2 weeks) catheters.
+Strengths
+Authors established expertise in this area.
+Appropriate primary and secondary outcome measures.
+Weaknesses
+Lack of robust search strategy
+Unclear risk of bias assessment – most studies are at risk as none were double-blinded. One large study was only published as an abstract, but was deemed as low risk. Cochrane risk of bias tool was not utilised.
+Significant clinical and statistical heterogeneity of studies included.
+Only four adult ICU studies: one very small study, one study with very high baseline infection rate and two large studies from one group which contributed the majority of the data for the meta-analysis.
+No cost analysis.
+The Bottom Line
+This meta-analysis indicates that chlorhexidine impregnated dressing may reduce catheter related blood stream infections. However, the analysis was limited by significant clinical and statistical heterogeneity.
+For adult ICU patients, this meta-analysis was rather unhelpful. Only two studies may be directly comparable to the generic ICU population and had low baseline CRBSI rates. However, both of these publications were by the same group with different preparations of chlorhexidine dressings. In one study, the initial skin preparation was either alcoholic chlorhexidine or alcoholic povidone- iodine based but, no subgroup analysis was made to differentiate any difference between these two skin preparations. Other study only used alcoholic providone-iodine based skin preparation.
+It is difficult to translate these results to centres with a lower baseline CRBSI rate (<1 per 1000 catheter days), using 2% chlorhexidine-based skin preparation.
+External Links
+[Article abstract]
+Chlorhexidine-impregnated dressing for prevention of catheter-related bloodstream infection: a meta-analysis
+[Original review]
+Portsmouth ICU Journal Club
+Metadata
+Summary author: Dr A Dushianthan (Portsmouth Journal Club Coordinator:
+@MikeW_J
+)
+Summary date: 21st September 2014
+Peer-review editor:
+@davidslessor

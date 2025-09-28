@@ -1,0 +1,123 @@
+# Metadata
+- Source: The Bottom Line
+- Title: Woolum
+- Original URL: https://www.thebottomline.org.uk/summaries/icm/woolum/
+- Scrape Date: 2025-07-17
+- Summary Date: AUTO_FILL_IF_AVAILABLE
+
+Effect of Thiamine Administration on Lactate Clearance and Mortality in Patients With Septic Shock
+Woolum. Crit Care Med 2018; 46:1747-1752. doi:10.1097.CCM.0000000000003311
+Clinical Question
+In patients with septic shock, does the administration of thiamine lead to more rapid lactate clearance and improved clinical outcomes?
+Background
+Septic shock is characterised by a hypermetabolic state that resembles thiamine deficiency
+Thiamine, also known as Vitamin B1, can be deficient in critically ill patients
+Previous pilot randomised, controlled trials have shown significantly lower lactate levels and improved mortality over time in patients with septic shock who were thiamine deficient
+Design
+Retrospective, matched cohort study, based on data collected from medical records
+Cohorts were matched using Mahalanobis distance matching (a multivariate statistical method to detect outliers from a normal distribution) according to
+ICU service (medical vs surgical)
+Presence of liver disease
+Peak lactate
+SOFA score on day of ICU admission
+Elixhauser comorbidity
+index
+Age
+Gender
+Race
+Regression analysis was performed with mortality as a competing event
+If the patient died before lactate clearance was achieved, clearance was considered not achieved
+That is to say, death and lactate clearance were considered mutually exclusive outcomes
+Three models were constructed
+with lactate levels alone
+after adjustment for age, gender and race
+with age, gender, race and other likely factors that influence mortality and lactate clearance
+A Cox proportional hazards model was constructed along the same lines for 28-day mortality according to event-rate analysis
+Setting
+A single academic centre in the USA
+January 2013 to December 2017
+Population
+An electronic medical database was queried based on the diagnostic code for septic shock according to 9th or 10th edition of the International Classification of Diseases (ICD)
+Inclusion
+: Patients who were coded as septic shock on the electronic medical database; 18 years and older; admission to medical or surgical services
+Exclusion
+: Septic shock not present at admission (lactate < 2 mmol/L or vasopressor therapy not required); missing baseline data
+After validation using the Sepsis-3 criteria:
+1049 patients were included out of the 2270 patients who were initially screened
+Comparing Thiamine (n=123) vs No Thiamine (n=926), where * means P value is less than 0.05:
+Mean age: 52 vs 60 years*
+Gender: 56% vs 51%
+Race: 92% vs 93% white
+Liver disease: 65% vs 34%*
+Elixhauser comorbidity index: 4 vs 4
+Medical admission: 97% vs 83%*
+SOFA Score: 10 vs 9*
+Steroid administration: 53% vs 47%
+Peak lactate: 6.1 vs 5.2 mmol/L*
+Out of this cohort, 123 patients who received thiamine (any dose within 24 hours of hospital admission) were matched with 246 patients who did not
+All variables listed above were matched and were almost equal
+P values were all above 0.238 (most were 1.0)
+Intervention
+Thiamine
+Intravenous administration of thiamine in any dose within the first 24 hours of hospital admission
+Control
+No thiamine
+Patients who received thiamine were matched with a cohort who did not receive thiamine in a 1:2 ratio
+Management common to both groups
+All care was delivered at the discretion of the treating clinical team
+Outcome
+Primary outcome:
+Lactate clearance was defined as
+Time from hospital admission to lactate of ≤ 2 mmol/L, or
+Time from hospital admission to lowest lactate plus 24 hours (if no documented lactate < 2 mmol/L and patient survived)
+Lactate clearance was more rapid in those who were administered intravenous thiamine in the first 24 hours of their hospital admission
+All three regression models revealed improved lactate clearance with thiamine administration
+The subdistribution hazard ratios in the three models ranged between 1.292 and 1.339
+The effect of thiamine on lactate clearance was significantly more in female patients on a gender-based interaction model
+Secondary outcome
+:
+Survival was censored at 28 days or hospital discharge
+Thiamine was found to significantly reduce 28-day mortality on the three Cox proportional hazard models
+Hazard ratio for death 0.666 (95% CI 0.490 to 0.905)
+The benefit was more evident in female patients
+There was no significant difference in other secondary outcomes including
+SOFA scores on day 5 compared to baseline
+Vasopressor-free days
+Ventilator-free days
+ICU-free days
+Incidence of AKI
+Requirement for renal replacement therapy
+Authors’ Conclusions
+In patients with septic shock, intravenous thiamine, administered within 24 hours of ICU admission resulted in more rapid lactate clearance and a significantly reduced 28-day mortality
+Strengths
+This is a large study that evaluated the effect of thiamine on lactate clearance and mortality in patients with septic shock
+Matching was carried out between patients who had thiamine and those who did not, in an attempt to remove confounding variables
+Regression analysis was performed with mortality as the competing event, which is appropriate given the high mortality rate observed
+Weaknesses
+This is a retrospective observational study based on data derived from electronic medical records
+The baseline differences prior to matching demonstrate that the Thiamine vs No Thiamine cohorts are very different populations, and this suggests that matching will not remove all confounding variables
+The dose of thiamine was variable and ranged 100–500 mg/
+The study centre’s protocol was to administer high dose (500 mg x3 daily) thiamine for 72 hours
+Thiamine levels were not measured
+It is unclear whether the benefit may be related to thiamine deficiency
+The mortality of the cohort was high compared to contemporaneous studies (54%), which the authors attribute to a relatively large number of patients with cirrhosis
+This limits the generalisability of the conclusion to other populations
+The Bottom Line
+This study adds to the growing body of evidence that intravenous thiamine may improve outcomes in patients with sepsis and septic shock
+However, given the inherent biases in this relatively small observational study, the conclusion should be hypothesis generating and supportive of a larger randomised, controlled trial
+In my opinion, given that harmful effects are unlikely, intravenous thiamine may be considered in critically ill patients with sepsis
+External Links
+[article]
+Effect of Thiamine Administration on Lactate Clearance and Mortality in Patients with Septic Shock
+by Woolum et al
+[further reading]
+Vitamine C and Thiamine in Sepsis
+review article from ESICM
+[further reading]
+Have We Found The Cure For Sepsis
+review by REBELem
+Metadata
+Summary author: Jose Chacko
+Summary date: 25 April 2019
+Peer-review editor:
+Duncan Chambler

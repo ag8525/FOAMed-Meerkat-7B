@@ -1,0 +1,137 @@
+# Metadata
+- Source: The Bottom Line
+- Title: ECLS-Shock – Extracorporeal Life Support in Infarct-Related Cardiogenic Shock
+- Original URL: https://www.thebottomline.org.uk/summaries/ecls-shock/
+- Scrape Date: 2025-07-17
+- Summary Date: AUTO_FILL_IF_AVAILABLE
+
+Extracorporeal Life Support in Infarct-Related Cardiogenic Shock
+Thiele H
+. NEJM 2023; Online ahead of print. doi:10.1056/NEJMoa2307227
+Clinical Question
+In patients presenting with acute myocardial infarction complicated by cardiogenic shock undergoing revascularisation, does the early unselected application of extracorporeal life support reduce mortality from any cause at day 30?
+Background
+The use of venoarterial extracorporeal membrane oxygenation (VA ECMO), which is an advanced technology that can provide temporary replacement of cardiac and respiratory function in critically ill patients, has increased substantially over the last decade
+Observational studies suggest VA ECMO reduces mortality in patients with cardiogenic shock
+However VA ECMO is associated with a high risk of complications
+It also increases afterload on the left ventricle due to retrograde flow in the aorta, which may be unfavourable conditions for cardiac recovery
+A recently published RCT
+failed to demonstrate benefit with the early application of ECMO in patients with cardiogenic shock
+Design
+Investigator-initiated, multi-centre, parallel group, unblinded randomised controlled trial
+Patients randomised in 1:1 ratio using web-based system with stratification by trial site
+Intention to treat analysis
+Trial powered to detect a 14% reduction (49%->35%) in all cause mortality
+Setting
+44 institutions in 2 countries (Germany and Slovenia)
+June 2019 and November 2022
+Population
+Inclusion (all of):
+Adults > 18 years of age
+Acute myocardial infarction with planned revascularisation (PCI or CABG)
+Systolic blood pressure < 90mmHg for > 30 mins or requiring catecholamine infusion to maintain SBP > 90mmHg
+Signs of impaired organ perfusion
+Arterial lactate > 3mmol/L
+Exclusion
+:
+> 45 mins of CPR prior to enrolment
+Mechanical cause of cardiogenic shock or non cardiac cause of shock
+Onset of shock > 12 hours
+Severe peripheral vascular disease prevent ECMO insertion
+Age > 80
+Life limiting illness (survival < 6 months).
+877 screened
+420 patients enrolled
+3 withdrew consent
+417 included in intention to treat analysis
+Comparing baseline characteristics of intervention vs. control group
+Generally well-balanced
+Age: 62 vs 63
+Male: 81% vs 81%
+Cardiovascular risk factors: similar
+Previous PCI: 13 vs 21%
+Previous Stroke: 10% vs 5%
+Systolic Blood pressure: 95 vs 97mmHg
+Resuscitation before randomisation: 78 vs 78%
+Time to ROSC in resuscitated patients: 20 vs 20 mins
+Lactate: 7 vs 7
+Troponin: 1540 vs 987
+SCAI Shock stage
+C: 49 vs 53%
+D: 18 vs 8%
+E: 32 vs 38%
+Intervention
+Immediate commencement of VA ECMO in angiography suite
+ECMO ideally commenced before PCI
+Maximal flows targeted
+Distal perfusion catheter insertion encouraged
+Pre-defined criteria for left ventricular unloading and weaning
+17 patients did not receive ECLS for technical or clinical reasons
+Control
+Medical management inline with current guidelines
+Pre-defined criteria for escalation to additional mechanical support (Intra-aortic balloon pump or microaxial left ventricular assist device
+Cross over to VA ECMO for refractory cardiac arrest allowed but strongly discouraged. 28 patients crossed over
+Management common to both groups
+Culprit only revascularisation strategy
+CABG if unsuitable for PCI
+Anti-thrombotic therapy recommended ADP inhibitor
+Outcome
+Primary outcome
+: 30 day all cause-mortality no difference between groups 48 vs 49%, relative risk, 0.98 (0.80 to 1.19) P=0.81
+Early separation of Kaplan-meier curve over first 5 days but this disappears by day 15
+No difference in any pre-defined subgroups
+Similar causes of death between groups:
+Majority of patients died of refractory cardiogenic shock roughly 50% in each group
+Approx 25% of patients died from brain injury in each group
+Secondary outcomes
+:
+Comparing intervention vs. control group
+No significant difference in
+Poor neurological outcome
+Renal replacement therapy
+Repeat revascularisation
+Time to stabilisation
+Duration of ICU or Hospitalisation
+Complications significantly greater in intervention group
+Limb ischaemia requiring intervention 11 vs 4%
+Moderate or severe bleeding 23 vs 10%
+N.B Many bleeding complications occurred at ECMO decannulation
+Authors’ Conclusions
+In patients with acute myocardial infarction complicated by cardiogenic shock, the incidence of death from any cause at 30 days was not lower with early unselective use of VA ECMO
+Strengths
+Well designed, investigator-initiated trial in a complex and challenging population to do clinical trials in
+Clinically relevant question
+Rapid recruitment of patients reducing the risk of bias due to temporal trends
+Relatively large numbers of patients (compared to other trials in the area) with a clinically justifiable relative risk reduction in the power calculation
+Web based randomisation, allocation concealment and follow up
+Groups well-balanced at baseline
+Appear to have recruited the target population of sick patients with cardiogenic shock
+Attempt to standardise ECMO treatment and to prevent crossover for treatment
+Weaknesses
+The liberal inclusion criteria, allowing early unselected implantation before PCI and also enrolment of elderly patients, limit the generalisability of these findings
+A quarter of patients were older than 69 (intervention) and 71 (control) years old which may not reflect practice elsewhere
+Very high rates of pre-ECMO cardiac arrest (77% in both groups) limits the findings to this population only, and may have reduced the capacity for VA ECMO to alter outcomes
+No documented standardised process for neuroprognostication
+12% crossover to ECMO in control group suggest ongoing lack of equipoise from clinicians, and also reduces the separation between the two groups biasing the trial towards to finding no difference
+There was a relatively low rate of LV unloading and high initial ECMO flows which may limit cardiac recovery
+Cannulation performed exclusively by cardiologists in the cath lab, and therefore the population enrolled and intervention delivered may differ to that of intensive care, emergency physician or surgeon led programs
+Lack of blinding may have influenced clinician practice
+Large number of sites that recruited low numbers
+However post hoc analysis did not find any difference between 5 or more or 4 or less recruited per centre
+No documentation of rates of transition to durable mechanical support or heart transplant, which may be relevant given high proportion dying from cardiogenic shock
+Short term (day 30) and minimal functional outcomes reported
+The Bottom Line
+This well conducted randomised controlled trial suggests that early unselected VA ECMO in acute myocardial infarction complicated by cardiogenic shock will not reduce mortality and may increase complications
+I would not advocate for the early commencement of VA ECMO in patients who can be stabilised with medical therapy. I would still consider the use of VA ECMO patients who are refractory to medical therapy and have an opportunity for myocardial recovery or destination therapy such as ventricular assist device or heart transplant
+External Links
+article:
+Extracorporeal Life Support in Infarct-Related Cardiogenic Shock
+further reading:
+Venoarterial extracorporeal membrane oxygenation in patients with infarct-related cardiogenic shock: an individual patient data meta-analysis of randomised trials
+further reading:
+ECMO CS – TBL Summary
+Metadata
+Summary author: Alastair Brown – @alastairbrown21
+Summary date: 13th September 2023
+Peer-review editor: Aidan Burrell
+Picture by: author/site: BART ECMO Team

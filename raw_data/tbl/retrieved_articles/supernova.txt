@@ -1,0 +1,236 @@
+# Metadata
+- Source: The Bottom Line
+- Title: SUPERNOVA
+- Original URL: https://www.thebottomline.org.uk/summaries/icm/supernova-2/
+- Scrape Date: 2025-07-17
+- Summary Date: AUTO_FILL_IF_AVAILABLE
+
+Feasibility and Safety of Extracorporeal CO
+2
+Removal to Enhance Protective Ventilation in Acute Respiratory Distress Syndrome: The SUPERNOVA Study
+Combes A et al. Intensive Care Medicine February 2019; DOI: 10.1007/s00134-019-05567-4
+Clinical Question
+Can extracorporeal carbon dioxide removal (ECCO
+2
+R) safely facilitate ultra-low tidal volume ventilation in patients with moderate acute respiratory distress syndrome (ARDS)?
+Background
+For patients with ARDS, use of a ventilation strategy which prioritizes low tidal volumes (4-6 mL/kg predicted body weight) and low inspiratory pressures (plateau pressure < 30 cmH
+2
+O) is strongly supported by
+consensus guidelines
+It is unclear whether
+ultra-low tidal volume ventilation
+(3-4 mL/kg PBW) provides additional protection beyond that achieved with traditional lung-protective ventilation
+. Additionally, attempts to significantly lower tidal volumes are often limited by severe respiratory acidosis
+Extracorporeal carbon dioxide removal (ECCO
+2
+R) has been proposed as a way to facilitate ultra-low tidal volume ventilation although the safety and feasibility of this approach has not been well studied
+Design
+Multicenter prospective phase 2 single-arm study
+Blinding not performed given the nature of the intervention and the study design
+Power calculation:
+Based on the assumption that PaCO
+2
+would be 40–60 mmHg with tidal volumes of 6 mL/kg Predicted Body Weight (PBW) and that PaCO
+2
+would increase to 65–85 mmHg when tidal volumes were lowered to 4 mL/kg PBW.
+Investigators estimated that a sample size of 90 patients would be required to establish the ability of ECCO
+2
+R to return PaCO
+2
+levels to within 20% of baseline. This sample size would provide a two-sided 95% confidence interval of 70–90% if the incidence of meeting this condition was 80% and 54–75% if the incidence was 65%
+The goal enrollment was increased to 100 patients to account for an expected 3% dropout rate
+Data analysis was performed by a researcher who was not involved in data collection or a member of the study steering committee
+Severe adverse events (SAEs) were reported to the clinical coordinator. Determination of whether SAEs were directly attributable to ECCO
+2
+R was performed by an independent safety monitoring board
+Setting
+23 hospitals across Europe and Canada
+October 2015 to June 2017
+Population
+Inclusion
+:
+18 years of age or older
+Moderate ARDS (PaO
+2
+/FiO
+2
+100–200 mmHg on at least a PEEP of 5 cmH
+2
+O)
+Anticipated duration of mechanical ventilation >24 hours
+Exclusion:
+Decompensated heart failure
+Acute coronary syndrome
+Severe chronic obstructive pulmonary disease
+Major respiratory acidosis with PaCO
+2
+>60mmHg
+Acute brain injury
+Severe liver insufficiency (Child-Pugh >7)
+Fulminant hepatic failure
+Heparin-induced thrombocytopenia
+Contraindication to systemic anticoagulation
+Platelet < 50 G/L
+Moribund
+Decision to limit therapeutic interventions
+Inability to access femoral or jugular vein
+Pneumothorax
+755 patients met entry criteria, 95 patients enrolled (each center enrolled a median of 3 patients)
+No patients lost to follow-up
+Baseline characteristics (mean +/- standard deviation or median [interquartile range])
+Age (years): 60.2 +/- 14.0
+Female: 31 (32.6%)
+Pneumonia as the cause of ARDS: 78 (82.1%)
+Tidal volume (mL/kg PBW): 6.0 +/- 0.2
+PEEP (cmH
+2
+O): 15.5 [10.0;16.0]
+P
+plt
+(cmH
+2
+O): 26.6 +/- 3.0
+Driving pressure (cmH
+2
+O): 13.2 +/- 4.3
+PaCO
+2
+(mmHg): 47.8 +/- 9.4
+pH: 7.34 +/- 0.08
+PaO
+2
+/FiO
+2
+(mmHg): 173 +/- 61
+Neuromuscular blockade: 80 (84.2%)
+Prone positioning: 23 (24.2%)
+Intervention
+Three different ECCO
+2
+R systems were used. Each trial site used only 1 device type during the study:
+Hemolung Respiratory Assist System (ALung Technologies): Membrane lung with cross-sectional area of 0.59 m
+2
+, blood flow between 300–500 mL/min. 15.5 Fr catheter
+iLA active (Novalung): Membrane lung with cross-sectional area of 1.30 m
+2
+with blood flow 800–1000 mL/min (upper limit set by the trial protocol, not the capability of the machine). 18–20 Fr catheter
+Cardiohelp HLS 5.0 (Getinge Cardiopulmonary Care): Membrane lung with cross-sectional area of 1.30 m
+2
+with blood flow 800–1000 mL/min (upper limit set by the trial protocol, not the capability of the machine). 18–20 Fr catheter
+Protocol:
+Sedation and neuromuscular blockade administered for a minimum of 24 hours following enrollment
+Tidal volume initially set at 6 mL/kg PBW and PEEP adjusted to maintain a P
+plt
+between 28–30 cmH
+2
+O
+ECCO
+2
+R catheter inserted in either the internal jugular or femoral vein
+Unfractionated heparin given to achieve an activated partial thromboplastin time of 35–80 seconds
+Tidal volume reduced step-wise to 4 mL/kg PBW and PEEP titrated to P
+plt
+23-25 cmH
+2
+O
+Sweep gas and blood flow set to maintain a PaCO
+2
+between 80–120% of the baseline value
+Tidal volume increased if PaCO
+2
+exceeded 75 mmHg and/or pH fell below 7.30 despite a respiratory rate of 35 breaths/minute
+Data collected at baseline, 8 hours, and 24 hours. After 24 hours the attending physician was allowed to determine ventilator settings and need for continued ECCO
+2
+R
+Outcome
+Primary outcome
+: Number of patients who successfully achieved a tidal volume of 4 mL/kg PBW with a PaCO
+2
+not increasing more than 20% from baseline with an arterial pH > 7.30
+8 hours: 78% (95% CI: 68–89%)
+24 hours: 82% (95% CI: 76–88%)
+Secondary outcomes
+Duration of ECCO
+2
+R (days): 5 [3–8]
+Duration of invasive mechanical ventilation (days): 17 [11–29]
+Alive at day 28: 69 (73%)
+Physiologic variables
+Tidal volume at 24 hours (mL/kg PBW): 4.16 +/- 0.46
+P
+plt
+at 24 hours (cmH
+2
+O): 23.5 +/- 3.9
+PEEP at 24 hours (cmH
+2
+O): 13.8 +/- 3.9
+Driving pressure at 24 hours (cmH
+2
+O): 9.9 +/- 4.3
+Adverse events
+Severe adverse events
+6 total (massive right frontal parenchymal hematoma, severe hematemesis and melena, SVC thrombosis, sudden death, severe hypoxemia, pneumothorax during cannulation)
+The brain bleed and pneumothorax were attributed directly to ECCO
+2
+R
+Adverse events
+39% of patients experienced an AE
+26 patients (27%) experienced an AE in the first 24 hours
+Membrane lung clotting: 13 (14%)
+Pump malfunction: 3 (3%)
+Catheter displacement: 2 (2%)
+Hemolysis: 11 (12%)
+Significant bleeding: 6 (6%)
+Infectious complications: 2 (2%)
+Thrombocytopenia: 12 (13%)
+Authors’ Conclusions
+ECCO
+2
+R can facilitate ultra-low tidal volume ventilation. A randomized trial is required to inform use of this intervention in patients with ARDS
+Strengths
+The largest safety and feasibility study of ECCO
+2
+R – a novel and potentially beneficial extracorporeal therapy for patients with ARDS
+International cohort of study centers increasing generalizability of the results
+No patients lost to follow-up during the study period
+Weaknesses
+Three different ECCO
+2
+R systems were used. It is not possible to tell from the data provided if efficacy or safety differed between the devices
+CO
+2
+clearance not quantified despite this being listed as a study endpoint on clinicaltrials.gov
+Study halted short of enrollment goal due to lack of equipment
+Not clearly powered for safety outcomes
+The primary outcome of achieving an ultra-low tidal volume without severe hypercapnia, while appropriate for a feasibility and safety study, is not patient-centered and is of unclear clinical significance
+The Bottom Line
+ECCO
+2
+R can facilitate ultra-low tidal volume ventilation in patients with moderate ARDS
+Whether ultra-low tidal volume ventilation improves outcomes for patients with ARDS remains unclear
+In my opinion, the high number of adverse events (including 6 SAEs) observed in this study and the still unclear benefit of ultra-low tidal volume ventilation argues against use of ECCO
+2
+R in ARDS outside of a clinical trial
+The study highlights just how hard it is to enroll patients in these types of trials, even at high volume centers experienced in studies of extracorporeal support
+This study is a useful prelude to the ongoing
+REST trial
+– a randomized trial of ECCO
+2
+R vs standard care in patients with ARDS
+External Links
+[Article]
+Feasibility and Safety of Extracorporeal CO2 Removal to Enhance Protective Ventilation in Acute Respiratory Distress Syndrome: The SUPERNOVA Study
+[further reading]
+An Official American Thoracic Society/European Society of Intensive Care Medicine/Society of Critical Care Medicine Clinical Practice Guideline: Mechanical Ventilation in Adult Patients with Acute Respiratory Distress Syndrome
+[further reading]
+Ultra-protective tidal volume: how low should we go?
+[further reading]
+pRotective vEntilation With Veno-venouS Lung assisT in Respiratory Failure (REST)
+Metadata
+Summary author:
+James M. Walter
+Summary date: 19th March 2019
+Peer-review editor:
+Steve Mathieu

@@ -1,0 +1,346 @@
+# Metadata
+- topic: 1.1 - Critical Management Principles - 7 Blood and Blood Components
+- source_folder: 1.1 - Critical Management Principles
+- original_file: Ch.7 Blood and Blood Components.pdf
+
+Crack Cast Show Notes – Blood and Blood Components – Feb 2016 
+www.crackcast.org 
+ 
+CrackCast Episode 7 – Blood and Blood Components  
+ 
+Episode Overview:  
+ 
+ 
+1) Describe the 3 categories of blood antigens 
+2) Who is the universal donor and why? 
+3) Define massive transfusion 
+4) List 5 physiologic complications of massive transfusion 
+5) What are the indications for the administration of 
+• 
+pRBCs 
+• 
+FFP 
+• 
+Platelets 
+• 
+Cryoprecipitate  
+6) List 6 complications of blood transfusions and their management 
+ 
+Wisecracks: 
+1) What are the components of octaplex?  When is it indicated?  
+2) What is FEIBA? 
+3) List the three types of plasma that are available from the blood bank? 
+4) What are the absolute and off-label uses for recombinant factor VII? 
+5) Which products are most likely to result in sepsis?    
+6) What is a hyperhemolytic crisis? 
+ 
+1) Describe the 3 categories of blood antigens 
+ 
+The whole goal of blood typing is to match ABO type, Rh antibodies, and over 200 other 
+antigens with a suitable donor to avoid immune and nonimmune transfusion reactions  
+ 
+The 3 categories of blood antigens are:  
+A 
+B 
+AB 
+ 
+* Group O has no a blood antigen type, because it is the absence of antigens 
+ 
+That being said, there is also the Rhesus (Rh) system which has over 50 antigens, of which the 
+D antigen is the most important 
+This becomes important in the woman who is A-, and is miscarrying….she should have no anti-
+D antibodies naturally. But she will have anti-B antibodies in the plasma….more on that in 
+upcoming chapters! 
+ 
+Crack Cast Show Notes – Blood and Blood Components – Feb 2016 
+www.crackcast.org 
+ 
+ 
+2) Who is the universal donor and why? 
+ 
+Blood type O: 
+• 
+They have no antigens on their RBC’s and can 
+give their blood to anyone without fear of ABO 
+incompatibility  
+• 
+The universal recipient is AB+  
+• 
+Let’s think through this again: they have A and B 
+antigens on their RBC’s, but they won’t have any 
+antibodies in the plasma 
+• 
+The + Rh status means that they have Rh D 
+antigens, and no Rh D antibodies (can receive 
+both RhD + or RhD- blood) 
+ 
+3) Define massive transfusion 
+ 
+Infusion of >10 units of blood in 24 hour period 
+ 
+4) List 5 physiologic complications of massive transfusion 
+• 
+Complications 
+o hypothermia -- > increased clotting time 
+o electrolyte abnormalities  
+§ 
+hypomagnesemia 
+§ 
+hypocalcemia (citrate binds calcium) 
+§ 
+hyper/hypo K+ 
+o acidosis  (from shock and/or excess citrate) 
+o coagulopathy 
+o thrombocytopenia 
+ 
+5) What are the indications for the administration of: pRBCs, FFP, platelets, 
+and cryoprecipitate  
+ 
+● pRBCs – Packed Red Blood Cells 
+○ goal is to improve oxygen delivery and improve intracellular oxygen consumption  
+○ 1 unit = 450 ml =  increases Hgb by ~10 
+○ in pediatrics give 10 ml/kg 
+Crack Cast Show Notes – Blood and Blood Components – Feb 2016 
+www.crackcast.org 
+○ need to infuse with NS only 
+○ given over 60 mins to max 4 hrs 
+○ TRICC trial suggests that in critical care setting the hgb threshold for transfusion 
+is <70 (in general if not actively hemorrhaging) 
+○ FOCUS trial for hip fractures support blood transfusion if Hgb <80 
+ 
+• 
+FFP – Fresh Frozen Plasma 
+○ contains all the natural clotting factors 
+○ can be spun down to various components depending on the indication 
+○ 1 unit =  250 ml 
+○ must be ABO compatible  
+○ Indications 
+■ massive transfusion in trauma 
+■ coagulopathy of trauma 
+■ hemorrhage in DIC or liver cirrhotics 
+■ plasma exchange in TTP 
+■ emergency reversal in warfarin - if you don’t have octaplex 
+● 10-30 ml/kg 
+○ not indicated in non-urgent Vit. K antagonism or volume expansion 
+ 
+• 
+Platelets 
+o Rh- patients need Rh- platelets  
+○ patients needing frequent transfusions may need leuko-reduced platelets 
+○ indications 
+■ platelet count <10 (very little bleeding risk until platelets drop below 5) 
+○ Dose 
+■ "six pack" - 6 units of platelets (raises platelets 40-60 points) 
+○ Very few large studies to support specific transfusion recommendations 
+■ General rules for platelet transfusion before procedures: 
+○ LP : > 10  
+○ central line placement: >20-30 
+○ major surgery: > 50 
+○ neuro Sx or retinal Sx: > 100 
+■ patients with anemia are more prone to bleeding 
+○ platelets are ineffective in immune-mediated thrombocytopenia 
+■ ITP 
+■ TTP 
+ 
+• 
+Cryoprecipitate – “Cryo” 
+o Contains: 
+§ 
+fibrinogen, fibronectin 
+§ 
+vWF 
+§ 
+factor VIII, XIII,  
+o Indications: 
+Crack Cast Show Notes – Blood and Blood Components – Feb 2016 
+www.crackcast.org 
+(1) bleeding with a low fibrinogen level 
+(2) dysfibrinogenemia 
+(3) bleeding in von Willebrand’s disease that in unresponsive to DDAVP 
+and no Factor VIII around 
+ 
+Think of cryoprecipitate as a filtered version of FFP (more rarely used) and now becoming 
+obsolete due to advances in factor concentration technology...may be useful for patients who 
+are deficient in fibrinogen. 
+ 
+6) List 6 complications of blood transfusions and their management 
+ 
+Rosen’s breaks the complications associated with blood transfusions into:  
+1) immune mediated adverse effects 
+2) non-immune mediated adverse effects 
+ 
+Immune mediate adverse effects: 
+• 
+Can be either acute or delayed 
+ 
+Acute: 
+Intravascular hemolytic transfusion reaction  
+● MOST serious complication due to ABO incompatibility  
+○ biochemically it can present with hemoglobinemia and hemoglobinuria 
+■ but the patients usually have: 
+● fevers, chills, headache, N/V, joint and low back pain, chest 
+restriction, pain at the site of infusion, feeling of impending doom 
+■ Hypotension, DIC, fevers,  
+■ Treatment 
+● STOP the infusion, change tubing, crystalloid fluids 
+● send samples to the lab 
+Transfusion related acute lung injury (TRALI) 
+● leading cause of transfusion related mortality  
+○ "new acute lung injury: bilateral pulmonary edema and hypoxemia" within 6 hrs of 
+the transfusion 
+● presentation 
+○ non-cardiogenic pulmonary edema, dyspnea, hypoxia 
+○ bilateral chest infiltrates, fever 
+● treatment 
+ 
+○ stop transfusion 
+○ provide resp. support,  
+■ very little benefit to diuretics 
+Crack Cast Show Notes – Blood and Blood Components – Feb 2016 
+www.crackcast.org 
+○ usual recovery is 4 days 
+Allergic reactions 
+● range in severity from urticaria to anaphylaxis  
+● Treat: 
+○ antihistamine, and anaphylaxis care PRN 
+○ STOP the transfusion  
+● rarely full anaphylaxis can occur with IgA deficiency (use washed RBC's) 
+Febrile transfusion reaction 
+● most common and least serious reaction 
+● defined by a rise in patients temperature by at least 1 deg. C 
+● Treatment 
+○ analgesics, antipyretics, antihistamines 
+ 
+Delayed: 
+EXTRAvascular hemolytic transfusion reaction 
+● result from non-ABO mediated immune reaction 
+○ extravascular hemolysis occurs days-weeks later 
+● fever, anemia, jaundice, oliguria 
+ 
+Transfusion associated graft vs. host disease 
+● RARE 
+○ life threatening >90% mortality 
+○ transfused lymphocytes proliferate and attack the recipient  
+● presentation 
+○ 3-30 days post transfusion: fever, erythematous rash, diarrhea, elevated liver 
+enzymes, pancytopenia,  
+● treatment: 
+○ bone marrow transplant 
+● prevention 
+○ most blood products are gamma irradiated to kill lymphocytes especially in 
+patients who are immunodeficient (leukemias, lymphomas) 
+ 
+Non-immune mediated adverse effects 
+• 
+Can be either acute or chronic  
+Acute 
+Transfusion Associated Circulatory Overload (TACO) 
+● high risk patients: chronic anemias who are already normovolemic and elderly  
+● treatment: infuse over 4 hrs, consider using diuretics 
+Crack Cast Show Notes – Blood and Blood Components – Feb 2016 
+www.crackcast.org 
+Bacterial Contamination 
+● most commonly Yersinia enterocolitica 
+○ rare 1:1 million units transfused 
+● platelets carry higher risk of infection (pooled from 6 people) 
+● symptoms 
+○ during transfusion: rigors, vomiting, abdominal cramps, fever, shock, renal 
+failure, DIC 
+● treatment 
+○ stop the transfusion, obtain blood cultures, give broad-spectrum antibiotics  
+Chronic 
+Transmitted Viruses 
+● Hep C and HIV 
+○ 1: 1-2 million 
+● Hep B: 
+○ 1: 200 000 
+● CMV 
+○ Rare – those with allogeneic stem cell or solid organ transplants are at higher 
+risk 
+■ these patients should receive CMV-neg. blood 
+ 
+Wisecracks: 
+1) What are the components of octaplex (Prothrombin Complex 
+Concentrate - PCC)?  When is it indicated?  
+ 
+Octaplex is generically known as Prothrombin Complex Concentrates (PCC) and is usually a 3 
+or 4 component HUMAN blood product 
+• 
+it contains: 
+o Factors II, VII, IX, X (1972 - what warfarin blocks) as well as Protein C and S.  
+o other names include: Beriplex and Kcentra 
+o It is used to reverse SEVERE bleeding in the warfarin anticoagulated patient and 
+is dosed in units per KG (usually 50u/kg) 
+o Strict indications for warfarin anticoagulated patient: 
+1) life threatening hemorrhage from anywhere 
+2) any intracranial hemorrhage 
+3) any spinal hemorrhage 
+4) needed emergent surgery 
+ 
+o it usually works in about 1 hour  
+§ 
+the step wise approach for serious or life-threatening bleeding with any 
+INR on a warfarinised patient is:  
+(1) hold the warfarin 
+Crack Cast Show Notes – Blood and Blood Components – Feb 2016 
+www.crackcast.org 
+(2) give 10 mg Vitamin K by IV infusion 
+(3) give PCC (may need approval from hematologist) 
+ 
+ 
+2) What is FEIBA? 
+ 
+It stands for “factor eight inhibitor bypassing activity” 
+o it is an ACTIVATED form of prothrombin complex concentrate 
+○ it's used to treat serious bleeding in hemophilia A with inhibitors  
+o let’s stop there... any more specific indications should be discussed with your 
+friendly hematologist!! 
+ 
+ 
+3) List the three types of plasma that are available from the blood bank? 
+ 
+1. fresh frozen plasma 
+2. cryoprecipitate  
+3. cryo-poor plasma (depleted of vWF, Factors VIII, XIII, fibrinogen, fibronectin) 
+ 
+ 
+4) What are the absolute and off-label uses for recombinant factor VII? 
+● Absolute: 
+○ treat bleeding in patients with: 
+■ hemophilia A or B with inhibitors for 8 or 9  
+■ acquired hemophilia 
+■ congenital factor VII deficiency  
+● off-label 
+○ management of intractable bleeding in non-hemophiliac patients 
+■ many examples: 
+● vWD, warfarin associated bleeding, coagulopathy of liver 
+dysfunction, post-traumatic hemorrhage, etc.  
+ 
+ 
+5) Which products are most likely to result in sepsis?    
+ 
+Plasma – it is stored at room temperature 
+ 
+ 
+6) What is a hyperhemolytic crisis? 
+ 
+It is essentially a hemolytic crisis, but this can occur in people with sickle cell disease and G6PD 
+ 
+Crack Cast Show Notes – Blood and Blood Components – Feb 2016 
+www.crackcast.org 
+ 
+7) Breaking down transfusion reactions another way: ACUTE vs DELAYED  
+ACUTE reactions 
+1) ABO incompatibility - ie. INTRAvascular hemolytic transfusion reaction 
+2) TRALI 
+3) TACO 
+4) bacterial contamination 
+5) allergic reaction 
+6) febrile transfusion reaction 
+ 
+DELAYED reactions - all of which are severe but we probably won’t see 
+1) graft vs. host disease 
+2) EXTRAvascular hemolytic transfusion reaction 
+3) viral transmission: 
+HepC,B, HIV, CMV  
+ 

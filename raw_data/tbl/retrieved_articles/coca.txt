@@ -1,0 +1,143 @@
+# Metadata
+- Source: The Bottom Line
+- Title: COCA
+- Original URL: https://www.thebottomline.org.uk/summaries/coca/
+- Scrape Date: 2025-07-17
+- Summary Date: AUTO_FILL_IF_AVAILABLE
+
+Effect of Intravenous or Intraosseous Calcium vs Saline on Return of Spontaneous Circulation in Adults With Out-of-Hospital Cardiac Arrest:
+A Randomized Clinical Trial
+MF Vallentin,
+@LarsWAndersen1
+. JAMA 2021; Published online November 30, 2021. doi:10.1001/jama.2021.20929
+Clinical Question
+In patients with out-of-hospital cardiac arrest, does the administration of calcium compared with placebo, improve sustained return of spontaneous circulation?
+Background
+Calcium has an important role in myocardial contractility. It has both inotropic and vasopressor effects.
+In critically ill patients a direct relationship between ionised calcium levels and blood pressure has been shown
+Small RCTs in 1985 investigating the use of calcium in patients with out-of-hospital cardiac arrest reported improved point estimates with the use of calcium, although these results were not significant
+Design
+Randomised controlled trial
+Variable block sizes (2,4,6) in a 1:1 ratio
+Random number generator used
+Stratified according to mobile emergency care unit stations
+Double blinded
+Placebo-controlled
+Registered on
+clinicaltrials.gov
+Sample size calculation:
+Originally calculated at 430 patients
+This was updated following blinded review of 1st 270 randomised patients which showed rates of return of spontaneous circulation were lower than anticipated
+Updated sample size calculation:
+674 patients would give 80% power to detect an absolute improvement of 9% in the primary outcome from a baseline of 18%, with a false positive rate of 5%
+Trial stopped early on recommendation of safety monitoring committee following planned interim analysis
+Modified intention to treat analysis (only included patients who received at least 1 dose of study drug and met inclusion/exclusion criteria)
+Setting
+Pre-hospital services in central Denmark
+Patients randomised from Jan 2020 – April 2021
+Population
+Inclusion
+:
+≥18 years
+Out of hospital cardiac arrest
+Received at least 1 dose of adrenaline
+Exclusion
+:
+Traumatic cardiac arrest (including drowning and external asphyxia)
+Known/suspected pregnancy
+Received adrenaline during cardiac arrest before arrival of prehospital personnel with the study drug
+Clinical indication for calcium administration
+397 patients randomised out of 1221 patients with OOH cardiac arrest
+A majority of those excluded (578/824) did not meet inclusion criteria
+197 randomised to receive calcium chloride, 200 randomised to receive sodium chloride
+6 randomised patients excluded from analysis as had exclusion criteria (all traumatic cardiac arrests)
+Comparing baseline characteristics of intervention (calcium) vs. control (saline) group
+Age: 67 vs 69
+Male: 68% vs 74%
+Co-morbidity
+Pulmonary disease: 25% vs 28%
+Coronary artery disease: 24% vs 23%
+Kidney disease: 18% vs 22%
+Chronic heart failure: 17% vs 18%
+Cardiac arrest characteristics
+Location – home: 83% vs 80%
+Witnessed: 61% vs 57%
+Bystander CPR: 82% vs 89%
+Automated external defibrillator shock: 8% vs 7%
+Initial cardiac rhythm
+Asystole: 53% vs 48%
+PEA: 24% vs 25%
+VF/VT: 22% vs 27%
+Administration and drug characteristics
+IV: 40% vs 40%
+IO: 60% vs 50%
+Time to administration
+Adrenaline: 17 vs 17 min
+Trial drug: 17 vs 18 min
+Number of doses of trial drug administered
+1: 27% vs 27%
+2: 73% vs 73%
+Intervention
+Calcium
+5mmol (10ml ampoule) of calcium chloride administered IV or IO immediately after the 1st dose of adrenaline and again following the 2nd dose of adrenaline if needed
+Control
+Normal saline
+Management common to both groups
+An ambulance and a physician manned mobile emergency medical service respond to all cardiac arrests, and almost all patients with sustained return of spontaneous circulation or ongoing CPR are transported to a single tertiary centre that is capable of PCI and ECMO
+Treatment during and post-arrest generally adheres to standard European guidelines. ~90% of patients who survived at least 24 hours underwent coronary angiography and were treated with targeted temperature management
+Outcome
+Primary outcome
+: Sustained return of spontaneous circulation (defined as palpable pulses or other signs of circulation without a need for chest compressions for > 20 minutes) – no significant difference
+19% in calcium group vs 27% in placebo group
+Risk ratio: 0.72 [95% CI, 0.49-1.03], P = .09
+Secondary outcomes
+:
+Comparing intervention vs. control group
+No significant difference in
+Survival at 30 days
+5.2% vs 9.1%
+Risk ratio: 0.57 [95% CI, 0.27-1.18], P = .17
+Survival at 30 days with a favourable neurological outcome
+3.6% vs 7.6%
+Risk ratio: 0.48 [95% CI, 0.20-1.12], P = .12
+Survival at 90 days
+5.2% vs 9.1%
+Risk ratio: 0.57 [95% CI, 0.27-1.18)
+Significantly less in calcium group
+Survival at 90 days with a good neurological outcome
+3.6% vs 9.1%
+Risk ratio: 0.40 [95% CI, 0.17-0.91)
+Tertiary outcomes:
+1st ionised calcium after ROSC – significantly higher in calcium group
+1.41 vs 1.17 mmol/l
+Bayesian analysis
+The probability that calcium has a positive effect (RR > 1) on the primary outcome is 4%
+Authors’ Conclusions
+In patients with out-of-hospital cardiac arrest, treatment with calcium, compared with saline, did not significantly improve sustained return of spontaneous circulation
+Strengths
+Randomised controlled trial
+Blinded
+Balanced trial groups (baseline characteristics, intra-arrest and post arrest interventions)
+Registered on clinicaltrials.gov
+No loss to follow up
+Weaknesses
+Trial stopped early and did not reach pre-planned sample size
+Patients received study drug at a median of 17 minutes following cardiac arrest
+This may not be generalisable to the in-hospital setting
+In the
+VAM-IHCA
+trial drugs were administered in ~8-9 minutes
+Regional trial in a single country with a pre-hospital set-up that not all areas have, with a physician manned mobile emergency care unit attending all cardiac arrests
+The Bottom Line
+In patients with out-of-hospital cardiac arrest, treatment with calcium compared with saline, at a median of 17 minutes post cardiac arrest, did not significantly improve sustained return of spontaneous circulation.
+The point estimates suggest clinically significant harm from the use of calcium in this population
+External Links
+Effect of Intravenous or Intraosseous Calcium vs Saline on Return of Spontaneous Circulation in Adults With Out-of-Hospital Cardiac Arrest:
+A Randomized Clinical Trial
+[further reading]
+Critical Care Reviews COCA Livestream
+Metadata
+Summary author: @davidslessor
+Summary date: 1st December 2021
+Peer-review editor: George Walker
+Image from Pixabay

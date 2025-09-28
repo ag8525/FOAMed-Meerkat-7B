@@ -1,0 +1,93 @@
+# Metadata
+- Source: The Bottom Line
+- Title: SHoC-ED 3
+- Original URL: https://www.thebottomline.org.uk/summaries/icm/shoc-ed-3/
+- Scrape Date: 2025-07-17
+- Summary Date: AUTO_FILL_IF_AVAILABLE
+
+Does Point-of-care Ultrasound Use Impact Resuscitation Length, Rates of Intervention, and Clinical Outcomes During Cardiac Arrest?
+Atkinson RP et al. Cureus 11(4): e4456. DOI 10.7759/cureus.4456
+Clinical Question
+In patients presenting to the Emergency Department (ED) in cardiac arrest, does a standardised point-of-care ultrasound protocol, compared with usual care, affect the length of resuscitation, frequency of interventions, and clinical outcomes?
+Background
+The use of point-of-care ultrasound (POCUS) has been increasing across acute medical specialties with the development of several POCUS protocols e.g. RUSH
+Despite this, studies have shown mixed outcomes with regards to improving  patient outcomes
+SHoC-ED trial
+showed no benefit in mortality in patients with undifferentiated shock treated using standardised POCUS protocol compared to usual care
+Retrospective analysis of MIMIC-III database showed that the use of transthoracic echocardiography in critically ill patients was associated with an improved 28-day mortality
+Specifically in patients in cardiac arrest, the use of POCUS has the ability of diagnosing aetiology and hence, guide subsequent care, but this needs to be balanced against the risk of interruption to basic life support (
+rebelEM blog
+)
+Design
+Single centre
+Non-randomised, unblinded
+Retrospective analysis of healthcare records using structured chart review
+Scans performed by competent personnel
+To provide 80% power to detect a 5% difference from a baseline population survival to hospital discharge rate at alpha 0.05, sample size of 185 required
+assuming baseline discharge rate of 5%
+Setting
+Tertiary healthcare centre in Canada
+2010 to 2014
+Population
+Inclusion
+:
+Age 19 or over
+Cardiac arrest at presentation to emergency department
+Exclusion
+:
+Resuscitation halted due to end-of-life decisions
+Cardiac arrest as inpatient
+223 patients met inclusion criteria (180 had POCUS assessment; 21 had visualised cardiac activity, 159 did not)
+Similar baseline characteristics including rates of witnessed arrest and bystander CPR
+Intervention
+POCUS assessment during Advanced Cardiac Life Support (ACLS)
+Further sub-divided based on visualised cardiac activity or standstill during initial POCUS examination
+Images acquired using standard POCUS techniques using curvilinear or phased array probes by competent sonographers
+Control
+No POCUS during ACLS
+Management common to both groups
+Resuscitation based ACLS protocols
+Outcome
+Primary outcome
+: Pts in the POCUS groups received longer mean duration of resuscitation and higher intervention rates compared to pts without POCUS
+Length of resuscitation
+POCUS cardiac activity: 27.3 mins (95% CI 17.7 – 37.0 mins)
+POCUS standstill: 11.51 mins (95% CI 10.2 – 12.8 mins)
+Control: 14.36 mins (95% CI 9.89 – 18.8 mins)
+Secondary outcome
+:
+Pts in POCUS group had significantly higher rates of ROSC and survival to hospital admission compared to pts without POCUS
+There was no difference in rate of survival to hospital discharge
+Authors’ Conclusions
+Patients with cardiac activity on PoCUS received increased resuscitative effort and had improved clinical outcomes as compared to those with negative findings or when no PoCUS was performed.
+Strengths
+All cardiac arrests were included for analysis
+POCUS protocol used consistent with international practice
+Weaknesses
+Retrospective analysis (non-randomised, unblinded, single centre)
+Power calculation based on secondary outcome
+“small difference of 5%” but unclear if absolute or relative. If absolute, investigators estimated that POCUS would lead to zero deaths! If relative, they are looking for an absolute difference of 0.25%, this would require a sample size of 116231 for two cohorts, and binomial categorical outcomes of 5% and 4.75% with alpha 0.05 and beta 80%
+80% of patients had POCUS assessment – unclear if cohorts had been matched to even out covariates
+Actual delays in CPR not recorded
+Performed by competent personnel – what does this mean?
+Quality and accuracy of POCUS examination not assessed
+Quality of life indicators not assessed in survivors
+The Bottom Line
+The fact that pts with cardiac activity visualised on POCUS received longer resuscitation attempts, more interventions and had a higher rate of ROSC is unsurprising
+The reverse is also unsurprising as the decision to terminate or stop intervention is a self-fulfilling prophecy
+Despite higher rates of ROSC in pts with cardiac activity on POCUS, the rate of survival to hospital discharge falls to that of pts who received no POCUS
+I will continue to use POCUS during the management of cardiac arrest but priority remains good quality chest compressions and resuscitation
+Further testing by prospective trial as this study is a) hypothesis generating b) has biological plausibility and c) health economics and d) safety relevance
+External Links
+[article] Atkinson et al.
+Does Point-of-care Ultrasound Use Impact Resuscitation Length, Rates of Intervention, and Clinical Outcomes During Cardiac Arrest? A Study from the Sonography in Hypotension and Cardiac Arrest in the Emergency Department (SHoC-ED) Investigators
+[further reading] Atkinson et al.
+Does Point-of-Care Ultrasonography Improve Clinical Outcomes in Emergency Department Patients With Undifferentiated Hypotension? An International Randomized Controlled Trial From the SHoC-ED Investigators
+[further reading] REBEL EM blog.
+Impact of POCUS During Cardiac Arrest Resuscitation on Compression Pauses
+Metadata
+Summary author:
+Adrian Wong
+Summary date: 30 April 2019
+Peer-review editor:
+Duncan Chambler

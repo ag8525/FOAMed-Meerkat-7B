@@ -1,0 +1,142 @@
+# Metadata
+- Source: The Bottom Line
+- Title: ACORN
+- Original URL: https://www.thebottomline.org.uk/summaries/icm/acorn/
+- Scrape Date: 2025-07-17
+- Summary Date: AUTO_FILL_IF_AVAILABLE
+
+Cefepime vs Piperacillin-Tazobactam in Adults Hospitalized
+With Acute Infection
+Qian ET. JAMA 2023;330:1557-1567. doi:10.1001/jama.2023.20583
+Clinical Question
+In acutely ill adults (ED / ICU) does the administration of cefipime or piperacillin-tazobactam (pip-taz) result in an increased incidence of AKI or death by day 14?
+Background
+Sepsis is one of the
+most common reasons
+for admission to ICU and as such antibiotics are frequently used in the critical care environment
+The use of anti-pseudomonal antibiotics is frequently recommended by guidelines
+Despite their multiple benefits, antimicrobial usage can cause
+patient harm
+especially with altered pharmacokinetics in critical illness
+In particular there have been concerns regarding both pip-taz and renal dysfunction, and cefepime and neurotoxicity however the evidence for this is mixed and low-grade
+There are limited randomised trials that seek to evaluate the risks of antibiotic associated harm
+Design
+Pragmatic, open-label, parallel-group, randomized trial
+Investigator-initiated
+Randomised without stratification in 1:1 ratio
+Use of clinical decision tool in EMR to identify patients and subsequently randomise and place appropriate prescription of antibiotic based on eGFR
+Data predominantly extracted from EMR
+Clinicans asked to record reason for cessation / commencing unassigned antibiotic for 7 days following randomisation
+Primary outcome was a novel 5 stage ordinal scale of AKI or death:
+0 = no new or worsening AKI
+1 = Creatinine (Cr) 1.5-1.9x baseline or increase y ≥0.3 mg/dL [≥26.5 μmol/L])
+2 = Cr 2.0 – 2.9x baseline
+3 = Cr ≥ 3.0 x baseline, Cr ≥4.0mg/dL [≥353.7 μmol/L] or new RRT
+4 = death
+Pre-specified secondary outcomes
+Initially, 2050 patients required to provide an OR 0.65 in the primary outcome
+This was increased to 2500 to account for higher use of vancomycin and powered to show an OR 0.75 in cefipime group compared to pip-taz group
+An OR of 0.75 would show an absolute difference of 5% in patients with AKI or death (70% no AKI, 6% death)
+An OR < 1.0 indicates better outcome with cefipime
+Ethical waiver of consent granted
+Independent DSMB
+Setting
+Single centre, USA
+November 2021 – October 2022
+Population
+Inclusion
+:
+≥ 18 years old and located in a participating emergency department or medical intensive care unit
+< 12 hours from presentation to study hospital
+Treating clinician initiating an order for an anti-pseudomonal cephalosporin or antipseudomonal penicillin
+Exclusion
+:
+Known receipt of > 1 dose of an anti-pseudomonal cephalosporin or anti-pseudomonal penicillin during the last 7 days
+Current documented allergy to cephalosporins or penicillin
+A prisoner
+Lack of equipoise for need for an anti-pseudomonal antibiotic
+3806 assessed –> 2634 randomised –> 1277 cefipime and 1357 pip-taz
+123 excluded: 119 did not receive drug as allocated and 4 prisoners
+Comparing baseline characteristics of cefipime vs. pip-taz group
+Age: 57 vs 59
+Male: 57 vs 58%
+Hours from presentation to enrollment: 1.3 vs 1.1 hours
+Location of enrollment:
+ED: 94 vs 96%
+Suspected site of infection:
+Lung: 21 vs 23 %
+Abdominal: 26 vs 23%
+Skin and soft-tissue: 17 vs 19%
+Sepsis (as per Sepsis 3): 54 vs 54%
+SOFA: 2 vs 2
+Mechanical Ventilation: 9 vs 7%
+Vasopressors: 13 vs 13%
+Vancomycin on enrollment: 78 vs 77%
+CKD: 20 vs 20%
+AKI at enrolment:
+Nil: 51 vs 50%
+Stage III: 12 vs 11%
+Coma: 7 vs 6%
+Delirium: 5 vs 4%
+Intervention (Cefipime)
+2-g intravenous push over 5 minutes every 8 hours
+Median 3 days duration
+Control (Piperacillin-Tazobactam)
+3.375-g bolus over 30 minutes for the initial administration followed by an extended infusion of 3.375 g every 8 hours infused over 4 hours for subsequent doses
+Median 3 days duration
+Management common to both groups
+No other anti-pseudomonal antibiotics allowed
+Duration of therapy and addition of other antibiotics (e.g. vancomycin) at clinician discretion
+Dedicated clinical pharmacists in both ED and ICU
+Outcome
+Primary outcome
+:
+AKI (any stage) or death by day 14
+OR 0.95 (95% CI 0.80 – 1.13)
+Death: 7.6 vs 6.0% (Risk Difference 1.6%, 95% CI -0.5 to 3.6)
+No difference with multiple sensitivity analyses (eTable 11, including per protocol, differing durations of anti-pseudomonal coverage, and receipt of vancomycin at baseline)
+Secondary outcomes
+:
+Comparing cefipime vs pip-taz
+No significant difference in
+Major Adverse Kidney Events (MAKE) at day 14: 10.2 vs 8.8% (Risk Difference 1.4%, 95% CI -1.0 to 3.8)
+No differences between all components (death, RRT, final creatinine ≥ 2 x baseline)
+Significantly worse in cefipime group
+Delirium and coma free days at day 14: Median 14 vs 14
+OR 0.79 (95% CI 0.65 – 0.95)
+Delirium or coma incidence: 20.8 vs 17.3% (Risk Difference 3.4%, 95% CI 0.3 – 6.6)
+Still significant at day 28 (exploratory analysis)
+No difference in vasopressor-free days, ventilator-free days, ICU free-days and hospital-free days by day 28 (exploratory analyses)
+Authors’ Conclusions
+In hospitalised adults treatment with pip-taz as opposed to cefipime did not increase the incidence of AKI or death. Cefepime use resulted in more neurological dysfunction
+Strengths
+Large study addressing an important and frequently used intervention with limited randomised evidence
+Strong internal validity – randomisation, allocation concealment, well balanced baseline characteristics, detailed screening log and majority received intervention  as randomised (>95%)
+Leveraging the EMR to recruit, randomize, prescribe intervention and collect data is impressive
+Given the duration from commencement of randomisation to final follow up was under a year and over 2,500 patients were randomised at a single site, the use of an EMR in this manner will likely be of increasing importance for clinical research
+Multiple sensitivity analyses for both the primary outcome and days alive and free of delirium and coma within 14 Days enhances robustness
+Weaknesses
+Could the primary outcome be more patient centric?
+Approximately 80% of patients in both groups had no AKI or a Stage I AKI at day 14
+If a patient has a transient rise in creatinine that then subsequently improves it may be argued this is not a truly patient focused outcome
+However the counter argument would be that death was included as part of the ordinal scale, secondary outcomes were relevant and meaningful, and the clinical concern around pip-taz use was around renal impairment.
+Single centre
+This may mean some groups of patients are under-represented compared to other sites, e.g. stem cell transplants 1.3 vs 1.2% (eTable 1)
+Unblinded
+Approximately 20% of patients received alternate antibiotic within the first 14 days (eTable 7), however exposure was similar in both groups
+Median duration of antibiotic exposure short and only ~50% of the population retrospectively deemed to meet Sepsis III criteria by study investigators
+This may bias towards the null but is reflective of the undifferentiated nature of ED presentations which made up a large proportion of randomisations
+Relatively low rates of critically unwell patients
+The Bottom Line
+In my practice I have usually used pip-taz unless there is a specific clinical indication to use cefipime and I will continue to do so following this trial
+If using cefipime it is important to stay attendant to the potential for neurotoxicity, especially in the critically ill who may have altered pharmacokinetics or blood brain barrier disruption
+External Links
+article
+Cefepime vs Piperacillin-Tazobactam in Adults Hospitalized With Acute Infection The ACORN Randomized Clinical Trial
+Podcast
+PulmPEEPs and ICU Ed and Todd-Cast: ACORN Trial
+Metadata
+Summary author: George Walker @hgmwalker89
+Summary date: 17th December 2023
+Peer-review editor: David Slessor
+Picture by: Petr Ganej / Pexels

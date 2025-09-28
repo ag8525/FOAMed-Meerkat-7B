@@ -1,0 +1,301 @@
+---
+title: "CrackCast Episode 134: Tickborne Illnesses"
+url: "https://canadiem.org/crackcast"
+date: 2017-12
+source: "CanadiEM – CrackCast"
+original_file: "CC-Ep-134-Tickborne-illnesses-Ch.-126-Rosens-9th-Ed.-.pdf"
+summary: |
+  The document provides a comprehensive overview of tickborne illnesses, focusing on various diseases such as Lyme disease, Tularemia, Rocky Mountain Spotted Fever (RMSF), Q fever, Ehrlichiosis, Babesiosis, Colorado Tick Fever, and Tick Paralysis. It details the pathogens, tick vectors, and geographic distribution of these diseases, emphasizing the differences between Argasid (soft) and Ixodid (hard) ticks in disease transmission. Key diagnostic principles include recognizing the phases of Lyme disease and the clinical presentation of erythema migrans, while management strategies cover antibiotic treatments for different stages of Lyme disease and other tickborne illnesses. The document also highlights the Jarisch-Herxheimer reaction, a potential complication of treatment, and provides guidance on tick removal and the pitfalls of serologic testing, including false positives.
+
+---
+
+## Overview
+
+### Episode Overview
+
+1. For each of the following illnesses, list the name of the pathogen, the most common tick vector, and the approximate geographic distribution of illness:
+   - Lyme Disease
+   - Tularemia
+   - RMSF
+   - Q-Fever
+   - Erlichiosis
+   - Babesiosis
+   - Colorado Tick Fever
+   - Tick Paralysis
+2. Describe the difference between the Argasid Ticks and the Ixodid ticks as it relates to disease transmission. Which one tick-borne illness is transmitted by an Argasid tick?
+3. Describe the 3 phases of Lyme Disease, and give a strategy for diagnosis. List 4 problems with serology testing in Lyme disease.
+4. Describe erythema migrans.
+   - How quickly does it spread?
+   - List 8 ddx for erythema migrans.
+5. Describe the treatment of Early Lyme disease, Early Disseminated Infection, and Late Infection.
+6. What is the Jarisch-Herxheimer reaction? How is it treated?
+7. Describe the clinical presentation of tick relapsing fever. How is it treated?
+8. What animals are a source of Tularemia? What is the infecting organism? How does it present clinically? How is it treated?
+9. Describe the clinical presentation of RMSF. What are 3 non-dermatologic manifestations? How is it diagnosed and treated?
+10. What is the weakness pattern of tick paralysis? What is the pathogenesis? How is it treated?
+
+### Rosens in Perspective
+
+None this time!
+
+## Core Questions
+
+### 1) For each of the following illnesses, list the name of the pathogen, the most common tick vector, and the approximate geographic distribution of illness
+
+| DISEASE | PATHOGEN | ARTHROPOD VECTOR | GEOGRAPHIC DISTRIBUTION |
+|---------|----------|------------------|-------------------------|
+| Bacterial (including spirochetal) | | | |
+| Lyme disease | Borrelia burgdorferi | Ixodes scapularis | Northeastern United States |
+| | | Ixodes pacificus | Upper Midwestern United States |
+| | | Ixodes ricinus | Pacific Coast Europe |
+| Tularemia | Francisella tularensis | Ixodes scapularis | Southwest central United States |
+| | | Amblyomma americanum | |
+| | | Dermacentor variabilis | |
+| Rickettsial | | | |
+| Rocky Mountain spotted fever | Rickettsia rickettsii | Dermacentor andersoni | Predominantly southeastern United States |
+| | | Dermacentor variabilis | |
+| | | Rhipicephalus sanguineus | Arizona |
+| Q fever | Coxiella burnetii | Dermacentor andersoni | Worldwide |
+| Human monocytic ehrlichiosis | Ehrlichia chaffeensis | Amblyomma americanum | South central and southeastern United States |
+| Human granulocytic anaplasmosis | Anaplasma phagocytophilum | Ixodes scapularis | New England and north central United States |
+| | | Ixodes pacificus | Northern California |
+| Parasitic (protozoal) | | | |
+| Babesiosis | Babesia microti | Ixodes scapularis | Coastal New England |
+| Viral | | | |
+| Colorado tick fever | Orbivirus | Dermacentor andersoni | Mountain areas of western United States and Canada |
+| Miscellaneous | | | |
+| Tick paralysis | Ixobotoxin | Dermacentor andersoni | Worldwide |
+| | | Dermacentor variabilis | |
+| | | Amblyomma americanum | |
+| | | Ixodes scapularis | |
+| | | Ixodes pacificus | |
+| | | Ixodes holocyclus | |
+
+### 2) Describe the difference between the Argasid Ticks and the Ixodid ticks as it relates to disease transmission. Which one tick-borne illness is transmitted by an Argasid tick?
+
+Argasid ticks = Soft ticks. The classic association is with tick-borne relapsing fever.  
+Ixodid ticks = Hard ticks. Think Lyme/babesiosis/Tularemia.
+
+“There are many genera and species of ticks in the families Ixodidae (hard ticks) and Argasidae (soft ticks) that are of public health importance.
+
+Some representative genera, and diseases they are known vectors for, include:
+
+- Amblyomma (tularemia, ehrlichiosis, Rocky Mountain spotted fever (RMSF), and boutonneuse fever)
+- Dermacentor (RMSF, Colorado tick fever, tularemia, Siberian tick typhus, and Central European tick-borne encephalitis, as well as being an agent of tick paralysis)
+- Hyalomma (Siberian tick typhus, Crimean-Congo hemorrhagic fever)
+- Ixodes (Lyme disease, babesiosis, human granulocytic ehrlichiosis, and Russian spring-summer encephalitis)
+- Rhipicephalus (RMSF and boutonneuse fever)
+- Ornithodoros (tick-borne relapsing fever)
+- Carios (tick-borne relapsing fever).”
+
+According to the CDC (https://www.cdc.gov/dpdx/ticks/index.html)
+
+### 3) Describe the 3 phases of Lyme Disease, and give a strategy for diagnosis. List 4 problems with serology testing in Lyme disease
+
+See Rosen’s figure 126.5
+
+**Early**  
+- Erythema Migrans (localized vs multiple)
+- Flu-like illness
+- Clinical diagnosis!!! Test for IgM falsely negative as rash appears before seroconversion
+
+**Early Disseminated**  
+- Neuro: cranial neuropathy / meningitis / radiculoneuropathy
+- Joint: acute inflammatory large joint arthritis
+- Carditis w/ heart block
+- Test for IgM & IgG to B. burgdorferi then western blot
+
+**Late**  
+- Neuro: peripheral neuropathy / encephalopathy
+- Chronic Arthritis
+- Test for IgG then western blot
+
+“Indications for serologic testing — Serologic testing should be performed in patients who meet all of the following criteria:
+- A recent history of having resided in or traveled to an area endemic for Lyme disease; and
+- A risk factor for exposure to ticks: and
+- Symptoms consistent with early disseminated disease or late Lyme disease (e.g., meningitis, radiculopathy, mononeuritis, cranial nerve palsy, arthritis, carditis)
+
+Serologic testing for Lyme disease should not be performed in the following settings:
+- In patients with an erythema migrans (EM) rash. Patients with skin rashes consistent with EM who reside in or have recently traveled to an endemic area should be treated for Lyme disease.
+- For screening of asymptomatic patients living in endemic areas.
+- For patients with non-specific symptoms only (e.g., fatigue, myalgias/arthralgias). The use of serologic testing in populations with a low pre-test probability of Lyme disease results in a greater likelihood of false-positive test results than true positive test results.”
+
+According to Uptodate
+
+### 4) Describe erythema migrans. How quickly does it spread? List 8 ddx for erythema migrans
+
+See Rosen’s figure 12.6.6 for a picture
+
+- EM = rash @ site of the tick bite
+- Seen usually within 7 to 14 days after the bite (range 3 to 30 days)
+- Often found in or near the axilla, inguinal region, popliteal fossa, or at the belt line.
+- They typically expand slowly over the course of days or weeks
+- Often with central clearing
+- May reach a diameter of more than 20 cm
+- EM lesions rarely have necrotic or vesicular centers
+
+***Note*** Multiple EM lesions are a sign of spirochetemia, not multiple tick bites
+
+According to Uptodate
+
+### 5) Describe the treatment of Early Lyme disease, Early Disseminated Infection, and Late Infection
+
+| SYNDROME AND MANIFESTATION | DRUG | ADULT DOSAGE | PEDIATRIC DOSAGE |
+|----------------------------|------|--------------|------------------|
+| Early Lyme disease | Doxycycline | 100 mg PO bid for 21 days | |
+| | Amoxicillin | 250–500 mg PO tid for 21 days | 25–40 mg/kg/day tid |
+| Alternative | Cefuroxime axetil | 500 mg PO bid for 21 days | 250 mg bid |
+| | Erythromycin (less effective than doxycycline or amoxicillin) | 500 mg PO qid for 14–21 days | |
+| Neurologic disease | | | |
+| ◦ Facial nerve paralysis | With an isolated deficit, oral regimens for early disease, used for at least 28 days, may suffice. For a deficit associated with other neurologic manifestations, intravenous therapy is warranted (see below). | | |
+| ◦ Lyme meningitis | Ceftriaxone | 2 g IV by single dose for 14–18 days | 75–100 mg/kg/day IV |
+| | Penicillin G | 20 million units daily in divided doses for 10–14 days | 300,000 units/kg/day IV |
+| Alternative | Chloramphenicol | 1 g IV qid for 10–21 days | |
+| Cardiac disease | | | |
+| ◦ Mild | Doxycycline | 100 mg PO bid | |
+| | Amoxicillin | 250–500 mg PO tid | 25-50 mg/kg/day tid |
+| ◦ More severe | Ceftriaxone | 2 g IV daily by single dose for 14–21 days | 75-100 mg/kg/day IV |
+| | Penicillin G | 20 million units daily in divided doses for 14–21 days | 300,000 units/kg/day IV |
+| Arthritis | | | |
+| Oral | Doxycycline | 100 mg PO bid for 30 days | |
+| | Amoxicillin | 500 mg PO tid for 30 days | 50 mg/kg/day divided tid |
+| Parenteral | Ceftriaxone | 2 g IV by single dose for 14–21 days | 75–100 mg/kg/day IV |
+| | Penicillin G | 20 million units daily in divided doses for 14–21 days | 300,000 units/kg/day IV |
+
+### 6) What is the Jarisch-Herxheimer reaction? How is it treated?
+
+Remember this old thing from Syphilis?
+- Up to 15 percent of patients w/ early Lyme disease (mainly those w/ multiple erythema migrans lesions)
+- Hallmark is transient worsening of symptoms during the first 24 hours of therapy, thought to be secondary to host response to antigen load from dying parasites
+- There is no way to prevent this reaction.
+
+Mainstay treatment is antipyretics and supportive care.
+
+### 7) Describe the clinical presentation of tick relapsing fever. How is it treated?
+
+Relapsing fever, caused by Borrelia spirochetes, comes in 2 flavors:
+- Tick-borne (TBRF)
+  - Borrelia hermsii (in the mountainous West) and Borrelia turicatae (in the Southwest and South Central region)
+- Louse-borne (LBRF)
+  - Borrelia recurrentis
+  - Developing world
+  - Body lice - human to human transmission
+
+Clinical presentation:
+“Relapsing fever presents with the sudden onset of fever, punctuated by an intervening afebrile period, which occurs at least twice. The temperature may be as high as 43ºC and is usually above 39ºC.
+
+The first fever episode ends by crisis, consisting of rigors, a further elevation in temperature, and increases in pulse and blood pressure, lasting approximately 15 to 30 minutes. The crisis phase is followed by profuse diaphoresis, falling temperature, and hypotension, which usually persists for several hours. Mortality from untreated relapsing fever is most common during the crisis and its immediate aftermath.”
+
+Uptodate
+
+Treatment:
+Penicillins and tetracyclines are the mainstay!!! As with all spirochetes, watch out for Jarisch-Herxheimer reactions.
+
+### 8) What animals are a source of Tularemia? What is the infecting organism? How does it present clinically? How is it treated?
+
+- This illness ranges from asymptomatic to SEPTIC SHOCK LEADING TO DEATH!!!
+- Causative agent = Francisella Tularensis = gram-negative coccobacillus
+- Endemic worldwide
+- Hosts:
+  - Ticks
+  - Flies
+  - Mosquitoes
+  - Rabbits
+  - Rodents
+  - Cats
+
+Clinical presentation:
+- Ulceroglandular *most common*
+  - Single erythematous papulo-ulcerative lesion with a central eschar at the site of a tick bite
+- Glandular
+  - Tender adenopathy
+- Oculoglandular (conjunctivitis + Glandular)
+- Oropharyngeal (pharyngitis + Glandular)
+- Typhoidal (flu-like illness)
+- Pulmonary (cough, fever)
+
+Treatment: streptomycin in general for adults, gentamicin for peds. Mild to moderate disease, or prophylaxis, doxy or cipro.
+
+### 9) Describe the clinical presentation of RMSF. What are 3 non-dermatologic manifestations? How is it diagnosed and treated?
+
+Diagnostic Criteria for Spotted Fever Rickettsiosis (Rickettsia spp.)
+- Clinical criteria
+  - Any reported fever and one or more of the following: rash, eschar, headache, myalgia, anemia, thrombocytopenia, or hepatic transaminase level elevation
+- Laboratory-confirmed
+  - Serologic evidence of a fourfold change in immunoglobulin G (IgG)–specific antibody titer reactive with Rickettsia rickettsii or other spotted fever group antigen by indirect immunofluorescence assay (IFA) between paired serum specimens (one taken in the first week of illness and a second 2 to 4 weeks later) or
+  - Detection of R. rickettsii or other spotted fever group DNA in a clinical specimen via amplification of a specific target by PCR assay, or
+  - Demonstration of spotted fever group antigen in a biopsy or autopsy specimen by immunohistochemistry (IHC), or
+  - Isolation of R. rickettsii or other spotted fever group Rickettsia from a clinical specimen in cell culture
+- Laboratory-supportive
+  - Has serologic evidence of elevated IgG or immunoglobulin M (IgM) antibody reactive with R. rickettsii or other spotted fever group antigen by IFA, enzyme-linked immunosorbent assay (ELISA), a Note: Current commercially available ELISA tests are not quantitative, cannot be used to evaluate changes in antibody titer, and hence are not useful for serologic confirmation. IgM tests are not strongly supported for use in the serodiagnosis of acute disease because the response might not be specific for the agent (resulting in false-positives) and the IgM response might be persistent. Complement fixation (CF) tests and older test methods are neither readily available nor commonly used. CDC uses in-house IFA IgG testing (cutoff ≥ 1:64), preferring simultaneous testing of paired specimens, and does not use IgM results for routine diagnostic testing. dot ELISA, or latex agglutination
+- Exposure
+  - Exposure is defined as having been in a potential tick habitat within the 14 days preceding the onset of symptoms. The patient's occupation should be recorded if relevant to exposure. A history of a tick bite is not required.
+- Case classification
+  - Suspected: A case with laboratory evidence of past or present infection but no clinical information available (e.g., laboratory report)
+  - Probable: A clinically compatible case (meets clinical evidence criteria) that has supportive laboratory results
+  - Confirmed: A clinically compatible case (meets clinical evidence criteria) that is laboratory-confirmed
+
+From Centers for Disease Control and Prevention, National Notifiable Diseases Surveillance System: Spotted fever rickettsiosis (Rickettsia spp.) 2010 case definition.
+
+Antibiotic therapy for Rocky Mountain Spotted Fever
+
+| PATIENT | DOXYCYCLINE (ORAL OR IV) | CHLORAMPHENICOL (ORAL OR IV) |
+|---------|--------------------------|------------------------------|
+| Adult | 100 mg bid; consider initial loading dose of 200 mg IV for seriously ill patients | 50–75 mg/kg/day, divided q6h |
+| Child (<45 kg) | 2.2 mg/kg PO q12h | 50–75 mg/kg/day, divided q6h |
+
+### 10) What is the weakness pattern of tick paralysis? What is the pathogenesis? How is it treated?
+
+“Most patients eventually develop an unsteady gait that progresses to an ascending complete paralysis. Deep tendon reflexes are characteristically absent. Respiratory paralysis and death can occur in severe cases.”
+
+Most commonly occurring in North America and Australia, but reported worldwide.
+
+Tick vectors — “over 40 individual tick species are capable of producing salivary toxins that can cause paralysis in humans and animals”
+
+- North America = Dermacentor andersoni (the Rocky Mountain wood tick), and Dermacentor variabilis (the American dog tick)
+- Amblyomma americanum (the Lone Star tick)
+- Ixodes scapularis (the black-legged tick)
+- Ixodes pacificus (the western black-legged tick)
+- Australia = scrub tick (Ixodes holocyclus)
+
+Pathophysiology is not fully understood, but…
+
+Just like botulinum toxin: “Neurotoxins produced by I. holocyclus act on presynaptic motor nerve terminals and inhibit the release of acetylcholine
+- The onset of symptoms of tick paralysis occurs only after a female tick has attached and begun feeding. Symptoms do not typically develop until the tick has fed for four to seven days.
+- Toxin causes
+  - Slowing of motor nerve conduction velocity
+  - Lowering of the height of the nerve and muscle action potential
+  - Impaired propagation of afferent nerve fiber signals
+
+Treatment is easy: remove the tick, supportive care including mechanical ventilation.
+
+## Wisecracks
+
+### 1) How do you remove a tick?
+
+Recommended Method for Tick Removal (Rosen’s 126.2)
+
+1. Remove an embedded tick by grasping it with blunt forceps or tweezers as close to the point of attachment as possible.
+2. Do not use bare fingers to remove ticks from animals or humans; when tweezers are unavailable, fingers should be shielded with a tissue, paper towel, or rubber glove.
+3. Apply gentle, steady, upward traction with the forceps; do not twist or jerk the tick. Avoid squeezing or crushing the tick.
+4. Do not handle the tick with bare hands. After removal of the tick, thoroughly disinfect the bite site and wash hands with soap and water.
+5. Dispose of ticks by placing them in a container of alcohol or flushing them down the toilet.
+
+### 2) What can cause a false positive for Lyme disease?
+
+- Other Borrelial diseases (e.g., relapsing fever, Borrelia miyamotoi disease)
+- Other spirochetal diseases (e.g., syphilis, leptospirosis, pinta, yaws, gingivitis)
+- Other bacterial infections (e.g., infective endocarditis)
+- Viral illnesses from Epstein-Barr virus
+- Autoimmune diseases (e.g., systemic lupus erythematosus and rheumatoid arthritis)
+- Malaria
+- Previous vaccination against Lyme
+
+- Uptodate
+
+### 3) What is STARI?
+
+- Looks like erythema migrans but is actually: Southern tick-associated rash illness (STARI)
+- Found in southeast and south-central regions of the United States.
+- Vector = Amblyomma americanum tick, not the Ixodes species tick
+```

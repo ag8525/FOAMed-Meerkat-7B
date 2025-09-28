@@ -1,0 +1,97 @@
+---
+source: The Bottom Line
+title: TRACT Transfusion Timing
+original_url: https://www.thebottomline.org.uk/summaries/em/tract-transfusion-timing/
+scrape_date: 2025-07-17
+summary_author: Fraser Magee
+summary_date: 2019-08-07
+peer_review_editor: Adrian Wong
+summary: |
+  The document discusses a study on the timing of blood transfusions in African children with uncomplicated severe anaemia, comparing immediate versus delayed transfusion strategies. Conducted as an open-label, multi-centre, randomised controlled trial in Uganda and Malawi, the study involved children aged 2 months to 12 years with haemoglobin levels between 4 to 6 g/dL. The primary outcome showed no significant difference in 28-day mortality between the immediate and delayed transfusion groups. However, immediate transfusion led to fewer cases of profound anaemia and quicker haemoglobin recovery, though it did not impact long-term mortality or readmission rates. The study supports the WHO's restrictive transfusion guidelines for stable children, emphasizing the importance of regular haemoglobin monitoring and clinical assessment.
+
+---
+
+# Immediate Transfusion in African Children with Uncomplicated Severe Anaemia
+
+## Clinical Point
+In children hospitalized with uncomplicated severe anaemia, is an immediate blood transfusion strategy superior to delayed transfusion in reducing 28-day mortality?
+
+## Background
+- WHO guidelines recommend a restrictive transfusion approach in children with anaemia in sub-Saharan Africa.
+- Current recommendation: do not transfuse if haemoglobin levels are 4 to 6 g/dL.
+- Compliance with these guidelines is poor.
+- Blood is a scarce resource in sub-Saharan Africa, with significant cost implications.
+- Previous studies have challenged traditional practices in intravenous fluid therapy in this population.
+
+## Design
+- Open-label, multi-centre, factorial, randomised controlled trial.
+- Children randomised 1:1 to immediate transfusion or no immediate transfusion.
+- Computer-generated randomisation with permuted blocks.
+- Allocation concealment using opaque, sealed envelopes.
+- Factorial design: secondary randomisation to receive either 20 ml or 30 ml of whole blood per kg.
+- 80% power to detect a 50% relative difference in 28-day mortality.
+
+## Setting
+- Three hospitals in Uganda and one in Malawi.
+- Study period: September 2014 to May 2017.
+
+## Population
+
+**Inclusion Criteria:**
+- Children aged 2 months to 12 years with uncomplicated severe anaemia (haemoglobin 4 to 6 g/dL).
+
+**Exclusion Criteria:**
+- Clinical severity signs: reduced consciousness, respiratory distress, acute haemoglobinuria, known sickle cell disease.
+- Severe anaemia (haemoglobin < 4 g/dL).
+- Known chronic disease.
+- Exclusively breastfed children.
+
+**Enrollment:**
+- 6171 children assessed; 1565 randomised (778 to immediate transfusion, 787 to control).
+
+## Intervention
+
+**Immediate Transfusion Group:**
+- 20 or 30 ml/kg of whole blood (or 10-15 ml of packed cells) based on secondary randomisation.
+- Additional transfusions at 20 ml/kg if indicated.
+
+## Control
+
+**Delayed Transfusion Group:**
+- 20 ml/kg whole blood transfusion if haemoglobin < 4 g/dL or new clinical severity signs.
+
+## Outcomes
+
+### Primary Outcome
+- No difference in 28-day mortality: 0.9% in immediate vs. 0.8% in delayed group (HR 0.54; 95% CI 0.22–1.36; p=0.19).
+
+### Secondary Outcomes
+- Median hospital stay: 3 days (immediate) vs. 4 days (delayed).
+- Correction of anaemia (haemoglobin > 9 g/dL): 51.3% (immediate) vs. 5.5% (delayed).
+- Development of profound anaemia during hospitalisation: 1.4% (immediate) vs. 39.3% (delayed).
+- No difference in 90-day or 180-day mortality, readmission rates, or adverse events.
+- Economic analysis: control group costs $5.63 less on average.
+
+## Authors’ Conclusions
+Immediate transfusion strategy resulted in fewer cases of profound anaemia and more early haemoglobin recovery, but mortality was too low to show definitive benefits.
+
+## Strengths and Weaknesses
+- **Strengths**
+  - Well-conducted, multi-centre RCT with power calculation for patient-centred outcomes.
+  - Good compliance with interventions.
+  - Minimal loss to follow-up despite resource-poor setting.
+  - Blinded assessment of adverse events.
+  - Economic analysis included.
+- **Weaknesses**
+  - Limited generalisability to developed world settings.
+  - Underpowered to detect mortality difference.
+  - Unclear if standard care reflected real-world practice; lower mortality suggests superior care.
+
+## Bottom Line
+WHO's restrictive transfusion strategy is safe for physiologically stable children with haemoglobin 4 to 6 g/dL, provided regular haemoglobin monitoring and clinical assessment.
+
+## External Links
+- **Abstract:** [Maitland. Immediate Transfusion in African Children with Uncomplicated Severe Anemia](https://www.nejm.org/doi/full/10.1056/NEJMoa1900105)
+- **Editorial:** Immediate Transfusion and Transfusion Volume in African Children with Severe Anemia
+- **Further Reading:** Maitland. Transfusion Volume for Children with Severe Anemia in Africa
+```

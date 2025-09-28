@@ -1,0 +1,910 @@
+# Metadata
+- topic: 3.9 - Immunology and Inflammation - CC.-Ep119-Allergy-and-Anaphylaxis--109-Rosens-9th-Ed.-EDITED-1
+- source_folder: 3.9 - Immunology and Inflammation
+- original_file: CC.-Ep119-Allergy-and-Anaphylaxis-Ch.-109-Rosens-9th-Ed.-EDITED-1.pdf
+
+ 
+CrackCast Show Notes –Allergy and Anaphylaxis – October 2017 
+www.canadiem.org/crackcast 
+ 
+ 
+Chapter 109 – Allergy, Hypersensitivity, Angioedema, and Anaphylaxis 
+Episode Overview 
+ 
+Key Points: 
+ 
+1. A history of sudden urticarial rash accompanied by respiratory difficulty, abdominal 
+pain, or hypotension, strongly favors the diagnosis of anaphylaxis. 
+2. Epinephrine is the first-line treatment in patients with anaphylaxis: give it 
+immediately.  
+3. There are no absolute contraindications to the use of epinephrine in the setting of 
+anaphylaxis. 
+4. Antihistamines and corticosteroids are second- and third-line agents in the 
+management of anaphylaxis and should not replace or precede epinephrine. 
+5. Consider prolonged observation or admission for patients who: 
+a. Experience protracted anaphylaxis, hypotension, or airway involvement;  
+b. Receive IV epinephrine or more than two doses of IM epinephrine; 
+c. Or have poor outpatient social support. 
+6. Patients discharged after an anaphylactic event should be prescribed an EpiPen and 
+instructed on its use. 
+7. Patients with refractory hypotension may require glucagon (receiving beta-blockage) 
+or a continuous IV epinephrine infusion. 
+8. Non-histaminergic angioedema (non-allergic angioedema) does not typically respond 
+to epinephrine and antihistamines. New drugs, including berinert, icatibant, 
+ecallantide, and Ruconest have been approved for use in HAE. FFP has been used 
+with varying success in HAE, ACID, and ACE inhibitor–induced angioedema. 
+ 
+NOTE: ACID: acquired C1 esterase deficiency (ACED) 
+ 
+Core Questions:  
+ 
+1. List the four types of Gell and Coombs classifications of immune reaction and give 
+examples of each 
+2. List four etiologic agents causing anaphylaxis by immunologic mechanisms 
+3. List six mediators of anaphylaxis and their physiologic actions and clinical 
+manifestations 
+4. Define anaphylaxis, and list the clinical criteria for diagnosis of anaphylaxis 
+5. List four risk factors for anaphylaxis and increased anaphylaxis severity and mortality  
+6. Describe a standard treatment protocol for patients with a history of radiocontrast-
+induced anaphylaxis  
+7. List 10 differential diagnoses on the DDx for anaphylaxis 
+8. Outline a treatment algorithm for anaphylaxis 
+9. Describe management of refractory hypotension in anaphylaxis  
+10. Compare and contrast the management of angioedema with urticaria and without 
+urticaria 
+11. List 3 differential diagnoses for kinin-mediated angioedema 
+ 
+CrackCast Show Notes –Allergy and Anaphylaxis – October 2017 
+www.canadiem.org/crackcast 
+ 
+ 
+Wisecracks:  
+ 
+1) List the types of immune reactions and give an example of each 
+2) Describe 5 mechanism of action of epinephrine in anaphylaxis 
+3) List 5 IgE-mediated anaphylactic reactions and 5 non-IgE mediated reactions 
+4) List 6 differential diagnoses for flushing 
+5) What is the biphasic response? 
+ 
+ 
+ 
+Rosen’s in Perspective 
+ 
+This chapter covers disease states in which the immune system overreacts against typically 
+harmless agents. These hypersensitivity reactions are manifested in clinical symptoms 
+ranging from mildly inconvenient to fatal.  
+ 
+For practical purposes, let’s define some terms:  
+ 
+● Allergy  
+○ Used in this chapter to refer to mast cell–mediated hypersensitivity reactions. 
+For most allergic diseases to occur, predisposed individuals need to be 
+exposed to allergens through a process called sensitization. Substances that 
+elicit an allergic reaction are referred to as allergens, and those that elicit an 
+antibody response (activated by B- and T-cell receptors) are called antigens. 
+● Urticaria  
+○ A common allergic reaction to foods, drugs, or physical stimuli and is clinically 
+characterized by an erythematous, raised, and pruritic rash.  
+● Angioedema  
+○ Another important syndrome, mediated by either an allergic (histaminergic) 
+mechanism in response to exposure to foods, drugs, physical stimuli, or a 
+non-allergic (non-histaminergic) mechanism (e.g., hereditary angioedema 
+[HAE], or angiotensin-converting enzyme [ACE] inhibitor). Angioedema is 
+characterized by edema of the subcutaneous or submucosal tissues, which 
+can cause airway compromise if the tongue or larynx is involved. 
+● Anaphylaxis 
+○ A life-threatening systemic allergic reaction characterized by acute onset and 
+multiorgan involvement.  
+ 
+Check out the first few pages of the chapter if you want a review on the immune system! 
+ 
+ 
+[1] List the four types of Gell and Coombs classifications of immune 
+reaction and give an example of each 
+ 
+So there are four types, I use the mnemonic ACID to help my little brain remember this 
+immunology stuff!  
+ 
+CrackCast Show Notes –Allergy and Anaphylaxis – October 2017 
+www.canadiem.org/crackcast 
+ 
+Essentially, it’s these four categories that are used to classify hypersensitivity reactions 
+• 
+“ACID”  
+• 
+Acute IgE 
+o Anaphylaxis 
+• 
+Cell-cytotoxic  
+o Blood transfusion reaction 
+• 
+Immune complex 
+o SLE 
+• 
+Delayed  
+o No antibodies involved - EM, SJS, TENS 
+ 
+Refer to box 109.1in Rosen’s 9th Edition for the table summarized below describing 
+the Gell and Coombs classification of immune reactions 
+Type of Immune Reaction 
+Definition 
+TYPE I: IMMEDIATE 
+HYPERSENSITIVITY 
+• 
+Binding of multivalent antigens to IgE on the surface 
+of mast cells and basophils leads to degranulation of 
+mediators 
+• 
+In previously sensitized individuals, the reaction 
+develops quickly (minutes). This type of 
+hypersensitivity reaction is seen in allergic diseases 
+(e.g., hay fever, allergic asthma, urticaria, 
+angioedema, and anaphylaxis) 
+• 
+Nonimmunologic (anaphylactoid) reaction refers to the 
+direct release of preformed mediators of mast cells 
+independent of IgE 
+ 
+TYPE II: CYTOTOXIC 
+ANTIBODY REACTION 
+• 
+Antibody (IgM, IgG) binding of membrane-bound 
+antigens leads to cytotoxicity and cell lysis of cells 
+through the complement or mononuclear cell system 
+(macrophages, neutrophils, and eosinophils). 
+• 
+This type of reaction is seen in transfusion reaction 
+and Rh incompatibility. 
+ 
+TYPE III: IMMUNE COMPLEX–
+MEDIATED REACTION 
+• 
+Binding of antibody (IgM, IgG) to antigens forms 
+soluble immune complexes, which are deposited on 
+vessel walls, causing a local inflammatory reaction 
+(Arthus reaction) leading to inflammation and tissue 
+injury 
+• 
+This type of reaction is seen in systemic lupus 
+erythematosus and serum sickness (after 
+antithymocyte globulin administration). 
+ 
+TYPE IV: CELL-MEDIATED 
+DELAYED HYPERSENSITIVITY 
+ 
+• 
+Sensitized lymphocytes (TH1 cells) recognize the 
+antigen, recruit additional lymphocytes and 
+mononuclear cells to the site, and start the 
+inflammatory reaction. No antibodies are involved.  
+ 
+• 
+This type of reaction is seen in contact dermatitis, 
+erythema multiforme, Stevens-Johnson syndrome, 
+and toxic epidermal necrolysis. 
+ 
+ 
+CrackCast Show Notes –Allergy and Anaphylaxis – October 2017 
+www.canadiem.org/crackcast 
+ 
+[2] List four etiologic agents causing anaphylaxis by immunologic 
+mechanisms  
+ 
+In up to 60% of adults and 10% of children - no inciting agent is identified! 
+ 
+Refer to box 109.3 in Rosen’s 9th Edition for the table summarized below describing 
+the etiologic agents causing anaphylaxis 
+ 
+ 
+[3] List six mediators of anaphylaxis and their physiologic actions and 
+clinical manifestations  
+ 
+Refer to table 109.1 in Rosen’s 9th Edition for the table summarized below describing 
+mediators of anaphylaxis and their physiologic actions 
+ 
+Agents of Anaphylaxis 
+Examples 
+IMMUNOLOGIC MECHANISMS 
+(IgE-DEPENDENT) 
+ 
+• 
+Foods: Egg, peanut, tree nut, milk, fruits, shellfish, 
+soybean, sesame 
+• 
+Medications: Antibiotics, NSAIDs, chemotherapeutic 
+agents, immunomodulators 
+• 
+Insect stings: Hymenoptera venoms, fire ant stings 
+• 
+Natural rubber latex 
+• 
+Hormones: Insulin, methylprednisolone, 
+parathormone, estradiol, progesterone, corticotropin 
+• 
+Local anesthetics: Mostly ester family (procaine, 
+tetracaine, benzocaine) 
+• 
+RCM (radiocontrast) 
+• 
+Occupational allergens: Enzymes, animal protein, 
+plant protein 
+• 
+Aeroallergens: Pollen, dust, spores, pet dander 
+ 
+IMMUNOLOGIC MECHANISMS 
+(IgE-INDEPENDENT) 
+ 
+• 
+RCM (radiocontrast) 
+• 
+NSAIDs* 
+• 
+Dextrans 
+• 
+Biologic agents: Monoclonal antibodies, 
+immunomodulators 
+ 
+*Aspirin exacerbated respiratory distress (AERD) and 
+NSAID-induced respiratory distress syndromes are 
+unique in individuals with a history asthma or allergic rhinitis 
+and are not considered anaphylactic reactions. 
+ 
+ 
+NON-IMMUNOLOGIC 
+MECHANISMS (DIRECT MAST 
+CELL ACTIVATIONS) 
+ 
+• 
+Physical factors: Exercise, cold, heat, sunlight 
+• 
+Ethanol 
+• 
+Medications: Some opioids 
+ 
+IDIOPATHIC (NO APPARENT 
+TRIGGER) 
+ 
+VARIABLE NUMBER OF POTENTIAL TRIGGERS 
+ 
+CrackCast Show Notes –Allergy and Anaphylaxis – October 2017 
+www.canadiem.org/crackcast 
+ 
+Here are a couple familiar mediators:  
+ 
+● Histamine  
+● Leukotrienes 
+● Prostaglandins 
+● Tryptase 
+● Cytokines 
+● Chemokines 
+ 
+In general, the more rapid an anaphylaxis reaction occurs after an exposure, the more likely 
+it is to be severe and potentially fatal. 
+ 
+Most of these symptoms are due to increased vascular permeability/vasodilation leading to 
+distributive shock states; stimulation of nerve endings; decreased cardiac output; smooth 
+muscle contraction 
+ 
+Specific Organ 
+System 
+Clinical Manifestation 
+Upper Resp. Tract 
+• 
+Rhinitis 
+• 
+Laryngeal edema 
+Lower Resp. Tract 
+• 
+Bronchospasm 
+Cardiovascular 
+• 
+Tachycardia 
+• 
+Hypotension 
+• 
+Shock 
+• 
+Syncope 
+• 
+Dysrhythmias  
+• 
+Cardiac Arrest 
+Integument 
+• 
+Urticaria 
+• 
+Pruritus 
+• 
+Warmth 
+• 
+Flushing 
+• 
+Angioedema 
+Eyes 
+• 
+Conjunctivitis 
+Gastrointest. Tract 
+• 
+Dysphagia 
+• 
+Abdominal cramping 
+• 
+Nausea/Vomiting 
+• 
+Diarrhea 
+• 
+Tenesmus 
+Central Nervous S. 
+• 
+Sense of impending doom 
+• 
+Restlessness 
+• 
+Anxiety 
+Heme 
+• 
+Disseminated Intravascular Coagulopathy 
+Genitourinary Tract 
+• 
+Urinary incontinence 
+ 
+[4] Define Anaphylaxis, and list the clinical criteria for diagnosis of 
+anaphylaxis  
+ 
+Rosen’s Definition: “...a life-threatening systemic allergic reaction characterized by acute 
+onset and multi-organ involvement.”  
+ 
+CrackCast Show Notes –Allergy and Anaphylaxis – October 2017 
+www.canadiem.org/crackcast 
+ 
+Refer to box 109.5 in Rosen’s 9th Edition for the comprehensive summary of the 
+clinical criteria for the diagnosis of anaphylaxis 
+ 
+Here are the criteria in an abbreviated form - three criteria:  
+ 
+• 
+Acute onset - minutes/hours of skin and/or mucosal tissue involvement WITH 
+EITHER 
+• 
+Resp. compromise (“glottis and down”) 
+• 
+Blood pressure drop (syncope/incontinence) 
+• 
+Exposure to a likely allergen, with acute symptomatology, with two of the four 
+signs and symptoms: 
+• 
+Skin-mucosa 
+• 
+Respiratory system 
+• 
+Blood pressure drop 
+• 
+GI symptoms 
+• 
+Acutely reduced BP after exposure to a known allergen for that patient 
+ 
+Important Notes:  
+ 
+● Skin and mucosal tissue are one organ system, AND the lips-tongue-uvula are all 
+part of the mucosal tissue NOT the respiratory tract! 
+● Nasal congestion, sneezing, ocular itching, and tearing are also common complaints. 
+● Patients with laryngeal edema often complain of hoarseness, throat tightness, or 
+stridor. 
+ 
+[5] List four risk factors for anaphylaxis and increased anaphylaxis 
+severity and mortality  
+ 
+Refer to box 109.2 in Rosen’s 9th Edition for the comprehensive summary of the risk 
+factors for anaphylaxis, severity of anaphylaxis, and mortality related to anaphylaxis 
+ 
+Risk Factors for Anaphylaxis 
+ 
+● Age and sex 
+○ Pregnant women, infants, teenagers, elderly 
+● Route of administration 
+○ Parenteral > oral 
+● Higher social economic status 
+● Time of the year 
+○ Summer and fall (the outdoor seasons) 
+● History of atopy 
+● Emotional stress 
+● Acute infection 
+● Physical exertion 
+● History of mastocytosis 
+ 
+ 
+ 
+CrackCast Show Notes –Allergy and Anaphylaxis – October 2017 
+www.canadiem.org/crackcast 
+ 
+ 
+Risk Factors for Increased Anaphylaxis Severity and Mortality 
+ 
+● Extremes of age 
+● Very young (under-recognition) 
+● Elderly 
+● Comorbid conditions 
+● Cardiovascular disease (heart failure, ischemic heart disease, 
+● hypertension) 
+● Pulmonary disease (asthma, obstructive airway disease) 
+● Others 
+● Concurrent use of anti-hypertensive agents, specifically beta-blockers and 
+angiotensin-converting enzyme (ACE) inhibitors 
+● Concurrent use of cognition-impairing drugs (e.g., alcohol, recreational drugs, 
+sedatives, tranquilizers)  
+● Recent anaphylaxis episode 
+ 
+ 
+[6] Describe a standard treatment protocol for patients with a history of 
+radiocontrast-induced anaphylaxis  
+ 
+Refer to box 109.4 in Rosen’s 9th Edition for the summary of a standard protocol for 
+patients with a history of radiocontrast–induced anaphylaxis 
+ 
+The pathophysiologic mechanism of anaphylactic reactions to RCM is unknown, but it 
+is believed to be non-immunologic (non-IgE). Clinically, the risk for severe adverse reaction 
+with ionic and nonionic contrast materials is less than 1%. 
+ 
+Standard Treatment Protocol for Patients with Hx of RCI Anaphylaxis 
+ 
+• 
+Prednisone 50 mg by mouth given 13 hours, 7 hours, and 1 hour before the 
+procedure 
+ 
+• 
+Consider an H2 antagonist, such as ranitidine 150 mg by mouth given 3 hours before 
+the procedure 
+ 
+• 
+Diphenhydramine 50 mg PO given 1 hour before the procedure 
+ 
+• 
+Consider ephedrine 25 mg by mouth given 1 hour before the procedure 
+ 
+ 
+ 
+[7] List 10 differential diagnoses on the DDx of anaphylaxis   
+ 
+Refer to box 109.6 in Rosen’s 9th Edition for the comprehensive differential diagnosis 
+for anaphylaxis 
+ 
+● Shock states: 
+○ Septic, hypovolemic, cardiogenic (MI), distributive, obstructive (PE) 
+ 
+CrackCast Show Notes –Allergy and Anaphylaxis – October 2017 
+www.canadiem.org/crackcast 
+ 
+● ALLA and NALLA (allergic angioedema or non-allergic angioedema [HAE, 
+AC1ED, ACE-IAA]) 
+● Less life-threatening things: 
+○ Flush syndrome 
+■ MSG, sulfites, scombroidosis, alcohol  
+■ Mastocytosis  
+■ Carcinoid tumour 
+■ Perimenopause 
+○ Panic attack 
+● Miscellaneous  
+○ Hypoglycemia 
+○ Red man syndrome  
+○ Vocal cord dysfunction syndrome 
+○ Pheochromocytoma 
+○ Asthma attack 
+○ Syncope  
+ 
+[8] Outline a treatment algorithm for anaphylaxis 
+ 
+The majority of the morbidity and mortality associated with anaphylaxis is caused by acute 
+respiratory failure or cardiovascular collapse. There is no evidence that second line agents 
+improve overall outcome!  
+ 
+• 
+Remove Any Trigger (stinger, medication)  
+• 
+MOVE 
+• 
+ABC’s!! Airway!! 
+• 
+Call for Epinephrine - all other drugs can wait!! 
+ 
+• 
+First-line Agent 
+• 
+Epinephrine is the first-line medication and should be given immediately at 
+the first suspicion of an anaphylactic reaction. 
+o Adult: 0.3 to 0.5 mg IM* (1 :1000 concentration) in anterolateral thigh 
+every 5 to 10 minutes as necessary 
+o Pediatric: 0.01 mg/kg IM (1 :1000 concentration) in anterolateral thigh 
+every 5 to 10 minutes as necessary 
+• 
+Alternatively, epinephrine (EpiPen, 0.3 mL; or EpiPen Jr, 0.15 mL) can be 
+administered into anterolateral thigh 
+• 
+NEVER GIVE EPINEPHRINE SUBCUTANEOUSLY 
+ 
+• 
+Bolus Crystalloid  
+ 
+• 
+Second-line Agents 
+• 
+Antihistamines 
+o Diphenhydramine: 
+• 
+Adults: 50 mg IV or 50 mg oral 
+• 
+Pediatric: 1 mg/kg IV or oral 
+o Ranitidine: 
+ 
+CrackCast Show Notes –Allergy and Anaphylaxis – October 2017 
+www.canadiem.org/crackcast 
+ 
+• 
+Adult: 50 mg IV (150 mg oral) 
+• 
+Pediatric: 1 mg/kg IV or oral 
+• 
+Aerosolized Beta-agonists (if bronchospastic)  
+• 
+Combivent (albuterol and ipratropium)  
+• 
+Glucocorticoids (No Benefit in the Acute Management) 
+• 
+Methylprednisolone: 
+o Adult: 125 to 250 mg IV 
+o Pediatric: 1 to 2 mg/kg IV 
+• 
+Prednisone/prednisolone: 
+o Adult: 40 to 60 mg oral 
+o Pediatrics: 1 to 2 mg/kg oral 
+ 
+• 
+Observation and Disposition 
+• 
+Consensus guidelines note that patients who respond well to treatment and 
+experience total resolution of symptoms can be discharged home after an 
+observation period of approximately 4 to 8 hours.  
+• 
+Consider prolonged observation or hospitalization for patients who: 
+o Present with protracted anaphylaxis, hypotension or airway 
+involvement; 
+o Receive IV epinephrine or more than two doses of IM epinephrine; 
+o Have poor outpatient social support. 
+ 
+NOTE: The benefits of epinephrine in anaphylaxis outweigh any risks. There are no absolute 
+contraindications to the use of epinephrine. It is the drug of choice for the treatment of 
+anaphylaxis! 
+ 
+ 
+[9] Describe management of refractory hypotension in anaphylaxis  
+ 
+For refractory hypotension in anaphylaxis: 
+ 
+● Consider Continuous IV Epinephrine Drip  
+• 
+Dilute 1 mg (1 mL 1:1000) in 1000 mL of normal saline or D5W to yield a 
+concentration of 1 μg/mL 
+• 
+Dosing 
+o Adults: 1 to 10 μg/minute IV (titrated to desired effect) 
+o Pediatrics: 0.1 to 1.5 μg/kg/minute IV (titrated to desired effect) 
+● Other Vasopressors to Consider 
+• 
+Dopamine: 5 to 20 μg/kg per minute continuous IV infusion (titrated to desired 
+effect) 
+• 
+Norepinephrine: 0.05 to 0.5 μg/kg per minute (titrated to desired effect) 
+• 
+Phenylephrine: 1 to 5 μg/kg per minute (titrated to desired effect) 
+• 
+Vasopressin: 0.01 to 0.4 units/min (titrated to desired effect) 
+● For Patients Receiving Beta-Blockade 
+● Glucagon: 1 to 5 mg IV over 5 minutes, followed by 5 to 15 μg/min continuous IV 
+infusion (adult dosing) 
+● Consider IV Insulin 1unit/kg infusion (off label, used for BB overdoses) 
+ 
+CrackCast Show Notes –Allergy and Anaphylaxis – October 2017 
+www.canadiem.org/crackcast 
+ 
+ 
+[10] Compare and contrast the management of angioedema with 
+urticaria and without urticaria 
+ 
+Urticaria appears as papules or wheals that consist of central swelling with surrounding 
+reflex erythema, and it is associated with itching or a burning-type sensation. These lesions 
+are a result of mediators (predominantly histamine) released from mast cells. They tend to 
+occur on the extremities and trunk and are usually transient, with skin often returning to 
+its normal appearance within 24 hours. 
+ 
+There are also several types of inducible urticaria including cold contact, delayed pressure, 
+heat contact, solar, aquagenic, cholinergic, and contact urticaria. 
+ 
+NOTE: Urticaria is an allergic presentation commonly encountered in the ED and is 
+characterized by the presence of wheals (hives), angioedema, or both. Angioedema is 
+characterized by edema of the subcutaneous or submucosal tissues, commonly involving 
+the face, mouth, lips, tongue, extremities, and genitalia. Patients more commonly present 
+with pain and pressure, not pruritus. Of particular concern is when the tongue, posterior 
+pharynx, or larynx is involved, which could progress to airway obstruction and compromise.  
+ 
+Angioedema is mediated either by: 
+ 
+● An allergic (histaminergic) mechanism in response to an exposure to foods, 
+drugs or physical stimuli, or ALLA 
+• 
+Treatment:  
+o If the case meets anaphylactic criteria, treat as such!  
+o In cases that do not meet the criteria for anaphylaxis, antihistamines 
+are considered the first-line treatment.  
+o Second-generation H1-antihistamines, such as cetirizine, loratadine, 
+and fexofenadine, are the preferred agents, and up to fourfold the 
+conventional dose may be considered.  
+o Because 15% of the histamine receptors in skin are H2, the addition of 
+an H2-antihistamine (e.g., ranitidine) may also be beneficial. 
+o  A short course of oral corticosteroids (e.g., prednisone) may be 
+considered as a second-line therapy.  
+● A non-allergic (non-histaminergic) mechanism (e.g., HAE, AC1D, idiopathic or 
+ACE inhibitor), or NALLA 
+• 
+Treatment:  
+o Do not typically respond to epinephrine, antihistamines, or steroids  
+● However, anyone with airway threatening angioedema and no 
+prior history on hand should be treated with the standard 
+anaphylaxis treatment!  
+o These are difficult airways, don’t fall into the CICV blackhole! 
+o Berinert is human plasma derived C1-esterase inhibitor (C1-INH) 
+concentrate and is approved for treatment of HAE in the United 
+States. The dose is 20 units/kg IV.  
+ 
+CrackCast Show Notes –Allergy and Anaphylaxis – October 2017 
+www.canadiem.org/crackcast 
+ 
+o Ecallantide is a kallikrein inhibitor that is administered as three 
+separate 10 mg subcutaneous injections for a total of 30 mg.  
+o Icatibant is a bradykinin 2-receptor inhibitor that is administered as a 
+single subcutaneous injection of 30 mg.  
+o Conestat alfa (Ruconest) is a recombinant C1-INH concentrate that is 
+given IV at a dose of 50 units/kg. 
+o For ACE inhibitor–induced angioedema, the treatment is mainly 
+supportive. The medication should be discontinued and the patient 
+instructed not to take any ACE inhibitor in the future. There are reports 
+of FFP being used with success in severe cases of ACE inhibitor–
+induced angioedema. 
+ 
+NOTE: Hospitalization must be considered for patients with continued angioedema of the 
+sublingual area, tongue, soft palate, pharynx, or larynx 
+ 
+NOTE: Fresh frozen plasma (FFP), has been reported to be efficacious in treating acute 
+attacks; however, there are reports of exacerbation of angioedema with administration of 
+FFP. 
+ 
+[11] List 3 differential diagnoses for kinin-mediated angioedema 
+ 
+This is the NALLA form…. 
+ 
+Non-histaminergic (non-allergic) angioedema is typically a result of elevated bradykinin 
+levels. This classification includes: 
+● HAE with or without C1 esterase inhibitor deficiency 
+● Acquired C1 esterase inhibitor deficiency (AC1D)  
+● ACE inhibitor–induced 
+● Idiopathic angioedema 
+ 
+NOTE: The lack of C1 inhibitor causes activation of the kallikrein-kinin system, increasing 
+the consumption of kininogen, resulting in increased production of bradykinin (a potent 
+peptide vasodilator).  
+ 
+In the setting of ACE inhibitor–induced angioedema, the inhibition of ACE, one of the main 
+inactivators of bradykinin, results in increased bradykinin levels. ACE inhibitor–induced 
+angioedema has a predilection for the face, often involving the, lips, eyelids, tongue, 
+larynx, or pharynx. The highest incidence occurs in the first month of therapy but has been 
+reported to occur as many as 10 years after therapy was initiated. 
+ 
+ 
+Wisecracks:  
+ 
+[1] List the types of immune reactions and give an example of each 
+ 
+Refer to box 109.1in Rosen’s 9th Edition for the table summarized below describing 
+the Gell and Coombs classification of immune reactions 
+ 
+CrackCast Show Notes –Allergy and Anaphylaxis – October 2017 
+www.canadiem.org/crackcast 
+ 
+ 
+[2] Describe 5 mechanism of epinephrine in anaphylaxis 
+ 
+Epinephrine derives its therapeutic value from its combined alpha-adrenergic and beta-
+adrenergic actions: 
+ 
+Receptor Stimulation 
+Physiologic Response 
+Alpha-1 
+● Vasoconstriction 
+● Increased PVR 
+● Decreased mucosal edema 
+Beta-1 
+● (+) Inotropy and (+) chronotropy  
+Beta-2 
+● Mast cell/basophil stabilization 
+● Bronchodilation 
+ 
+Type of Immune Reaction 
+Definition 
+TYPE I: IMMEDIATE 
+HYPERSENSITIVITY 
+• 
+Binding of multivalent antigens to IgE on the surface 
+of mast cells and basophils leads to degranulation of 
+mediators 
+• 
+In previously sensitized individuals, the reaction 
+develops quickly (minutes). This type of 
+hypersensitivity reaction is seen in allergic diseases 
+(e.g., hay fever, allergic asthma, urticaria, 
+angioedema, and anaphylaxis) 
+• 
+Nonimmunologic (anaphylactoid) reaction refers to the 
+direct release of preformed mediators of mast cells 
+independent of IgE 
+ 
+TYPE II: CYTOTOXIC 
+ANTIBODY REACTION 
+• 
+Antibody (IgM, IgG) binding of membrane-bound 
+antigens leads to cytotoxicity and cell lysis of cells 
+through the complement or mononuclear cell system 
+(macrophages, neutrophils, and eosinophils). 
+• 
+This type of reaction is seen in transfusion reaction 
+and Rh incompatibility. 
+ 
+TYPE III: IMMUNE COMPLEX–
+MEDIATED REACTION 
+• 
+Binding of antibody (IgM, IgG) to antigens forms 
+soluble immune complexes, which are deposited on 
+vessel walls, causing a local inflammatory reaction 
+(Arthus reaction) leading to inflammation and tissue 
+injury 
+• 
+This type of reaction is seen in systemic lupus 
+erythematosus and serum sickness (after 
+antithymocyte globulin administration). 
+ 
+TYPE IV: CELL-MEDIATED 
+DELAYED HYPERSENSITIVITY 
+ 
+• 
+Sensitized lymphocytes (TH1 cells) recognize the 
+antigen, recruit additional lymphocytes and 
+mononuclear cells to the site, and start the 
+inflammatory reaction. No antibodies are involved.  
+ 
+• 
+This type of reaction is seen in contact dermatitis, 
+erythema multiforme, Stevens-Johnson syndrome, 
+and toxic epidermal necrolysis. 
+ 
+ 
+CrackCast Show Notes –Allergy and Anaphylaxis – October 2017 
+www.canadiem.org/crackcast 
+ 
+ 
+These combined effects result in decreased mediator release from mast cells and basophils, 
+which improves hives and bronchospasm, decreases mucosal edema and swelling, and 
+reverses systemic hypotension. Epinephrine therefore works directly to improve the clinical 
+features most commonly observed in an anaphylactic reaction. 
+ 
+[3] List 5 IgE-mediated anaphylactic reactions + 5 non-IgE mediated 
+reactions 
+ 
+Refer to box 109.3 in Rosen’s 9th Edition for the table summarized below describing 
+the etiologic agents causing anaphylaxis 
+ 
+ 
+ 
+ 
+Agents of Anaphylaxis 
+Examples 
+IMMUNOLOGIC MECHANISMS 
+(IgE-DEPENDENT) 
+ 
+• 
+Foods: Egg, peanut, tree nut, milk, fruits, shellfish, 
+soybean, sesame 
+• 
+Medications: Antibiotics, NSAIDs, chemotherapeutic 
+agents, immunomodulators 
+• 
+Insect stings: Hymenoptera venoms, fire ant stings 
+• 
+Natural rubber latex 
+• 
+Hormones: Insulin, methylprednisolone, 
+parathormone, estradiol, progesterone, corticotropin 
+• 
+Local anesthetics: Mostly ester family (procaine, 
+tetracaine, benzocaine) 
+• 
+RCM 
+• 
+Occupational allergens: Enzymes, animal protein, 
+plant protein 
+• 
+Aeroallergens: Pollen, dust, spores, pet dander 
+ 
+IMMUNOLOGIC MECHANISMS 
+(IgE-INDEPENDENT) 
+ 
+• 
+RCM (radiocontrast) 
+• 
+NSAIDs* 
+• 
+Dextrans 
+• 
+Biologic agents: Monoclonal antibodies, 
+immunomodulators 
+ 
+*Aspirin exacerbated respiratory distress (AERD) and 
+NSAID-induced respiratory distress syndromes are 
+unique in individuals with a history asthma or allergic rhinitis 
+and are not considered anaphylactic reactions. 
+ 
+ 
+NON-IMMUNOLOGIC 
+MECHANISMS (DIRECT MAST 
+CELL ACTIVATIONS) 
+ 
+• 
+Physical factors: Exercise, cold, heat, sunlight 
+• 
+Ethanol 
+• 
+Medications: Some opioids 
+ 
+IDIOPATHIC (NO APPARENT 
+TRIGGER) 
+ 
+VARIABLE NUMBER OF POTENTIAL TRIGGERS 
+ 
+CrackCast Show Notes –Allergy and Anaphylaxis – October 2017 
+www.canadiem.org/crackcast 
+ 
+ 
+[4] List 6 differential diagnoses for flushing 
+ 
+● Flushing associated with food 
+○ Alcohol 
+○ MSG 
+○ Sulfites 
+○ Scombroidosis 
+● Carcinoid tumor 
+● Peri-menopause 
+● Thyrotoxicosis 
+● Basophilic leukemia 
+● Mastocytosis (systemic mastocytosis and urticaria pigmentosa) 
+● Vasointestinal peptide tumors 
+ 
+[5] What is the biphasic response? 
+ 
+Up to 20% of patients may experience a biphasic reaction defined as a reoccurrence of 
+symptoms without re-exposure to the triggering agent. Most of these reactions occur within 8 
+hours but have been reported as far out as 72 hours. The majority will again respond to the 
+appropriate treatment, and recent literature suggests that clinically important biphasic 
+reactions and fatalities are actually much rarer than previously reported. 
+ 
+Biphasic reactions are more common in patients who have a history of asthma, ingest the 
+allergen, or present with laryngeal edema, wheezing, or gastrointestinal symptoms. 
+ 
+Glucocorticoids have no immediate role in the acute management of anaphylaxis and should 
+be considered as third line interventions. Their onset of action typically does not occur for 
+several hours, and they should not be administered before first and second line treatments. 
+They may, however, provide benefit by preventing protracted symptoms or a biphasic 
+reaction, but this has never been proven. Currently, there are no studies that have 
+specifically evaluated the role of glucocorticoids in the treatment of anaphylaxis. 
+ 
+Shout-out to the SGEM #57: 
+ 
+http://thesgem.com/2013/12/sgem57-should-i-stay-or-should-i-go-biphasic-anaphylactic-
+response/ 
+ 
+ 

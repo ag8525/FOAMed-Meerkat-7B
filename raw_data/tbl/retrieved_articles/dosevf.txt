@@ -1,0 +1,169 @@
+# Metadata
+- Source: The Bottom Line
+- Title: DOSEVF
+- Original URL: https://www.thebottomline.org.uk/summaries/dosevf/
+- Scrape Date: 2025-07-17
+- Summary Date: AUTO_FILL_IF_AVAILABLE
+
+Defibrillation Strategies for Refractory Ventricular Fibrillation
+@DrCheskes
+. NEJM 2022 DOI: 10.1056/NEJMoa2207304
+Clinical Question
+In patients with refractory VF, does Double Sequential External Defibrillation or Vector-change Defibrillation compared to standard defibrillation improve survival to hospital discharge?
+Background
+Refractory VF occurs in up to half of patients following an out-of-hospital VF arrest
+Anti-arrhythmics are commonly used in this setting. However the
+ALPS
+study reported no significant improvement in survival to discharge or good neurological outcome with the use of either amiodarone or lignocaine
+Case series have suggested a potential benefit with the use of Double Sequential External Defibrillation or Vector-change defibrillation to treat patients with refractory VF. These strategies may enable a greater or different part of the ventricle to be defibrillated
+Design
+Randomised controlled trial
+3 group cluster randomisation with cross-over
+Each cluster crossed over every 6 months
+Randomisation performed at level of paramedic service
+Random treatment sequences were computer-generated
+Power calculation: 930 patients would provide 80% power to detect an 8% absolute improvement in the primary outcome from a baseline of 12%, with a false positive rate of 5%
+Trial terminated early by data and safety monitoring board due to paramedic staffing shortages affecting timely delivery of assigned defibrillation strategy
+Intention to treat analysis used for primary analysis
+Treatment received analysis also reported
+Registered on
+clinicaltrials.gov
+Blinding of outcome assessors
+Outcomes assessed until hospital discharge
+Setting
+6 paramedic services, Ontario, Canada, included ~4000 paramedics
+Data collection:
+Pilot trial: March 2018 – September 2019 (n=152) – results also included in this analysis
+Planned trial: September 2019 – May 2022 (n=253)
+Study paused April – September 2020 due to COVID pandemic
+Inclusion
+:
+≥18 years
+Out-of-hospital-VF arrest of presumed cardiac cause
+Refractory VF
+Defined as initial presenting rhythm of VF/VT that was still present after 3 consecutive rhythm checks and standard defibrillations
+Exclusion
+:
+Non-VF/VT as presenting rhythm
+Non-cardiac cause
+Traumatic cardiac arrest, drowning, hypothermia, hanging, or suspected drug overdose
+DNAR order
+Patients initially treated by non-participating fire or EMS agencies
+405 patients randomised
+Comparing baseline characteristics of standard vs. VC vs. DSED groups
+Age: 64 vs. 64 vs. 63
+Male: 80% vs. 88% vs. 85%
+Bystander witnessed cardiac arrest: 60% vs. 76% vs. 66%
+Bystander CPR: 54% vs. 63% vs. 57%
+Median response time: 7.4 vs. 7.4 vs. 7.8min
+Median time from initial call to 1st shock: 10 vs. 10 vs. 10min
+Pre-hospital intubation: 38% vs 50% vs 42%
+Anti-arrhythmic dose administered: 81% vs. 74% vs. 74%
+Adrenaline administered: 95% vs. 92% vs. 86%
+Intervention
+Patients randomised to either:
+Vector-change (VC) Defibrillation
+All subsequent defibrillations performed with Anterior-Posterior pad placement
+144 patients assigned to VC defibrillation
+113 patients received VC defibrillation
+31 patients received standard defibrillation
+Double Sequential External Defibrillation (DSED)
+All subsequent shocks performed using DSED
+2nd defibrillator attached in AP position. Single operator pressed shock button on anterior-lateral followed immediately (<1sec) by anterior-posterior defibrillation
+125 patients assigned to DSED
+107 patients received DSED
+16 patients received standard defibrillation
+2 patients received VC defibrillation
+Control
+Standard defibrillation
+All defibrillation attempts occurred in standard anterior–lateral position
+136 patients assigned to standard defibrillation
+135 received standard defibrillation
+1 received DSED
+Management common to both groups
+Resuscitation followed standard AHA guidelines
+The 1st 3 defibrillation attempts occurred with the pads in standard anterior–lateral position
+Outcome
+Primary outcome
+: Survival to hospital discharge
+Significantly increased using:
+DSED vs. standard care
+30.4% vs. 13.3%
+RR 2.21, 95% CI. 1.33-3.67
+Fragility index 9 patients
+VC vs. standard care
+21.7% vs. 13.3%
+RR 1.71, 95% CI. 1.01-2.88
+Fragility index 1 patient
+Secondary outcomes
+:
+Comparing DSED vs. standard care
+Significantly higher:
+Termination of VF
+84.0% vs. 67.6%
+Adjusted RR 1.25 (95% CI. 1.09-1.44)
+ROSC
+46.4% vs. 26.5%
+Adjusted RR 1.72 (95% CI. 1.22-2.42)
+Survival with good neurological outcome – Modified Rankin Score ≤2
+27.4% vs 11.2%
+Adjusted RR 2.21 (95% CI. 1.26-3.88)
+Comparing VC vs. standard care
+Significantly higher:
+Termination of VF
+79.9% vs. 67.6%
+Adjusted RR 1.18 (95% C.I. 1.03-1.36)
+No significant difference in:
+ROSC
+35.4% vs 26.5%
+Adjusted RR 1.39 (95% CI. 0.97-1.99)
+Survival with good neurological outcome – Modified Rankin Score ≤2
+16.2% vs 11.2%
+Adjusted RR 1.48 (95% CI 0.81-2.71)
+Treatment received analysis for survival to hospital discharge
+No significant difference comparing:
+DSED vs. standard defibrillation
+RR 1.38 (95% CI. 0.90-2.11)
+VC vs. standard defibrillation
+RR1.13 (95% CI. 0.72-1.78)
+Authors’ Conclusions
+Survival to hospital discharge appeared higher with DSED and VC defibrillation that with standard defibrillation among patients with refractory VF
+Strengths
+Randomised controlled trial
+Crossover which decreases risk of bias from high/low performing paramedic teams
+Assessed quality of CPR
+Standard protocol for resuscitation and use of DSED and VC defibrillation
+Blinding of outcome assessors
+Weaknesses
+Trial stopped early before it reached planned sample size. There were a low number of outcome events. Both of these are likely to result in an overestimate of the effect size being reported
+Outcomes assessed only until hospital discharge. For neurological outcomes longer follow up may be beneficial
+DSED requires 2 defibrillators. It is unclear if this meant that more paramedics were called to cardiac arrests when DSED were used. If so this may introduce bias
+Results from pilot trial were included in this analysis. This was not planned for in the trial registration on
+clinicaltrial.gov
+The median time from initial call to 1st shock was 10 minutes. These results may not be generalisable to setting that do not achieve this
+There are some baseline differences between the treatment groups that may lead to confounding bias
+There were differences in the amount of crossovers between services, suggesting that bias from individual treating services may not have been completely eliminated
+Blinding of treatment was not possible
+The Bottom Line
+In this randomised trial of patients with refractory VF following out-of-hospital cardiac arrest, the use of DSED or VC defibrillation resulted in significantly higher survival to hospital discharge. The use of DSED was also reported to lead to a significant increase in survival with a good neurological outcome
+These results should be interpreted with caution as
+The trial was stopped early and there were a low number of outcome effects, and therefore the effect size is likely to be overestimated
+The analysis using treatment received reported no significant difference in the primary outcome
+Further trials should therefore be performed. In the mean time, if you are unable to randomise a patient to a trial, the use of DSED or VC defibrillation would be a reasonable treatment option to try for refractory VF, with the knowledge that the research is not definitive and the outcome benefits are unclear
+External Links
+article:
+Defibrillation Strategies for Refractory Ventricular Fibrillation
+Editorial:
+Defibrillation after cardiac arrest- is it time to change practice?
+further reading:
+first10EM: Dose VF: A double sequential defibrillation game changer?
+further reading:
+REBELEM: The DOSE VF Pilot RCT: Double Sequential External Defibrillation for Refractory Ventricular Fibrillation
+Further reading:
+St Emlyns JC- Alternative defibrillation strategies in refractory VF. The Dose VF trial.
+Metadata
+Summary author:
+@davidslessor
+Summary date: 9th November 2022
+Peer-review editor:
+@iceman_ex

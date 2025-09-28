@@ -1,0 +1,82 @@
+# Metadata
+- Source: The Bottom Line
+- Title: Weingart
+- Original URL: https://www.thebottomline.org.uk/summaries/icm/dsi/
+- Scrape Date: 2025-07-17
+- Summary Date: AUTO_FILL_IF_AVAILABLE
+
+Delayed Sequence Intubation: A Prospective Observational Study
+Weingart, Annals of Emergency Medicine;2014; published online. doi:10.1016/j.annemergmed.2014.09.025
+Clinical Question
+In patients who require emergency intubation and are not tolerating pre-oxygenation, does the use of ‘delayed sequence intubation’ (DSI) improve pre-intubation oxygen saturations (SpO2)?
+Design
+Prospective observational case series
+non-randomised
+non-blinded
+convenience sample
+Setting
+3 hospital in USA/Denmark
+Level 1 trauma centre or quarternary referral centre
+Study period: May 2011 to December 2013
+Population
+Inclusion:
+Adult patient spontaneously breathing who were required to have emergency intubation
+Not predicted to have difficult airway
+Did not tolerate pre-oxygenation despite maximal conventional attempts
+62 patients included in analysis out of 64 enrolled
+Intervention
+Ketamine
+Initial dose 1mg/kg, followed by 0.5mg/kg aliquots until dissociated
+Then placed ≥30 degrees head up and pre-oxygenated with non-rebreather mask and nasal cannula
+If SpO2 <95% then changed to CPAP 5-15cm H2O
+39 patients received pre-oxygenation with CPAP
+23 patients did not require CPAP
+After 3 minutes paralysed with suxamthonium/rocuronium and intubated after further 45-60 seconds
+Control
+No control group
+Outcome
+Primary outcome
+Difference in SpO2 after pre-oxygenation with:
+a) standard attempts
+b) ketamine (just prior to administration of muscle relaxation)
+significant increase post ketamine
+88.9% vs 98.8% (increase of 8.9%, 95% C.I. 6.4-10.9)
+Secondary outcomes:
+Subgroup analysis
+SpO2 after pre-oxygenation with ketamine in patients with initial SpO2 ≤93% after pre-oxygenation with standard attempts
+all increased SpO2 to >93%
+Complications
+No patients had pre-muscle relaxant apnoea, peri-intubation emesis, cardiac arrest or death
+2 patients SpO2 decreased after attempting pre-oxygenation with ketamine
+decrease from 99% to 98% and 95% to 93% respectively
+both of these patients received pre-oxygenation by nonrebreather masks without nasal cannula oxygen during their dissociation
+Post-hoc analysis
+2 patients with asthma improved sufficiently with pre-oxygenation with ketamine and CPAP that decision made not to intubate them
+Authors’ Conclusions
+DSI safely allowed the provision of pre-oxygenation to patients who did not tolerate pre-oxygenation with traditional methods
+Strengths
+Multi-centre
+Prospective
+Standard protocol for use of DSI
+Sensitivity analysis performed for possible non-parametric distribution
+Weaknesses
+No control group
+Non blinded
+Convenience sample – therefore possibility of selection bias although authors comment that independent research fellow did not find evidence supporting this.
+DSI performed by clinicians with extensive experience of ketamine sedation and therefore results may not represent expected outcomes in less experienced hands
+The Bottom Line
+In a prospective observational study of patients requiring emergency intubation who did not tolerate pre-oxygenation with traditional methods, the practice of DSI significantly improved oxygen saturations prior to intubation. A RCT is warranted, comparing the use of DSI with the use of other techniques for achieving pre-oxygenation, when traditional methods have failed. In the mean time, on the basis of this level 4 evidence I will use the practice of DSI in selected cases.
+External Links
+[article abstract]
+Delayed Sequence Intubation: A Prospective Observational Study
+[further reading]
+Preoxygenation, Reoxygenation, and Delayed Sequence Intubation in the Emergency Department
+by Weingart
+[further reading]
+EmCrit Page – Everything you need to know about DSI
+Metadata
+Summary author:
+@davidslessor
+Summary date: 3rd November 2014
+Peer-review editor:
+@DuncanChambler

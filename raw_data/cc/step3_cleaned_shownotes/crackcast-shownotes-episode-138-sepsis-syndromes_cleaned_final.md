@@ -1,0 +1,326 @@
+```yaml
+title: "CrackCast Episode 138: Sepsis Syndromes"
+url: "https://canadiem.org/crackcast"
+date: 2017-12
+source: "CanadiEM – CrackCast"
+original_file: "CrackCast-Shownotes-Episode-138-Sepsis-Syndromes.pdf"
+summary: |
+  The document discusses sepsis syndromes, emphasizing the importance of early recognition and management in emergency settings. Sepsis is defined as life-threatening organ dysfunction due to a dysregulated host response to infection, with the qSOFA score being a key diagnostic tool. Early Goal Directed Therapy, once fluid-heavy, now focuses on maintaining specific hemodynamic parameters. The Surviving Sepsis Guidelines recommend prompt antibiotic administration and source control within 12 hours. Vasoactive medications like norepinephrine are first-line treatments for maintaining mean arterial pressure. Acute Respiratory Distress Syndrome (ARDS) management includes lung-protective ventilation strategies. The document also highlights the overlap between sepsis and hemophagocytic lymphohistiocytosis (HLH), a syndrome of immunological hyperactivation, which complicates diagnosis and treatment.
+```
+
+## Overview
+
+### Key Concepts
+
+- Sepsis is a progression of disease due to a dysregulated inflammatory cascade, leading to organ dysfunction and circulatory compromise in severe cases.
+- Sepsis is subtle and often difficult to detect, so the emergency clinician should maintain a high index of suspicion when assessing patients in the ED.
+- Older adults, immunocompromised and neutropenic patients, and patients with multiple comorbidities are at increased risk for the development of sepsis syndromes.
+- A thorough history and physical examination should guide the diagnostic evaluation.
+- Early treatment should focus on appropriate identification, improvement of tissue perfusion (through administration of fluids and vasopressor medications), improvement of tissue oxygenation (through administration of oxygen and positive-pressure ventilation), administration of antibiotics, and early identification of infections requiring surgical management.
+- Prompt administration of antibiotics is essential and should be based on the suspected source of infection.
+
+### Rosens in Perspective
+
+Sepsis is a continually changing field in emergency medicine. The definitions and our approach will continue to rapidly develop.
+
+Even though we have the shiny new 9th edition of Rosen’s, even it is 5 years behind (the reference the 2012 Surviving sepsis guidelines for example).
+
+So for the sake of your clinical knowledge and exam purposes, we will rely heavily on the Giants of FOAM. Specifically, we use the wonderful knowledge that FOAMCAST and EMCRIT Project have been pumping out for years. So go straight to those sources for the knowledge goodness.
+
+## Core Questions
+
+### 1) Define SIRS, Sepsis, Severe Sepsis, and Septic Shock
+
+- **Bacteremia** – Presence of viable bacteria in the blood, as evidenced by positive blood cultures.
+- **SIRS** – At least two of the following:
+  - Oral temp >38°C (100.4°F) or <35°C (95°F)
+  - Respiratory rate >20 breaths/min or PaCO2 < 32 mmHg
+  - Heart rate >90 beats/min
+  - Leukocyte count > 12,000/dL or <4000/dL; or >10% bands
+- **Sepsis** – SIRS that has a proven or suspected microbial source.
+- **Multiple organ dysfunction syndrome (MODS)** – Dysfunction of more than one organ, requiring intervention homeostasis.
+
+From UptoDate:
+
+SIRS and Severe Sepsis (old terms):  
+“The use of systemic inflammatory response syndrome (SIRS) criteria to identify those with sepsis has fallen out of favor since it is considered by many experts that SIRS criteria are present in many hospitalized patients who do not develop infection, and their ability to predict death is poor when compared with other scores such as the SOFA score.
+
+SIRS is considered a clinical syndrome that is a form of dysregulated inflammation. It was previously defined as two or more abnormalities in temperature, heart rate, respiration, or white blood cell count. SIRS may occur in several conditions related, or not, to infection. Noninfectious conditions classically associated with SIRS include autoimmune disorders, pancreatitis, vasculitis, thromboembolism, burns, or surgery.
+
+The term severe sepsis, which originally referred to sepsis that was associated with tissue hypoperfusion (e.g., elevated lactate, oliguria) or organ dysfunction (e.g., elevated creatinine, coagulopathy), and the term systemic inflammatory response syndrome (SIRS) are no longer used since the 2016 sepsis and septic shock definitions include patients with evidence of tissue hypoperfusion and organ dysfunction.
+
+Sepsis and Septic shock:  
+A constellation of clinical, laboratory, radiologic, physiologic, and microbiologic data is typically required for the diagnosis of sepsis and septic shock.
+
+Big take-home point:  
+A 2016 SCCM/ESICM task force has defined sepsis as life-threatening organ dysfunction caused by a dysregulated host response to infection” (Uptodate).
+
+So, it’s nice and simple now:
+
+1. You need an infection (suspected or confirmed).
+2. You need organ dysfunction.
+
+Then you have sepsis!
+
+Organ dysfunction = Two or more points on the qSOFA score.
+
+### 2) Describe Early Goal Directed Therapy
+
+We won’t spend too much time on River’s, although we will give him major props for changing how we all care for sepsis patients EGDT! But the current trends have moved away from this fluid-heavy protocol.
+
+Comes down to the following parameters:
+
+- CVP 8-12 mmHg
+- MAP 65 – 90 mmHg
+- Urine output >0.5 ml/kg/hr
+- Mixed venous oxygen saturation >65% / ScvO2 >70%
+- Haematocrit >30%
+
+### 3) What is Sepsis 3.0
+
+Check out this FOAMCAST post for the best summary you could ask for.
+
+Our understanding of sepsis is changing.
+
+Now it's thought of as:
+
+“Sepsis is a clinical syndrome that has physiologic, biological, and biochemical abnormalities caused by a dysregulated inflammatory response to infection. Sepsis and the inflammatory response that ensues can lead to multiple organ dysfunction syndrome and death.” - UptoDate
+
+Sepsis 3.0 with using the above definition, stops depending on SIRS and pickup on qSOFA.
+
+- qSOFA failed to be validated in Chicago patients as published in 2016 (see the excellent PULMCRIT post on this).
+- Follow-up multicentre European trial shows qSOFA outperformed SIRS for picking up SEPSIS patients that need ICU level care (see this post for more FOAMCAST).
+
+### 4) Discuss the Surviving Sepsis Guidelines
+
+### 5) List doses and indications for commonly used vasoactive medications
+
+**Sepsis:**
+- 1st line Norepinephrine
+- 2nd line Vasopressin
+- 3rd Line epi if not reaching MAP
+
+**Cardiogenic Shock:**
+- Epinephrine
+- Dobutamine
+- Milrinone
+
+**Neurogenic shock:**
+- Epinephrine
+- Dopamine
+
+**Table 130.2 – Dosing of Vasoactive Therapy**
+
+| Drug          | Dosing          |
+|---------------|-----------------|
+| Dobutamine    | 5 – 15 µg/kg/min|
+| Dopamine      | 2 – 20 µg/kg/min|
+| Epinephrine   | 5 – 20 µg/min   |
+| Norepinephrine| 5 – 20 µg/min   |
+| Phenylephrine | 2 – 20 µg/min   |
+
+### 6) Describe empiric Abx regimens for typical sources of sepsis
+
+When in doubt, go big!
+
+- Piptazo + Vanco
+- Or Mero + Vanco
+
+See Rosen’s Table 130.3 for suggested initial antibiotic management by source.
+
+**REMEMBER:**
+
+**Super Bug coverage:**
+
+**ESBL coverage: FatCAT**
+- Fosfomycin
+- Carbapenems (imipenem vs Meropenem)
+- Aminoglycosides (gentamycin / Tobramycin)
+- Tigecycline
+
+**VRE Coverage:**
+- Linezolid
+- Dapto
+- Tigecycline
+- Chloramphenicol
+- High-dose ampicillin or ampicillin/sulbactam
+- Nitrofurantoin
+
+**MRSA Coverage:**
+
+**PO:**
+- Septra
+- Doxy
+- Clinda
+- Linezolid
+
+**IV:**
+- Vanco
+- Linezolid
+- Daptomycin
+- Tigecycline
+
+**PSEUDOMONAL COVERAGE**  
+(puncture wounds, post-surgical wounds, Sickle cell anemia)
+
+**PO:**
+- Cipro
+
+**IV:**
+- Ceftazidime for cefepime
+- Tobramycin
+- Piptazo
+- Meropenem
+
+**ANTIPSEUDOMONAL CEPHALOSPORIN = Ceftazidime for cefepime**  
+**ANTIPSEUDOMONAL aminoglycoside = Tobramycin**
+
+### 7) Define ARDS
+
+**Acute Respiratory Distress Syndrome**
+
+Complex interplay between (1) pulmonary oedema from damage to the alveolocapillary barrier; (2) inflammatory infiltrates; (3) surfactant dysfunction.
+
+According to LITFL:
+
+ARDS is (The Berlin Definition (2013)):
+- Acute, with onset over 1 week or less
+- Bilateral opacities consistent with pulmonary edema must be present; they may be detected on CT or chest radiograph
+- PF ratio <300mmHg with a minimum of 5 cmH20 PEEP (PaO2 / FiO2 eg PaO2 80 / FiO2 0.80 = 100)
+- Must not be fully explained by cardiac failure or fluid overload, in the physician’s best estimation using available information — an “objective assessment“ (e.g. echocardiogram) should be performed in most cases if there is no clear cause such as trauma or sepsis.
+
+ARDS is categorized as being mild, moderate, or severe:
+
+| ARDS Severity | PaO2/FiO2* | Mortality** |
+|---------------|------------|-------------|
+| Mild          | 200 – 300  | 27%         |
+| Moderate      | 100 – 200  | 32%         |
+| Severe        | < 100      | 45%         |
+
+*on PEEP 5+; **observed in cohort
+
+**RISK FACTORS**
+
+**Direct:**
+- Pneumonia (46%)
+- Aspiration of gastric contents (29%)
+- Lung contusion (34%)
+- Fat embolism
+- Near drowning
+- Inhalational injury
+- Reperfusion injury
+
+**Indirect:**
+- Non-pulmonary sepsis (25%)
+- Multiple trauma (41%)
+- Massive transfusion (34%)
+- Pancreatitis (25%)
+- Cardiopulmonary bypass
+
+### 8) Describe the ED approach to managing ARDS
+
+In essence, this is a problem for our Colleagues in Critical Care, but we can HELP BIG TIME to prevent lung injury in the early hours of mechanical ventilation.
+
+See LIFTL.
+
+**Mechanical Ventilation:**
+
+- ARDS Network protective lung ventilation strategy (from the ARMA study)
+- Controlled mode of ventilation
+- TV 6mL/kg
+- Avoid overstretch (volutrauma) and inadequate recruitment (atelectrauma)
+- PEEP
+- Plateau pressure <30 cmH20 (higher than this contributes to VILI from overstretching and hyperinflation of the functional ‘baby lung’)
+- Mode of ventilation: generally no difference
+  - PCV tends to be used c/o plateau pressure approximates peak pressure, with VC plateau pressure needs to be measured
+- Oxygenation target: SpO2 > 90%, PaO2 >60mmHg
+- Carbon dioxide target: ARDSnet aimed for a normal CO2 -> but lung is exposed to repeated tidal stretch, ideally hypercapnia should be minimized but there isn’t compelling data to suggest it is harmful unless there is an obvious reason (raised ICP, pregnancy).
+
+**Other Tx:**
+- Proning
+- Sedation to ensure vent synchrony and lower O2 consumption
+- <48 hrs of neuromuscular paralysis if PF ratio <150
+- Start feeds
+- Nitric or Prostacyclins controversial
+- VV ECMO
+
+## Wisecracks
+
+### 1) Outline key priorities in diagnostic workup and management of the septic patient during the first 6 hours of emergency care.
+
+From UptoDate: “Therapeutic priorities include securing the airway, correcting hypoxemia, and establishing vascular access for the early administration of fluids and antibiotics. Simultaneously obtaining the following is preferable (within 45 minutes) but should not delay the administration of fluids and antibiotics: routine laboratory studies, serum lactate, arterial blood gases, blood cultures (aerobic and anaerobic) from two distinct venipuncture sites and from indwelling vascular access devices, cultures from easily accessible sites (e.g., sputum, urine), and imaging of suspected sources.”
+
+1. Rapid identification
+2. MOVIE + Airway
+3. Fluids - RL or NS: 3 L in 3 hours
+4. Empiric Antibiotics
+   - Probably at least two agents
+   - Ideally one given within the first hour of presentation
+   - Thorough HEAD TO TOE; GUMS TO BUMS; FOLD TO FOREIGN BODY assessment to help guide your empiric therapy
+5. Investigations
+   - Assessment of end-organ function
+   - Cultures
+   - Imaging
+6. Reassessment + consideration of inopressors
+   - MAP > 65-70
+   - U/O minimum 0.5 ml/kg/hr
+7. Source control - ideally within 12 hours
+8. Roll into AT’s tender care → the ICU
+
+General Guidelines to aim for in the resuscitative phase are:
+
+- MAP > 65 mmHg
+- HR < 100/min
+- Adequate tissue perfusion as assessed by clinical examination
+- CI > 2.2 l/min/m2
+- CVP < 8 mmHg
+
+### 2) What is HLH?
+
+See LITFL and PULMCRIT.
+
+According to Dr. Josh Farkas:
+
+“What is hemophagocytic lymphohistiocytosis (HLH)? (a.k.a., hemophagocytic syndrome, macrophage activation syndrome) HLH is a clinical syndrome resulting from immunological hyperactivation centered around macrophages. It involves a proinflammatory cytokine storm with high levels of many cytokines (e.g., IL-1, IL-6, and IL-8). The histological signature of this process is activated macrophages phagocytizing other cells.”
+
+Now thought to be a Sepsis and HLH overlap syndrome, or “SHLHOS.”
+
+**Clinically:**
+
+- Fever
+- Shock
+- Capillary leak
+- Thrombocytopenia
+- Delirium
+- Disseminated intravascular coagulation
+- Multiorgan failure
+
+**Need AT LEAST 5 of the following:**
+
+- Fever
+- Splenomegaly
+- Cytopenia in at least two cell lines
+- Hemoglobin < 9 mg/dL (Hb <90 g/L)
+- Platelets < 100 billion/L (platelets <100 x 10E9/L)
+- Neutrophils < 1,000 / microliter (neutrophils <1 x 10E3/L)
+- Hypertriglyceridemia and/or hypofibrinogenemia
+- Triglycerides >265 mg/dL
+- Fibrinogen < 150 mg/dL
+- Hemophagocytosis in bone marrow, spleen, or lymph node biopsy
+- Ferritin >500 ng/ml (>10,000 highly specific, > 50,000 high chance of mortality)
+- Low natural killer-cell activity
+- Soluble CD25 (i.e. soluble IL-2 receptor) > 2,400 U/ml
+
+Basically super hard to diagnose, but likely very common in those sepsis patients that die in ICU.
+
+Possible roles of interleukin-1 receptor antagonists (anakinra) and STEROIDS.
+
+## References
+
+- FOAMCAST
+- The original Rivers paper
+- UptoDate
+- LITFL
+- PULMCRIT
+- Case courtesy of Dr. Craig Hacking, Radiopaedia.org, rID: 53759
+```

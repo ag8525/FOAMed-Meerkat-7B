@@ -1,0 +1,71 @@
+# Metadata
+- Source: The Bottom Line
+- Title: EPO-TBI
+- Original URL: https://www.thebottomline.org.uk/summaries/icm/epo-tbi/
+- Scrape Date: 2025-07-17
+- Summary Date: AUTO_FILL_IF_AVAILABLE
+
+Erythropoietin in traumatic brain injury: a double-blind randomised controlled trial
+Nichol A. The Lancet 2015; Online Oct 6 2015
+Clinical Question
+In patients with moderate or severe traumatic brain injury does the administration of erythropoietin compared with placebo improve neurological outcome at 6 months after injury
+Design
+Randomisation 1:1 erythropoietin or placebo
+Permuted blocks of varying sizes with computer-generated concealed allocation
+Blinding of all except the site pharmacists & dosing nurses
+Stratification by site and severity of injury
+Modified intention to treat analysis
+Sample size of 606 gave 90% power to detect a 28% RRR of 6 month GOS-E 1-4 (death, vegetative state and severe disability) and allowed a 5% loss to follow-up
+At six months a trained blinded staff member did a structured telephone interview with patients or carer to assess GOS-E.
+Setting
+Multicentre, multinational; 29 participating hospitals in 7 countries (Australia, New Zealand, France, Germany, Finland, Ireland, Saudi Arabia)
+May 3 2010 to Nov 1 2014, with follow-up finalised on May 6 2015
+Population
+Inclusion: Patients 15-65 years of age with non-penetrating moderate (GCS 9-12) or severe (GCS 3-8) TBI; <24 hours since injury, anticipated ICU stay > 48 hours, a haemoglobin not exceeding the upper limit of normal and ability to get consent
+Exclusion: GCS 3 and fixed dilated pupils, history of DVT or PE or other thromboembolic event, treatment with EPO in past 30 days
+3384 patients assessed, 606 patients were randomly assigned – 308 to receive EPO, 298 to receive placebo. 2778 excluded; 2645 of these did not meet inclusion criteria and 133 declined to participate
+Intervention
+Patients received 40000 IU of erythropoietin subcutaneously
+The first dose was given within 24 hours of the TBI and then weekly for a maximum of 3 doses if the patient remained in ICU, their haemoglobin was <120g/L and they did not meet withholding criteria
+Control
+Patients received an identical placebo – normal saline, subcutaneously
+In Both Groups
+Screening ultrasound of lower extremities was conducted within 48 hours after the first dose, then weekly until discharge from the ICU
+At 6 months trained staff did a structured telephone interview with the patient or carer to determine Extended Glasgow Outcome Scale
+Outcome
+Primary outcome:
+No difference in 6 month neurological status dichotomized to GOS-E of 1-4 (death, vegetative state, and severe disability) or GOS-E 5-8 (moderate disability and good recovery) between the erythropoietin group (134/302, 44%) and placebo group (132/294, 45%) 95% CI 0.81-1.18, p = 0.9
+Secondary outcomes:
+No difference in a proportional odds model of neurological outcome & mortality assessed at 6 months; (OR 1.04 95% CI 0.78-1.28, p=0.79)
+No difference in proximal DVT (16% for EPO group, 18% for placebo group RR 0.87 95% CI 0.61-1.24, p=0.44)
+No difference in composite thrombotic outcomes, 22% for EPO group, 20% for placebo group
+No difference in mortality at 6 months, 11% for EPO group, 16% for placebo group RR 0.68, 95% CI 0.61-1.03, p=0.07
+Authors’ Conclusions
+Following moderate or severe TBI, erythropoietin did not reduce the number of patients with severe neurological dysfunction or increase the incidence of DVT or composite thrombotic outcomes
+A pre-planned sensitivity analysis adjusted for IMPACT_TBI probability of death, noted a significantly lower 6 month mortality in patients receiving erythropoietin (adjusted OR 0.58, 95% CI 0.34-0.99 p=0.04)
+Strengths
+Well designed with allocation concealment, double-blinding, near complete follow-up
+A detailed study protocol was published before completion of the study
+The trial examined important clinically meaningful outcomes
+The multicentre, multinational nature of the study increases the external validity
+The trial examines the safety of EPO compared with placebo; providing good information on the incidence of the potentially life-threatening complication of proximal DVT following TBI
+Animal models suggested a neurocytoprotective effect of EPO with the theory that secondary brain injury is reduced. Subgroup analyses of previous human trials of critically ill trauma patients suggested lower mortality of patients with EPO compared to placebo
+Weaknesses
+The study was powered to detect a 24% RRR of the proportion of patients with a GOS-E of 4 or lower, therefore a smaller risk reduction cannot be excluded
+The Bottom Line
+This trial does not support the use of Erythropoietin for patients with moderate or severe TBI. It does alert the neurointensivist to the high incidence of proximal DVT in this patient group, although the clinical significance of this is not explored in this trial.
+External Links
+[Abstract]
+Erythropoietin in traumatic brain injury (EPO-TBI): a double-blind randomised controlled trial
+[Further reading] [
+http://intensivecarenetwork.com/615-75-flower-on-iconoclastic-view-of-neurocritical-care/
+]
+[Further reading] [
+Effect of erythropoietin and transfusion threshold on neurological recovery after traumatic brain injury: a randomisezed clinical trial. Robertson CS. JAMA 2014;312 36-47
+.]
+Metadata
+Summary author:
+@celiabradford
+Summary date: November 3 2015
+Peer-review editor:
+@davidslessor

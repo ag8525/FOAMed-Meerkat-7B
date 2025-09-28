@@ -1,0 +1,144 @@
+# Metadata
+- Source: The Bottom Line
+- Title: EXTEND IA TNK
+- Original URL: https://www.thebottomline.org.uk/summaries/icm/extend-ia-tnk/
+- Scrape Date: 2025-07-17
+- Summary Date: AUTO_FILL_IF_AVAILABLE
+
+Tenecteplase versus Alteplase before Thrombectomy for Ischemic Stroke (EXTEND-IA TNK)
+B.C.V. Campbell et al for the EXTEND-IA TNK study investigators; New England Journal of Medicine April 2018; 378:1573-1582; doi:
+10.1056/NEJMoa1716405
+Clinical Question
+In patients with anterior circulation strokes undergoing endovascular thrombectomy, is IV thrombolysis within 4.5 hours of stroke onset with tenecteplase non-inferior to alteplase at establishing reperfusion?
+Background
+The management of acute stroke has evolved rapidly in the past few years. See the
+DEFUSE-3 study
+Endovascular thrombectomy has been added to alteplase (a recombinant tissue plasminogen activator) for patients presenting with a large-vessel cerebral artery occlusion within the first six hours
+Tenecteplase is a genetically-modified variant of alteplase with superior fibrin specificity and a longer half-life that permits bolus administration
+Tenecteplase can be infused more rapidly than alteplase and is less expensive
+This shorter duration of administration may help to minimise the time to thrombectomy
+In addition, tenecteplase has been shown to have a lower incidence of haemorrhagic side-effects than alteplase following administration for ST-elevation myocardial infarction
+A previous phase II study has shown that tenecteplase may improve cerebral reperfusion on CT at 24 hours and may result in better clinical and functional outcomes (Parsons et al; NEJM 2012)
+Design
+Randomised controlled trial
+Centralised web server
+Stratified according to site of involved vessel
+Open-label
+Blinded outcome assessment
+Non-inferiority
+Non-inferiority boundary of 4.6% based on recent meta-analysis that reported 7.5% of patients who received alteplase had reperfusion at initial angiographic assessment
+Non-inferiority would be established if the lower boundary of the two-sided 95% confidence interval of the % difference in patients with substantial reperfusion was greater than -2.3 percentage points
+Superiority
+Assessment for the superiority of tenecteplase was planned in the event of non-inferiority being established
+Using logistic regression analysis, with adjustment for the site of vessel occlusion
+Blinded adaptive sample size re-estimation performed after 100 patients enrolled, determining a final sample size of 202 patients
+Intention to treat and per-protocol analysis performed
+Only 1 analysis presented as no crossover between groups occurred, and only 2 exclusions from both analyses due to withdrawal of consent (n=1) and withdrawal by physician due to error in assessing eligibility prior to starting treatment (n=1)
+Setting
+12 centres in Australia and 1 centre in New Zealand.
+March 2015 to October 2017.
+Population
+Inclusion criteria:
+Ischaemic stroke within 4.5 hours of stroke onset
+Evidence of cerebral vascular occlusion of a large vessel on CT angiography (internal carotid, middle cerebral, basilar artery)
+Eligible to undergo IV thrombolysis and endovascular thrombectomy
+Original inclusion criteria required CT-perfusion mismatch for anterior circulation strokes
+Ratio of >1.2 between volume of hypoperfusion and the volume of the ischamic core, absolute difference in volume >10ml, ischaemic core volume <70ml
+This criteria was removed after ~80 patients enrolled due to analysis from other trials demonstrating benefit in patients with larger ischaemic-core volumes
+Exclusion criteria:
+Patients with severe pre-existing disability (modified Rankin scale score > 3)
+202 patients included in analysis
+Comparing baseline characteristics of intervention vs. control groups – no significant differences
+Age: 70.4 vs. 71.9yrs
+Median NIHSS score: 17 vs. 17
+Cause of stroke
+Cardioembolic: 46% vs. 53%
+Large artery occlusion: 21% vs. 18%
+Median time from stoke onset to IV thrombolysis: 125 vs. 134min
+Median time from thrombolysis to arterial puncture: 43 vs. 42min
+Inter-hospital transfer for thrombectomy: 27% vs. 23%
+Site of vessel occlusion
+Internal carotid artery: 24% vs. 24%
+Basilar artery: 3% vs. 3%
+Middle cerebral artery: 73% vs. 73%
+Median volume at initial imaging
+Ischamic core: 14 vs. 11ml
+Perfusion lesion: 145 vs. 134ml
+Intervention
+Intravenous tenecteplase
+0.25 mg/kg; maximum dose 25 mg
+Control
+Intravenous alteplase
+0.9 mg/kg; maximum dose 90mg
+Management common to both groups
+All other treatments were guided by the standard of care for thrombolysis and thrombectomy for ischaemic stroke
+Outcome
+Primary outcome:
+Reperfusion of > 50% of the involved territory or an absence of retrievable thrombus at the time of initial angiographic assessment – the intervention was non-inferior
+22% in tenecteplase groups vs. 10% in alteplase group
+Incidence difference 12% (95% C.I. 2-21), p=0.002 for non-inferiority
+Adjusted odds ratio for superiority 2.6 (95% C.I. 1.1-5.9), p=0.02
+NNT = 9
+Secondary outcomes:
+Comparing intervention vs. control group
+Significantly better
+Median modified Rankin Scale Score at 90 days
+2 (IQR 0-3) vs. 3 (IQR 1-5)
+OR 1.7, 95% C.I. 1.0-2.8, p=0.04
+No significant difference in
+Early neurological improvement at 24 hours
+Median NIHSS score 3 (IQR 1-12) vs. 6 (IQR 2-14), OR 1.4 (95% C.I. 1.0-1.9), p=0.06 with adjustment for baseline NIHSS score
+Recovery to independent function (mRS 0-2, or no change from baseline) at 90 days
+64% vs. 51%, adjusted incidence ratio 1.2 (95% C.I. 1.0-1.5, p=0.06)
+Symptomatic or asymptomatic cerebral haemorrhage
+1% vs. 1%
+Mortality
+10% vs. 18%, adjusted OR 0.4 (95% C.I. 0.2-1.1), p=0.08
+Time to thrombectomy post initiation of thrombolysis
+54 vs. 56min
+Post-hoc Analysis
+Most patients who achieved reperfusion had a middle cerebral artery occlusion
+20/22 patients in the intervention group vs. 6/10 patients in the control group
+Authors’ Conclusions
+Tenecteplase was noninferior to alteplase in restoring perfusion in the territory of a proximal cerebral-artery occlusion. Overall functional outcome was better with tenecteplase than with alteplase. There was no significant difference in the incidence of cerebral haemorrhage.
+Strengths
+An appropriate and adequately powered non-inferiority study design was chosen to compare treatments.
+A planned superiority analysis was performed following establishment of non-inferiority allowing some conclusions to be drawn regarding the superiority of tenecteplase over alteplase.
+Stratification was performed for anatomical clot location.
+Although the study used a surrogate outcome as the primary endpoint, functional recovery, mortality and complications were assessed as secondary endpoints.
+The reperfusion rate in the alteplase arm (10%) was consistent with the previous EXTEND-IA study.
+Assessors of the study outcomes were blinded to allocation.
+Although the study enrolled stroke patients at the sicker end of the spectrum, and included larger ischaemic core volumes than previous studies, the administration of thrombolytics appeared to be reasonably safe.
+No patients were excluded from the per-protocol analysis.
+Weaknesses
+Due to differences in drug administration requirements, the study was open label.
+This was powered as a non-inferiority study so conclusions regarding the superiority of tenecteplase over alteplase cannot be made.
+The primary outcome was a surrogate endpoint (vessel recanalisation).
+This was a select group of patients with entry criteria originally requiring CT perfusion-mismatch for anterior circulation strokes.
+This study was predominantly performed in urban tertiary centres in Australia, with a mean time from stroke onset to thrombolysis of around two hours. This may not make it generalisable to more rural settings or to health care systems with less efficient interventional stroke services.
+The inclusion criteria for the study with respect to ischaemic core volume was revised in October 2016 due to results from other studies
+In 6 patients the primary outcome was assessed by perfusion imaging only
+The Bottom Line
+In patients with acute anterior circulatory strokes undergoing thrombolysis prior to embolectomy, tenecteplase was non-inferior to alteplase for achieving >50% reperfusion
+The more favourable pharmacodynamic properties of tenecteplase, in particular the rapid administration as a single bolus, mean that I would favour it over alteplase for the treatment of ischaemic stroke.
+Conclusions regarding the superiority of tenecteplase over alteplase, in terms of cerebral reperfusion, cannot be drawn from this paper and I await the results of an ongoing phase III study.
+The optimal dose of tenecteplase was not investigated by this study. Further studies comparing 0.25 mg/kg vs. 0.4 mg/kg are awaited in this area.
+External Links
+[Study link]
+EXTEND-IA TNK study
+[EXTEND-IA study (same authors)]
+EXTEND-IA study
+[Editorial]
+EXTEND-IA TNK Editorial
+[Further reading]
+REBEL EM: tenecteplase vs. alteplase
+[Further reading]
+MDEdge: tenecteplase vs. alteplase
+[Further reading]
+Interview with the author
+Metadata
+Summary author: Fraser Magee
+@fraz65
+Summary date: 1/5/18
+Peer-review editor:
+@davidslessor

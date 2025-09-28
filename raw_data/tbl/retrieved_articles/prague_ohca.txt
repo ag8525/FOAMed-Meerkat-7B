@@ -1,0 +1,187 @@
+# Metadata
+- Source: The Bottom Line
+- Title: Prague OHCA
+- Original URL: https://www.thebottomline.org.uk/summaries/icm/prague-ohca/
+- Scrape Date: 2025-07-17
+- Summary Date: AUTO_FILL_IF_AVAILABLE
+
+Effect of Intra-arrest Transport, Extracorporeal Cardiopulmonary Resuscitation, and Immediate Invasive Assessment and Treatment on Functional Neurological Outcome in Refractory Out-of-Hospital Cardiac Arrest
+Belohlavek J.
+@jan_belohlavek
+JAMA 2022; 327:737 – 747.doi:10.1001/jama.2022.1025
+Clinical Question
+In patients with a witnessed refractory out-of-hospital cardiac arrest (OHCA) does early intra-arrest transport, extracorporeal CPR (ECPR) and invasive assessment improve neurological outcome at 180 days?
+Background
+Refractory cardiac arrest is associated with poor clinical outcomes
+ILCOR has incorporated ECPR into ALS guidelines in patients who are suspected to have a reversible cause of their arrest and in whom conventional measures are failing (a weak recommendation)
+The
+ARREST
+trial published in 2020 showed that early ECMO facilitated resuscitation in those with refractory shockable rhythms improved survival to hospital discharge
+Design
+Single centre, randomised clinical trial
+Study co-ordinator received automated SMS when ambulance dispatch initiated telephone assisted chest compressions
+Once physician or paramedic on scene then telephone connection established to allow for randomisation
+Randomisation via web-based system
+Crossover was allowed:
+from standard to invasive strategy required request by emergency physician
+2 additional unsuccessful defibrillations were required
+from invasive to standard strategy allowed if continuing invasive measures was deemed to be futile
+Power calculations based on 10% favourable survival in standard strategy group; three scenarios for increased rates of favourable survival in invasive group were calculated:
+10% increase required 571 patients
+15% increase required 285 patients
+20% increase required 176 patients
+Appropriate ethical approval and consent protocols
+Independent Data Safety and Monitoring board review after every 30 patients or 6 months (whichever came first)
+Study terminated at recommendation of data safety and monitoring board as pre-specified limit for futility met
+Setting
+Single centre in Prague
+March 2013 – October 2020
+Population
+Inclusion
+:
+Adults aged 18 – 65
+Witnessed OHCA of presumed cardiac aetiology
+5 minute of ALS without ROSC
+Unconscious (GCS < 8)
+ECPR team available at cardiac centre
+Exclusion
+:
+Unwitnessed cardiac arrest
+Presumed non cardiac cause
+Suspected or confirmed pregnancy
+ROSC achieved within 5 minutes of initial resuscitation
+Obvious life limiting co-morbidities
+Bleeding diathesis
+Known CPC > 3
+Suspected or confirmed acute stroke
+358 without ROSC assessed for inclusion –> 264 randomised
+8 excluded (7 due to consent not being obtained)
+124 to invasive strategy
+9 of these received standard strategy
+132 to standard strategy
+11 received invasive strategy
+94 excluded
+Mainly due to logistical issues or presence of exclusion criteria
+29 due to physician preference and 4 reason unknown
+Comparing baseline characteristics of invasive vs. standard group
+Age: median 59 vs 57
+Male: 82% vs 83%
+Location of arrest:
+Home: 34% vs 26%
+Initial rhythm:
+VF: 58% vs 64%
+PEA: 17% vs 18%
+Asystole: 25% vs 18%
+Bystander CPR: 99% vs 98%
+Mechanical CPR: 92% vs 79%
+Prehospital Adrenaline doses: median 4 v 5
+Prehospital Defibrillation attempts: median 4 v 4
+Prehospital declaration of death: 1% vs 34%
+Timings (median, mins):
+Collapse to EMS arrival: 8 vs 9
+Collapse to randomisation: 24 vs 26
+Collapse to hospital arrival: 49 vs 60
+CPR duration (to ROSC/death/ECLS): 58 vs 46
+ECLS:
+Cannulated: 66% v 8%
+Time to ECLS: median 61mins vs 62 mins
+Door to ECLS: median 12 mins vs 16 mins
+Diagnostic Angiography: 98% vs 77%
+Lab values (median):
+pH: 6.93 vs 7.03
+Lactate: 12.5 vs 10.4
+Cause of arrest (including autopsy findings):
+ACS: 52% vs 48%
+PE: 10% vs 9%
+Myocarditis: 5% vs 2%
+Death: 68% vs 77%
+Withdrawal of life-sustaining therapies: 17% vs 11%
+Accepted for organ donation: 11% vs 2%
+Intervention
+Invasive bundle included the following:
+Intra-arrest nasal cooling initiated if feasible
+This stopped in 2016 due to availability
+Immediately transferred to cath lab with CPR ongoing
+ECLS if ROSC not achieved en-route or on admission if met criteria below:
+Inclusion criteria for ECLS:
+No ROSC, or ROSC with shock (SBP < 90 mmHg with moderate – high requirement for vasopressors
+< 60 minutes from time of initial call
+Consensus of ECLS team members
+Exclusion criteria for ECLS:
+Signs of death or irreversible organ damage
+Bleeding diathesis
+Inadequate vessels for bifemoral cannulation
+ECLS cannulation done in cath lab prior to invasive diagnostic or therapeutic procedures
+Bi-femoral access
+Anticoagulation with heparin unless contra-indicated (APTT target 50 – 70 seconds)
+Control
+Standard strategy bundle included:
+Treatment as per standard ALS guidelines
+If ROSC achieved then transport to hospital initiated with early invasive strategy (e.g. coronary angiography) encouraged
+Management common to both groups
+Use of drugs, defibrillations en-route and other interventions during transport followed ERC guidelines
+The use of a mechanical chest compression device was allowed at any point
+Post resuscitation care standardised in both groups
+Urgent TTE and whole body CT if feasible and indicated
+TTM
+All other treatment, including withdrawal, complied with ERC guidelines
+Outcome
+Primary outcome
+:
+Survival with minimal or no neurological impairment (CPC 1 or 2) at 180 days
+Comparing invasive vs. standard
+31.5% vs 22.0%
+Absolute difference 9.5% (95% CI -1.3 to 20.1, p = 0.09)
+Secondary outcomes
+:
+Comparing invasive vs. standard
+No significant difference in:
+Cardiac Recovery at 30 days
+43.5% vs 34.1%
+Absolute difference 9.4% (95% CI -2.5 to 21, p = 0.12)
+Significantly greater in invasive group:
+Survival with minimal or no neurological impairment at 30 days
+30.6% vs 18.2%
+Absolute difference 12.4% (95% CI 1.9 – 22.7%, p = 0.02)
+The authors also looked at the rates of favourable survival (CPC 1+2) when stratified by duration of CPR (eFigure 4)
+Authors’ Conclusions
+Among patients with refractory OHCA the bundle of early intra-arrest transport, ECPR and invasive assessment and treatment did not significantly improve survival with a neurologically favourable outcome compared with standard resuscitation
+Strengths
+Randomised trial
+Randomising patients during active cardiac arrest management important to allow for comparison between invasive and standard approach to be made at approximately 25 minutes following collapse, as opposed to arrival at hospital
+Intention to treat analysis for primary outcome
+Pre published statistical analysis plan
+Assessment of neurological outcome by single neurologist reduces variability when assessing CPC scores
+Weaknesses
+Single centre study
+Each city would have to consider it’s own logistics given transport to a single centre as in this study may take longer in larger cities
+The time to ECLS in this study is longer than the ARREST trial, but similar to the
+Melbourne outcomes
+that have just been recently published
+High rates of bystander CPR impressive, but important to consider when looking at overall neurological outcome
+Possibly underpowered due to early cessation
+Higher than expected favourable survival in standard group
+10% was expected
+Potential reasons for this may be due to the fact that all patients are being taken to a single centre with a high volume of cardiac arrest expertise, or it could be due to the Hawthorne effect
+Outside this trial, and in cities without designated cardiac arrest centres, then patients may be taken to hospitals with lower volumes and less experience in managing these patients – this could result in the favourable survival being lower in those that are managed as per the standard care arm
+Crossover allowed
+The Bottom Line
+This study did not show a statistically significant improvement in 180 day favourable neurological outcome with a hyperinvasive approach to refractory cardiac arrest
+However personally, the hypothesis generating secondary outcomes (30 day favourable survival) and subgroups (increased survival in invasive group in CPR > 45 minutes) in combination with other trials mean that the use of ECLS in refractory OHCA has valid support in this patient cohort
+The implementation of ECLS programmes will need to consider each cities unique geographical and logistical constraints
+External Links
+[article]
+Effect of Intra-arrest Transport, Extracorporeal Cardiopulmonary Resuscitation, and Immediate Invasive Assessment and Treatment on Functional Neurologic Outcome in Refractory Out-of-Hospital Cardiac Arrest:
+A Randomized Clinical Trial
+[further reading]
+Extracorporeal cardiopulmonary resuscitation in adults: evidence and implications
+[further reading]
+Extracorporeal cardiopulmonary resuscitation for out-of-hospital cardiac arrest: A systematic review and meta-analysis of randomized and propensity score-matched studies
+[further reading]
+Outcomes of patients with refractory out-of-hospital cardiac arrest transported to an ECMO centre compared with transport to non-ECMO centres
+Metadata
+Summary author: George Walker
+@hgmwalker89
+Summary date: 20th March 2022
+Peer-review editor: David Slessor/Segun Olusanya
+Picture by: iStock

@@ -1,0 +1,676 @@
+# Metadata
+- topic: 2.2 - System Injuries - 47 GU Trauma
+- source_folder: 2.2 - System Injuries
+- original_file: Ch.47 GU Trauma.pdf
+
+Crack Cast Show Notes – Genitourinary Trauma – October 2016 
+www.crackcast.org 
+ 
+                              
+ 
+Chapter 47 - Genitourinary Trauma 
+Episode Overview 
+ 
+1. List 6 general indicators of genitourinary trauma? 
+ 
+Lower urinary tract and external genitalia  
+1. What are the four parts of the male urethra? 
+2. What is the mechanism of an anterior urethral injury (at least 5 causes)? What is the mechanism of 
+a posterior urethral injury? 
+3. List 4 indications for retrograde urethrogram before foley placement? 
+4. Describe the technique for a retrograde urethrogram? 
+5. Classify bladder injuries and describe the mechanism of injury. 
+a. Differentiate between extraperitoneal and Intraperitoneal bladder rupture 
+6. Describe the indications and technique for retrograde cystogram? 
+7. Outline the management of the different types of bladder injuries. 
+8. List 3 clinical findings of a penile fracture 
+9. Describe the management of penile 
+a. Constricting devices 
+b. Superficial hematoma 
+c. Superficial lacerations 
+d. Degloving injury 
+e. Penile Fracture 
+f. 
+Penile amputation 
+g. Blunt scrotal trauma 
+h. Bites 
+ 
+Upper urinary tract 
+1. What is the presentation of a ureteric injury? 
+2. What are the indications for renal imaging in an adult trauma patient? In a pediatric trauma ? 
+3. Describe the management of renal injuries:  
+a. Blunt 
+b. Penetrating  
+  
+Wisecracks: 
+1. What is the most common site of urethral injuries? 
+ 
+ 
+ 
+Rosen’s in Perspective 
+● People rarely die from renal injuries in the ER (unless their kidney gets pulverized!)  
+○ There is a reason why we don’t say “ABC...U” 
+● Usually the signs and symptoms are subtle, but missing them can lead to long term: 
+○ Kidney Disease 
+○ HTN, incontinence, sexual dysfunction 
+● Diagnosis of urinary tract trauma is done in a retrograde way  
+ 
+Crack Cast Show Notes – Genitourinary Trauma – October 2016 
+www.crackcast.org 
+ 
+                              
+ 
+A note on female trauma: 
+● Watch for vaginal lacerations in the female with pelvic #’s, but urethral injuries are VERY rare.  
+○ Protected because of the symphysis pubis and its shorter length 
+● Retrograde urethrography is NOT recommended in the ER 
+○ Speak with your urologist if you are concerned 
+ 
+Digital Rectal Exam (DRE)  
+● “A palpably abnormal (high riding) prostate is an insensitive indicator of urethral injury”  
+● A DRE still may be worthwhile in the tertiary survey to look for sphincter tone integrity, 
+bones, gross blood, etc.  
+ 
+ 
+1) List 6 general indicators of genitourinary trauma? 
+I. 
+Flank / abdominal / rib / back / pelvic / scrotal pain 
+A. Worry in cases of pelvic #’s  
+B. Anyone with pelvic/suprapubic tenderness 
+II. 
+Urinary retention  
+III. 
+Penile/scrotal ecchymosis  
+IV. 
+Gross hematuria = urologic injury until proven otherwise 
+A. “Microhematuria” is not a reliable indicator of significant pathology  
+B. Make sure that its not just rhabdomyolysis - leading to myoglobinuria (no 
+RBCs on urinalysis)  
+V. 
+Blood at the urethral meatus  
+ 
+ 
+ 
+ 
+Delayed signs: 
+● Renovascular hypertension  
+● Incontinence  
+● Sexual dysfunction  
+ 
+Lower urinary tract and external genitalia 
+1. What are the four parts of the male urethra? 
+I. 
+Pendulous urethra  
+II. 
+Bulbous urethra 
+III. 
+Membranous urethra 
+IV. 
+Prostatic urethra  
+ 
+ 
+ 
+• 
+Anterior urethra (#1-2) and posterior urethra (#3-4) are divided by the urogenital diaphragm  
+ 
+See figures 47:1-3 for more visual aids.  
+ 
+ 
+2. What is the mechanism of an anterior urethral injury (at least 5 causes)?  
+● Straddle injuries (crushing of the bulbous urethra by falling astride an object) 
+○ The urethra gets crushed in between the metal bar and the pubic symphysis leading 
+to blood and urine seeping out)  
+● Falls  
+● Gunshot wounds 
+Crack Cast Show Notes – Genitourinary Trauma – October 2016 
+www.crackcast.org 
+ 
+                              
+ 
+● Self instrumentation  
+● Amputation  
+ 
+ 
+What is the mechanism of a posterior urethral injury? 
+● Pelvic fractures involving the ischiopubic rami  
+○ Straddle # 
+○ Malgaigne # 
+ 
+3. List 4 indications for retrograde urethrogram before foley placement? 
+● RUG: 
+○ History of urethral trauma (straddle injury)  
+○ Scrotal or penile hematoma 
+○ Blood at the urinary meatus  
+○ High risk pelvic fracture 
+● Caveat… 
+○ That being said: Rosen’s mentions that a Foley should NEVER be placed with any 
+suspicion of urethral injury until a RUG is performed.  
+■ Thought is that this will convert a partial tear into a complete one.  
+■ This teaching is not supported or clearly refuted in the literature.  
+■ “A small retrospective case review of 13 cases showed no damage with 
+careful blind insertion Foley catheter insertion attempts” …. 
+ 
+ 
+4. Describe the technique for a retrograde urethrogram? 
+● This is not an emergency procedure 
+● Steps to a retrograde urethrogram: 
+○ Prepare, position supine 
+○ Shoot a pre-injection KUB film 
+○ Use a 60 mL syringe (+/- Christmas tree adapter) and snugly fit it into the urethral meatus 
+(index and thumb)  
+○ Inject 60 mL of contrast over 30-60 seconds (firm, slow)  
+○ Take second X-Ray during injection of the last 10 mL 
+● A normal study would show contrast entering the bladder 
+● A partial injury has extravasating contrast and some contrast in the bladder 
+○ May not be safe to pass a foley 
+● A full injury = no contrast in the bladder 
+○ Use a suprapubic catheter (e.g. peel-away sheath, or others).  
+ 
+HUGE caveats: 
+● RUG is deferred if pelvic CT and angiography is anticipated because the contrast will obscure the 
+imaging and attempts to control pelvic hemorrhage with angiography.  
+ 
+ 
+ 
+ 
+ 
+Crack Cast Show Notes – Genitourinary Trauma – October 2016 
+www.crackcast.org 
+ 
+                              
+ 
+ 
+ 
+Management of urethral injuries:  
+ 
+● No injury = drop that foley! 
+● Partial injury = carefully try passing a 12-14 Fr Foley 
+○ Probably needs a stent by Urology  
+● Complete tear =  
+○ Insert a suprapubic to measure urine output or evacuate the bladder 
+(e.g. if osmotic agents are used!)  
+○ Probably needs a stent / endoscopic repair  
+● Female patients:  
+○ Proximal urethral injuries need immediate surgical exploration and 
+repair to avoid serious fistulae formation  
+○ Distal injuries can be treated with a foley catheter 
+○ Vaginal lacerations need transvaginal repair  
+ 
+5. Classify bladder injuries and describe the mechanism of injury. 
+ 
+● Bladder at highest risk when full  
+○ ⅔ from blunt trauma, 90% from MVC ejection/seat belt 
+○ 80% of ruptures are associated with pelvic #s 
+○ Occasionally injured in penetrating stab or missile trauma  
+● Bladder has three layers with blood supply from the internal iliac artery/vein 
+○ Muscle contracts via parasympathetic stimulation 
+● Three injury types: 
+○ Contusions 
+○ Intra-peritoneal ruptures 
+○ Extra-peritoneal rupture 
+● Diagnostic clues: 
+○ Lower abdominal / suprapubic pain 
+○ Pelvic #s 
+○ Unable to urinate 
+○ Gross hematuria - present in 95% of cases! Especially in the presence of pelvic #’s 
+ 
+ 
+a. Differentiate between extraperitoneal and Intraperitoneal bladder rupture 
+● Not mutually exclusive! 
+● Intraperitoneal 
+○ Blunt lower abdominal trauma with a distended bladder 
+■ The blunt forces stretch the weaker dome of the bladder 
+■ Leads to intraperitoneal urinary contamination  
+● Extraperitoneal 
+○ Usually in the setting of pelvic fractures (shear force) where the anterolateral 
+wall gets torn at its fascial attachments  
+○ Urine then may fill the: 
+■ Perivesical space 
+■ Penis, scrotum, thigh, anterior abdominal wall, obturator foramen 
+■ Retroperitoneum  
+Crack Cast Show Notes – Genitourinary Trauma – October 2016 
+www.crackcast.org 
+ 
+                              
+ 
+ 
+6. Describe the indications and technique for retrograde cystogram? 
+● Indications 
+○ Any suspicion of bladder injury 
+○ Gross hematuria without pelvic # 
+○ Microhematuria with pelvic # 
+○ “Grossly clear urine in a blunt trauma patient with a pelvic # virtually eliminates 
+the possibility of bladder rupture”   
+● Technique 
+○ Virtually everyone gets a CT 
+○ Don’t do a anterograde cystogram - because it will give incomplete findings 
+● Conventional retrograde cystogram: 
+○ Steps: 
+■ Shoot a conventional KUB xray, and keep the patient supine 
+■ Fill the bladder 
+● Use a large “Toomey” syringe to connect to the foley catheter and 
+then pour the full strength contrast material into the syringe chamber 
+and allow the bladder to fill via GRAVITY 
+○ Careful not to let the contrast leak around the patient and spill 
+on the genitalia!  
+○ Instill at least 
+■ 100 mL with immediate x-ray post 
+■ 300-400 mL in any patient >11 yrs 
+● Although unless the bladder gets fully 
+distended, a true injury to the bladder may be 
+missed! 
+■ Instillation of <100 mL which initiates a bladder 
+contraction (the syringe is filled retrogradely) , and then 
+a second forceful injection of 50 mL followed by an X-
+ray 
+● Extraperitoneal ruptures: the contrast stays in the pelvic outlet 
+● Intraperitoneal ruptures:the material highlights loops of 
+bowel/liver/spleen 
+● CT RCgram 
+○ Usually the person has had a CT abd/pelvis already 
+○ Then fill the bladder with contrast 
+○ Shoot the CT again 
+■ No need to do post-void because of the high detail on a CT 
+○ Goal is to see if there is “contrast ascites - intraperitoneal bladder rupture” 
+ 
+7. Outline the management of the different types of bladder injuries. 
+ 
+● Bladder contusions (no extravasation) = foley catheter  
+● Extraperitoneal bladder ruptures =  
+○ Uncomplicated injuries: observation with foley drainage  
+○ Complicated injuries needing operative repair: 
+■ Concomitant rectum/vagina  
+Crack Cast Show Notes – Genitourinary Trauma – October 2016 
+www.crackcast.org 
+ 
+                              
+ 
+■ Bladder neck injury  
+■ Need for laparotomy   
+● Intraperitoneal bladder ruptures:  
+○ All NEED OR repair (non-urgently) If otherwise: 
+■ Lower urinary tract contamination will lead to bacterial peritonitis  
+ 
+ 
+8. List 3 clinical findings of a penile fracture 
+ 
+ 
+A rupture of the corpus cavernosum - due to a tearing of the tunica albuginea  
+ 
+ 
+ 
+Due to vigorous activity in masturbation/sexual activity/otherwise 
+ 
+1. Slowly progressive penile hematoma  
+ 
+2. “Snapping sound” followed by immediate pain and detumescence  
+ 
+3. “Egg plant” deformity - swelling and ecchymosis localized to the shaft of the penis 
+ 
+ 
+If Buck’s fascia is torn the swelling may progress to the scrotum, perineum and pubis  
+ 
+Penile # can be associated with urethral injury (10-38%) of fractures. Signs of this include:  
+• 
+Gross hematuria 
+• 
+Blood at the meatus 
+• 
+Inability to void 
+ 
+ 
+ 
+Imaged with corpus cavernosography1, ultrasound, and MRI 
+ 
+ 
+9. Describe the management of penile injury 
+ 
+ 
+Anatomy review (see fig 47-24):  
+● Penis: 
+○ Three masses of erectile tissue (dorsal corpora cavernosa x 2, ventral corpora 
+spongiosum x 1 where the urethra lies) enclosed each with the tunica albuginea and 
+all within Buck’s fascia.  
+○ Each mass of erectile tissue has an artery, and there are two additional dorsal 
+arteries, a superficial and deep dorsal vein and dorsal nerve.  
+ 
+Clinical knowledge:  
+● Mechanism of injury 
+● State of the penis at time of injury (flaccid / erect) 
+● Tetanus status 
+● Kids: 
+○ Look for hair tourniquet in children vs. idiopathic foreskin   
+● Physical examination useful for penile injury 
+ 
+Diagnostic imaging: 
+● Need a consulting urologist to guide us! 
+○ Consider: 
+■ Retrograde urethrography if concerned about urethral injury 
+a. Constricting devices 
+i. 
+“....promptly identified and removed, a procedure that can test the ingenuity of even 
+the most experienced ER physician” 
+ii. 
+Saws, metal cutters, etc.  
+                                                
+1 http://pubs.rsna.org/doi/abs/10.1148/radiology.144.4.7111726?journalCode=radiology 
+Crack Cast Show Notes – Genitourinary Trauma – October 2016 
+www.crackcast.org 
+ 
+                              
+ 
+iii. 
+Each corpora has its own blood supply, so surgery can be delayed to see what tissue 
+is viable even through penile skin may slough off... 
+b. Superficial hematoma 
+i. 
+Must rule out rupture of the tunica albuginea (i.e. no immediate detumescence of the 
+erect penis)  
+ii. 
+Treatment: Ice, NSAIDS 
+c. Superficial lacerations of penis / scrotum  
+i. 
+Approximate with 4-0 chromic gut or vicryl absorbable suture 
+d. Degloving injury 
+i. 
+Anything with skin loss should be treated by a urologist / plastic surgeon  
+ii. 
+May need skin grafting or flaps 
+e. Penile Fracture 
+i. 
+NEED urgent 24-36 hr surgical repair of the tunica albuginea  
+f. Penile amputation 
+i. 
+Violence, psychiatric disorder 
+ii. 
+Treatment:  
+1. Reimplantation - even up to 24 hrs post 
+a. Carefully wrapped in sterile, saline moistened gauze in a plastic bag, 
+then in a second bag of ice.  
+b. The bleeding stump - direct pressure 
+2. Local reshaping 
+g. Blunt scrotal trauma 
+i. 
+Tough tunica albuginea surrounds the testicles and cremasteric reflex  
+ii. 
+85% of injuries happen during sporting events (kicks, falls, strikes) 
+1. Testicular rupture: happens in 40% of blunt scrotal trauma who come to ER 
+iii. 
+Symptoms: 
+1. Pain, faintness, N/V, urinary retention  
+iv. 
+Physical assessment is of limited helpfulness  
+1. Need imaging with ultrasound:  
+a. 95% sensitive for testicular rupture (heterogenous echo pattern in the 
+testicular parenchyma with a “loss of contour definition” 
+2. Consider a wider ddx: testicular rupture, scrotal hematoma, hematocele, 
+intratesticular hematoma, traumatic torsion, testicular avulsion, testicular 
+displacement, epididymal injury.  
+v. 
+Treatment: 
+1. Testicular rupture, large hematocele, traumatic torsion, testicular dislocation  
+= surgical exploration   
+2. Surgical exploration needs to happen within 72 hrs for maximal salvage 
+(urgency guided by ultrasound findings!) 
+3. Testicular contusions: bed rest, ice packs, NSAIDS, Urology f/u 
+vi. 
+Penetrating trauma generally all need surgical evaluation!  
+h. Bites 
+i. 
+Human: 
+1. Eikenella corrodens, viral infections, hepatitis, HIV 
+ii. 
+Animal (dogs/cats): 
+1. Pasteurella multocida, aerobic organisms  
+2. Rabies 
+Crack Cast Show Notes – Genitourinary Trauma – October 2016 
+www.crackcast.org 
+ 
+                              
+ 
+iii. 
+Simple bites: 
+1. 6-12 hrs old and no gross contamination: irrigation and primary closure 
+2. Broad spectrum ABx: amoxicillin-clav.  
+iv. 
+Complicated bites (contaminated/infected) 
+1. Irrigated, covered, and passed to the urologist  
+v. 
+Human bites: 
+1. In an immunocompromised patient: 
+a. Admission, and broad spectrum IV abx (pip-tazo) 
+2. Immunocompetent:  
+a. Outpatient broad spectrum ABx, NSAIDs, re-examination in 48 hrs.  
+i. 
+Female external genitalia injury: 
+i. 
+Etiology: pelvic #s, sexual assault, straddle injury, interpersonal violence 
+ii. 
+Types: 
+1. Hematomas, lacerations.  
+iii. 
+Physical examination: 
+1. Assessment for associated injury: vaginal, urethra, bladder, rectum  
+j. 
+Childhood injury: 
+i. 
+Blunt or penetrating trauma  
+1. Straddle injuries, sharp object puncture 
+ii. 
+Consider non-accidental trauma! 
+1. Pinches, cigarette burns, penile injury from a “falling toilet seat” in a child who 
+doesn’t walk 
+ 
+Upper urinary tract 
+These injuries are subtle! (barring the shocky bleeding pedicle avulsion) 
+• 
+May have NO hematuria!  
+• 
+If you're damaging the kidney, chances are high that some other more life-threatening injuries are 
+present as well! 
+○ Kidney trauma - < 0.1% of trauma deaths 
+● Anatomy: 
+○ We only need ⅓ of normal renal function to sustain life.  
+○ Retroperitoneal.  
+○ At the level of T11ish-L1-4ish.  
+○ They are mobile and move with the diaphragm.  
+○ Have their own arteries, veins, adipose tissue and are covered with Gerota’s fascia (the 
+renal fascia)  
+■ All the vessels and the ureter make up the renal pedicle, and enter and exit at the 
+hilum 
+■ Renal structure: cortex - medulla - columns of Bertin → renal pelvis (funnels called 
+calyces)  
+○ Perfused with 1200 ml of blood per minute (25% of cardiac output!) - 90% goes to the cortex 
+■ When the blood flow is reduced the kidney produces renin: 
+● → the Renin-Angiotensin-Aldosterone system then gets activated leading to 
+arteriolar vasoconstriction, aldosterone release. (net increase of blood 
+pressure and blood volume)  
+● Epidemiology 
+○ Renal injury - most commonly injured structure in the GU tract.  
+Crack Cast Show Notes – Genitourinary Trauma – October 2016 
+www.crackcast.org 
+ 
+                              
+ 
+■ Blunt trauma from MVCs/falls/direct blows to the flank account for 90% of injuries  
+● High energy injury damages all the structures that coalesce at the UPJ 
+■ Penetrating trauma - often leads to nephrectomy  
+○ Renal vein injuries → much more common than renal artery injury 
+■ (if artery injured they have reflexive  protective vasospasm)  
+■ Veins often are partially torn and continue slowly bleeding 
+■ IV contrast CT will find arterial blush, but the renal vein injuries assumed to be 
+present with large hematomas adjacent to the kidney 
+● Complications from trauma: 
+○ Urinary extravasation (more common in penetrating ~15% than blunt ~9%)  
+○ Hypertension, after trauma, is rare unless renal artery is occluded.  
+ 
+ 
+1. What is the presentation of a ureteric injury? 
+ 
+● Anatomy & physiology 
+○ They live in the the retroperitoneal space as they exit the kidney 
+● 80% are iatrogenic!   
+○ From abd/pelvic surgery 
+● Trauma cases are rare - because they are well protected by psoas, vertebrae, pelvis 
+○ GSW’s most common traumatic injury mechanism  
+○ Massive blunt trauma force can disrupte the ureter at the UPJ (ureteropelvic junction) 
+● Signs: 
+○ No reliable acute symptoms/signs 
+■ gross/microscopic hematuria - (absent in 25% of cases) 
+● With hypotension (in blunt trauma) 
+○ Suspect injury in penetrating trauma that passes along the ureter’s course 
+○ Delayed symptoms/signs: 
+■ Fever, n/v, hematuria, flank pain, palpable flank mass (urinoma)  
+● Diagnosis: 
+○ CT with delayed (10min) IV contrast is most accurate and practical in acute trauma 
+○ Retrograde pyelography - more sensitive than CT but less practical  
+○ Intravenous pyelography - may be done in the OR. IV contrast is given; 10 mins later 
+a KUB x-ray is performed.  
+■ Can be used to identify delayed injuries that present as urinomas  
+● Treatment: 
+○ Operative repair is required to prevent persistent urinomas, sepsis, renal failure.  
+ 
+2. What are the indications for renal imaging in an adult trauma patient?  
+ 
+● Imaging options: 
+○ CT 
+■ With contrast is the best choice for identifying upper tract injuries: 
+● Contusions, lacerations, renal pedicle injury, segmental necrosis, urinary 
+extravasation 
+● Delayed phase (post contrast) will increase sensitivity 
+■ Allows for grading of renal injuries  
+Crack Cast Show Notes – Genitourinary Trauma – October 2016 
+www.crackcast.org 
+ 
+                              
+ 
+■ Angiography can help dx and treat artery thrombosis, lacerations and 
+pseudoaneurysms 
+○ IVP 
+■ Used before CT was available 
+■ No longer recommended routinely 
+○ U/S 
+■ Low sensitivity 
+■ Up to 65% of isolated renal injuries won’t have any free intraperitoneal fluid.  
+● Key point: Presence, absence, and degree of hematuria doesn’t correlate well with the degree of 
+renal injury 
+○ Especially in penetrating trauma.  
+● Rosen’s uses a 10yr prospective hallmark study published in 1989 to guide the need for renal 
+imaging in trauma  
+○ In penetrating trauma the presence or absence of hematuria doesn’t help in determining who 
+needs imaging 
+○ In blunt trauma reasons to obtain imaging if any of the following are present: 
+■ Gross hematuria 
+■ Microscopic hematuria WITH shock (systolic BP < 90) 
+■ A history of sudden deceleration injury (even in the absence of hematuria/shock) 
+ 
+a. In a pediatric trauma ? 
+i. 
+“In children the kidney is the most commonly injured GU organ” 
+ii. 
+Current guidelines: 
+1. Kids <16 yrs post blunt trauma with any of the following should get a CT with 
+contrast: 
+a. Gross hematuria 
+b. Microhematuria with > 50 RBCs/hpf 
+c. “Significant” deceleration injuries  
+ 
+ 
+3. Describe the management of renal injuries:  
+ 
+ 
+Grading system (from Trauma.org)  
+ 
+ 
+Classified according to the Organ Injury Scaling (OIS) Committee Scale 
+  
+Minor 
+I 
+Contusion 
+Microscopic or gross haematuria,  Urological studies normal 
+ 
+ 
+Haematoma 
+Subcapsular, non-expanding without parenchymal laceration. 
+ 
+II 
+Haematoma 
+Non-expanding perirenal haematoma confined to renal 
+retroperitoneum. 
+ 
+ 
+Laceration 
+<1cm parenchymal depth of renal cortex without urinary 
+extravasation. 
+Major 
+III 
+Laceration 
+>1cm depth of renal cortex, without  collecting system rupture or 
+urinary extravasation 
+ 
+IV 
+Laceration 
+Parenchymal laceration extending through the renal cortex, 
+medulla and collecting system (urine leakage usually).  
+Crack Cast Show Notes – Genitourinary Trauma – October 2016 
+www.crackcast.org 
+ 
+                              
+ 
+ 
+ 
+Vascular 
+Main renal artery or vein injury with  contained haemorrhage. 
+ 
+V 
+Laceration 
+Completely shattered kidney.  
+ 
+ 
+Vascular 
+ Avulsion of renal hilum which devascularizes kidney. 
+ 
+ 
+a. Blunt 
+i. 
+Patients without any indication for renal imaging, even if they have isolated hematuria 
+may be discharged home, ideally with Urology f/u till microhematuria resolves  
+ii. 
+Management principles vary based on: 
+1. Type and severity of injury 
+a. Grade 1 - 0% need for surgery/nephrectomy 
+b. Grade 5 - 85-93% need for nephrectomy/surgery 
+i. 
+Any main renal artery injury older than 2-6 hours may have 
+lead to complete renal ischemia needing a nephrectomy  
+2. Hemodynamics!  
+a. Operative intervention for life-threatening hemorrhage  
+3. Other associated trauma  
+iii. 
+80-90% of injuries are Grade 1-2: 
+1. Managed expectantly with bedrest until gross hematuria clears  
+2. Follow-up imaging to track healing and follow-up on renal function  
+iv. 
+Very skilled interventionalists may be able to perform super selective peripheral 
+embolization rather than complete arterial embolization (risk of infection and post-op 
+hypertension) 
+b. Penetrating  
+i. 
+Location of trauma determines need for imaging 
+ii. 
+“Significant injuries to the kidney and ureter can occur without hematuria!” 
+iii. 
+Almost all penetrating renal injuries need OR 
+  
+ 
+Wisecracks: 
+ 
+What is the most common site of urethral injuries? 
+ 
+1. 
+Two most commonly injured sections (much, much more common in men than women): 
+○ Membranous urethra (posterior urethra): occurring with pelvic fractures such as straddle 
+injuries or “Malgaigne” fractures (from a vertical shear injury).  
+○ Bulbous urethra (anterior urethra): from a straddle injury where the urethra is compressed 
+between the object and the symphysis pubis.  
+ 

@@ -1,0 +1,89 @@
+# Metadata
+- Source: The Bottom Line
+- Title: Terminal QRS distortion
+- Original URL: https://www.thebottomline.org.uk/summaries/terminal-qrs-distortion/
+- Scrape Date: 2025-07-17
+- Summary Date: AUTO_FILL_IF_AVAILABLE
+
+Terminal QRS distortion is present in anterior myocardial infarction but absent in early repolarization
+Lee.
+@smithECGBlog
+. The American Journal of Emergency Medicine;2016;34(11):2182-2185
+Clinical Question
+In patients with benign early repolarisation, is there the absence of terminal QRS distortion on the ECG?
+Background
+For patients who present with chest pain, it can be difficult to distinguish between ECG findings of benign early repolarisation (BER) and left anterior descending artery occlusion (LADO)
+Terminal QRS distortion has been reported to be present in a number of patients presenting with LADO
+This trial investigated whether terminal QRS distortion was also present in patients with BER
+Design
+Retrospective observational cohort study
+Secondary analysis
+Terminal QRS distortion defined as the absence of both of the following in V2 and/or V3
+S wave
+Any deflection at the end of the R wave that dipped below the level of the PQ junction
+J wave
+Any positive deflection (notching or slurring) above the level of the ST segment at the J point
+If patient had multiple ECGs only 1st ECG analysed
+2 reviewers reported ECGs, not blinded to study objectives
+Setting
+Single centre, USA
+Data collected from 2003 – 2005
+Population
+Inclusion
+:
+Patients presented to ED with chest pain
+Admitted and ruled out for MI with serial troponins – 3 serial negative Troponin I (all below the reference value)
+Had cardiologist confirmed interpretation of ER on the ECG
+Exclusion
+:
+<1mm ST elevation in any of leads V2 – V4
+242 patients found to have early repolorisation and a clinical picture of non-ischaemic chest pain
+71 patients excluded as <1mm ST elevation
+Mean age 38 years
+86% male
+Outcome
+Primary outcome
+:
+Terminal QRS distortion was absent in 100% of patients with benign early repolorisation (95% CI 97.8-100%)
+Secondary outcomes
+: In patients with BER
+S wave absent in
+0.6% in lead V2
+9% in lead V3
+J wave absent in
+95% in lead V2
+83% in lead V3
+When a J wave was present the S wave was significantly smaller amplitude
+Median S wave amplitude with J wave present vs without J wave present
+V2: 4 vs 14.5mm, P=0.004
+V3: 0 vs 9mm, P<0.0001
+Authors’ Conclusions
+The presence of any terminal QRS distortion was 100% specific to acute MI
+Strengths
+Use of two reviewers
+All patients included were admitted and had serial troponins
+Clearly defined criteria for assessing terminal QRS distortion
+Weaknesses
+Retrospective
+Single centre
+Did not investigate patients presenting with other causes of ST elevation e.g. pericarditis, left ventricular hypertrophy
+ECG readers were not blinded to study objective
+Small data set compared to the large number of ECGs that are taken daily worldwide
+Full patient demographics not available, and at first glance it is a limited data set (average age 38, and 86% male)- as age, sex, body habitus and ethnicity may all contribute to ECG patterns, a limited pool of patients could have biased the results
+The Bottom Line
+In patients that have benign early repolorisation there is the absence of terminal QRS distortion
+The vast majority of patients with BER had a S wave that was present in V2 and/or V3; and those that did not have a S wave always had a J wave
+If a patient has an absence of a S wave and a J wave in V2/V3 then the diagnosis of BER is very unlikely and based on previous research the diagnosis of acute MI should strongly be considered
+External Links
+[article]
+Terminal QRS distortion is present in anterior myocardial infarction but absent in early repolarisation
+[further reading]
+Best Explanation of Terminal QRS Distortion in Diagnosis of Electrocardiographically Subtle LAD Occlusion
+[further reading]
+Dr Smith’s ECG Blog
+Metadata
+Summary author:
+@davidslessor
+Summary date: 16/02/22
+Peer reviewer:
+Segun Olusanya

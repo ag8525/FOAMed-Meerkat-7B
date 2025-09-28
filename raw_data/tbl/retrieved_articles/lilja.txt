@@ -1,0 +1,96 @@
+# Metadata
+- Source: The Bottom Line
+- Title: Lilja
+- Original URL: https://www.thebottomline.org.uk/summaries/icm/lilja/
+- Scrape Date: 2025-07-17
+- Summary Date: AUTO_FILL_IF_AVAILABLE
+
+Lilja: Cognitive Function in Survivors of Out-of-Hospital Cardiac Arrest After Target Temperature Management at 33ºC Versus 36ºC
+Lilja et al. Circulation.2015, Published online February 13
+Clinical Question
+In patients with out-of-hospital (OOH) cardiac arrest does a target temperature management (TTM) of 33°C vs. 36°C improve cognitive function at 6 months?
+Design
+Randomised controlled trial
+Treating clinicians non-blinded
+Face-to-face follow up at ~180 days
+examiners blinded for TTM allocation but not whether or not patient was a control
+With study sample size, >80% power to detect a 10% difference between the groups based on the Rivermead Behavioural Memory Test profile score
+Setting
+5 European countries
+Out of 36 sites who participated in the
+TTM Trial
+, twenty sites completed this follow-up study
+Follow-up occurred between June 2011 – September 2013
+Population
+Follow-up study of
+TTM Trial
+:
+Inclusion: adult patients who were unconscious (GCS < 8) on admission to hospital after OOH cardiac arrest of presumed cardiac cause.
+Exclusion: > 6 hours from return of spontaneous circulation to enrolment screening, unwitnessed arrest with systole, hypothermia < 30°C, suspected or known intracranial haemorrhage.
+In addition a control group was included:
+cohort of patients who had a ST elevation myocardial infarction treated with percutaneous coronary intervention
+patients matched for age, gender, country and time-point of hospitalisation
+119 control patients
+652 patients treated with therapeutic hypothermia included
+comparing 33°C vs. 36°C group no significant difference in co-morbidities, bystander CPR, shockable rhythm
+342 patients treated with TTM alive at 180 days of whom 287 completed follow up
+comparing 33°C vs. 36°C  vs. control group
+age: 63 vs. 60 vs. 64, p=0.04
+previous ischaemic heart disease: 28% vs. 19% vs. 13%, p=0.01
+bystander CPR: 74% vs. 84% vs. N/A, p=0.03
+1st monitored rhythm shockable: 93% vs. 96% vs. N/A, p=.032
+Intervention
+28 hours of temperature management with a target of
+a) 33°C
+b) 36°C
+followed by gradual warming to 37°C at 0.5°C per hour and avoidance of pyrexia for 72 hours from randomisation
+Control
+Recruited from cohort of ST-elevation myocardial infarction patients treated with percutaneous coronary intervention
+matched for age, gender, country and time-point of hospitalisation
+Outcome
+Primary outcome: Rivermead Behavioural Memory Test (RBMT)
+no significant difference between 33°C vs. 36°C, p=0.56
+Secondary outcomes:
+Comparing 33°C vs. 36°C,
+no significant difference in
+Executive dysfunction as tested by Frontal Assessment Battery (FAB), p=0.43
+Symbol Digit Modalities Test (SDMT) assessing mental speed and agitation, p=0.31
+Including only patients who completed follow-up and the matched STEMI controls
+STEMI controls had significantly better SDMT scores than 33°C and 36°C treatment groups (unadjusted p=0.0001, covariate-adjusted p=0.002)
+No significant difference in:
+RBMT (unadjusted p=0.46, covariate-adjusted p=0.06)
+FAB, (unadjusted p=0.22, covariate-adjusted p=0.008)
+Hospital Anxiety and Depression rating Scale (HADS),
+depression, p=0.99
+anxiety, p=0.89
+Authors’ Conclusions
+Survivors of patients with OOH cardiac arrest who were treated with targeted temperature management of 33°C vs. 36°C had no difference in cognitive outcome
+Strengths
+Randomised controlled trial
+Blinding of assessor of primary outcome to TTM allocation
+Low number of patients lost to follow up
+Investigated multiple assessment measures of cognitive outcome
+Use of CONSORT diagram
+Weaknesses
+Due to the nature of the study baseline differences in cognitive function cannot be assessed. With relatively small numbers of patients included there is a greater probability of random differences in baseline cognitive function between the treatment groups
+RBMT test may be insensitive for very mild impairment. The authors stated that the updated RBMT-3 version was not available when this study commenced
+FAB has not been validated in an OOH cardiac arrest population
+Proportionately fewer TTM patients with poor neurological recovery (cerebral performance category 3 or 4) were followed-up than those with good recovery. This will bias toward less cognitive impairment in the OHCA group compared to the STEMI-control group, but should still allow accurate comparison between 33ºC and 36ºC. It will under-estimate cognitive impairment from cardiac arrest. (see table for data)
+Of note patients in the original
+TTM Trial
+had a median time of 1 minute (inter-quartile range 0-2 minutes) from cardiac arrest to initiation of basic life support. Therefore these results may not apply to patients who have a delay in initiation of basic life support.
+The Bottom Line
+In patients that have basic life support quickly initiated following an OOH cardiac arrest the use of targeted temperature management of 33°C vs. 36°C does not affect cognitive function at six months
+External Links
+[article abstract]
+Cognitive Function in Survivors of Out-of-Hospital Cardiac Arrest After Target Temperature Management at 33ºC Versus 36ºC
+[Further Reading]
+ESICM Summary
+[TBL Summary]
+TTM Trial Investigators: Targeted Temperature Management at 33°C versus 36°C after Cardiac Arrest
+Metadata
+Summary author:
+@davidslessor
+Summary date: 3rd April 2015
+Peer-review editor:
+@DuncanChambler

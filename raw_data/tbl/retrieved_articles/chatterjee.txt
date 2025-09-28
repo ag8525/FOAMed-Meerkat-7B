@@ -1,0 +1,154 @@
+# Metadata
+- Source: The Bottom Line
+- Title: Chatterjee
+- Original URL: https://www.thebottomline.org.uk/summaries/icm/chatterjee/
+- Scrape Date: 2025-07-17
+- Summary Date: AUTO_FILL_IF_AVAILABLE
+
+Thrombolysis for Pulmonary Embolism and Risk of All-Cause Mortality, Major Bleeding, and Intracranial Hemorrhage – A Meta-analysis
+Chatterjee. 2014 JAMA:311(23);2414-2421.
+Clinical Question
+In patients with PE, does the addition of thrombolysis to anticoagulation, compared with anticoagulation alone, affect mortality and bleeding complications?
+Design
+Meta-analysis
+Followed PRISMA statement
+Systematic search using MeSH and keywords in the following databases:
+PubMed, Cochrane, EMBASE, EBSCO, Web of Science, CINAHL
+No language restriction
+Population
+Trial Inclusion: Randomised trials comparing thrombolysis vs. anticoagulant therapy in patients with PE
+Trial Exclusion: Comparisons of different thrombolytic agents against one another or different doses of the same thrombolytic drug
+Trial Populations: Adult patients; stratified into high-, intermediate-, low- and unknown-risk according to haemodynamic stability and RV dysfunction (by echogardiogram or biomarkers).
+16 trials comprising 2115 patients were identified, 4 of these trials accounted for 74% of the total patients
+PEITHO
+: 1005 patients
+MAPPETT
+: 256 patients
+UPETSG: 180 patients
+MOPETT
+: 121 patients
+8 trials comprising 1775 patients with intermediate-risk PE for sub-group analysis
+Haemodynamically stable (BP>90mmHg) with objective evidence of right ventricular dysfunction on echocardiogram, and/or Troponin/brain natriuretic peptide
+PEITHO: 1005 patients
+MAPPETT 3: 256 patients
+MOPETT: 121 patients
+Goldhaber: 101 patients
+TOPCOAT
+: 83 patients
+FASULLO: 72 patients
+ULTIMA: 59 patients (catheter directed thrombolysis)
+TIPES: 58 patient
+Intervention
+Thrombolysis and anticoagulation
+various types and doses used
+Control
+Anticoagulation alone
+Heparin, low molecular weight heparin or fondaparinux
+Outcome
+Measure
+Thrombolytic
+Anticoagulants
+OR
+ARR
+NNT/NNH
+p
+Primary Outcome
+All-cause mortality
+2.17%
+3.89%
+0.53
+(95% CI 0.32–0.88)
+1.72%
+59
+0.01
+Major bleeding
+9.24%
+3.42%
+2.73
+(95% CI 1.91–3.91)
+-5.82%
+18
+<0.001
+Secondary Outcomes
+Recurrent PE
+1.17%
+3.04%
+0.40
+(95% CI 0.22–0.74)
+1.87%
+53
+0.03
+ICH
+1.46%
+0.19%
+4.63
+(95% CI 1.78–12.04)
+-1.27%
+79
+0.002
+Pre-specified sub-group analyses
+Major bleeding
+age >65 years
+12.93%
+4.1%
+3.10
+(95% CI 2.10–4.56)
+-8.83%
+11
+0.001
+Major bleeding
+age ≤65 years
+2.84%
+2.27%
+1.25
+(95% CI 0.50–3.14)
+-0.57%
+175
+0.89
+All-cause mortality
+Intermediate-risk PE
+1.39%
+2.92%
+0.48
+(95% CI 0.25–0.92)
+1.53%
+65
+0.03
+Major bleeding
+Intermediate-risk PE
+7.74%
+2.25%
+3.19
+(95% CI 2.07–4.92)
+-5.49%
+18
+0.001
+OR = Odds Ratio; ARR = Absolute Rate Reduction; NNT/NNH = Number needed-to-treat/harm; ICH = Intra-cerebral haemorrhage
+Authors’ Conclusions
+Among patients with PE, including those who are haemodynamically stable, thrombolysis was associated with lower mortality and more major bleeding
+Strengths
+Clear inclusion criteria for studies included
+Results of individual studies presented clearly
+Trial registered with PROSPERO
+Weaknesses
+Definitions for haemodynamic isntability, major and minor bleeding and RV dysfunction were not standardised between studies
+Varying doses and types of thrombolysis used in different studies.
+One study utilised catheter directed thrombolysis which may not be possible in most centres. However with this study excluded the results for the primary outcome were still statistically significant
+The authors report that study methods were assessed for risk of bias, but this is not reported in the results. MAPPETT-3 and PEITHO provide 1/3 of patients for this meta-analysis, and both have weaknessness of concern.
+The Bottom Line
+Thrombolysis for PE is associated with a lower all cause mortality when compared to anticoagulation. This improvement is maintained in the subgroup of ‘intermediate risk’ PE with a NNT of 65. This is despite a significant increase in major bleeding in the thrombolysis group, with a NNH of 18. Of note, patients who were ≤65 years had no increase in major bleeding with thrombolysis.
+With the MOPETT and TOPCOAT studies finding improved longterm outcomes with regards to pulmonary hypertension, and self assessment of overall health in the thrombolysis groups, this meta-analysis provides a convincing argument for the use of thrombolysis in submassive PE.
+If I have a submassive PE, I want thrombolysis. (I am under 65 years). I would want half-standard dose as per the MOPETT trial. If my dad (he is over 65 years) had a sub-massive PE I would not recommend thrombolysis as the 12.9% chance of major bleeding means that the risks may outweigh the benefits.
+Links
+abstract
+/ doi: 10.1001/jama.2014.5990
+Editorial, Commentaries or Blogs
+pulmcrit
+Metadata
+Summary author:
+@DavidSlessor
+and
+@DuncanChambler
+Summary date: 29 June 2014
+Peer-review editor:
+@stevemathieu75

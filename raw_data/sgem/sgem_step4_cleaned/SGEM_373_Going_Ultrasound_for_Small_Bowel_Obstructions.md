@@ -1,0 +1,106 @@
+---
+url: https://thesgem.com/2022/07/sgem373-going-ultrasound-for-small-bowel-obstructions/
+title: "SGEM#373: Going Ultrasound for Small Bowel Obstructions"
+date: 2022-07-30
+audio_url: https://media.blubrry.com/thesgem/content.blubrry.com/thesgem/SGEM373.mp3
+download_date: 2025-08-11
+---
+
+**Reference:**Brower et al. Point-of-Care Ultrasound-First for the Evaluation of Small Bowel Obstruction: National Cost Savings, Length of Stay Reduction, and Preventable Radiation Exposure. AEM July 2022
+
+**Guest Skeptic:**Dr. Kirsty Challen is a Consultant in Emergency Medicine at Lancashire Teaching Hospitals. She is also the creator of all those wonderful Paper in a Pictures.
+
+**Case:** A 63-year-old woman presents to your emergency department (ED) with two-day history of nausea, vomiting and constipation. She tells you that she had appendicitis complicated by perforation and peritonitis ten years ago and you suspect she has adhesional small bowel obstruction. You call your surgical colleague who, predictably, asks you to order a CT. The patient asks if there is an alternative as she had several CTs on her last admission and is worried about her radiation exposure and her co-pay.
+
+**Background:** Somewhere between two and four percent of patients presenting to US EDs with abdominal pain have a small bowel obstruction (SBO) – those who are managed operatively (who are only 20-30%) account for 60,000 hospitalizations and 565,000 inpatient care days per year.
+
+We know that clinical examination has poor sensitivity and specificity for diagnosing SBO and that imaging is therefore necessary. CT is generally the first choice of imaging, the *“abdominal series”* of plain X-rays have been demonstrated to have poor predictive value, but a 2018 meta-analysis found 92.4% sensitivity and 96.6% specificity with ultrasound [1].
+
+A 2020 national UK report into patients treated for bowel obstruction found delays in imaging and diagnosis and recommended CT with IV contrast as the first-line investigation [2].
+
+Somewhat surprisingly, we’ve never covered SBO on the SGEM, although Ped EM Superhero, Dr Anthony Crocco shared his views on the (lack of) utility of abdominal X-rays in paediatric constipation back in 2016 (SGEM Xtra: RANThony#4).
+
+---
+
+### **CLINICAL QUESTION:****DOES USING POINT OF CARE ULTRASOUND FIRST LINE IN SUSPECTED SMALL BOWEL OBSTRUCTION REDUCE COST, LENGTH OF STAY AND RADIATION EXPOSURE?**
+
+---
+
+**Reference****:** Brower et al. Point-of-Care Ultrasound-First for the Evaluation of Small Bowel Obstruction: National Cost Savings, Length of Stay Reduction, and Preventable Radiation Exposure. AEM July 2022
+
+* **Population:** Patients with ICD-10 coding *“intestinal obstruction”* from 2018 National Hospital Ambulatory Medical Care Survey.
+* **Intervention:** POCUS-first approach
+* **Comparison:** CT imaging as baseline
+* **Outcomes:**
+  + **Primary Outcome:** Cost savings
+  + **Secondary Outcomes:** Reduction in ED length of stay, reduction in radiation exposure and preventable cancer
+* **Type:** Monte Carlo Modelling
+
+This is an SGEM HOP episode, so we are pleased to have two of the authors on the show. Dr. Charles Brower is a second-year resident training in Emergency Medicine at the University of Cincinnati. His primary research interest is the intersection between clinical operations and ultrasound to improve patient outcomes in an efficient and cost-effective way.
+
+Also joining us is Dr. Andrew Goldsmith. He is the director of Emergency Ultrasound in the Department of Emergency Medicine at Brigham and Women’s Hospital at Harvard Medical School
+
+**Authors’ Conclusions:** *“**If adopted widely and used consistently, a POCUS-first algorithm for SBO could yield substantial national cost savings by averting advanced imaging, decreasing ED LOS, and reducing unnecessary radiation exposure in patients. Clinical decision tools are needed to better identify which patients would most benefit from CT imaging for SBO in the ED.”*
+
+** Quality Checklist for Cost Analysis Studies:**
+
+**Part 1: Are the recommendations valid?**
+
+* Did the investigators adopt a sufficiently broad viewpoint? Yes
+* Are the results reported separately for patients whose baseline risk differs? No
+* Were costs measured accurately? Yes
+* Did investigators consider the timing of costs & outcomes? No
+
+**Part 2: How can I apply the results to patient care?**
+
+* Are the treatment benefits worth the harms and costs? Yes
+* Could my patients expect similar health outcomes? **Unsure**
+* Can I expect similar costs at my setting? **Unsure**
+* Are the criteria relevant to my practice setting? Yes
+* Have the criteria been field-tested for feasibility of use in diverse settings, including settings similar to mine? No
+
+**Results:** In the US, a POCUS-first approach for imaging of SBO would avert a mean of 143,000 (+/- 31,000) CT scans annually, saving $30.1million (+/- $8.9million). 507,000 bed hours (+/- 268,000) could be saved, and 98 (+/-28) excess cancer deaths prevented.
+
+---
+
+### **KEY RESULT:****USING POCUS AS FIRST-LINE IMAGING IN SUSPECTED SBO COULD AVOID 143,000 CT SCANS ANNUALLY IN THE US POTENTIALLY SAVING MILLIONS OF DOLLARS**
+
+---
+
+ 
+ 
+Listen to the SGEM podcast to hear Charles and Andrew answer our five nerdy questions.
+
+ 
+Dr. Chalres Brower
+
+**1. Monte Carlo Simulation:**Can you describe this for us in clinician-friendly language? And why is it the right method for your question?
+
+**2. Modelling Assumptions:** Models are only as good as the information fed into them (garbage in, garbage out!). How reliable was the information you were able to get for your assumptions (eg numbers of patients needing confirmatory CT)?
+
+ 
+Dr. Andrew Goldsmith
+
+**3. Sensitivity Analyses:**Can you explain the importance of sensitivity analyses? Why did you do the ones you did?
+
+**4. Subgroups:** It’s likely that the effects of a change in practice would vary across different patient groups (especially cancer incidence dependent on patient age) but you have presented population-wide results. Did you consider modelling different subgroups?
+
+**5. Supporting Evidence:**You have commented that the simulation nature of your study is a limitation. Do you have any plans for further research to address this?
+
+**Comment on Authors’ Conclusion Compared to SGEM Conclusion:**We generally agree with the authors’ conclusions for the US, but don’t consider that they can be extrapolated to Canada, UK, Australia or elsewhere without further study.
+
+---
+
+### **SGEM BOTTOM LINE:****POCUS AS FIRST-LINE IMAGING IN SUSPECTED SBO COULD AVOID SIGNIFICANT NUMBERS OF CT SCANS IN US.**
+
+---
+
+**Case Resolution:**You meet your surgical colleague at the bedside and perform POCUS, which shows SBO. After discussion with the patient, she is admitted for conservative management and a CT is avoided.
+
+ 
+Dr. Kirsty Challen
+
+**Clinical Application:**We may be able to avoid significant numbers of CTs for suspected SBO by using POCUS as first-line imaging.
+
+**What Do I Tell the Patient?**We can perform bedside ultrasound which can demonstrate SBO – it is likely though that if operative intervention is needed the surgeon will still want you to have a CT scan performed.
+

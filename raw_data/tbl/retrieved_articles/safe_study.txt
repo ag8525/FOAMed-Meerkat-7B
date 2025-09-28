@@ -1,0 +1,68 @@
+# Metadata
+- Source: The Bottom Line
+- Title: SAFE Study
+- Original URL: https://www.thebottomline.org.uk/summaries/icm/safe/
+- Scrape Date: 2025-07-17
+- Summary Date: AUTO_FILL_IF_AVAILABLE
+
+SAFE: A Comparison of Albumin and Saline for Fluid Resuscitation in the Intensive Care Unit
+The SAFE Study Investigators. N Engl J Med 2004; 351:1905-1908.
+Clinical Question
+Does fluid resuscitation with albumin, compared to saline, affect mortality for patients in the ICU?
+Design
+Randomised controlled trial
+Stratified by centre and according to whether there was a diagnosis of trauma
+Double Blinded
+Setting
+16 ICUs in Australasia
+November 2001 – June 2003
+Population
+Adult patients admitted to academic tertiary ICUs who were judged to require fluid administration to maintain or increase intravascular volume
+Excluded post-op cardiac surgery, liver transplantation, burns
+6997 patients randomised
+Intervention
+Resuscitation with 4% albumin
+Control
+Resuscitation with 0.9% sodium chloride
+Outcome
+Comparing 4% albumin to 0.9% sodium chloride
+Primary outcome: all cause mortality at 28-days
+20.9% vs. 21.1%, Relative risk of death 0.99 (95% C.I. 0.91-1.09, P=0.87)
+Secondary outcomes
+There was no difference in length of ICU stay, duration of mechanical ventilation or renal replacement therapy
+Mortality at 28 days in patients with severe sepsis
+30.7% vs 35.3% (RR 0.87, 95% C.I. 0.74 – 1.02), P=0.09
+Mortality at 28 days in patients with trauma
+13.6% vs. 10% (RR 1.36, 95% C.I 0.99 – 1.86), P=0.06
+Post-hoc analysis: mortality at 28 days in patients with brain injury
+24.5% vs. 15.1% (RR 1.62, 95% C.I 1.12-2.34), P=0.009
+Authors’ Conclusion
+Use of 4% albumin or 0.9% sodium chloride for fluid resuscitation results in similar  outcomes at 28 days
+Strengths
+Multi-centre
+Large number of patients included – a huge trial which demonstrates the importance of collaborative research
+Double blinded – specifically designed fluid containers and administration sets were used
+Robustly defended the short term safety profile of 4% albumin after concerns were raised by the
+Cochrane Injuries Group Albumin Reviewers
+Weaknesses
+Minimal weaknesses. This was a great trial. The authors note that the sub-group analyses had insufficient power.
+The Bottom Line
+Overall there is no difference when 4% albumin is used for fluid resuscitation when compared to 0.9% sodium chloride. 4% albumin should be avoided in head injuries. A further study in patients with severe sepsis would be beneficial – hence the
+ALBIOS study
+.
+Links
+Full text pdf
+/
+abstract
+/ DOI: 10.1056/NEJM200410283511818
+Saline or albumin for fluid resuscitation in patients with TBI. NEJM 2007
+Editorials, Commentaries and Blogs
+Correspondence by various authors
+Cochrane review 1998
+Albumin Resuscitation for Traumatic Brain Injury:Is Intracranial Hypertension the Cause of Increased Mortality?
+Metadata
+Summary author:
+@davidslessor
+Summary date:  1 May 2014
+Peer-review editor:
+@stevemathieu75

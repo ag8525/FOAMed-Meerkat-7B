@@ -1,0 +1,125 @@
+# Metadata
+- Source: The Bottom Line
+- Title: CHEER
+- Original URL: https://www.thebottomline.org.uk/summaries/icm/cheer/
+- Scrape Date: 2025-07-17
+- Summary Date: AUTO_FILL_IF_AVAILABLE
+
+Refractory cardiac arrest treated with mechanical CPR, hypothermia, ECMO and early reperfusion (the CHEER trial)
+Stub D, et al. Resuscitation January 2015. Volume 86, Pages 88–94 (first published on line Oct 2014) doi:10.1016/j.resuscitation.2014.09.010
+Clinical Question
+In patients who are in refractory cardiac arrest, does protocolised management involving mechanical CPR, Hypothermia, ECMO and early reperfusion improve survival rate?
+Design
+Prospective pilot observational study
+Setting
+Single center
+The Alfred Hospital, Melbourne, Australia
+45 ICU beds and referral center for ECMO
+Data collected over 32 month period (dates not supplied)
+Population
+Inclusion:
+Out of hospital cardiac arrest (OHCA)
+refractory cardiac arrest (> 30min)
+aged 18-65 years
+cardiac arrest due to suspected cardiac aetiology
+chest compressions commenced within 10 min by bystander or Emergency Medical Service (EMS)
+Initial cardiac arrest rhythm of ventricular fibrillation (VF)
+mechanical CPR machines available
+In hospital cardiac arrest (IHCA)
+at the discretion of the attending physician providing that cause of cardiac arrest considered to be reversible and ECMO immediately available
+Exclusion:
+OHCA: none specifically mentioned
+IHCA: known significant pre-exisiting neurological disability, non-cardiac co-morbidities that cause limitations in activities of daily living e.g COPD, liver cirrhosis, renal failure and terminal illness
+26 patients
+11 OHCA
+15 IHCA
+median age 52 year, predominantly male
+initial rhythm VF in 73%
+Intervention
+CHEER protocol
+Mechanical
+C
+hest compressions using the Autopulse
+TM
+Rapid intravenous administration of 30mL/kg of ice-cold saline to induce
+H
+ypothermia. Target temperature of 33C maintained for 24 hours and then slow rewarming (0.24C/hr)
+E
+CMO
+percutaneous cannulation of the femoral artery and vein by two critical care physicians and commencement of veno-arterial ECMO
+E
+arly
+R
+eperfusion with urgent percutaneous coronary intervention
+Details of the specific team roles are available on the
+ED ECMO
+site and are available
+here
+Control
+No control. This was a pilot observational study
+Outcome
+Primary outcome
+Survival with good neurological recovery (CPC 1-2) 14/26 (54%)
+Secondary outcomes
+ROSC achieved in 25/26 (92%) of patients
+Survival to hospital discharge 14/26 (54%)
+Complications
+Blood loss
+2 patients died primarily of major bleeding
+2 patients had cerebral haemorrhage
+blood transfusion required in 16/26 (69%) of patients
+median packed red cell requirement was 3.5 (IQR 0-6) units
+Vascular injury
+surgical intervention was required in 10/24 (42%) patients who underwent cannulation
+9 patients required femoral artery repair and surgical placement of an arterial backflow cannula
+1 patient required a fasciotomy of an ischaemic limb
+Of the 14 survivors:
+Median time from collapse to initiation of ECMO was 40 minutes (IQR 27-57)
+Median time on ECMO was 3 days (IQR 1.8-5)
+Median time in ICU was 230 hours (9.6 days; IQR 118-320)
+Median hospital length of stay 20 days (IQR 12-26)
+2 patients never received ECMO as had ROSC during cannulation
+Of the 24 patients that received ECMO
+3/9 (33%) of the OHCA patients survived
+9/15 (60%) of the IHCA patients survived
+Authors’ Conclusions
+A protocol involving ECMO-CPR instituted by critical care physicians for refractory cardiac arrest which includes mechanical CPR, peri-arrrest therapeutic hypothermia and ECMO is feasible and associated with a relatively high survival rate
+Strengths
+The results for this study are impressive. It is difficult not to take notice of survival rates with CPC 1-2 of 54% in a group of patients with prolonged periods of cardiac arrest
+Protocolised resuscitation therapy driven by clinical teams and with engagement of pre-hospital Emergency Medical Services sounds sensible and based on this data correlates to important outcome benefits
+The manufacturers of Autopulse donated their device. They had no input into study preparation, analysis, results or publication. This is an example of a good collaboration between clinical research and industry support
+Historically, pre hospital Emergency Medical Services were authorised to cease resuscitation after 30 minutes of CPR unless compelling reasons to continue such as hypothermia were present. 5 patients therefore survived with good neurological recovery who would have otherwise been pronounced dead
+Weaknesses
+This is a pilot observational study. It included very small numbers of selected patients in a single and specialist ECMO center. The authors clearly acknowledge this limitation
+The patients in the OHCA group had defined inclusion criteria including a time stipulated for refractory cardiac arrest (>30 minutes). The IHCA group did not and were a very selective cohort. In one patient, the time from collapse to initiation of ECMO was 27 minutes (impressive!). Whether these patients may have had equivalent outcomes with conventional treatment is unknown. Certainly comparison with historical studies dramatically favours the CHEER protocol in these small numbers
+The Bottom Line
+The CHEER protocol has been shown to improve survival with favourable neurological outcome following cardiac arrest compared with historical data. It works and works very well in this experienced ECMO centre, with engagement of pre-hospital services and as part of a bundle. A multi-centre RCT is now required to determine if these impressive results can be replicated.
+External Links
+[abstract]
+Refractory cardiac arrest treated with mechanical CPR, hypothermia, ECMO and early reperfusion (the CHEER trial)
+[Guideline]
+ECMO during CPR (E-CPR). The Alfred
+[Blog]
+I am the resurrection. ScanCrit
+[Blog]
+Mechanical CPR: Three CHEERS or a boo? AmboFOAM
+[podcasts and videocasts]
+Autopulse – Audio and Video Clips from The Alfred Intensive Care Unit
+[Podcast interview]
+EDECMO Episode #14: ECPR with Stephen Bernard 1/2
+[podcast interview]
+EDECMO Episode #15: The CHEER Trial & Part 2 of our Interview with Dr. Stephen Bernard
+[Podcast interview]
+EMCrit Podcast 113 – Post-Cardiac Arrest Care in 2013 with Stephen Bernard – Part I
+[Podcast and slides]
+Steven Bernard on the CHEER Trial from Intensive Care Network – EDECMO
+[blog]
+E-CPR for all – just a dream, or the future? Justin Mandeville
+[additional information]
+Definitions of CPC
+Metadata
+Summary author:
+@stevemathieu75
+Summary date: 9th January 2015
+Peer-review editor:
+@davidslessor

@@ -1,0 +1,57 @@
+# Metadata
+- Source: The Bottom Line
+- Title: ProCESS
+- Original URL: https://www.thebottomline.org.uk/summaries/icm/process/
+- Scrape Date: 2025-07-17
+- Summary Date: AUTO_FILL_IF_AVAILABLE
+
+A Randomized Trial of Protocol-Based Care for Early Septic Shock
+The ProCESS Investigators. N Engl J Med 2014; 370:1683-1693.
+Clinical Question
+In adult patients with sepsis, does protocol-based care compared to usual care reduce death within 60 days?
+Design
+Randomised, controlled trial of 3 groups in 1:1:1 ratio
+Non-blinded design
+Setting
+31 academic hospitals in US
+March 2008 to May 2013
+Population
+Inclusion: adults arriving in the emergency department (ED) with suspected sepsis (refractory hypotension or lactate > 4 mmol/l with two or more SIRS criteria)
+Exclusion: if another primary diagnosis was present, such as acute myocardial infarction
+12,707 screened of which 1,351 randomised
+Intervention
+Early goal-directed therapy (EGDT) group: strict protocolised care (based on Rivers study) for 6 hours with dedicated doctor, nurse and research assistant that provided prompts
+Protocol-based standard therapy group: relaxed protocolised care (based upon published expert opinions) for 6 hours with dedicated doctor, nurse and research assistant that provided prompts
+Control
+Usual care group: no extra staffing, with all care as directed by bedside physician for 6 hours. Research assistant collected data but provided no prompting.
+Outcome
+Primary outcome: there were no differences in 60-day mortality between groups
+EGDT 21.0%; Protocol-based standard therapy 18.2%; Usual care 18.9%. (P values 0.31 – 0.89)
+Secondary outcomes: there were no differences in 90-day or 1-year mortality between groups, or markers of significant morbidity.
+Authors’ Conclusion
+No significant advantage, with respect to mortality or morbidity, of protocol-based resuscitation over bedside care that was provided according to the treating physician’s judgement.
+Strengths
+Well designed, pragmatic method
+Methods and statistical analysis defined and published
+a priori.
+Recruited adequate numbers as planned for 80% power to detect 6–7% mortality reduction with alpha 0.05.
+Weaknesses
+Changed inclusion criteria during trial (reduced fluid bolus required before meeting “refractory hypotension” criteria), but mean volume used was within Rivers’ original definition of 20–30 ml/kg.
+Mortality ~20% but initial power calculation based on 30–46%, therefore interim adjustment made and recruitment target reduced.
+Adherence to protocol was 88.1% in EGDT group and 95.6% in protocol-based standard therapy group. Although pragmatic, this is not perfect and may reduce between group differences.
+The Bottom Line
+Adults with sepsis in the ED have ~20% 60-day mortality and providing care by a dedicated team following either a strict or relaxed protocol makes no difference to this.
+Links
+Full text pdf not available without subscription /
+abstract
+/ doi: 10.1056/NEJMoa1401602
+Editorial, Commentaries or Blogs
+Lilly. The ProCESS Trial — A New Era of Sepsis Management
+Correspondence:
+http://www.nejm.org/doi/full/10.1056/NEJMc1406745
+Metadata
+Summary author:
+@DuncanChambler
+Summary date: May 2014
+Peer-review editor:
+@stevemathieu75

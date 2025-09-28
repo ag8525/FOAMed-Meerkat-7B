@@ -1,0 +1,110 @@
+```yaml
+source: The Bottom Line
+title: FEISTY (Fibrinogen Early In Severe Trauma Study)
+original_url: https://www.thebottomline.org.uk/summaries/feisty/
+scrape_date: 2025-07-17
+summary_author: George Walker @hgmwalker89
+summary_date: 2021-03-29
+peer_review_editor: David Slessor
+summary: |
+  The FEISTY trial investigated whether fibrinogen concentrate (FC) could be administered more rapidly than cryoprecipitate (cryo) in adult trauma patients with major hemorrhage and hypofibrinogenemia. Conducted across four major trauma centers in Queensland, Australia, the study found that FC was administered significantly faster than cryo, with median times of 29 minutes versus 60 minutes, respectively. Despite the faster administration, the study noted a higher rate of surgical procedures and increased mortality in the FC group, particularly related to head injuries, although no difference in venous thromboembolism was observed between the groups. The trial's design, while robust, was a feasibility study not powered for secondary outcomes, and larger trials are needed to confirm the routine use of FC in traumatic hemorrhage.
+---
+
+# Fibrinogen Early In Severe Trauma Study (FEISTY): Results from an Australian Multicentre Randomised Controlled Pilot Trial
+
+## Clinical Question
+In adult trauma patients with major haemorrhage and hypofibrinogenaemia, does the use of fibrinogen concentrate (FC) compared to cryoprecipitate (cryo) result in a shorter time to administration?
+
+## Background
+- Fibrinogen is crucial in haemostasis and managing trauma-induced coagulopathy (TIC).
+- Low fibrinogen in bleeding trauma patients is linked to higher mortality risk; cryoprecipitate administration improves survival.
+- European guidelines recommend fibrinogen supplementation if viscoelastic testing indicates deficiency or plasma Clauss fibrinogen level < 1.5 g/L.
+- FC is a virally inactivated powder with a long shelf life, potentially allowing faster administration than cryo, which requires thawing.
+
+## Design
+- Investigator-initiated, multicentre, randomised controlled pilot study
+- Randomisation: 1:1 web-based block randomisation
+- ROTEM used to guide fibrinogen supplementation
+- Treating clinicians not blinded; outcome assessors and statistician blinded
+- Two interim analyses planned by DSMC
+- Ethics approval granted; emergency consent used if necessary
+- Registered on ClinicalTrials.gov (NCT02745041)
+- Per-protocol analysis
+
+## Setting
+- 4 major trauma centres in Queensland, Australia
+- Study period: December 2016 to September 2017
+
+## Population
+
+**Inclusion Criteria:**
+- Adults > 18 years
+- Clinically significant haemorrhage
+- ABC score > 2 or potential for massive transfusion
+
+**Exclusion Criteria:**
+- Injuries incompatible with survival
+- >6 hours from injury to presentation
+- Prior FC or cryo supplementation
+- Known coagulation disorder
+- Objection to blood product transfusion
+- Pregnant
+- Enrolled in competing trial
+
+**Enrollment:**
+- 114 patients eligible; 100 enrolled (50 per arm)
+
+## Intervention
+
+**Fibrinogen Concentrate Group:**
+- Administered if ROTEM FIBTEM A5 < 10mm
+- Dosage adjusted based on A5 value (6g if A5 0mm to 2g if A5 9-10mm)
+- 37/50 patients received FC
+
+## Control
+
+**Cryoprecipitate Group:**
+- Administered if ROTEM FIBTEM A5 < 10mm
+- Dosage adjusted based on A5 value (20 units if A5 0mm to 8u if A5 9-10mm)
+- 25/50 patients received cryo
+
+## Outcomes
+
+### Primary Outcome
+- Median time to administration: FC 29 (23-40) minutes vs. cryo 60 (40-80) minutes
+- Log rank test for equality of time to event, p = 0.0001
+
+### Secondary Outcomes
+- Blood product transfusion and crystalloid usage at 24 hours similar
+- Higher surgical procedure rate in FC arm (51% vs 37%)
+- Higher increase in FIBTEM A5 values in FC arm
+- Higher increase in Clauss Fibrinogen in cryo arm
+- Increased deaths in FC arm (24% vs 6%), ~50% related to head injury
+- No difference in VTE between groups
+- Shorter ICU and hospital LOS, and mechanical ventilation duration in FC group
+
+## Authors’ Conclusions
+In severely injured, hypofibrinogenaemic patients, FC can be administered faster than cryoprecipitate.
+
+## Strengths and Weaknesses
+- **Strengths**
+  - Multi-centre, randomised trial enhances external validity
+  - Pragmatic design reflects real-life use
+  - Results applicable to similar pre-hospital and trauma services
+  - Sensible safety analyses and monitoring
+- **Weaknesses**
+  - Feasibility study not powered for secondary outcomes
+  - Primary outcome not patient-focused
+  - Small study with only 62% receiving intervention
+  - Baseline groups not entirely balanced
+  - Cost analysis not included
+  - ROTEM analyses not universally available
+
+## Bottom Line
+FC can be administered more quickly than cryoprecipitate, increasing fibrinogen levels. Larger trials are needed to routinely recommend FC for traumatic haemorrhage. The CRYOSTAT 2 trial will provide further evidence on fibrinogen replacement benefits.
+
+## External Links
+- **CRYOSTAT 2**
+- **European guideline on management of major trauma and haemorrhage**
+- **Fibrinogen levels during trauma haemorrhage**
+```

@@ -1,0 +1,88 @@
+# Metadata
+- Source: The Bottom Line
+- Title: Yeatts
+- Original URL: https://www.thebottomline.org.uk/summaries/em/video-laryngoscopy/
+- Scrape Date: 2025-07-17
+- Summary Date: AUTO_FILL_IF_AVAILABLE
+
+Effect of video laryngoscopy on trauma patient survival: A randomised controlled trial
+Yeatts. J Trauma Acute Care Surg 2013; 75(2):212-9. doi:10.1097/TA.0b013e318293103d
+Clinical Question
+In adults requiring emergency intubation, does video laryngoscopy (VL) compared to direct laryngoscopy (DL) lead to better or worse in-hospital mortality?
+Design
+Randomised, controlled trial
+Randomisation method, allocation concealment and treatment blinding was not described
+Physicians allowed to exclude from randomisation without specifying reason
+Power calculation described as 80% power with accepted Type I error rate of 0.05 to detect absolute difference in mortality of +6% or -4% from baseline of 5%, but required patient numbers not given
+Chance of false positive 5%
+Chance of false negative 20%
+Setting
+Single trauma centre in Baltimore, Maryland, USA
+July 2008 to May 2010 (paused in May to November 2009)
+Population
+Inclusion: requiring intubation for any clinical reason, including airway obstruction, hypoventilation, hypoxaemia, cognitive impairment, haemorrhagic shock, and extreme pain
+Exclusion: children (age not defined); laryngeal trauma, extensive maxillofacial injury requiring immediate surgical airway; known or strongly suspected spinal cord injury (awake fibre-optic intubation performed instead); cardiac arrest on arrival; died in trauma resuscitation unit
+10318 screened, 898 required intubation, 623 randomised
+275 intubated patients excluded:
+35 were children or prisoners
+16 VL not available
+14 VL chosen against DL due to teaching opportunity or clinical indication
+210 physician chose not to recruit but no reason given
+Intervention
+GlideScope video laryngoscope
+Control
+Macintosh direct laryngoscope
+Rapid sequence induction was performed by unblinded physicians and described as:
+Pre-oxygenation for at least 1 minute when possible
+Rapid-acting sedative at physicians discretion:
+Thiopental 4 mg/kg if haemodynamically stable
+Adjusted thiopental dose or etomidate 0.2–0.4 mg/kg if haemodynamically unstable
+Short-acting neuromuscular blocking agent:
+Suxamethonium 1.5 mg/kg
+“Maneuvers to prevent passive regurgitation” – probably cricoid pressure
+Manual in-line stabilisation in at risk patients
+Intubation was performed by anaesthesia nurse, resident (PGY2–6) or attending trauma anaesthetist, always under supervision of the attending doctor (otherwise known as a consultant)
+Outcome
+Primary outcome: there was no difference demonstrated between the groups in survival to hospital discharge
+DL: 7.5%
+VL: 9.2%
+p-value: 0.43 by Pearson’s Chi Squared test
+Secondary outcome: duration of intubation attempt favoured direct laryngoscopy whilst first-pass success rate was not different between the groups
+Mean intubation duration in seconds: DL 56.5 vs VL 71.0; p-value = 0.002
+First-pass success: DL 81% vs VL 80%
+Authors’ Conclusions
+“The use of the videolaryngosope did not improve survival to hospital discharge and was associated with longer intubation attempt duration”
+Strengths
+With the growing popularity of VL, this is an important clinical question to ask
+This is the first randomised, controlled trial in the emergency in-hospital setting for VL vs DL
+Statistical sensitivity analysis was attempted to confirm that no selection bias was present despite non-compliant recruitment
+Weaknesses
+No detail regarding randomisation, allocation concealment and blinding prevents any assessment of important biases
+Massively under-powered to detect a clinically important difference.
+The group sizes provided 80% power to detect a difference from 5% to 11%. If an intervention leads to more than double mortality, it should never reach stage 3 clinical trials!
+If a clinically important absolute risk reduction of 2% were defined, from the observed baseline of 7.5%, then 2384 patients
+per group
+are required to provide 80% power
+A similar number will be required for a trial of non-inferiority methodology with similar power and 2% non-inferiority limit
+27% of eligible patients were excluded at physicians discretion: there is a high risk of selection bias
+Planned exclusion of those with potentially difficult airways limits generalisability: this is exactly the population group where I might reach for a VL
+Excluding those that died in the trauma resuscitation unit may strongly bias the results: if a patient died due to failed intubation or oxygenation, then the results were discounted! Immediate death is more likely to be causally related to intubation failure compared to a death several days later.
+The majority of intubations were performed by relatively junior residents (PGY2 ≈ FY2), which is not typical trauma management in UK
+The Bottom Line
+These data will help guide future research design and planned statistical analyses
+The unclear risk of bias, poor compliance with recruitment and under-powered statistics means no conclusion should be drawn from these results
+Further research is required to answer this important clinical question
+External Links
+[abstract]
+Effect of video laryngoscopy on trauma patient survival: A randomized controlled trial
+by Yeatts et al
+[systematic review]
+Comparison of video laryngoscopes with direct laryngoscopy for tracheal intubation: a meta-analysis of randomised trials
+[podcast] Podcast 94 –
+Has Video Laryngoscopy Killed the Direct Laryngoscope? EmCrit Blog
+Metadata
+Summary author:
+@DuncanChambler
+Summary date: 25 October 2014
+Peer-review editor:
+@stevemathieu75

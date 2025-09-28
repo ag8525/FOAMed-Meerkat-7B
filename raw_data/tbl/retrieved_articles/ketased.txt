@@ -1,0 +1,101 @@
+# Metadata
+- Source: The Bottom Line
+- Title: KETASED
+- Original URL: https://www.thebottomline.org.uk/summaries/icm/ketased/
+- Scrape Date: 2025-07-17
+- Summary Date: AUTO_FILL_IF_AVAILABLE
+
+KETASED: Etomidate versus ketamine for rapid sequence intubation in acutely ill patients: a multicentre randomised controlled trial
+Jabre & KETASED Collaborative Study Group. Lancet 2009; 374:239-300. doi:10.1016/S0140-6736(09)60949-1
+Clinical Question
+In critically ill adults, does a single induction dose of etomidate compared to ketamine affect organ failure scores during the subsequent first 3 days?
+Design
+Randomised, controlled, prospective trial
+Randomisation by computer in blocks of 4
+Study drug in sealed, sequentially numbered boxes
+Single-blinded: recruiting emergency physician aware, but nurses and intensive care physicians blinded
+Modified Intention-to-treat analysis (mITT) without post-randomisation exclusions – see below
+28-day follow-up period
+Aimed to recruit 650 patients after complex power calculation, to allow appropriate analysis of sub-group with final diagnosis of confirmed sepsis or trauma
+Defined clinically relevant difference in maximum SOFA score was 2 points
+Powered at 80% – 20% chance of false negative
+Type-I error defined at 0.05 – 5% chance of false positive
+Anticipated 30% exclusion post-randomisation (modified intention-to-treat analysis)
+Estimated sub-group of interest would be 30% of total population
+Setting
+12 French emergency medical services (EMS) or emergency departments (ED)
+An EMS is an ambulance with driver, nurse and emergency doctor
+65 French intensive care units (ICU)
+April 2007 to February 2008
+Population
+Inclusion: 18 years or older; needed sedation for emergency intubation
+Exclusion: cardiac arrest; contraindications to suxamethonium, ketamine or etomidate; pregnancy.
+Post-randomisation exclusion of those:
+discharged from ICU within 3 days, “to retain only the most severely ill patients”
+died before reaching hospital, “because their death could not reasonably have been attributed to sedation use”
+689 patients screened, 655 randomised, and 469 in mITT analysis
+Intervention
+Ketamine (Ketalar, Panpharma)
+2 mg/kg intravenous bolus
+Control
+Etomidate (Lipuro, B Braun Medical)
+0.3 mg/kg intravenous bolus
+Both groups received suxamethonium 1 mg/kg and then continuous infusions of midazolam (0.1 mg/kg/hr )with either fentanyl (2–5 mcg/kg/hr) or sufentanil (0.2–0.5 mcg/kg/hr)
+Outcome
+Primary outcome: there was no difference in maximum sequential organ failure assessment (SOFA) scores between the two groups.
+Mean SOFA scores were:
+Etomidate: 10.3 (SD 3.7)
+Ketamine: 9.6 (SD 3.9)
+Absolute difference (AD) was 0.7 (95% CI 0.0 to 1.4)
+p-value 0.056 by generalised linear model analysis
+Secondary outcome: there were no differences in any of the secondary outcomes between the two groups
+Sub-group analysis: there were no differences seen in the sub-groups of sepsis, trauma or sepsis and trauma for the primary outcome of maximum SOFA score but small sample size increase change of false-negative
+Sepsis and trauma n=180
+Sepsis n=76
+Trauma n=104
+Tertiary data: basal cortisol level were lower and the proportion of patients identified as having adrenal insufficiency were higher in the etomidate group
+As a subgroup analysis, ACTH test non-responders vs responders showed no difference in mortality outcome
+Authors’ Conclusions
+“Ketamine is a safe and valuable alternative to etomidate for intubation in critically ill patients, particularly in septic patients”
+Strengths
+State-funded study, with no input into design, analysis or manuscript by funding body
+A priori publication of study methods and statistical plan, particularly regarding focus on sub-group analysis
+Allocation concealment was maintained, so unblinded emergency physician could not interfere with recruitment bias
+Both modified and full intention-to-treat analyses presented for sensitivity analysis
+Weaknesses
+Since etomidate not available in some countries, findings are not applicable everywhere!
+Not entirely clear what is
+control
+and what is
+intervention
+. Are the authors trying to prove ketamine better than usual care of etomidate, or that etomidate is more harmful? Perhaps non-inferiority design would have been better.
+Due to non-normal distribution of the primary outcome, the authors used an advanced
+generalised linear model
+analysis. This makes the meaningfulness of the result hard to interpret, which at a p-value = 0.056 it is only just
+statistically non-significant
+.
+Conventional Student’s t-test (which may not be applicable) gives p-value = 0.0467 in favour of ketamine.
+Sub-group data in figure 3 missing negative sign and graphical plot does not match numerical data.
+The Bottom Line
+This study investigates an interesting clinical dilemma and does not demonstrate any important clinical difference in organ failure scores between ketamine and etomidate when used as a single bolus for induction
+It is my impression that the likelihood of a type II error (false negative) is high in this study and there is a trend suggesting benefit from ketamine in patients with sepsis compared against etomidate
+External Links
+[abstract]
+Etomidate versus ketamine for rapid sequence intubation in acutely ill patients: a multicentre randomised controlled trial
+[editorial]
+Best pharmacological practice in prehospital intubation
+by Wenzel and Lindner
+[correspondence]
+Etomidate versus ketamine for sedation in acutely ill patients
+by Mongardon and Singer
+[calculator]
+SOFA Scores
+[further reading]
+Rapid Sequence Intubation of the Shocked Patient
+by LITFL
+Metadata
+Summary author:
+@DuncanChambler
+Summary date: 22 October 2014
+Peer-review editor:
+@DavidSlessor

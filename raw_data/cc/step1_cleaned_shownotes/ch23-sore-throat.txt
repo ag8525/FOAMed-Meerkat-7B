@@ -1,0 +1,229 @@
+# Metadata
+- topic: 1.2 - Cardinal Presentations - 23 Sore throat
+- source_folder: 1.2 - Cardinal Presentations
+- original_file: Ch.23 Sore throat.pdf
+
+Crack Cast Show Notes – Sore Throat 
+May 2016 – www.crackcast.org 
+ 
+Chapter 23 – Sore Throat 
+ 
+Episode overview:  
+ 
+1) List 8 Emergent Diagnoses for the chief complaint of sore throat 
+2) List the most common viral, bacterial, and non-infectious causes of sore throat 
+§ 
+List at least 8 
+3) Describe the modified Centor Criteria and their use 
+ 
+ 
+Wisecracks 
+1) Describe the pros and cons of antibiotics for suspected or confirmed acute GAS 
+pharyngitis (see Rosen’s page 202) 
+2) Other than Group B Strep, name 6 agents causing exudative pharyngitis 
+ 
+ 
+ 
+ 
+Rosen’s in Perspective 
+Relevant Anatomy 
+ 
+ 
+One of the most common chief complaints in the ED, sore throat or pharyngitis is caused 
+by inflammation of the pharynx (at any level).  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Crack Cast Show Notes – Sore Throat 
+May 2016 – www.crackcast.org 
+ 
+1) List 8 Emergent Diagnosis for Sore Throat 
+ 
+Diseases not to miss: 
+1. Epiglottitis 
+2. Bacterial tracheitis  
+3. Ludwig's angina 
+4. Gonorrhoea   
+5. Foreign body 
+6. Angioedema 
+7. Peri-tonsillar abscess 
+8. Retro-pharyngeal abscess 
+9. Primary HIV 
+10. Corynebacterium Diphtheriae 
+11. Epstein barr virus 
+12. Cancer 
+13. Herpes Simplex 
+ 
+2) List the most common viral, bacterial, and non-infectious 
+causes of sore throat (list at least 8) 
+ 
+Viral – The most common cause of acute pharyngitis  
+§ 
+Rhinovirus 
+§ 
+Adenovirus  
+§ 
+HSV 1&2 
+§ 
+EBV 
+§ 
+Influenza 
+§ 
+CMV 
+§ 
+Varicella-zoster virus 
+§ 
+Hepatitis virus  
+ 
+Bacterial  
+§ 
+Group A Beta-Hemolytic streptococcus  
+§ 
+Non-group A streptococcus 
+§ 
+Neisseria gonorrhoeae  
+§ 
+Neisseria meningitidis  
+§ 
+Mycoplasma pneumoniae  
+§ 
+Chlamydia trachomatis  
+§ 
+Corynebacterium diphtheriae  
+§ 
+H. influenzae  
+ 
+Non-infectious causes: 
+Systemic Diseases 
+Trauma 
+Tumours 
+o Kawasaki’s disease 
+o SJS 
+o Cyclic neutropenia 
+o Thyroiditis  
+o Retained foreign body 
+o Laryngeal fracture  
+o Hematoma 
+o Caustic exposure 
+o Post-tonsillectomy eschar 
+ 
+o Tongue 
+o Larynx 
+o Thyroid 
+o etc. 
+Crack Cast Show Notes – Sore Throat 
+May 2016 – www.crackcast.org 
+ 
+ 
+3) Describe the Centor Criteria and their use 
+ 
+Lets take a step back and talk about the airway red flags when it comes to sore throats: 
+§ 
+Rapidly progressive symptoms 
+§ 
+Unwell, restless, distressed 
+§ 
+Hypoxia 
+§ 
+Drooling 
+§ 
+Muffled voice (supraglottic threat) 
+§ 
+Stridor (means glottic problem - common in children <10 with croup) 
+§ 
+Dehydration and systemic toxicity 
+§ 
+"Brawny" induration on the floor of the mouth 
+§ 
+Direct visualization paramount 
+§ 
+Trismus vs. bilateral tonsillar exudates vs. uvular deviation vs. signs of PTA 
+ 
+See: http://www.mdcalc.com/modified-centor-score-for-strep-pharyngitis/ 
+ 
+Viral vs. Bacterial Differentiation 
+ 
+ 
+ 
+From MDcalc Description 
+“The Modified Centor Criteria (or McIsaac Score) correlate directly with risk of positive 
+throat culture for GAS.” 
+o The "Modified" criteria include an age component, along with "tonsillar swelling" 
+as part of the rule. GAS is incredibly rare in patients under 3 and less common in 
+older adults, so this can help risk stratify patients for clinicians. 
+o Most cases of pharyngitis are viral in origin, and with the rare incidence of 
+rheumatic fever, along with the questionable benefits of early antibiotics to 
+prevent sequelae like peritonsillar abscess, antibiotics are prescribed much less 
+often. Steroids (like dexamethasone) and NSAIDS often provide similar pain 
+relief and resolution of symptoms to antibiotics. 
+ 
+ 
+ 
+ 
+ 
+ 
+Modified CENTOR criteria scoring 
+If ≥4 points on the scale... 
+... only 51% Group A strep infection (not good) 
+Ø
+All USED to get antibiotics 
+ 
+Crack Cast Show Notes – Sore Throat 
+May 2016 – www.crackcast.org 
+ 
+ 
+Wisecracks 
+ 
+1) Describe the pros and cons of antibiotics for suspected or 
+confirmed acute GAS pharyngitis 
+Ø See rosen’s page 202  
+ 
+Antibiotics: Only reduce GAS symptoms by 16 hours.  
+From Rosen’s Page 202 
+§ 
+Only gonococcal disease should be treated with antibiotics 
+§ 
+Antibiotics only useful in reducing rheumatic fever during one military epidemic in 
+the 20th century, and the decline of rheumatic fever is due to industrialization, 
+hygiene, living conditions, access to care, and nutrition. Therefore they ought 
+only to be used in endemic or epidemic settings. 
+ 
+§ 
+Antibiotics do NOT reduce the incidence of suppurative complications from sore 
+throat (e.g. peritonsillar abscess)  
+§ 
+Key to management is thorough patient education and explanation of:  
+o The natural disease course of infectious pharyngitis  
+o Encourage symptomatic treatment (NSAIDS and steroids)  
+o Antibiotic risks: anaphylaxis, resistance, n/v/d, rash 
+ 
+Some debate the safety of the no “antibiotic approach” but:  
+ 
+“However, the signs and symptoms of streptococcal and non-streptococcal pharyngitis 
+overlap too broadly for diagnosis to be made with the requisite diagnostic precision on 
+the basis of clinical grounds alone. Even subjects with all clinical features in a particular 
+scoring system can be confirmed to have streptococcal pharyngitis only about 35%–50% 
+of the time, and this is particularly the case in children. The clinical diagnosis of GAS 
+pharyngitis cannot be made with certainty even by the most experienced physicians, and 
+bacteriologic confirmation is required.”  - IDSA Guidelines 2012 
+ 
+Read more about this here: 
+http://www.idsociety.org/uploadedFiles/IDSA/Guidelines-
+Patient_Care/PDF_Library/2012%20Strep%20Guideline.pdf 
+ 
+2) Other than Group B strep, name 6 agents causing exudative 
+tonsillopharyngitis 
+ 
+1. Group A Streptococcus 
+a. Non-group A strep 
+2. Neisseria gonorrhoea 
+3. EBV / Mono 
+4. Haemophilus influenzae 
+5. Cornybacterium diphtheriae 
+6. Candida species (?HIV infection) 
+ 

@@ -1,0 +1,527 @@
+# Metadata
+- topic: 3.7 - Neurology - CCE108-Neuromuscular-Disorders-1
+- source_folder: 3.7 - Neurology
+- original_file: CCE108-Neuromuscular-Disorders-1.pdf
+
+CrackCast Show Notes – Neuromuscular Disorders – September 2017 
+www.canadiem.org/crackcast 
+ 
+ 
+Chapter 108 – Neuromuscular Disorders 
+ 
+Episode Overview: 
+ 
+1. List 4 components of the neuromuscular unit.  
+2. Describe the grading score for motor strength.  
+3. Compare myelopathy, motor neuron disease, neuropathy, neuromuscular junction 
+disease, and myopathy with respect to history, strength, deep tendon reflexes, 
+sensation and muscle wasting.  
+4. List 6 myelopathies, 2 motor neuron diseases, 4 neuropathies, 4 diseases of the 
+neuromuscular junction, and 5 myopathies. 
+5. Distinguish upper motor neuron from lower motor neuron involvement. 
+6. What is the pathophysiology of myasthenia gravis? 
+7. What is one bedside diagnostic test for MG? 
+8. List 8 precipitants of a myasthenic crisis and describe 3 chronic therapies and 2 acute 
+therapies. 
+9. What is the difference between myasthenia gravis and Lambert-Eaton myasthenic 
+syndrome? 
+10. List 4 types of botulism toxicity. What is the mechanism of toxicity and typical 
+clinical syndrome? What is the treatment? 
+11. What is tick paralysis? 
+12. What is the presentation / treatment of Polymyositis/Dermatomyositis? 
+13. What is periodic paralysis? 
+ 
+Wisecracks:  
+ 
+1. Clinically, how would you differentiate between a myasthenic crisis and a cholinergic 
+crisis? 
+2. What is the presentation, timing and course of neonatal myasthenia? 
+3. What the differential diagnosis for a patient presenting with ascending muscle 
+weakness, ptosis and diplopia? 
+ 
+Key Concepts: 
+ 
+• “In patients with acute neuromuscular weakness, complaints of difficulty in breathing 
+or swallowing should heighten suspicion of bulbar involvement with possible airway 
+compromise. In such patients, FVC of less than 15 mL/kg or maximal NIF of less 
+than 15 mm H2O is a potential indication for mechanical ventilation. 
+• Patients with a neuromuscular decline in respiratory function can be given a trial of 
+noninvasive ventilation. 
+• The edrophonium (tensilon) and ice bag tests can be useful bedside tests in the 
+evaluation of a suspected new diagnosis of myasthenia gravis. 
+• Plasma exchange therapy and IVIG are both useful for the treatment of myasthenic 
+crises with the choice dependent on which is available and preferred in the ICU. 
+• Botulism usually arises as a painless descending paralysis, often first affecting the 
+cranial nerves and bulbar muscles, without sensory deficits or significant alteration of 
+consciousness. The treatment is airway management and administration of antitoxin. 
+• Injection drug use remains an important cause of wound botulism outbreaks. 
+• Botulism must be considered in the evaluation of a weak and floppy infant. 
+CrackCast Show Notes – Neuromuscular Disorders – September 2017 
+www.canadiem.org/crackcast 
+ 
+ 
+• In hypokalemic periodic paralysis, the total body potassium level is not depleted, only 
+shifted intracellularly: treatment should keep this in mind as potassium is 
+administered with frequent checks of serum potassium levels. 
+• In newly diagnosed hypokalemic periodic paralysis, the patient should be evaluated 
+and treated for hyperthyroidism if present.” 
+ 
+Rosen's in Perspective 
+ 
+The approach to acute neuromuscular weakness is all about 3 things:  
+ 
+• Evaluate airway, ventilation and oxygenation 
+• Determine the location of the lesion (spinal cord, nerve, neuromuscular junction, or 
+muscle)  
+• Consider the most common disorders that affect the area in question 
+ 
+[1] List 4 components of the neuromuscular unit.  
+ 
+Neuromuscular unit =  
+1) anterior horn cells of the spinal cord 
+2) peripheral nerve 
+3) the neuromuscular junction 
+4) muscle innervated 
+ 
+[2] Describe the grading score for motor strength 
+Grading Score for Motor Strength (Box 98.1) 
+• 
+5 = Normal Strength 
+• 
+4 = Weak but able to resist examiner 
+• 
+3 = Moves against gravity but unable to resist examiner 
+• 
+2 = Moves but unable to resist gravity 
+• 
+1 = Flicker but no movement 
+• 
+0 = No movement 
+[3] Compare myelopathy, motor neuron disease, neuropathy, neuromuscular 
+junction disease, and myopathy with respect to history, strength, DTR’s, 
+sensation and muscle wasting.  
+ 
+Table 98.1 
+ 
+Disease 
+History 
+Strength 
+DTR 
+Sensation 
+Wasting 
+Myelopathy 
+Trauma, 
+infection, 
+cancer 
+Normal to 
+decreased 
+Increased 
+Normal to 
+Decreased 
+No 
+Motor neuron 
+disease (ALS) 
+Progressive 
+difficulty 
+swallowing, 
+speaking, 
+walking 
+Decreased 
+Increased  
+Normal 
+Yes 
+CrackCast Show Notes – Neuromuscular Disorders – September 2017 
+www.canadiem.org/crackcast 
+ 
+ 
+Neuropathy 
+Recent 
+infection, 
+ascending 
+weakness 
+Normal or 
+decreased, 
+distal>proximal 
+Decreased 
+Decreased 
+Yes 
+Neuromuscular 
+junction disease 
+Food (canned 
+goods), Tick 
+exposure, easy 
+fatigability 
+Normal to 
+fatigue 
+Normal 
+Normal 
+No 
+Myopathy 
+Thyroid 
+disease, 
+previous 
+similar 
+episodes 
+Decreased, 
+proximal>distal 
+Normal 
+Normal 
+Yes 
+ 
+ 
+[4] List 6 myelopathies, 1 motor neuron disease, 4 neuropathies, 4 diseases of the 
+NMJ, and 5 myopathies 
+ 
+ 
+Myelopathies 
+Motor neuron 
+diseases 
+Neuropathies 
+NMJ disease 
+Myopathies 
+1. transverse 
+myelitis, HIV, 
+MS 
+2. Spinal cord 
+infarction, spinal 
+SAH 
+3. SLE 
+4. SEA 
+5. Discitis 
+6. Burst #, 
+neoplasm  
+1.Amyotrophic 
+lateral 
+sclerosis 
+1. Guillain-
+Barré 
+syndrome 
+2.Toxic 
+neuropathies  
+3. Diabetic 
+neuropathy 
+4. Tick 
+paralysis 
+1.MG 
+2.Lambert 
+Eaton 
+3. Organo-
+phosphates 
+4. Botulism, 
+tick paralysis, 
+snake 
+venoms, rx 
+drugs 
+1.Polymyositis 
+2.Dermatomyositis 
+3.Polymyalgia 
+rheumatic  
+4.Viral myositis 
+5.Metabolic disorders 
+ 
+[5] Distinguish upper motor neuron from lower motor neuron involvement  
+ 
+Motor 
+Neuron 
+DTR 
+Muscle 
+Tone 
+Atrophy 
+Fasciculations Babinski 
+UMN 
+Increased 
+Increased 
+No 
+No 
+Present 
+LMN 
+Decreased 
+Decreased 
+Yes 
+Yes 
+Absent 
+ 
+[6] What is the pathophysiology of myasthenia gravis? 
+ 
+“Autoantibodies against the acetylcholine (ACh) receptor on the junctional folds on the post 
+synaptic membrane” resulting in blockage of the acetylcholine receptors. 
+ 
+• With repeated stimulation increasingly fewer receptor sites are available for ACh 
+binding 
+• Leads to muscle fatigue  
+• Fatigability and muscle weakness are the hallmarks of MG.  
+CrackCast Show Notes – Neuromuscular Disorders – September 2017 
+www.canadiem.org/crackcast 
+ 
+ 
+• Clinical progression = slow 
+ 
+• Multiple mechanisms: 
+o Direct blocking of the receptor 
+o Complement mediated destruction of the folds 
+o Internalization and degradation of the receptors 
+ 
+Watch out for Myasthenic Crisis (MG with respiratory failure!!!) 
+ 
+NIF (negative inspiratory force) <15  à intubate! 
+ 
+[7] What is one bedside diagnostic test for MG? 
+ 
+Ice bag test  
+1. Measure pre-test ptosis 
+2. Apply ice to affected eye for 2 min 
+3. Improvement >2mm of ptosis is positive test 
+ 
+[8] List 8 precipitants of a myasthenic crisis and describe 3 chronic therapies and 2 
+acute therapies 
+ 
+General Precipitants: 
+• Infection  
+• Aspiration 
+• Medication changes  
+o Eg. stopping anticholinergics  
+o New medication that precipitates weakness 
+• Surgery 
+• Pregnancy 
+• Medications (Box 98.2) 
+o Cardiovascular 
+§ Beta Blockers 
+§ CCB’s 
+§ Quinidine 
+§ Lidocaine 
+§ Procainamide 
+o Antibiotics 
+§ Aminoglycosides 
+§ Tetracyclines 
+§ Clindmycin 
+§ Lincomycin 
+§ Polymyxin B 
+§ Colistin 
+o Other 
+§ Phenytoin 
+§ Neuromuscular Blockers 
+§ Thyroid Replacement 
+ 
+ 
+CrackCast Show Notes – Neuromuscular Disorders – September 2017 
+www.canadiem.org/crackcast 
+ 
+ 
+ 
+Treatment:  
+ 
+• BiPAP +/- IPPV 
+• Cholinesterase Inhibitors (pyridostigmine or neostigmine) 
+• Corticosteroids (caution in moderate to severe MG, can precipitate crisis) 
+• Intravenous immunoglobin (IVIG) 
+• Plasma exchange 
+• Thymectomy 
+ 
+[9] What is the difference between myasthenia gravis and Lambert-Eaton myasthenic 
+syndrome? 
+ 
+Lambert-Eaton myasthenic syndrome = rare disorder.  
+• Almost 50% of cases are associated w/ small cell cancer of lung  
+• Autoantibodies cause inadequate release of ACh from nerve terminals 
+• Affects nicotinic (ie. peripheral) and muscarinic (ie. central) receptors  
+• With repeated stimulation, the amount of ACh in the synaptic cleft increases, leading 
+to an increase in strength 
+• THIS IS = opposite of Myasthenia gravis, which gets more weak with repeat 
+stimulation 
+• “The classic syndrome includes weakness that improves with use of muscles, 
+particularly proximal hip and shoulder muscles; hyporeflexia; and autonomic 
+dysfunction, most commonly seen as dry mouth. Management primarily focuses on 
+treatment of the underlying neoplastic disorder, although IVIG has been reported to 
+be useful.” 
+ 
+[10] List 4 types of botulinum toxicity. What is the mechanism of toxicity and typical 
+clinical syndrome? What is the treatment? 
+ 
+A) Food-Borne 
+B) Infantile 
+C) Wound 
+D) Inhalational / Unknown / Terrorism 
+ 
+Clostridium botulinum is an anaerobic, spore-forming bacterium. 3/8 toxins produced cause 
+human disease (types A, B, and E). 
+ 
+Mechanism: toxin irreversibly binds to the presynaptic membrane of peripheral and cranial 
+nerves = inhibition of the release of ACh at the peripheral nerve synapse.  
+• Block both voluntary motor and autonomic functions 
+• Will see improvement as new receptors are made 
+ 
+Clinical presentation: 
+ 
+• Classic = descending, symmetrical, flaccid paralysis. Loss of voluntary and 
+autonomic function. 
+• ***PAIN AND SENSATION should be INTACT*** 
+• The onset of symptoms is 6 to 48 hours after the ingestion  
+CrackCast Show Notes – Neuromuscular Disorders – September 2017 
+www.canadiem.org/crackcast 
+ 
+ 
+• Cranial nerves and bulbar muscles are affected first 
+• Look for the Ds: diplopia, dysarthria, and dysphagia,  
+• Because the toxin decreases cholinergic output, anticholinergic signs may be present: 
+constipation, urinary retention, dry skin and eyes, and increased temperature and 
+dilated, non-reactive pupils.  
+• *** presence of anticholinergic features helps differentiate botulism toxicity from 
+myasthenia gravis. 
+• DTRs normal, slightly decreased 
+• Infantile botulism comes from C. botulinum spores that germinate and produce toxin 
+in the high pH of the infant GI tract. “Botulism spores can survive in honey, so it is 
+recommended that honey not be fed to infants. The clinical presentation includes 
+constipation, poor feeding, lethargy, and weak cry; consequently, this diagnosis must 
+be included in the differential diagnosis of the floppy infant.” 
+ 
+• Treatment: 
+o Supportive care +/- IPPV 
+o heptavalent botulinum antitoxin (HBAT) 
+o Human-derived botulism immune globulin (BabyBIG) 
+• According to LITFL: 
+o notify public health 
+o Antitoxin 
+o Supportive 
+o IV human botulism globulin 
+o wound botulism: debride, penicillin 
+ 
+[11] What is tick paralysis? 
+ 
+An acute, ascending, flaccid paralysis:  
+• Rocky Mountain region = US Pacific Northwest, and Southwestern Canada & east 
+coast of Australia.  
+• Pathogenesis not fully understood = thought that a salivary toxin is injected while the 
+tick feeds. 
+• Toxin functions like botulinum toxin to decrease the release of ACh from the 
+presynaptic membrane of the neuromuscular junction 
+• Similar to Guillain-Barré syndrome, botulism, and myasthenia gravis. 
+• Symptoms onset 1-6 days after Female tick has attached, 
+• ***“There may be associated ocular signs, such as fixed and dilated pupils, that can 
+help distinguish it from Guillain-Barré syndrome*** 
+ 
+Treatment: supportive care. REMOVE TICK 
+ 
+[12] What is the presentation / treatment of Polymyositis/Dermatomyositis? 
+ 
+Risk Factors: 
+• Any Age 
+• Adults > Children 
+• Sarcoidosis 
+• Hypereosinophilic syndromes 
+CrackCast Show Notes – Neuromuscular Disorders – September 2017 
+www.canadiem.org/crackcast 
+ 
+ 
+• Malignant Neoplasms (breast, ovary, lung, and gastrointestinal tract, and 
+lymphoproliferative disorders) 
+• Active viral / Bacterial infection 
+ 
+Presentation = weakness, pain, and tenderness of the muscles involved. 
+• Proximal muscle weakness predominates  
+• Difficult get up and go - hard to get out of chairs and weakness lifting the arms over 
+the head.  
+• Often pain and tenderness in proximal muscles 
+• Decreased reflexes = decrease in strength 
+• *** NO Fasciculations *** 
+• Atrophy is a very late finding. 
+ 
+Dermatomyositis (more often kids) has classic skin findings:  
+• Periorbital heliotrope  
+• Erythema and swelling of the extensor surfaces of joints 
+• The facial rash is usually photosensitive, can also involve the exposed areas of the 
+chest and neck 
+ 
+Elevated CK and CRP/ESR can NOT distinguish between neuromuscular causes and 
+inflammatory myopathies (as both can be elevated in either condition) 
+ 
+Treatment:  
+• Prednisone 1 to 2 mg/kg/day 
+• If steroids ineffective: consider azathioprine (initial dose of 50 mg/day) or 
+methotrexate (initial dose of 15 mg/week) 
+ 
+[13] What is Periodic paralysis? 
+ 
+Think about in acute, painless myopathies. Collectively, these disorders (hyperkalemic and 
+hypokalemic forms and thyrotoxic periodic paralysis) cause periodic paralysis. 
+ 
+• Causes: 
+• Hypokalemia / Hyperkalemia 
+• Hypocalcemia / Hypercalcemia 
+• Hypomagnesemia 
+• Hypophosphatemia 
+• Disorders of thyroid, parathyroid, or adrenal glands. 
+ 
+Hypokalemic and Hyperkalemic forms  
+• Rare hereditary disorders of ion channels  
+• Intermittent attacks of flaccid extremity weakness 
+• Hypokalemic form >> hyperkalemic form 
+• Associated w/ an inherited genetic mutation.  
+• Personal or family history of similar episodes 
+• Typical story is weakness after a large meal (carb load, increase insulin, more 
+shift) 
+• Lower limbs > upper 
+CrackCast Show Notes – Neuromuscular Disorders – September 2017 
+www.canadiem.org/crackcast 
+ 
+ 
+ 
+Thyrotoxic periodic paralysis  
+ 
+• Acquired not genetic 
+• Almost identical presentation to kalemic forms of periodic paralysis 
+• Some overlap with clinical syndromes of thyroid and potassium forms  
+• Look for other hyperthyroidism symptoms (anxiety, emotional lability, weakness, 
+tremor, palpitations, heat intolerance, increased perspiration, and weight loss 
+despite a normal or increased appetite) 
+• In either hyperthyroidism or hypokalemia neuromuscular weakness likely related 
+to sodium-potassium adenosine triphosphatase (Na+/K+-ATPase) pump = a rapid 
+shift of potassium from extracellular to intracellular compartment.  
+ 
+Treatment: treat underlying electrolyte abnormality and thyroid dysfunction 
+ 
+Wisecracks:  
+ 
+[1] Clinically, how would you differentiate between a myasthenic crisis and a 
+cholinergic crisis? 
+ 
+First off, cholinergic crisis (due to excess pyridostigmine) is so bloody rare it should barely 
+be on your radar, always treat as MG crisis first. However, with your tensilon test (aka, 
+edrophonium, which is an acetylcholinesterase inhibitor) the myasthenic patient will get 
+better, the cholinergic crisis will become much weaker 
+ 
+[2] What is the presentation, timing and course of neonatal myasthenia? 
+ 
+According to UpToDate: “Transient neonatal myasthenia gravis occurs in 10 to 20 percent of 
+infants born to mothers with myasthenia gravis. Most mothers of affected infants have active 
+clinical disease, although some may have no evidence of myasthenia or may be in remission.” 
+ 
+• Maternal AChR antibodies transfer to fetus: causes clinical disease 
+• Rarely, there are persistent myopathic sequelae related to the fetal acetylcholine 
+receptor inactivation syndrome (FARIS).  
+o Elevated levels of maternal AChR antibodies directed against the fetal 
+subunit of the AChR receptor, causing abnormal endplate development of 
+the embryonic neuromuscular junction in a subset of infants. The facial 
+and bulbar musculature may be particularly susceptible to permanent 
+injury caused by this process. 
+• Typically presents within hours of birth 
+• Signs always present by third day of age  
+• More severely affected infants have a history of polyhydramnios and may have 
+arthrogryposis multiplex (multiple joint contractures) at birth 
+• Recovery with treatment usually within several weeks 
+ 
+[3] What the differential diagnosis for a patient presenting with ascending muscle 
+weakness, ptosis and diplopia? 
+ 
+CrackCast Show Notes – Neuromuscular Disorders – September 2017 
+www.canadiem.org/crackcast 
+ 
+ 
+• Gullian-Barre 
+• Myasthenic / Lambert Eaton Syndromes 
+• Botulism 
+• Hypomagnesemia / hypocalcemia 
+• Snake venom 
+• Tick paralysis 
+• Long list of drugs (phenytoin, beta blockers, pesticides, etc.) 
+ 
+ 

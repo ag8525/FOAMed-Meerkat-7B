@@ -1,0 +1,127 @@
+# Metadata
+- Source: The Bottom Line
+- Title: REACT 2
+- Original URL: https://www.thebottomline.org.uk/summaries/em/react-2/
+- Scrape Date: 2025-07-17
+- Summary Date: AUTO_FILL_IF_AVAILABLE
+
+REACT 2: Immediate total-body CT scanning versus conventional imaging and selective CT scanning in patients with severe trauma: a randomised controlled trial
+Sierink. Lancet 2016, published on-line June 28, http://dx.doi.org/10.1016/S0140-6736(16)30932-1
+Clinical Question
+In patients with severe trauma does immediate total body CT scanning compared with standard workup with selective CT scanning, reduce hospital mortality?
+Design
+Randomised controlled trial
+Computer randomisation
+Stratified by centre
+Non-blinded
+Modified intention to treat analysis
+Patients excluded post randomisation if:
+Did not fulfil inclusion/exclusion criteria (n=203)
+Declined participation (n=112)
+Language barrier (n=5)
+Power calculation: 539 patients in each group would give the study an 80% power to detect an absolute risk reduction of 5% with a false positive rate of 5%
+Setting
+4 hospitals in the Netherlands and 1 hospital in Switzerland
+All level 1 trauma centres and academic teaching hospitals
+Data collected: April 2011 – January 2014
+Population
+Inclusion criteria: Adults trauma patients with potentially severe injuries, as defined by:
+Abnormal physiology
+At least 1 of the following at hospital arrival: Respiratory rate ≥30 or ≤10, HR ≥120, BP≤100, estimated blood loss ≥500ml, GCS≤13, abnormal pupillary reaction
+OR clinical suspicion of any of the following injuries:
+Fractures from at least 2 long bones
+Flail chest, open chest or multiple rib fractures
+Severe abdominal injury
+Pelvic fracture
+Unstable vertebral fractures/spinal cord compression
+OR severe mechanism of injury:
+Fall from height (>3 metres or 10 feet)
+Ejection from vehicle
+Death of occupant in same vehicle
+Severely injured patient in same vehicle
+Wedged or trapped chest/abdomen
+Exclusion criteria:
+Patients referred from another hospital
+Clearly low-energy blunt trauma
+Stab wound in 1 body region
+Too unstable to undergo CT and required either CPR or immediate operation
+1403 patients randomised of whom 320 excluded post randomisation  (including 60 patients who did not meet inclusion criteria, 107 patients who had low energy blunt trauma, and 112 patients who declined participation)
+Comparing intervention with control group
+Significantly more patients with ISS≥16: 67% vs. 61%, p=0.045
+Significantly lower:
+Hb (median): 129 vs. 133, p=0.003
+Haematocrit (median): 0.38 vs. 0.39, p=0.003
+No significant difference in:
+Age (median): 42 vs. 45
+ISS (median): 20 vs. 19, p=0.4
+% that received blood transfusion: 27% vs. 28%
+Blunt trauma: 98% vs. 98.3%
+Traumatic brain injury: 32.9% vs. 27.9%
+Intervention
+Immediate total-body CT scanning (vertex to pubic symphysis)
+Without prior conventional imaging
+Potential life saving interventions performed prior to imaging including: intubation, chest tube insertion, pericardiocentesis, haemorrhage control
+Protocol violations
+1% of patients in intervention group ‘crossed-over’ to control group
+9% of patients had other protocol violations
+Control
+Selective CT scanning
+Chest and pelvic x-ray and FAST scan performed during primary survey
+Selective CT scanning. Indications were pre-defined according to local protocols, listed
+here
+46% of patients underwent sequential CT scans of all body regions comprising a total body CT scan in the end
+Protocol violations
+3% of patients ‘crossed-over’ to intervention group
+11% of patients had other protocol violations
+Outcome
+Primary outcome: In-hospital mortality – No significant difference
+15.9% in the intervention group vs. 15.7% in the control group, p=0.923, Fragility index -22 patients with 117 patients lost to follow-up (Declined participation or language barrier)
+Secondary outcomes:
+Radiation exposure was significantly increased in the intervention group
+Radiation exposure in the ED (median): 20.9mSv (IQR 20.6-20.9) vs. 20.6mSv (IQR 9.9-22.1, p<0.0001
+Radiation exposure during hospital admission (median): 21mSv (IQR 20.9-25.2) vs. 20.6mSv (11.8-27.6), p<0.0001
+In the control group 45% of patients had a radiation dose that was below the lowest dose of patients who underwent a total body CT scan
+Time to imaging completed in the ED – significantly reduced in the intervention group
+30min vs. 37min , p<0.0001
+Time to diagnosis – significantly reduced in the intervention group
+50min vs. 58min, p<0.001
+Time spent in the trauma room – no significant difference
+63min vs. 72 min, p=0.067
+Direct medical costs – no significant difference
+24,967 EUROS vs. 26,995 EUROS, p=0.439
+Number of missed injuries found during tertiary survey – no significant difference
+8.8% vs. 10.1%, p=0.45
+Life threatening event during scanning – no significant difference
+0.6% vs. 0.2%, p=0.374
+Pre-determined sub-group analysis
+No significant difference in hospital mortality for:
+Patients with ISS ≥16: 22.4% vs 24.8%, p=0.457
+Traumatic brain injury: 38.2% vs. 43.7%, p=0.311
+Authors’ Conclusions
+The use of immediate whole body CT scan did not reduce mortality compared with standard radiological work up
+Strengths
+Randomised controlled trial
+Multi-centre
+Clear criteria for performing CT scans in control group
+Allocation concealment maintained with use of computer randomisation
+Weaknesses
+Large number of patients excluded post randomisation. This is a major weakness. Clinicians would have known what group the patient had been assigned to when the decision was made to exclude them. This may have introduced bias to the results.
+Inclusion/exclusion criteria subjective – although this could be argued to be pragmatic, I feel this is a weakness when so many patients were excluded following a disagreement over whether these subjective criteria had been met. The inclusion/exclusion criteria were also modified after 62 patients had already been enrolled.
+Differences in baseline characteristics with more patients in the intervention group having an ISS score of ≥16. On first glance this may appear to be a weakness but in reality it may just be that the whole body CT scan diagnosed more injuries and therefore these patients had a higher ISS score.
+The Bottom Line
+For patients with suspected major trauma who are managed in a high functioning level 1 trauma centre, the use of immediate whole body CT scan compared to focused CT scanning resulted in no change in mortality but an increased radiation dose. Focused CT scanning was ultimately a total body CT scan for 46% of patients in the focused group due to the combination of segmental scans.
+External Links
+[article]
+Immediate total-body CT scanning versus conventional imaging and selective CT scanning in patients with severe trauma (REACT-2): a randomised controlled trial
+[further reading]
+Total-body CT scanning in trauma patients: Benefits and boundaries
+[further reading]
+EMNerd-The Case of the Anatomic Injury Part II
+[further reading]
+St.Emlyn’s: Do we always need a whole body CT in trauma?
+Metadata
+Summary author:
+David Slessor
+Summary date: 4th July 2016
+Peer-review editor:
+Duncan Chambler

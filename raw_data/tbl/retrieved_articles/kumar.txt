@@ -1,0 +1,122 @@
+# Metadata
+- Source: The Bottom Line
+- Title: Kumar
+- Original URL: https://www.thebottomline.org.uk/summaries/icm/kumar-2/
+- Scrape Date: 2025-07-17
+- Summary Date: AUTO_FILL_IF_AVAILABLE
+
+Initiation of Inappropriate Antimicrobial Therapy Results in a Fivefold Reduction of Survival in Human Septic Shock
+Kumar. A. Chest. 2009 Nov;136(5):1237-48. doi: 10.1378/chest.09-0087
+Clinical Question
+In patients with septic shock, what is the relationship between appropriateness of initial empiric antimicrobial therapy and survival?
+Design
+Retrospective observational study
+Pre-determined rules for assessing appropriateness of antimicrobial agents. For unanticipated scenarios not covered by these pre-determined rules, two infectious disease/critical physicians who were blinded to outcome, reviewed the data to determine appropriateness of antimicrobials
+Patients identified from ITU registries or ICD coding
+Setting
+22 hospitals in Canada, USA, Saudi Arabia
+1996-2006
+Population
+Inclusion:
+Adult patients with septic shock as defined by:
+Documented or suspected infection
+Persistent hypotension requiring pressor therapy
+≥2 of the following
+HR >90
+RR >20 or PCO2 <32mmHg
+Temp <
+36°C or >38°C
+WCC <4 or >12 or >10% band forms
+Exclusion: none defined
+n=5715
+Patient characteristics
+Mean age: 62.6 years
+56.3% male
+Mean APACHE II score: 25.2
+Treatment with:
+Drotrecogin-alfa: 2.2%
+Low-dose steroid: 27.1%
+Indication for source control: 43.4%
+Community acquired infections 55%
+Documented infection: 82.2%
+Suspected infection without either plausible pathogen isolated, or definitive radiological, surgical, autopsy or biopsy evidence of infection: 17.8%
+Comparing patients who received appropriate vs. inappropriate antimicrobials
+Co-morbidities
+Immunosuppressive chemotherapy or long term steroid therapy: 15% vs. 19.8%, p<0.05
+COPD: 13.6% vs. 14.1%
+Chronic renal failure: 14.6% vs. 21.6%, p<0.01
+Long-term dialysis dependent” 7.3% vs. 10.7%
+Clinical site infections
+Pneumonia: 38.1% vs. 37.2%
+Intra-abdominal 30.1% vs. 30%
+Genitourinary: 10.9% vs. 7.3%, p<0.01
+Skin and soft tissue: 8.1% vs. 4.6%, p<0.01
+Intravascular catheter: 3.4% vs. 5.5%, p<0.01
+Systemically disseminated infection (including yeast and TB): 1.7% vs. 6.8%, p<0.01
+Primary microbiological pathogen
+Gram negative: 53.9% vs 34.4%, p<0.01
+Gram positive: 33.9% vs. 31.8%
+S. aureus: 13.2% vs. 19.7%, p<0.05
+Yeast/fungi: 6.5% vs. 28.8%, p<0.01
+Anaerobes: 4.3% vs. 2.1%, p<0.05
+Intervention
+Appropriate antimicrobial administered
+Defined as positive if:
+The first new antimicrobial agent given following recurrent/persistent hypotension or an antimicrobial initiated within 6 hours of the administration of the 1st new antimicrobial had:
+in vitro
+activity appropriate for isolated pathogen
+Or for culture negative shock, antimicrobial administered consistent with accepted norms modified for local flora
+Control
+Inappropriate or no antimicrobial administered
+Outcome
+Primary outcome: survival to hospital discharge (included discharge to chronic care facility)
+43.7%
+Secondary outcomes:
+Appropriate antimicrobials initiated in 80.1%
+Comparing appropriate vs. inappropriate antimicrobials
+Survival to hospital discharge was significantly improved (52% vs. 10.3%, OR 9.45, 95% C.I. 7.74-11.54, p<0.0001)
+Multivaribale logistic regression analysis performed to correct potential confounding variables: survival remained significantly improved (OR 8.99, 95% C.I. 6.60-12.23, p<0.0001)
+Subgroup analysis
+Significantly improved mortality in patients treated with appropriate vs. inappropriate antimicrobials when analysis restricted to:
+Culture positive cases (OR 6.95, 95% C.I. 3.11-15.52)
+Gram positive cocci (n=1356), p<0.0001
+Gram negative bacilli (n=2002), p<0.0001
+Anaerobes (n=156), p=0.0048
+Yeast (n=443), p<0.0001
+Authors’ Conclusions
+In patients with septic shock, ~20% are initially treated with inappropriate antimicrobial therapy. This is associated with a 5-fold decrease in survival.
+Strengths
+Large sample size, multi-centre
+Pre-determined rules for determining appropriateness of antimicrobials
+Some known biases are adjusted for by the multivariate analyses, suggesting that the observed effect is likely to be real, even if exact magnitude cannot be determined from this study
+Simple statistical approach
+Large effect size (OR 6.95-9.45) so clinically relevant
+Similar results found in all subgroups thereby giving us confidence in results
+Weaknesses
+Retrospective analysis, therefore confounded by multiple biases
+Irrespective of unknown biases, the cases and controls definitely differed significantly according to parameters which are very likely to have affected the outcome: specifically patients who didn’t receive appropriate antibiotics were more likely to have been immunosuppressed,  have had surgical complications, line infections, disseminated infections and hard to treat / highly pathogenic organisms (P aeruginosa, S aureus,  yeasts/fungi)
+The study give no data on patients lost to follow up; this could be an additional source of bias
+In the case of culture negative infections the gold standard (2 or 3 expert opinions / concordance with guidelines) is weak, although similar to that seen in clinical practice
+Duration of follow up is not stated
+Indication for source control in >40% but it was not stated if this was performed
+Data is historical: some as early as 1996. Overall mortality is very high based on current standards
+The Bottom Line
+In adult patients with septic shock inappropriate initial choice of empiric antibiotic therapy is associated with ~5-fold absolute reduction in survival, even after correction for co-morbidities, clinical presentation and organism. The effect size is greatest in patients with primary blood stream infections, urinary tract infections, and infections due to anaerobes or yeasts.
+External Links
+[pubmed]
+Initiation of inappropriate antimicrobial therapy results in a fivefold reduction of survival in human septic shock
+[article]
+Initiation of inappropriate antimicrobial therapy results in a fivefold reduction of survival in human septic shock
+[further reading]
+TBL Summary of ‘Duration of hypotension before initiation of effective antimicrobial therapy’
+[further reading]
+Effect of Immediate Administration of Antibiotics in Patients With Sepsis in Tertiary Care: A Systematic Review and Meta-analysis
+Metadata
+Summary author:
+@drthinx
+for University Hospital Southampton General Intensive Care Journal Club
+Summary date: 28th April 2015
+Peer-review editor:
+@davidslessor
+/
+@Duncan Chambler

@@ -1,0 +1,456 @@
+---
+title: "CrackCast Episode 186: Trauma in Pregnancy"
+url: "https://canadiem.org/crackcast/"
+date: 2016-08
+source: "CanadiEM – CrackCast"
+original_file: "Ch.37 Trauma in Pregnancy.pdf"
+summary: |
+  The document discusses trauma management in pregnant patients, emphasizing the unique physiological and anatomical changes during pregnancy that affect trauma care. Key causes of trauma include motor vehicle collisions, interpersonal violence, and falls, with penetrating trauma posing a higher risk than blunt trauma. Critical management principles include prioritizing maternal resuscitation, monitoring fetal heart tones, and considering perimortem cesarean sections if indicated. Physiological changes such as increased blood volume and altered cardiovascular responses can mask shock, while anatomical shifts necessitate adjustments in procedures like thoracostomies. Fetal distress is assessed through heart rate monitoring and movement, with placental abruption being a significant concern following blunt trauma. Diagnostic imaging should minimize radiation exposure, with ultrasound preferred for assessing intra-abdominal injuries. The document also highlights the importance of administering Rhesus immunoglobulin to Rh-negative mothers after trauma to prevent fetal-maternal hemorrhage complications.
+
+---
+
+## Overview
+
+### Rosens in Perspective
+
+What are the top three causes of trauma during pregnancy?
+
+- MVCs, interpersonal violence, falls
+- Many women may not know they are pregnant
+
+Clinical features of trauma in pregnancy:
+
+- Increased likelihood of spleen, liver, bowel injury
+- Increased preterm labour
+- Fetal death
+  - Risk factors: ejections, motorcycle collisions, pedestrian collisions, no restraints
+  - Restraint should be properly placed:
+    - Lap belt UNDER gravid abdomen – it should be resting on the hip bones
+    - Shoulder harness off to the side of the uterus, with the strap between the breasts
+
+Interpersonal violence:
+
+- Important to ask about interpersonal violence
+- Victims of interpersonal violence are more likely to develop HTN, kidney infections, deliver preterm, have underweight infants, require NICU care
+
+Falls:
+
+- May trigger premature contractions, but RARELY result in immediate labour and delivery
+
+Penetrating trauma:
+
+- Likely ~100% risk of harm to bowels, liver, spleen when the wound is in the upper abdomen
+- Fetus at risk for any uterine injury
+
+Which is worse – penetrating or blunt trauma? PENETRATING
+
+Fetal Injury:
+
+- With maternal hypotension, hypoxia, acidosis, and FHR <110
+- 40% chance of fetal demise when mother sustains life-threatening injuries
+  - e.g., maternal DIC
+- Outcome is NOT predicted by maternal vital signs:
+  - Outcome depends on 4 hrs of fetal monitoring
+- In blunt trauma most injuries are
+  - ICH, skull fractures
+  - Higher incidence with maternal pelvic or acetabular fractures
+
+## Core Questions
+
+### 1) What is the threshold for fetal viability? How can this be estimated clinically?
+
+- Fetal viability
+  - >24 weeks
+  - >500 grams
+- Estimated by uterine fundus being ABOVE the umbilicus
+
+***Do what is best for the mother first***
+
+### 2) List the expected physiologic changes during pregnancy
+
+Cardiovascular changes:
+
+- Increasing heart rate
+- Increased cardiac output
+- 40% increase in blood volume
+- Lower MAP in 1st and 2nd
+
+Respiratory changes:
+
+- 40% increase in minute ventilation
+- Decreased vital capacity
+
+Gastrointestinal:
+
+- Decreased gastric emptying
+- Weak LES tone
+
+Anatomic:
+
+- Elevated diaphragm (need to do thoracostomies 1-2 spaces higher)
+- Diastasis recti
+- Abdominal contents relatively elevated
+
+Anatomic changes continued:
+
+- Intrapelvic until 12 weeks
+  - Umbilicus at 20 weeks
+  - Costal margins at 34 weeks
+- Rising diaphragm
+  - More rapid tension pneumothorax
+    - PEARL: ***place thoracostomies 1-2 rib spaces higher than the 5th interspace***
+- Upwardly pushed abdominal viscera
+  - Increased risk of bowel injury in penetrating trauma
+  - Expected guarding and rebound are blunted
+    - Significant intra-abdominal bleeding with no pain on palpation
+  - Bladder more prone to injury because of displacement
+- Baseline pubic diastasis and hydronephrosis is common
+
+Lab value changes:
+
+- Physiologic anemia
+  - Due to a 50% increase in blood plasma and only 18% increase in RBCs
+  - Therefore a LOWER hematocrit
+- Placental progesterone stimulates resp. centre to breathe for a PaCO2 of 30
+  - Compensatory lowering of bicarbonate
+- Changes to a PaCO2 of 40 at the end of pregnancy = leading to mild resp. acidosis
+- Left axis shift of 15 degrees on ECG
+- Flat T waves or Q waves in lead III
+
+### 3) List 8 unique considerations in the management of the pregnant trauma patient
+
+Cardiovascular:
+
+- Alterations in BP and HR can mimic shock
+- Greater fall in diastolic BP in 1st and 2nd trimester
+- <10 bpm rise in HR
+
+What is gravid uterus syndrome and how is it managed?
+
+- Supine hypotensive syndrome (aka. aortocaval compression syndrome aka. Gravid uterus syndrome)
+  - After 20 weeks the uterus has risen to compress the IVC when the mother is supine
+    - Decreases CO by up to 30% (decreases systolic BP by 30 mmHg)
+  - Tilt mother to LEFT side by 15-30 degrees
+    - Also elevate mother's feet
+
+Physiologic alterations may mask hypovolemic shock
+
+- Blood volume increases up to 45% above normal (peak at 32-34 weeks)
+  - Increase with multigravidas (twins, etc)
+- Increased circulatory reserve may delay signs of hemorrhage
+
+Physiologic alterations can exacerbate traumatic bleeding
+
+- Increased cardiac output by 40%
+  - Mother's entire blood volume flows through uterus every 8-11 mins
+  - **Major source of blood loss***
+  - Marked venous congestion in the pelvis and lower extremities
+- Gravid uterus increases peripheral venous pressure = more loss of blood from leg wounds
+
+Pulmonary considerations:
+
+- Reduced oxygen reserve (FRC)
+- Increased O2 consumption
+  - Increased oxygen demand during apnea by 30%
+- Increase minute ventilation leads to hypocapnia (so a paCO2 of 35 is abnormal...!)
+- Need RAPID RSI, BVM is super tough
+
+Gastrointestinal considerations:
+
+- Reduced sphincter response and GI motility
+  - = Increased aspiration risk
+- Increased acid production
+  - Consider early gastric decompression
+
+So, in summary:
+
+1. Pregnancy alterations in BP and HR can mimic shock
+2. The gravid uterus syndrome
+3. Blood volume increases can mask hypovolemic shock
+4. Pregnancy can exacerbate traumatic bleeding
+5. Reduced FRC - tube quickly
+6. Increased O2 consumption needs
+7. Reduced sphincter response and GI motility
+   - = Increased aspiration risk
+8. Increased acid production
+   - Consider early gastric decompression
+
+### 4) How is fetal distress detected?
+
+- Fetal distress is detected with:
+  - Non-stress testing
+    - Abnormal baseline HR (</> 120-160)
+    - Late decelerations
+  - Fetal movement assessment
+
+Fetal evaluation:
+
+- (1) Fetal heart rate
+- (2) Fetal movement
+- Signs of fetal distress (3)
+  - Abnormal baseline HR
+    - Normal 120-160
+  - Decreased variability
+    - Normal beat-beat variability and long-term variability
+  - Late decelerations
+    - Indicate fetal hypoxia
+
+### 5) Discuss placental abruption including the pathophysiology, clinical findings, diagnostic modalities, management, and complications.
+
+Placental injury:
+
+- Blunt trauma leading to abruption results in 60% of fetal losses
+- Placental (inelastic) separation/shearing (abruption) from the uterus (elastic uterus)
+  - Think of it like your lungs being sheared off
+  - Can occur with NO visible abdominal trauma
+- Can lead to uterine contractions which further inhibit blood flow
+
+Clinical findings:
+
+- Classic symptoms:
+  - Painful, vaginal bleeding
+  - Abdominal cramps
+  - Uterine tenderness
+  - Frequent uterine contractions
+  - Maternal shock
+  - Change in fetal HR
+  - ****Fetal distress*** (most sensitive indicator of abruption)
+  - A CLINICAL DIAGNOSIS!
+
+Diagnosis:
+
+- Requires the Kleihauer-Betke test
+- U/S (50% sens)
+- Fetal stress testing
+
+Management:
+
+- Expectantly
+  - If mother and fetus are stable:
+    - Usually closely monitored in hospital
+  - After 32 weeks - OB may elect to deliver early
+
+Complications:
+
+- Premature labour
+- Stillbirth
+- There is an exponential rise in fetal mortality with increasing amounts of abruption
+- Abruption can lead to maternal coagulopathy (resulting in DIC)
+
+### 6) List 2 potential uterine injuries
+
+1. Pre-mature labour / contractions
+2. Uterine rupture
+
+- Most common problem is uterine contractions after trauma
+  - Myometrial and decidual cells release prostaglandins --> contractions
+  - Use of tocolytics is not recommended because contractions usually herald a pathologic condition (such as abruption) -- where tocolysis is relatively contraindicated
+
+- Uterine rupture is very rare
+  - Often due to severe MVCs with pelvic fractures
+    - Penetrating trauma is rarely a cause
+  - Diagnosis is difficult and may be confused with liver/spleen injury
+    - Fetal parts palpable, massive hemoperitoneum and shock --> high mortality
+
+### 7) What is a safe radiation dose in pregnancy? What diagnostic tests have the potential to exceed this dose?
+
+Plain radiographs:
+
+- Fetal damage is rare with < 5-10 Rads (equivalent to ~two CT abdomens)
+- Fetus more sensitive in the first trimester
+- For example, the spontaneous developmental risks are much higher than 1 rad dose
+- e.g., a chest and pelvis x-ray are <5 and 200-2000 milli-rads
+
+CT / MRI:
+
+- CT head <50 milirads, an abdomen is about 3 or LESS rads
+  - With shielding of the mother’s abdomen, a CT head and chest can be kept below 1 rad
+- ***A PELVIC CT can produce a 3-9 rad dose***
+- MRI scanners are the better option if available
+
+DPL:
+
+- Recommended by Rosen's for the crashing pt. with an indeterminate U/S
+- Very high risk and low yield (missing retroperitoneal, intrauterine pathology)
+
+What is the primary screening investigation for major intra-abdominal injury? How sensitive is it?
+
+Ultrasound:
+
+- BEST test for maternal and fetal assessment
+- >85% sens. and >98% spec.
+- 97% accurate for detecting intra-abdominal injuries in blunt trauma
+
+In the pregnant patient:
+
+- 80% sensitive and 100% specific for detecting MAJOR abdominal injury in the pregnant patient
+
+### 8) Describe alterations to the primary and secondary survey in the pregnant trauma patient. What additional lab work is needed? What specific therapies are employed in the primary survey?
+
+Management:
+
+- From the start: mother is always the first priority
+- Key decision points/questions:
+  - (1) Is the uterus/fetal size >24 weeks?
+    - If no, ignore fetus and resus mother.
+    - If yes:
+      - (a) Resus mother
+      - (b) Get fetal heart tones
+  - (2) Is the mother in arrest? If yes:
+    - If fetal heart tones present and > 24 weeks = PERIMORTEM C SECTION
+    - If fetal heart tones absent and mother in arrest STOP resuscitation
+
+Maternal resus:
+
+"ABCT + UFO"
+
+Primary survey:
+
+- Focus on mother
+  - A+B
+    - Give O2 early
+    - Get a secure airway: do RSI
+    - Goal PaCO2 is 30 mmHg
+  - C
+    - HR and BP are not consistent predictors of well-being
+    - Uterine blood flow may be reduced with no external signs of bleeding or trauma
+    - Avoid vasopressors
+  - T "not D"
+    - Tilt the mother!
+  - U + Fetal tones
+    - U-uterus: if uterus above umbilicus: likely >24 weeks
+    - FO- Fetal Tones: Modify primary survey to assess uterine size and presence of fetal tones
+
+Secondary survey:
+
+- Get maternal detailed info
+  - ? Weeks pregnant, number of babies, GTPAL Hx.
+  - ? Uterine tenderness
+  - ? Contractions
+  - ? Vaginal bleeding
+- Pelvic exam:
+  - ? Signs of ferning on uterine fluid? (ruptured membranes)
+  - ? Cervical dilatation
+  - Swabs for G+C
+  - ? GBS status
+  - Bimanual exam for pelvic bone protrusion
+
+Fetal evaluation:
+
+- (1) Fetal heart rate
+- (2) Fetal movement
+- Signs of fetal distress (3)
+  - Abnormal baseline HR
+    - Normal 120-160
+  - Decreased variability
+    - Normal beat-beat variability and long-term variability
+  - Late decelerations
+    - Indicate fetal hypoxia
+
+What additional lab work is needed?
+
+- Regular trauma panel
+- Include blood type and Rh status and serum BHCG
+- ABGs helpful to assess hypoxia and acidosis
+- Tests for DIC! (PTT, INR, Fibrinogen)
+- Kleihauer-Betke test:
+  - For transplacental bleeding
+  - 8-30% incidence after trauma
+- **All Rh-Neg. mothers with any abdominal trauma should receive RhIG within 72 hrs of the incident at a 300 mcg dose (protects against 30 ml of blood)***
+
+### 9) Describe early, variable, and late decelerations. What is the implication of each? What is one other indicator of fetal distress related to the FHR?
+
+Lack of variability at baseline is another indicator of fetal distress!
+
+### 10) How is fetomaternal hemorrhage diagnosed and managed?
+
+Most concern when greater than 12 weeks into pregnancy.
+
+- Kleihauer-Betke test:
+  - For transplacental bleeding
+  - Quantifies the amount of fetal-maternal hemorrhage (>5 mL)
+  - 8-30% incidence after trauma
+- **All Rh-Neg. mothers with any abdominal trauma should receive RhIG within 72 hrs of the incident at a 300 mcg dose (protects against 30 ml of blood)***
+  - Regardless of a negative KHB test!
+  - A 50 mcg dose is sufficient in the 1st trimester (only 4.2 mL of fetal blood then)
+  - But in 2-3rd trimester you need to give 300 mcg to cover up to 30 mL
+  - You may need more than one dose based on the KHB test
+
+Bottom line: give Rhesus immunoglobulin regardless of the KHB test!!
+
+### 11) Describe specific management in the following conditions:
+
+a. Stable mother with stable fetus
+
+- Minimal maternal trauma doesn't mean minimal fetal trauma
+- At LEAST 4 hrs of fetal monitoring is recommended
+- Mother should record fetal movements on discharge (4 per hour)
+- Follow-up should be arranged
+
+b. Stable mother with unstable fetus
+
+- Fetal death rates are 3-9x higher than maternal death rates
+- If fetus still unstable despite resus --> c-section
+- ZERO fetal survival with no fetal heart tones!!
+
+c. Unstable mother with unstable fetus
+
+- Repair/treat/resus mother's wounds:
+  - If mother can't survive to C-section then the fetus definitely won't!
+- Uterine wounds need exploration
+
+### 12) What are indications for peri-mortem c-sections. Describe the procedure.
+
+Indications: Must start within 4 mins of maternal cardiac arrest
+
+- Present Fetal heart tones
+- Greater than 24 weeks gestation
+
+- If no response to Tilting, resus with fluids and basic ACLS doesn't work, with fetal heart tones present:
+  - Need to remove the babe within 4 minutes of maternal arrest
+    - Beyond 20 mins. there is no outcome for either pt.
+- Procedure: (call for help, get equipment and suction ready, have warmer on hand, etc.)
+  - Ensure high-quality CPR is underway!!
+  - Chlorhex splash
+  - Midline vertical incision from epigastrium to symphysis pubis
+  - Vertical incision of the uterus
+  - Deliver fetus
+  - Clamp and cut cord
+
+## Wisecracks
+
+### 1) What is the concern with fetal-maternal hemorrhage? How is it managed?
+
+Most concern when greater than 12 weeks into pregnancy.
+
+- Kleihauer-Betke test:
+  - For transplacental bleeding
+  - Quantifies the amount of fetal-maternal hemorrhage (>5 mL)
+  - 8-30% incidence after trauma
+- **All Rh-Neg. mothers with any abdominal trauma should receive RhIG within 72 hrs of the incident at a 300 mcg dose (protects against 30 ml of blood)***
+  - Regardless of a negative KHB test!
+  - A 50 mcg dose is sufficient in the 1st trimester (only 4.2 mL of fetal blood then)
+  - But in 2-3rd trimester you need to give 300 mcg to cover up to 30 mL
+  - You may need more than one dose based on the KHB test
+
+Bottom line: give Rhesus immunoglobulin regardless of the KHB test!!
+
+### 2) Outline a basic approach to the pregnant trauma patient in the ED
+
+### 3) What are indications for continuing fetal monitoring beyond 4 hrs?
+
+## Additional Notes / Commentary
+
+Can you give a pregnant mother Tetanus, TIG, and electricity?
+
+Misc. points:
+
+- Tetanus and TiG have no negative effect on the fetus
+  - The tetanus antibody CAN cross the placenta
+- Maternal cardioversion is safe for cardiac dysrhythmias in ALL trimesters
+  - Up to 300J has been used without inducing labour or affecting fetus
+  - Fetal monitoring still recommended.
+
+## References
+- www.crackcast.org
+```

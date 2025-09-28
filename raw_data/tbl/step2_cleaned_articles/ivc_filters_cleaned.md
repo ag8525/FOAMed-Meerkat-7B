@@ -1,0 +1,101 @@
+```yaml
+---
+source: The Bottom Line
+title: IVC Filters
+original_url: https://www.thebottomline.org.uk/summaries/icm/ivc-filters/
+scrape_date: 2025-07-17
+summary_author: Adrian Wong
+summary_date: 2019-07-11
+peer_review_editor: Steve Mathieu
+summary: "Will be added later"
+---
+
+# A Multicenter Trial of Vena Cava Filters in Severely Injured Patients
+
+## Clinical Question
+In severely injured trauma patients where anticoagulation is contraindicated, does the use of prophylactic inferior vena cava (IVC) filters reduce the incidence of pulmonary embolism (PE)?
+
+## Background
+Venous thromboembolism is common after trauma, with 18% of severely injured patients developing DVT and 11% developing PE. A significant portion of symptomatic PEs occur within the first 4 days post-trauma. Previous meta-analyses have suggested that IVC filters may reduce PE incidence but increase DVT risk without affecting mortality.
+
+## Design
+- Randomised controlled trial
+- Permuted-block scheme randomisation
+- Patient and clinician aware of assignment
+- Protocolised detection of symptomatic PE
+- Intention-to-treat analysis
+- Power calculation based on a 9% PE incidence rate
+
+## Setting
+- 4 tertiary centres in Australia
+- Study period: June 2015 to December 2017
+
+## Population
+
+**Inclusion Criteria:**
+- Age ≥18 years
+- Injury Severity Score (ISS) > 15
+- Contraindication to prophylactic anticoagulation within 72 hours of injury
+
+**Exclusion Criteria:**
+- Imminent death
+- Confirmed PE
+- Systemic anticoagulant treatment before injury
+- Pregnancy
+- Unavailability of an interventional radiologist within 72 hours
+
+**Enrollment:**
+- 1714 screened, 240 randomised
+
+## Intervention
+- Insertion of IVC filter, type at radiologist's discretion
+- 89% of filters inserted within 24 hours (median 15.6 hours)
+- Filters removed once anticoagulation was safe or before 90 days unless indicated otherwise
+
+## Control
+- Standard care per management plan
+- Prophylactic anticoagulation initiated as feasible
+- Intermittent pneumatic compression for uninjured legs
+- Routine Doppler and compression ultrasonography at 2 weeks
+
+## Outcomes
+
+### Primary Outcome
+- Composite of symptomatic PE on CTPA or death at 90 days
+  - No significant difference: 13.9% (intervention) vs 14.4% (control); 95% CI 0.51 to 1.94
+
+### Secondary Outcomes
+- Symptomatic PE in patients without anticoagulation within 7 days: 0% (intervention) vs 14.7% (control)
+- Complications related to IVC filters:
+  - Clots on filter at first removal: 4.9%
+  - Adherent to IVC wall: 1.6%
+  - Multiple removal attempts: 5.7%
+  - Surgical removal: 0.9%
+  - Filter not removed: 31.5%
+- Death at 90 days: 13.1% (intervention) vs 9.3% (control); 95% CI 0.69–2.87
+- Major bleeding at 90 days: 70.5% (intervention) vs 66.1% (control); 95% CI 0.9–1.27
+- Non-major bleeding at 90 days: 23.8% (intervention) vs 17.8% (control); 95% CI 0.81–2.2
+- DVT at 90 days: 11.4% (intervention) vs 10.1% (control); 95% CI -11.4–13.9
+
+## Authors’ Conclusions
+Early prophylactic placement of an IVC filter after major trauma did not reduce the incidence of symptomatic PE or death at 90 days.
+
+## Strengths and Weaknesses
+- **Strengths**
+  - Randomised controlled trial
+  - Multi-centre design
+- **Weaknesses**
+  - Single site accounted for 96% of recruitment
+  - Unblinded design
+  - Compliance with CTPA protocol not available
+  - Underpowered due to outdated PE incidence data
+  - Composite endpoint may obscure individual component effects
+
+## Bottom Line
+The early use of IVC filters in trauma has limited benefit. Individualised anticoagulation remains the preferred practice.
+
+## External Links
+- **Original article:** [A Multicenter Trial of Vena Cava Filters in Severely Injured Patients](https://www.thebottomline.org.uk/summaries/icm/ivc-filters/)
+- **Further reading:** LITFL guide to IVC filters
+- **Further reading:** PulmCrit – What is the evidence behind the IVC filter?
+```

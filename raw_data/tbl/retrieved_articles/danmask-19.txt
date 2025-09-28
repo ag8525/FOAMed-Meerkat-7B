@@ -1,0 +1,150 @@
+# Metadata
+- Source: The Bottom Line
+- Title: DANMASK-19
+- Original URL: https://www.thebottomline.org.uk/summaries/danmask-19/
+- Scrape Date: 2025-07-17
+- Summary Date: AUTO_FILL_IF_AVAILABLE
+
+Effectiveness of Adding a Mask Recommendation to Other Public Health Measures to Prevent SARS-CoV-2 Infection in Danish Mask Wearers: A Randomized Controlled Trial
+Henning Bundgaard et al. Annals of Internal Medicine November 2020; doi:https://doi.org/10.7326/M20-6817
+Clinical Question
+In adults in Denmark reported to spend three hours or more outside of the home during the early stages of the COVID-19 pandemic, did a recommendation to wear a surgical face mask, compared with no recommendation to wear a surgical face mask, reduce SARS-CoV-2 infection at one month?
+Background
+SARS-CoV-2 infection is thought to be transmitted mainly through droplet and aerosol spread
+There are a large number of observational studies suggesting that universal mask wearing reduces transmission of SARS-CoV-2 infection (
+LANCET meta-analysis)
+In countries that have mandated universal mask wearing, such as South Korea, China, Taiwan and the state of Victoria in Australia, community spread of SARS-CoV-2 has been reduced to low levels (
+Our World In Data)
+It is unclear whether wearing a surgical face mask protects the wearer from COVID-19 infection, in addition to providing source control of SARS-CoV-2 infection
+It has been postulated that wearing an unsealed face mask may reduce the viral load that the wearer is exposed to, and that this could mitigate against the severity of COVID-19 infection (
+Ghandi et al 2020
+;
+Kai et al 2020)
+The authors therefore assessed whether a recommendation to wear a surgical mask when outside the home among others reduced the wearers’ risk for SARS-CoV-2 infection
+Design
+Non-blinded randomised controlled trial
+Participants were recruited through media advertisements and contacting private companies and public organisations
+Eligible participants were randomly assigned 1:1 to the mask or control group using a computer algorithm and were stratified by the 5 regions of Denmark
+A sample size calculation determined that 6,000 participants would provide the study with 80% power to detect a 50% absolute risk reduction in SARS-CoV-2 infection (from 2% to 1%), with a significance level of 5% and assuming a 20% participant dropout rate
+A SARS-CoV-2 infection rate of 2% was estimated during the study period
+Study participants tested themselves for SARS-CoV-2 infection using finger prick testing at baseline and at one month
+Study participants were also instructed to perform an oropharyngeal/ nasopharyngeal PCR test if they became symptomatic or at one month
+Data collection was by four follow-up email surveys. These collected information on antibody test results, adherence to recommendations on time spent outside the home, development of symptoms, COVID-19 diagnosis based on PCR testing done in public hospitals, and known COVID-19 exposures
+The
+primary outcome
+was SARS-CoV-2 infection, which was a composite outcome defined as a positive result on either an oropharyngeal/nasal swab test for SARS-CoV-2 and/or development of a positive SARS-CoV-2 antibody test result (IgM or IgG) during the study period and/or a hospital-based diagnosis of SARS-CoV-2 infection or COVID-19
+Secondary end points
+included PCR evidence of infection with other respiratory viruses
+The study was
+funded through a grant
+from the Salling Foundations, with tests donated by the BESTSELLER foundation
+The study did not receive ethical approval (the authors state this was not required) and there was no involvement of a data safety and monitoring board
+Setting
+Nationwide throughout Denmark between April and June 2020 (during this time facemarks were not universally recommended in Denmark)
+Population
+Inclusion
+: Adults aged 18 years or older without current or prior symptoms or diagnosis of COVID-19 who reported being outside the home among others for at least 3 hours per day and who did not wear masks during their daily work
+Exclusion
+: Evidence of previous COVID-19 infection with positive SARS-CoV-2 antibody tests at baseline
+17,258 Danish citizens responded to recruitment and 6,024 completed the baseline survey and fulfilled eligibility criteria
+1,162 participants did not complete the study, mostly due to not finalising participation
+4,862 participants
+completed the study
+The mean age of participants was around 47 years, with more than 60% of participants being female
+80.1% of the intervention group provided antibody tests at baseline
+Baseline characteristics were similar between intervention and control groups
+Intervention
+Instructed to wear a mask
+Participants were instructed to wear a mask when outside the home during the next month
+They received 50 three-layer, disposable, surgical face masks with ear loops (TYPE II EN 14683 [Abena]; filtration rate, 98%; made in China)
+Participants were instructed to change the mask if outside the home for more than 8 hours
+Control
+Not instructed to wear a mask
+Participants were not instructed to wear surgical face masks and were not provided with face masks
+Management common to both groups
+Both groups received material and instructions for antibody testing on receipt and at 1 month
+Participants tested for SARS-CoV-2 IgM and IgG antibodies in whole blood using a point-of-care test (Lateral Flow test [Zhuhai Livzon Diagnostics]) according to the manufacturer’s recommendations:
+After puncturing a fingertip with a lancet, they withdrew blood into a capillary tube and placed 1 drop of blood followed by 2 drops of saline in the test chamber in each of the 2 test plates (IgM and IgG).
+Participants reported IgM and IgG results separately as “1 line present” (negative), “2 lines present” (positive), or “I am not sure, or I could not perform the test” (treated as a negative result)
+Both groups received materials and written and video instructions for collecting an oropharyngeal/ nasal swab sample for polymerase chain reaction (PCR) testing at 1 month and whenever symptoms compatible with COVID-19 occurred during follow-up
+A help line was available to participants
+Participants were instructed to register symptoms and results of the antibody test in online REDCap system
+They received four follow-up surveys by email to collect information on antibody test results, adherence to recommendations on time spent outside the home among others, development of symptoms, COVID-19 diagnosis based on PCR testing done in public hospitals, and known COVID-19 exposures
+Recommended Danish public health measures included quarantining persons with SARS-CoV-2 infection, social distancing (including in shops and public transportation, which remained open), limiting the number of persons seen, frequent hand hygiene and cleaning, and limiting visitors to hospitals and nursing homes
+Cafés and restaurants were closed during the study until 18 May 2020
+Outcome
+Primary outcome
+:
+SARS-CoV-2 infection
+– no significant difference
+1.8%  in the mask vs. 2.1% in the control group (Odds Ratio 0.82; 95% CI 0.54-1.23)
+For individual components of primary outcome, comparing face mask vs. control group:
+positive PCR test
+for SARS-CoV-2 infection: 0% vs. 0.2%
+health care diagnosed
+SARS-CoV-2 infection: 0.2% vs. 0.4%
+IgM antibodies
+: 1.3% vs. 1.5%, (Odds Ratio 0.87; 95% CI 0.54-1.41)
+IgG antibodies
+: 1.4% vs. 1.3% (Odds Ratio 1.07; 95% CI 0.66-1.75)
+compared with 10 participants (0.4%) in the control group
+In the
+preplanned sensitivity analysis
+excluding participants who did not provide an antibody test at baseline
+the primary outcome occurred in 1.4% in mask group vs. 1.8% in control group (Odds Ratio 0.77; 95% CI 0.49-1.22)
+Secondary outcome
+: 9 participants (0.5%) in the mask group were
+Positive for 1 or more of 11 respiratory viruses other than SARS-CoV-2
+0.5% in mask vs. 0.6% in control group (Odds Ratio 0.58; 95% 0.25-1.31)
+Authors’ Conclusions
+Our results suggest that the recommendation to wear a surgical mask when outside the home among others did not reduce, at conventional levels of statistical significance, the incidence of SARS-CoV-2 infection in mask wearers in a setting where social distancing and other public health measures were in effect
+The findings were inconclusive and cannot definitively exclude a 46% reduction to a 23% increase in infection of mask wearers in such a setting
+The findings, however, should not be used to conclude that a recommendation for everyone to wear masks in the community would not be effective in reducing SARS-CoV-2 infections, because the trial did not test the role of masks in source control of SARS-CoV-2 infection
+Strengths
+This is an important area of investigation and clinical question and the study is both timely and relevant
+A patient-centred endpoint of SARS-CoV-2 infection was used
+The trial was adequately powered to test the hypothesis and the estimated 2% COVID-19 infection rate was accurate
+Compliance with wearing face masks was assessed, which is important in a public health intervention, with 46% of participants wearing the mask as recommended and 47% predominantly as recommended
+A surprisingly high proportion of participants completed the study, particularly in view of the demand for self-monitoring and no face to face contact
+Weaknesses
+The main benefit of a surgical face mask is to protect others from droplet and aerosol spread, and not the wearer- the study was not designed to investigate this
+Whilst not a weakness per se, it is important that the findings are not misinterpreted
+Selection bias is likely to have been an issue, with a non-random sample of trial participants recruited to the study mainly through media adverts
+Participants volunteered for enrolment and it is unclear how this sample represented Danish society as a whole
+Participants were only followed up for one month, which is very short for an infection with an incubation period of 14 days
+Participants may have been infected with SARS-CoV-2 infection during the study but they did not test positive or become symptomatic during the period under surveillance
+The trial was submitted to the scientific ethics committee of the Capital Region of Denmark but did not require ethics approval, which seems unusual for a randomised controlled trial requiring blood tests on 4,800 people
+There was no oversight from a data safety and monitoring board
+Relying on participants to self-test following the development of symptoms in an unblinded study, is problematic, as is the self-reporting of results by trial participants
+No assessment was made of inter-observer variability in the performance or interpretation of the antibody or PCR tests
+A 50% reduction in SARS-CoV-2 infection seems unrealistic for a single non-pharmacological intervention:
+A sample size of roughly 35,000 would have been required to detect a 20% absolute risk reduction in infection
+A risk reduction of this magnitude could have major implications, in view of the potential for exponential spread of SARS-CoV-2 infection
+Crossover from the control to the intervention arm was not investigated nor described, other than in the survey of participant behaviour
+In view of the low prevalence of COVID-19 infection (around 2%), there may have been a large number of false positive antibody tests if the true specificity of the finger prick antibody test was anything below 98%
+Denmark had a mild first wave of COVID-19 and overall population infection rates during this period were likely significantly less than 2% of the population
+No statistical correction was made for the antibody test characteristics
+There were zero (0) confirmed PCR infections in the intervention arm. A PCR test is the gold standard for confirming the presence of SARS-CoV-2 infection
+No intention to treat analysis was performed. It is unclear what “did not finalise participation” meant and this exclusion mean that 1,000 participants did not complete the study
+Cafes and restaurants were closed in Denmark during most of the study period, so the impact of face masks in these at-risk settings was not assessed
+The Bottom Line
+This randomised unblinded trial of mask wearing in a society without a mask mandate did not demonstrate a protective  effect of masks against SARS-CoV-2 infection
+The multiple methodological flaws in this study mean that it should not guide public health policy
+No interpretation can be made about the public health impact of face masks on source control of  SARS-CoV-2 infection, which is the main justification for their use
+External Links
+[article]
+DANMASK-19
+[further reading]
+Face masks: what the data say
+[further reading]
+NEJM variolation article
+[further reading]
+REBELEM: the danmask-19 trial masks not effective to prevent covid-19 not so fast
+[further reading]
+SGEM#309: THAT’S ALL JOE ASKS OF YOU – WEAR A MASK
+Metadata
+Summary author:
+Fraser Magee
+Summary date: 19/11/2020
+Peer-review editor:
+Segun Olusanya

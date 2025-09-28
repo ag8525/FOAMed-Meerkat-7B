@@ -1,0 +1,1396 @@
+# Metadata
+- topic: 5.1 - The Pediatric Patient - CC-E174 GU and Renal
+- source_folder: 5.1 - The Pediatric Patient
+- original_file: CC-E174 GU and Renal.pdf
+
+ 
+ 
+CrackCast Show Notes – Genitourinary and Renal Tract Disorders – May 2018 
+www.canadiem.org/crackcast 
+CRACKCast E174 – Genitourinary and Renal Tract Disorders 
+ 
+Key concepts:  
+ 
+Priapism 
+• “In low-flow priapism, cavernosal aspiration plus irrigation has been effective when 
+performed within the first 48 hours, and preferably within a few hours, of symptom 
+onset. Phentolamine, phenylephrine, ephedrine, or 1:1,000,000 epinephrine can be added to 
+the irrigation solution used in performing corporal aspiration.” 
+ 
+Phimosis and Paraphimosis 
+• “Steroid cream is first-line therapy for phimosis. In paraphimosis, most can be reduced 
+utilizing a number of techniques, only in severe cases involving vascular compromise of the 
+glans penis, may a dorsal slit procedure be necessary.” 
+ 
+ 
+Testicular Torsion 
+• Delay in diagnosis and treatment can result in loss of spermatogenesis and, in severe 
+cases, a necrotic, gangrenous testis. 
+• Color Doppler ultrasonography is the test of choice, but false negatives due occur. 
+• Testicular salvage rates are 96% if detorsion is performed less than 4 hours after symptom 
+onset; with more than a 24-hour delay, the salvage rate falls to less than 10%. 
+ 
+Varicoceles 
+• Left-sided varicoceLes account for 85 to 95% of the cases. 
+• Right-sided varicoceles are often caused by inferior vena cava thrombosis or compression 
+by tumors. 
+ 
+Urinary Tract Infections 
+• In children younger than 2 years, a urinalysis alone is inadequate to rule out a urinary tract 
+infection; urinalysis yields false-negative results in 10%–50% of patients. Urine cultures 
+should be sent in children less than 2 years of age. (Cultures can also have false negatives - 
+up to 25%)  
+• Girls less than 2 years old, and boys, uncircumcised, less than 1 year, and 
+circumcised less than 6 months are at higher risk for UTIs. 
+• Children less than 2 years old should be considered to have upper tract disease and 
+receive antibiotic treatment for 7–14 days. 
+ 
+ 
+Renal Stones 
+• Renal stones are more common than ureteral stones in younger children. 
+• Older children can present with classic renal stones signs and symptoms; younger children 
+may present with more non-specific symptoms, such as malaise and non-tender abdominal 
+pain. Ultrasound should be the first–line imaging modality used in children with suspected 
+renal stones. 
+ 
+Poststreptococcal Glomerulonephritis 
+• Patients will present with a history of a pharyngeal or skin infection in the previous 2–6 
+weeks; clinical findings are usually limited to the urinary tract including hematuria, flank pain 
+or sometimes generalized edema. 
+• Diagnostic testing will show blood, protein, and RBC casts in the urine; evidence of renal 
+dysfunction (elevated BUN) and low complement levels will also be found. 
+• Treatment includes restricting fluid and diuretics for more significant disease. 
+ 
+ 
+ 
+CrackCast Show Notes – Genitourinary and Renal Tract Disorders – May 2018 
+www.canadiem.org/crackcast 
+Nephrotic Syndrome 
+• Albumin and immunoglobulin levels are typically both decreased in nephrotic syndrome. 
+• Clinical signs include periorbital edema, weight gain, and more serious signs such as 
+pulmonary edema or ascites. 
+• Children with nephrotic syndrome are at increased risk for thrombosis and bacterial 
+infections, especially Streptococcus and E.coli. 
+• Treatment includes corticosteroids and diuretics. 
+ 
+ 
+Henoch-Schönlein Purpura (HSP) 
+• HSP is an immunoglobulin A-mediated systemic vasculitis that involves the skin, GI tract, 
+joints, and kidneys. 
+• Urinalysis may be positive for blood and RBC casts. 
+• Corticosteroids can be useful for severe abdominal pain. 
+ 
+Hemolytic-Uremic Syndrome (HUS) 
+• HUS is a microangiopathic hemolytic anemia found in young children. In the U.S., it is 
+typically related to Shiga-toxin producing E.coli (STEC), presenting with abdominal pain and 
+bloody diarrhea. Streptococcus pneumoniae has also been implicated. 
+• Renal vascular endothelium injury results in renal insufficiency and damage to RBCs; 
+glomerular damage occurs due to platelet, complement, and fibrin deposits. 
+• Peripheral smear will show damaged RBCs and typically thrombocytopenia; renal 
+involvement ranges from hematuria to elevated BUN and creatinine. 
+• Stool cultures and Shiga toxin testing should be sent in diarrhea-associated cases. 
+• Antibiotics are not indicated in HUS unless a concurrent presumptive pneumococcal 
+infection such as pneumonia is present. 
+ 
+Core questions:  
+ 
+1. List a DDx for priapism  and describe treatment 
+2. Describe the management of a paraphimosis. 
+3. Describe the management of a phimosis. 
+4. What is the pathophysiology of balanoposthitis? What is the most common 
+bug in balanoposthitis?  
+5. How is balanoposthitis managed? 
+6. Describe the diagnosis and management of pediatric epididymitis and Orchitis 
+7. Describe the diagnosis and management of testicular torsion 
+8. List common bacteria in peds UTI and describe treatment <2 months, 2M-2Y, 
+2Y+. 
+9. List 6 ddx renal mass – how should these be imaged first? 
+10. Give a differential diagnosis of proteinuria in children. 
+11. What is the most common cause of proteinuria in children? 
+12. Provide a differential diagnosis of acute renal failure in children. What is the 
+most common cause? 
+13. Describe the clinical presentation of glomerulonephritis in a child. 
+14. Define hypertension in a child. 
+15. List causes of hypertension in a child. 
+16. Llist 2 medical treatments for acute HTN crisis in children  
+17. What are the two types of HUS? What are the typical presenting features? 
+18. Describe the management of HUS and HSP in kids 
+ 
+ 
+ 
+ 
+ 
+CrackCast Show Notes – Genitourinary and Renal Tract Disorders – May 2018 
+www.canadiem.org/crackcast 
+Wisecracks:  
+ 
+1. List three complications of circumcision. 
+2. Describe approaches to penile entrapment and tourniquet states.  
+3. Which side is a varicocele concerning and why? 
+4. Other than cystitis and pyelonephritis, list 6 other causes of pediatric dysuria 
+5. List 10 ddx hematuria in peds 
+6. List 5 false indicators of hematuria (review!)  
+7. List 6 causes of nephrotic syndrome in peds 
+8. List 5 complications of acute renal failure in children.  
+9. How does e. coli cause HUS? Which strain of e. coli is the concerning one? 
+ 
+ 
+ 
+ 
+Core questions:  
+ 
+[1] List a DDx for priapism  and describe treatment.  
+ 
+Priapism is the engorgement of the dorsal corpora cavernosa, resulting in dorsal penile 
+erection lasting more than 4 hours.  
+ 
+Three main types:  
+● Low flow (ischemic, painful!!!, “limb” threatening!)  
+○ Sickle cell disease (>50% of pts with SSD have at least one episode) 
+○ Malignancy (lymphoma; leukemia)  
+○ Medications 
+○ Cocaine / drugs of abuse 
+● High flow (non-ischemic, not painful, scary!) 
+○ Trauma, AVM, congenital disease 
+● Neurogenic (penis not threatened - harbinger of spinal cord injury)  
+ 
+Low-flow (also called anoxic or veno-occlusive) priapism is the most common form and 
+occurs secondary to decreased venous outflow.  
+ 
+Stuttering priapism is recurrent episodes of ischemic priapism, most lasting less than 4 
+hours. Episodes may increase in frequency and duration, with potential to develop into 
+a major episode.  
+ 
+High-flow (also called arterial or congenital) priapism is usually painless and is typically 
+associated with trauma to the cavernosal artery, congenital anomaly, or fistula, resulting 
+in excessive inflow of arterial blood and corporal engorgement. Oxygenation is maintained 
+and emergent intervention is not typically necessary.  
+ 
+Neurogenic priapism is not related to blood flow occlusion. 
+ 
+Other causes of priapism include immunosuppressive disorders, medications (SSRIs) drugs 
+of abuse, and toxin exposure. 
+ 
+Complications include penile fibrosis, urinary retention, and impotence. 
+ 
+ 
+ 
+ 
+ 
+CrackCast Show Notes – Genitourinary and Renal Tract Disorders – May 2018 
+www.canadiem.org/crackcast 
+Diagnosis:  
+● In undifferentiated cases, a corporal cavernosal blood gas may differentiate the type 
+of priapism, ischemic versus nonischemic, 
+● DDX: The differential diagnosis for priapism in children differs from that in adults. 
+Penile erection from sexual arousal, erectile dysfunction medication, urethral foreign 
+bodies, Peyronie’s disease, spinal cord injury, and penile implants occur more 
+commonly in adults than children. 
+ 
+ 
+ 
+MANAGEMENT:  
+ 
+LOW FLOW 
+ 
+***draw an ABG off the dorsal penis: if pH <7.25, PaCO2> 60, Pa02 < 30, and dark 
+coloured blood = LOW flow*** 
+ 
+ 
+○ Akin to COMPARTMENT SYNDROME OF THE PENIS 
+■ hydration,  
+■ pain control,  
+■ relief of urinary obstruction,  
+■ and treatment of underlying conditions.  
+ 
+Local anesthesia by a dorsal nerve block or ring block should be performed prior to 
+(1) aspiration, followed by (2) intracavernous injection (ICI) of sympathomimetic drugs 
+(phenylephrine preferred).  
+ 
+Remember = 2 and 10 o’clock are safe zones!  
+ 
+If no effect with 1 mL of dilute phenylephrine q 5 min after 1 hour, urology may 
+consider placement of a surgical shunt.  
+ 
+To perform aspiration, place an 18-gauge angiocatheter (smaller in young children) 
+percutaneously into the lateral aspect of the penile shaft entering the corpus cavernosum. 
+Aspirate and evacuate blood from the corpora cavernosa. Next, irrigate with normal saline 
+(NS) or in combination with an ICI of an α-adrenergic sympathomimetic agent. Instill 1 mL of 
+dilute phenylephrine 
+ 
+(100–500 μg phenylephrine/mL of NS) into the corpus cavernosum every 3 to 5 minutes for 
+up to 1 hour.  
+ 
+If these measures fail to resolve the priapism, emergent urologic consultation should be 
+obtained for possible surgical shunt placement.  
+ 
+Prolonged episodes (>48 hours) are associated with a high likelihood of erectile dysfunction, 
+irrespective of clinical management. Treatment in nonischemic priapism is observation, 
+because over two-thirds of cases resolve spontaneously. Refractory cases may require 
+cavernosal artery embolization or arterial ligation, although those procedures have high 
+complication rates. Stuttering priapism has no evidence-based preventive treatment. 
+ 
+ 
+ 
+HIGH FLOW / NEUROGENIC 
+● Observation  
+ 
+ 
+CrackCast Show Notes – Genitourinary and Renal Tract Disorders – May 2018 
+www.canadiem.org/crackcast 
+● Refractory cases need cavernosal artery surgery 
+ 
+ 
+TABLE173.1 Pathophysiologic Criteria of Priapism (Rosen’s 9th Ed.)  
+ 
+VARIANT 
+PENILE BLOOD 
+APPEARANCE 
+PENILE ARTERIAL 
+BLOOD GAS 
+FINDINGS 
+COLOR DUPLEX 
+ULTRASONOGRAPHY 
+FINDINGS 
+Ischemic 
+priapism 
+Corpus cavernosum 
+testing—blood 
+hypoxic, dark in 
+color 
+Blood gases 
+ 
+1. • 
+PaO2 < 30 mm Hg 
+2. • 
+PaCO2 > 60 mm Hg 
+3. • 
+pH < 7.25 
+Minimal or absent blood 
+flow 
+Nonischemic 
+priapism 
+Corpus cavernosum 
+testing—blood is 
+oxygenated, red 
+Blood gases 
+ 
+ 
+PaO2 > 90 mm Hg 
+ 
+PaCO2 < 40 mm Hg 
+ 
+pH = 7.40 (similar to 
+normal arterial 
+blood) 
+Blood flow normal to high 
+in velocity 
+Stuttering 
+(recurrent) 
+priapism 
+Corpus cavernosum 
+testing—blood 
+hypoxic, dark in 
+color 
+Blood gases 
+ 
+PaO2 < 30 mm Hg 
+ 
+PaCO2 > 60 mm Hg 
+ 
+pH < 7.25 
+Minimal or absent blood 
+flow during acute priapism; 
+normal blood flow 
+otherwise 
+ 
+ 
+ 
+[2] Describe the management of a paraphimosis. 
+ 
+ALWAYS A PROBLEM 
+ 
+● Proximal foreskin cannot be returned to its anatomic position covering the 
+glans penis, resulting in distal venous congestion.  
+ 
+Paraphimosis 
+● can be caused by infection, masturbation, trauma, hair or clothing tourniquets, 
+or failure to reduce the foreskin after a medical examination or procedure.  
+ 
+Paraphimosis is a urologic emergency with potential for arterial compression, penile 
+necrosis, gangrene, and/or autoamputation. Hair tourniquet can mimic paraphimosis in 
+the circumcised male.  
+ 
+ 
+ 
+ 
+ 
+CrackCast Show Notes – Genitourinary and Renal Tract Disorders – May 2018 
+www.canadiem.org/crackcast 
+Management:  
+1. Pain control:  
+a. topically, parenterally, and/or with a local dorsal penile nerve block or 
+ring block or procedural sedation. 
+2. Firm compression / methods to reduce edema 
+a. Firm ACE wrap on the penis to encourage venous outflow 
+b. Parent’s hand holding constant pressure on the penis 
+c. placing the finger of a rubber glove filled with ice water over the glans 
+and foreskin, sprinkling granulated sugar over the edematous tip, and 
+injection of hyaluronidase into the edematous prepuce. 
+3. Reduction 
+a. Manual reduction using index fingers and thumbs (see figure in text) 
+b. Needle fenestration 
+i. 
+edematous foreskin may be punctured several times circumferentially 
+with a 25-gauge needle to decrease edema further. 
+c. Dorsal band traction  
+i. 
+Dorsal band traction can be performed with Adson forceps applied 
+directly to the band formed by the retracted foreskin and application of 
+traction and countertraction to loosen the constriction. 
+d. Dorsal slit procedure 
+i. 
+An emergency dorsal slit should be performed when these measures 
+fail to reduce the paraphimosis. Two straight hemostats are applied to 
+crush the foreskin at the 12 o’clock position perpendicular to the 
+corona. After 2 minutes, the prepuce between the hemostats is 
+sharply incised, releasing the constricting band of tissue. The incisions 
+are approximated with 4-0 absorbable sutures. Circumcision should 
+be performed at a later date. 
+ 
+Follow up - with urology if child is able to urinate. If there are any signs of 
+cellulitis/ischemia/necrosis or the child is unable to urinate they should be admitted.  
+ 
+ 
+[3] Describe the management of a phimosis. 
+ 
+USUALLY NOT A PROBLEM 
+ 
+Inability to retract the foreskin in a patient where it was previously retractable.  
+ 
+Phimosis is a constriction of the foreskin that prevents retraction of the prepuce from the 
+glans. Most cases are physiologic, represent normal development, and do not require 
+intervention. 
+ 
+Four percent of newborns, 25% of 6-month-olds, 50% of 1-year-olds, 80% of 2-year-olds, 
+and 90% of 4-year-old boys have fully retractable foreskins. Trauma, infections, 
+chemical irritation, poor hygiene, congenital abnormality, or a complication of 
+circumcision may contribute to the development of phimosis. 
+ 
+On history ask about:  
+● Pain, “ballooning” of the foreskin, urinary sprinkler/spray 
+ 
+Management:  
+● Without glans ischemia/infarction: (able to urinate, no signs of infection) 
+○ Gentle retraction and good hygiene are mainstays of management. 
+Retraction of the prepuce should not be forced, because this can lead to 
+ 
+ 
+CrackCast Show Notes – Genitourinary and Renal Tract Disorders – May 2018 
+www.canadiem.org/crackcast 
+future adhesions and strictures. A 6- to 8-week course of topical 
+corticosteroids (eg, 0.1% triamcinolone topical cream), applied to the 
+outlet twice daily, may expedite the development of retractable foreskin. 
+● WITH ischemia/infarction:  
+○ dorsal slit procedure, circumcision, preputial plasty, or balloon dilation 
+may be necessary. Obstructive uropathy can occur secondary to severe 
+stenosis. 
+ 
+ 
+[4] What is the pathophysiology of balanoposthitis? What is 
+the most common bug in balanoposthitis?  
+ 
+Balanoposthitis, an inflammation that involves the glans and foreskin, occurs in 
+approximately 5% of uncircumcised males. 
+ 
+Balanitis involves the glans penis only. 
+ 
+Balanoposthitis is usually secondary to poor hygiene, infection (bacterial and fungal), 
+contact dermatitis, chemical irritation, or local trauma. Less commonly, a drug 
+eruption, scabies infection, sexually transmitted infection (STI; eg, human 
+papillomavirus [HPV], herpes), or nummular eczema may cause inflammation.  
+ 
+Infectious organisms are gram-negative and gram-positive, including group A beta 
+hemolytic streptococci and, rarely, Neisseria gonorrhoeae and Chlamydia. 
+ 
+Canadia - is the most common fungal cause.  
+ 
+Bacterial causes: In a study of uncircumcised children, the most common organisms 
+found by age were E. coli (ages 0 to 2 years), enterococci (ages 3 to 6 years), and 
+Staphylococcus aureus and group A beta-hemolytic streptococci (ages 7 to 12 years) 
+[17]. (Uptodate) 
+ 
+Physical examination reveals penile erythema, edema, and occasionally discharge. 
+Streptococcal balanoposthitis is characterized by a fiery red surface and moist exudate 
+under the prepuce. The patient may have a concomitant or recent streptococcal infection in 
+other locations. Candidal balanoposthitis is associated with generalized erythema, fissuring, 
+eroded papules, and a whitish discharge. Characteristic satellite lesions may be present. 
+ 
+ 
+[5] How is balanoposthitis managed? 
+ 
+1. Avoid irritants  
+2. Warm sitz baths 
+a. May help to have child urinate in the bathtub  
+3. Good hygiene  
+4. Control inflammation/infection 
+a. Topical antibiotics 
+b. Topical antifungals 
+c. Topical corticosteroids for contact dermatitis  
+i. 
+Topical corticosteroids (eg, hydrocortisone, 0.5%–1%) may help 
+inflammation due to contact irritation. Candidal infections should be 
+treated topically with antifungals (eg, clotrimazole, miconazole, nystatin). 
+A blood glucose test should be considered in patients presenting with 
+recurrent candidal balanoposthitis. 
+ 
+ 
+CrackCast Show Notes – Genitourinary and Renal Tract Disorders – May 2018 
+www.canadiem.org/crackcast 
+d. Systemic abx for severe infections / STIs 
+ 
+ 
+[6] Describe the diagnosis and management of pediatric 
+epididymitis and orchitis 
+ 
+Epididymitis:  
+● Etiology varies by age and presence of structural abnormalities  
+● Pre-adolescence:  
+○ Usually viral 
+○ Bacterial causes are rare and occur with structural abnormalities  
+● Adolescent:  
+○ Consider STI’s as a cause 
+○ A urethral discharge may be present, particularly when the condition is 
+secondary to an STI. 
+ 
+Patients present with a painful edematous scrotum and tenderness at the epididymis. 
+Nausea, vomiting, fever, and lower abdominal, scrotal, or testicular pain may be 
+present. Infants and young children may present with isolated fever. 
+ 
+ 
+Diagnosis:  
+● U/A +/- culture 
+● Capture first void and wait for results if suspicious of STI  
+● Consider your ddx:  
+ 
+Lack of pyuria does not rule out epididymitis; up to 50% of patients have normal 
+urinalysis.  
+ 
+Ultrasonography may be indicated in undifferentiated cases to exclude torsion. Increased 
+vascular flow toward the side of the inflamed epididymis may be seen. 
+ 
+ 
+Management:  
+Scrotal elevation, ice packs to the scrotal area, and pain medications are useful to 
+control pain and inflammation.  
+ 
+ 
+Sexually active:  
+● If urethral discharge is present, sexually active adolescents should be treated 
+presumptively for both N. gonorrhoeae and C. trachomatis. Ceftriaxone (250 mg 
+intramuscularly) and doxycycline (100 mg bid for 10 days) is preferred treatment. To 
+increase compliance, azithromycin (1 g once) may be used instead of doxycycline, 
+although there are little data on the use of azithromycin for chlamydial epididymitis. 
+Follow-up for resolution of symptoms should occur if azithromycin used.  
+● In children, non–sexually acquired epididymitis without evidence of a urinary 
+tract infection may be managed expectantly without antibiotics. 
+●  Infants with or without positive findings on urinalysis and young children with 
+positive urinalysis findings may be treated with cephalexin tid if a bacterial 
+urinary tract infection is suspected. 
+ 
+ 
+ 
+ 
+ 
+ 
+CrackCast Show Notes – Genitourinary and Renal Tract Disorders – May 2018 
+www.canadiem.org/crackcast 
+Orchitis: 
+ 
+● Usually viral or bacterial testicular infection 
+● Sx:  
+○ Tenderness, edema, swelling, discolouration of the scrotum 
+○ If there is urethral discharge think of epididymo-orchitis  
+○ Causes:  
+■ Paramyxovirus is most common, associated with mumps. Other 
+causes include Escherichia coli, Klebsiella pneumoniae, 
+Pseudomonas aeruginosa, Staphylococcus or Streptococcus spp., 
+Epstein-Barr virus, coxsackievirus, arbovirus, enterovirus, Brucella, 
+granulomatous disease, and filariae. 
+ 
+● Treatment:  
+○ Treatment of viral orchitis is aimed at pain control (scrotal elevation, 
+nonsteroidal antiinflammatory drugs [NSAIDs], and possibly narcotics).  
+○ Bacterial:  
+■ Cover for gram-negative bacteria (eg, a third-generation 
+cephalosporin).  
+■ urologist should be urgently consulted for a scrotal or testicular 
+abscess. 
+ 
+ 
+[7] Describe the diagnosis and management of testicular 
+torsion 
+ 
+Key points:  
+● Can occur at any age - most commonly 12-18 yrs 
+● Time sensitive dx! 10% salvage rate at 24 hrs! 
+ 
+Diagnosis:  
+● Hx: acute constant scrotal pain, swelling, high riding testicle, with nausea and 
+vomiting.  
+○ acute scrotal pain and swelling, an elevated testicle and, typically, absence of 
+the cremasteric reflex. This reflex can be demonstrated by lightly stroking the 
+skin of the inner thigh downward from the hip toward the knee.  
+■ The cremaster muscle on the ipsilateral side rapidly contracts and 
+elevates the testicle.Although absent in the vast majority of cases, the 
+presence of the cremasteric reflex does not preclude testicular 
+torsion. 
+○ Abnormal (high-riding and transverse) epididymal and testicular 
+position may also be noted, with left-sided torsions slightly more common 
+than right.  
+○ Pain is typically constant, and the patient may have a history of a similar prior 
+episode. Up to 90% of patients have associated nausea and vomiting.  
+○ Cryptorchidism (one or both testes are undescended) increases the risk of 
+torsion and may present with abdominal or inguinal pain. Familial history and 
+recent trauma may increase the risk of torsion 
+● Imaging:  
+○ Emergent doppler ultrasonography of both testicles and spermatic 
+cords.  
+■ 85-95% sensitivity  
+ 
+Management:  
+ 
+ 
+CrackCast Show Notes – Genitourinary and Renal Tract Disorders – May 2018 
+www.canadiem.org/crackcast 
+ 
+● Immediate surgery - ideally no more than 12 hrs from onset of symptoms 
+○ Surgery should not be delayed while waiting for ultrasound 
+○ Followed by elective orchiopexy of the contralateral side to avoid recurrence. 
+● Bedside manual detorsion may be performed with analgesia if operative repair 
+is delayed. The testicle is rotated in an open book fashion as viewed from 
+below, from medial to lateral, until detorsion is complete.  
+○ Torsion may cause ischemia at 180 degrees of rotation but typically occurs 
+with 360 degrees of twisting. Up to one-third of patients may torse 
+laterally; in these cases, manual reduction worsens torsion and its 
+symptoms, and the procedure should be halted. 
+● In causes where the testicle is no longer viable - an elective orchiectomy may be 
+performed 
+ 
+Note: Both the appendix of the testis and appendix of the epididymis can torse, 
+although the former is much more common. Patients with appendiceal torsion present with 
+moderate pain of sudden onset localized to the involved hemiscrotum. The pathognomonic 
+blue dot sign (<3 mm bluish hue in the upper lateral hemiscrotum—a cyanotic 
+appendage) is present in less than 25% of cases. Color Doppler ultrasound should be 
+performed when the diagnosis is uncertain and will reveal normal or increased flow to 
+the affected testicle. 
+ 
+Conservative therapy with analgesics and scrotal support is indicated; the involved 
+appendage undergoes autoamputation within 1 week, accompanied by resolution of 
+symptoms. 
+ 
+Testicular salvage rates are time-dependent. Nearly 100% of testes can be saved if detorsed 
+within 4 hours of symptom onset. This decreases to less than 10% if there is more than a 24-
+hour delay to treatment.  
+ 
+If the tunica completely covers the testis and attaches higher up on the spermatic cord (bell 
+clapper deformity), proper testicular fixation does not occur, and there is a predisposition to 
+torsion. See Figure 173.9.  
+ 
+A hydrocele is a collection of fluid that accumulates in the tunica vaginalis. Communicating 
+hydroceles have an open tract between the peritoneum and scrotum. Infants - likely 
+primary hydrocele. Older kids and teens - look for a secondary cause.  
+ 
+In older children and adolescents, they may occur secondary to epididymitis, orchitis, 
+testicular torsion, appendix testis or epididymis torsion, trauma, or tumor. Examination with 
+transillumination reveals enlargement of the scrotum. Color flow Doppler ultrasonography 
+may be necessary to determine the cause of the hydrocele and exclude an acute 
+pathologic process in patients with acute symptoms of pain. 
+ 
+Girls (esp. Infants that are premature) are more likely to have inguinal hernias that 
+become incarcerated. Concomitant ovarian torsion may occur with inguinal hernias and 
+should be suspected with continued irritability after successful hernia reduction. 
+ 
+ 
+[8] List common bacteria in peds UTI and describe treatment 
+<2 months, 2M - 2 Yrs, > 2 Yrs.  
+ 
+Neonatal boys are more susceptible to UTI’s than girls but, beyond that, females are 
+at higher risk. 
+ 
+ 
+CrackCast Show Notes – Genitourinary and Renal Tract Disorders – May 2018 
+www.canadiem.org/crackcast 
+ 
+ 
+< 2 months 
+E coli 
+ 
+Klebsiella  
+ 
+Other pathogens  
+Infants younger than 2 months 
+are more at risk for sepsis. 
+ 
+● Most require admission 
+and broad spectrum IV 
+abx (ampicillin and 
+cefotaxime) 
+● Rosen’s suggests that 
+some 29-60 day olds may 
+be managed as 
+outpatients if well - but 
+this doesn’t seem 
+common in our practice  
+● The CPS statement 
+doesn’t comment on this 
+specifically  
+***up to 50% of UTI’s 
+< 3 months are 
+associated with 
+bacteremia! These 
+kids should be 
+considered for a 
+FSWU 
+ 
+ 
+2 months - 2 
+yrs 
+E. coli!  
+ 
+Other pathogens 
+include 
+Enterobacter, 
+Proteus, 
+Morganella, 
+Serratia, and 
+Salmonella spp. 
+ 
+PO abx for 7-10 days.  
+ 
+PO options:  
+● Cefixime (drug of choice 
+for first febrile UTI)  
+● Amoxicillin  
+● Clavulin  
+● Cephalexin  
+See list below for more.  
+ 
+IV options:  
+● Ampicillin and 
+ceftriaxone  
+ 
+UTIs in this age group are 
+considered to be upper tract 
+disease processes, a 7- to 10-
+day course is recommended 
+Oral abx is the best 
+option for well 
+appearing children 
+who are able to 
+receive and tolerate 
+every dose and 
+have good follow up 
+(tough in children < 
+6 months of age)  
+ 
+ 
+No macrobid  
+ 
+Need an outpatient 
+bladder, ureters, 
+kidney ultrasound 
+to exclude 
+structural 
+abnormalities  
+> 2 yrs 
+E coli, and others 
+(see above) 
+3-day course of antibiotics, 
+such as cephalexin or 
+amoxicillin-clavulanate for 
+cystitis.  
+ 
+7-14 days for pyelonephritis.  
+ 
+Avoid fluoroquinolones  
+ 
+ 
+ 
+ 
+ 
+ 
+CrackCast Show Notes – Genitourinary and Renal Tract Disorders – May 2018 
+www.canadiem.org/crackcast 
+Amoxicillin 
+50 mg/kg/day (divided in three doses) 
+Amoxicillin/clavula
+nate 
+(7:1 formulation) 40 mg/kg/day (divided in three doses) 
+Co-trimoxazole 
+8 mg/kg/day of the trimethoprim component, divided in two doses 
+(0.5 mL/kg/dose) 
+Cefixime 
+8 mg/kg/day (given as a single dose) 
+Cefprozil 
+30 mg/kg/day (divided in two doses) 
+Cephalexin 
+50 mg/kg/day (divided in four doses) 
+Ciprofloxacin* 
+30 mg/g/day (divided in two doses) (only for post-pubertal kids)  
+ 
+ 
+Check out for more:  
+● https://pedscases.com/cps-statement-urinary-tract-infections 
+● https://www.cps.ca/en/documents/position/urinary-tract-infections-in-children 
+ 
+ 
+Complicated UTI (CPS Statement)  
+• 
+Hemodynamically unstable  
+• 
+Elevated Creatinine  
+• 
+Bladder or abdominal mass  
+• 
+Poor Urine Flow  
+• 
+Not improving clinically within 24h of starting treatment  
+• 
+Fever after 48h of antibiotics.  
+• 
+Treatment should include IV antibiotics and a renal and bladder ultrasound should 
+be performed to look for obstruction or abscess.  
+ 
+ 
+ 
+CrackCast Show Notes – Genitourinary and Renal Tract Disorders – May 2018 
+www.canadiem.org/crackcast 
+ 
+[9] List 6 ddx renal mass – how should these be imaged first? 
+ 
+Three things: hydronephrosis; cystic masses; solid masses  
+ 
+● cystic lesions, such as those of polycystic kidney disease, or benign cystic 
+nephroma  
+● severe hydronephrosis resulting from obstruction or severe reflux.  
+● Solid masses:  
+○ Wilms’ tumor, neuroblastoma, renal cell carcinoma, mesoblastic 
+nephroma, and cystic neuromas, malignant rhabdoid tumour  
+ 
+Start with ultrasound!  
+ 
+ 
+[10] Give a differential diagnosis of proteinuria in children. 
+ 
+First determine (using dipstick or U/A) whether it’s mild or moderate.   
+ 
+Patients with moderate proteinuria (≧3+; equivalent to ≧300 mg/dL) 
+should have additional testing, including the total serum protein, 
+albumin, electrolyte, BUN, and creatinine levels, and urine culture. 
+ 
+Also, try to add on a random urine protein-to-creatinine ratio.  
+ 
+A urine Pr/Cr more than 3.0 mg/dL correlates to nephrotic syndrome. Children with elevated 
+urine Pr/Cr levels should be referred to a nephrologist for a 24-hour urine collection for 
+protein. 
+ 
+Consider adding on an antistreptolysin O (ASO) titer can identify a previous 
+streptococcal infection as the cause of the proteinuria. (PSGN)  
+ 
+Causes outside of trace/mild proteinuria: think glomerular vs. tubular.  
+ 
+Glomerular causes include nephrotic syndrome, glomerulonephritis, and posttransplantation 
+rejection. Transient causes of altered glomerular function include exercise, extreme cold or 
+heat, fever, seizures, and stress.  
+ 
+Tubular causes of proteinuria include heavy metal poisoning, urinary tract infections, and 
+diabetes, as well as an asymptomatic tubular proteinuria. 
+ 
+ 
+ 
+[11] What is the most common cause of proteinuria in 
+children? 
+ 
+Usually we see trace or mild proteinuria (< 100 mg/dL):  
+ 
+Trace to mild proteinuria (1+ to 2+) is a common laboratory finding in young children 
+and can represent benign conditions, such as exercise or mild dehydration or urinary 
+tract inflammation/infection (cystitis)  
+ 
+ 
+ 
+ 
+CrackCast Show Notes – Genitourinary and Renal Tract Disorders – May 2018 
+www.canadiem.org/crackcast 
+Mild proteinuria (≦2+; equivalent to ≦100 mg/dL) requires no further investigation. 
+Evidence of a UTI, such as WBCs or a positive leukocyte esterase or nitrite level, 
+should be treated. 
+ 
+Causes outside of trace/mild proteinuria: think glomerular vs. tubular.  
+ 
+The #1 cause would be post-infectious (IgA nephropathy or PSGN)  
+ 
+Glomerular causes include nephrotic syndrome, glomerulonephritis, and posttransplantation 
+rejection. Transient causes of altered glomerular function include exercise, extreme cold or 
+heat, fever, seizures, and stress.  
+ 
+Tubular causes of proteinuria include heavy metal poisoning, urinary tract infections, and 
+diabetes, as well as an asymptomatic tubular proteinuria. 
+ 
+ 
+[12] Provide a differential diagnosis of acute renal failure in 
+children. What is the most common cause? 
+ 
+Most common: prerenal AKI secondary to volume depletion.  
+ 
+Box 173.3: Cause of Acute Renal Failure in Children 
+ 
+Prerenal 
+1. Decreased intravascular volume or dehydration 
+• 
+Burns or hemorrhage 
+• 
+Third spacing 
+• 
+Sepsis 
+2. Decreased cardiac output 
+• 
+Cardiac shock 
+3. Decreased renal artery blood flow 
+Intrarenal 
+1. Glomerular disease 
+• 
+Poststreptococcal and other glomerulonephritis 
+• 
+Pyelonephritis 
+2. Systemic causes 
+• 
+Hemolytic-uremic syndrome 
+• 
+Henoch-Schönlein purpura or other vasculitides 
+• 
+Systemic lupus erythematosus 
+• 
+Sepsis or other causes of prolonged decreased perfusion 
+3. Toxins 
+• 
+Heavy metal poisonings, such as lead and gold 
+• 
+Myoglobin or hemoglobin deposits 
+• 
+Antibiotics such as aminoglycosides 
+• 
+Anticonvulsants such as phenytoin 
+• 
+Radiocontrast dyes 
+Postrenal 
+1. Obstructive lesions 
+2. Nephrolithiasis or tumor 
+3. Posturethral valves 
+4. Intra-abdominal tumor obstructing urinary flow 
+5. Infection 
+6. Renal vein thrombosis 
+ 
+ 
+CrackCast Show Notes – Genitourinary and Renal Tract Disorders – May 2018 
+www.canadiem.org/crackcast 
+[13] Describe the clinical presentation of glomerulonephritis in 
+a child. 
+ 
+Here we are classically thinking about “PSGN” 
+ 
+Poststreptococcal glomerulonephritis (PSGN) is one of the most common 
+glomerulonephritides. PSGN is a sequelae of streptococcal pharyngitis and, less 
+commonly, streptococcal skin infections. 
+ 
+PSGN is believed to result from the deposition of circulating immune complexes in the 
+kidney. How those immune complexes develop is not completely understood. These 
+immune complexes result in decreased glomerular filtration, allowing proteins to flow 
+freely into the urine. 
+ 
+But taking a step back and considering the host of other causes of glomerulonephritis 
+- think about the GU system, and then don’t forget to consider systemic diseases that 
+could lead to GN (e.g. lupus rash, Goodpasture's presenting with chest pain and 
+hemoptysis)  
+ 
+Urinalysis will show significant blood and protein, with RBC casts in 60% of cases. Other 
+findings may include pyuria, with granular or hyaline casts. 
+ 
+ 
+[14] Define hypertension in a child. 
+ 
+systolic or diastolic blood pressure 
+higher than 2 standard deviations (SDs) above the mean for age 
+and gender 
+ 
+Table 173.2: Blood Pressure Limits in Children  
+ 
+AGE (yr) 
+BLOOD PRESSURE: UPPER LIMIT (mm Hg) 
+Systolic 
+Diastolic 
+0–2 
+110 
+65 
+3–6 
+120 
+70 
+7–10 
+130 
+75 
+1–15 
+140 
+80 
+ 
+ 
+ 
+[15] List causes of hypertension in a child. 
+ 
+Big list!  
+● Primary (dx of exclusion in kids!)  
+● Secondary 
+○ Think through broad categories: 
+■ Cardiac 
+■ Vascular  
+■ Endocrine 
+■ Renal  
+ 
+ 
+CrackCast Show Notes – Genitourinary and Renal Tract Disorders – May 2018 
+www.canadiem.org/crackcast 
+■ Drug related 
+ 
+Let's go through a few for each.  
+ 
+ 
+Box 173.4: Causes of Hypertension in Children 
+ 
+Primary 
+1. Essential hypertension 
+ 
+Secondary 
+ 
+Renal 
+1. Glomerulonephritis 
+2. Henoch-Schönlein purpura 
+3. Pyelonephritis 
+4. Obstruction or reflux 
+5. Polycystic kidney disease 
+6. Diabetic nephropathy 
+7. Trauma 
+8. Renal transplant or hemodialysis 
+9. Tuberous sclerosis 
+10. Systemic lupus nephritis 
+Endocrine 
+1. Pheochromocytoma 
+2. Cushing’s syndrome 
+3. Congenital adrenal hyperplasia 
+4. Corticosteroid treatment 
+5. Hyperthyroidism 
+6. Neuroblastoma 
+7. Ovarian tumor 
+Cardiac 
+1. Congestive heart failure 
+2. Coarctation of the aorta 
+Vascular 
+1. Hemolytic-uremic syndrome 
+2. Kawasaki syndrome 
+3. Renal artery thrombosis or stenosis 
+Neurologic 
+1. Central nervous system tumor or infection 
+2. Central nervous system trauma or abuse 
+3. Increased intracranial pressure 
+4. Guillain-Barré syndrome 
+Neoplastic 
+1. Neuroblastoma 
+2. Wilms’ tumor 
+3. Pheochromocytoma 
+4. Adrenal carcinoma 
+Drugs 
+1. Corticosteroids 
+2. Cocaine 
+3. Sympathomimetics 
+4. Oral contraceptives 
+5. Phencyclidine 
+6. Beta-blocker or clonidine withdrawal 
+ 
+ 
+CrackCast Show Notes – Genitourinary and Renal Tract Disorders – May 2018 
+www.canadiem.org/crackcast 
+7. Lead, mercury 
+Others 
+1. Iatrogenic fluid overload 
+2. Volume overload from end-stage renal disease 
+ 
+ 
+ 
+ 
+[16] Llist 2 medical treatments for acute HTN crisis in children  
+ 
+Rare!  
+ 
+Kids < 10 yrs: BP > 160/105 - hunt for the signs of end organ damage! 
+Kids > 10 yrs: BP > 170/110 - go looking!  
+ 
+Big list to choose from; here’s two. (you may have other drugs easily accessible at 
+your hospital)  
+ 
+Goal is a 10-20% reduction in hours.  
+ 
+● Labetalol  
+● Hydralazine  
+ 
+Children with hypertensive emergencies have evidence of end organ damage, including 
+acute neurologic changes or encephalopathy, pulmonary edema, myocardial ischemia, and 
+proteinuria. The electrocardiogram may show signs of ischemia or ventricular 
+hypertrophy. Chest radiography may reveal cardiomegaly or pulmonary edema. 
+ 
+Isolated headache is not considered a sign of hypertensive emergency.  
+ 
+ 
+See Table 173.3 For additional info on treatment of hypertensive emergency.  
+ 
+ 
+ 
+[17] What are the two types of HUS? What are the typical 
+presenting features? 
+ 
+1. Primary - atypical HUS 
+2. Secondary HUS 
+ 
+Primary results from complement dysregulation.  
+ 
+Secondary is a post-infectious/drug/idiopathic phenomenon.  
+ 
+(eg, STEC, Shigella organisms, S. pneumoniae, Aeromonas, or HIV), drugs (eg, 
+chemotherapeutic or transplant anti-rejection drugs), or other idiopathic causes (eg, 
+pregnancy, lupus). UTIs have also been implicated. 
+ 
+Presentation:  
+ 
+Secondary HUS due to STEC presents with watery diarrhea, crampy abdominal pain, 
+and occasionally fever. Within days of symptom onset, patients experience increasing 
+abdominal pain, with 50% to 85% developing bloody stools.  
+ 
+ 
+CrackCast Show Notes – Genitourinary and Renal Tract Disorders – May 2018 
+www.canadiem.org/crackcast 
+ 
+Patients may also develop toxic megacolon, ischemic colitis, intussusception, perfo- 
+ration, or delayed colonic stricture.  
+ 
+Patients with a pneumococcal cause for the HUS typically present with pneumonia or, less 
+commonly, meningitis, bacteremia, sinusitis, or otitis media. 
+ 
+Up to 10% of patients will experience the triad of sudden onset hemolytic anemia, 
+thrombocytopenia, and acute renal insufficiency, with possible progression to renal 
+failure. Up to 60% of diarrhea-associated HUS cases require dialysis, and death or 
+end-stage renal disease was found to occur in 12%. 
+ 
+Remember this is a hemolytic disease: The peripheral blood smear shows 
+microangiopathic changes such as schistocytes, teardrop cells, 
+helmet cells, microspherocytes, and burr cells. 
+ 
+ 
+[18] Describe the management of HUS and HSP in kids 
+ 
+ 
+HUS 
+HSP 
+a microangiopathic hemolytic anemia, is one 
+of the most common causes of acute kidney 
+injury in children.  
+HUS is rare after 5 years of age, 
+ 
+Hypersensitivity small vessel vasculitis 
+affecting the joints, GI system and skin.  
+Usually post URTI or group a strep infection 
+(can be provoked by any virus)  
+ 
+classic HSP rash is usually diagnostic. 
+Watch for renal or abdominal complications.  
+These folks can become sick fast!  
+● Aggressive supportive care 
+○ Correct electrolytes  
+○ Treat pancreatic failure 
+○ Treat seizures 
+○ Treat hypertension 
+● No role for antibiotics (enhance 
+release of verotoxin)  
+Except: Pneumococcal-associated HUS 
+often presents with pneumonia and 
+should be treated 
+● Early consideration of dialysis 
+● PRBCs if Hgb < 60 
+● ?consideration of plasmapheresis 
+if presenting with stroke 
+● ?eculizumab if primary HUS 
+● Controversial  
+● NSAIDs for arthralgias (assuming 
+no renal involvement)  
+● Corticosteroids may help 
+abdominal pain resolve; but do 
+NOT prevent abdominal or renal 
+complications  
+● IVIG if severe renal impairment 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CrackCast Show Notes – Genitourinary and Renal Tract Disorders – May 2018 
+www.canadiem.org/crackcast 
+Wisecracks:  
+ 
+[1] List three complications of circumcision. 
+ 
+Circumcision prevents phimosis, paraphimosis, recurrent balano- 
+posthitis, and decreases urinary tract infections, sexually trans- 
+mitted disease transmission (including human immunodeficiency 
+virus [HIV]), and penile cancer. An American Academy of Pedi- 
+atrics task force has concluded that the benefits of circumcision outweigh the risks. 
+ 
+● Infection 
+○ Local, systemic 
+○ UTI 
+● Bleeding 
+○ Minor 
+○ Major bleeding may raise suspicion for a blood dyscrasia  
+● Pain 
+● Urinary problems: 
+○ Stricture formation 
+○ Urinary retention  
+● Post-circumcision phimosis  
+ 
+ 
+[2] Describe approaches to penile entrapment and tourniquet 
+states.  
+ 
+● Depend on the object 
+○ Rings: 
+■ Mineral oil; string wrap technique; ring cutters 
+○ Zippers:  
+■ Mineral oil; cutting median bar of zipper 
+ 
+[3] Which side is a varicocele concerning and why? 
+ 
+A varicocele is a collection of venous varicosities of the spermatic veins in the scrotum 
+caused by incomplete drainage of the pampiniform plexus. 
+ 
+Varicoceles are more pronounced when upright. Varicoceles are described as a “bag of 
+worms” in appearance and on palpation. 
+ 
+ 
+● Normally occurs on the left side 
+● Any RIGHT sided varicocele should raise suspicion for neoplasm - and patient 
+should be considered for imaging to investigate for retroperitoneal neoplasm 
+(U/S, CT, MRI) 
+ 
+Concerning features for varicoceles:  
+ 
+1. Sudden onset 
+2. Right sided 
+3. Do not decrease in size when supine.  
+ 
+ 
+ 
+CrackCast Show Notes – Genitourinary and Renal Tract Disorders – May 2018 
+www.canadiem.org/crackcast 
+ 
+[4] Other than cystitis and pyelonephritis, list 6 other causes of 
+pediatric dysuria 
+ 
+● Stones - kidney 
+● Strictures - labial adhesions  
+● STI’s - balanitis or vaginitis  
+● Stuff - retained foreign bodies  
+● Stuck - labial adhesions, phimosis 
+● Sad situation - abuse  
+● Self stimulation  
+● Sticky tape - pin worms 
+○ Or Scratching while sleeping (just treat it empirically in real life if the dx is 
+highly suspected).  
+ 
+See Box 173.1: Cause of Dysuria in Children 
+ 
+Infection 
+1. Urinary tract infection, including cystitis and pyelonephritis 
+2. Vaginitis resulting from Gardnerella, Trichomonas, Candida, or sexually transmitted 
+organisms 
+3. Pinworms 
+4. Balanitis 
+Irritation 
+1. Bubble bath, new soaps, or douches 
+2. Vaginal foreign body, such as retained toilet paper 
+Trauma 
+1. Sexual or physical abuse 
+2. Straddle injury (unintentional) 
+3. Self-stimulation or masturbation 
+Other 
+1. Labial adhesions 
+2. Renal stones or hypercalciuria 
+ 
+ 
+[5] List 10 ddx hematuria in peds 
+ 
+Red blood cells (RBCs) can enter the urinary tract from inflammation, infection, trauma, or 
+anatomic abnormalities, anywhere from the glomerulus to the urethra. Microscopic 
+hematuria is defined as more than 5 RBCs/mm3; macroscopic or gross hematuria is the 
+presence of blood or clots visible to the naked eye. 
+ 
+ 
+From glomerulus to ureters! Think structurally or think:  
+● Renal  
+● Extra-renal (including mimickers)   
+● Systemic  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CrackCast Show Notes – Genitourinary and Renal Tract Disorders – May 2018 
+www.canadiem.org/crackcast 
+Box 173.2: Cause of Hematuria in Children 
+ 
+Extrarenal 
+1. Trauma 
+2. Meatal stenosis or posterior urethral valves 
+3. Exercise 
+4. Menstruation or rectal bleeding 
+5. Foreign bodies 
+6. Cystitis, urethritis, or epididymitis 
+Intrarenal 
+1. Pyelonephritis 
+2. Renal or bladder stones or tumors 
+3. Poststreptococcal or idiopathic glomerulonephritis 
+4. Acute interstitial nephritis 
+5. Acute tubular necrosis 
+6. Basement membrane glomerular disease 
+7. Renal vein or artery thrombosis 
+8. Recurrent familial hematuria 
+9. Polycystic kidney disease 
+Systemic 
+1. Alport syndrome nephritis 
+2. Henoch-Schönlein purpura 
+3. Systemic lupus erythematosus 
+4. Hemolytic-uremic syndrome 
+5. Infectious mononucleosis 
+6. Sickle cell disease or other hemoglobinopathies 
+7. Bacterial endocarditis or artificial cardiac valves 
+8. Bleeding disorders, warfarin, or aspirin 
+9. Medications such as amitriptyline or chlorpromazine, radiocontrast dyes 
+10. Munchausen syndrome or factitious 
+ 
+ 
+look for signs of renal disease (eg, glomerulonephritis), including hypertension, facial edema, 
+rales, and cardiac murmurs. 
+ 
+ 
+ 
+[6] List 5 false indicators of hematuria (review!)  
+ 
+ 
+Urine with lysed RBCs or myoglobin from muscle breakdown tests positive for hemoglobin, 
+yet will not contain RBCs.  
+ 
+Certain drugs or foods, such as phenothiazines, ibuprofen, beets, and blueberries, can 
+cause reddish urine.  
+ 
+In neonates, urate crystals can cause a benign red-tingedurine in the diaper, also termed 
+brick dust urine. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CrackCast Show Notes – Genitourinary and Renal Tract Disorders – May 2018 
+www.canadiem.org/crackcast 
+[7] List 6 causes of nephrotic syndrome in peds 
+ 
+Nephrotic syndromes are kidney diseases that result in significant 
+proteinuria, hypoproteinemia, and edema.  
+ 
+Although hypoalbu- 
+minemia defines the diagnosis of nephrotic syndrome, levels of 
+other important proteins such as immunoglobulins can also be 
+reduced by the disease. 
+ 
+Usually broken down by two age groups:  
+● < 5 yrs - likely primary nephrotic syndrome - due to minimal change disease 
+● > 5 yrs - usually due to a secondary/systemic disease  
+○ PSGN 
+○ Lupus  
+ 
+Here’s that list of causes:  
+● Primary proteinurea due to minimal change disease  
+○ primary nephrotic syndrome (no gross hematuria or elevated creatinine level, 
+normal complement levels, and no evidence of extrarenal causes such as a 
+malar rash) 
+● Secondary causes:  
+○ IgA nephropathy 
+○ PSGN 
+○ HUS 
+○ HSP 
+○ Lupus  
+○ Goodpasture's disease  
+○ Wegener’s granulomatosis  
+○ Alport syndrome  
+ 
+What is “nephrotic range” proteinuria?  
+● Nephrotic-range proteinuria is a daily excretion of more than 3.5 g of protein/1.73 m2 
+or more than 50 mg/kg, corresponding to 3+ or 4+ on the urine dipstick. 
+ 
+[8] List 5 complications of acute renal failure in children. 
+ 
+● edema  
+● ascites,  
+● significant hypertension (>99th percentile for age and height) resulting from 
+glomerulonephritis,  
+● marked impairment of renal function (>50% over normal) should be 
+hospitalized. 
+● pulmonary edema 
+● cardiac arrhythmias 
+ 
+ 
+Let’s go through the life threats again:  severe hyperkalemia, hyponatremia, 
+pulmonary edema or fluid overload, hypertensive encephalopathy, septic shock from 
+renal obstruction and infection, and seizures from metabolic abnormalities or 
+encephalopathy. 
+ 
+ 
+ 
+ 
+CrackCast Show Notes – Genitourinary and Renal Tract Disorders – May 2018 
+www.canadiem.org/crackcast 
+[9] How does e. coli cause HUS? Which strain of e. coli is the 
+concerning one? 
+ 
+The BIG concern with HUS is acute renal failure!  
+ 
+Renal compromise is due to renal vascular endothelial injury, often induced by viral 
+or bacterial agents.  
+ 
+RBCs are injured within narrowed blood vessels, resulting in a microangiopathic 
+hemolytic anemia. Platelets, complement, and fibrin are deposited in the glomerular 
+lumen, resulting in thrombocytopenia, a decrease in the glomerular filtration rate, and 
+renal failure. 
+ 
+Most common cause is Shiga toxin (verotoxin)–producing E. coli (STEC), specifically 
+serotype O157:H7. 
+ 
+Spread fecal orally or from contaminated foods.  
+ 
+ 
+ 
+ 

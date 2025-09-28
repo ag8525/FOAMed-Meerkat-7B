@@ -1,0 +1,37 @@
+---
+url: https://thesgem.com/2024/06/sgem443-dont-stop-me-now-reboa-for-hemorrhage-control-in-trauma-patients/
+title: 'SGEM#443: Don’t Stop Me Now – REBOA for Hemorrhage Control in Trauma Patients?'
+date: 2024-06-15
+audio_url: https://media.blubrry.com/thesgem/content.blubrry.com/thesgem/SGEM443.mp3
+download_date: 2025-08-11
+---
+
+
+
+## Summary
+In the context of trauma care, the document discusses the use of Resuscitative Endovascular Balloon Occlusion of the Aorta (REBOA) as an adjunct to standard trauma resuscitation in patients with massive hemorrhage. The UK-REBOA randomized clinical trial, conducted across 16 trauma centers, found that REBOA did not improve survival and may increase mortality compared to standard care alone, with a 90-day mortality rate of 54% in the REBOA group versus 42% in the standard care group. The trial highlighted significant delays in hemorrhage control procedures when REBOA was used, suggesting that time spent on REBOA may detract from other critical interventions. The study concludes that rapid surgical intervention remains the priority in managing hemorrhagic shock, and REBOA should be considered cautiously, particularly in settings where it may delay definitive hemorrhage control.
+
+## Case
+A 24-year-old patient is involved in a high-speed motor vehicle collision. The patient was the intoxicated driver of a sport utility vehicle that left the road and collided head-on with a traffic light. The driver was ejected from the vehicle. On scene, he has a Glasgow Coma Scale (GCS) score of 14, is tachycardic at 130 beats per minute and hypotensive at 85/50 mmHg. He complains of severe pain in his abdomen and left upper extremity. He has an obvious angulated deformity of his left wrist.
+Pre-hospital personnel placed the patient in a cervical spine collar, obtained peripheral intravenous (IV) access, administered 250cc of 0.9% saline and provided rapid transport to the local trauma center which is less than 15 minutes away. On arrival at the trauma center, the patient’s vital signs and symptoms remain essentially unchanged from those on scene.
+You initiate standard, simultaneous assessment and resuscitation following the Advanced Trauma Life Support (ATLS) principles. You are debating the addition of resuscitative endovascular balloon occlusion of the aorta (REBOA) as an adjunct to your standard care. You wonder what the evidence is for this additional approach.
+
+## Background
+Resuscitative Endovascular Balloon Occlusion of the Aorta (REBOA) is a medical intervention used in trauma care to control hemorrhage by occluding the aorta, thereby reducing blood loss and increasing perfusion to vital organs. Despite its potential benefits, a retrospective observational study of 593,818 trauma patients indicated higher mortality rates with REBOA (35.7%) compared to controls (18.9%), suggesting uncertain therapeutic value and possible harm. Trauma care strategies focus on rapid hemorrhage control through enhanced trauma systems, hemostatic resuscitation, and operative strategies. The efficacy of REBOA remains debated, with mixed clinical data prompting a robust prospective trial, the UK-REBOA, conducted across 16 English trauma centers from 2017 to 2022, to evaluate its impact on survival in patients with massive hemorrhage.
+
+## Clinical Point
+Does the addition of REBOA to standard trauma resuscitation practice improve survival for injured patients presenting to lead trauma centres with massive hemorrhage?
+
+## SGEM Bottom Line
+REBOA cannot be recommended as a front-line treatment for massively bleeding trauma patients. Rapid access to a hemorrhage control operation is probably the better option and if REBOA is considered, it must not delay operative hemorrhage control.
+
+## Case Resolution
+This 24-year-old patient received standard ATLS resuscitation which, interestingly, included the US-guided placement of a right common femoral arterial line by the trauma surgeon which was placed simultaneously with a chest tube and central line insertion. The patient went directly to the operating theatre and had a successful trauma laparotomy, preperitoneal packing, external pelvic fixation and closed reduction of a distal radius fracture. The patient did well, and the right femoral line was used only as a reliable means of monitoring blood pressure. However, if the patient had an arrest or peri-arrest on induction, the trauma surgeon would have been happy to be able to weigh the benefits and risks of rapid REBOA insertion via the femoral sheath vs thoracotomy and aortic cross-clamping.
+
+## Clinical Application
+Am I now much less likely to use REBOA in acutely injured patients. It has taken the shine off the apple for me in this population and only redoubled my resolve to let nothing stand between me and the operating room for hemorrhagic shock. We are simply cruising the internet all day and looking to confirm our own biases, and the signal from this trial makes me more keen on things I already believed in like rapid field triage and transport to the hospital rather than stay-and-resuscitate strategies, it makes me more keen to open more operating rooms and close our trauma surgical service to make hemorrhage control procedures more rapidly accessible to injured patients.
+Would I never use a REBOA in a trauma patient? I must admit that I know I still will if my hand is forced. In my hands, where on one hand I can weigh the availability and rapidity of a hemorrhage control thoracotomy or laparotomy and on the other hand weigh the value of endovascular aortic occlusion, I think I have the best position to decide how to stage and deploy each technique. I am not biased because I can do either one and enjoy each one quite a lot, so the other home point for me is that if REBOA is going to be used in trauma it should almost certainly be in the hands of vascular and trauma surgeons such that they can equitably weigh the benefits and harms of the delay in their own hemorrhage control interventions.
+Finally, we do not have data from this trial about those brave and somewhat incredible HEMS air ambulance teams in London who want to do roadside thoracotomies and REBOAs because they are never more than 10 min by chopper to a lead trauma hospital. I’ve mentioned that I think anything which delays rapid transit to an operating room is bad news, but this study can’t tell us to take the REBOAs away from those helicopter EMS people yet. Also, in the setting of non-trauma patients like post-partum hemorrhage and ruptured aneurysms, I think we have no further data from this study. One of the most dramatic saves of my life happened just a few months ago and it relied heavily on REBOA utilization for postpartum hemorrhage. There is no Point that by the time we had to use REBOA, it was the only way to get that patient back from arrest and so we certainly don’t want to throw out these catheters with the bathwater yet.
+
+**What Do I Tell the Patient?**
+Nothing! I would just tell the operating theatre we are coming up, and this paper makes me even more willing to say: "Don’t stop me now"! We need to operate now to control the hemorrhaging.

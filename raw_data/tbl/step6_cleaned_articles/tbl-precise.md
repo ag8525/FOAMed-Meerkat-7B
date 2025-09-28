@@ -1,0 +1,120 @@
+---
+source: The Bottom Line
+title: PRECISE (Trial of Pregabalin for Acute and Chronic Sciatica)
+original_url: https://www.thebottomline.org.uk/summaries/em/precise/
+scrape_date: 2025-07-17
+summary_author: Fraser Magee
+summary_date: 2017-05-24
+peer_review_editor: Duncan Chambler and Dave Slessor
+summary: |
+  The PRECISE study evaluated the efficacy of pregabalin in treating moderate-to-severe sciatica compared to placebo in a randomized, double-blind, placebo-controlled trial involving 209 patients. The primary outcome showed no significant difference in leg pain intensity between the pregabalin and placebo groups at both 8 weeks and 52 weeks. Secondary outcomes, including disability, back pain intensity, and quality of life, also showed no significant differences. However, the pregabalin group experienced a higher rate of adverse events, particularly dizziness. The study concluded that pregabalin does not effectively relieve sciatic pain or improve related clinical measures compared to placebo, and its use is associated with increased adverse effects. Despite some methodological limitations, the findings suggest caution in prescribing pregabalin for sciatica.
+
+---
+
+# Trial of Pregabalin for Acute and Chronic Sciatica (PRECISE Study)
+
+## Background
+Sciatica is characterized by pain radiating down the postero-lateral aspect of the leg, often accompanied by neurological symptoms. Treatment options include analgesia, physiotherapy, or surgery. Pregabalin, a neuropathic analgesic and antiepileptic drug, is frequently prescribed for sciatica, though strong evidence supporting its efficacy is lacking.
+
+## Clinical Point
+In patients with moderate-to-severe sciatica, does pregabalin compared to placebo reduce leg pain?
+
+## Design
+- Randomised, double-blind, placebo-controlled trial
+- Randomisation via computer-derived random number sequence
+- Blinding of research staff, statisticians, trial clinicians, and patients
+- Study powered at 90% to detect a 1.5-point difference in leg pain intensity score (0-10 scale) and a 3-point difference in the Roland Disability Questionnaire Score
+
+## Setting
+- 47 outpatient departments in New South Wales, Australia
+- Study period: September 2013 to March 2015
+
+## Population
+
+**Inclusion Criteria:**
+- Patients with sciatica presenting to outpatient clinics
+- Sciatica defined as leg pain below the knee with nerve-root or spinal-nerve involvement (e.g., dermatomal leg pain, myotomal weakness, sensory deficits, diminished reflex)
+- Current episode of sciatica lasting 1 week to 1 year
+- Moderate leg pain intensity or interference with daily activities in the previous week
+- Age >18 years
+- Adequate English proficiency
+
+**Exclusion Criteria:**
+- Serious spinal pathology (e.g., cauda equina syndrome)
+- Pregnancy, breastfeeding, or planning conception
+- Planning spinal surgery or interventional procedures during the first 8 weeks
+- Contraindications to pregabalin
+- Use of neuropathic pain, antiepileptic, antidepressant, or sedative medications without cessation
+- Severe depression or suicidal thoughts
+
+**Enrollment:**
+- 209 patients randomised: 108 to treatment group, 101 to control group
+- 2 patients in the intervention arm excluded for taking unpermitted medication
+- Baseline demographics similar between groups
+
+## Intervention
+- Pregabalin: 150 mg/day (75 mg twice daily), adjusted to a maximum of 600 mg/day (300 mg twice daily) based on progress and side effects
+- Dose increased weekly over 3 weeks, then maintained at 600 mg/day for 4 weeks, followed by gradual tapering over 1 week
+
+## Control
+- Placebo identical in appearance to pregabalin
+- Common treatments: medical advice to avoid bed rest, remain active, reassurance, physiotherapy, and other analgesics (excluding adjuvant analgesics)
+
+## Outcomes
+
+### Primary Outcome
+- No significant difference in leg-pain intensity score at week 8
+  - Pregabalin: 3.7
+  - Placebo: 3.1
+  - Adjusted mean difference: 0.5 (95% CI: -0.2 to 1.2), p = 0.19
+
+- No significant difference at week 52
+  - Pregabalin: 3.4
+  - Placebo: 3.0
+  - Adjusted mean difference: 0.3 (95% CI: -0.5 to 1.0), p = 0.46
+
+### Secondary Outcomes
+- No significant differences in:
+  - Roland Disability Questionnaire for Sciatica
+  - Back pain intensity
+  - Global perceived effect
+  - Quality of life (Short Form Health Survey 12)
+  - Workplace absenteeism
+  - Healthcare utilisation
+- Higher adverse events in pregabalin group (64.2% vs. 42.6%, p = 0.002), predominantly dizziness
+
+## Authors’ Conclusions
+Pregabalin did not relieve sciatic pain or improve related clinical measures compared to placebo over 8 weeks and was associated with higher adverse event rates.
+
+## Strengths and Weaknesses
+- **Strengths**
+  - Inclusion based on clinical criteria, enhancing generalisability
+  - Rigorous placebo preparation ensured optimal blinding
+  - Doses reflect typical clinical use with allowed adjustments
+  - Blinded research staff, clinicians, and patients
+  - Follow-up to one year for long-term effects
+  - Comprehensive data collection on pain scores and quality of life
+  - Clear sciatica diagnosis criteria
+  - Low loss to follow-up (14% at one year)
+  - Intention-to-treat analysis
+  - Patient-centred primary endpoint
+
+- **Weaknesses**
+  - Outpatient setting limits generalisability to hospitalised or ED patients
+  - More females in pregabalin group (62.3% vs. 48.5%)
+  - Primary endpoint at 8 weeks limits acute care applicability
+  - Pain intensity similar at 2 weeks; study not designed for this time-point
+  - Most pain reduction occurred in first 2 weeks
+  - Primary outcome timing may miss differences due to spontaneous resolution
+  - Limited baseline neuropathic pain evidence (22-34%)
+  - Outcomes assessed via telephone or online survey
+  - Results not applicable to chronic back pain >1 year
+
+## Bottom Line
+This trial suggests pregabalin is not more effective than placebo for reducing leg pain in sciatica. Despite methodological weaknesses, pregabalin may be considered for acute severe sciatic pain, but caution is advised due to increased adverse effects.
+
+## External Links
+- **Original article:** [Trial of Pregabalin for Acute and Chronic Sciatica – The PRECISE Study](https://www.thebottomline.org.uk/summaries/em/precise/)
+- **Further reading:** Episode 26: Low Back Pain Emergencies by Emergency Medical Cases
+- **Further reading:** An Evidence-Based Approach to the Evaluation and Treatment of Low Back Pain in the Emergency Department by EBMedicine.net
+```

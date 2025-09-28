@@ -1,0 +1,1232 @@
+# Metadata
+- topic: 2.3 - Orthopedic Lesions - CC.Ep49.GeneralOrthoPrinciples
+- source_folder: 2.3 - Orthopedic Lesions
+- original_file: CC.Ep49.GeneralOrthoPrinciples.pdf
+
+Crack Cast Show Notes – General Principles of Orthopedic Injuries – November 2016 
+www.crackcast.org 
+ 
+ 
+                              
+Chapter 49 – General Principles of Orthopedic Injuries 
+Episode Overview 
+1. List 10 complications of fractures   
+2. Describe the classification system for open fractures 
+a. Describe the management goals in open fracture 
+ 
+3. Link the nerve injury expected with the following orthopedic injuries:  
+a. Distal radius 
+b. Elbow 
+c. shoulder dislocation 
+d. Sacral 
+e. Acetabulum fracture 
+f. hip fracture.  
+g. femoral shaft fracture 
+h. knee dislocation 
+i. 
+lateral tibial plateau fracture 
+4. List 10 causes of compartment syndrome 
+5. List 7 physical findings in compartment syndrome 
+6. Describe the management of compartment syndrome 
+7. List 5 bones predisposed to AVN 
+8. Describe diagnostic criteria for CRPS 
+9. List 6 complications of prolonged immobility 
+Wise Cracks 
+1. Describe fat embolism syndrome and its management 
+2. What is the most common site of compartment syndrome? 
+3. Are open or closed fractures at higher risk of compartment syndrome? 
+4. Please differentiate between sprain, strain and bursitis 
+5. Please differentiate between tendonitis and tendonosis? 
+ 
+--------- 
+ 
+Rosen’s in Perspective 
+Management principles 
+● Reasons for urgent orthopedic consultation: 
+○ Long bone #s 
+○ Open fractures 
+○ Fractures or injuries violating joints 
+○ Neurovascular compromise  
+● See Table 49-1 for a list of >40 fracture eponyms  
+● Principles 
+○ Get key information from patient re: age, mechanism of injury, chief complaint, medical Hx  
+○ Do a physical exam to predict the injury and what additional imaging is needed  
+○ If imaging shows no #, but patient examines as clinically having a # → TREAT as a fracture 
+Crack Cast Show Notes – General Principles of Orthopedic Injuries – November 2016 
+www.crackcast.org 
+ 
+ 
+                              
+○ Get adequate imaging!  
+○ Generally obtain an X-Ray before reducing a dislocation (unless in some potential field 
+situations)  
+○ Assess and document neurovascular status before, during and after any reduction / 
+immobilization 
+○ Don’t discharge any patient who can’t safely ambulate  
+○ Patients need good discharge instructions: things to monitor and potential complications  
+ Fractures  
+ 
+● Fracture nomenclature  
+○ General descriptors: 
+■ Closed or Open 
+● Open if the bone can be exposed to the outside environment in ANY way: e.g. 
+A small puncture wound even in close proximity should be assessed and 
+considered 
+■ Exact anatomic location: 
+ 
+● Bone name, left/right, and reference points: 
+○ E.g. Right posterior tibial tubercle  
+○ Long bones are divided into thirds  
+■ Describe the direction of the fracture line 
+● Transverse  
+● Oblique  
+● Spiral  
+● Comminuted (>2 fragments)  
+■ Position and alignment of the fracture fragments:  
+● The amount of displacement of the distal fragment is always described first  
+■ Valgus = angling AWAY from the midline  
+Crack Cast Show Notes – General Principles of Orthopedic Injuries – November 2016 
+www.crackcast.org 
+ 
+ 
+                              
+■ Varus = angling of the part is toward the midline  
+■ Alignment: the relationship of the long axis of one fragment to another → creating 
+angulation. Defined by the apex 
+■ Rotational deformity: very important in the hand 
+○ Descriptive modifiers: 
+■ Complete = both cortices disrupted. Incomplete = only one 
+■ Assess articular involvement (at high risk for articular arthropathy)  
+■ Avulsion: when a bony fragment is pulled away from its normal position due to a 
+tendon / muscle / ligament (phalaynx or humeral head) 
+■ Impaction: forceful collapse of a fragment into the bone - vertebral, humeral head 
+■ Pathologic: a fracture through abnormal bone.  
+● Primary or metastatic cancer,  
+● Cysts,  
+● Osteogenesis imperfecta 
+● Scurvy 
+● Rickets  
+● Paget’s disease  
+● Osteoporotic bone - due to a disease (polio)  
+■ Stress fracture: repeated low intensity forces leading to the resorption of bone: 
+running, sports, dancing.  
+● Due to intrinsic and extrinsic causes: training regimen, equipment, nutrition, 
+hormones.  
+○ Tibia, fibula, metatarsals, navicular, cuneiform, calcaneus, femoral neck, 
+femoral shaft.  
+○ Fracture eponyms: used to describe fractures BEFORE radiography existed  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+Crack Cast Show Notes – General Principles of Orthopedic Injuries – November 2016 
+www.crackcast.org 
+ 
+ 
+                              
+ 
+ 
+ 
+● Fracture healing: 
+○ Process: 
+■ Hematoma formation which bridges the fracture fragments  
+■ Inflammation leading to granulation tissue formation 
+■ Resorption phase - joints the fragments with a procallus  
+■ REmineralization phase - calcium phosphate and osseous metaplasia  
+■ Callus resorption  
+● Callus usually appears on radiographs around 3 weeks 
+○ Takes 2-4 months for bone consolidation in normal adults  
+■ Oblique fractures heal more quickly  
+■ Healing faster in kids and slower in the elderly  
+○ Factors affecting healing time: 
+■ Age 
+■ Type of bone: cancellous > cortical 
+■ Fracture opposition  
+■ Systemic states (hypothyroid, renal disease, illness) 
+■ Drugs - steroids 
+■ Exercise - helps speed healing, hypoxia slows healing  
+○ Delayed Union: longer than usual time to unite   
+○ Malunion: residual deformity post Union  
+○ Nonunion : failure to unite → may lead to a pseudoarthrosis  
+ 
+● Fractures in children  
+Crack Cast Show Notes – General Principles of Orthopedic Injuries – November 2016 
+www.crackcast.org 
+ 
+ 
+                              
+ 
+ 
+○ Properties: 
+■ More common to have incomplete fractures   
+● Greenstick # - incomplete angulated fractures of long bones 
+● Torus # - incomplete fracture with wrinkling/buckling of the cortex ***can be 
+VERY subtle***  
+ 
+ 
+ 
+■ Epiphyses - are made of cartilage and are radiolucent  
+Crack Cast Show Notes – General Principles of Orthopedic Injuries – November 2016 
+www.crackcast.org 
+ 
+ 
+                              
+● ***don’t neglect to consider injury to the physis: as a potential fracture*** due to 
+compression or shearing  
+● This may require a comparison view of the other extremity - and should be 
+described using the SALTER system  
+■ SALTER: 
+● I: a slip in the provisional calcification zone  
+○ Dx clinically as tenderness and swelling over an epiphysis (.e.g lateral 
+ankle)  
+○ ***tenderness over an epiphysis = salter I fracture, NOT a sprain, 
+because the ligaments are weaker*** (except lateral ankle - based 
+on recent research) 
+● II: 75% of all epiphyseal #s.  
+○ Very low risk of growth disruption, can be managed non-operatively  
+● III: involves the articular surface, germinal layer and growth plate  
+○ At high risk for growth disturbance  
+● IV: through and through. Often need surgery and close follow-up 
+● V:  
+○ Most commonly in the knee and ankle  
+○ Difficult to see on radiograph  
+○ NEED an MRI to dx in some cases to look for hemorrhage or edema  
+■ Physical injuries most common in boys 12-15 yrs old. And girls 9-12 yr old 
+■ Most common sites for growth arrest.  
+● Distal radius, phalanges, distal tibia  
+● Most salter I and II can be fixed with a closed reduction and follow-up for 
+premature physeal closure: more prevalent if > 3 mm displacement post-
+reduction 
+● Growth arrest most common in the distal femur, distal and proximal tibia and 
+distal radius.  
+ 
+Crack Cast Show Notes – General Principles of Orthopedic Injuries – November 2016 
+www.crackcast.org 
+ 
+ 
+                              
+● Diagnostic modalities for fracture diagnosis  
+○ Plain radiography 
+■ 2-3 views are the mainstay  
+● Fractures best seen when x-ray is parallel to the beam 
+■ NEVER accept one view 
+■ Occult fractures may be missed - until bone absorbs at 7-10 days post injury  
+■ Stress views - rarely helpful, and may make the injury worse 
+■ Comparison views 
+● Helpful in pediatrics to assess growth plates and bone maturity 
+● Helpful to assess for congenital abnormalities that may be present bilaterally 
+● Help assess for fat/fluid levels 
+■ Nutrient arteries may mislead as a fracture:  
+● They are fine: sharply corticated, and less radiolucent than fractures 
+■ Pseudofractures may appear from folded clothing or bandages 
+■ Accessory ossicles are well corticated and smoothly defined 
+○ Bone scanning 
+■ Radionuclide useful for: 
+● Stress #s 
+● Acute osteomyelitis  
+● Tumours  
+○ CT 
+■ Most accurate method of imaging bony #s, displacement, and fragmentation  
+■ Very useful for 
+● Spinal imaging 
+● Knee 
+● Acetabulum  
+● Wrist  
+● Ankle 
+● Salter IV #s 
+○ MRI 
+■ Helpful for: 
+● Osteochondral lesions, cartilage, ligaments, meniscus, disks,  
+○ Ultrasound 
+■ Can very accurately dx disruptions of bony cortices: 
+● Long bones 
+● Orbital floor 
+● Ankle/foot 
+● Rib fractures 
+ 
+ 
+ 
+ 
+ 
+ 
+Crack Cast Show Notes – General Principles of Orthopedic Injuries – November 2016 
+www.crackcast.org 
+ 
+ 
+                              
+1) List 10 complications of fractures  
+ 
+ 
+Complication  
+Info 
+Key points 
+Hemorrhage 
+Blood loss, shock, and death! 
+Pelvic, femur, tib-fib 
+Vascular injury 
+See chapter 48! 
+Knee - popliteal artery 
+Femoral neck - AVN of femoral head 
+10-20% of injuries may have normal 
+palpable pulses 
+ 
+These injuries can lead to late 
+complications 
+Nerve injury 
+Neuropraxia - contusion to a nerve leading to transient paralysis 
+and return to function in weeks - months 
+ 
+Axonotmesis - crush injury to a nerve - slow nerve healing 
+ 
+Neurotmesis - severing of a nerve that requires surgical repair 
+See table 49-4 
+ 
+Light touch is a good screening test, 
+but two-point discrimination is more 
+sensitive (especially for digital 
+nerves).  
+ 
+Compare the sensation bilaterally.  
+ 
+Consider the O’Riain wrinkle test or 
+the Ninhydrin sweat test for digital 
+nerve injuries.  
+Compartment  
+Syndrome 
+Any # or damage in an osseofascial space = can lead to CS: 
+● 
+Closed OR open # 
+● 
+Prolonged immobility in certain operative/comatose 
+positions 
+● 
+Spontaneous injections 
+● 
+IV injections  
+● 
+Excessive fracture traction/trauma  
+Pathophysiology: 
+● 
+Mismatch between a closed, nonexplandable space and 
+its contents: - see Box 49-3 
+● 
+1) increased compartment contents 
+○ 
+Bleeding (1 or 2ndary)  
+■ 
+Vasc. injury, coagulation disorder, 
+anticoagulant therapy 
+○ 
+Increased capillary filtration 
+■ 
+Reperfusion after ischemia 
+■ 
+Trauma 
+■ 
+Intense muscle use 
+■ 
+Burns  
+○ 
+Increased capillary pressure  
+■ 
+Venous obstruction (DVT) 
+■ 
+Venous ligation  
+● 
+2) Decreased compartment volume 
+○ 
+Closure of fascial defects  
+○ 
+Excessive traction of #’d limbs 
+● 
+3) External pressure  
+○ 
+Casts, air splints, dressings 
+○ 
+Lying on a limb 
+● 
+4) Misc:  
+○ 
+Muscle hypertrophy  
+○ 
+popliteal cysts  
+○ 
+Leaky cannulae  
+○ 
+Interstitial infusions / pressure infusions  
+ 
+ 
+Sites: 
+1. 
+Tibia  
+2. 
+Forearm 
+3. 
+Thigh  
+4. 
+hand/foot 
+ 
+Interesting causes (based on 
+etiology): 
+1. 
+Content increase 
+a. 
+anticoagulant/coa
+gulopathic bleed 
+b. 
+Post-op arterial 
+bypass graft 
+c. 
+Exercise induced 
+d. 
+Seizures 
+e. 
+Eclampsia  
+f. 
+Tetany 
+g. 
+Post 
+thermal/electrical 
+burn 
+h. 
+Snakebite 
+i. 
+Intra-arterial drug 
+injection 
+j. 
+Nephrotic 
+syndrome 
+2. 
+Dec. compartment volume 
+a. 
+post-operative 
+3. 
+External pressure 
+a. 
+Comatose drug 
+user 
+Osteomyelitis 
+Due to OPEN fractures = any communication of bone with the 
+outside  
+ANCEF for prevention, add 
+gentamicin for contaminated 
+Crack Cast Show Notes – General Principles of Orthopedic Injuries – November 2016 
+www.crackcast.org 
+ 
+ 
+                              
+Avascular necrosis 
+No blood flow, bone dies 
+comminuted/untreated fractures at ^ 
+risk  
+● 
+Femoral head 
+● 
+Talus 
+● 
+Scaphoid  
+● 
+Lunate  
+● 
+Capitate  
+Complex regional pain 
+syndrome - type 1 
+“Pain syndrome that develops after a noxious event and extends 
+beyond a single peripheral nerve and is disproportionate to the 
+inciting event” 
+● 
+Affects the DISTAL end of an extremity  
+● 
+Changes in blood flow to the extremity  
+● 
+Abnormal pseudo-motor activity in the region of pain 
+● 
+Hyperpathia (pain persisting or increasing after light or 
+mild pressure)  
+● 
+There is no other evident diagnosis  
+Etiology - unknown  
+● 
+Central and peripheral sensitization after an event that is 
+pathologic and leads to maladaptive sympathetic and 
+brain mapping responses  
+Provoking factors: 
+● 
+Fractures, surgery, minor procedures, IV injections, 
+idiopathic (50% of the time), tight casts.  
+● 
+Girls 3x more likely than boys to get it.   
+Dx: 
+● 
+Difficult; because very trivial injuries can provoke it 
+● 
+No agreed upon diagnostic criteria (see table 49-6) 
+Treatment:  
+● 
+Controversial  
+● 
+Mutidisciplinary approach - PT, counselling, regional 
+nerve blocks, surgical sympathectomy 
+● 
+PO meds: 
+○ 
+Bisphosphonates 
+○ 
+Calcitonin 
+○ 
+Indomethacin 
+○ 
+Corticosteroids 
+○ 
+TCA’s, gabapentin,  
+○ 
+Acupuncture, spinal cord stimulation, regional 
+nerve blocks  
+Type 1 CRPS - many different 
+diagnostic criteria: 
+● 
+Signs: 
+○ 
+Allodynia / 
+hyperalgesia 
+○ 
+Edema, sweating 
+○ 
+Not confined to 
+one nerve 
+distribution 
+○ 
+Motor and 
+sensory 
+dysfunction 
+Distal-proximal gradient  
+ 
+Type 2 - CRPS has a 
+demonstrable peripheral nerve 
+injury  
+  
+ 
+ 
+Fat embolism 
+syndrome 
+Fat globules in the lung or peripheral circulation after a LONG 
+bone fracture or major trauma 
+● 
+Often subclinical  
+● 
+  people with major trauma have them, but most are 
+asymptomatic  
+● 
+Signs: 
+○ 
+Resp. distress, hypoxemia, ARDS 
+○ 
+Confusion, mental status change suddenly  
+○ 
+Thrombocytopenia 
+○ 
+Petechial rash  
+○ 
+Fever, tachycardia, jaundice  
+○ 
+Fat seen in the urine in 50% of cases in 3 
+days post injury 
+ 
+Common after Tib/fib fractures 
+(young adults) 
+ or hip fractures in the elderly 
+ 
+● 
+1-2 days post acute injury 
+or IM nailing  
+● 
+Up to 2% in long bone # 
+● 
+Up to 10% in multi# pts 
+ 
+Trxt: 
+● 
+Supportive care 
+● 
+20% mortality rate 
+● 
+No therapy shown to 
+benefit  
+ 
+ 
+ 
+Fracture blisters 
+Tense bullae from HIGH energy injuries 
+● 
+Due to skin near bones with little hair/sweat glands that 
+anchors the epidermal junctions  
+● 
+Early surgery can prevent their occurrence 
+● 
+Large blisters can be deroofed sterilely and dressed 
+High risk locations: 
+● 
+Ankle 
+● 
+Elbow 
+● 
+Foot  
+● 
+Knee 
+ 
+May precede compartment 
+Crack Cast Show Notes – General Principles of Orthopedic Injuries – November 2016 
+www.crackcast.org 
+ 
+ 
+                              
+syndrome!  
+Complications of 
+immobilization  
+● 
+Lead to many issues in the elderly patient 
+○ 
+Pneumonia 
+○ 
+DVT / thrombophlebitis  
+○ 
+PE 
+○ 
+UTI 
+○ 
+Atrophy 
+○ 
+Stress ulcers 
+○ 
+GI bleed 
+ 
+Fracture complications 
+● 
+Related to location** 
+● 
+Volkmann’s ischemic 
+contracture 
+● 
+CRPS 
+● 
+Anatomic injuries  
+ 
+Immobility complications 
+● 
+Due to comorbidities 
+● 
+Medical issues...DVT, PE, 
+infection 
+  
+ 
+2) Describe the classification system for open fractures 
+a) Describe the management goals in open fracture 
+ 
+As above: 
+1. Recognize the emergency 
+2. Begin irrigation (after pain control!!) 
+3. Cefazolin (for Grade I) 
+a. Add Gentamicin for Grade II-III 
+Crack Cast Show Notes – General Principles of Orthopedic Injuries – November 2016 
+www.crackcast.org 
+ 
+ 
+                              
+b. Alternatively: broad spectrum such as Pip-Tazo.  
+4. Advocate for early debridement and irrigation in the OR within 24 hrs 
+ 
+Exceptions:  
+● Open distal tuft fracture of the finger 
+○ Need vigorous irrigation and debridement with adequate primary closure (assuming 
+adequate arterial flow!). 
+ 
+ 
+3) Link the nerve injury expected with the following orthopedic injuries:  
+a) Distal radius 
+i) 
+Median nerve 
+(1) Motor: OK sign 
+(2) Sensation to 1-3 fingers 
+b) Elbow 
+i) 
+Median or Ulnar nerve 
+(1) As above 
+(2) Ulnar: 
+(a) Motor: finger abduction, squeezing a piece of paper in-between 4-5th 
+digit 
+(b) Sensation: 4-5th digit  
+c) Shoulder dislocation 
+i) 
+Axillary nerve 
+(1) Motor: deltoid 
+(2) Sensation: Sergeant’s patch 
+d) Sacral 
+i) 
+Cauda equina syndrome 
+(1) Bladder and bowel symptoms 
+(2) Loss of anal wink 
+(3) Saddle anesthesia  
+e) Acetabular fracture 
+i) 
+Sciatic nerve 
+(1) Motor: plantar flexion, knee flexion, lower leg muscles. Spares the hamstrings 
+(2) Sensory: peroneal, tibial, sural  
+f) Hip fracture 
+i) 
+Femoral nerve 
+Crack Cast Show Notes – General Principles of Orthopedic Injuries – November 2016 
+www.crackcast.org 
+ 
+ 
+                              
+(1) Motor: quads weakness  
+(2) Sensation: anterior or medial thigh  
+g) Femoral shaft fracture 
+i) 
+Sciatic  
+(1) Motor: leg weakness of the lower leg 
+(2) Sensation.  Same as sciatic.  
+h) Knee dislocation 
+i) 
+Tibial or peroneal  
+(1) Peroneal  
+(a) M. Weak dorsiflexion and eversion  
+(b) S. dorsum of foot, first webspace, lateral foot.  
+(2) Tibial: 
+(a) Motor: foot muscle atrophy 
+(b) Sensation: sole of foot and distal toes.  
+i) Lateral tibial plateau fracture 
+i) 
+Common Peroneal  
+(1) As above 
+ 
+ 
+ 
+4) List 10 causes of compartment syndrome 
+Ø See Box 49-3 for a huge list! 
+ 
+● Increased tissue pressure → increased venous pressure → impaired local circulation and hypoxia 
+Crack Cast Show Notes – General Principles of Orthopedic Injuries – November 2016 
+www.crackcast.org 
+ 
+ 
+                              
+○ Pressures above diastolic BP, but below SBP 
+○ Reduced aterio-venous gradient at the tissue level 
+■ → histamine release to help dilate capillaries → increased capillary membrane 
+permeability  
+● → leak of proteins and fluid into the surrounding tissue 
+○ → compartment pressure keeps increasing!  
+■ Venous blood flow impaired as capillary pressure is exceeded 
+● Arterial blood flow fails (pulses maintained until LATE!) 
+○ Ischemic necrosis and cell death! 
+ 
+ 
+Compartment  
+Syndrome 
+Any # or damage in an osseofascial space = can lead to CS: 
+● 
+Closed OR open # 
+● 
+Prolonged immobility in certain operative/comatose 
+positions 
+● 
+Spontaneous injections 
+● 
+IV injections  
+● 
+Excessive fracture traction/trauma  
+ 
+Pathophysiology: 
+● 
+Mismatch between a closed, non-expandable space 
+and its contents: - see Box 49-3 
+● 
+1) increased compartment contents 
+○ 
+Bleeding (1 or 2ndary)  
+■ 
+Vasc. injury, coagulation disorder, 
+anticoagulant therapy 
+○ 
+Increased capillary filtration 
+■ 
+Reperfusion after ischemia 
+■ 
+Trauma 
+■ 
+Intense muscle use 
+■ 
+Burns  
+○ 
+Increased capillary pressure  
+■ 
+Venous obstruction (DVT) 
+■ 
+Venous ligation  
+● 
+2) decreased compartment volume 
+○ 
+Closure of fascial defects  
+○ 
+Excessive traction of #’d limbs 
+● 
+3) external pressure  
+○ 
+Casts, air splints, dressings 
+○ 
+Lying on a limb 
+● 
+4) Misc:  
+○ 
+Muscle hypertrophy  
+○ 
+popliteal cysts  
+○ 
+Leaky cannulae  
+○ 
+Interstitial infusions / pressure infusions  
+ 
+ 
+Sites: 
+1. 
+Tibia  
+2. 
+Forearm 
+3. 
+Thigh  
+4. 
+hand/foot 
+ 
+Interesting causes (based on etiology): 
+1. 
+Increased Comp. Content 
+a. 
+BLEED: 
+anticoagulant/coagulopa
+thic/traumatic  
+b. 
+RE/increased 
+PERFUSION: Post-op 
+arterial bypass graft, 
+embolectomy, lying on 
+limb, #, convulsion 
+c. 
+Exercise induced 
+d. 
+Seizures 
+e. 
+Eclampsia  
+f. 
+Tetany 
+g. 
+Post thermal/electrical 
+burn 
+h. 
+Snakebite 
+i. 
+Intra-arterial drug 
+injection 
+j. 
+INCREASED 
+CAPILLARY PRESS. 
+k. 
+Intense muscle use 
+l. 
+Venous obstruction 
+(phlegmasia), venous 
+ligation 
+m. Nephrotic syndrome - 
+leading to diminished 
+serum osmolality.  
+2. 
+Dec. compartment volume 
+a. 
+Postoperative closure of 
+fascial defects 
+b. 
+Excessive traction on 
+limb 
+3. 
+External pressure 
+a. 
+Comatose drug user 
+b. 
+Tight casts/dressings 
+4. 
+Miscellaneous: 
+a. 
+Interstitial infusion 
+b. 
+Leaky dialysis cannula  
+c. 
+Muscle hypertrophy 
+d. 
+Popliteal cyst 
+ 
+Crack Cast Show Notes – General Principles of Orthopedic Injuries – November 2016 
+www.crackcast.org 
+ 
+ 
+                              
+5) List 7 physical findings in compartment syndrome 
+ 
+● At risk locations: - see Box 49-4 
+○ Calf 
+○ Thigh 
+○ Forearm  
+● This is a clinical diagnosis! 
+○ “This is the hallmark diagnosis in a conscious fully alert patient who has pain that is 
+disproportionate to the injury or physical findings” 
+○ Subjective complaints are important indicators of compartment syndrome 
+● Skin colour, temperature, capillary refill, and distal pulses are all unreliable indicators (as are pallor, 
+and loss of pulses!) 
+● Rate of extremity swelling peaks at the 36-48 hr mark post injury 
+ 
+1. POOP to PxF 
+2. Deep, burning, unrelenting, difficult to localize pain 
+3. Increasing need for analgesics  
+4. Pain on passive stretching of the muscle groups 
+5. Pain with active flexion of the muscle groups 
+6. Hypoesthesias or paresthesias in the distribution of nerves crossing the compartment 
+7. Tenderness / tenseness of the compartment  
+ 
+****The five P’s  
+● These are NOT signs of compartment syndrome, rather they are signs of acute disruption of 
+arterial flow 
+ 
+6) Describe the management of compartment syndrome 
+ 
+● Elevating the limb may be counterproductive - because it decreases the local arterial pressure  
+● Normal compartment pressure is 0 mmHg 
+○ Microcirculation is impaired when tissue pressures > 30 mmHg 
+■ But this VARIES person to person based on their tolerance to ischemia 
+○ “Inadequate perfusion and ischemia begin when tissue pressure in a closed 
+compartment are within 20 mmHg of a patient’s diastolic BP 
+○ OR Within 30 mmHg of the MAP 
+○ When tissue pressure = or exceeds the patients DBP tissue perfusion ceases 
+● Intra-compartmental pressures don’t measure muscle and nerve ischemia, they just identify 
+a ripe environment where this ischemia could occur 
+ 
+ 
+ 
+Diagnostic tests: 
+● Two techniques:  
+○ Slit-catheter 
+○ Side-port needle 
+■ Stryker compartmental pressure monitor: 
+Crack Cast Show Notes – General Principles of Orthopedic Injuries – November 2016 
+www.crackcast.org 
+ 
+ 
+                              
+● Make sure that it is zeroed in the plane in which the needle will 
+be inserted 
+● A single measurement is not as important as serial 
+measurements   
+● Doppler ultrasound is NOT useful.  
+ 
+ 
+ 
+ 
+Management:  
+1. Fasciotomy STAT 
+2. Fasciotomy within 12 hrs 
+3. Fasciotomy and DON’T elevate the limb (slight dependency) 
+4. Manage rhabdomyolysis, hyperkalemia, lactic acidosis.  
+ 
+7) List 5 bones predisposed to AVN 
+ 
+1. Femoral head 
+2. Talus  
+3. Scaphoid 
+4. Lunate  
+5. Capitate  
+ 
+ 
+ 
+ 
+Lippism: FeTal ScaPLuna?  
+§ 
+OR all the crescent moon-shaped bones in the hand and... 
+8) Describe diagnostic criteria for CRPS 
+ 
+ 
+Complex regional pain 
+syndrome - type 1 
+“Pain syndrome that develops after a noxious event and extends 
+beyond a single peripheral nerve and is disproportionate to the 
+inciting event” 
+● 
+Affects the DISTAL end of an extremity  
+● 
+Changes in blood flow to the extremity  
+● 
+Abnormal pseudo-motor activity in the region of pain 
+● 
+Hyperpathia (pain persisting or increasing after light or 
+mild pressure)  
+● 
+There is no other evident diagnosis  
+Etiology - unknown  
+● 
+Central and peripheral sensitization after an event that is 
+pathologic and leads to maladaptive sympathetic and 
+brain mapping responses  
+Provoking factors: 
+● 
+Fractures, surgery, minor procedures, IV injections, 
+idiopathic (50% of the time), tight casts.  
+● 
+Girls 3x more likely than boys to get it.   
+Diagnosis: 
+● 
+Difficult; because very trivial injuries can provoke it 
+● 
+No agreed upon diagnostic criteria (see table 49-6) 
+Treatment:  
+● 
+Controversial  
+● 
+Multidisciplinary approach - PT, counselling, regional 
+nerve blocks, surgical sympathectomy 
+Type 1 CRPS - many different 
+diagnostic criteria: 
+● 
+Signs: 
+○ 
+Allodynia 
+○ 
+Hyperalgesia 
+○ 
+Edema, sweating 
+○ 
+Not confined to 
+one nerve 
+distribution 
+○ 
+Motor and 
+sensory 
+dysfunction 
+Distal-proximal gradient  
+ 
+Type 2 - CRPS has a demonstrable 
+peripheral nerve injury  
+  
+ 
+ 
+Crack Cast Show Notes – General Principles of Orthopedic Injuries – November 2016 
+www.crackcast.org 
+ 
+ 
+                              
+● 
+PO meds: 
+○ 
+Bisphosphonates 
+○ 
+Calcitonin 
+○ 
+Indomethacin 
+○ 
+Corticosteroids 
+○ 
+TCA’s, gabapentin,  
+○ 
+acupuncture , spinal cord stimulation, regional 
+nerve blocks  
+○ 
+Prevented by taking Vitamin C ?? 
+ 
+9) List 6 complications of prolonged immobility 
+ 
+ 
+Complications of 
+immobilization  
+● 
+Lead to many issues in the elderly patient 
+○ 
+Pneumonia 
+○ 
+DVT / thrombophlebitis  
+○ 
+PE 
+○ 
+UTI 
+○ 
+Wound infection 
+○ 
+Decubitus ulcers 
+○ 
+Atrophy 
+○ 
+Stress ulcers 
+○ 
+GI bleed 
+ 
+Fracture complications 
+● 
+Related to location 
+● 
+Volkmann’s ischemic 
+contracture 
+● 
+CRPS 
+● 
+Anatomic injuries  
+ 
+Immobility complications 
+● 
+Due to comorbidities 
+● 
+Medical issues...DVT, PE, 
+infection 
+  
+ 
+Wisecracks:  
+1. Describe fat embolism syndrome and its management:  
+ 
+ 
+Fat embolism 
+syndrome 
+Fat globules in the lung or peripheral circulation after a LONG 
+bone fracture or major trauma 
+● 
+Often subclinical  
+● 
+People with major trauma have them, but most are 
+asymptomatic  
+● 
+Signs: 
+○ 
+Resp. distress, hypoxemia, ARDS 
+○ 
+Confusion, mental status change suddenly  
+○ 
+Thrombocytopenia 
+○ 
+Petechial rash  
+○ 
+Fever, tachycardia, jaundice  
+○ 
+Fat seen in the urine in 50% of cases in 3 
+days post injury 
+ 
+Common after Tib/fib fractures 
+(young adults) OR hip fractures in 
+the elderly 
+ 
+● 
+1-2 days post acute injury 
+or IM nailing  
+● 
+Up to 2% in long bone # 
+● 
+Up to 10% in multi# pts 
+ 
+Treatment 
+● 
+Supportive care 
+● 
+20% mortality rate 
+● 
+No therapy shown to 
+benefit  
+ 
+ 
+ 
+ 
+2. What is the most common site of compartment syndrome? 
+● Anterior compartment of the lower leg 
+ 
+Crack Cast Show Notes – General Principles of Orthopedic Injuries – November 2016 
+www.crackcast.org 
+ 
+ 
+                              
+ 
+3. Are open or closed fractures at higher risk of compartment syndrome? 
+ 
+ 
+ 
+OPEN! 
+§ 
+But as many as 30% of people (based on the UK study listed in Rosen’s) only had soft tissue injuries 
+WITHOUT fracture! 
+§ 
+High risk populations: men < 35, bleeding disorders, anticoagulation, MVC’s or sports injuries.  
+ 
+ 
+4. Please differentiate between sprain, strain and bursitis 
+ 
+Sprain: “Ligamentous injuries resulting from an abnormal motion of a joint” 
+ 
+1st degree - minor tearing of ligamentous fibers w/ mild hemorrhage and swelling. 
+2nd degree - partial tear of ligament with moderate hemorrhage / swelling 
+3rd degree - complete tearing of ligament 
+ 
+ 
+Strain: “injury to musculotendinous unit resulting from violent contraction or excessive forcible stretch” 
+ 
+1st degree - minor tearing of muscle and/or tendon fibers w/ mild hemorrhage and swelling. 
+2nd degree - partial tear of muscle and/or tendon fibers with moderate hemorrhage / swelling 
+3rd degree - complete tearing of muscle and/or tendon fibers with possible avulsion fracture 
+ 
+Bursitis. - bursa is mad. Usually overuse or traumatic. Supportive care.  
+ 
+5. Please differentiate between tendonitis and tendonosis 
+ 
+Tendonitis classic def: inflammatory condition characterized by pain at tendinous insertions into bone, 
+occurring in the setting of overuse 
+ 
+Now thought to be more than just overuse - load and use interact to affect cell-matrix interaction 
+ 
+Tendonosis - contentious name that describes more chronic conditions: eg. degenerative changes, chronic 
+tendinopathy, or partial rupture 
+ 
+Common Sites for Tendinitis 
+§ 
+Rotator cuff of the shoulder 
+§ 
+Achilles tendon 
+§ 
+Radial aspect of the wrist (de Quervain’s tenosynovitis),  
+§ 
+Insertion of the hand extensors on the lateral humeral epicondyle (tennis elbow).  
+§ 
+Patellar tendon 
+§ 
+Biceps femoris, semitendinosus, and semimembranosus (hamstring syndrome);  
+§ 
+Posterior tibial tendon (shin splint syndrome)  
+§ 
+Iliotibial band;  
+Crack Cast Show Notes – General Principles of Orthopedic Injuries – November 2016 
+www.crackcast.org 
+ 
+ 
+                              
+§ 
+Common wrist  extensors (medial epicondylitis) (little league pitchers and golfers) 
+Pearl: Don’t forget about calcific tendonitis common to the common shoulder, wrist, hand, neck, hip, knee, 
+ankle, or foot 
+Subluxations and dislocations …..go read the textbook!  
+ 
+ 

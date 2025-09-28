@@ -1,0 +1,131 @@
+# Metadata
+- Source: The Bottom Line
+- Title: GRECCO-19
+- Original URL: https://www.thebottomline.org.uk/summaries/grecco-19/
+- Scrape Date: 2025-07-17
+- Summary Date: AUTO_FILL_IF_AVAILABLE
+
+Effect of Colchicine vs Standard Care on
+Cardiac and Inflammatory Biomarkers and Clinical
+Outcomes in Patients Hospitalized With Coronavirus
+Disease 2019. The GRECCO-19 Randomized Clinical
+Trial
+Deftereos et al, JAMA June 24, 2020;3(6):e2013136; doi:10.1001/jamanetworkopen.2020.13136
+Clinical Question
+In patients hospitalised with symptomatic coronavirus disease 2019, does the administration of colchicine improve clinical & laboratory outcomes?
+Background
+Since the arrival of COVID-19 onto the world stage of infectious disease there has been a series of rapidly performed trials seeking to pair up an evolving understanding of the pathophysiology of the SARS-CoV-2 virus with knowledge of
+the mechanism of drug effects. Some medications appear to have beneficial effects (Dexamethasone – RECOVERY. Remdesivir – ACTT-1) while others have yet to show promise
+There has in addition been debate over the timing of administration and the target population of many of these agents
+Colchicine is used as an anti-inflammatory drug in conditions such as gout, pericarditis and Mediterranean fever. It has inhibitory effects on WBC migration, IL 1 and 6, GM-CSF and possibly anti-thrombotic effect. The mechanism of these effects is not fully understood but is thought to be mediated via microtubule assembly
+COVID-19 has documented pro-inflammatory and pro-thrombotic features
+Design
+An open-label, randomised control, multicentre trial
+Randomisation was computerised and performed off-site, using
+1:1 simple randomisation (R software version 3.6.2).
+Analysis was by intention-to-treat (ITT)
+Power calculation
+Assuming a median event-free survival of 30 days and an accrual time of 30 days, 180 patients needed to have a 90% probability to detect a 50% reduction in the primary clinical end point, with a 5% false positive rate
+Trial funding was supported by ELPEN Pharmaceuticals, Acarpia Pharmaceuticals and Karian Pharmaceuticals, though it was stated that the funding sources had no role in the trial concept, design, management, data handling or writing of the manuscript. A number of the trial authors receive pharmaceutical grants and fees
+The protocol was approved by the National Ethics Committee and the Hellenic National Organization for Medicines. All patients provided written informed consent before enrollment
+The trial was reported according to Consolidated Standards of Reporting Trials (CONSORT) reporting guideline
+Setting
+Multi-centre: 16 tertiary care hospitals in Greece
+Patient recruitment started on April 3, 2020, and was halted on April 27, 2020, due to slow enrollment because of the rapid flattening of the curve of COVID-19 cases in Greece
+Population
+Inclusion criteria
+: Hospitalised adult patients diagnosed with SARS-CoV-2 infection, confirmed with rtPCR, and:
+Temperature of 37.5 °C or greater
+2 or more of the following:
+Sustained coughing, sustained sore throat, anosmia and/or ageusia, fatigue and/or tiredness, PaO2 < 95 mm Hg on room air
+Exclusion criteria
+: pregnancy or lactation, known hypersensitivity to colchicine, known hepatic failure, estimated GFR <20 mL/min/1.73 m2, cQT >=450 milliseconds, clinical assessment indicating that ventilatory support would be inevitable in the following 24 hours
+110 patients randomised, of whom 105 included in final analysis
+Comparing baseline characteristics of intervention vs. control group
+Withdrew consent before the study: 2% vs. 7%
+Male: 56% vs. 60%
+Median age: 63 vs. 65
+BMI: 27.3 vs. 27.7
+Median time from admission to enrollment: 3 vs. 5 days
+PaO2 <95mmHg: 75% vs. 66%
+Diabetes: 16% vs. 24%
+Hypertension: 40% vs 50%
+Coronary artery disease: 16% vs. 10%
+Known immunosuppression: 5.5% vs. 2%
+Concomitant COVID-19 treatment:
+Chloroquine or hydroxychloroquine: 100% vs. 96%
+Azithromycin: 93% vs. 92%
+Lopinavir or ritonavir: 26% vs. 38%
+Tocilizumab: 3.6% vs. 4.0%
+Intervention
+Colchicine, open label (n=55)
+Loading dose
+1.5mg + 0.5mg at 1hour if no adverse gastrointestinal effects were observed
+In the case of azithromycin co-administration a single 1mg loading dose of colchicine was administered
+Maintenance dose
+0.5mg BD until hospital discharge or maximum of 21 days
+Reduced to once daily if weight <60kg
+Control
+Standard care (n=50)
+Outcome
+Primary outcome
+: comparing intervention vs. control group
+There were 3 primary outcomes, two lab markers and one clinical
+Peak high sensitivity cardiac Troponin (hsTnT)
+No significant difference with low values overall
+Time to CRP rising more than three times above normal
+No significant difference and many patients already had high CRP levels at the time of enrolment.
+Time until 2 point deterioration on a 7-point
+WHO R&D Blueprint Ordinal Clinical Scale
+within 3 weeks of randomisation
+Clinical primary end point (clinical deterioration) occurred significantly more often in control group
+1.8% vs. 14%, p=0.02, Odds ratio 0.11 (95% C.I. 0.01-0.96)
+Cumulative event free 10 day survival – significantly greater in intervention group
+97% vs. 83%, p=0.03
+Patients who met primary clinical end point
+In intervention group (n=1)
+1 intubated and ventilated and subsequently died
+In control group (n=7)
+1 required non-invasive ventilation
+5 intubated and mechanically ventilated
+4 died
+Secondary outcomes
+: comparing intervention vs. control group
+All-cause mortality – no significant difference
+Need for mechanical ventilation – no significant difference
+Adverse events – no significant differences apart from
+Diarrhoea – significantly increased in intervention group
+46% vs. 18%, p=0.003
+Median hospital stay – no significant difference
+12 vs. 13 days
+Authors’ Conclusions
+“participants who received colchicine had statistically significant improved time to clinical deterioration compared with a control group that did not receive colchicine. However, the observed difference was based on a narrow margin of clinical significance; therefore, these observations should be considered hypothesis generating”
+Strengths
+A well conducted trial that was quickly put together in challenging circumstances where information and patient numbers were rapidly changing
+A very thorough baseline characteristics comparison
+A multicentre (n=16) study of a tertiary care population
+No patients were lost to follow up
+Weaknesses
+Small sample size, the effect of which can clearly be seen in some of the confidence interval ranges
+The trial was terminated early as recruitment numbers fell off as the COVID-19 incidence curve flattened in Greece. The required sample size was not met
+The only primary outcome that showed any benefit was the clinical outcome of a WHO R&D Blueprint Ordinal Clinical Scale and it had a Fragility index = 1. So this is not robust data
+This is a trial that is heavily sponsored by three pharmaceutical companies, though the authors state that those companies had no role in the trial design, management or reporting
+Power calculation was looking for a very optimistic target of a 50% reduction in the primary outcome. That’s an optimistic target and many studies looking for a 10-20% benefit fail to do so
+The study had 3 primary outcomes, two of which were not patient centred outcomes
+A large number of both clinical and laboratory data outcomes reported though some values were not recorded, such as IL-1 and 6. This is notable as the main proposed mechanism of action for colchicine is its anti-inflammatory activity
+The Bottom Line
+This small trial demonstrates another easy-to-start treatment (supply, administration route) that may have a benefit at ward level in reducing the number of patients that deteriorate to the level of needing ICU admission, primarily due to need for ventilator support; i.e. possibly a useful surge/crisis therapy
+However, the study numbers are small, the absolute benefit numbers even smaller and the confidence intervals are wide. Additionally the one clinical benefit demonstrated had a Fragility Index of 1. So this rates as a hypothesis generating study, not a practice changer
+Based on this trial, I will not be chasing my pharmacist to check out the supply robustness of colchicine yet
+External Links
+[article]
+Effect of Colchicine vs Standard Care on Cardiac and Inflammatory Biomarkers and Clinical Outcomes in Patients Hospitalized With Coronavirus Disease 2019 The GRECCO-19 Randomized Clinical Trial
+[further reading]
+JAMA editorial
+[further reading]
+Title and author
+Metadata
+Summary author: Matthew Mac Partlin,
+@rollcagemedic
+Summary date: 20th July 2020
+Peer-review editor: @David Slessor

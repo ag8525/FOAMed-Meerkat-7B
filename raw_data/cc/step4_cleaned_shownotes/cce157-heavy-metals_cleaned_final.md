@@ -1,0 +1,317 @@
+---
+title: "CrackCast Episode 157: Iron and Heavy Metals"
+url: "https://canadiem.org/crackcast"
+date: 2018-03
+source: "CanadiEM – CrackCast"
+original_file: "CCE157-Heavy-Metals.pdf"
+summary: |
+  The document discusses the clinical management of iron and heavy metal toxicity, focusing on diagnostic principles and treatment strategies. Key conditions include acute iron poisoning, which can lead to gastrointestinal symptoms, metabolic acidosis, and hepatotoxicity, with deferoxamine as the chelation agent of choice for severe cases. Lead poisoning is primarily managed by removing the source of exposure, with chelation therapy indicated for high blood lead levels or symptomatic patients. Arsenic toxicity requires chelation with British anti-lewisite or succimer, while mercury toxicity varies by form, with elemental mercury causing pulmonary and CNS toxicity. Whole bowel irrigation is recommended for gastrointestinal decontamination in cases of iron and lead toxicity. The document emphasizes the importance of consulting medical toxicologists for metal testing and management in the emergency department.
+
+---
+
+## Overview
+
+### Key Concepts
+
+- Asymptomatic patients seeking ED care for an abnormal metal test need follow-up evaluation arranged with a medical toxicologist.
+- Metal testing in the ED should only be ordered in consultation with a medical toxicologist or regional poison center.
+- Acute ingestion of the salts of most metals causes rapid severe gastrointestinal pain and emesis.
+- Any abnormal neurologic signs in a patient with any metal exposure warrants admission for further evaluation and chelation therapy.
+- Acute iron poisoning can result in gastrointestinal symptoms, metabolic acidosis, and hepatotoxicity. Serum iron levels at 3 and 6 hours after ingestion determine toxicity and need for therapy.
+- The chelation agent of choice for severe iron poisoning is deferoxamine and is indicated for peak serum iron concentrations greater than 500 µg/dL (90 mmol/L) and patients with severe signs and symptoms regardless of the iron level.
+- The most important intervention for lead poisoning is removal from the source of exposure.
+- The gastrointestinal decontamination method of choice for iron and lead toxicity with radiographic presence of pills or paint chips is WBI.
+- The chelation agent of choice for acute arsenic poisoning is intramuscular British anti-lewisite (BAL) or oral succimer.
+- Elemental mercury is nontoxic to the gastrointestinal tract but may cause pulmonary and CNS toxicity from inhalation of volatilized vapors.
+
+### Rosens in Perspective
+
+Iron OD in children used to be a big killer, but nowadays with new FDA regulations there are few deaths.
+
+Iron Key Points:
+- Absorbed in the small intestine
+- It is the unbound iron (once absorbed) that is a direct toxin (because the serum proteins that normally bind absorbed iron are overwhelmed)
+- Iron toxicity:
+  - (1) direct caustic injury to the gastrointestinal mucosa (resulting in necrosis, bleeding, perforation)
+  - (2) impaired cellular metabolism, primarily of the heart, liver, and central nervous system (CNS). (via uncoupling of oxidative phosphorylation and impairment of ATP synthase; cell membranes are damaged by iron free radicals; iron is an arteriolar/vasodilator; direct myocardial toxin).
+
+## Core Questions
+
+### 1. What are the 3 common preparations of Iron and how much elemental iron is in each?
+
+This probably seems like an esoteric question! But it’s not. Determining the amount of elemental iron ingested is most important, because cellular toxicity depends on the effects of elemental iron. Different formulations of iron salts contain different percentages of elemental iron.
+
+| Compound          | % Elemental Iron |
+|-------------------|------------------|
+| Ferrous Sulfate   | 20               |
+| Ferrous fumarate  | 33               |
+| Ferrous gluconate | 12               |
+| Caronyl iron      | 100              |
+| Iron polysaccharide | 46             |
+
+“GCSF” 10-20-30. Get, Some, Ferrous, NOW! (ninety)
+
+Now to calculate the total amount of ingested elemental iron = (estimated # of tablets ingested) x (fraction of elemental iron in the tablet).
+
+For example: 100 tabs of ferrous fumarate x 30 (the fraction or percentage of elemental iron) = 3000 mg of elemental iron.
+
+Aka (mg per tab) x (# of tabs) x (% of elemental iron) = number you want
+
+An interesting note: the newer iron preparations with non-ionic iron have MUCH lower toxicity = i.e. no reported cases of serious toxicity!
+
+### 2. What amount of ingested iron / iron level constitutes Mild toxicity / Moderate toxicity / Severe toxicity?
+
+- Ingesting ≤ 20 mg/kg = no symptoms
+- Mild/moderate toxicity: 20-60 mg/kg
+- Severe: > 60 mg/kg
+- LD50 (50% mortality) = 200-250 mg/kg
+
+That being said doses as little as 130 mg in children have been lethal.
+
+Peak serum iron below 350 µg/dL is generally associated with minimal toxicity; 350 to 500 µg/dL (90 mmol/L), with moderate toxicity; and above 500 µg/dL (90 mmol/L), with severe toxicity. **draw those peak levels at 4-6 hrs post ingestion!
+
+### 3. Describe the 5 phases of Iron Toxicity
+
+- The clinical effects of acute iron poisoning have traditionally been divided into five stages (Table 151.2)
+- But not every patient experiences the effects of every stage in the same time frame.
+- The severity of phase IV features is primarily dose-related, and it is usually during this phase that fatality occurs.
+
+| Phase      | Clinical Features                                      | Mechanism of Toxicity                                      |
+|------------|--------------------------------------------------------|------------------------------------------------------------|
+| 1 GI 6hr   | Vomiting, diarrhea, hematemesis, hematochezia          | Corrosive effect of iron on GI mucosa                      |
+| 2 Latent 6-24hr | Resolution of GI sx. Tachycardia, acidosis, altered mental status | Ongoing cellular toxicity and organ damage                 |
+| 3 Systemic 12-24hr | Return of GI sx, acidosis, leukocytosis, coagulopathy, renal failure, lethargy/coma, CV collapse | Iron distributes to the tissues with worsening cellular toxicity and organ damage |
+| 4 Hepatic 2-5 days | Fulminant hepatic failure, coagulopathy         | Rapid absorption from portal system with resultant oxidative damage |
+| 5 Obstructive 3-6 weeks | Pyloric or bowel scarring, obstruction     | Healing of the injured GI mucosa                           |
+
+Gross, Large, Systemic Ingestions of Iron, Have Killed Otters
+
+Curious George’s Last Snack Hemorrhaged His GUTS.
+
+A few key points:
+- The presence of gastrointestinal symptoms suggests a potentially serious ingestion, whereas absence of gastrointestinal symptoms is usually reassuring.
+- A serum iron concentration measured at 3 to 5 hours after ingestion is the most useful laboratory test to evaluate the potential severity of an iron overdose. Sustained-release or enteric-coated preparations may have erratic absorption, so the serum concentration should be repeated at 6 to 8 hours after ingestion.
+- Because iron is rapidly cleared from the serum and deposited in the liver, the concentration of iron after a substantial ingestion may be deceptively low if it is measured many hours after its peak absorption.
+
+Iron’s toxic effects come from:
+- Direct caustic injury of gastric mucosa = gastritis & GI Bleed
+- Uncoupling of oxidative phosphorylation in heart /CNS / liver
+
+### 4. Describe the management of iron toxicity
+
+So you suspect it on hx (shooting a screening abdominal plain film may be helpful)!
+- [false-negative radiographs may occur with chewable, liquid, and completely dissolved iron compounds. Repeated radiographs can also demonstrate the efficacy of gastrointestinal decontamination efforts.]
+
+Activated charcoal does NOT bind iron. Whole bowel irrigation is the method of choice for decontamination in acute iron ingestions. (PEG via NG @ 500 - 2 L PER hour depending on the age) - until rectal effluent is clear. (indicated for ingestion >20mg/kg or pills on AXR)
+
+WBI is contraindicated in the presence of bowel obstruction, perforation, ileus, or hemodynamic instability.
+
+Hemodialysis and hemoperfusion are not effective in the removal of iron because of its large volume of distribution. *but can try when used in combo with deferoxamine.
+
+#### a. What are the indications for deferoxamine?
+
+Deferoxamine is the specific antidote for iron toxicity. Deferoxamine chelates iron to form the water-soluble compound ferrioxamine, which is renally excreted (or dialyzable). Deferoxamine binds to free iron and will not chelate iron from hemoglobin, transferrin, or ferritin.
+
+Patients with an iron concentration above 500 µg/dL (90 mmol/L) and those who, regardless of level, are exhibiting severe signs and symptoms of iron toxicity (such as metabolic acidosis, repetitive vomiting, toxic appearance, lethargy, hypotension, or signs of shock) require chelation.
+
+Pregnancy is not a contraindication to deferoxamine. However, the pre-pregnancy weight should be used to calculate the ingested dose. Because of its short half-life, deferoxamine is administered as a continuous intravenous infusion at 15 mg/kg/hr for up to 24 hours. The maximum rate of administration is 35 mg/kg/hr.
+
+#### b. List the potential adverse effects of deferoxamine.
+
+- More rapid administration of deferoxamine can lead to hypotension, which is managed by reducing the initial rate of the infusion and then slowly increasing it to the desired rate.
+- Deferoxamine has been associated with acute respiratory distress syndrome and also with Yersinia sepsis.
+- The pulmonary complications are usually related to high-dose deferoxamine for durations longer than 24 hours.
+
+#### c. What is the clinical presentation of iron toxicity?
+
+See the previous questions. Usually patients present with severe abdominal pain, vomiting, nausea, hematemesis, diarrhea.
+
+### 5. In what situations might lead poisoning present to the ED?
+
+Many sources of lead these days!
+
+| Category     | Source                                                                 |
+|--------------|------------------------------------------------------------------------|
+| Pediatric    | Lead dust, Paint in old homes, Parent’s occupation, Imported toys or candies, Foreign body ingestions |
+| Occupational | Construction, old home rehab, Lead smelters, Battery recycling, repair and manufacturing, Firing range instructors, Automobile mechanics, Plastics manufacturing |
+| Recreational | Moonshine, Ceramics, Home and car remodeling, Painting                 |
+| Other        | Herbal remedies, Retained lead bullets                                 |
+
+Most lead exposures occur by ingestion in children and workplace inhalation in adults. Dermal absorption may also occur but is much less significant. Children and pregnant women absorb almost four times the amount of ingested lead than other adults.
+
+### 6. List the 3 body systems poisoned by lead? What is the clinical presentation of lead toxicity?
+
+Think primarily: HEMATOLOGIC; NEUROLOGIC; RENAL
+
+Presentation varies depending on the lead level.
+
+| Lead Level | Symptoms - Adults                      | Symptoms - Children                      |
+|------------|----------------------------------------|------------------------------------------|
+| 10         | None                                   | Decreased IQ, Decreased Hearing, Decreased Growth |
+| 20         | Increased Protoporphyrin, No symptoms  | Decreased nerve conduction, Increased protoporphyrin |
+| 30         | Increased blood pressure               | Decreased Hearing, Decreased vitamin D metabolism |
+| 40         | Peripheral neuropathies, Nephropathy, Infertility (men) | Decreased Hb synthesis                  |
+| 50         | Decreased Hb synthesis                 | Lead colic                               |
+| 70         | Anemia                                 | Anemia, Encephalopathy, Nephropathy      |
+| 100        | Encephalopathy                         | Death                                    |
+
+### 7. How is lead toxicity diagnosed? What are the toxic levels?
+
+- Blood lead level
+- Anemia w/ basophilic stipling on smear
+- Radio-opaque lead in stomach
+- Radiographs of wrists and knees may show “lead lines”
+
+Source here
+
+“Definition — The Centers for Disease Control and Prevention (CDC)'s Adult Blood Lead Epidemiology and Surveillance (ABLES) program monitors laboratory-reported elevated BLL among employed adults in 41 states. In 2009, ABLES changed the definition of elevated BLL from ≥25 mcg/dL (1.21 micromol/L) to >10 mcg/dL (0.48 micromol/L) based on research demonstrating adverse health effects at lower levels. In 2015, ABLES changed the definition of elevated BLL to >5 mcg/dL. The US Department of Health and Human Services recommends that lead levels for adults be kept below 10 mcg/dL.”
+
+### 8. Describe the management of lead toxicity.
+
+Similar for lead / arsenic / Mercury
+
+- WBI if recent ingestion or material confirmed on AXR
+- Chelating Agent
+- Serum lead level >3.5umol/L in Children
+- CNS symptoms (seizure, encephalopathy)
+
+As per uptodate:
+
+- “In most cases, removal from exposure is the only therapy needed.
+- Chelation therapy may be indicated at certain BLL and/or in symptomatic patients. Primary care clinicians may find it advisable to refer patients with elevated BLL, particularly >20 mcg/dL (0.97 micromol/L), to occupational medicine clinicians
+- Symptomatic patients – Some adults with BLL between 40 to 49 mcg/dL may have nonspecific low grade symptoms, such as fatigue, headache, or difficulty concentrating. If the timing of symptom onset corresponds with elevated BLL, these symptoms may be related to lead poisoning. Efforts should be made to decrease lead exposure.
+- BLL 50 to 79 mcg/dL — Patients should be removed from lead exposures. Patients who continue to have BLL >50 mcg/dL and symptoms consistent with lead exposure after removal should undergo chelation therapy, unless there are contraindications.
+- BLL 80 to 100 mcg/dL — Patients should be removed from lead exposures. BLL >100 mcg/dL — Removal from exposure and chelation therapy should be initiated for individuals with BLL >100 mcg/dL (4.83 micromol/L) At this level, patients may need inpatient chelation therapy and should be referred to an expert in treating lead poisoning.
+- Pregnancy and breastfeeding: lead levels less than 10 mcg/dL (0.48 micromol/L) may be of concern in pregnancy in light of studies demonstrating decrease in intellectual parameters on neurobehavioral testing in children with blood lead concentrations below 10 mcg/dL
+
+CHELATION THERAPY — Chelation with any agent should not be undertaken unless exposure has been definitively curtailed, since its use in the presence of continuing exposure may result in enhanced absorption of lead and worsening, rather than amelioration, of toxicity.
+
+- Unless there are contraindications, we advise that all individuals with blood lead levels (BLL) >80 mcg/dL have chelation therapy under the supervision of an occupational medicine specialist or toxicologist with expertise in treating lead poisoning.
+- Patients with BLL >100 mcg/dL usually require inpatient chelation therapy.
+- Thresholds for initiating chelation therapy in the management of pregnant and lactating women may differ, particularly since there are risks in giving chelating agents during pregnancy. (See 'Pregnancy and breastfeeding' above.)
+
+The two most commonly used chelating agents for adults are DMSA (Succimer) and CaNa2EDTA:
+
+- DMSA 10 mg/kg three times per day for five days, followed by 10 mg/kg twice per day for two weeks = adult dosing level of 500 mg twice per day for two weeks
+
+Given the benign nature of vitamin C supplementation in modest doses (100 to 1000 mg per day), this may be an attractive adjunct to the management of patients with mild lead toxicity as well as patients who simply have mild lead exposure.
+
+### 9. What are the symptoms of acute arsenic toxicity?
+
+- Gastrointestinal
+  - Gastroenteritis, hematemesis, hematochezia
+  - Jaundice
+  - Pancreatitis
+  - Dysphagia
+  - Hepatomegaly
+- Cardiovascular
+  - Third spacing and shock
+  - Sinus or VT
+  - Prolonged QT, ST depression, TWI
+  - Torsades
+  - Pericarditis
+- Respiratory
+  - Respiratory Failure
+  - ARDS
+  - Pulmonary edema
+  - PNA
+- Renal
+  - Proteinuria
+  - Hematuria
+  - Oliguria
+  - Renal Failure
+- Neurologic
+  - Headache
+  - Drowsiness
+  - Delirium
+  - Confusion
+  - Encephalopathy
+  - Seizure
+  - Coma
+
+Chronic = look for Mee’s lines
+
+### 10. How is arsenic toxicity managed?
+
+Note: Any urine level above 100 µg/day or 50 µg/L = treatment.
+
+These treatments should be initiated in the intensive care setting for critically ill patients and in consultation with a medical toxicologist.
+
+Acute Arsenic Poisoning
+- Chelation if symptomatic and suspected exposure
+- Start as early as possible without waiting for laboratory confirmation
+- Intramuscular BAL is the preferred chelator
+- Succimer can be given orally (if tolerates)
+- d-Penicillamine = lots of side effects and inferior to BAL or succimer,
+- Chelation is not useful for arsine gas exposures
+- Arsine gas poisoning = exchange transfusion, continuous venovenous hemodialysis, and plasma exchange
+
+Chronic Arsenic Poisoning
+- Tx after confirmed levels
+- Oral Succimer is the treatment of choice
+
+### 11. Which forms of mercury are toxic? Which cause acute toxicity?
+
+Mercury exists in elemental (metallic mercury), inorganic (mercury salts), and organic forms (methylmercury), all of which may be toxic.
+
+They all can cause acute toxic manifestation depending on the form and quantity of exposure.
+
+- The elemental (metallic mercury) is found in amalgam fillings and “quicksilver” - that silver coloured liquid found in thermometers and barometers. This liquid is a VAPOR at room temperature.
+  - Its main toxicity is to the pulmonary system causing pneumonitis
+  - It is poorly absorbed from the GI tract, but when inhaled can cause marked neurologic and nephrotoxicity.
+  - Acute — A severe and potentially fatal interstitial pneumonitis may result when mercury vapor is inhaled at concentrations in excess of 1000 mcg/m3.
+  - Symptoms and signs of severe acute poisoning may include:
+    - Cough, dyspnea, and chest pain
+    - Stomatitis, inflammation of the gums, and excessive salivation
+    - Severe nausea, vomiting, and diarrhea, which can lead to shock
+    - Conjunctivitis and dermatitis
+  - A variety of the above signs and symptoms may also occur after acute exposure to lower air concentrations of mercury in the range of 100 to 1000 mcg/m3.
+
+- Inorganic mercury (salt form)
+  - This is found in chloralkali industries, industries that use electroplating, or via exposure to laboratory reagents. Exposure may also occur via ingestion of mercury-containing oral or topical medications
+  - Toxicity can result from ingestion or absorption in the GI tract
+  - The acute ingestion of mercury salts may cause severe abdominal pain, accompanied by hemorrhagic gastroenteritis and severe volume depletion within several hours of ingestion. Ultimately, death may occur from cardiovascular collapse and shock. Patients who survive the acute insult may develop acute kidney injury related to acute tubular necrosis.
+
+- Organic mercury (methyl, diethyl)
+  - Exposure to organic mercury is mostly via consumption of mercury-contaminated fish
+  - Certain types of marine fish (such as shark, swordfish, and tuna) and certain fish taken from polluted fresh waters (such as pike, walleye, and bass) may contain high concentrations of mercury, almost completely in the form of methylmercury.
+  - Significant organic mercury exposure causes acute gastrointestinal and respiratory symptoms, followed by neurologic symptoms that include paresthesias (notably around the mouth), malaise, constriction of the visual field, deafness, and ataxia. The fetus is particularly vulnerable.
+
+Elemental and inorganic mercury, if present in elevated levels in the urine, are generally treated with a chelator.
+
+## Wisecracks
+
+### 1. List 3 chelating agents for heavy metal toxicity
+
+See Table 151.5
+
+| Chelator         | Indications                                           | Contraindications                      |
+|------------------|-------------------------------------------------------|----------------------------------------|
+| Deferoxamine     | Iron level >500 g/dL or systemic symptoms             |                                        |
+| Demercaprol (BAL)| Lead level >70 mcg/dL or encephalopathy, Arsenic – symptomatic patient, Mercury – inorganic | Peanut allergy, Organic mercury poisoning |
+| CaNaEDTA         | Lead level of >70 mcg/dL or encephalopathy (given after first dose of BAL) |                                        |
+| Succimer (DMSA)  | Level level of 45-69, Arsenic – if tolerated orally for subacute and chronic toxicity, Mercury – Acute and chronic |                                        |
+| D-penicillamine  | Lead level 45-69, succimer not tolerated, Arsenic – Only if BAL and DMSA unavailable, Mercury – If BAL and DMSA are unavailable or not tolerated | Penicillin allergy                     |
+| DMPS (Investigational) | Lead (chronic), Arsenic, Mercury               |                                        |
+
+### 2. What is Pinks disease?
+
+Remember the good old days of playing with liquid mercury… oh that's right… that was poison. Pinks disease aka “Acrodynia” =
+
+- Pain and dusky pink discoloration in hands & feet
+- Most often seen in children w/ chronic exposure to heavy metals
+- Especially seen w/ mercury
+- Often associated with peripheral neuropathies
+- Can mimic pheochromocytoma or Kawasaki disease
+
+### 3. What are the potential complications of deferoxamine?
+
+- Yersinia Sepsis
+- ARDS
+- Hypotension
+- Anaphylactoid reaction
+
+## References
+
+- [CanadiEM – CrackCast](https://canadiem.org/crackcast)
+```

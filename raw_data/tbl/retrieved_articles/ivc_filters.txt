@@ -1,0 +1,126 @@
+# Metadata
+- Source: The Bottom Line
+- Title: IVC Filters
+- Original URL: https://www.thebottomline.org.uk/summaries/icm/ivc-filters/
+- Scrape Date: 2025-07-17
+- Summary Date: AUTO_FILL_IF_AVAILABLE
+
+A Multicenter Trial of Vena Cava Filters in Severely Injured Patients
+Ho KM et al. NEJM 2019; DOI: 10.1056/NEJMoa1806515
+Clinical Question
+In severely injured trauma patients, where anticoagulation is contraindicated, does the use of prophylactic inferior vena cava (IVC) filters reduce the incidence of pulmonary embolism (PE)?
+Background
+Venous thromboembolism after trauma is common; in study of severely injured trauma patients, 18% had DVT and 11% had PE
+37% of all symptomatic PE occurred within the first 4 days after trauma
+Considered a major cause of preventable death post
+Meta-analysis published in 2014
+supported the use of IVC filters in trauma patients (lower incidence of PE and fatal PE)
+Meta-analysis published in 2017
+(not restricted to trauma cohort) concluded that despite the limited quality of evidence, IVC filters appear to reduce the risk of subsequent PE, increase risk for DVT with no significant effect on mortality
+Design
+Randomised controlled trial
+Permuted-block scheme randomisation
+Patient and treating clinician aware of assignment
+To minimise bias:
+Protocolised, proactive approach to detect symptomatic pulmonary embolus
+Strict criteria for performing CT pulmonary angiogram
+Intention to treat analysis
+Assuming 9% incidence rate of PE in severely injured trauma patients who did not receive prophylactic anticoagulation, 240 patients would provide 80% power to detect an 8.5% lower incidence of symptomatic PE with the IVC filter, allowing for 20% crossover between groups
+Trial protocol and statistical plan published
+No financial or non-monetary (in-kind) support was received from any companies that manufacture IVC filters or from commercial entities
+Setting
+4 tertiary centres in Australia
+June 2015 to December 2017
+Population
+Inclusion
+:
+Age 18 years and above
+Injury Severity Score (ISS) > 15
+Contraindication to prophylactic anticoagulation within 72 hours of presentation of injury
+Exclusion
+:
+Imminent death
+Confirmed pulmonary embolus
+Systemic anticoagulant treatment before injury
+Pregnancy
+Unavailability of an interventional radiologist to insert the filter within 72 hours after admission
+1714 screened, 240 randomised (2 patients in each group crossed over)
+Comparing baseline characteristics (Intervention vs control)
+Age (median): 35 vs 41
+Male (%): 77 vs 76.3
+BMI: 25.8 vs 27.2
+Race (%)
+White: 87.7 vs 89
+Asian 4.1 vs 3.4
+Median time from injury to trial enrolment (hrs): 34.3 vs 32.5
+Median ISS score: 27 vs 26
+Median Trauma Embolic Scoring System score: 9 vs 9
+Intracranial haematoma or contusions (%): 60.7 vs 54.2
+Active bleeding on admission (%): 6.6 vs 10.2
+Prespecified subgroup – patients who did not receive anticoagulation within 7 days of injury (%): 38 vs 29
+Intervention
+Insertion of IVC filter type left to the discretion of the interventional radiologist who performed procedure
+89% of filters inserted within 24 hours (median 15.6 hours)
+All filters were removed as soon as prophylactic anticoagulation was safely established or before 90 days, unless there was a strong indication to leave the filter longer than this prespecified period
+Control
+Normal care as per management plan
+Management common to both groups
+Initiation of prophylactic anticoagulation as soon as clinically feasible but left at discretion of clinicians
+Intermittent pneumatic compression to uninjured legs
+Clinicians were allowed to insert a filter for patients assigned to the control group if there was a well established indication
+Routine Doppler and compression ultrasonography of the legs 2 weeks after enrolment
+All deaths in the trial were referred to the coroner; if deemed necessary, a full postmortem examination was performed to determine whether pulmonary embolism was the cause of death
+Outcome
+Primary outcome
+:
+Composite score of confirmed symptomatic PE on CTPA or death from any cause at 90 days
+No significant difference between intervention and control groups: 13.9% vs 14.4% (95% CI 0.51 to 1.94)
+Secondary outcome (intervention vs control)
+:
+Symptomatic pulmonary embolism in the subgroup of patients who survived at least 7 days and who did not receive prophylactic anticoagulation within 7 days after injury (38% in intervention group vs 29% in control)
+0 vs 14.7%
+Complications related to the IVC filters
+Clots on filter at first removal attempt: 4.9%
+Adherent to IVC wall at first removal attempt: 1.6%
+More than one attempt needed for removal: 5.7%
+Surgical removal required 0.9%
+Filter not removed due to technical reason or lost to follow up: 31.5%
+Death at 90 days
+13.1% vs 9.3% (95% CI 0.69 – 2.87)
+Major bleeding at 90 days
+70.5% vs 66.1% (95% CI 0.9 – 1.27)
+Non-major bleeding at 90 days
+23.8% vs 17.8% (95% CI 0.81 – 2.2)
+DVT at 90 days, including deep-vein thrombosis detected by protocol-mandated ultrasonography of the legs at 2 weeks (not prespecified in the protocol)
+11.4% vs 10.1% (95% CI -11.4 – 13.9)
+Authors’ Conclusions
+The use of early, prophylactic placement of a IVC filter after major trauma did not result in a lower incidence of symptomatic pulmonary embolism or death at 90 days
+Strengths
+Randomised controlled trial
+Multi-centre
+Weaknesses
+A single site accounted for 96% of recruitment
+Unblinded which may have influenced behaviour of treating clinicians
+Compliance/adherence to CTPA protocol not available
+Timing to initiate anticoagulation
+Power calculation: Underpowered
+9% incidence rate of PE based on old very old data and hence may not be reflective of modern practice
+8.5% absolute risk reduction translates to a 94% relative risk reduction
+Composite end point; possibility that all-cause mortality will greatly outweigh the mortality/morbidity associated with PE
+No data on the individual components of the composite end point
+The Bottom Line
+There is a limited role for the early use of IVC filters in the context of trauma
+Proactive and individualised consideration for the commencement of anticoagulation remains my current practice
+External Links
+[article]
+A Multicenter Trial of Vena Cava Filters in Severely Injured Patients
+[further reading]
+LITFL guide to IVC filters
+[further reading]
+PulmCrit – What is the evidence behind the IVC filter?
+Metadata
+Summary author:
+Adrian Wong
+Summary date: 11th July 2019
+Peer-review editor:
+Steve Mathieu

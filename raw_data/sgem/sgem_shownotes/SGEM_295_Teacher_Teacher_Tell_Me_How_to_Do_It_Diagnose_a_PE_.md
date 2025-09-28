@@ -1,0 +1,168 @@
+---
+url: https://thesgem.com/2020/06/sgem295-teacher-teacher-tell-me-how-to-do-it-diagnose-a-pe/
+title: "SGEM#295: Teacher Teacher – Tell Me How to Do It (Diagnose a PE)"
+date: 2020-06-13
+audio_url: https://media.blubrry.com/thesgem/content.blubrry.com/thesgem/SGEM295.mp3
+download_date: 2025-08-11
+---
+**Date:** June 9th, 2020
+
+**Guest Skeptic:**Dr. Chris Bond is an Emergency Medicine Physician and Assistant Professor at the [University of Calgary](https://twitter.com/UCalgaryEM). He is also an avid FOAM supporter/producer through various online outlets including [TheSGEM](http://www.thesgem.com/).
+
+**Reference:**Westafer et al. Provider Perspectives on the Use of Evidence-based Risk Stratification Tools in the Evaluation of Pulmonary Embolism: A Qualitative Study. [AEM June 2020.](https://onlinelibrary.wiley.com/doi/full/10.1111/acem.13908)
+
+**Case****:** A 63-year-old female presents to the emergency department (ED) with chest pain for the past eight hours. It is pleuritic, worse with certain movements and associated with some shortness of breath. Her vital signs are within normal limits and oxygen saturation is 95% on room air. An ECG, chest x-ray and troponin are all within normal limits and she has no calf swelling or tenderness. She does have a previous history of DVT/PE 12 years ago after returning from a transatlantic flight. She has also been doing more work around the house and lifting the past few weeks because of COVID and has some mild chest wall tenderness on palpation. The remainder of her Wells’ criteria are unremarkable. How do you proceed in evaluating this patient for pulmonary embolism (PE)?
+
+**Background:** Pulmonary embolism is a common ED diagnosis with an estimated 1-2% of all patients presenting to United States EDs undergoing CT for suspected PE (1). However, less than 10% of these scans show PE (2-4). We have covered the topic of PE frequently on the SGEM.
+
+* [SGEM#51](http://thesgem.com/2013/11/sgem51-home-discharging-patients-with-acute-pulmonary-emboli-home-from-the-emergency-department/): Home (Discharging Patients with Acute Pulmonary Emboli Home from the Emergency Department)
+* [SGEM#118](http://thesgem.com/2015/05/sgem118-i-hope-you-had-a-negative-d-dimer-adjust-pe-study/): I Hope you Had a Negative D-dimer (ADJUST PE Study)
+* [SGEM#126](http://thesgem.com/2015/07/sgem126-take-me-to-the-rivaroxaban-outpatient-treatment-of-vte/): Take me to the Rivaroxaban – Outpatient treatment of VTE
+* [SGEM#163](http://thesgem.com/2016/10/sgem163-shuffle-off-to-buffalo-to-talk-thrombolysis-for-acute-pulmonary-embolism/): Shuffle off to Buffalo to Talk Thrombolysis for Acute Pulmonary Embolism
+* [SGEM#219](http://thesgem.com/2018/05/sgem219-shout-shout-perc-rule-them-out/): Shout, Shout, PERC Rule Them Out
+* [SGEM#277](http://thesgem.com/2019/11/sgem277-in-the-pregnant-years-diagnosing-pulmonary-embolism/): In the Pregnant YEARS – Diagnosing Pulmonary Embolism
+* [SGEM#282:](http://thesgem.com/2020/02/sgem282-its-all-bout-that-bayes-bout-that-bayes-no-trouble-in-diagnosing-pulmonary-embolism/) It’s All ‘bout that Bayes, ‘Bout that Bayes- No Trouble – In Diagnosing Pulmonary Embolism
+
+There are multiple validated risk stratification tools to evaluate for PE and reduce inappropriate testing, including the Pulmonary Embolism Rule Out Criteria ([PERC](https://www.mdcalc.com/perc-rule-pulmonary-embolism)), [Wells’](https://www.mdcalc.com/wells-criteria-pulmonary-embolism)score, [YEARS](https://www.mdcalc.com/years-algorithm-pulmonary-embolism-pe) algorithm and D-Dimer testing (5-7). There have also been more recent adjustments to D-Dimer threshold based on clinical probability as calculated by a trichotomized Wells score (8).
+
+Unfortunately, clinician uptake of these validated tools has been incomplete, with some ED studies finding 25% of patients who warranted no laboratory or imaging studies still received testing (4, 9-12.) Low-value testing increases costs, ED length of stay and subjects patients to unnecessary ionizing radiation and risk of anaphylaxis from intravenous contrast dye (13-14).  Moreover, false positives CT scans are common and estimated to be between 10-26%, resulting in unnecessary anti-coagulation and risk to patients (15-17).
+
+This can ultimately lead to over-testing, over-diagnosing and over-treating. The American Board of Internal Medicine (ABIM) started the project called [Choosing Wisely](http://www.abimfoundation.org/Initiatives/Choosing-Wisely.aspx) to try and mitigate this problem. The SGEM looked at this imitative on an [SGEM Xtra](http://thesgem.com/2012/12/podcast-15-choosing-wisely/). The American College of Emergency Physicians ([ACEP](https://www.choosingwisely.org/societies/american-college-of-emergency-physicians/)) is part of the Choosing Wisely program and has a number of recommendations. One of the recommendations is on CT scans for ruling out PE. They have encouraged physicians *to”*
+
+* *“Avoid CT pulmonary angiography in emergency department patients with a low-pretest probability of pulmonary embolism and either a negative Pulmonary Embolism Rule-Out Criteria (PERC) or a negative D-dimer.”* *[ACEP 2014](https://www.choosingwisely.org/clinician-lists/acep-ct-pulmonary-angiography-in-ed-patients/)*
+
+The [Right Care Alliance](https://rightcarealliance.org/) (RCA) was established in 2015. Certainly, patients at times need less care but they also at times need more care. This group’s goal is to advocate for the goldilocks zone of care, not too much but also not too little ([SGEM Xtra](http://thesgem.com/2020/02/sgem-xtra-right-youre-bloody-well-right-youve-got-the-bloody-right-to-care/)).
+
+---
+
+### **Clinical Question:** What are the barriers and facilitators to the uptake of evidence-based practice in the ED evaluation for pulmonary embolism?
+
+---
+
+**Reference:**Westafer et al. Provider Perspectives on the Use of Evidence-based Risk Stratification Tools in the Evaluation of Pulmonary Embolism: A Qualitative Study. [AEM June 2020.](https://onlinelibrary.wiley.com/doi/full/10.1111/acem.13908)
+
+![](https://i0.wp.com/thesgem.com/wp-content/uploads/2018/10/Lauren-150x150.png?resize=150%2C150)
+
+Dr. Lauren Westafer
+
+As this is a qualitative study, we will use a modified PICO question
+
+* **Population:**Emergency physicians
+* **Interest:**The use of evidence-based risk stratification tools
+* **Context:**The evaluation of acute pulmonary embolism
+
+This is an SGEMHOP episode and we have the lead author of this quantitative study, Dr. Lauren Westafer. Lauren is an emergency medicine physician practicing in Massachusetts, and avid FOAM producer.
+
+> **Authors’ Conclusions:**“*Our findings suggest that common barriers exist to the use of risk stratification tools in the evaluation of pulmonary embolism in the ED and provide insight into where to focus efforts for future implementation endeavors. Overall, provider-level factors such as risk avoidance and lack of knowledge of the tools dominated as barriers, while inner-setting factors were identified as facilitators. Future efforts to improve evidence based diagnosis of pulmonary embolism should focus**on implementation strategies targeting these domains.”*
+
+**![](https://i0.wp.com/thesgem.com/wp-content/uploads/2014/04/checklist-cartoon-150x150.gif?resize=150%2C150)CASP Checklist for Qualitative Research**
+
+1. Was there a clear statement of the aims of the research? Yes
+2. Is a qualitative methodology appropriate? Yes
+3. Was the research design appropriate to address the aims of the research? Yes
+4. Was the recruitment strategy appropriate to the aims of the research? No. Emails were sent to a purposive sample of physicians, many of whom were colleagues of the principal investigators and thus there would be bias as to those physicians potentially known practice patterns and potential responses. We do know that two physicians declined, and an effort was made to have a cross-section experience (years in practice), gender and practice setting (academic vs. community based).
+5. Was the data collected in a way that addressed the research issue? Yes
+6. Has the relationship between researcher and participants been adequately considered? **Unsure**. As before, the researcher was a colleague with six of the 23 study participants, this will introduce some bias.
+7. Have ethical issues been taken into consideration? Yes
+8. Was the data analysis sufficiently rigorous? Yes
+9. Is there a clear statement of findings? Yes
+10. How valuable is the research? The external validity of this study is seriously questionable given the small number of participants and practice setting of four Northeastern US emergency settings. There may be generalizability to the American practice setting, but I question its applicability in Canada, Europe, the ANZACS and other areas of the world. That said, there is value in recognizing what barriers and facilitators practicing physicians find for the use of any clinical decision making or decision instrument. The same themes often emerge regardless of where you are in the world. For example, fear, anxiety, uncertainty, knowledge gaps and medicolegal risk are all barriers that need to be addressed when working up patients for any disease process. The study also identifies that physicians are more comfortable making decisions that are clearly aligned with institutional goals/policies as well as in line with their colleagues practice patterns. Audit and feedback were also identified as a helpful tool by some physicians. Audit and feedback can be an extremely powerful tool if delivered well, I will encourage those who are interested to read the following paper. “*Audit and Feedback for individual practitioners in the Emergency Department: An Evidence-based and Practical Approach”* was recently published in CJEM and covers critical elements of implementing an ED based audit and feedback program ([Dowling et al CJEM 2020](https://www.cambridge.org/core/journals/canadian-journal-of-emergency-medicine/article/audit-and-feedback-for-individual-practitioners-in-the-emergency-department-an-evidencebased-and-practical-approach/2E0A2EED76B01BCD30E8E989AC30B3A2)).
+
+**Key Results:**They had 23 physicians from a total of 12 academic and community hospitals in New England were interviewed. Two potential participants declined.
+
+Participants had a median of 14 years in practice, 48% practiced solely in an academic setting, 20% practiced exclusively in a community ED and the remaining 32% practiced in a combination of academic and community EDs.
+
+All clinicians reported some familiarity and some use of risk-stratification tools, particularly PERC in the workup of PE.
+
+---
+
+### **Barriers:**Clinician-level barriers to use of risk-stratification tools centered on knowledge, belief about consequences and emotions.
+
+---
+
+There was a lack of knowledge regarding validated cutoffs for the Wells score, lack of knowledge of a trichotomized Wells threshold, and most providers would only use a D-dimer for patients with a Wells score less than or equal to 3. Providers reported more confidence in their gestalt than risk stratification tools. They commonly reported that if a patient satisfied *“PE is the most likely diagnosis”* or there was a prior history of venous thromboembolism (VTE) or had active malignancy, the patient would automatically be too high risk to order a D-Dimer.
+
+Beliefs about consequences of using the tools, particularly risk avoidance and fear of missing PE were also common provider-level barriers. Nearly all participants were unaware of existing professional guidelines on PE.
+
+---
+
+### **Facilitators:**Study participants reported facilitators primarily at the level of the institutional setting. All clinicians felt that institutional support and a clear easy-to-follow algorithm endorsed by their hospital or group would facilitate their use of evidence-based approaches. This would also need to be easily accessible on shift.
+
+---
+
+They also felt this would provide perceived medicolegal protection and establish a cultural norm of practice, and cited peer pressure as a root cause to motivate them to change practice.
+
+Clinicians felt that simplicity of PERC facilitated its use, while the element of gestalt incorporated into Wells made it more challenging to use.
+
+Audit and feedback also emerged as an implementation strategy, noting that they would not want to be an outlier among their colleagues.
+
+**![](https://i0.wp.com/thesgem.com/wp-content/uploads/2015/04/Screen-Shot-2015-04-25-at-3.11.12-PM.png?resize=889%2C162)**
+
+1. **Feedback:**Do these physicians receive data on their CT PE ordering rate for patients presenting with chest pain, shortness of breath (SOB) or other presenting complaints?
+2. **Peers:**Was there a peer comparator data available?
+3. **US Population:**Were all of the citations listed in the article regarding CT PE ordering rate in United States populations or were there international ones as well?
+4. **External Validity:**How do you think having data from New England could affects the external validity of your study?
+5. **Familiar:**You knew six of 23 participants as colleagues in this study. How do you think your selection of participants affected your results?
+6. **Knowledge Translation:**The Wells study is 20 years old. We know that it can take 17 years for 14% of high-quality, clinically relevant information to reach the patient ([Morris, Wooding and Grant RSMJ 2011](http://jrs.sagepub.com/content/104/12/510.full)). If knowledge translation (KT) has not reached these physicians after 20 years what leaks in the leaky pipe model would you suggest going forward to achieve this KT ([Diner et al AEM 2007](https://onlinelibrary.wiley.com/doi/epdf/10.1111/j.1553-2712.2007.tb02381.x))?
+7. **Pregnancy:**Was diagnosis of PE in pregnancy considered?
+8. **Patient Satisfaction:**Was patient satisfaction influencing decision making discussed?
+9. **Over-Diagnosis and Treatment:**Did you discuss over diagnosis and anticoagulation for subsegmental PEs resulting in potential patient harm being a risk of PE evaluation?
+10. **Personal Practice:**What is your personal practice for working up patients suspected of having a PE?
+
+**Comment on Authors’ Conclusion Compared to SGEM Conclusion:** We agree with the authors’ conclusions.
+
+---
+
+### **SGEM Bottom Line:** Use an evidence-based decision tool to help in the work-up of patients suspected of having a pulmonary embolism.
+
+---
+
+**Case Resolution:** You use an evidence-based tool to calculate the patient’s Wells’ score as 1.5mg/L, given she has had a previous DVT/PE, but you do not feel that PE is the most likely diagnosis. She is PERC positive because of her age so you perform a D-Dimer that returns negative at 0.47mg/L. At this point you reassure the patient and tell her she most likely has musculoskeletal chest pain and to try some heat, acetaminophen or ibuprofen for her pain. If she notices that she is becoming shorter of breath, has uncontrolled pain or is feeling syncopal, she should return to the ED. Otherwise you suggest she follow up with her primary care provider.
+
+![](https://i0.wp.com/thesgem.com/wp-content/uploads/2019/01/Chris-Bond-150x150.jpg?resize=150%2C150)
+
+Dr. Chris Bond
+
+**Clinical Application:**We will use the Wells’ score and PERC rule in the work-up of suspected PE. You can also consider using YEARS and the PEG-ED studies to adjust your D-dimer thresholds.
+
+**What Do I Tell My Patient?** After reviewing your story, physical exam findings and testing, I think the most likely cause of your chest pain is muscular and it is very unlikely to be a dangerous or life-threatening cause. I suggest you try some heat and acetaminophen or ibuprofen for the pain and follow up with your primary care provider. Come back if you are having significantly more pain, shortness of breath or are feeling lightheaded or faint.
+
+**Keener Kontest:** Last weeks’ winner was Drew Schoeling. He knew censers are the fancy devices often used by catholic priests to burn incense.
+
+Listen to the SGEM podcast to hear this weeks’ question. Send your answer to [TheSGEM@gmail.com](mailto:TheSGEM@gmail.com) with “*keener*” in the subject line. The first correct answer will receive a cool skeptical prize.
+
+**![](https://i0.wp.com/thesgem.com/wp-content/uploads/2018/03/AEM-Podcasts-logo2-1-300x192.png?resize=300%2C192)SGEMHOP:**Now it is your turn SGEMers. What do you think of this episode on provider perspectives of risk-stratification tools in the evaluation of PE? Tweet your comments using #SGEMHOP. What questions do you have for Lauren and her team? Ask them on the SGEM blog. The best social media feedback will be published in AEM.
+
+Also, don’t forget those of you who are subscribers to [Academic Emergency Medicine](http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1553-2712) can head over to the AEM home page to get CME credit for this podcast and article. We will put the process on the SGEM blog:
+
+* Go to the [Wiley Health Learning](https://www.wileyhealthlearning.com/)website
+* Register and create a log in
+* Search for Academic Emergency Medicine – *“June”*
+* Complete the five questions and submit your answers
+* Please email Corey ([coreyheitzmd@gmail.com](mailto:coreyheitzmd@gmail.com)) with any questions or difficulties.
+
+---
+
+### **REMEMBER TO BE SKEPTICAL OF ANYTHING YOU LEARN, EVEN IF YOU HEARD IT ON THE SKEPTICS’ GUIDE TO EMERGENCY MEDICINE.**
+
+---
+
+**References:**
+
+1. Kline JA. Utility of a clinical prediction rule to exclude pulmonary embolism among low-risk emergency department patients. JAMA 2018;319:551.
+2. Niemann T, Zbinden I, Roser HW, Bremerich J, Remy-Jardin M, Bongartz G. Computed tomography for pulmonary embolism: Assessment of a 1-year cohort and estimated cancer risk associated with diagnostic irradiation. Acta Radiol 2013;54:778–84.
+3. Venkatesh AK, Agha L, Abaluck J, Rothenberg C, Kabrhel C, Raja AS. Trends and variation in the utilization and diagnostic yield of chest imaging for medicare patients with suspected pulmonary embolism in the emergency department. Am J Roentgenol 2018;210:572–7.
+4. Venkatesh AK, Kline JA, Courtney DM, et al. Evaluation of pulmonary embolism in the emergency department and consistency with a national quality measure. Arch Intern Med 2012;172:1028–32.
+5. Wells PS, Anderson DR, Rodger M, et al. Excluding pulmonary embolism at the bedside without diagnostic imaging: management of patients with suspected pulmonary embolism presenting to the emergency department by using a simple clinical model and D-dimer. Ann Intern Med 2001;5:98–107.
+6. Freund Y, Cachanado M, Aubry A, et al. Effect of the pulmonary embolism rule-out criteria on subsequent thromboembolic events among low-risk emergency department patients. JAMA 2018;319:559.
+7. Kabrhel C, Van Hylckama Vlieg A, Muzikanski A, et al. Multicenter evaluation of the YEARS criteria in emergency department patients evaluated for pulmonary embolism Acad Emerg Med 2018;25:987–94.
+8. Kearon C et al. Diagnosis of Pulmonary Embolism with D-dimer Adjusted to Clinical Probability. NEJM 2019; 381(22): 2125-34. PMID: [31774957](https://www.ncbi.nlm.nih.gov/pubmed/31774957)
+9. Buchanan I, Teeples T, Carlson M, Steenblik J, Bledsoe J, Madsen T. Pulmonary embolism testing among emergency department patients who are pulmonary embolism rule-out criteria negative. Acad Emerg Med 2017;24:1369–76.
+10. Goehler A, Moore C, Manne-Goehler JM, et al. Clinical decision support for ordering CTA-PE studies in the emergency department—A pilot on feasibility and clinical impact in a tertiary medical center. Acad Radiol 2018;06519:1–7.
+11. Alhassan S, Sayf A, Arsene C, Krayem H. Suboptimal implementation of diagnostic algorithms and overuse of computed tomography-pulmonary angiography in patients with suspected pulmonary embolism. Ann Thorac Med 2017;11:254.
+12. Yan Z, Ip IK, Raja AS, Gupta A, Kosowsky JM, Khorasani R. Yield of CT pulmonary angiography in the emergency department when providers override evidence based clinical decision support. Radiology 2016;000:151985.
+13. Kline JA, Mitchell AM, Kabrhel C, Richman PB, Courtney DM. Clinical criteria to prevent unnecessary diagnostic testing in emergency department patients with suspected pulmonary embolism. J Thromb Haemost 2004;2:1247–55.
+14. Wolf SJ, Hahn SA, Nentwich LM, Raja AS, Silvers SM, Brown MD. Clinical policy: critical issues in the evaluation and management of adult patients presenting to the emergency department with suspected acute venous thromboembolic disease. Ann Emerg Med 2018;71:e59–109.
+15. Courtney DM, Miller C, Smithline H, Klekowski N, Hogg M, Kline JA. Prospective multicenter assessment of interobserver agreement for radiologist interpretation of multidetector computerized tomographic angiography for pulmonary embolism. J Thromb Haemost 2010;8:533–9.
+16. Hutchinson BD, Navin P, Marom EM, Truong MT, Bruzzi JF. Overdiagnosis of pulmonary embolism by pulmonary CT angiography. Am J Roentgenol 2015;205:271–7.
+17. Kline JA, Hogg MM, Courtney DM, Miller CD, Jones AE, Smithline HA. D-dimer threshold increase with pretest probability unlikely for pulmonary embolism to decrease unnecessary computerized tomographic pulmonary angiography. J Thromb Haemost 2012;10:572–81.

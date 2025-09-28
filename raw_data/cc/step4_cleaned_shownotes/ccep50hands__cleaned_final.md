@@ -1,0 +1,352 @@
+---
+title: "CrackCast Episode 50: Hands"
+url: "https://canadiem.org/crackcast"
+date: 2016-11
+source: "CanadiEM – CrackCast"
+original_file: CCEp50.Hands_.pdf
+summary: |
+  The document provides a comprehensive overview of hand injuries, emphasizing the importance of accurate diagnosis and management to prevent long-term dysfunction. It covers the anatomy and biomechanics of the hand, essential for understanding injury mechanisms and treatment strategies. Key diagnostic principles include motor, sensory, and vascular testing, with specific tests for nerve function and tendon integrity. Management of fractures, ligamentous injuries, and common hand infections is detailed, highlighting the need for surgical intervention in certain cases, such as flexor tenosynovitis and high-pressure injection injuries. The document also outlines indications for nerve repair and stresses the importance of early referral to hand surgeons for complex injuries.
+
+---
+
+## Overview
+
+### Rosens in Perspective
+
+- N.B.: Different people number fingers differently! Just call the finger what it is: thumb, index, middle, ring, and little.
+- This part of the body is obviously very important. You only get two, and most people’s feet can’t do the same things - such as communicate, manipulate, and express.
+- Commonly injured as they are used to manipulate the external environment.
+- Mismanagement or misdiagnosis of injuries early in their course can result in loss of function.
+- Common: hand injuries are 5-10% of ED visits, of which 10% need referral to a hand surgeon.
+- Pearls: *** Rosen’s has 8 pages on anatomy and biomechanics***
+  - Hands swell dorsally (palm has firm skin connected to fascia).
+  - Knowledge of hand biomechanical design is important to long-term function and management - See Figures 50-6-11.
+    - e.g., the MCP joint collateral ligaments are tightest at 90-degree flexion.
+  - The intrinsic muscles of the hand vs. the extrinsic ones - knowing where they insert and how they function is essential.
+    - See Fig 50-12.
+  - The thumb does not have an FDS or FDP tendon (only a FPL tendon!).
+  - Knowing where each flexor and extensor tendon runs (for hand laceration assessments).
+    - Knowing where Lister’s tubercle is (EPL passes around this to attach on the distal phalanx of the thumb).
+    - It’s the EPL that extends and hyperextends the thumb IP joint.
+    - Complete transection of an extensor tendon proximal to the juncturae tendinum can have a falsely normal MCP extension on exam.
+    - Know how to test the EIP and EDM (hook ‘em horns).
+    - The three wrist flexors (FCR, FCU, PL).
+    - Knowing how FDS and FDP lie (you’ll cut FDP at the DIP, but FDS at MCP volarly).
+- FDP is paradoxically lacerated more often!
+  - Synovial spaces - and the function of bursae (exist for flexors only) and where they run.
+  - Hand nerves.
+  - Nail body anatomy:
+    - Nail body vs. Lunula vs. nail root vs. nail bed vs. hyponychium vs. prionychium.
+
+## Core Questions
+
+### 1) Describe discriminatory motor, sensory, and vascular testing of the hand
+
+- Go through Box 50-1 - with your study partner to hammer this home!
+- X-rays of the hand are part of the physical exam.
+- Hand nerve roots are C6-T1.
+- Sensory testing - pick areas that have minimal overlap.
+  - Ulnar n.: volar tip of little finger.
+  - Median n.: volar tip of index finger.
+  - Radial n.: dorsal first web space (between thumb and index finger).
+  - Two-point discrimination.
+    - Ability to tell the difference between one point of touch or two points of touch.
+    - “Accuracy and objectivity is questioned; limited value in children, calloused fingers, distracted injuries, altered mental status.”
+    - Skin wrinkle test is probably more accurate [source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2464382/).
+    - Fingertips: 5mm max (“5 fingers”).
+    - Base of palm: 10mm max.
+    - Dorsum: 12mm max.
+- Motor testing - test nerves, important tendons, look for deformity.
+  - Ulnar n. (passes through Guyon’s canal).
+    - Test function - finger abduction, MCP flexion.
+    - Palsy - main en griffe (clawhand).
+  - Median n.
+    - Test function - thumb opposition to index and little finger.
+    - Make sure thumb is bent!
+    - Palsy - main en singe (ape hand) - inability to abduct thumb.
+  - Radial n.
+    - Test function - wrist extension, thumb extension & abduction.
+    - Palsy - wrist drop.
+  - Flexor tendons.
+    - FDS - hold finger in extension at the MCP, patient should be able to flex PIP.
+    - FDP - hold finger in extension at the PIP, patient should be able to flex DIP.
+  - Test full range of motion of hand and wrist.
+    - Flexion, extension.
+    - Ulnar deviation, radial deviation.
+    - Supination, pronation.
+  - More coming in specific conditions.
+- Allen’s test involves a couple of steps:
+  - Fist is clenched for 30 seconds.
+  - Pressure is applied over both ulnar and radial arteries.
+  - Hand is unclenched and should remain pale.
+  - Ulnar artery is released while radial artery is kept occluded.
+  - Pallor should resolve in 5 to 15 seconds - normal test.
+  - Test can be repeated but with release of the radial artery.
+- The hand usually survives even if both arteries are transected at the wrist due to collateralization.
+  - But bilateral digital artery injuries usually have poor outcomes!
+
+### 2) Describe the anatomical borders of the anatomical snuffbox
+
+- Dorsally - Extensor pollicis longus.
+- Volarly - Extensor pollicis brevis and abductor pollicis longus.
+- Proximally - radial styloid.
+- Distally - approximate apex of the triangle (where Ext. Pol. Longus and Ext. Pol. Brevis/Abd. Pol. Longus meet).
+- Floor - radial artery, scaphoid, trapezium.
+
+### 3) Describe indications and contraindications to replantation + prehospital management of amputated part
+
+### 4) Describe the management of:
+
+#### a. Phalangeal and metacarpal fractures
+
+- Lots to get through here!
+  - See all the x-ray figures in the chapter, also check out Fig 50-29 for some good images and how to describe hand fracture location (i.e., neck vs. base).
+- Distal phalangeal fractures.
+  - Tuft fractures most common.
+    - Symptomatic treatment.
+  - Angulated fractures of the DP - may attempt reduction but often unsuccessful. Splint and refer.
+  - Watch out for Jersey Finger (more on this later).
+- Proximal and middle phalangeal fractures.
+  - Watch for malrotation and scissoring - the nails should all point to the scaphoid.
+  - Transverse fractures usually stable, oblique less so.
+  - Reduce if necessary but normally not displaced.
+  - If undisplaced: Buddy tape to provide support and allow ROM of DIP & PIP.
+    - “Dynamic splinting” - with ROM exercises in first 3-5 days.
+  - If displaced (less common): reduce and splint/cast. Should be seen in follow-up, preferably with a hand surgeon.
+- Metacarpal shaft fractures:
+  - Can tolerate some angulation and some shortening. They cannot tolerate any rotation.
+  - Rotation is assessed by having the patient flex their fingers and look for overlap of the fingers: “scissoring.”
+  - Surgical correction is required for:
+    - 2-3 mm of shortening.
+    - 1 mm of articular surface step-off.
+    - Involvement of > 25% of the articular surface.
+    - ANY rotation due to spiral or oblique #’s.
+- Metacarpal head fractures:
+  - Rare fracture, usually direct crush injury.
+  - Splint in position of safety.
+    - Wrist extended 20 degrees, MCPs at 90 degrees, PIP & DIP joints extended.
+  - Refer to hand surgeon.
+  - Overlying laceration: treat as open fracture, can be a fight-bite injury.
+- Metacarpal neck fracture.
+  - Boxer’s fracture most common.
+  - Reduce ring and little finger fractures with 90-90 technique.
+  - Allowed post-reduction dorsal angulation:
+    - Index: 15 degrees.
+    - Middle: 15 degrees.
+    - Ring: 35 degrees.
+    - Little: 45 degrees.
+    - “10-20-30-40 rule.”
+    - ONLY 10 degrees of lateral angulation tolerated.
+  - Gutter splint in position of safety or function.
+    - See Fig 50-35.
+    - Ulnar gutter - for ring and little fingers.
+    - Radial spline - for index and long fingers.
+  - Early DIP/PIP ROM, MCP ROM at 3-4 weeks.
+  - Watch out for rotation and scissoring.
+- Metacarpal shaft fracture.
+  - Three types: transverse, oblique/spiral, comminuted.
+  - Result from direct blow.
+  - Main concern is rotation & scissoring.
+  - Reduce, and refer (to hand surgery).
+  - Tolerate 10 degrees in ring and 20 degrees in little finger, 3mm shortening max, no rotation.
+- Metacarpal base fracture.
+  - Easy!
+  - Immobilization, analgesia, referral to hand surgeon.
+
+#### What are Bennett’s and Rolando’s fractures? How are they managed?
+
+- ***The thumb is special - fractures of the thumb metacarpal are handled differently.***
+  - Fractures of the base of the thumb.
+    - If it's EXTRA-articular: these are treated with a thumb spica (<~30 deg. Of angulation tolerated).
+  - Bennett’s: Intra-articular fracture of the base of the thumb, extending into CMC joint.
+  - Rolando’s: Y-shaped 3-part fracture of the base of the thumb.
+  - Same treatment:
+    - Reduce in ED, place in thumb spica splint.
+    - Must see hand surgeon - very unstable, ligamentous disruption.
+
+#### Common ligamentous injury
+
+- Grade III DIP/PIP ligament disruption + dislocation.
+  - Most commonly dorsal dislocation - obvious deformity.
+  - “Bayonet Apposed” - colinear/parallel but no end-to-end joint surface contact.
+  - Closed reduction under local - traction, hyperextension, then reduction.
+  - If not able to reduce closed, require surgery (often due to interposed fragment, entrapment of FDP, or buttonholing).
+  - Test stability - if able to ROM with no instability, splint for 3 weeks in 20-30 degrees of flexion. If unstable (i.e., complete ligamentous disruption): needs operative repair.
+  - Avulsion fractures > ⅓ of articular surface need open fixation.
+  - Volar dislocation uncommon and most need operative repair. May try gentle traction with MCP and PIP joints flexed.
+- Volar plate injury.
+  - Ligamentous structure on the volar side of the MCP joint.
+  - Most often injured by hyperextension of the finger or dislocation of the MCP joint.
+  - Can have instability on exam.
+  - Be worried: volar plate can be interposed into the joint: evidence of dislocation on imaging, as well as joint widening and sometimes sesmoid bones in the joint space.
+  - Injury of the volar plate mandates consultation with a hand surgeon.
+- CMC + MCP dislocation.
+  - Again, uncommon injury. Most commonly index finger, next most common little finger.
+  - Simple - joint hyperextended, joint surfaces may appear to be in contact on imaging.
+    - Closed reduction with appropriate analgesia: flex wrist (relaxes flexor tendons), firm pressure over dorsum of proximal phalanx.
+  - Complex - as above, volar plate interposed into joint space. Requires operative fixation.
+  - CMC dislocation rare and often missed - remember to look in MVAs, falls, crush injuries, and closed fist injuries.
+  - Attempt closed reduction with traction and flexion of the metacarpal, combined with longitudinal pressure on the base of the metacarpal followed by extension.
+  - CMC dislocation should always be referred to a hand surgeon, even if closed reduction is successful.
+- Gamekeepers / Skiiers Thumb.
+  - Injury to the ulnar collateral ligament, often from forced abduction of the thumb.
+  - Exam shows pain over ulnar side of base of thumb, and laxity with valgus testing (full extension and in 30 degrees flexion).
+  - Partial rupture - 4 weeks in thumb spica cast, follow up with hand surgeon.
+  - Complete rupture - surgical repair.
+  - What is a Stener’s Lesion?
+    - Interposition of soft tissues between bone and adductor aponeurosis preventing it from ever reattaching and healing.
+    - Diagnosed with MRI or U/S.
+
+#### Extensor tendon injuries
+
+- What extensor zones are reasonable for ER repair?
+  - Zones start at I distally and progress to VII proximally (see figure 50-46 from Rosens) - Verdan classification.
+  - ER repair is reasonable in zone VI as tendons do not retract significantly due to the synechia.
+  - Repair of zone V should be discussed with a hand surgeon - possible in ED but often complicated. Make sure to rule out human bite.
+  - Repair of Zone I/II injuries in ED only if partial and with no extensor lag - even so discuss with hand surgeon.
+  - Any other zone, including I-III need meticulous repair.
+    - Look at Fig 50-15 - oblique/lateral bands/ etc.!
+
+#### Central slip injury
+
+- Injury to the central tendon over the PIP.
+- Unopposed FDS flexes the PIP and the volar bands displace laterally. This in turn causes hyperextension of the DIP - bouttonière deformity.
+- Deformity can be acute or delayed.
+- Make sure to explore dorsal lacerations fully in this region.
+- Easily missed if closed injury - suspect with trauma and pain/swelling of PIP.
+- Elson’s test - [Elson's Test Video](https://www.youtube.com/watch?v=G9HY0qXWUvE).
+  - Attempt to extend finger against slight resistance with PIP flexed to 90 degrees.
+  - Positive if DIP in extension or hyperextension with no PIP extension.
+- Splint in extension, refer to hand surgeon.
+- Immediate consultation if open injury with acute bouttonière deformity.
+
+#### Mallet Finger
+
+- Injury to DIP extensor - either avulsion fracture or direct tendon injury.
+- Presents as flexion deformity at DIP, can have incomplete active extension.
+- Forced flexion of extended finger (e.g., ball hits the end of the finger).
+- Four types (Doyle Classification):
+  - Closed tendon rupture, with or without dorsal avulsion fracture.
+  - Open tendon laceration.
+  - Open tendon injury with skin or subcutaneous tissue loss.
+  - Mallet fracture.
+- Maintain the joint in complete extension for 6 to 8 weeks.
+- Open injuries require direct repair of the tendon.
+
+#### Jersey finger
+
+- Avulsion of the FDP insertion, from forced extension of a flexed finger.
+- Most commonly the ring finger.
+- Usually a closed injury.
+- Look for some degree of extension of the DIP when the hand is a neutral flexed position.
+- Test FDP and FDS independently.
+  - Lippism:
+    - You gotta be a “pro” to find that FDP, most “superficial” people can notice an FDS tear.
+- Needs urgent referral to a hand surgeon.
+- Flex wrist and hand in extension.
+
+#### Flexors?
+
+- What about flexor tendon injuries?
+  - These all need a hand surgeon’s assessment and management.
+- Trigger fingers - nodular swelling of a flexor tendon that gets caught one of the many flexor pulleys.
+
+#### Nail bed injuries
+
+- Subungual hematoma.
+  - Most commonly from crush injury.
+  - Need radiograph in appropriate mechanism to exclude underlying fracture.
+  - Very painful - relieve pressure with nail trephination - large needle, thermal microcautery.
+  - Distal phalanx fracture with subungual hematoma should be treated as an open fracture with prophylactic antibiotics.
+- Nailbed laceration.
+  - Should be repaired with 5-0 or 6-0 absorbable suture after avulsion of the remaining nail.
+  - If there is sufficient remaining nail it should be re-approximated over the repair and secured with suture or tape to splint the nail bed.
+  - Complete nail regrowth takes 70-160 days.
+    - If the nail bed isn’t properly repaired accurately granulation tissue will impede smooth nail growth.
+
+#### Fingertip amputations
+
+- Zone I: proximal ⅔ of the nail bed is preserved, no bony involvement.
+- Zone II: exposed bone.
+- Zone III: entire nailbed is lost.
+- Important: maintain thumb length in any way possible: Refer these to a hand surgeon, don’t rongeur or trim tissue.
+- Index is the next most important digit - want to be able to preserve pulp-to-pulp pinch if possible.
+- Consider age, occupation, handedness for all patients.
+- Management depends on wound area, but all should receive tetanus prophylaxis if indicated, and should be treated as an open fracture with antibiotics:
+  - <1 cm²: heal by secondary intent, standard wound care.
+  - >1 cm²: primary closure.
+- If the bone protrudes by < 5mm, rongeur and close a flap over, otherwise will need OR for management.
+
+#### Common hand infections
+
+- Paronychia - infection or abscess of the lateral nail fold.
+  - Swelling, erythema, and discharge from lateral nail fold.
+  - Most commonly S. aureus and strep species.
+  - If fluctuant or discharge, lift the lateral nail fold with a scalpel to drain and +/- antibiotics.
+  - Can end up with osteomyelitis of distal phalanx - refer if chronic or atypical.
+- Felon - infection of the pulp of any digit, made worse due to the fibrous septa of the pulp.
+  - Most commonly S. aureus or gram -’ves.
+  - Treated with I+D with a deep lateral incision posterior to digital artery and nerve.
+    - Ulnar side of index, middle, ring fingers.
+    - Radial side of thumb and little finger.
+- Herpetic whitlow - HSV infection of the distal finger.
+  - Pain, pruritis, swelling of finger followed by clear vesicles.
+  - Avoid I+D - can result in viral dissemination and it can be hard to tell this apart from a felon or paronychia: careful history of risk factors is needed.
+  - Can consider oral acyclovir, especially in recurrent infections or patients who are immunocompromised.
+- Deep space infection of the hand.
+  - Less common, but can develop infection of the deep spaces of the palm, thenar, or hypothenar eminences.
+  - Look for “collar-button abscess” with matching swelling and erythema on both volar and dorsal aspects of the hand.
+  - All such infections require IV antibiotics and surgical exploration. Consider MRSA as a potential etiology in at-risk patients.
+- Flexor tenosynovitis.
+  - We’ll come to this shortly, but patients with this disorder should be treated with IV antibiotics.
+  - Consider gonorrhea as a possible etiology in at-risk patients with no traumatic cause (Ceftriaxone is a reasonable choice).
+  - Surgical exploration and irrigation required.
+
+#### Fight bites
+
+- Result from punching a human in the mouth, causing a laceration over the MCP (most often the middle finger).
+- Very high rate of infection, can be missed due to patient factors.
+  - Most often polymicrobial, including staph, strep, anaerobes.
+- Consider extensor tendon injury, check for foreign bodies with XR (i.e., teeth).
+- Consult hand surgeon, tetanus prophylaxis, culture the wound, and start IV antibiotics.
+
+### 5) List 4 signs of flexor tenosynovitis
+
+- See Fig 50-21 as to why infections can spread through the bursae. For example, the sheath of FPL - runs from thumb tip all the way to radial bursa (as does the little finger).
+
+Knavel’s signs:
+- Tenderness along course of the flexor tendon.
+- Symmetrical swelling of the finger (sausage finger or fusiform swelling).
+- Pain on passive extension.
+- Semi-flexed posture of the finger.
+
+### 6) What is the management of a high pressure injection?
+
+- Splint and elevate affected hand.
+- Analgesia.
+- Tetanus prophylaxis.
+- Broad-spectrum antibiotics.
+- Avoid digital blocks (more fluid in a confined space that has had a bunch of junk injected into it at high pressure = iatrogenic compartment syndrome/vascular compromise).
+- Emergent hand surgeon consult - even if the injection site looks benign.
+
+### 7) What are indications for repair of nerve injuries in hand?
+
+- Involvement of the motor branches of the ulnar or median nerves.
+- Digital nerve injuries that are proximal the DIP and:
+  - On the radial side of the index finger.
+  - On the ulnar side of the little finger.
+  - Either side of the thumb.
+- Clean, single nerve laceration.
+
+## Wisecracks
+
+- Hand signals - no we’re not part of the illuminati.
+  - In disease:
+    - Wrist drop - radial nerve.
+    - Main en griffe - clawhand - ulnar nerve.
+    - Main en singe - monkey hand - median nerve.
+  - In testing of function:
+    - OK sign.
+    - Sipping tea with the queen.
+    - Hook em Horns.
+```

@@ -1,0 +1,69 @@
+# Metadata
+- Source: The Bottom Line
+- Title: Than
+- Original URL: https://www.thebottomline.org.uk/summaries/em/than/
+- Scrape Date: 2025-07-17
+- Summary Date: AUTO_FILL_IF_AVAILABLE
+
+Than: A 2-hour diagnostic protocol for possible cardiac chest pain in the emergency department
+Than, JAMA Internal Medicine. 2014,174(1):51-58
+Clinical Question
+In patients with suspected acute coronary syndrome does a rapid diagnostic pathway allow early discharge from hospital without more adverse effects when compared with a conventional diagnostic assessment and discharge plan?
+Design
+Randomised controlled trial
+Computer generated
+Block Randomisation
+Blinding of personnel determining results of primary outcome
+Setting
+Single centre, Emergency Department, New Zealand
+October 2010 – July 2012
+Population
+Inclusion: Adult patients with possible cardiac chest pain whose physician planned further observation/troponin testing
+Exclusion: STEMI, other clear cause for chest pain, chest pain >12 hours, persisting chest pain, pregnancy
+3594 assessed for eligibility of whom 544 randomised
+Intervention
+Low risk patients with a modified TIMI score of 0, and no new ischaemic ECG changes, underwent the rapid diagnostic pathway with a repeat Troponin 2 hours after the initial test.
+If repeat Troponin test normal then patient discharged with outpatient stress test within 72 hours
+If TIMI score >0 or new ischaemic ECG changes, then investigated in standard fashion
+(Journal watch – accessed 30th May 2014)
+Control
+Repeat Troponin I assay at 6-12 hours
+Follow up investigations at discretion of treating clinician
+All Troponin tests were ARCHITECT Troponin I assay in both intervention and control group. This is not a high sensitivity troponin.
+Outcome
+Primary outcome: discharge within 6 hours of arrival and without a subsequent major adverse cardiac event (MACE) within 30 days.
+MACE:
+death (unless clearly non-cardiac)
+cardiac arrest
+emergency re-vascularisation
+cardiogenic shock
+ventricular arrhythmia or high degree atrioventricular block requiring intervention
+acute MI
+Significantly more patients were successfully discharged within 6 hours in the intervention group (19.3%) vs. the control group (11%). Difference 8.3% (95% C.I. 1.8-14, P=0.009)
+Secondary outcome: Patients who had a MACE during follow-up (not including initial hospital visit)
+0.4% in intervention group vs. 0.0% in control group
+Authors’ Conclusions
+The rapid diagnostic pathway is an effective and practical strategy to improve early discharge rates for some patients with chest pain
+Strengths
+Randomised controlled trial
+Blinding of staff determining primary outcome
+Weaknesses
+Not powered to compare rates of MACE between intervention and control groups
+Only 52 patients underwent the rapid diagnostic pathway.
+Patients in the intervention and control group treated differently with regard to the follow up investigations that were arranged.
+All patients that were discharged early had an outpatient stress test within 72 hours. This will limit the external validity of this trial as a number of institutions will not be able to provide this service.
+Single centre
+Only recruited between 0800 – 2200. If people who present at night are different in anyway then this trial may lack external validity.
+The Bottom Line
+A rapid diagnostic pathway for patients with suspected cardiac chest pain allowed earlier discharge of some low risk patients. However, further work is necessary before we can tell if this is a safe strategy, and therefore currently this strategy cannot be recommended.
+Links
+abstract
+/ doi: 10.1001/jamainternmed.2013.11362
+Editorial, Commentaries or Blogs
+None
+Metadata
+Summary author:
+@DavidSlessor
+Summary date: 11 May 2014
+Peer-review editor:
+@stevemathieu75

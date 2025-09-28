@@ -1,0 +1,96 @@
+# Metadata
+- Source: The Bottom Line
+- Title: Bouwes
+- Original URL: https://www.thebottomline.org.uk/summaries/icm/prognosis-of-coma-after-therapeutic-hypothermia-a-prospective-cohort-study/
+- Scrape Date: 2025-07-17
+- Summary Date: AUTO_FILL_IF_AVAILABLE
+
+Prognosis of coma after therapeutic hypothermia: a prospective cohort study
+Bouwes.A.,Ann Neurol. 2012 Feb;71(2):206-12. doi: 10.1002/ana.22632
+Clinical Question
+In patients treated with therapeutic hypothermia following cardiac arrest, can clinical examination, neuronspecific enolase (NSE), and median nerve somatosensory-evoked potentials (SEPs) predict poor outcome?
+Design
+Prospective observational cohort study
+Blinding of treating physician to NSE results and to initial SEP results
+If repeat SEP performed then results disclosed to treating physician
+Not stated if assessors of primary outcome were blinded to tests of interest
+Non-randomised
+Setting
+10 Dutch mixed medical-surgical intensive care units
+1 university affiliated and 9 non-university affiliated
+December 2007 – August 2009
+Population
+Inclusion:
+Adult patients who remained in coma after CPR
+Treated with therapeutic hypothermia (32°C–34°C)
+Exclusion:
+Pre-existing disease with life expectancy <6 months
+Severe disability before CPR
+CPR due to hypovolaemic shock
+391 patients included
+Age, mean: 64
+Presenting rhythm of VF/VT: 76.5%
+Out of hospital cardiac arrest: 86.7%
+Time collapse to bystander BLS, median: 2 minutes
+Time collapse to ROSC, median (IQR): 20 minutes (11-30)
+Tests of Interest
+Neurological examination
+GCS and brainstem reflexes tested at 48 and 72 hours post CPR by attending ICU physician or neurologist
+Neuronspecific enolase (NSE)
+Serum sample taken on admission to ICU, 12 hours after reaching target temperature, and 36-48 hours after collapse
+Cortical N20 response of median nerve SEPs
+Performed during hypothermia, and repeated when patient was both normothermic and was thought to have cleared all sedative drugs
+Undeterminable SEP results were considered as being present
+At time of study, SEP already performed in most Dutch ICUs, and absent cortical responses are a reason to withdraw treatment
+Gold Standard Test
+Telephone interview with patient or legal guardian at 6 months to determine Glasgow Outcome Scale
+Outcome
+Primary outcome:
+Death, vegetative state, or severe disability (Glasgow Outcome Scale 1-3) after 6 months
+Assessed via telephone interview
+53% of study population had poor outcome
+Accuracy of tests of interest
+Specificity of test (i.e. ability to ‘rule-in’ a poor outcome)
+Neurological examination at 72 hours: 90-99%
+NSE > 33 μg/L: 90-93%
+N20 SEP during hypothermia: 98%
+3 patients recorded as having absent SEP who went on to have a good outcome. Post-hoc analysis performed involving re-examination of these 3 patients SEP recordings and 10 other patients SEPs by 2 blinded experienced neurophysiologists
+Specificity for Post-hoc analysis: 100% (95% C.I. 97-100) as concluded that the 3 absent SEPs were undeterminable due to too much noise in the registration
+N20 SEP during normothermia and when thought to have cleared effects of sedative drugs: specificity 100%
+Optimum cutoff value for NSE
+Levels taken at 48 hours had largest area under ROC curve: 0.82 (95% C.I. 0.77-0.86)
+NSE >81.8 µg/l had specificity of 100% and sensitivity of 18%
+Authors’ Conclusions
+In patients treated with therapeutic hypothermia following cardiac arrest, absent pupillary light responses or absent corneal reflexes at 72 hours or bilaterally absent cortical N20 SEP can reliably predict a poor outcome
+Strengths
+Prospective
+Multi-centre
+Minimal loss to follow up
+Blinding of treating physicians to NSE results and to initial SEP result
+Weaknesses
+Clinicians were not blinded to result of repeat SEP tests and it was common practice to use an absent response as an indication to withdraw treatment. As the authors state this can lead to a self-fulfilling prophecy as treatment is withdrawn on the basis of this test, and the withdrawal of treatment itself can lead to a poor outcome.
+We are not told the length of time that physicians waited before determining that the effect of sedatives had been cleared
+It is not stated if clinicians determining primary outcome were blinded to tests of interest
+The study found disagreement between reviewers interpreting SEP results. However, we are not told the Kappa score (inter-rater agreement)
+The post-hoc analysis included only a small number of patients. Bias may also have been introduced by asking clinicians to perform a re-analysis.
+With only moderate numbers of patients included in the study the confidence intervals for some of the results are relatively wide.
+The Bottom Line
+In patients treated with therapeutic hypothermia following cardiac arrest the use of clinical examination at 72 hours, neuronspecific enolase and somatosensory-evoked potentials can help predict a poor outcome. The methodological limitations and wide confidence intervals mean that I would not use a single test to predict a poor outcome and will continue to use a multimodal approach as recommended by the
+ERC/ESICM
+External Links
+[article]
+Prognosis of coma after therapeutic hypothermia: a prospective cohort study.
+[further reading]
+Prognostication in comatose survivors of cardiac arrest: An advisory statement from the European Resuscitation Council and the European Society of Intensive Care Medicine
+[further reading]
+The NNT: Likelihood ratios
+[further reading]
+American Clinical Neurophysiology Society: Guidelines on Short-Latency Somatosensory Evoked Potentials
+[further reading]
+ROC Curves
+Metadata
+Summary author:
+@davidslessor
+Summary date: 15th April 2015
+Peer-review editor:
+@DuncanChambler

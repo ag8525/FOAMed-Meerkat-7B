@@ -1,0 +1,132 @@
+---
+url: https://thesgem.com/2019/06/sgem261-cristal-ball-to-assess-older-patients-in-the-emergency-department/
+title: "SGEM#261: CriSTAL Ball to Assess Older Patients in the Emergency Department"
+date: 2019-06-29
+audio_url: https://media.blubrry.com/thesgem/content.blubrry.com/thesgem/SGEM261.mp3
+download_date: 2025-08-11
+---
+
+**Reference:** Cardona et al. Prospective Validation of a Checklist to Predict Short-term Death in Older Patients After Emergency Department Admission in Australia and Ireland. [AEM June 2019](https://onlinelibrary.wiley.com/doi/full/10.1111/acem.13664).
+
+**Guest Skeptic:**Dr. Justin Morgenstern is an emergency physician and the creator of the excellent #FOAMed project called [First10EM.com](http://first10em.com/)
+
+**Case:**An 83-year-old man with early dementia, congestive heart failure (CHF), prior myocardial infarction (MI) with three stents, chronic obstructive pulmonary disease (COPD), and atrial fibrillation is transferred to the hospital because the nursing home thinks he might have a urinary tract infection (UTI). On arrival he is febrile, confused, with an alternating level of consciousness, tachycardia, and a rapid respiratory rate. According to the family with him, he had never had an end of life conversation with his physicians. You think such a conversation is important to guide your care in the next few hours, but you wonder if there is a tool to help you predict this gentleman’s chance of dying during this visit or shortly after.
+
+**Background:**Discussion about goals of care at the end of life are an essential component of emergency medicine. Such discussions are aided by accurate prognosis, so that life-saving interventions can be provided to those in need, but hopefully without providing overly aggressive management in patients with little hope of recovering.
+
+Such prognosis is difficult, especially in the chaotic and time-limited environment of an emergency department. An accurate decision tool would be welcomed. Unfortunately, available tools are only modestly accurate and have not been rigorously validated.1,2 Basic demographic data alone are insufficient to predict individual patient risk.3
+
+Therefore, the purpose of this study was to validate a personalized risk score – the Criteria for Screening and Triaging to Appropriate aLternative care ([CriSTAL](https://spcare.bmj.com/content/5/1/78)) – in older patients presenting to the emergency department.4
+
+[![](https://i0.wp.com/thesgem.com/wp-content/uploads/2019/06/CrisTAL-tool-1024x942.png?resize=1024%2C942)](https://spcare.bmj.com/content/bmjspcare/5/1/78.full.pdf)
+
+CrisTAL Tool – BMJ 2015
+
+---
+
+### **Clinical Question:** To establish the predictive ability of individual and combined parameters in the CriSTAL tool to predict short-term post-discharge death in an elderly population.
+
+---
+
+**Reference:**Cardona et al. Prospective Validation of a Checklist to Predict Short-term Death in Older Patients After Emergency Department Admission in Australia and Ireland. [AEM June 2019.](https://onlinelibrary.wiley.com/doi/full/10.1111/acem.13664)
+
+* **Population:**Patients over the age of 65 who stayed overnight in the emergency department or were admitted to hospital. The derivation population was from five hospitals in Australia, while the validation population was from a single hospital in Ireland.
+  + **Exclusions:** Patients with severe cognitive impairment, the critically ill, or those unable to communicate in English were all declared ineligible to participate unless they had a surrogate.
+* **Intervention:**The CriSTAL score, and its various components.
+* **Comparison:**None
+* **Outcome**:
+  + **Primary Outcome(s)**: Death within three months and CriSTAL’s predictive ability.
+  + **Secondary Outcome**: Predictive ability for in-hospital death
+
+This is an [SGEMHOP](http://thesgem.com/the-sgem-hot-off-the-press/) episode and usually we have the lead author on the show. Unfortunately, we were not able to coordinate the recording times with being in three different countries. Our hope is the authors can respond to our nerdy questions on the blog.
+
+> **Authors’ Conclusions:** *The modified CriSTAL tool (with CFS instead of Fried’s frailty instrument) had good discriminant power to improve certainty of short-term mortality prediction in both health systems. The predictive ability of models is anticipated to help clinicians gain confidence in initiating earlier end-of-life discussions. The practicalities of embedding screening for risk of death in routine practice warrant further investigation.*
+
+**![](https://i0.wp.com/thesgem.com/wp-content/uploads/2014/04/checklist-cartoon-150x150.gif?resize=150%2C150)Quality Checklist for Clinical Decision Tools:**
+
+1. The study population included or focused on those in the ED. Yes
+2. The patients were representative of those with the problem. **Unsure**
+3. All important predictor variables and outcomes were explicitly specified. Yes
+4. This is a prospective, multicenter study including a broad spectrum of patients and clinicians (level II). No
+5. Clinicians interpret individual predictor variables and score the clinical decision rule reliably and accurately. No
+6. This is an impact analysis of a previously validated CDR (level I). No
+7. For Level I studies, impact on clinician behavior and patient-centric outcomes is reported**.  N/A**
+8. The follow-up was sufficiently long and complete. Yes  
+   9. The effect was large enough and precise enough to be clinically significant. **Unsure**
+
+**Key Results:**The derivation cohort consisted of 1,143 patients, while the validation cohort was 349 patients. The mean age was in the late 70s and there was about a 50/50 split between males and females in both groups. About 5% of both groups had DNR orders or advanced directives.
+
+---
+
+### Three-month mortality was 10.1% in the Australian cohort and 12.9% in the Irish cohort.
+
+---
+
+* **Primary Outcome:**CriSTAL tool predictive ability showed a statistical difference between deceased and survivors.
+  + Australia: 8.1 (95% CI = 7.7–8.6) vs. 5.7 (95% CI = 5.1–6.2)
+  + Ireland: 7.7 (95% CI = 6.9–8.5) vs. 5.7 (95% CI = 5.5–6.0)
+
+Based on the area under the curve (AUC) statistics, an ideal cut-off of seven is suggested based on the Australian data, although six is suggested based on the Irish data.
+
+![](https://i0.wp.com/thesgem.com/wp-content/uploads/2019/06/Screen-Shot-2019-06-29-at-7.15.05-PM-960x1024.png?resize=960%2C1024)Individual components of the score with significant odds ratios for death from the derivation and validation cohort with both frailty scales included: advanced malignancy, nursing home residence, abnormal oxygen saturation (<90%), and frailty.
+
+![](https://i0.wp.com/thesgem.com/wp-content/uploads/2015/04/Screen-Shot-2015-04-25-at-3.11.12-PM.png?resize=889%2C162)
+
+**1. Exclusions:**Three key groups of elderly patients were eliminated from this study. Those with severe cognitive impairment and no available surrogate, critically ill patients, as well as those patients discharged the same day from the emergency department. This represented more than 60% of patients from the Australian cohort (Figure 1). This may have impacted the study results.
+
+**2. Inter-Rater Reliability:**There was no measure of inter-rater reliability done in this trial. Given that the difference in the average score between those who died and those who didn’t was only about two points, a small error in scoring could have big implications.
+
+**3. Nurses vs. Medical Students:**Two different groups who were purpose-trained for doing the assessments. It was not emergency medicine residents or attending (staff) physicians. No data was given comparing the scores by nurses to the scoring by the medical students.
+
+**4. Overfit:**There was a different cut-off for the score in the Australian and Irish populations. Also, the authors used two different frailty scores and suggest two different cut-offs for the score. Given this increase in the researcher degrees of freedom this might lead to the data being over-fit for the specific populations.
+
+**5. Derivation and Validation:**The derivation study was performed in Australia while the validation was done in Ireland. This was explained in the method section that an Irish group  expressed interest in the utility of the tool in their health system after seeing the [original publication](https://spcare.bmj.com/content/5/1/78). We are unsure if it would be valid in any other health care system.
+
+**6. Sensitivity/Specificity: :** It was suggested to have a cut-off of seven in the Australian group, statistics we are used to, like sensitivity and specificity were not presented in the results section. Some of the data can be found in the [supplemental material](https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1111%2Facem.13664&file=acem13664-sup-0001-DataS1.pdf) and in the discussion. We were curious as to why this was not presented in the result section?
+
+**7. Lower Accuracy:**A sentence in the methods section got both of our attention and we need help understanding.
+
+> *“During the internal validation in Australia using logistic regression directly with CriSTAL score as a summary measure yielded an AUROC of lower accuracy than the model using all the explanatory variables that make up the tool. In the external validation on Irish data, rather than using the summary score we modeled only the association of the CriSTAL components with the outcome, which enhances the utility for clinicians*.”
+
+**8. Clinical Significant vs. Statistical Significance:**Although there was clearly a statistical significance in the mean score between those who died and those who didn’t, looking at figure 2, there seems to be a very large overlap between the two groups. Does this score actually discriminate well enough to be helpful clinically?
+
+**9. Clinician Gestalt:**In order to be helpful clinically, we like to see decision tools that improve on the accuracy of clinician gestalt. It would have been great to have data on this tool as compared to physician judgement or gestalt.
+
+**10. External Validity:**The tool was derived in five Australia sites and validated in one site in Ireland. We are unsure of the external validity to other health care systems like Canada and the USA.
+
+**Comment on Authors’ Conclusion Compared to SGEM Conclusion:**Although we agree that the modified CriSTAL tool (with CFS instead of Fried’s frailty instrument) was statistically able to distinguish between elderly patients who survived or died by 30 days, we are not sure whether this tool will help clinically.
+
+---
+
+### **SGEM Bottom Line:**Accurate prognosis is an important component of medical advice, especially in elderly populations. The CriSTAL tool, or its components, may help physicians open an important end of life discussion.
+
+---
+
+**Case Resolution:** You open up a conversation about end of life care with the patient and their family. It is the first time they have been approached about the topic.
+
+**Clinically Application:** We are unable to apply the CriSTAL tool at this time We would like to see further trials looking at its validation, implementation, and comparing it to clinician gestalt.
+
+![](https://i0.wp.com/thesgem.com/wp-content/uploads/2019/01/Justin-Morgenstern-e1547853552685-150x150.jpg?resize=150%2C150)
+
+Dr. Justin Morgenstern
+
+**What Do I Tell My Patient:**You probably have an infection in your urine. Given your age and all of your other medical conditions it could be serious. By serious I mean you could die from the infection. Have you ever thought about or talked about end of life care? We want to make sure we respect your wishes. If your heart or lungs stopped would you like to do CPR, put a tube down your throat to help you breathe, shock your heart if necessary and admit you to an intensive care unit? Or would you like us to allow a natural death?
+
+**Keener Kontest:** Last weeks’ winner was Aaron Ray. They knew [Ashman](https://en.m.wikipedia.org/wiki/Ashman_phenomenon) beats are isolated wide QRS complexes that can be found in atrial fibrillation.
+
+Listen to the podcast to hear this weeks’ trivia question. If you know the answer, send an email to [TheSGEM@gmail.com](mailto:TheSGEM@gmail.com) with “*keener*” in the subject line. The first correct answer will receive a cool skeptical prize.
+
+**[![](https://i0.wp.com/thesgem.com/wp-content/uploads/2018/03/AEM-Podcasts-logo2-1-300x192.png?resize=300%2C192)](http://thesgem.com/the-sgem-hot-off-the-press/)SGEMHOP:** Now it is your turn SGEMers. What do you think of this episode on using the CriSTAL tool? Tweet your comments using [#SGEMHOP](http://thesgem.com/the-sgem-hot-off-the-press/). What questions do you have for Magnolia and herteam? Ask them on the SGEM blog. The best social media feedback will be published in AEM.
+
+---
+
+### Remember to be skeptical of anything you learn, even if you heard it on the Skeptics’ Guide to Emergency Medicine.
+
+---
+
+**References:**
+
+1. Lamba S, Nagurka R, Murano T, Zalenski RJ, Compton S. Early identification of dying trajectories in emergency department patients: potential impact on hospital care. J Palliat Med 2012;15:392–5.
+2. McCabe JJ, Kennelly SP. Acute care of older patients in the emergency department: strategies to improve patient outcomes. Open Access Emerg Med 2015;7:45–54.
+3. Kennedy C, Brooks-Young P, Brunton Gray C, et al. Diag- nosing dying: an integrative literature review. BMJ Support Palliat Care 2014;4:263–70.
+4. Yourman LC, Lee SJ, Schonberg MA, Widera EW, Smith AK. Prognostic indices for older adults: a systematic review. JAMA 2012;307:182–92.

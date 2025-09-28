@@ -1,0 +1,79 @@
+# Metadata
+- Source: The Bottom Line
+- Title: REVERT
+- Original URL: https://www.thebottomline.org.uk/summaries/icm/revert/
+- Scrape Date: 2025-07-17
+- Summary Date: AUTO_FILL_IF_AVAILABLE
+
+Postural modification to the standard Valsalva manoeuvre for emergency treatment of supraventricular tachycardias (REVERT): a randomised controlled trial
+Appleboam. The Lancet 2015; published online first 25th August 2015. DOI
+10.1016/S0140-6736(15)61485-4
+Clinical Question
+Does a modified Valsalva technique, incorporating a leg lift procedure, result in improved success in converting a supraventricular tachycardia to sinus rhythm in patients presenting to the Emergency Department?
+Design
+Multi-centre, randomised controlled trial
+Permuted block concealed allocation
+Intention to treat analysis
+Treating clinicians non-blinded. Investigators blinded to treatment allocation
+Sample size of 372 patients calculated to give 80% power to detect an increase in primary outcome from 15% (stay sitting Valsalva) to 27% (lying down with leg lift Valsava)
+Setting
+10 Emergency Departments in UK (2 teaching and 8 district general hospitals)
+Jan 2013 to Dec 2014
+Baseline characteristics were similar in both groups
+Population
+Inclusion: Patients over 18 years of age with supra ventricular tachycardia (regular, narrow complex tachycardia with QRS duration <0.12s on ECG)
+Exclusion: Unstable patients with systolic blood pressure  <90 mm Hg or an indication for immediate cardioversion; atrial fibrillation or flutter; suspected atrial flutter requiring a trial of adenosine; the presence of any contraindication to Valsalva manoeuvre (aortic stenosis, recent myocardial infarction, glaucoma, retinopathy), inability to performing a Valsalva manoeuvre, to lie flat, or have legs lifted (or any reason identified by the patient as to why this manoeuvre would cause discomfort or pain), third trimester pregnancy, or previous inclusion in this study.
+711 patients were screened, 433 patients enrolled and randomised, 428 analysed (5 excluded as repeat enrolment)
+Intervention
+Modified Valsalva manoeuvre –
+lying down with leg lift Valsalva
+Participants performed the standardised strain in the same semi-recumbent position but immediately at the end of the strain, were laid flat and had their legs raised by a member of staff to 45° for 15 s. Participants were then returned to the semi-recumbent position for a further 45 s before re-assessment of cardiac rhythm, initially by 3-lead ECG.
+Control
+Standard Valsalva manoeuvre –
+stay sitting Valsalva
+Participants, positioned semi-recumbent (at 45°) on a trolley, were directed to perform the standardised strain and remained in the same position for 60 s before reassessment of cardiac rhythm, initially by 3-lead ECG.
+In both groups
+The Valsalva manoeuvre strain was standardised to a pressure of 40 mm Hg sustained for 15 s by forced expiration measured by aneroid manometer with the target pressure marked and visible to the participant and treating team
+If sinus rhythm (SR) was not restored, participants were invited to undertake one further attempt at the allocated Valsalva manoeuvre
+A 12-lead ECG was recorded if return to sinus rhythm was achieved at 1 min after Valsalva manoeuvre, and 1 min after the second manoeuvre even if unsuccessful
+Subsequent management was at the discretion of the treating clinical team according to standard guidelines
+Outcome
+Primary outcome: presence of SR 1 min after Valsalva manoeuvre (confirmed by ECG)
+37 (17%) in the standard Valsalva group vs 93 (43%) in the modified Valsalva group. Odds ratio [OR] 3·7, 95% CI 2·3–5·8. P<0.0001 NNT 4.
+Secondary outcome: standard Valsalva group vs modified Valsalva group
+Adenosine given: :148 (69%) vs 108 (50%) P=0.0002. NNT 5.3
+Any emergency anti-arrhythmic treatment: 171 (80%) vs 121 (57%) P=<0.0001
+Discharged home from emergency department: 146 (68%) vs 134 (63%) P=0.28
+Any adverse effect: 8 (4%) vs 13 (6%) P=0.32
+Increased heart rate, hypotension or light headedness, nausea, electrograph captured events, musculoskeletal pain or other (headache, shortness of breath and cyanosis)
+Median time in Emergency Department: 2.83 hours (1.95-3.62) vs 2.82 hours (1.95-3.77) P=0.31
+Authors’ Conclusions
+In patients with supraventricular tachycardia, a modified Valsalva manoeuvre with leg elevation and supine positioning at the end of the strain should be considered as a routine first treatment, and can be taught to patients.
+Strengths
+This is a very well designed, pragmatic study that has no cost impact but dramatically improves treatment success
+A training video was given to all participating centres
+Allocation concealment – local investigators were requested to date the seal of the envelope before they broke it. This is a sensible method to avoid any potential bias but ensuring the randomisation process is easily managed in a high acuity area
+Adequacy of the Valsalva technique was assessed and similar in both groups
+No cross over occurred between patient groups
+Opportunity to improve information patients were provided. At discharge, participants were given written instructions on how to perform both types of Valsalva manoeuvre themselves using a 10 mL syringe and provided with the website address of the Arrhythmia Alliance, a patient support charity.
+Weaknesses
+Emergency physician analysing treatment response was non-blinded. However, all trial ECGs were retrospectively assessed by an independent cardiologist, masked to treatment allocation. Disagreement with the treating clinician’s ECG interpretation was arbitrated by an independent electrophysiologist masked to treatment allocation
+The Bottom Line
+The modified Valsalva technique is a simple, effective, cost-free and well tolerated postural modification to the standard Valsalva technique. This study supports the use of the modified Valsalva technique, over the  standard approach, as an early treatment for haemodynamically stable patients presenting with a supraventricular tachycardia
+Conflict of interest
+The summary author’s brother is a local collaborator for the trial
+External Links
+[article abstract]
+Postural modification to the standard Valsalva manoeuvre for emergency treatment of supraventricular tachycardias (REVERT) : a randomised controlled trial
+[supplementrary video]
+The modified Valsalva technique
+[commentary]
+Supraventricular tachycardia: back to basics
+[blog]
+JC The REVERT trial: Dip or doom for SVT in the Emergency Department?
+Metadata
+Summary author:
+@stevemathieu75
+Summary date: 7th September 2015
+Peer-review editor:
+@davidslessor

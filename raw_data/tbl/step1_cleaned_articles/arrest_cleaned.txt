@@ -1,0 +1,118 @@
+# Metadata
+- Source: The Bottom Line
+- Title: ARREST
+- Original URL: https://www.thebottomline.org.uk/summaries/icm/arrest/
+- Scrape Date: 2025-07-17
+- Summary author: George Walker (@hgmwalker89)
+- Summary Date: 15 November 2020
+- Peer-review Editor: @david_slessor
+
+# Title
+Advanced Reperfusion Strategies for Patients with Out-of-Hospital Cardiac Arrest and Refractory Ventricular Fibrillation (ARREST)  
+**D Yannopoulos et al.**  
+The Lancet 2020; DOI:10.1016/S0140-6736(20)32338-2
+
+# Clinical Question
+In adults suffering out-of-hospital cardiac arrest (OHCA) with an initial rhythm of VF or pulseless VT, does early ECMO-facilitated resuscitation improve survival to hospital discharge compared to standard ACLS resuscitation?
+
+# Background
+- OHCA has a poor survival rate.
+- PARAMEDIC 2 trial showed a 30-day survival rate of 2.8% for all-cause OHCA.
+- Half of OHCA patients with VF have refractory VF, with worse prognosis.
+- Evidence for ECMO in OHCA is from observational studies; no prior randomised trials.
+- ELSO registry (2016) showed 29% survival to discharge for refractory OHCA.
+- Other studies show survival rates from 5.5% to 45% for all-cause OHCA.
+
+# Design
+- Phase 2, single-centre, open-label RCT.
+- Randomisation verified on hospital arrival.
+- Computer-generated randomisation (blocks of 2, 4, 6).
+- Functional assessment at 3 and 6 months by blinded assessors.
+- Pre-specified secondary outcomes: survival and favourable neurological outcome (mRS ≤3, CPC ≤2) at 3 and 6 months.
+- Emergency consent process; written consent within 24 hours of waking.
+- Mixed Bayesian and Frequentist statistical analysis.
+- Primary outcome analysed every 30 participants using Bayesian statistics.
+- Sample size: 174 patients (ECMO survival 37%, ACLS 12%, 90% power, 0.05 type 1 error).
+
+# Setting
+- University of Minnesota Medical Center, USA.
+- August 2019 – June 2020.
+
+# Population
+
+**Inclusion Criteria:**
+- Adults 18–75 years old.
+- Initial rhythm of VF or pulseless VT.
+- No ROSC after 3 shocks.
+- Body habitus supporting mechanical CPR.
+- Estimated transport time <30 minutes.
+
+**Exclusion Criteria:**
+- Valid DNACPR.
+- Mechanisms: drowning, trauma, burns, overdose.
+- Pregnancy, terminal cancer, active bleeding.
+- Prisoner or nursing home resident.
+- Cath lab unavailable, contraindications to angiography.
+
+**Enrollment:**
+- 36 assessed, 30 enrolled (15 per arm).
+- Baseline demographics similar between ECMO and ACLS groups.
+
+# Intervention
+
+**ECMO Group:**
+- Immediate access to cardiac catheterisation lab.
+- ECMO initiated if criteria met (EtCO2, PaO2, SpO2, lactate).
+- Peripheral veno-arterial ECMO and coronary angiogram performed.
+- Time from 999 call to ECMO: 59 min.
+
+# Control
+
+**ACLS Group:**
+- Standard ACLS in ED.
+- Treatment continued for 15 min or >60 min post-911 call.
+- Transferred for angiography if ROSC achieved.
+
+# Management Common to Both Groups
+- Post-angiography care per local protocol in Cardiac ICU.
+- Included 24 hours of TTM (34°C), no neuro-prognostication for 72 hours, CTB on admission and at 72 hours, continuous EEG until awakening.
+
+# Outcomes
+
+## Primary Outcome
+- **Survival to hospital discharge:**
+  - ECMO: 6/14 (43%)
+  - ACLS: 1/15 (7%)
+  - Posterior probability of ECMO superiority: 0.9861
+
+## Secondary Outcomes
+- Cumulative survival better with ECMO (HR 0.16, p<0.0001).
+- 6-month survival: 43% ECMO vs. 0% ACLS.
+- Good functional outcomes in ECMO survivors (mRS 1.3, CPC 1.16).
+- Length of ICU stay for ECMO survivors: 21.5 days.
+- Length of hospital stay for ECMO survivors: 25.5 days.
+- Adverse events: 166 vs. 47 (ECMO vs. ACLS).
+
+# Authors’ Conclusions
+Early ECMO-facilitated resuscitation significantly improves survival to hospital discharge in OHCA with refractory VF compared to standard ACLS.
+
+# Strengths
+- Well-conducted RCT in a complex cohort.
+- Randomisation minimises selection bias.
+- Fast ECMO initiation times.
+- Excellent safety reporting.
+- Adaptive randomisation based on Bayesian analysis.
+
+# Weaknesses
+- Single-centre study limits external validity.
+- High bystander CPR rates and fast shock times.
+- Small patient numbers.
+- Early trial cessation may affect outcomes.
+- No cost analysis despite being a secondary outcome.
+
+# Bottom Line
+This trial shows early ECMO initiation results in 43% survival to discharge for refractory shockable OHCA. Further multicentre trials are needed to validate these findings and assess generalisability.
+
+# External Links
+- **Original article:** Advanced reperfusion strategies for patients with out-of-hospital cardiac arrest and refractory ventricular fibrillation (ARREST)
+- **Further reading:** ELSO, CPC Score, EDECMO Podcast

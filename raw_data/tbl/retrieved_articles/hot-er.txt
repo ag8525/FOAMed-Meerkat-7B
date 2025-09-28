@@ -1,0 +1,129 @@
+# Metadata
+- Source: The Bottom Line
+- Title: HOT-ER
+- Original URL: https://www.thebottomline.org.uk/summaries/icm/hot-er/
+- Scrape Date: 2025-07-17
+- Summary Date: AUTO_FILL_IF_AVAILABLE
+
+Randomised Controlled Trial of Humidified High-Flow Nasal Oxygen for Acute Respiratory Distress in the Emergency Department
+Jones. Respiratory Care 2016; 61(3):291-299. doi:10.4187/respcare.04252
+Clinical Question
+In hypoxic adults presenting to the emergency department, does nasal high-flow oxygen compared to standard oxygen therapy reduce the need for advanced respiratory support?
+Design
+Single-centre, randomised, controlled trial
+Randomised by custom Microsoft Access application
+Sequence concealed by sealed, opaque envelopes
+Data collected from clinical notes by non-blinded study assessor
+Intention to treat analysis
+80% power at α=0.05 if 390 patients recruited
+Baseline conversion to advanced respiratory support of 24% based upon pilot observational study
+Expected relative reduction of 33% with nasal high-flow oxygen
+Setting
+Single tertiary academic city hospital in New Zealand
+July 2012 to May 2014
+Population
+Inclusion: Patient presenting to hospital via the emergency department with
+Arrival or pre-hospital SpO
+2
+< 92% (<90% if known chronic CO
+2
+retention)
+And respiratory rate > 22 breaths/minute
+Exclusion: Intubated pre-hospital or received non-invasive ventilation (NIV) immediately upon arrival; bullous lung disease; pneumothorax; facial abnormalities including trauma or trans-nasal neurosurgery; epistaxis within last 2 weeks
+1,287 patients screened, 322 were randomised, 303 were analysed (19 excluded from analysis)
+Intervention
+High-flow nasal oxygen
+Airvo1 or Airvo2 (Fisher & Paykel Healthcare)
+Starting 40 l/min at 37°C and FiO
+2
+0.28
+Titrated according to clinical need
+Control
+Standard oxygen therapy
+Hudson mask, Venturi device or nasal prongs
+Administered at 1-15 l/min
+Titrated according to clinical need
+Management common to both groups
+The decision to convert to non-invasive ventilation (NIV) was according to the British Thoracic Society’s guidelines
+Persistent or worsening hypoxaemia
+Worsening tachypnoea
+Rising arterial PCO
+2
+Persistent respiratory acidosis with pH < 7.30 despite 30 minutes of optimised standard acute medical therapy
+Worsening fatigue or confusion
+Decision by the treating clinician that escalation of therapy was necessary
+Choice of NIV strategy (CPAP 5 cmH
+2
+O or BIPAP 5 and 10 cmH
+2
+O) was at clinician’s discretion
+The decision to convert to invasive positive pressure ventilation (IPPV) was also according to the BTS guidelines
+NIV criteria met and clinician anticipated that invasive ventilation will be required
+Failure of NIV
+Patient unable to maintain a patent airway or manage secretions
+Outcome
+Primary outcome: no difference was seen in the rate of conversion to non-invasive ventilation (NIV) or invasive positive-pressure ventilation (IPPV)
+HFNC: 3.6%
+Standard O
+2
+: 7.3%
+P = 0.20 by Fisher’s exact test
+Absolute risk reduction: 3.6% (95% CI -1.57% to 8.79%)
+Fragility Index: -3 patients
+This means, if 3 patients who received NIV/IPPV in the HFNC group had the opposite outcome, this trial would then demonstrate a statistically significant difference
+Secondary outcome:
+Failure to tolerate therapy: clinically significant rate in HFNC group
+HFNC: 8.5% (1 in 12 patients)
+Standard O
+2
+: 0%
+Emergency department length of stay: no difference
+Hospital length of stay: no difference
+90 day mortality: no difference
+HFNC: 21.2%
+Standard O
+2
+: 17.4%
+P = 0.47 by Fisher’s exact test
+Absolute risk reduction: 3.82% (95% CI -5.06% to 12.7%)
+Patients satisfaction survey: Overall, patients rated Standard O
+2
+better than HFNC
+However, 48% lost-to-follow-up
+More patients described Standard O
+2
+therapy as ‘comfortable’:
+HFNC: 73.4%
+Standard O
+2
+: 85.9%
+P = 0.076
+Authors’ Conclusions
+Oxygen therapy delivered by high-flow nasal cannulae did not reduce the need for non-invasive or invasive ventilation when compared against standard oxygen therapy
+However, the trial was unexpectedly underpowered and a true, clinically important benefit may exist, therefore this trial should be considered a pilot for a larger (~900 patient) trial
+One in 12 patients are intolerant of oxygen delivery via high-flow nasal cannulae
+Strengths
+Important theory given increasing use of nasal high-flow oxygen therapy
+Sensible inclusion and exclusion list with good generalisability to most Emergency Departments
+Randomised, controlled trial
+Intention-to-treat analysis
+Weaknesses
+Non-blinded with subjective primary outcome at clinician’s discretion
+Failed to recruit target number, so under-powered to detect the expected or a smaller difference
+Significant loss-to-follow-up for patient experience survey – strong likelihood of bias in reporting
+The Bottom Line
+This trial did not demonstrate a difference between nasal high-flow oxygen and standard oxygen therapy in hypoxic and dyspneic patients arriving in the Emergency Department
+Significant weaknesses in the methodology mean that no firm conclusion can be drawn, as a false negative result may have occurred
+External Links
+[article]
+Randomized Controlled Trial of Humidified High-Flow Nasal Oxygen for Acute Respiratory Distress in the Emergency Department: The HOT-ER Study
+[TBL summary]
+FLORALI trial
+[further reading]
+High-flow nasal cannula oxygen therapy in adults
+Metadata
+Summary author:
+Duncan Chambler
+Summary date: 5th July 2016
+Peer-review editor:
+Steve Mathieu

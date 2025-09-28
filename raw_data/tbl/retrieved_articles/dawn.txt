@@ -1,0 +1,194 @@
+# Metadata
+- Source: The Bottom Line
+- Title: DAWN
+- Original URL: https://www.thebottomline.org.uk/summaries/dawn/
+- Scrape Date: 2025-07-17
+- Summary Date: AUTO_FILL_IF_AVAILABLE
+
+Thrombectomy 6 to 24 Hours after Stroke with a Mismatch Between Deficit and Infarct
+Nogueira et al, N Engl J Med 2018; 378:11-21. DOI:10.1056/NEjMoa1706442
+Clinical Question
+In patients who are 6-24 hours post acute stroke, and have a mismatch between clinical deficit and infarct, does thrombectomy plus standard medical care, compared to standard medical care alone, improve functional outcomes at 90 days?
+Background
+Previous randomised trials have demonstrated that thrombectomy is of benefit when performed within 6 hours of stroke onset
+There is limited information on the effect of thrombectomy after 6 hours
+Patients who have ischaemic brain tissue that has not yet infarcted may benefit from reperfusion. These patients can be identified by a clinical deficit that is disproportionately severe, relative to the volume of infarcted tissues on imaging studies
+Design
+Randomised clinical trial
+Web based randomisation software
+1:1 randomisation
+Stratified according to: age, mismatch criteria, time from onset, occlusion site
+Un-blinded/open-label trial
+Allocation concealment maintained during randomisation
+Primary outcome assessed by blinded structured interviews in-person (n=163) and telephone (n=43)
+2nd primary outcome added (changed from secondary outcome) at 30 months, whilst trial still blinded, following request from Food and Drug Administration
+Perfusion/diffusion imaging measuring infarct and ischemic size were calculated using RAPID software
+Intention to treat analysis
+Adapted trial design
+Allowed sample size 150-500 patients
+Pre-specified end-points for enrichment/modification of inclusion/exclusion criteria
+Trial stopped following 1st planned interim analysis; therefore no modification to inclusion/exclusion criteria had been performed
+Power: 86% power to detect 1.0 point difference between groups in 1st primary outcome
+Funded by Stryker Neurosciences, who supplied thrombectomy devices and performed data analysis with oversight from independent statisticians
+Setting
+26 centres who performed at least 40 thrombectomy cases annually in: USA, Canada, Europe and Australia
+206 patients enrolled (107 intervention, 99 control)
+Sept 2014 to Feb 2017
+Population
+Inclusion criteria:
+Age >= 18
+Acute ischaemic stroke
+Failed IV t-PA or treatment with IV t-PA contraindicated
+Last known to be normal 6-24 hours previously
+Baseline modified Rankin Scale (mRS) of 0 or 1
+Occlusion of intracranial internal carotid artery (ICA) and/or first segment middle cerebral artery (M1 MCA)
+Mismatch between severity of clinical deficit and infarct volume
+Group A: > 80 yrs,
+NIHSS
+10+, infarct volume < 21 ml
+Group B: < 80 yrs, NIHSS 10+, infarct volume < 31 ml
+Group C: < 80 yrs, NIHSS 20+, infarct volume 31-51 ml
+Exclusion criteria:
+Clinical
+Pregnancy, septic emboli, recent severe head injury or major haemorrhage, prior thrombectomy use
+Seizures at stroke onset if precludes accurate diagnosis and NIHSS assessment
+Sustained hypertension that is not reduced with medication (systolic >185 or diastolic >110)
+Laboratory
+Blood glucose < 50mg/dL (2.78mmol) or >400mg/dL (22.2mmol)
+Haemglobin <7mmol/L
+Platelets <50,000uL
+Sodium <130 mmol/L
+Postassium < 3mEq/L or > 6 mEq/L
+Renal failure (Creatinine > 3.0 mg/dL, 264umol/L) unless on pre-existing hemodialysis
+INR >3.0, PTT >3X normal, received Factor Xa inhibitor within 24-48 hrs unless with normal aPTT
+Imaging
+Intracranial haemorrhage
+Infarct > 1/3rd MCA territory at baseline
+Cerebral vasculitis
+Flow-limiting carotid dissection, high grade stenosis, or complete cervical carotid occlusion requiring stenting at time of index procedure
+Intracranial stenting in treatment area from pre-existing intervention
+Tortuous vessels
+Multiple vascular occlusions
+Tumuor
+Significant mass effect/midline shift
+206 patients were enrolled
+107 randomised to intervention group and 99 randomised to control group
+Comparing baseline characteristics between intervention vs. control groups
+No significant difference in:
+Age (yr): 69.4 vs. 70.7
+Age > 80: 23% vs. 29%
+Male sex: 39% vs. 52%
+Diabetes mellitus: 24% vs. 31%
+Prior ischaemic stroke or TIA: 11% vs. 11%
+Median NIHSS: 17 vs. 17
+Infarct volume (ml): 7.6 vs. 8.9
+Occlusion site:
+Intracranial ICA: 21% vs. 19%
+M1 MCA: 78% vs. 78%
+M2 MCA: 2% vs 3%
+Type of stroke
+Unwitnessed stroke 27% vs. 38%
+Witnessed stroke 10% vs. 14%
+Time from last well to randomisation: 12.2 hr vs. 13.3 hr
+Significant difference in rates of:
+Atrial fibrillation: 40% vs. 24%, p=0.01
+Treatment with IV alteplase: 5% vs. 13%, p=0.04
+Wake up stroke: 63% vs. 47%, p=0.03
+Intervention
+Mechanical thrombectomy with the Trevo device plus standard medical therapy
+Use of rescue devices not permitted
+Stenting of cervical ICA at time of thrombectomy not permitted
+Thrombectomy performed in 105 of 107 patients
+3 of these patients underwent treatment with alternative endovascular reperfusion device after initial treatment with the Trevo device failed
+BP control was used in post thrombectomy patients (SBP<140) to prevent ICH
+Control
+Standard medical therapy only
+Management common to both groups
+All patients received CT perfusion or MRI with diffusion imaging
+Enrolled patients admitted to stroke units or intensive care units
+Standard medical therapy
+According to regions national guidelines
+US: AHA 2013
+EU: ESO 2009
+AUS: Aus. Clinical Guideline for Acute Stroke 2007
+CAN: Canadian Acute Stroke BPG: 2015
+Aspirin >=81mg
+DVT prophylaxis and comprehensive post-stroke rehab
+Outcome
+Primary outcomes – significantly improved in thrombectomy group
+Comparing thrombectomy vs. control group
+Utility weighted (UW) mRS for disability at 90 days
+5.5 vs. 3.4
+Absolute difference 2.1 (95% C.I. 1.2-3.1)
+Adjusted difference 2.0; 95% CI 1.1-3.0)
+Posterior probability (pp) of superiority >0.999
+Functional independence at 90 days (mRS 0-2)
+49% vs 13%
+Absolute difference 36% (95% C.I. 24-47)
+Adjusted difference 33% (95% CI 24-44)
+pp superiority >0.999)
+NNT 3, fragility index of 22 patients
+Secondary outcomes – all significantly better outcomes in thrombectomy group
+Early therapeutic response (Decrease in NIHSS  score >=10 or NIHSS score of 0-1 on day 5-7)
+48% vs. 19%, p<0.001
+Vessel recanalisation at 24 hours
+77% vs. 39%, p<0.001
+Change from baseline infarct volume at 24 hours
+1ml vs. 13ml, p=0.003
+Infarct volume at 24 hrs
+8ml vs 22ml,  p<0.001
+Safety outcomes
+No significant differences in
+Stroke related mortality at 90 days
+16% vs. 18%
+Death from any cause at 90 days
+19% vs. 18%
+Symptomatic ICH at 24 hours
+6% vs. 3%
+Neurologic deterioration at 24 hours – significantly reduced in thrombectomy group
+14% vs. 26%, p=0.04
+Thrombectomy related complications occurred in 7%
+Distal embolisation in a different territory: 4%
+Intramural arterial dissection: 2%
+Arterial perforation: 0%
+Access site complications leading to intervention: 1%
+Subgroup analysis of 1st primary outcome – no evidence of heterogeneity of treatment effect
+Divided based on mismatch group, age, baseline NIHSS score, type of stroke onset, time from last well to randomisation
+Authors’ Conclusions
+In patients with intracranial internal carotid artery or proximal MCA strokes who had mismatch of clinical symptoms vs infarct volumes and who were last seen normal 6-24 hours prior, thrombectomy is superior with regard to functional independence and disability at 90 days.
+Strengths
+Effective randomization and allocation
+Co-primary endpoints are clinically relevant even if used as single primary endpoints
+Use of dichotomous mRS and UW-mRS removes some of the ambiguity associated with the traditional mRS
+Blinding of assessors of primary outcome
+Multi-centre
+Weaknesses
+Use of co-primary outcomes comes with the typical cautions
+Industry sponsored using a single device
+Imaging modality and resources are unique and may not be available to all clinicians
+Took place in those with NIHSS >10, may skew in favor of treatment effect as less severe strokes were not included in this trial
+Most patients had infarct volumes < 10 ml which may also skew toward those with anatomically less severe strokes
+The control group had a higher rate of tPA treatment while the experimental group had higher rates of atrial fib and wake up stroke
+Both groups of patients received intensive monitoring and post stroke rehab management which may be superior to that which can be provided at some centers.
+Trial closed early and subgroups thus underpowered
+The control group in this study had worse outcomes than controls in prior studies
+Utility weighted mRS is relatively new and there is much variability in individual patient responses and data which may limit the power of the trial
+UW-mRS has been shown to have more power than the dichotomous mRS used as the second primary outcome here but have less power than the ordinal mRS (0-6) used in prior trials
+The Bottom Line
+In patients who were last seen normal at between 6 and 24 hours and who have infarcts of either the intra-cranial internal carotid or the proximal MCA endovascular therapy with the Trevo device produces better functional outcomes at 90 days. This is, however an industry sponsored study that used advanced imaging techniques and comprehensive stroke care that may not be available to smaller centers. Finally, these patients had relatively small infarct volumes (average < 10 ml) as opposed to clinical symptoms (NIHSS 10+) and has not been validated in smaller clinical strokes or those with larger infarcts. Additional studies with a variety of devices across a broader group of strokes are needed to validate this study.
+External Links
+[article]
+Thrombectomy 6 to 24 Hours after Stroke with a Mismatch between Deficit and Infarct
+[further reading]
+EM Nerd-The Case of Corporeal Clock
+[further reading]
+Emergency Medicine Literature of Note: “DAWN” of the Mismatch Era
+[further reading]
+DEFUSE-3 TBL Summary
+.
+Metadata
+Summary author: Anthony Hackett
+@EM_Ahackett
+Summary date: April 4 2018
+Peer-review editor:
+@davidslessor

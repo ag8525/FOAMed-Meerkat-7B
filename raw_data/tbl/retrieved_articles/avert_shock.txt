@@ -1,0 +1,119 @@
+# Metadata
+- Source: The Bottom Line
+- Title: AVERT Shock
+- Original URL: https://www.thebottomline.org.uk/summaries/avert-shock/
+- Scrape Date: 2025-07-17
+- Summary Date: AUTO_FILL_IF_AVAILABLE
+
+Effect of Low-Dose Supplementation of Arginine Vasopressin on Need for Blood Product Transfusions in Patients with Trauma and Hemorrhagic Shock: A Randomized Clinical Trial (AVERT Shock)
+Sims et al, JAMA Surgery, Published Online August 28, 2019, doi:10.1001/jamasurg.2019.2884
+Clinical Question
+In trauma patients with hemorrhagic shock, does the use of low-dose arginine vasopressin compared to placebo reduce the volume of blood products transfused?
+Background
+Traumatic hemorrhagic shock is a leading cause of death among adults under 45 years
+Traumatic hemorrhagic shock is associated with neuroendocrine dysfunction
+Arginine Vasopressin (AVP) deficiency underlies this neuroendocrine dysfunction. AVP deficiency in trauma occurs due to depletion of AVP stores, loss of AVP in haemorrhage, and resuscitation with AVP-deficient blood products
+Replacement of AVP can help with:
+Vasomotor tone
+Haemostasis from improvement in platelet function
+Vasoconstriction of injured vessels and shunting blood to vital organs
+Retrospective human studies have found increased mortality with AVP use in this population
+Design
+Randomised controlled trial
+Computerized block randomization
+Blinding of clinical team, research personnel, patients & families
+Both intention-to-treat and per-protocol analyses performed
+Per-protocol excluded patients dying early in operating room, deemed as “nonsurvivable” injuries
+Registered on clinicaltrials.gov
+100 patients required to give 80% power and a 2 sided alpha of 0.05 to detect a 50% reduction in total volume of blood products from a baseline mean use of 5.4L of blood products
+Setting
+Single urban level 1 trauma centre, USA
+Data collected 2013 – 2017
+Population
+Inclusion
+: Adult trauma patients receiving more than 6 units of any blood product within 12 hours of admission
+Exclusion
+: interhospital transfers, prehospital CPR, emergency department thoracotomy, recent corticosteroid use, chronic renal insufficiency, significant coronary artery disease, traumatic brain injury requiring neurosurgical intervention, pregnancy, incarcerated patients
+257 patients identified, with 157 excluded predominantly for insufficient blood transfusion (< 6units), or ED thoracotomy being performed
+101 randomized, with 1 post-randomization refusal
+Comparing baseline characteristics of intervention group (n=49 ) vs. placebo (n=51) no significant differences for:
+Patient demographics (age, sex, ethnicity) – only 7 women in total
+Injury and mechanism characteristics including admission vital signs, site of bleeding, enrolment vital signs, ISS Score
+Penetrating trauma: 80% vs. 78%
+Injury Severity Score: 19 (14-26) vs. 26 (17-34)
+Initial lab values (lactate, creatinine, hemoglobin, coagulation panel)
+Pre-enrolment resuscitation (crystalloids, blood components, tranexamic acid, EBL)
+Intervention
+Arginine Vasopressin (AVP)
+4U bolus of AVP following randomization
+0.04U/min infusion (0.4U/mL concentration) started after bolus
+Titrated 0-0.04U/min following surgical control of bleeding to maintain MAP >= 65 for 48 hours
+Control
+Placebo
+Bolus of normal saline in equivalent volume as AVP
+Infusion of saline placebo of equivalent volume
+Management common to both groups
+1:1:1 transfusion strategy in both groups was suggested (though not protocolized
+Crystalloid and blood products at discretion of treating physician
+Additional vasopressors at discretion of physician (phenylephrine, norepinephrine, epinephrine)
+These were titrated and stopped before tapering study infusion
+Study coordinator monitored all resuscitations to ensure compliance in protocol
+Outcome
+Primary outcome
+: AVP vs. placebo
+Cumulative volume of blood products transfused within 48hrs (including red blood cells, fresh frozen plasma & platelets) – significantly reduced in AVP group
+1.7 (0.7-3.1) vs 3.0 (1.4-5.2)
+Median Difference: -1.00L (-2.03 to 0.00L, P = 0.03)
+For each component of primary outcome
+No significant difference in:
+PRBC, median (IQR) in L
+0.9 (0.1-1.8) vs 1.0 (0.6-3.0) P = 0.08
+In AVP group significantly reduced:
+FFP, median (IQR) in L
+0.9 (0.8-1.3) vs 1.0 (0.5-1.8) P = 0.03
+Platelets, median (IQR) in mL
+200 (0-300) vs 300 (0-600) P = 0.02
+Cryoprecipitate, mean (SD) in mL
+12.6 (75.4) vs 34.7 (84.8) P = 0.04
+Secondary outcome
+:
+No difference in any of the secondary outcomes studied:
+Volume of crystalloid transfused in 48hr
+9.6 vs. 10l
+Fluid balance in 48hr
+6l vs. 7l
+Total vasopressor requirements for 48hr
+30 day mortality
+12% vs. 12%
+Hospital/ICU length of stay
+Organ dysfunction (AKI, ARDS, open abdomen free days, ventilator free days)
+No difference in adverse events except:
+DVT – significantly reduced in AVP group
+20% vs. 39%, P=0.05
+RR (95% CI): 0.33 (0.13-0.83) p = 0.02
+Authors’ Conclusions
+Early administration of AVP during the resuscitation of trauma patients with hemorrhagic shock leads to decreased use of blood products at 48hours without increased complications
+Strengths
+Randomized control trial with appropriate blinding
+Balanced pragmatic design vs. protocolized design allow modest generalizability
+Intention-to-treat and per-protocol analysis allowing for standardization of patients with non-survivable injuries
+Physiologic basis for the findings are well supported
+Registered on clinicaltrials.gov
+Weaknesses
+Single center trial limits generalizability, open to institutional practice bias
+Study population predominantly young males with penetrating trauma, limiting generalizability
+Not adequately powered for secondary endpoints, or safety markers
+Sample size calculation based on baseline volume of blood products of 5.4l where as actual baseline was only 3l
+The Bottom Line
+Trauma patients presenting with hemorrhagic shock may benefit from low-dose vasopressin supplementation to prevent blood transfusion, however larger multicentre trials are needed to determine efficacy & safety of this practice. The findings of this study do not suggest changes in practice at this time
+External Links
+[article]
+Effect of Low-Dose Supplementation of Arginine Vasopressinon Need for Blood Product Transfusions in Patients With Trauma and Hemorrhagic Shock A Randomized Clinical Trial
+[further reading]
+Invited commentary: Vasopressin as an Early Adjunct to Resuscitation in Hemorrhagic Shock: Crisis AVERTed?
+Metadata
+Summary author:
+Vatsal Trivedi
+Summary date: 01/09/2019
+Peer-review editor:
+David Slessor

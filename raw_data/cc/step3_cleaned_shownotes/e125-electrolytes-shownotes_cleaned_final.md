@@ -1,0 +1,619 @@
+```yaml
+title: "CrackCast Episode 125: Electrolyte Disorders"
+url: "https://canadiem.org/crackcast"
+date: 2017-11
+source: "CanadiEM – CrackCast"
+original_file: E125 Electrolytes-shownotes.pdf
+summary: |
+  The document provides a comprehensive overview of electrolyte disorders, focusing on the diagnosis and management of conditions such as hyperkalemia, hypokalemia, hypernatremia, hyponatremia, hypercalcemia, hypocalcemia, hypermagnesemia, and hypomagnesemia. Key diagnostic principles include recognizing ECG changes associated with electrolyte imbalances, such as peaked T waves in hyperkalemia and prolonged QT intervals in hypocalcemia. Critical management steps involve the use of IV calcium for hyperkalemic emergencies, insulin and beta2-agonists to shift potassium intracellularly, and careful correction of sodium imbalances to prevent complications like central pontine myelinolysis. The document also highlights the importance of addressing underlying causes, such as renal failure or drug effects, and warns against rapid correction of electrolyte abnormalities to avoid adverse outcomes.
+```
+
+## Overview
+
+### Key Concepts
+
+- Electrolyte abnormalities that are asymptomatic can usually be corrected slowly, but those that cause profound mental status changes or life-threatening arrhythmias require immediate correction to avoid cardiac arrest or seizures.
+- IV calcium should be used only for hyperkalemic emergencies, defined as the following: widening QRS; sine wave; cardiac arrest believed to be due to hyperkalemia; or rapidly evolving electrocardiographic changes, from normal to development of tall peaked T waves and loss of the P wave. Acute, rapid rises in serum potassium concentration are rare but may be seen in tumor lysis syndrome, rhabdomyolysis, or massive hemolysis.
+- After the critical decision about administration of calcium has been made, a beta2-agonist, insulin and glucose, normal saline, and bicarbonate (if the patient is acidotic) can be given to shift potassium intracellularly.
+- In treatment of hypokalemia, the physician should also replace magnesium sulfate, in addition to potassium, or the patient will excrete most of the infused potassium in the urine.
+- Low serum potassium levels reflect a much greater total potassium deficit; correction of large deficits can require several days.
+- Hypertonic saline should be reserved for severely hyponatremic patients (typically in the 100 to 110 mEq range) who present with coma, seizures, or focal neurologic deficits. Central pontine myelinolysis can occur if serum sodium concentration is raised rapidly by more than 10 to 12 mEq/day.
+
+## Core Questions
+
+### 1. What are the five most common causes of hyperkalemia?
+
+Why do we care? Because hyperkalemia causes cardiotoxicity causing “membrane excitability,” and conversely, sluggish depolarization, as well as decreased duration of repolarization.
+
+Nearly any cardiac arrhythmia can be seen with hyperkalemia, including heart blocks, bradydysrhythmias, pseudoinfarction ST-segment elevation, Brugada pattern, and the classic “sine wave” pattern.
+
+Box 117.1: “SPARK+”
+
+1. Spurious elevation
+2. Acidosis
+3. Renal failure (Including NSAIDs, ACE/ARB)
+4. Kell (Cell) death
+5. Drugs
+
+- Spurious elevation: Hemolysis due to drawing or storing of the laboratory sample or post–blood sampling leak from markedly elevated white blood cells, red blood cells, or platelets
+- Renal failure: Acute or chronic
+- Acidosis: Diabetic ketoacidosis (DKA), Addison’s disease, adrenal insufficiency, type 4 renal tubular acidosis
+- Cell death: Rhabdomyolysis, tumor lysis syndrome, massive hemolysis or transfusion, crush injury, burn
+- Drugs: Beta-blockers, acute digitalis overdose, succinylcholine, angiotensin-converting enzyme inhibitors, angiotensin receptor blockers, nonsteroidal anti-inflammatory drugs (NSAIDs), spironolactone, amiloride, potassium supplementation
+
+### 2. Describe the ECG features seen with hyperkalemia. List at least 5.
+
+1. The peaked T wave
+2. Flattened P wave with prolonged PR interval or
+3. A totally absent P wave
+4. Wide QRS
+5. Sine wave pattern, portending imminent cardiac arrest
+
+Peaked T waves usually appear as serum potassium levels exceed 5.5 to 6.5 mEq/L; P wave disappearance and PR prolongation are common with levels above 6.5 to 7.5 mEq/L; and levels above 7.0 to 8.0 mEq/L can result in QRS prolongation.
+
+Although these changes may occur in only half the patients, recognition of these patterns is vital to rapid diagnosis and initiation of lifesaving treatment.
+
+A serum potassium level above 5.0 mEq/L is diagnostic of hyperkalemia, but the value itself does not always predict electrocardiographic changes or the degree of cardiotoxicity.
+
+Progression of ECG changes in hyperkalemia courtesy of the LITFL ECG Library.
+
+Source: [Life in the Fast Lane](https://lifeinthefastlane.com/hyperkalemia/)
+
+### 3. How is hyperkalemia managed? How does each intervention work, and how long do the effects typically last?
+
+**Treatment Table 117.1**
+
+**Stabilize cardiac membrane**
+
+- Calcium chloride (10 mL, maximum 20 mL) or calcium gluconate (10 to 30 mL), IV push
+  1. For wide QRS, restores the electrical gradient; does not decrease serum potassium
+  2. Onset within minutes; lasts 30 to 60 minutes
+
+**Shift potassium into cells**
+
+1. Insulin, 10 units, IV push, combined with 100  mL of 50% dextrose, IV push
+2. High-dose nebulized albuterol by face mask (15 to 25  mg by continuous inhalation)
+3. Bicarbonate 50 to 100  mL
+4. Normal saline 100 to 250  mL
+   - Insulin: Onset <15 minutes; maximum effect 30 to 60 minutes (~0.6  mEq/L decrease)
+   - Nebulized albuterol: Onset <15 minutes (0.5 to 1  mEq/L decrease)
+   - If severely acidotic
+   - In conjunction with nephrologist if dialysis dependent
+
+**Remove potassium from the body**
+
+1. Hemodialysis
+2. Normal saline and furosemide
+3. Ion exchange resin
+   - Emergently in cardiac arrest, urgently in renal failure; may delay if renal function is normal
+   - In patients with rhabdomyolysis or tumor lysis syndrome with intact urine output, not effective acutely
+
+A few important notes:
+
+1. IV calcium stabilizes the cardiac membrane by restoring the electrical gradient. Calcium increases the depolarization threshold and the calcium gradient across the cardiac membrane, quieting myocyte excitability and increasing cardiac conduction speed, thus narrowing the QRS. Calcium does not decrease serum potassium levels.
+   - PUT SIMPLY; CALCIUM CHILLS THE HEART OUT!
+2. Insulin rarely drops the serum K+ by more than 0.6 mmol/L
+3. Note the dose: 15-25 mg of nebulized albuterol!
+4. People with renal failure/anuria need hemodialysis!
+
+Also, based on our last podcast you should be quite savvy on the use of bicarbonate. If you’re aiming to decrease serum K+, boluses of bicarb aren’t the best option due to the risks of worsening CNS CO2 levels, hypocalcemia. It’s much better to start a bicarb drip, for persistent hyperK+ and acidosis.
+
+**Also note the hyperkalemia can present with atropine-resistant bradycardia: even in the absence of apparent heart block.**
+
+### 4. What are the five most common causes of hypokalemia?
+
+Most common cause in the outpatient world = thiazide diuretics.
+
+The five most common causes of hypokalemia are:
+
+1. Renal losses
+2. Increased nonrenal losses (sweating, diarrhea, vomiting, laxatives)
+3. Decreased potassium intake
+4. Intracellular shift
+5. Endocrine etiologies
+
+- Renal losses: Diuretic use, drugs, steroid use, metabolic acidosis, hyperaldosteronism, renal tubular acidosis, diabetic ketoacidosis (DKA), alcohol consumption
+- Increased nonrenal losses: Sweating, diarrhea, vomiting, laxative use
+- Decreased intake: Ethanol, malnutrition
+- Intracellular shift: Hyperventilation, metabolic alkalosis, drugs
+- Endocrine: Cushing's disease, Bartter's syndrome, insulin therapy
+
+### 5. Describe the ECG features seen with hypokalemia. List at least 4.
+
+No clear stepwise progression with these findings.
+
+- Flat T wave
+- U wave
+- Non-specific S-T changes
+- Prolonged QT
+
+Hypokalemic patients can demonstrate first- and second-degree heart block, atrial fibrillation, ventricular fibrillation, and asystole.
+
+### 6. How is hypokalemia managed?
+
+It’s not just a benign disorder: in patients with cardiac ischemia or heart failure, even mild to moderate hypokalemia increases the likelihood of cardiac arrhythmias secondary to potassium’s effect on the action potential. So our goal K+ in these groups is between 4-5 mmol/L.
+
+*Each 0.3 mEq potassium drop below normal correlates with an approximately 100 mEq total body deficit.*
+
+**Replacement:**
+
+- Potassium chloride is the most commonly used supplementation, and 40 to 60 mEq orally every 2 to 4 hours is typically well tolerated.
+- If IV infusion is necessary, potassium chloride can be safely given at a rate of 10 to 20 mEq/hr. In the rare instance when IV repletion is planned at more than 20 mEq/hr, the patient should have continuous cardiac monitoring and central line access established.
+- Hypokalemia is associated with hypomagnesemia, and the severity of the hypokalemia correlates with a similar degree of hypomagnesemia. Magnesium replacement should usually accompany potassium repletion.
+  - Unless the patient receives at least 0.5 g/hr of magnesium sulfate along with potassium replacement, potassium will not move intracellularly and the patient will lose potassium through excretion.
+
+Correction of large potassium deficits may require several days, with simultaneous oral and IV replacement.
+
+### 7. What are the three main types of hypernatremia? Give 3 examples of each.
+
+By far, the most common cause is a patient with an altered thirst mechanism (elderly, disabled patient) without access to free water.
+
+Hypernatremia can be divided into three physiologic pairings:
+
+1. Hypernatremia with dehydration and low total body sodium
+2. Hypernatremia with low total body water and normal total body sodium
+3. Hypernatremia with increased total body sodium
+
+**[1] Double loss:**
+
+- Heatstroke
+- Increased insensible losses: Burns, sweating
+- Gastrointestinal loss: Diarrhea, protracted vomiting, continuous gastrointestinal suction
+- Osmotic diuresis: Glucose, mannitol, enteral feeding
+
+**[2] Loss of body water**
+
+- Diabetes insipidus
+- Neurogenic
+- Elderly with “reset” osmostat
+- Hypothalamic dysfunction
+- Suprasellar or infrasellar tumors
+- Renal disease
+- Drugs (amphotericin, phenytoin, lithium, aminoglycosides, methoxyflurane)
+- Sickle cell disease
+
+**[3] Increased sodium**
+
+- Salt tablet ingestion
+- Salt water ingestion
+- Saline infusions
+- Saline enemas
+- IV sodium bicarbonate
+- Poorly diluted interval feedings
+- Primary hyperaldosteronism
+- Hemodialysis
+- Cushing’s syndrome
+- Conn’s syndrome
+
+**Management:**
+
+Normal saline should be started for volume replacement until the patient is hemodynamically stable, and then changed to half-normal saline at 100 mL/hr once vital signs have normalized. The treatment of central diabetes insipidus with desmopressin (DDAVP) is an effective means of improving polyuria and hypernatremia; initial doses in the acute setting range from 1 to 2 µg.
+
+Don’t lower the serum Na by more than 10 mmol/L in 24 hrs.
+
+### 8. List four central and four nephrogenic causes of diabetes insipidus.
+
+**Box 117.4**
+
+**Central**
+
+1. Idiopathic
+2. Familial disease
+3. Cancer
+4. Hypoxic encephalopathy
+5. Infiltrative disorders
+6. Post supraventricular tachycardia
+7. Anorexia nervosa
+
+**Nephrogenic**
+
+1. Chronic renal insufficiency
+2. Polycystic kidney disease
+3. Lithium toxicity
+4. Hypercalcemia
+5. Hypokalemia
+6. Tubulointerstitial disease
+7. Hereditary
+8. Sickle cell disease
+
+### 9. What are the four broad categories of hyponatremia?
+
+These are the five most common causes. In adults are therapy with thiazides, the postoperative state the syndrome of inappropriate secretion of antidiuretic hormone (SIADH), psychogenic polydipsia, exercise-associated hyponatremia, and unintentional water intoxication.
+
+Here are the broad categories:
+
+- Pseudohyponatremia
+  - Large molecular particles that do not contribute to plasma osmolality relative to sodium.
+    - Severe hypertriglyceridemia and
+    - Hyperproteinemia are two common causes of this condition.
+- Hyponatremia with dehydration and decreased extracellular volume
+- Hyponatremia with increased extracellular volume
+- Euvolemic hyponatremia with increased TBW
+
+Sometimes a fifth category of “dilutional hyponatremia” is added. This occurs with HYPERglycemia - where the extra glucose draws fluid into the intravascular space.
+
+See Box 117.5
+
+### 10. Give an example of two clinical conditions for each: hypovolemic, euvolemic, and hypervolemic hyponatremia.
+
+- **Hypovolemic hyponatremia** = decreased extracellular volume combined with an even greater loss of sodium.
+  - GI, skin, urine losses (diuretics)
+  - Third spacing - burns, pancreatitis
+- **Euvolemic hyponatremia** =
+  - Water intoxication / psychogenic polydipsia
+  - SIADH
+- **Hypervolemic hyponatremia** water retention exceeds sodium retention. THEY HAVE EDEMA!*
+  - “The failures”
+    - Heart failure
+    - Renal failure
+    - Liver failure / cirrhosis
+
+*The fluid retention in these states is secondary to renal hypoperfusion, resulting in increased aldosterone secretion and a decrease in free water excretion.
+
+### 11. What are the three most common causes of SIADH?
+
+SIADH is an important cause of hyponatremia that occurs when antidiuretic hormone is secreted independent of the body’s need to conserve water.
+
+The process results from excess antidiuretic hormone production that increases TBW, causing the serum sodium to decrease.
+
+Patients with SIADH inappropriately concentrate their urine, despite a low serum osmolality and normal circulating blood volume.
+
+Despite excess TBW, they have no signs of edema, ascites, or heart failure, because most of the increased water is intracellular rather than intravascular.
+
+The three most common causes of SIADH are (1) pulmonary lung masses and infections (PNA or TB), (2) CNS disorders, and (3) drugs*
+
+*Thiazide diuretics, narcotics, lithium, oral hypoglycemics, barbiturates, and antineoplastics.
+
+**Box 117.6: Three most common causes of Inappropriate secretion of antidiuretic hormone**
+
+**Lung Masses**
+
+1. Cancer (especially small cell)
+2. Pneumonia
+3. Tuberculosis
+4. Abscess
+
+**Central Nervous System Disorders**
+
+1. Infection (meningitis, brain abscess)
+2. Mass (subdural, postoperative, cerebrovascular accident)
+3. Psychosis (with psychogenic polydipsia)
+
+**Drugs**
+
+1. Thiazide diuretics
+2. Narcotics
+3. Oral hypoglycemic agents
+4. Barbiturates
+5. Antineoplastics
+
+**Treatment:** Free water restriction!
+
+### 12. Describe the management of hyponatremia in the following patients:
+
+- **Actively seizing**
+  - In more severe cases when the sodium value is 120 mEq/L or less and the patient has alterations in mental status, has focal findings, or is seizing, 3% hypertonic saline (513 mEq/L of sodium) is indicated.
+    - 100 mL of 3% Saline over 10 mins
+- **Euvolemic with acute hyponatremia**
+  - If altered mental status and Na <120 = hypertonic saline
+  - If focal findings = hypertonic saline
+  - If asymptomatic:
+    - Search for the underlying cause of
+    - SIADH*, drugs causing SIADH, adrenal insufficiency, hypothyroidism, etc.
+    - Water restriction
+    - *In patients with SIADH, normal saline may cause the serum sodium concentration to fall even more as free water is retained and hypertonic urine is excreted. If a patient is symptomatic because of a rapid decrease in serum sodium concentration, treatment with hypertonic saline is recommended.
+- **Hypovolemic with chronic hyponatremia**
+  - Correct any hypotension/instability with normal saline
+  - Slowly correct with IV saline once stable (go slow, 6-8 mmol/L in 24 hrs is safe)
+  - Then search for the underlying cause (GI, skin, renal losses; third spacing)
+
+But don’t be overly aggressive!
+
+For relatively asymptomatic patients with sodium values of 115 to 135 mEq/L, free water restriction is typically the single most important treatment.
+
+If fluid therapy raises extracellular sodium levels too quickly, fluids shift out of neurons and can cause diffuse demyelination. This can result in a flaccid paralysis and death due to central pontine myelinolysis, a syndrome more accurately labeled as the osmotic demyelinating syndrome (ODS).
+
+- **Hypovolemic with acute hyponatremia**
+  - If altered mental status and Na <120 = hypertonic saline
+  - If focal findings = hypertonic saline
+  - If asymptomatic, but hypotensive
+    - IV normal saline resuscitation till no longer hypotensive
+    - Search for the underlying cause of the hyponatremia
+      - GI, skin, renal losses
+      - Third spacing (burns, pancreatitis, rhabdo)
+      - Diuretics
+    - Probably can continue IV saline with a goal of correcting no more than 10-12 mmol/L in 24 hrs.
+
+### 13. What are the five most common causes of hypercalcemia?
+
+80% of cases are due to - malignancy (inpatients) or hyperparathyroidism (outpatients).
+
+**Box 117.7: Five Most Common Causes of Hypercalcemia**
+
+**Malignant Disease**
+
+1. Ectopic secretions of parathyroid hormone, multiple myeloma, cancer metastatic to bone
+2. Most common: Breast, lung, hematologic, kidney, prostate
+
+**Endocrine**
+
+1. Hyperparathyroidism, multiple endocrine neoplasias, hyperthyroidism, pheochromocytoma, adrenal insufficiency
+
+**Granulomatous Disease**
+
+1. Sarcoidosis, tuberculosis, histoplasmosis, berylliosis, coccidioidomycosis
+
+**Pharmacologic Agents**
+
+1. Vitamins A and D, thiazide diuretics, estrogens, milk-alkali syndrome
+
+**Miscellaneous**
+
+1. Dehydration, prolonged immobilization, iatrogenic, rhabdomyolysis, familial, laboratory error
+
+Key ones to think about:
+
+- Cancer crisis: heme, breast, lung, the “double” organs
+- Hyperparathyroidism
+- Sarcoidosis
+- Vitamin A/D overdose
+- Late finding in rhabdomyolysis
+
+**Clinical features:**
+
+NON-SPECIFIC!
+
+- Nonfocal abdominal pain
+- Constipation, fatigue, body aches, anorexia, polydipsia, polyuria, nausea, and vomiting.
+- Neuropsychiatric disturbances include anxiety, depression, and hallucinations.
+- CNS manifestations that often predominate in more severe cases include lethargy, altered mental status, seizures, and coma.
+
+Hypercalcemic crisis typically evolves from preexisting mild hypercalcemia, which develops into an acute severe hypercalcemic emergency.
+
+### 14. What are the five Most Common Symptomatic Causes of Hypocalcemia Seen in the Emergency Department?
+
+**Box 117.9: Five most common symptomatic causes of hypocalcemia seen in the Emergency department**
+
+- Hyperventilation: Anxiety, sympathomimetics
+- Ethanol abuse, chronic malnutrition: Hypoalbuminemia
+- Massive blood transfusion: More than 10 units
+- Toxins: Hydrofluoric acid, ethylene glycol
+- Severe pancreatitis
+
+HE Bleeds Pure Acid
+
+The other causes of hypocalcemia are:
+
+- Massive blood transfusions
+  - Patients receiving massive blood transfusions are at risk for development of hypocalcemia because of citrate toxicity.
+- Toxins
+  - Hydrofluoric acid, ethylene glycol
+- Pancreatitis
+  - Precipitation of calcium soaps in the pancreatic inflammatory mix
+- Tumor lysis syndrome/rhabdomyolysis
+  - Remember the four findings;
+  - Hyperuricemia, hyperphosphatemia, hyperkalemia, hypocalcemia
+- Chronic malnutrition
+  - Alcoholics with malnutrition, liver disease (hypoalbuminemia) and respiratory alkalosis!
+
+**Symptoms of hypocalcemia:**
+
+Muscle cramping, perioral or finger paresthesias, shortness of breath secondary to bronchospasm, and tetanic contractions. Symptomatic hypocalcemia may result in cardiovascular collapse, hypotension, and dysrhythmias. More severe hypocalcemia can lead to cardiovascular collapse, hypotension, syncope, dysrhythmias, CHF, angina, hypotension, and QT prolongation. Chvostek’s sign may be present: when the examiner taps the facial nerve, facial or eye muscle twitching will be elicited. Trousseau’s sign is more specific.
+
+### 15. What ECG features are seen in hypercalcemia vs. hypocalcemia? How is each managed?
+
+| Hypercalcemia | Hypocalcemia |
+|---------------|--------------|
+| **ECG features** | Short QT - (may or may not be present) **ST elevation - the most common finding (according to Rosen’s) Bradydyrhythmias AV block Atrial fibrillation VTach | LONG QT Dysrhythmia |
+| **Management** | Bolus normal saline until perfusion/hemodynamically stable Continue IV NS at 200-300 ml/hr Goal 2 L urine output per day Consider advanced therapies with specialist supervision: IV bisphosphonates Calcitonin Glucocorticoids | Asymptomatic/mild symptoms = use PO calcium carbonate Symptomatic: IV calcium chloride through CVC IV calcium gluconate through good peripheral line |
+
+### 16. What are the five most common causes of hypermagnesemia?
+
+**Box 117.10: Five Most Common Causes of Hypermagnesemia**
+
+- Iatrogenic: IV administration, dialysate
+- Oral administration: Laxatives, antacids, vitamins, cathartics, dialysate, parental
+- Impaired elimination—hypomotility: Bowel obstruction, chronic constipation
+- Impaired elimination—medications: Anticholinergics, narcotics, lithium therapy
+- Miscellaneous: Hypothyroidism, tumor lysis syndrome, adrenal insufficiency, milk-alkali syndrome
+
+### 17. List five clinical manifestations of hypermagnesemia.
+
+**Table 117.5: Clinical Effects of Hypermagnesemia**
+
+| EFFECT | LEVEL (mg/dL) |
+|--------|---------------|
+| Decreased deep tendon reflexes | 4 to 5 |
+| Hypotension | 5 to 7 |
+| Respiratory insufficiency | 10 |
+| Heart block | 10 to 15 |
+| Cardiac arrest | 10 to 24 |
+
+**Treatment:**
+
+- IV normal saline to dilute the serum Mg concentration
+- Diuretics
+- If severe toxicity: (hypotension, respiratory depression, cardiovascular instability)
+  - Arrange for dialysis
+  - Temporize with IV calcium boluses, then IV infusion of calcium
+
+### 18. List five common causes of hypomagnesemia?
+
+Five most common ED populations with low Mg.
+
+- Patients on diuretics
+  - Due to loop or thiazide diuretics
+- Malnourished and alcoholic patients
+  - Lack of green vegetables, legumes, fruits, shellfish, fresh meat, and cocoa on a regular basis to maintain normal total body magnesium stores.
+  - Patients with chronic diarrhea or bowel disease/short gut
+- Patients with hypoKalemia:
+  - Both potassium and magnesium are critical to help stabilize the membrane potential, to decrease cell excitability, and for function of the Na+ K+-ATPase pump.
+- Patients With Acute Coronary Artery Disease and Ventricular Arrhythmias
+  - Make sure you check and correct any low serum K / Mg levels, otherwise these patients are at high risk for dysrhythmias
+- Patients on certain medications:
+  - Long term PPI use, patients with bowel preps for colonoscopy
+  - Aminoglycosides, amphotericin B, cisplatin, and pentamidine
+
+### 19. What are the five most common causes of hyperphosphatemia?
+
+Hyperphosphatemia can occur because of five major pathways:
+
+1. Decreased phosphate excretion
+   - Acute and Chronic Renal Failure
+2. Excessive phosphate intake
+3. Increased renal tubular reabsorption
+   - Hypoparathyroidism, vitamin D intoxication, thyrotoxicosis increase renal phosphate reabsorption and may cause elevated phosphate levels.
+4. Shift of phosphate from intracellular to extracellular space.
+   - Rhabdomyolysis, tumor lysis syndrome, and DKA.
+   - Make sure you look for the concomitant hypocalcemia!
+5. Spurious elevation:
+   - Hyperproteinemia, such as multiple myeloma, hyperlipidemia, hemolysis, or hyperbilirubinemia.
+
+**Management:**
+
+- IV fluids
+- Diuretics
+- Calcium replacement
+- Dialysis (in patients with renal failure).
+
+### 20. What the five most common causes of hypophosphatemia in the ED? How do they manifest clinically?
+
+Acute hypophosphatemia is most commonly due to a rapid intracellular shift.
+
+Here are the most common causes seen in ER patients:
+
+- Malnourished with alcohol withdrawal
+- Acute hyperventilation or sepsis
+- Patients with DKA or alcohol ketoacidosis in whom reintroduction of insulin and glucose causes phosphate uptake into cells.
+
+Here’s the table of causes from Rosen’s: (Box 117.13)
+
+**Decreased Intake or Increased Absorptive States**
+
+1. Chronic alcoholism
+2. Home parenteral nutrition
+3. AIDS
+4. Chemotherapy
+5. Vomiting
+6. Malabsorption syndromes
+7. Secretory diarrhea
+8. Vitamin D deficiency
+
+**Hyperventilatory States**
+
+1. Sepsis
+2. Alcohol withdrawal
+3. Salicylate poisoning
+4. Neuroleptic malignant syndrome
+5. Panic attacks
+6. DKA
+7. Hepatic coma
+
+**Hormonal and Endocrine Effects**
+
+1. Insulin loading
+2. Glucose loading
+3. Exogenous epinephrine
+4. Hyperparathyroidism
+
+**Medications**
+
+1. Diuretics
+2. Chronic antacid ingestion
+3. Steroids
+4. Phosphate binders
+5. Xanthine derivatives
+6. Beta2-agonists
+
+**Disease States**
+
+1. Trauma
+2. Severe thermal burns
+3. Acute renal failure
+4. Gout
+
+**The symptoms:**
+
+Most symptoms don’t appear until it is in the severe range: Nonspecific complaints including joint pain, myalgias, irritability, and depression. Severe hypophosphatemia can be manifested as seizures, arrhythmias, cardiomyopathy, insulin resistance, acute tubular necrosis, rhabdomyolysis, and acute respiratory failure.
+
+**Box 117.14: Clinical Manifestations of Hypophosphatemia**
+
+**Central Nervous System**
+
+1. Irritability
+2. Confusion
+3. Paresthesias
+4. Depression
+5. Dysarthria
+6. Seizure
+7. Coma
+
+**Cardiovascular**
+
+1. Cardiomyopathy
+2. Depressed myocardial contractility
+3. Arrhythmias
+
+**Respiratory**
+
+1. Acute respiratory failure
+2. Depressed myocardial contractility
+
+**Gastrointestinal**
+
+1. Ileus, dysphagia
+
+**Hematologic**
+
+1. Depressed levels of 2,3-diphosphoglycerate and adenosine triphosphate
+2. Leukocyte dysfunction
+3. Hemolysis
+4. Platelet dysfunction
+
+**Renal**
+
+1. Acute tubular necrosis
+2. Metabolic acidosis
+3. Hypercalcemia
+
+**Endocrine**
+
+1. Insulin resistance
+2. Hyperparathyroidism
+
+*Patients with DKA are initially hypophosphatemic. However, no studies have shown significant benefit to routine phosphate therapy in DKA.
+
+## Wisecracks
+
+### 1. What other electrolytes abnormalities are often seen with hypomagnesemia?
+
+- Hyponatremia
+- Hypokalemia
+- May have hypocalcemia too
+
+Look at the ECG and correct any long QT!!
+
+### 2. How do you estimate the total body water?
+
+**Table 117.2 Calculation of Body Water**
+
+| POPULATION | TOTAL BODY WATER |
+|------------|-------------------|
+| Children and adult men | Body weight (kg) × 0.6 |
+| Adult women | Body weight (kg) × 0.5 |
+| Elderly men | Body weight (kg) × 0.5 |
+| Elderly women | Body weight (kg) × 0.45 |
+
+See [MDCalc](https://www.mdcalc.com)
+
+Sodium deficit = Total body water * (desired Na - pt's Na) (TBW = 0.6 if male and 0.5 if female) Total Body Water (TBW) varies depending on age range TBW (Adult Male) = 0.6 x weight (kg) TBW (Adult Female) = 0.5 x weight (kg) TBW (Elderly Male) = 0.5 x weight (kg) TBW (Elderly Female) = 0.45 x weight (kg) TBW (Child) = 0.6 x weight (kg) Water deficit in Hypernatremia
+
+**FORMULA**
+
+FW Deficit (Adult Male) = 0.6 x weight (kg) x (current NA / 140-1) FW Deficit (Adult Female) = 0.5 x weight (kg) x (current NA / 140-1) FW Deficit (Elderly Male) = 0.5 x weight (kg) x (current NA / 140-1) FW Deficit (Elderly Female) = 0.45 x weight (kg) x (current NA / 140-1) FW Deficit (Child) = 0.6 x weight (kg) x (current NA / 140-1)
+
+## References
+
+- Source: [Life in the Fast Lane](https://lifeinthefastlane.com/hyperkalemia/)
+- See [MDCalc](https://www.mdcalc.com)
+```

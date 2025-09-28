@@ -1,0 +1,112 @@
+# Metadata
+- Source: The Bottom Line
+- Title: 60/60 Sign for Acute PE
+- Original URL: https://www.thebottomline.org.uk/summaries/6060-sign-for-acute-pe/
+- Scrape Date: 2025-07-17
+- Summary author: Dave Slessor
+- Summary Date: 10 September 2017
+- Peer-review Editor: Steve Mathieu
+
+# Title
+Disturbed Right Ventricular Ejection Pattern as a New Doppler Echocardiographic Sign of Acute Pulmonary Embolism  
+**Kurzyna et al.**  
+Am J Cardiology 2002; 90:507-511
+
+# Clinical Question
+In patients with suspected acute pulmonary embolism (APE), do echocardiographic features of disturbed right ventricular ejection allow accurate diagnosis?
+
+# Background
+- APE often causes right ventricular (RV) pressure overload, detectable by echocardiography.
+- In patients with pre-existing cardiorespiratory disease, RV overload may be chronic.
+- The 60/60 sign may aid in diagnosing APE in patients with pre-existing pulmonary hypertension.
+
+# Design
+- Prospective observational diagnostic cohort
+- Consecutive patients
+- Not stated if assessors were blinded to gold standard results
+- Statistical analysis: Student’s t-test, Mann’s U test, Pearson’s chi-square test with Yates’ correction
+
+# Setting
+- Single tertiary pulmonary medicine referral centre, Poland
+- Dates of data collection not documented
+
+# Population
+
+**Inclusion Criteria:**
+- Clinical suspicion of APE following history, examination, arterial blood gases, chest X-ray, and ECG
+
+**Exclusion Criteria:**
+- Time from symptom onset/aggravation to study enrolment >14 days
+
+**Enrollment:**
+- 100 patients (57 male, 43 female)
+- Mean age: 61 ± 15 years
+- 54 patients with known cardiorespiratory disease (23 with COPD, 17 with CHF)
+- 62 patients assessed in ICU
+
+# Tests of Interest
+- Trans-thoracic ECHO
+- **60/60 Sign:** Pulmonary valve acceleration time ≤60ms and tricuspid regurgitation pressure gradient ≤60mmHg
+- **McConnell Sign:** Normokinesia/hyperkinesia of RV apical segment despite hypokinesia/akinesia of remaining RV free wall
+- **RV Pressure Overload:** Defined by ≥1 of the following:
+  - Right-sided cardiac thrombus
+  - RV diastolic dimension >30mm or RV:LV ratio >1
+  - Systolic flattening of interventricular septum
+  - Pulmonary valve acceleration time <90ms or tricuspid regurgitation pressure gradient >30mmHg (absent RV hypertrophy)
+
+# Gold Standard Investigation
+- APE diagnosed with:
+  - Spiral CT (n=63)
+  - High-probability lung perfusion scan (n=1)
+  - Pulmonary angiography (n=1)
+  - Surgery (n=1)
+  - Autopsy (n=1)
+- APE excluded with:
+  - Negative CT and venous compression ultrasound (n=20)
+  - Negative lung perfusion scan (n=10)
+  - Autopsy (n=3)
+
+# Outcomes
+
+## Diagnostic Performance
+- **APE Confirmed in 67 Patients**
+  - **60/60 Sign:** Diagnosed 17/67 correctly; 2 false positives
+  - **McConnell Sign:** Diagnosed 13/67 correctly; no false positives
+  - **RV Pressure Overload:** Diagnosed 54/67 correctly; 18 false positives
+
+- **Specificity in Patients Without Previous Cardiorespiratory Disease:**
+  - 60/60 and McConnell’s signs were 100% specific for APE
+
+- **Comparisons in APE Patients (60/60 Sign Positive vs Negative):**
+  - Hypoxaemia: PaO₂ 51mmHg vs 60mmHg, p=0.01
+  - IVC collapsibility: 19% vs 33%, p=0.02
+
+- **ECHO Features in APE vs Non-APE:**
+  - RV diameter: 31mm vs 28mm, p=0.01
+  - RV:LV ratio: 0.72 vs 0.63, p=0.04
+  - Septal flattening: 36% vs 12%, p=0.02
+  - Tricuspid regurgitation gradient: 41mmHg vs 28mmHg, p=0.01
+  - Pulmonary valve acceleration time: 73ms vs 95ms, p<0.0001
+
+# Authors’ Conclusions
+The 60/60 and McConnell signs are reliable but not sensitive indicators of APE.
+
+# Strengths
+- Consecutive patients
+- Prospective design
+- Appropriate gold standard
+
+# Weaknesses
+- Single-centre study with high APE prevalence limits external validity
+- Blinding of assessors to gold standard not stated
+- No sample size calculation
+
+# Bottom Line
+In a tertiary referral centre with high pre-test probability of APE, McConnell’s Sign has a high positive likelihood ratio. In patients without previous cardiorespiratory disease, the 60/60 sign also shows a high positive likelihood ratio. A negative result for either sign adds little diagnostic information. In high-probability APE cases where CT is not immediately available, bedside echo for 60/60 and McConnell’s signs can increase diagnostic confidence.
+
+# External Links
+- **Original article:** Disturbed right ventricular ejection pattern as a new Doppler echocardiographic sign of acute pulmonary embolism
+- **Further reading:**
+  - ECHOPRAXIS – An Echo in PE
+  - Echocardiographic Pattern of Acute Pulmonary Embolism: Analysis of 511 Consecutive Patients
+  - Ultrasound of the week: Pulmonary embolism

@@ -1,0 +1,256 @@
+---
+title: "CrackCast Episode 60: Foreign Bodies"
+url: "https://canadiem.org/crackcast"
+date: 2017-01
+source: "CanadiEM – CrackCast"
+original_file: "CrackCast-Shownotes-Episode-60-Foreign-Bodies-Jan2017.pdf"
+summary: |
+  The document discusses the management of foreign bodies (FB) in various anatomical locations, emphasizing high-risk groups and the importance of imaging, particularly CT, for diagnosis. Key areas include ocular FBs, where globe rupture must be ruled out, and ear FBs, which can lead to complications like otitis externa and TM perforation. Techniques for FB removal from the ear and nose are detailed, including the use of right-angle probes and suction catheters. Esophageal FBs require urgent removal if they involve button batteries or sharp objects, with endoscopy being a primary technique. The document also covers the management of airway obstructions in pediatrics and the differentiation between body stuffing and packing in drug smuggling scenarios. Critical management steps include appropriate anesthesia, imaging, and follow-up care to prevent complications.
+
+---
+
+## Overview
+
+### Rosens in Perspective
+
+Tricky problem. Sometimes glaringly obvious: the arrow in the head, the electronic vibrating device in the rectum. However, sometimes we are unable to obtain an accurate history; BB in the eye, or 100 plus packets of cocaine in the GI tract of an inconspicuous patient.
+
+THINK HIGH RISK GROUPS:
+
+- Neurologically impaired patients
+- Edentulous individuals
+- Patients with certain psychiatric diagnoses
+- Incarcerated individuals
+- Diapered (individuals at the extremes of age)
+
+Imaging Helps: Plain radiographs help with radio-opaque objects. Order two views as always so as to locate in 2 dimensions (you can’t find a house without the full address).
+
+Don’t forget about CT and Ultrasound: Good for organic FBs and structures that are difficult to image (e.g., the EYE).
+
+Caution - U/S has poor sensitivity for foreign bodies. CT saves your bacon here.
+
+This should go without saying… but… if there is a chance of metal FB anywhere… don’t order an MRI...
+
+Speaking of metal… life hack: Hand held metal detector - if history of metal FB, start sweeping!
+
+## Core Questions
+
+### 1. Describe your approach to Ocular FB
+
+History / Exam
+
+If possible ocular penetration - examine for globe rupture (Seidel sign).
+
+Don’t forget about imaging Xray or CT, avoid U/S and any pressure to eye if positive.
+
+As always with eye, don’t forget about anterior chamber (hyphema/hypopyon) and full exam (EOM, Visual acuity, Visual Fields, Pupils, pressure if no globe injury).
+
+Stop, do not pass go if you see:
+- Obvious perforation with teardrop pupil,
+- Vitreous extrusion, or
+- Protruding intra-ocular foreign body
+
+Pearls:
+
+- Don’t forget to take out the contacts (remove them or they will be stained!)
+- Don’t forget to ask about LASIK/PRK (corneal flap may be present for >6 years, avoid all corneal procedures, i.e., rust ring removal and FB removal in these patients)
+
+Checkout:
+- [FOAMcast Episode 51: Ocular Trauma](http://foamcast.org/2016/06/09/episode-51-ocular-trauma/)
+- [FOAMcast Episode 58: Ophthalmology](http://foamcast.org/2016/10/10/episode-58-ophthalmology/)
+- [EM in 5: Slit Lamp Anatomy](https://emin5.com/2016/02/07/slit-lamp-anatomy/)
+
+Step 1: Anesthetize the eye: topical anesthesia (alcaine vs. tetracaine in our shop)
+Step 2: Position patient: Comfort for you and them
+Step 3: Slit lamp key for both exam and removal (use fluor as needed)
+Step 4: Pick your weapon of choice:
+- Cotton swab
+- Small gauge needle
+- Forceps
+- Hook
+- Burr
+
+Not working? Consult optho. Don’t go all cowboy and perforate the anterior chamber!
+
+Need follow-up post FB removal, antibiotic drops / ointment with corneal involvement and TETANUS PRN and watch for rust rings with oxidizing metals.
+
+### 2. What is Seidel’s Sign?
+
+Vitreal extrusion or positive fluorescein flowing with aqueous humor.
+
+As Rosen’s puts it: “Identification of rivulets of fluorescein tracking from the puncture (i.e., positive Seidel test result)” = GLOBE RUPTURE.
+
+### 3. List indirect signs of FB on Xray
+
+- Eye: Free air
+- Ears: Erosion / infection of the mastoids
+- Nose: Chronic erosive synovitis
+- Neck: Prevertebral swelling or soft tissue emphysema
+- Lungs:
+  - Pulmonary Gas trapping (flat & fixed diaphragm on inspiration vs. expiration, shift of mediastinum away from affected side during expiration)
+  - Narrowing of subglottic space
+  - Atelectasis
+  - Bronchiectasis and bronchial stenosis (late)
+
+### 4. List complications of ear FB
+
+- Damage to Ear canal
+- Otitis Externa
+- TM Perforation
+- Expansion of vegetable / porous material with irrigation
+
+Critical Complications:
+- Eustachian tube dysfunction
+- Para-pharyngeal abscess
+- Mastoiditis with progression to fatal brain abscess and meningitis.
+
+### 5. Describe the process of anesthesia of the ear and preparation for FB removal
+
+Topical anesthetic: 1-5 ml for installation in the auditory canal, 1-2% lidocaine w/o epi.
+
+Consider procedural sedation dependent on patient factors (age, compliance, etc.)
+
+Step 1: Position patient and use proper lighting (headlamp, otoscope, operative microscope)
+Step 2: Speculum for proper visualization (otic or nares speculum, not the gyny size)
+Step 3: Inspect and document presence of TM rupture BEFORE FB removal
+Step 4: Instill lidocaine for topical anesthesia, consider 10% solution spray if insect present in canal (microscope immersion oil may be more efficacious)
+
+### 6. Describe 5 techniques for removal of FB from the ear
+
+- Right-angle probe
+- Ballooned catheter (Swanz is my favorite)
+- Suction catheter (small)
+- Alligator forceps / bayonet forceps
+- Irrigation
+
+### 7. Describe the management of TM perforation secondary to FB
+
+Step A) Placement of topical antibiotic with placement of Wick in external auditory canal for prevention of otitis externa (e.g., Ciprofloxacin Suspension)
+Step B) Oral antibiotics for prevention of middle ear infection (e.g., Amox-Clav)
+Step C) Follow-up assessment by ENT in 2-3 days
+Step D) Urgent ENT consult for: Significant hearing loss (≥40 dB), vertigo, nystagmus, ataxia, or facial nerve injury)
+
+### 8. Describe 7 techniques for removal of FB from nose
+
+1. “Mother’s Kiss” - Positive pressure applied to mouth with unaffected nare compressed
+2. Patient variant insufflation: Patient directed to take a deep breath and patient or parent compressed unaffected nare
+3. Blunt-tipped right-angle probe
+4. Suction catheter
+5. Alligator forceps
+6. Magnets
+7. Catheters (Fogarty or Swanz-Ganz)
+
+### 9. Describe a stepwise approach to pediatric FB airway obstruction
+
+Most airway foreign bodies are seen in pediatric patients and may not be visible on plain films. A normal radiograph does not rule out an aspirated foreign body. If stridor +/- unwell proceed immediately to the following:
+
+1. Forced expulsion of the foreign body (J-thrusts / chest compressions if LOC); or
+2. Direct laryngoscopy with attempted manual removal; or
+3. Intubation, while pushing the foreign body distally; or
+4. Cricothyroidotomy / transtracheal ventilation in young children
+
+### 10. List 7 symptoms of esophageal FB
+
+- Witnesses or self-reported history of ingestion (e.g., coin / food / toys / bones / batteries / wood / glass)
+- Atypical chest pain / neck pain
+- FB sensation
+- Odynophagia / dysphagia
+- Drooling
+- Retching / vomiting
+- Anorexia
+- Wheezing
+
+### 11. List 8 complications of esophageal FB
+
+- Erosion or Perforation
+- Tracheal compression
+- Mediastinitis
+- Esophagus-to-airway or esophagus-to-vascular fistulae
+- Spondylodiskitis
+- Extraluminal migration
+- Abscess development
+- Strictures or false esophageal diverticula
+
+### 12. List 4 complications specific to button battery ingestions
+
+- Esophageal rupture
+- Mediastinitis
+- Liquefaction necrosis (potassium containing batteries)
+- Heavy metal poisoning
+
+### 13. List indications for removal of esophageal FBs
+
+- Button battery
+- Magnet
+- Sharp Object
+- Displaced esophageal stent
+- Duration, in place > 24 hours
+
+### 14. List 4 removal techniques of esophageal FB
+
+- Endoscopy
+- Contrast filled balloon catheter and fluoroscopy
+- Bougienage (pushing object into stomach)
+- Expectant management
+
+### 15. List 5 techniques for management of food bolus & their MOA
+
+1. Glucagon (0.5 to 2 mg) IV (Glucagon receptor agonist) - Theoretical action is lowering the smooth muscle tone at the lower esophageal sphincter without inhibiting normal esophageal peristalsis. Data is unsupporting of its use in modern treatment.
+2. Benzodiazepine (GABA agonist): Anxiolytic +/- improves effect of Glucagon.
+3. Nitroglycerin (Nitric oxide which is a potent vaso-dilator) thought to work to relax lower esophageal sphincter tone.
+4. Nifedipine (Calcium Channel Blocker) - thought to work to relax lower esophageal sphincter tone.
+5. Enzymatic degradation w/ proteolytic enzyme papain or coca-cola - ineffective and has fallen out of favour.
+
+### 16. List the criteria for continued expectant management of intestinal FB
+
+1. The object has not passed in the stool yet
+2. No presence of bowel obstruction / perforation
+3. Progression on 2x Xrays 24 hours apart
+4. No presence of drug intoxication with body packers/stuffers
+
+Otherwise: Surgical management indicated.
+
+### 17. Describe the stepwise management of a rectal FB
+
+- Patient sedation / analgesia
+- Removal with single digit and abdo pressure
+- Anoscopy / Vaginal Speculum w/ Ring Forceps
+- Advancement of foley catheter past object with gas insufflation to “Break Vacuum” effect
+
+## Wisecracks
+
+### 1. What is the safe dose of topical anesthetics?
+
+According to UptoDate: Safe amount for:
+
+- Tetracaine: 1-2 drops q5-10min to max 5 doses
+- Alcaine (proparacaine): 1 drop q5-10min for max 5-7 doses
+
+[Topical Anesthetic Use for Corneal Abrasions](http://rebelem.com/topical-anesthetic-use-corneal-abrasions/)
+
+[SGEM145: Topical Anesthetics for ED Patients with Corneal Abrasions](http://thesgem.com/2016/01/sgem145-topical-anesthetics-for-ed-patients-with-corneal-abrasions/)
+
+### 2. How do you test the radiolucency of an object?
+
+Take a piece of the same material, and place it over the patient's shoulder when using plain radiography: compare the radiolucency to the rest of the body structures and help locate the object!
+
+### 3. What is a Cafe Coronary? What is Penetration Syndrome?
+
+- Cafe Coronary - True airway obstruction from food bolus confused with myocardial infarction.
+- Penetration Syndrome - Airway obstruction with resolution, patients may report choking sensation accompanied by respiratory distress with coughing, wheezing, and dyspnea, and subsequent resolution with expulsion +/- swallowing of foreign body.
+
+### 4. Differentiate Body Stuffing from Body Packing
+
+As per Rosen’s:
+
+- Body stuffing - “denotes hurried ingestion of hastily prepared packages in the face of imminent police presence.”
+- Body packing - “entails systematic gastrointestinal tract placement of previously prepared drug packages.”
+
+## References
+
+- [FOAMcast Episode 51: Ocular Trauma](http://foamcast.org/2016/06/09/episode-51-ocular-trauma/)
+- [FOAMcast Episode 58: Ophthalmology](http://foamcast.org/2016/10/10/episode-58-ophthalmology/)
+- [EM in 5: Slit Lamp Anatomy](https://emin5.com/2016/02/07/slit-lamp-anatomy/)
+- [Topical Anesthetic Use for Corneal Abrasions](http://rebelem.com/topical-anesthetic-use-corneal-abrasions/)
+- [SGEM145: Topical Anesthetics for ED Patients with Corneal Abrasions](http://thesgem.com/2016/01/sgem145-topical-anesthetics-for-ed-patients-with-corneal-abrasions/)
+```

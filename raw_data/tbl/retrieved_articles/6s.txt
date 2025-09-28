@@ -1,0 +1,149 @@
+# Metadata
+- Source: The Bottom Line
+- Title: 6S
+- Original URL: https://www.thebottomline.org.uk/summaries/icm/6s/
+- Scrape Date: 2025-07-17
+- Summary Date: AUTO_FILL_IF_AVAILABLE
+
+Hydroxyethyl Starch 130/0.42 versus Ringer’s Acetate in Severe Sepsis
+Perner. NEJM 2012;367:124-34. doi: 10.1056/NEJMoa1204242
+Clinical Question
+In critically ill adults with severe sepsis, does 6% hydroxyethyl starch (HES) compared to Ringer’s acetate reduce the incidence of death or end stage kidney failure?
+Background
+Septic shock is a complex heterogeneous state with a combination of fluid deficiency and vasoplegia
+Intravenous fluid therapy is currently a key treatment, with international guidance recommending up to 30 ml/kg as boluses for the initial treatment of sepsis
+Colloids and crystalloids are available and numerous trials have attempted to identify the best fluid for restoring intravascular volume
+Starch-based colloids vary by the molecular weight and substitution ratio, and preparations with high molecular weight and high substitution ratios were shown to be associated with acute kidney injury
+This 6S trial attempted to investigate a starch-based colloid with relatively lower molecular weight and substitution ratio
+Design
+Investigator initiated, blinded, stratified, parallel-group clinical trial
+Computer generated allocation sequence
+Treatment assignments were concealed from patients, clinicians, research staff, data monitoring and safety committee, the statistician, and the writing committee (when it wrote the first draft of the abstract)
+Randomisation stratified according to the presence or absence of shock, presence or absence of haematological cancer, and admission to a university or non-university hospital
+800 patients required for study to have 80% power to show an absolute between group difference of 10% in the primary outcome measured at a two-sided alpha significance level of 0.05, assuming a 45% mortality rate and a 5% rate of dependence on dialysis at 90 days
+Setting
+26 intensive care units (13 university and 13 non university)
+Denmark, Finland, Norway and Iceland.
+Data collected between December 2009 and November 2011
+Population
+Inclusion
+: adult patients who needed fluid resuscitation in the ICU, as judged by ICU clinicians, who fulfilled the criteria for severe sepsis within the previous 24 hours
+Criteria for severe sepsis was defined as sepsis plus at least one organ failure
+Organ failure was defined as SOFA score >2 for the organ in question
+Sepsis was defined as definitive source of infection plus at least two systemic inflammatory response syndrome (SIRS) criteria met
+Exclusion
+: medical reasons (eg burns, intracranial bleeding, already receiving renal replacement therapy); if they had received more than 1000 ml synthetic colloid in the previous 24 hrs; enrolled in another ICU study
+1211 patient assessed for eligibility and of these 804 underwent randomisation
+400 were then assigned to each group
+Baseline characteristics were similar between the two groups (Starch group vs Ringer’s acetate group)
+Median age: 66 years vs 67 years
+Median SOFA score: 7 vs 7
+Non-surgical admission: 62% vs 59%
+Source of sepsis:
+Pulmonary: 53% vs 57%
+Abdomen: 33% vs 33%
+Urinary: 14% vs 12%
+Soft tissue: 10% vs 12%
+Intervention
+Starch group – 6% Hydroxyethyl Starch (HES)
+6% HES 130/0.42 in Ringer’s acetate (Tetraspan 6%) was given if volume expansion was required
+Prepared by staff not involved in trial or patient care
+Hidden by custom-made opaque bag
+Control
+Ringer’s acetate group
+One litre of this crystalloid contains: Na
++
+145.0 mmol, K
++
+4.0 mmol,
+Ca
+2+
+2.5 mmol, Mg
+2+
+1.0 mmol, Cl
+–
+127.0 mmol, malic acid 5.0 mmol and acetate 24.0 mmol
+Control group received Ringer’s acetate if volume expansion was required
+Prepared by staff not involved in trial or patient care
+Hidden by custom-made opaque bag
+Management common to both groups
+Routine management of patient was maintained apart from which resuscitation fluid was used
+Fluids given for a maximum of 90 days
+Maximum daily dose of 33 ml/kg of ideal body weight to nearest 500 ml
+Further fluid, if required, was unmasked (open label) Ringer’s acetate
+If bleeding, reaction of renal replacement therapy (RRT) occurred, trial fluid was permanently stopped and replaced by 0.9% sodium chloride or Ringer’s lactate
+Other crystalloid and albumin solutions were allowed except for the indication of volume expansion
+Outcome
+Primary outcome
+: Composite primary outcome was death or dependence on dialysis 90 days after randomisation
+HES Group: 51%
+Ringer’s acetate Group: 43%
+Relative risk (RR): 1.17 (95% CI 1.01 to 1.36; P=0.03)
+Absolute risk increase (ARI): 7.5% (95% CI 0.6% to 14.4%)
+Number needed to harm (NNH): 14
+Fragility Index (FI): 2
+Only one patient in each group was dependent on dialysis at 90 days.
+Secondary outcome
+:
+Use of renal replacement therapy
+22% HES group compared with 16% Ringer’s acetate group
+RR: 1.35 (95% CI 1.01 to 1.80; P=0.04)
+ARI: 5.6% (95% CI 0.17% to 11.05%)
+NNH: 18
+Severe bleeding
+10% of HES group compared with 6% of Ringers acetate group
+RR: 1.52 (95% CI 0.94 to 2.48; P=0.09)
+ARI: 3.3% (95% CI -0.44% to 7.03%)
+Dead at 28 days:
+39% of HES group compared with 36% Ringer’s acetate group
+RR: 1.08 (95% CI 0.90 to 1.28; P=0.43)
+ARI: 2.69% (95% CI -4.02% to 9.40%)
+Authors’ Conclusions
+Patients with severe sepsis who received fluid resuscitation with hydroxyethyl starch compared with Ringer’s acetate had a higher risk of death within 90 days and were more likely to receive renal replacement therapy
+Strengths
+Low risk of ascertainment bias as all groups and procedures blinded
+Opaque bags hung over fluid during administration
+First draft of abstract written without knowledge of group assignment
+Treatment assignments concealed from patients, clinicians and research staff alongside the data monitoring and safety committee and statistician
+Increases internal validity of trial
+Web-based randomisation process with stratification
+Prevents prior knowledge of allocation
+Prevents bias due to differences in management between sites by balancing randomisation within each site
+Pragmatic approach taken
+Only resuscitation fluid used was altered not routine management
+University and non university hospitals included
+Few exclusion criteria
+Makes this more generalisable to other patient populations
+Weaknesses
+A significant proportion of patients received fluid volumes in excess of the protocol, although this was balanced fairly evenly between the two groups so it is unlikely to have led to a bias
+Reductions in external validity of study
+Impact of conclusion may not be huge in UK as starch-based fluids are not commonly used in UK
+Routine management of patients was not standardised across all 26 sites – study only recommended sites follow international guidelines
+Nearly 300 patients were excluded because they had already received > 1000 mls synthetic colloid in previous 24 hours or had undergone renal replacement therapy
+No haemodynamic monitoring used during study which is more commonplace in practice today to help guide treatment
+Use of composite outcome places dependence on RRT as equally significant to death and reduces the power to conclude association with each independently
+As numbers dependent on RRT were so low, the impact is negligible and the primary outcome is effectively mortality at 90 days
+Time to death analysis reported no significant difference (P = 0.14; Hazard Ratio not available) despite binomial death event analysis demonstrating a difference
+If the occurrence of death (yes or no) differed but not the time to death (when), is the conclusion of this trial a statistical fluke (false positive or Type 1 error) or a truth (in which case the time to death analysis is a false negative or Type 2 error)?
+Usually a time to event analysis provides greater statistical power (greater certainty that the conclusion is correct)
+The low Fragility Index demonstrates that this trial only just found a statistically significant difference between the groups and this adds to the concern above – is this a statistical fluke?
+The Bottom Line
+This paper shows a statistically significant difference suggesting that the use of hydroxyethyl starch increases the risk of death and use of renal replacement therapy, which is in keeping with other trials in similar populations with similar starch-based fluid interventions
+I would be cautious using starch-based fluids in patients with severe sepsis but this conclusion may not be valid for other populations or colloid formulations
+External Links
+[article]
+Hydroxyethyl Starch 130/0.42 versus Ringer’s Acetate in Severe Sepsis
+[further reading]
+CHEST trial summary
+by TBL
+[further reading]
+Fluid bolus therapy
+by LITFL
+[further reading]
+Colloids versus crystalloids for fluid resuscitation in critically ill patients
+by Cochrane Library
+Metadata
+Summary author: Jo Davy
+Summary date: 5 July 2018
+Peer-review editor:
+Duncan Chambler

@@ -1,0 +1,91 @@
+```yaml
+---
+source: The Bottom Line
+title: CRASH-2
+original_url: https://www.thebottomline.org.uk/summaries/icm/crash-2/
+scrape_date: 2025-07-17
+summary_author: @avkwong
+summary_date: 2015-02-13
+peer_review_editor: @DuncanChambler
+summary: |
+  The CRASH-2 trial investigated the effects of tranexamic acid (TXA) on mortality, vascular occlusive events, and blood transfusion requirements in trauma patients with significant hemorrhage. This large, multi-center, randomized, placebo-controlled trial included over 20,000 patients and demonstrated that early administration of TXA significantly reduced mortality within four weeks of injury without increasing the risk of vascular occlusive events. However, TXA did not significantly affect the need for blood transfusions or surgical interventions. Despite some methodological limitations, such as potential selection bias and non-standardized treatment protocols, the study supports the use of TXA in bleeding trauma patients due to its safety profile and mortality benefit.
+---
+
+# Effects of Tranexamic Acid on Death, Vascular Occlusive Events, and Blood Transfusion in Trauma Patients with Significant Haemorrhage (CRASH-2 Trial)
+
+## Clinical Question
+In trauma patients with or at risk of significant haemorrhage, does the early administration of a short course of tranexamic acid (TXA) affect mortality, incidence of occlusive events, and the amount of blood transfused?
+
+## Design
+- Randomised, placebo-controlled trial
+- Double-blinded
+- Multi-centre
+- Intention-to-treat analysis
+- Randomisation via 24-hour free call service, balanced by centre
+
+## Setting
+- 274 hospitals in 40 countries
+- Enrolment began in May 2005
+
+## Population
+
+**Inclusion Criteria:**
+- Adults (age > 18) with trauma
+- Present within 8 hours of incident
+- Significant haemorrhage or at risk (systolic BP < 90 mmHg and/or HR > 110 bpm)
+- Substantial uncertainty by the responsible doctor about TXA treatment
+
+**Exclusion Criteria:**
+- Clear contraindication to TXA
+
+**Enrollment:**
+- 20,207 trauma patients randomised
+- 20,127 analysed under intention-to-treat
+
+## Intervention
+- Loading dose of 1 g TXA infused over 10 minutes
+- Followed by an intravenous infusion of 1 g over 8 hours
+
+## Control
+- Placebo (0.9% saline)
+
+## Outcomes
+
+### Primary Outcome
+- Death in hospital within 4 weeks of injury
+  - Significant reduction in the intervention group
+
+### Secondary Outcomes
+- No significant difference between intervention and control groups in:
+  - Receipt of blood-products transfusion
+  - Surgical intervention
+  - Occurrence of vascular occlusive episodes (stroke, myocardial infarction, pulmonary embolism, clinical evidence of deep vein thrombosis)
+  - Units of blood products transfused
+  - Dependency at hospital discharge or at day 28 if still in hospital
+
+## Authors’ Conclusions
+TXA safely reduced the risk of death in bleeding trauma patients. Based on these results, TXA should be considered for use in bleeding trauma patients.
+
+## Strengths and Weaknesses
+- **Strengths**
+  - Randomised, blinded, placebo-controlled
+  - Pragmatic study with large numbers
+- **Weaknesses**
+  - Randomisation based on subjective opinion of treating physician; no standardised criteria for TXA use → potential selection bias
+  - No stratification of injury severity
+  - Follow-up period only 28 days and was incomplete
+  - Non-standardisation on the use of fluids/blood products in groups
+  - TXA did not reduce transfusion rates
+  - Only 5% of patients in both groups died of haemorrhage
+
+## Bottom Line
+The absolute risk reduction in mortality with TXA in trauma patients is small. It did not reduce the amount of blood products administered. However, TXA is unlikely to cause harm and will continue to be part of practice in managing bleeding trauma patients.
+
+## External Links
+- **Original article:** [Effects of tranexamic acid on death, vascular occlusive events, and blood transfusion in trauma patients with significant haemorrhage (CRASH-2)](https://www.thebottomline.org.uk/summaries/icm/crash-2/)
+- **Further reading:**
+  - Morrison JJ, Dubose JJ, Rasmussen TE, Midwinter MJ. Military Application of Tranexamic Acid in Trauma Emergency Resuscitation (MATTERs) Study. Arch Surg. 2012; 147:113Y119
+  - Effect of tranexamic acid in traumatic brain injury: a nested randomised, placebo-controlled trial (CRASH-2 Intracranial Bleeding Study)
+  - LITFL – Tranexamic acid
+  - Lancet CRASH-2 resource page – comments, interviews, correspondence
+```

@@ -1,0 +1,134 @@
+# Metadata
+- Source: The Bottom Line
+- Title: ESETT
+- Original URL: https://www.thebottomline.org.uk/summaries/icm/esett/
+- Scrape Date: 2025-07-17
+- Summary Date: AUTO_FILL_IF_AVAILABLE
+
+Randomized Trial of Three Anticonvulsant
+Medications for Status Epilepticus
+Kapur. NEJM 2019; 381:2103-13
+Clinical Question
+In patients with status epilepticus who have been treated with benzodiazepines, is Levetriracetam, Valproate or Fosphenyoin more likely to lead to an absence of seizures and improved responsiveness at 60 minutes?
+Background
+Benzodiazepines are the established first line treatment for the management of seizures. There is limited evidence to guide 2nd line treatments
+ConSEPT and EcLIPSE
+compared levetiracetam (40mg/kg) vs. phenytoin (20mg/kg) for 2nd line treatment of paediatric status epilepticus. They reported that levetiracetam was not superior to phenytoin. The data for these trials were collected at a similar time to the current trial
+Design
+Randomised controlled trial
+Investigator initiated
+Blinded
+Response-adaptive comparative-effectiveness design
+Use of age stratified “use next” medication box to maintain allocation concealment
+Registered on
+clinicaltrials.gov
+Primary outcome determined by treating Emergency department physician
+Patients followed up till hospital discharge or 30 days (whichever came first)
+720 patients provided 90% power to identify the most effective treatment when one treatment had a true response rate of 65% and the true response rate was 50% in the other 2 groups
+Stopped early at pre-planned interim analysis as met predefined futility criteria
+Modified intention to treat analysis for primary outcome (excluded patients who were enrolled twice)
+Setting
+57 Emergency Departments, USA,
+Included academic centres & community hospitals
+18 paediatric departments, 26 adult departments, and 13 sites enrolled both adult & paediatric patients
+Data collected: 2015 – 2017
+Population
+Inclusion
+:
+Age ≥ 2 years
+Treated with minimally accepted cumulative dose of benzodiazepines
+Diazepam 10mg IV/PR, (0.3mg/kg if <32kg)
+Lorazepam 4mg IV (0.1mg/kg if <32kg)
+Midazolam 10mg IV/IM (0.3mg/kg if <32kg)
+Generalised convulsive seizure lasting >5 minutes
+Continued to have persistent or recurrent seizures at least 5 minutes after last dose of benzodiazepine, and no more then 30 minutes after last dose
+Exclusion
+:
+Precipitant to seizure: major trauma, hypoglygcaemia, hyperglycaemia, cardiac arrest, post-anoxia, pregnant,
+Intubated
+Known contraindications to any of trial drugs including inborn metabolic diseases, liver disease, severe renal impairments
+Patients who were already taking anticonvulsants were NOT excluded, and randomly assigned to a treatment group without regard to their normal anticonvulsant regimen
+Comparison of levetiracetam vs. fosphenytoin vs. valproate groups
+Number of patients assigned: 145 vs. 118 vs. 121
+% of patients with eligibility deviations: 23% vs. 33% vs. 24%
+These patients were included in the intention to treat analysis, but excluded from per-protocol analysis
+Deviations were due to
+Benzodiazepines having been administered too long before or too proximal to enrolment (n=50)
+Inadequate dose of benzodiazepines before enrolment (n=26)
+Enrolment of patients without status epilepticus, including patients with psychogenic non-epileptic seizures (n=33)
+Age
+0-5 years: 21% vs. 20% vs. 23%
+6-10 years: 12% vs. 13% vs. 6%
+11-20 years: 6% v. 9% vs. 15%
+>20 years: 61% vs 59% 56%
+Male: 53% vs. 60% vs. 54%
+Race – black: 43% vs. 42% vs. 45%
+History of epilepsy: 67% vs. 68% vs. 69%
+Final diagnosis of non-epileptic spell: 9% vs. 9% vs. 11%
+Median lorazepam dose equivalents
+Patients >=32kg: 4.7mg vs. 4.9mg vs. 5.0mg
+Patients <32kg: 0.2mg/kg vs. 0.2mg/kg vs. 0.2mg/kg
+Median duration of seizure at enrolment: 62min vs. 59min vs. 62min
+Benzodiazepines given before arrival: 62% vs. 58% vs. 52%
+Intervention
+Levetiracetam
+60mg/kg (maximum 4500mg)
+50mg/ml
+Valproate
+33.33mg/ml
+40mg/kg (maximum 3000mg)
+Control
+Fosphenytoin
+16.6mg phenytoin equivalents per ml (mgPE)
+20mgPE per kg (maximum 1500mg)
+Management common to both groups
+Drugs given by infusion pump over 10 minutes
+Rescue therapy given as clinically determined for persistent or recurrent seizures after 20 minutes from the the start of the trial drug infusion
+Unmasking of the trial drug for purposes of patient care, after determination of the primary outcome at 60 minutes, was allowed. This occurred in 154 (39%) of patients
+Unblinding prior to 60 minutes  was considered a protocol deviation. This occurred in 46 (12%) of patients, but only after a criteria for failure with regard to the primary outcome had been met
+Outcome
+Primary outcome
+: Absence of clinically apparent seizures & improving responsiveness at 60 minutes after the start of trial drug infusion, without additional anticonvulsant medication including medication used for endotracheal intubation
+Comparing levetiracetam vs. fosphenytoin vs. valproate groups – no significant difference
+% with primary outcome: 47% vs. 45% vs. 46%
+Posterior probability that treatment is the most effective: 0.41 vs. 0.24 vs. 0.35
+Results similar in per-protocol and adjudicated outcome analyses
+No interaction between treatment group and age group
+Among the 207 patients in whom the primary outcome was not achieved 144 patients (70%) were treated with additional anticonvulsant medications, another 52 patients (25%) did not receive additional medication and had not had a clinically apparent seizure but did not have improving responsiveness
+Secondary outcomes
+:
+No significant differences in
+Admission to ICU
+60% vs. 59% vs. 59%
+Safety outcomes
+Life threatening hypotension within 60 minutes: 0.7% vs. 3.2% vs. 1.6%
+Life threatening cardiac arrhythmias within 60 minutes: 0.7% vs. 0% vs. 0%
+Endotracheal intubation within 60 minutes: 20% vs. 26.4% vs. 16.8%
+Acute respiratory depression: 8% vs. 12.8% vs. 8%
+Death: 4.7% vs. 2.4% vs. 1.6%
+Acute seizure recurrence at 60 minutes to 12 hours: 10.7% vs. 11.2% vs. 11.2%
+Authors’ Conclusions
+In benzodiazepine-refractory convulsive status epilepticus, the anticonvulsant drugs levetiracetam, fosphenytoin, and valproate each led to seizure cessation and improved alertness by 60 minutes in approximately half the patients, and the three drugs were associated with similar incidence of adverse events
+Strengths
+Large sample of 400 enrolments, which provided adequate power to detect a difference between treatment groups
+Weight based dosing
+Adaptive statistical design used, increasing the chance of finding a difference if a true difference existed
+Double blinded
+Weaknesses
+Large number of patients included who did not meet enrolment criteria
+Unblinding of investigators and treating physicians occurred in 200 out of 400 enrolments
+Stopped early
+Study included young children as well as adults. The cause of the seizures may vary at different ages, and therefore respond better to different treatments
+The Bottom Line
+In patients with benzodiazepine refractory status epilepticus, the use of levetiracetam (60mg/kg), valproate (40mg/kg) or fosphenytoin (20mg/kg phenytoin equivalent), each led to the absence of seizures and improved responsiveness at 60 minutes in nearly half of the patients
+External Links
+[article]
+Randomized Trial of Three Anticonvulsant Medications for Status Epilepticus
+[further reading]
+PulmCrit- All 2nd line conventional anti-epileptics are equally good… or equally bad?
+Metadata
+Summary author:
+David Slessor
+Summary date: 19th December 2019
+Peer-review editor:
+Steve Mathieu

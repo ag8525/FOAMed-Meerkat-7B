@@ -1,0 +1,604 @@
+```yaml
+title: "CrackCast Episode 109: CNS Infections"
+url: "https://canadiem.org/crackcast"
+date: 2017-09
+source: "CanadiEM – CrackCast"
+original_file: "CrackCast-Shownotes-Episode-109-CNS-Infections.pdf"
+summary: |
+  CNS infections, particularly meningitis and encephalitis, are critical conditions requiring prompt diagnosis and management. Bacterial meningitis, often caused by S. pneumoniae and N. meningitidis, presents with symptoms such as headache, fever, neck stiffness, and altered mental status. Immediate lumbar puncture (LP) is essential for diagnosis, but empirical antibiotic therapy should not be delayed for imaging or LP results. First-line treatment includes ceftriaxone and vancomycin, with acyclovir added for suspected viral causes like HSV. Dexamethasone may be administered prior to antibiotics in adults to reduce inflammation, though its use in children is controversial. Close contacts of patients with meningococcal or H. influenzae meningitis require chemoprophylaxis. Complications of bacterial meningitis can be immediate, such as seizures and cerebral edema, or delayed, including hearing loss and cognitive deficits. Viral meningitis generally has a better prognosis, but certain viruses like HSV can lead to significant morbidity.
+```
+
+# Chapter 109 – CNS Infections
+
+## Overview
+
+### Key Points
+
+- CNS infection should be considered in all patients with headache, neck stiffness, fever, altered sensorium, or diffuse or focal neurological findings.
+- S. pneumoniae is one of the two leading causes of bacterial meningitis in adults. Mortality from S. pneumoniae is 30%.
+- Pay close attention to cranial nerves 2, 3, 4, and 6.
+- Altered mental status in a patient with suspected meningitis can be a sign of increased ICP or encephalitis.
+- You’ve got to get the LP! Only true way to assess for meningitis.
+- Early initiation of empirical antimicrobial therapy is recommended in cases of suspected acute CNS infection. Antibiotic administration should not be delayed for CSF analysis or performance of neuroimaging studies.
+- Antibiotic chemoprophylaxis should be assured for close contacts of patients with meningitis resulting from N. meningitidis or H. influenzae.
+- Concomitant CNS infection should be strongly considered in any symptomatic patient with another severe systemic infection, such as urinary tract infection or pneumonia.
+- First line treatment for bacterial meningitis is ceftriaxone plus vancomycin.
+- Acyclovir is recommended for patients with suspected meningoencephalitis.
+- Dexamethasone is recommended prior to treatment with antibiotics in adults (controversial).
+
+## Core Questions
+
+### 1. Provide a differential diagnosis (10) for acute, non-infectious meningitis.
+
+We’ll review this in question 10, but here is a quick list!
+
+1. Postinfectious / postvaccine
+   - Rubella
+   - Varicella
+   - Rabies vaccine
+   - Pertussis vaccine
+   - Influenza vaccine
+   - Yellow fever vaccine
+2. Drugs
+   - NSAIDS
+   - Septra
+   - Azathioprine
+   - IVIG
+   - Isoniazid
+   - Intrathecal methotrexate
+   - Allopurinol
+   - Carbamazapine
+3. Systemic disease
+   - Collagen vascular diseases (SLE, GPanG, RA, Kawasaki’s)
+   - Sarcoidosis
+   - Behcet’s disease
+4. Neoplastic disease
+   - Leukemia
+   - Carcinomatous meningitis
+5. Inflammation of neighboring structures
+   - Brain / epidural abscess
+6. Misc.
+   - Migraine
+
+### 2. What is the pathophysiology of acute infectious meningitis? (e.g., n. meningitidis)
+
+- The predominant pathogens are Strep. Pneumoniae and N. meningitidis (<45 yrs).
+- Common pathogenic sequence:
+  - Nasopharyngeal colonization → mucosal invasion → virulent microbes freeze the mucosal cilia and evade the immune system (IgA proteases, capsular properties help bacteria remain undercover) → enter the BBB and enter CSF.
+  - CSF is unable to protect against invasion due to low levels of immune cells to fight infection.
+  - Bacteria proliferate → cytokine storm and inflammation in the CSF leads to BBB breakdown → vasculitis, edema, increased ICP → decreased cerebral blood flow = hypoxia and cellular metabolic failure due to glucose depletion.
+
+### 3. List 8 host factors predisposing to meningitis
+
+BOX 99.1
+Host Factors Predisposing to Meningitis
+
+- Age younger than 5 years old / Age older than 60 years old
+- Male gender / African-American race
+- Low socioeconomic status / Crowding (e.g., military recruits)
+- Splenectomy / Sickle cell disease / Thalassemia major
+- Alcoholism and cirrhosis / Diabetes / Malignancy
+- Immunologic defects
+- Recent colonization
+- Dural defect (e.g., traumatic, surgical, congenital)
+- Continuous infection (e.g., sinusitis)
+- Household contact with meningitis patient
+- Intravenous (IV) drug abuse
+- Bacterial endocarditis
+- Ventriculoperitoneal shunt
+
+### 4. List 6 immediate and 6 delayed complications of bacterial meningitis
+
+BOX 99.2
+Complications of Bacterial Meningitis
+
+- IMMEDIATE
+  - Coma
+  - Loss of airway reflexes
+  - Seizures
+  - Cerebral edema
+  - Vasomotor collapse
+  - Disseminated intravascular coagulation (DIC)
+  - Respiratory arrest
+  - Dehydration
+  - Pericardial effusion
+  - Death
+  - Others
+
+- DELAYED
+  - Seizure disorder
+  - Focal paralysis
+  - Subdural effusion
+  - Hydrocephalus
+  - Intellectual deficits
+  - Sensorineural hearing loss
+  - Ataxia
+  - Blindness
+  - Bilateral adrenal hemorrhage
+  - Death
+  - Cerebral venous thrombosis
+  - Others
+
+### 5. What is the clinical presentation of cryptococcal meningitis? Who is at risk?
+
+This fungal infection usually occurs post pulmonary exposure in an immunocompromised host.
+
+### 6. Describe the inoculation patterns of brain abscesses.
+
+Can occur at any age and any time of year. They are associated with local spread (e.g., post-op bone fragments in the brain tissue) or hematogenous spread from a remote source (pulmonary infection, endocarditis).
+
+Other risk factors: IVDU, post neuro sx, CNS trauma, post-otitis media/sinusitis/dental infection.
+
+People at very high risk are immunocompromised (HIV or post organ transplant).
+
+### 7. What are typical presenting findings of encephalitis?
+
+Encephalitis = an inflammation of the brain
+
+- Alteration of consciousness
+- Personality changes
+- Confusion
+- Disorientation
+- Hallucinations / bizarre behaviour
+  - May progress to focal neurological findings
+- Seizures
+- Delirium
+- Fevers / headache
+
+### 8. List 6 potential causes of viral meningitis. What is the treatment?
+
+There is a long list; so just get to know a few!
+
+Viruses
+
+- Enteroviruses—polio, Coxsackie, echovirus
+- Herpes group of viruses
+- Herpes simplex virus (HSV) types 1 and 2
+- Varicella zoster virus
+- Cytomegalovirus
+- Epstein-Barr virus
+- Human herpes virus 6 (HHV-6)
+- Respiratory viruses
+- Adenovirus
+- Rhino virus
+- Influenza virus types A and B
+- Arboviruses
+- Mumps virus
+- Lymphocytic choriomeningitis
+- Human immunodeficiency virus (HIV)
+
+There is no specific agent to treat most types of viral meningitis. They usually are benign and self-limited. The most important role we play is to exclude a more serious form of meningitis.
+
+Viral encephalitis - suspected herpes meningoencephalitis - should be treated with IV acyclovir: 10 mg/kg q8 hrs.
+
+Other antivirals for encephalitis caused by HHV6 and enteroviral disease can be administered. Many of the insect-borne encephalitides (West Nile Virus) are best prevented by insecticide use - no perfect treatment exists yet...
+
+“Some patients with suspected viral meningitides merit hospitalization. These include patients with more severe disease with refractory headache, immunocompromise, and suspicion of HSV meningitis. Although local practices vary, we recommend managing patients with classical presentations of viral meningitis as outpatients with close follow-up within 24 hours.” - Rosen’s
+
+### 9. What is the morbidity of viral meningitis / encephalitis?
+
+- Overall, the prognosis from viral meningitis is excellent with few complications (there are of course exceptions with very virulent viruses).
+- HSV encephalitis is an exception, where pre-acyclovir mortality was 65%, and with the use of antivirals is 30%.
+  - These survivors are at risk for:
+    - Seizures, motor deficits, mentation changes.
+- Other “killer” viruses with high mortality:
+  - Japanese encephalitis
+  - Eastern equine virus
+  - St. Louis encephalitis virus
+  - West Nile virus
+- Measles virus encephalitis - at risk for post-infectious encephalomyelitis
+
+### 10. List 10 causes of aseptic meningitis
+
+This comes from Box 99.3. It’s a huge list. So think of it in terms of categories! And remember, just because we say aseptic, doesn’t mean it’s non-infectious!
+
+Causes of Aseptic Meningitis
+(From Kumar R: Aseptic meningitis: diagnosis and management. Indian J Pediatr 72:57–63, 2005.)
+
+Infectious causes
+Non-infectious
+
+Viruses
+
+- Enteroviruses—polio, Coxsackie, echovirus
+- Herpes group of viruses
+- Herpes simplex virus (HSV) types 1 and 2
+- Varicella zoster virus
+- Cytomegalovirus
+- Epstein-Barr virus
+- Human herpes virus 6 (HHV-6)
+- Respiratory viruses
+- Adenovirus
+- Rhino virus
+- Influenza virus types A and B
+- Arboviruses
+- Mumps virus
+- Lymphocytic choriomeningitis
+- Human immunodeficiency virus (HIV)
+
+Postinfectious/Postvaccinial
+
+- Rubella
+- Rubella
+- Varicella
+- Variola
+- Rabies vaccine
+- Pertussis vaccine
+- Influenza vaccine
+- Vaccinia
+- Yellow fever vaccine
+
+Bacteria
+
+- Partially treated meningitis
+- Parameningeal infection
+- Endocarditis
+- Mycoplasma pneumonia
+- Mycobacterium tuberculosis
+- Ehrlichiosis
+- Borrelia burgdorferi
+- Treponema pallidum
+- Brucella
+- Leptospirosis
+
+Drugs
+
+- Nonsteroidal anti-inflammatory drugs (NSAIDs)
+- Trimethoprim-sulfamethoxazole, amoxicillin
+- Muromonab CD3 (OKT3)
+- Azathioprine
+- Intravenous (IV) immunoglobulin
+- Isoniazid
+- Intrathecal methotrexate
+- Intrathecal cytosine arabinoside
+- Allopurinol
+- Carbamazepine
+- Sulfasalazine
+
+Fungi
+
+- Cryptococcus neoformans
+- Histoplasma capsulatum
+- Coccidioides immitis
+
+Systemic Disease
+
+- Collagen vascular disorders
+- Systemic lupus erythematosus
+- Wegener’s granulomatosis
+- Blastomyces dermatitides
+- Candida
+- Central nervous system (CNS) vasculitis
+- Rheumatoid arthritis
+- Kawasaki’s disease
+- Sarcoidosis
+- Leptomeningeal cancer
+- Post-transplantation lymphoproliferative disorder
+- Behçet’s disease
+- Vogt-Koyanagi syndrome
+
+Parasites
+
+- Toxoplasma gondii
+- Neurocysticercosis
+- Trichinosis
+- Naegleria
+- Hartmannella
+- Bartonella henselae
+
+Neoplastic Disorders
+
+- Leukemia
+- Carcinomatous meningitis secondary to primary or secondary tumors of the brain
+
+Rickettsiae
+
+- Rocky Mountain spotted fever
+- Typhus
+
+Inflammation of Neighboring Structures
+
+- Brain abscess
+- Epidural abscess
+- Miscellaneous
+- Arachnoiditis
+- Migraine
+- Urinary tract infection
+
+### 11. Which pts with suspected meningitis need a CT?
+
+We want to get a CT (with contrast) or MRI in anyone who we suspect may have ICH, mass lesions, or an abscess.
+
+But regarding a non-contrast CT pre-LP...
+
+- Anyone with signs of increased ICP
+  - Fundoscopy
+    - Papilledema
+    - Loss of venous pulsations
+  - Coma
+  - Focal neurological signs
+  - Seizures
+  - Depressed mental status
+
+“It has been conventionally asserted that an LP in the presence of increased ICP may be harmful or fatal to the patient. Up to 30% of patients with bacterial meningitis will herniate even if they do not have an LP, suggesting that the herniations observed in some studies are the result of the underlying disease process and not the test.”
+
+You should also consider getting an MRI to evaluate for cases of viral HSV encephalitis. In fact…”In subtle cases, LP can create meningeal enhancement on a subsequent MRI. If viral encephalitis is suspected and treatment has already been initiated, we recommend performing the LP after the MRI.” - Rosen’s 9th Ed.
+
+Uptodate 2017 says it this way:
+“Based upon these observations and in agreement with the 2004 Infectious Diseases Society of America (IDSA) guidelines for the management of bacterial meningitis, a CT scan of the head before LP should be performed in adult patients with suspected bacterial meningitis who have one or more of the following risk factors [27-29]:
+
+- Immunocompromised state (e.g., HIV infection, immunosuppressive therapy, solid organ or hematopoietic stem cell transplantation)
+- History of central nervous system (CNS) disease (mass lesion, stroke, or focal infection)
+- New onset seizure (within one week of presentation)
+- Papilledema
+- Abnormal level of consciousness
+- Focal neurologic deficit
+
+Patients with these clinical risk factors should have a CT scan to identify a possible mass lesion and other causes of increased intracranial pressure.
+
+However, it has been suggested that a normal CT scan does not always mean that performance of an LP is safe and that certain clinical signs of impending herniation (i.e., deteriorating level of consciousness, particularly a Glasgow coma scale <11; brainstem signs including pupillary changes, posturing, or irregular respirations; or a very recent seizure) may be predictive of patients in whom an LP should be delayed.”
+
+### 12. What are indications for LP in CNS infection? What are contraindications to LP?
+
+Indications:
+
+- Whenever a CSF infection is suspected: remember that typical signs and symptoms may be absent!
+
+Contraindications: There are no absolute contraindications, just relative contraindications (need to weigh the risk benefits out!):
+
+The bottom line according to Rosen’s is: “we recommend against LP in patients who have rapid neurological deterioration, seizures, or signs of herniation.”
+
+Here’s the longer version:
+
+- SSTI at the puncture site (cellulitis or spinal epidural abscess)
+- Anyone with signs of increased ICP
+  - Fundoscopy
+    - Papilledema
+    - Loss of venous pulsations
+  - Coma
+  - Focal neurological signs
+  - Seizures
+  - Depressed mental status
+- Spinal epidural abscess
+- Thrombocytopenia (<50-80k plts)
+- Bleeding diathesis (including ACTIVE therapeutic anticoagulation)
+
+From UptoDate: “Thus, at present the only guidepost is "clinical judgment." We generally advise NOT performing an LP in patients with coagulation defects who are actively bleeding, have severe thrombocytopenia (e.g., platelet counts <50,000 to 80,000/µL), or an INR >1.4, without correcting the underlying abnormalities.”
+
+### 13. List analysis tests of CSF.
+
+Draw 4 tubes, each with 1-2 ml per tube. Labelled in order.
+
+| Test | Normal analysis |
+|------|-----------------|
+| Opening pressure | 5-20 cm H20 (applies ONLY to the lateral recumbent position) Elevated in: TB, bacterial, fungal meningitis Falsely elevated: obese, tense pts. |
+| Turbidity | Clear and colourless |
+| Xanthochromia | Absent |
+| Glucose | 2-4 mmol/L |
+| Protein | 150 - 450 mg/L (or 0.15 - 0.45 g/L) |
+| Cell count and differential (tubes 1 and 3) | < 5 leukocytes / mm3 </= 1 PMN **any more than 1 PMN or 5 leuks = evidence of CNS infection** Presence of these are always abnormal: Basophils, eosinophils |
+| Gram stain, and bacterial culture | No organisms |
+| Antigen testing | May be measured in CSF, serum or urine. |
+| Lactic Acid | > 2.8 mmol/L may indicate bacterial meningitis (<2.8 mmol/L may indicate viral) Little current role for this test |
+| CSF to serum glucose ratio | Normal = 06 : 1. A CSF-to-serum glucose ratio of less than 0.5 in normoglycemic subjects or 0.3 in hyperglycemic subjects is abnormal and may represent the impaired glucose transport mechanisms and increased CNS glucose use associated with pyogenic meningitis. |
+
+Others with unclear roles:
+
+- CRP
+- Chloride
+- NAAT’s with PCR for H.flu S.pneumoniae, N.meningitidis
+
+#### a) Describe expected CSF findings in normal, bacterial meningitis, and viral meningitis.
+
+| Test | Normal analysis | Bacterial Meningitis | Viral Meningitis |
+|------|-----------------|----------------------|------------------|
+| Opening pressure | 5-20 cm H20 | Normal to elevated | Often normal |
+| Turbidity | Clear and colourless | Clear to turbid | Often clear |
+| Glucose | 2-4 mmol/L | Often low | Normal |
+| Protein | 150 - 450 mg/L (or 0.15 - 0.45 g/L) | Often very elevated* Often 1 to 5 g/L. | Often elevated Often 0.5 to 3 g/L. |
+| Cell count and differential (tubes 1 and 3) | < 5 leukocytes / mm3 </= 1 PMN **any more than 1 PMN or 5 leuks = evidence of CNS infection** Presence of these are always abnormal: Basophils, eosinophils | Usually very high > 500 cells/mm3 +granulocyte shift +mostly PMN leukocytes Initial CSF can show 50% of lymphocytes in 10% of cases | Usually < 500 cells/mm3 Nearly 100% of cells mononuclear |
+| Gram stain, and bacterial culture | None | Diminished from 80% to 50-60% with pre-treatment Abx | None |
+
+Important to know that early presentations (<48Hrs) of either bacterial or viral meningitis can have a lot of overlapping CSF features on cell count, protein and glucose levels...a repeat LP in 8-12 hrs may be necessary. And normal CSF studies in high risk patients do not rule out the disease - these patients should be treated with Abx, admitted and get a repeat LP.
+
+*In the presence of a traumatic LP, one may estimate the true degree of CSF white blood cell (WBC) pleocytosis with the following formula:
+
+[CSF WBC Calculator](https://www.merckmanuals.com/medical-calculators/CSF_WBC.htm)
+
+Alternatively, when peripheral cell counts are normal, the CSF from a traumatic LP should contain about 1 WBC per 700 RBCs.
+
+When a traumatic LP has occurred, the CSF protein can be corrected for the presence of blood by subtracting 1 mg/dL (10 mg/L) of protein for each 1000 RBCs.
+
+See for more helpful tips: [Queen's University Lumbar Puncture Guide](https://meds.queensu.ca/central/assets/modules/lumbar_puncture/what_to_do_with_this_csf.html)
+
+#### b) List 6 other tests of CSF or CSF findings suggestive of specific disease processes
+
+- Brain abscess/parameningeal infection - CSF studies can be normal or look like a viral meningo-encephalitis picture.
+- Fungal meningitis: VERY elevated proteins: > 10,000 mg/L
+- HSV encephalitis:
+  - ELISA test can detect HSV antibody production (late finding)
+  - PCR for HSV DNA (very sensitive and specific)
+  - Similar PCR tests can be done for enteroviruses
+- SAH: Xanthochromia
+- TB meningitis = +ve PCR study; elevated lactate; positive acid fast stain (>10 ml of fluid needed!)
+- Cryptococcus = blood, urine or CSF antigen for cryptococcus; very high opening pressure; positive India Ink Stain
+- Vasculitis, syphilis, neoplasms, demyelinating syndromes = very high protein
+
+### 14. What are Gram’s Stain Characteristics of Selected Meningeal Pathogens:
+
+- Staphylococci
+- Strep. Pneumoniae
+- Listeria monocytogenes
+- Neisseria meningitidis
+- Haemophilus influenzae
+- Escherichia coli
+- Pseudomonas aerug.
+
+TABLE 99.2
+Gram’s Stain Characteristics of Selected Meningeal Pathogens
+
+| PATHOGEN | TYPICAL CHARACTERISTICS |
+|----------|-------------------------|
+| Staphylococci | Gram-positive cocci: Singles, doubles, tetrads, clusters |
+| Streptococcus pneumoniae | Gram-positive cocci: Paired diplococci |
+| Other streptococci | Gram-positive cocci: Pairs and chains |
+| Listeria monocytogenes | Gram-positive rods: Single or chains |
+| Neisseria meningitidis | Gram-negative cocci: Negative paired diplococci; kidney or coffee bean appearance |
+| Haemophilus influenzae | Gram-negative coccobacilli: “Pleomorphic” bacilli |
+| Enterobacteriaceae (including Escherichia coli) | Gram-negative rods |
+| Pseudomonas aeruginosa | Gram-negative rods |
+
+### 15. What are the antimicrobial therapies recommended for presumed bacterial meningitis in the following age groups/populations:
+
+“Early initiation of antimicrobial therapy should not be delayed pending an LP. The algorithmic alternatives are:
+
+1. Immediate LP followed by initiation of antibiotic treatment before obtaining the results, or
+2. Initiation of antibiotic treatment followed by a head CT scan and then an LP.
+3. A third option could be considered: antibiotics and no LP despite an unremarkable CT scan.” [this is because a plain CT scan isn’t perfect at identifying patients with increased ICP, and the patient could still herniate despite a normal CT head]. - Rosen’s.
+
+- < 1 month (doses from Uptodate and Lexicomp Neonatal Meningitis)
+  - Ampicillin 300 mg/kg/day divided every 6 hours
+  - Cefotaxime 150 mg/kg/day divided every 8 hours
+  - Gentamicin 4 to 5 mg/kg/dose every 24 hours
+
+- 1 month – 2 yrs
+  - Vancomycin (15 mg/kg/dose every 6 hours)
+  - Third generation cephalosporin (Ceftriaxone 100 mg/kg per day IV)
+
+- 2 yrs – 50 yrs
+  - Vancomycin (15 mg/kg/dose every 6 hours)
+  - Third generation cephalosporin (Ceftriaxone 100 mg/kg per day IV)
+
+- > 50 yrs
+  - Ceftriaxone 2 g IV
+  - Vancomycin 15 mg/kg IV
+  - Consider ampicillin 100 mg/kg if concerned about Listeria (elders)
+
+If allergic to penicillins / cephalosporins:
+- Meropenem 2 g IV
+- Vancomycin 15 mg/kg IV
+
+Head trauma:
+
+- Basilar skull fracture
+  - Vancomycin plus a third-generation cephalosporin
+
+- Penetrating trauma
+  - Vancomycin plus cefepime, vancomycin plus ceftazidime, or vancomycin plus meropenem
+
+- Post neurosurgery
+  - Vancomycin plus cefepime, chalcomycin plus ceftazidime, or vancomycin plus meropenem
+
+- CSF shunt
+  - Vancomycin plus cefepime, vancomycin plus ceftazidime, or vancomycin plus meropenem
+
+### 16. Describe the management of suspected bacterial meningitis? What is the evidence supporting the use of corticosteroids in bacterial meningitis? When should it be given?
+
+See question 15 for ABX options!
+
+The evidence is poor for steroids in adult bacterial meningitis, but Rosen’s recommends it. Don’t use steroids in children though (unless perhaps the child is unvaccinated and S. pneumoniae is highly suspected).
+
+“In adult bacterial meningitis, an absolute risk reduction of 10% for unfavorable outcome is seen when dexamethasone is given either 15 minutes before or concomitantly with antibiotics and continued for 4 days at 6-hour intervals. This benefit is greatest in those with S. pneumoniae. Despite uncertainty from conflicting trials, we recommend an initial dose of dexamethasone 10 mg IV prior to or concurrent with empirical antibiotics in patients with suspected community acquired meningitis and without signs of septic shock. Given the potential adverse effects of high dose corticosteroids in patients with septic shock, the use of low dose hydrocortisone at 50 mg IV instead of high dose dexamethasone is a reasonable approach, although clear benefit has not be demonstrated.
+
+In pediatric meningitis, the evidence supporting adjunctive dexamethasone is even less compelling. Invasive Hib and pneumococcal infections have drastically been reduced by vaccination. Consequently, we do not recommend adjunctive dexamethasone at this time in the treatment of pediatric meningitis.” - Rosen’s 9th Ed.
+
+### 17. For whom is chemoprophylaxis indicated in bacterial meningitis? What is an appropriate regimen?
+
+“The reported attack rate for close contacts of patients with sporadic meningococcal disease is approximately 4 in 1000 persons exposed (0.4 percent), which is 500 to 800 times higher than the general population” - UptoDate 2017
+
+“In addition, these contacts should be advised to watch for fever, sore throat, rash, or any symptoms of meningitis. They should be hospitalized with appropriate IV antimicrobial therapy if there are signs that active meningococcal disease is developing, because rifampin is ineffective against invasive meningococcal disease.”
+
+Here are the CLOSE CONTACT* groups: Chemoprophylaxis is only for meningococcus (N. meningitidis) and Hib meningitis^ (NOT pneumococcal meningitis)
+
+1. Household contacts with confirmed cases of meningococcus
+2. Intimate, non-household contacts with mucosal exposure to oral secretions
+3. Health care workers with DIRECT mucosal contact with patients secretions:
+   - Mouth-to-mouth resuscitation
+   - Intubation
+   - Nasotracheal suctioning
+
+“Although "close contact" has not been clearly defined, it generally refers to individuals who have had prolonged (>8 hours) contact while in close proximity (<3 feet) to the patient or who have been directly exposed to the patient's oral secretions during the seven days before the onset of the patient's symptoms and until 24 hours after initiation of appropriate antibiotic therapy” - UPTODATE
+
+^Rifampin prophylaxis for the contacts of patients with Hib meningitis is recommended for nonpregnant household contacts when there are children younger than 4 years old in the household (adults, 600 mg by mouth; children, 20 mg/kg by mouth daily for 4 days).
+
+**ciprofloxacin-resistant N. meningitidis in has been described….
+
+## Wisecracks
+
+### 1. What percentage of patients have classic presentation of meningitis? (Fever, nuchal rigidity, change in mental status)
+
+Only 44% of pts in one study had the classic triad. 15509818 (PMID)
+
+“The constellation of symptoms that may classically occur in an acute CNS infection consists of fever, headache, photophobia, nuchal rigidity, lethargy, malaise, altered sensorium, seizures, vomiting, and chills.
+
+However, good quality literature suggests that the absence of fever, stiff neck, and mental status change excludes meningitis in immunocompetent adults.
+
+A systematic review of prospective data in children found clinical factors useful in increasing the likelihood of bacterial meningitis included bulging fontanel, neck stiffness, and seizures in children outside the age typical for febrile convulsions. No combination of factors have been identified that rule in or rule out the disease, which is not surprising given the diversity of presentations in children.”
+
+“Petechiae and cutaneous hemorrhages are widely reported with meningococcemia but also occur with Hib, pneumococcal organisms, L. monocytogenes, and echovirus infections, in addition to staphylococcal endocarditis.”
+
+### 2. What are 3 atypical presentations of meningitis?
+
+- The geriatric or immunosuppressed population:
+  - Isolated altered mental status
+- Fungal meningitis:
+  - Headache, low fever, lassitude, weight loss
+- TB meningitis
+  - Vague nonspecific symptoms, fever, night sweats, malaise
+
+### 3. What is Kernig’s sign? What is Brudzinski’s sign?
+
+These are not very reliable tests…
+
+A well-designed prospective study until a 2002 report of 297 patients with suspected meningitis done found When meningitis was defined as ≥6 white cells/microL of cerebrospinal fluid (CSF), the sensitivity was extremely low (5 percent for each sign and 30 percent for nuchal rigidity); the specificity was 95 percent for each sign and 68 percent for nuchal rigidity. Neither Kernig nor Brudzinski signs performed much better among the 29 patients with moderate meningeal inflammation or the four patients with severe meningeal inflammation, defined as ≥100 and ≥1000 white cells/microL, respectively. Nuchal rigidity was present in all four patients with severe meningeal inflammation but had a specificity of only 70 percent. (compiled from Uptodate).
+
+See: [PubMed](https://www.ncbi.nlm.nih.gov/pubmed?term=12060874)
+
+However, in kids these signs may be MORE reliable than adults….Rosen’s states: “On the other hand, at least in children, the 2010 National Institute for Health and Clinical Excellence guidelines found that 85% to 95% of children with meningitis had fever, 66% had Brudzinski’s sign, 53% had Kernig’s sign or neck stiffness, and 83% had at least one of the three objective findings.”
+
+The Jolt Accentuation test isn’t amazing either...sensitivity varies depending on the study, one review reported it as high as 97%, however recurrent validation studies found it less promising at 21-60% sensitive...therefore the absence of jolt accentuation of headache cannot exclude the possibility of meningitis in adults.
+
+### 4. What are five typical bacterial pathogens for purulent meningitis in the following age groups/populations:
+
+- < 1 month
+  - GEL: (Gonorrhea/E.Coli/Listeria)
+- 1 month – 2 yrs
+  - Strep. Pneumo (Most Common / Neisseria / H. Flu / Listeria / E.Coli
+- 2 yrs – 50 yrs
+  - Neisseria / Strep Pneumo / H. Flu / Listeria / E.coli
+- > 50 yrs
+  - Same as above, emphasize Listeria and Strep
+- Post neurosurgery & Head trauma: basilar skull fracture, penetrating trauma
+  - The usual plus MRSA / MSSA / Pseudomonas
+- CSF shunt
+  - Add GI bugs if VP shunt
+
+### 5. Provide the differential diagnosis of a ring-enhancing lesion.
+
+The differential for peripheral or ring enhancing cerebral lesions includes:
+
+- Cerebral abscess
+- Tuberculoma
+- Neurocysticercosis
+- Metastasis
+- Glioblastoma
+- Subacute infarct /haemorrhage /contusion
+- Demyelination (incomplete ring)
+- Tumefactive demyelinating lesion (incomplete ring)
+- Radiation necrosis
+- Postoperative change
+- Lymphoma - in an immunocompromised patient
+
+A helpful mnemonic is MAGIC DR
+
+### 6. What is the schedule for pneumococcal vaccination (conjugated vaccine) in healthy children? Which strains of n. meningitidis are covered by the meningococcal vaccine?
+
+See: [Canada Immunization Schedule](https://www.canada.ca/en/public-health/services/provincial-territorial-immunization-information/provincial-territorial-routine-vaccination-programs-infants-children.html)
+
+For your provincial plan!
+
+Pneumococcal: Pneu-C-13 Pneumococcal conjugate (13-valent) vaccine Age: 2, 4, 12 months (BC + AB)
+
+Men-C-C Meningococcal conjugate (Strain C) vaccine Age:
+- 2, 12 months Age (BC):
+- 4, 12 months (AB)

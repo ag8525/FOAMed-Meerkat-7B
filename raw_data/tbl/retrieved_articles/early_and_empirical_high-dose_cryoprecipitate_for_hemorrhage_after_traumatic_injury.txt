@@ -1,0 +1,151 @@
+# Metadata
+- Source: The Bottom Line
+- Title: Early and Empirical High-Dose Cryoprecipitate for Hemorrhage After Traumatic Injury
+- Original URL: https://www.thebottomline.org.uk/summaries/early-and-empirical-high-dose-cryoprecipitate-for-hemorrhage-after-traumatic-injury/
+- Scrape Date: 2025-07-17
+- Summary Date: AUTO_FILL_IF_AVAILABLE
+
+CRYOSTAT-2
+Davenport R, JAMA: Published online October 12th 2023 doi:10.1001/
+jama.2023.21019
+Clinical Question
+In patients with trauma and critical bleeding who require activation of a major haemorrhage protocol, does the empiric administration of 3 pools of cryoprecipitate (6g fibrinogen) within 90 minutes of randomisation (and no more than 3 hours after injury) improve survival, compared to standard care?
+Background
+The global burden of trauma is huge, with 4.4 million deaths worldwide per annum. It remains the leading cause of death in young people
+Deaths often occur early – > 50% of patients who die, do so in the first 4 hours
+The most common mechanism of death is haemorrhage, which is exacerbated by coagulopathy and fibrinolysis
+Fibrinogen acts to stabilise clot formation. Trauma causes activation of coagulation pathways and fibrinogen levels drop rapidly due to consumption, fibrinolysis and dilution
+There is an association between low fibrinogen levels and poor outcomes, and it is hypothesised that cryoprecipitate transfusion may ameliorate this state
+The ideal approach to transfusion in traumatic haemorrhage has been extensively studied and refined over the years
+The
+PAMPer
+trial demonstrated that for trauma patients at risk for hemorrhagic shock, the administration of thawed plasma during prehospital air medical transport was safe and resulted in lower 30-day mortality
+The
+CRYOSTAT
+pilot trial conducted at two UK trauma centres showed that administration of cryoprecipitate (10 units) in addition to the empiric massive haemorrhage pack (6u PRBC, 4u FFP +/- TXA) raised fibrinogen levels, and was feasible, with a mean time to administration of 60 minutes
+Design
+Multi-centre, phase 3, interventional RCT
+Open-label, parallel-groups
+Allocation concealment achieved using opaque sealed envelopes
+The randomisation sequence was computer generated with variable block sizes and stratified by centre
+A waiver of consent was allowed in order to randomise patients
+Informed consent to continue data collection was obtained from the patient or legally authorised representative as soon as was practically possible
+The trial was designed to detect a 7% absolute mortality difference with 90% power and a 5% level of significance
+A sample size of 1600 patients was calculated adjusted after 4% drop out
+Analysis was by intention to treat
+The trial was overseen by an ethics committee and a data monitoring committee to review interim data and monitor patient safety
+Setting
+26 major trauma centres in the UK and USA.
+Patients were enrolled from August 2017 to November 2021
+Population
+Inclusion
+:
+Trauma with evidence of active haemorrhage requiring activation of the local Major Haemorrhage Protocol (MHP)
+MHP activation at all centres included SBP < 90 mmHg at any point
+Started or received at least 1 unit of any blood component
+Exclusion
+:
+Transferred from another hospital
+Injuries deemed incompatible with life by trauma team leader
+>3 hours elapsed since the time of injury
+Participants:
+1604 eligible patients, 799 were randomized to the cryoprecipitate group and 805 to the standard care group
+1531 patients in intention-to-treat analysis due to missing data for 73 patients
+Baseline characteristics were well matched:
+Comparing cryoprecipitate group vs standard care:
+Median Injury Severity Score: 29 vs 29
+Men: 79 vs 80%
+Median Age: 38 vs 40
+10% > 70 years old
+Median time from injury to ED arrival: 75 vs 77 minutes
+Blunt injury: 63 vs 65%
+Penetrating injury: 37 vs 35%
+Head injury (AIS >4): 24% vs 29%
+Prehospital Tranexamic Acid: 79 vs 80%
+Prehospital Blood Products: 43% across both groups
+Median time to randomisation: 15 minutes across both groups
+Intervention
+3 pools of cryoprecipitate (6g fibrinogen) given as early as possible (ideally within 90 minutes) after hospital admission AND MHP as per control group
+85% of patients got cryoprecipitate in the intervention group
+The main reasons for not receiving it were no evidence of active bleeding, haemostasis was achieved or the patient died
+Median time to cryoprecipitate was 68 minutes (68% received the first dose within 90 minutes)
+Control
+As per local MHP – typically patients were transfused RBC:FFP:Platelets in a ratio of 1:1:1 with 2 pools cryoprecipitate with second and subsequent pack (4g fibrinogen)
+32% of patients received cryoprecipitate in the control group
+Median time to cryoprecipitate was 120 minutes (9% received the first dose within 90 minutes)
+Management common to both groups
+All other therapies were as per local major trauma protocols
+Outcome
+Comparing Cryoprecipitate vs Standard Care
+Primary outcome
+:
+No difference in all-cause mortality at 28 days
+25.3%
+(192 of 760)
+vs 26.1%
+(201 of 771)
+OR 0.96 [95% CI 0.75-1.23] p=0.74
+The per-protocol analysis also showed no difference
+Secondary outcomes
+:
+No difference between groups in:
+6-hour mortality: 7.1% vs 8.6% (OR 0.82 [0.58-1.17] p=0.26)
+24-hour mortality: 11.2% vs 12.2% (OR 0.91 [0.63-1.31] p=0.61)
+6- or 12-month mortality
+Transfusion Requirements, Ventilator Days, ICU LOS, Hospital LOS, GOS score at day 28
+Median time to death was 191 minutes in the cryoprecipitate group and 86 minutes in the control group
+An analysis of the impact of time to cryoprecipitate administration on 28-day mortality (eFigure2):
+< 45 minutes: OR 1.45 [0.91 – 2.31]
+46-60 minutes: OR 1.16 [95% CI, 0.78-1.73]
+61-90 minutes: OR 0.57 [95% CI, 0.38-0.87]
+> 90 minutes: OR 1.00 [95% CI, 0.62-1.60]
+Pre-defined subgroups:
+No difference in results based on sex, age, head injury
+The penetrating injury group fared worse with cryoprecipitate
+28-day mortality 10% vs 16.2% OR 1.74 [1.2-2.51]
+The blunt injury group had 28-day mortality of 30.4% (Cryo) vs 34.8% (Standard Care) OR 0.82 [0.62-1.09]
+Safety:
+No significant difference in
+Thrombotic events (PE, DVT)
+Myocardial infarction, Stroke
+Authors’ Conclusions
+Early empiric high dose cryoprecipitate in patients with haemorrhage following trauma did not reduce 28-day mortality
+Strengths
+Strong internal validity:
+Allocation concealment
+Intention-to-treat analysis
+Well balanced baseline characteristics
+Minimal loss for primary analysis
+4.6% (39 patients in cryoprecipitate group and 34 patients in control group)
+An important clinical question with outcomes that are clinically meaningful
+Patients had high injury severity scores thus increasing the chance of finding a treatment effect
+The results are likely applicable to other similar advanced trauma care systems
+However, this was primarily a trial in UK hospitals, with only 49 US patients randomised so the external applicability outside the UK would need to be assumed cautiously
+Weaknesses
+Unblinded – a potential source of bias
+There was some crossover between groups
+15% of cryoprecipitate group did not receive any
+9% of the control group got early cryoprecipitate (within 90 minutes)
+This was not deemed to impact the results in the per-protocol analysis
+The intervention was empiric and not tailored to the individual’s needs such that some patients may not have had hypofibrinogenemia
+Giving cryoprecipitate in these patients with normal fibrinogen may be pro-inflammatory and harmful
+There is a signal to benefit in the blunt trauma subgroup and harm in the penetrating subgroup. However, there is inadequate statistical power to interpret these subgroup findings
+The Bottom Line
+The results from this trial do not support empiric cryoprecipitate therapy in trauma patients with major haemorrhage
+The hypothesis that there is a Goldilocks zone (i.e. 61-90 minutes) in which administration of cryoprecipitate may be beneficial is thought-provoking and warrants further exploration
+I will use ROTEM to guide product administration in my bleeding trauma patients
+External Links
+Article
+CRYOSTAT-2
+Further reading
+PATCH trial
+Further reading
+Centre for Trauma Sciences
+Further reading
+St Emlyn’s review
+Critical Care Reviews Presentation
+Metadata
+Summary author: Celia Bradford @celiabradford
+Summary date: October 14 2023
+Peer-review editor: George Walker
+Picture by: Clker-Free-Vector-Images / Pixabay

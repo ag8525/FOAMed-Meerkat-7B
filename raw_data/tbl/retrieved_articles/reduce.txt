@@ -1,0 +1,88 @@
+# Metadata
+- Source: The Bottom Line
+- Title: REDUCE
+- Original URL: https://www.thebottomline.org.uk/summaries/icm/reduce/
+- Scrape Date: 2025-07-17
+- Summary Date: AUTO_FILL_IF_AVAILABLE
+
+Short-term vs Conventional Glucocorticoid Therapy in Acute Exacerbations of Chronic Obstructive Pulmonary Disease The REDUCE Randomized Clinical Trial
+JD Leuppi. JAMA 2013; 309(21): 2223-2231. doi:10.1001/jama.2013.5023
+Clinical Question
+Is short-term (5 days) systemic glucocorticoid treatment in patients with COPD exacerbation as good as conventional (14 days) treatment in clinical outcome and does it decrease the overall exposure to steroids?
+Design
+Randomised
+Multi-centre
+Placebo-controlled
+Double-blind
+Non-inferiority
+Setting
+5 teaching hospital Emergency Departments in Switzerland
+March 2006 to February 2011
+Population
+Inclusion
+Exacerbation of COPD as defined as 2 of the following
+Change in baseline dyspnoea
+Cough
+Change in sputum quantity or purulence
+Age over 40
+Smoking history of 20 pack years or more
+Exclusion
+History of asthma
+FEV1:FVC ratio > 70% (evaluated by bedside post bronchodilator spirometry prior to randomisation)
+Radiological diagnosis of pneumonia
+Estimated survival of less than 6 months due to severe co-morbidities
+Pregnancy or lactation
+Inability to give written consent
+++ already on steroids not an exclusion
+717 patients assessed, 314 randomised
+15% absolute difference defined as threshold for non-inferiority
+Intervention
+40mg of intravenous methylprednisolone on day 1
+40mg of oral prednisolone from day 2 to day 5.
+Placebo day 6 to 14
+Control
+40mg of intravenous methylprednisolone on day 1
+40mg of oral prednisolone from day 2 to day 14.
+All patients in both group also received a 7 day course of broad-spectrum antibiotics as well as standard nebulised and inhaled bronchodilators plus inhaled glucocorticoids
+Outcome
+Primary outcome: No significant difference in exacerbation rates during the 6 month follow up period
+35.9% in 5-day group vs 36.8% in the 14-day group
+Secondary outcomes: No significant difference in:
+All cause mortality
+Clinical outcomes (dyspnoea questionnaire)
+Change in FEV1
+Need for mechanical ventilation (intubation or non-invasive ventilation)
+Subjective outcomes
+Patient reported overall performance
+Clinical performance
+Complications of steroids
+Glucocorticoid-associated adverse effects
+Hyperglycaemia
+Hypertension
+Newly diagnosed infection
+Other potential glucocorticoid-related adverse events
+Significant reduction in mean cumulative corticosteroid dose in intervention group (379mg vs 793mg)
+Authors’ Conclusions
+In patients presenting to the emergency department with acute exacerbations of COPD, 5-day treatment with systemic glucocorticoids was non-inferior to 14-day treatment with regard to re-exacerbation within 6 months of follow-up but significantly reduced glucocorticoid exposure. These findings support the use of a 5-day glucocorticoid treatment in acute exacerbations of COPD.
+Strengths
+Study population reflective of the type of patient we see
+Randomised, blinded, placebo-controlled
+Explanation for use of intravenous methylprednisolone provided (to facilitate administration of glucocorticoids to patients in distress)
+Weaknesses
+Non inferiority trial – not powered to detect difference in treatment groups
+Standard treatment (including antibiotics) for all COPD patients regardless of infective cause or degree of COPD severity (although trial population had higher rate of severe/very severe spectrum of COPD).
+Only followed up for 6 months
+40 mg methylprednisolone is equivalent to 50mg prednisolone but further titration would have proved difficult
+The Bottom Line
+It has always been my practice to prescribe short courses of steroids in COPD exacerbations and this study reinforces it.
+External Links
+[open access pdf of article]
+The REDUCE Randomized Clinical Trial
+[Editorial]
+Sin. Steroids for Treatment of COPD Exacerbations. Less is clearly more
+Metadata
+Summary author:
+@avkwong
+Summary date: 12th August 2014
+Peer-review editor:
+@stevemathieu75

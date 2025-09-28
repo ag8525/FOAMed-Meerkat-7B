@@ -1,0 +1,163 @@
+---
+title: "CrackCast Episode 186: Confusion"
+url: "https://canadiem.org/crackcast/"
+date: 2016-04
+source: "CanadiEM – CrackCast"
+original_file: Ch.17 Confusion.pdf
+summary: |
+  Confusion, a symptom rather than a diagnosis, involves disruptions in memory, attention, and awareness, and can range from mild memory impairment to delirium. It is crucial to differentiate between organic and functional confusion, with organic causes often presenting with sudden onset, fluctuating levels of consciousness, and abnormal vital signs, while functional confusion may involve gradual onset and normal vital signs. Critical causes of confusion include shock, hypoxia, hypoglycemia, and hypertensive encephalopathy, while emergent causes encompass metabolic disturbances, infections, and intracranial events such as trauma or stroke. A comprehensive assessment for confusion should include vital signs, glucose levels, and a range of laboratory tests, with imaging and lumbar puncture considered as needed.
+
+---
+
+## Overview
+
+### Episode Overview
+
+1. List the Major Categories for the differential diagnosis of Confusion
+2. Differentiate between organic and functional confusion.
+3. List the Critical and Emergent causes of Confusion
+
+### Rosens in Perspective
+
+Confusion means many different things, but we are particularly interested in processes impacting:
+
+- Memory
+- Attention
+- Awareness
+
+Remember, confusion is a symptom, not a diagnosis – it reflects a recent change in behavior. Do not overlook subtle confusion in the elderly, as it is an independent risk factor for increased mortality. Confusion is a spectrum, ranging from:
+
+- Mild impairment of short-term memory
+- Delirium - a global inability to relate to the environment and process sensory input
+
+### Varied Terminology for Confusion
+
+- Altered mentation
+- Change in mental status
+- Altered mental status
+- Change from baseline
+- “Different”
+
+### Pathophysiology
+
+Again as discussed in chapter 16, consciousness is made up of arousal and content, which are controlled by the ARAS and cerebral cortex respectively. With confusion, we are really talking about issues with content, or cortical disruption.
+
+- Hyperactive Delirium
+- Hypoactive Delirium
+
+Acute confusional state with triad of:
+
+- Increased alertness
+- Increased psychomotor activity
+- Disorientation +/- hallucinations
+
+Acute confusional state with:
+
+- Decreased alertness
+- Decreased behavior
+
+Three major categories can impact and disrupt normal cortical function:
+
+I. Substrate deficiency
+   - Hypoxia
+   - Hypoglycemia
+II. Neurotransmitter dysfunction
+   - Endocrine disease
+   - Hepatic failure
+   - CNS sedatives
+   - EtOH
+   - Poisons
+III. Circulatory dysfunction
+   - Shock
+
+## Core Questions
+
+### 1) List the Major Categories for the differential diagnosis of Confusion
+
+Again, we can go back to the “DIMS” (DIMES see episode 16) approach or use the categories that Rosen’s uses:
+
+I like to use the DIMS approach - it’s simple and I can use this memory aid for MANY presenting complaints (seizures, AMS, confusion, syncope, etc).
+
+- The key is to use BROAD categories
+
+### 2) Differentiate between organic and functional confusion.
+
+A more classical Rosen’s question would probably ask you to contrast organic vs. functional confusion (psychiatric) by listing 6-10 features.
+
+Break it down like Rosen’s does based on:
+
+1. History
+   - Sudden onset (hrs to days) vs. gradual
+   - Age - vs. middle-aged
+2. Mental status exam
+   - Fluctuating LOC vs. alertness
+   - Disorientation vs. oriented
+   - Inattention vs. agitation/anxiety
+   - Visual hallucinations vs. auditory
+   - Cognitive difficulties vs. delusions/illusions
+
+3. Physical exam
+   - ABNORMAL VITAL SIGNS vs. normal VS
+   - Nystagmus vs. NO nystagmus
+   - Focal neurological signs vs. purposeful behavior
+   - Signs of trauma vs. no signs of trauma
+
+A little pearl here for you: KNOW this list well.
+
+When you’re seeing any patient and especially one triaged to the psychiatric Emergency Area you should be looking for and documenting these pertinent positive and negative findings in your exam section!
+
+### 3) List the Critical and Emergent causes of Confusion
+
+Critical:
+
+- Shock and hypoxia
+- Hypoglycemia
+- Head infections
+- Hypertensive encephalopathy
+- Head exploding
+
+Emergent:
+
+- Anemia leading to diffuse cerebral ischemia
+- Metabolic diseases
+  - Electrolytes
+  - Endocrine
+  - Hepatic encephalopathy/failure
+  - Nutrition
+  - Sepsis
+  - Drugs and poisons
+  - Intracranial
+    - Trauma
+    - Infection
+    - Stroke
+    - SAH
+    - Tumor
+    - Seizures
+
+Don’t forget non-convulsive status epileptics or epileptic twilight state.
+
+Remember the 4 H’s or the phrase “the Hyper Hippo’s Head”
+
+- Hyper (hypertensive encephalopathy)
+- Hypoglycemia
+- Hypoxia
+- Hypotension
+- Head
+  - Tumor, Stroke, SAH, Seizure, etc.
+
+All that being said there is a lot of overlap with this in the last chapter - if there’s truly something big bad and ugly going on - the patient will exhibit altered mental status, rather than just confusion.
+
+## Wisecracks
+
+### 1) Describe a quick assessment tool for screening for confusion
+
+Don’t forget: almost everyone with confusion should be getting the veterinary workup:
+
+- Full set of vitals
+- Glucose
+- CBC, lytes, liver panel, kidney function
+- ECG (MI)
+- Urine
+- CXR
+- CT head (maybe) and LP (maybe)
+```

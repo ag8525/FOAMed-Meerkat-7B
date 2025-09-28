@@ -1,0 +1,118 @@
+---
+url: https://thesgem.com/2025/01/sgem466-i-love-roc-n-rollbut-not-when-its-hacked/
+title: "SGEM#466: I Love ROC-n-Roll…But Not When It’s Hacked"
+date: 2025-01-25
+audio_url: https://media.blubrry.com/thesgem/content.blubrry.com/thesgem/SGEM466a.mp3
+download_date: 2025-08-11
+---
+**Date:** January 9, 2025
+
+**Reference:** White et al. Evidence of questionable research practices in clinical prediction models. [BMC Med 2023](https://pubmed.ncbi.nlm.nih.gov/37667344/)
+
+**Guest Skeptic:** Dr. Jestin Carlson is the Program Director for the AHN-Saint Vincent EM Residency in Erie Pennsylvania.  He is the former National Director of Clinical Education for US Acute Care Solutions and an American Red Cross Scientific Advisory Council member.   
+
+![](https://i0.wp.com/thesgem.com/wp-content/uploads/2025/01/rick-pink-shirt-e1503845092387.jpeg.webp?resize=150%2C150&ssl=1)
+
+Dr. Richard Bukata
+
+We have had the pleasure of both working for the Legend of EM, [Dr. Richard Bukata](https://thesgem.com/2017/08/sgem-xtra-richard-bukata-legend-of-emergency-medicine/). He is an amazing educator and a great human being.  He has been involved in medical education for over 40 years.  He helped create the [Emergency Medicine and Acute Care](http://www.ccme.org) course, a ‘*year-in-review’* course where the faculty review over 200 articles from the last year in a rapid-fire, tag-team format, meaning one presents one article, the other provides additional commentary, and then they switch.  Each article takes about 2-3 minutes. The faculty is amazing, and the course is held in some wonderful locations: Vail, Maui, New York City, New Orleans, Hilton Head, San Diego, and Key West.  There is also a self-study option if you are not able to attend in person. [![](https://i0.wp.com/thesgem.com/wp-content/uploads/2025/01/Screenshot-2025-01-22-at-20.41.39.png?resize=1024%2C357&ssl=1)](https://courses.ccme.org/course/ema)
+
+**Case:** You are working with a fourth-year medical student who is an avid listener to the Skeptics Guide to Emergency Medicine podcast.  They recently listened to an episode examining a paper that used receiver operating characteristic curves or ROC curves to determine the accuracy of a predictive model by looking at the area under the curve or AUC. The student knows from other SGEM podcasts that there has been evidence of p-hacking in the medical literature and wonders if there have been similar instances with ROC curves. They ask you if there is any evidence of ‘ROC’ or ‘AUC-hacking?’
+
+**Background:** To answer that young skeptic’s question, they must understand ROC curves. The ROC is a tool used to evaluate the diagnostic performance of a test or prediction model. The curve is graphed with the true positive rate (sensitivity) on the y-axis and the false positive rate (1-specificity) on the x-axis at various threshold levels for classifying a test result as positive or negative.
+
+![](https://i0.wp.com/thesgem.com/wp-content/uploads/2025/01/Roc_curve.svg.png?resize=300%2C300&ssl=1)ROC curves help clinicians determine how well a test or model can differentiate between patients with and without a condition. A perfect test would have a point at the top-left corner of the graph (sensitivity = 1, specificity = 1).
+
+The area under the curve (AUC) is often used to summarize a prediction model’s discriminatory capacity. A result of 1.0 indicates perfect discrimination, while an AUC of 0.5 suggests performance no better than chance—essentially, a coin toss. By comparing the ROC curves of different tests or models, clinicians can identify which performs better in discrimination.
+
+Interpretation of the AUC often hinges on thresholds. Values of 0.7, 0.8, and 0.9 are commonly labelled as “*fair*,” “*good*,” or “*excellent*.” These descriptors, while convenient, are arbitrary and lack scientific foundation. Their widespread use introduces a strong temptation for researchers to achieve “*better*” AUC values.
+
+This drive can lead to things like p-hacking, a questionable research practice in which investigators manipulate data or analyses to cross predefined thresholds. P-hacking is not exclusive to AUC but is a well-documented problem in broader research, particularly surrounding the 0.05 p-value significance threshold.
+
+In the context of AUC, p-hacking might include selectively reporting favourable results, re-analyzing data multiple times, or even tweaking model parameters to inflate values. Such practices risk misleading clinicians and compromising patient care by promoting overly optimistic models.
+
+Understanding the prevalence and mechanisms of AUC-related p-hacking is vital for emergency physicians who often rely on clinical prediction tools for critical decisions. As the use of these models grows, so does the importance of transparent and robust research practices.
+
+---
+
+### **Clinical Question: Is there evidence of questionable research practices, such as data manipulation or “*hacking*“, in studies developing clinical prediction models?**
+
+---
+
+**Reference:** White et al. Evidence of questionable research practices in clinical prediction models. [BMC Med 2023](https://pubmed.ncbi.nlm.nih.gov/37667344/)
+
+* **Population:** PubMed abstracts that reported at least one AUC value related to clinical prediction models
+  + **Excluded:** Abstracts with fewer than 10 words, pharmacokinetic studies using AUC for unrelated purposes, meta-analyses or pooled analyses, and tutorial papers lacking original findings​
+* **Exposure:** NA
+* **Comparison:** No explicit comparison group was utilized, but the study benchmarked observed AUC distributions against expected smooth patterns.
+* **Primary Outcome:** Evidence of irregular distributions, such as excess AUC values just above thresholds (e.g., 0.7, 0.8 or 0.9), that could suggest data manipulation.
+* **Type of Study:** Observational study based on secondary data analysis.
+
+> **Authors’ Conclusions:** “*The AUCs for some models are over-inflated, which risks exposing patients to sub-optimal clinical decision-making. Greater modelling transparency is needed, including published protocols, and data and code sharing.”*
+
+**![](https://i0.wp.com/thesgem.com/wp-content/uploads/2020/01/checklist-2077023_1920.jpg?resize=150%2C150&ssl=1)Quality Checklist for** **Observational Study:**
+
+1. Did the study address a clearly focused issue? Yes
+2. Did the authors use an appropriate method to answer their question? Yes
+3. Was the cohort recruited in an acceptable way? Yes
+4. Was the exposure accurately measured to minimize bias? Yes
+5. Was the outcome accurately measured to minimize bias? Yes
+6. Have the authors identified all-important confounding factors? No
+7. Was the follow up of subjects complete enough? **Not applicable**
+8. How precise are the results? **Very precise**
+9. Do you believe the results? Yes
+10. Can the results be applied to the local population? Yes
+11. Do the results of this study fit with other available evidence? Yes
+12. Conflicts of interest and funding of the study? GSC was supported by Cancer Research UK and no COIs were declared.
+
+**Results:** Their PubMed search identified 96,000 abstracts. Many abstracts reported multiple AUCs, often from competing models, which provide 306,888 AUC values.
+
+---
+
+### **Key Result: Irregular distribution of AUC values, particularly just above thresholds  strongly suggests hacking.**
+
+---
+
+![](https://i0.wp.com/thesgem.com/wp-content/uploads/2025/01/ROC.png?resize=300%2C256&ssl=1) ![](https://i0.wp.com/thesgem.com/wp-content/uploads/2025/01/ROC-residual.png?resize=300%2C203&ssl=1)
+
+![](https://i0.wp.com/thesgem.com/wp-content/uploads/2015/04/Screen-Shot-2015-04-25-at-3.11.12-PM.png?resize=889%2C162&ssl=1)
+
+**1) Abstract-Only Focus:** The authors’ decision to examine only abstracts rather than full texts can introduce several limitations that may affect the validity and generalizability of their findings. Abstracts are designed to provide a concise summary of the most important or favourable findings from the study. Researchers may highlight the best-performing AUC values in the abstract while leaving less favourable results in the full text. By the authors only examining abstracts, this study may have captured an incomplete and potentially skewed view of the reporting practices surrounding AUC values.
+
+**![](https://i0.wp.com/thesgem.com/wp-content/uploads/2021/08/Bias-picture.jpg?resize=300%2C200&ssl=1)2) Publication Bias:** This refers to the tendency for studies with statistically significant or favourable results to be more likely to be published than those with null or unfavourable findings. In this study, the authors identified patterns suggestive of *“AUC-hacking,”* but they did not fully explore how publication bias might contribute to these patterns. Journals, editors, and peer reviewers may favour studies reporting high AUC values (e.g., above 0.8) because they demonstrate stronger predictive accuracy. This preference could encourage researchers to selectively report higher AUC values, leaving less impressive results unpublished or underemphasized.
+
+**3) Arbitrary Thresholds:** It is important to remember while the thresholds for AUC provide a useful framework for categorizing model performance, their arbitrary origins and lack of scientific justification highlight the need for caution when interpreting them. For example, one source might define 0.7 to 0.8 as “*acceptable,*” while another might call it “*fair*.” The lack of a universal definition or a theoretical rationale behind these thresholds underscores their subjective nature. The use of thresholds to stratify AUC can encourage AUC-hacking behaviour. The thresholds also do not account for the context in which a clinical prediction model is being applied, such as the balance between sensitivity and specificity, the clinical consequences of false positives or false negatives, or the underlying prevalence of the condition being predicted.
+
+**4) Clinical Decision-Making:** We should not be making clinical decisions on one summary statistic like a p-value, NNT, or the AUC. However, inflated AUC values may lead to overoptimistic assessments of model performance, potentially resulting in suboptimal clinical decisions and harming patient care. This includes misinformed clinical decisions, unnecessary or harmful interventions, and missed diagnoses.
+
+**5) Do Better:** We must do better at all stages of research. This includes pre-registered protocols, detailed methodology, data sharing, code sharing, improving peer review and advocating for validation of clinical prediction models. We need to address the issue of AUC-hacking and improve the quality of research. There needs to be greater transparency of clinical prediction models.
+
+**Comment on Authors’ Conclusion Compared to SGEM Conclusion:** We generally agree with the authors’ conclusions.
+
+---
+
+### **SGEM Bottom Line: AUC-hacking is likely occurring in the publication of clinical prediction models.**
+
+---
+
+![](https://i0.wp.com/thesgem.com/wp-content/uploads/2025/01/Carlson_Jestin_2019.jpg?resize=150%2C150&ssl=1)
+
+Dr. Jestin Carlson
+
+**Case Resolution:** Tell the student there is evidence of AUC-hacking, and we should do a didactic session on the topic next week to share with the other medical students.
+
+**Clinical Application:** AUC-hacking represents another potential bias in the medical literature we should consider when evaluating a publication.
+
+**What Do I Tell the Student?** Keep listening to the SGEM and be skeptical, even of studies reporting AUC.
+
+**Keener Kontest:** Last week’s winner was Dave Michaelson (PA-C). He knew the first credited randomized controlled trial (RCT) is often attributed to [Austin Bradford Hill](https://en.wikipedia.org/wiki/Randomized_controlled_trial#:~:text=The%20first%20published%20Randomized%20Controlled,having%20conceived%20the%20modern%20RCT.), who conducted the 1948 streptomycin trial for pulmonary tuberculosis. This study is widely regarded as the first true RCT because it included key elements of randomization, a control group, and a prospective study design. 
+
+Listen to the SGEM podcast for this week’s question. If you know, then send an email to [thesgem@gmail.com](mailto:thesgem@gmail.com) with “*keener*” in the subject line. The first correct answer will receive a shoutout on the next episode.
+
+---
+
+### **Remember to be skeptical of anything you learn, even if you heard it on the Skeptics****’** **Guide to Emergency Medicine.**
+
+---
+
+###

@@ -1,0 +1,87 @@
+```yaml
+title: "CrackCast Episode 53: Shoulder"
+url: "www.crackcast.org"
+date: 2016-12
+source: "CanadiEM – CrackCast"
+original_file: "CC.Ep_.53Shoulder-3.pdf"
+summary: |
+  The document focuses on shoulder injuries, particularly dislocations, fractures, and associated conditions. It highlights the shoulder's anatomical complexity, including its bones, joints, and neurovascular structures, which contribute to its high range of motion and susceptibility to dislocations. Key diagnostic tools include specific X-ray views and classifications for various injuries, such as Neer's classification for proximal humerus fractures and AC joint injury classification. Management strategies for shoulder dislocations include multiple reduction techniques, while clavicle and scapula fractures may require orthopedic consultation based on specific criteria. The document also discusses associated injuries, such as pneumothorax and rib fractures, and conditions like impingement syndrome and rotator cuff tears, providing guidance on their management.
+```
+
+## Overview
+
+### Rosens in Perspective
+
+- The shoulder's inherent instability allows for great ROM but accounts for more than 50% of ED dislocations.
+- The first method of reduction described was the Hippocratic (leg in axilla) technique, but even the Egyptians had accurate drawings of shoulder reductions.
+- The type of injury depends on the strength of bones vs. ligaments; children tend to fracture whereas adults tend to sprain or dislocate.
+
+### Anatomy
+
+- **3 bones**: humerus, scapula, clavicle
+  - Clavicle: S-shaped strut that pushes the arm away from the axial skeleton.
+  - Humerus: Proximal articulation with the glenoid fossa and provides attachments for many muscles forming the rotator cuff.
+- **3 joints**: glenohumeral, sternoclavicular, acromioclavicular
+  - SCJ is the only articulation between the axial skeleton and thus has significant movement.
+  - Acromioclavicular: Connects lateral clavicle to acromion process.
+  - Glenohumeral: Ball and socket joint with minimal bony stability.
+- **1 pseudoarticulation**: Scapulothoracic joint joined to thorax with 18 different muscle insertions and origins.
+- **1 synovial membrane**
+- **1 neurovascular bundle**: Brachial plexus, subclavian vessels, nerve roots C5-C8.
+
+## Core Questions
+
+### 1. List 3 views of shoulder
+
+- True anteroposterior or ‘45-degree lateral’
+- Trans-scapular lateral or ‘Y-view’
+- Axillary lateral views
+
+### 2. Describe the sensory and motor components of the brachial plexus
+
+### 3. List 6 indications for orthopedic consultation for clavicle fractures
+
+- Open fractures
+- Associated neurovascular injuries
+- Type II lateral fracture - 30% non-union
+- Severely comminuted
+- Displaced fractures of the middle third
+- Type III
+
+### 4. Describe the AARD syndrome with clavicle fracture
+
+### 5. List 6 associated injuries with scapula fractures
+
+- Delayed: Pneumothorax, hemothorax, pulmonary contusion
+- Acute: Rib fracture, humerus fracture, clavicle fracture
+
+### 6. Describe the Neer’s classification of Proximal Humerus fractures
+
+### 7. Describe AC joint injury classification and subsequent management
+
+### 8. List 6 techniques for reduction of anterior shoulder dislocation
+
+### 9. What is Luxatio-Erecta? What are Hill-Sach’s and Bankart lesions
+
+### 10. Describe 4 X-ray findings in posterior shoulder dislocation
+
+### 11. Describe 4 tests for Impingement syndrome
+
+### 12. Describe the NEER classification for rotator cuff injury
+
+### 13. Describe the management of impingement syndrome and rotator cuff tears
+
+## Wisecracks
+
+### 1. What is the ‘whistler technique’ for shoulder reduction in the field?
+
+### 2. Landmark for shoulder injection?
+
+### 3. Best splint for posterior dislocation
+
+## References
+
+- Case courtesy of Dr. Ian Bickle, Radiopaedia.org, rID: 46994
+- Case courtesy of Dr. Craig Hacking, Radiopaedia.org, rID: 37498
+- [Effective Intra-Articular Lidocaine for Shoulder Reduction](http://canadiem.org/boring-question-effective-intra-articular-lidocaine-shoulder-reduction/)
+```

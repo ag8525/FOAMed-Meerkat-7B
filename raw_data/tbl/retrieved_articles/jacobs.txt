@@ -1,0 +1,62 @@
+# Metadata
+- Source: The Bottom Line
+- Title: Jacobs
+- Original URL: https://www.thebottomline.org.uk/summaries/icm/jacobs/
+- Scrape Date: 2025-07-17
+- Summary Date: AUTO_FILL_IF_AVAILABLE
+
+Jacobs: Effect of adrenaline on survival in out-of-hospital cardiac arrest: A randomised double-blind placebo-controlled trial
+Jacobs, Resuscitation, 2011(82):1138-1143
+Clinical Question
+In patients with cardiac arrest does adrenaline, compared to placebo, improve survival to hospital discharge?
+Design
+Randomised controlled trial
+Double blinded
+Randomised at time that adrenaline was required
+Setting
+Pre-hospital, Western Australia
+11.08.2006. – 30.11.2009.
+Population
+Inclusion: adult patients with out-of-hospital cardiac arrests
+Exclusion: resuscitation not commenced
+534 patients included out of 601 who were randomised
+Intervention
+Adrenaline 1mg every 3 minutes
+Given after 3rd unsuccessful shock or after establishment of IV access in non-shockable rhythms
+Control
+Placebo
+Given as per timings of adrenaline
+Outcome
+Primary outcome: survival to hospital discharge
+4% in adrenaline group vs. 1.9% in the placebo group (odds ratio 2.2; 95% C.I. 0.7-6.3), P=0.15
+Secondary outcome:
+pre-hospital return of spontaneous circulation (ROSC)
+25.3% in adrenaline group vs. 8.4% in placebo group, P<0.001
+cerebral performance category 1 or 2 (Good neurological outcome) in patients that survived to hospital discharge
+100% vs. 81.8%, P=0.31
+Authors’ Conclusions
+Adrenaline improves ROSC but failed to improve survival to hospital discharge.
+Strengths
+Randomised
+Double blinded
+Only randomised at time of giving adrenaline – the population studied included only the relevant population
+Weaknesses
+Planned to recruit 5000 patients but only included 534 patients. This was after a number of ambulance services withdrew from the trial following the adverse press reports and political lobbying!
+Only 16 patients survived to hospital discharge therefore unable to make any definite conclusions
+The Bottom Line
+Adrenaline increased ROSC following cardiac arrest. However there was no improvement in survival to hospital discharge or neurological outcome. Other trials, including the trial by
+Hagihara
+have provided some evidence that neurological outcome is worse in patients that are treated with adrenaline. Therefore we need to support a larger trial to determine the final answer.
+Links
+Full text pdf
+/
+abstract
+/ doi: 10.1016/j.resuscitation.2011.06.029
+Editorial, Commentaries or Blogs
+None
+Metadata
+Summary author:
+@davidslessor
+Summary date: 16 May 2014
+Peer-review editor:
+@stevemathieu75

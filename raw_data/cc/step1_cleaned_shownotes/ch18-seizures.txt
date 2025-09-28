@@ -1,0 +1,230 @@
+# Metadata
+- topic: 1.2 - Cardinal Presentations - 18 Seizures
+- source_folder: 1.2 - Cardinal Presentations
+- original_file: Ch.18 Seizures.pdf
+
+Crack Cast Show Notes – Seizures – April 2016 
+www.crackcast.org 
+ 
+CrackCast Episode 18 – Seizures 
+ 
+Episode overview:  
+ 
+1) Define status epilepticus 
+2) List the doses of common medications used for status epilepticus 
+3) List 10 differential diagnoses for seizures 
+4) List 10 indications for head CT in new-onset seizure 
+ 
+Wisecracks: 
+ 
+1) How long does a driver in British Columbia require their driver’s license be suspended after a 
+seizure? 
+2) What are the most common causes of status epilepticus? 
+3) What are the “cannot miss” causes of seizure? 
+ 
+Rosen’s in Perspective:  
+ 
+ 
+seizures are a pathologic excess of neuronal activity that disrupt normal cortical or deep 
+limbic system functioning 
+ 
+the term epilepsy refers specifically to recurrent unprovoked seizure activity from genetic  
+or acquired brain disorder  
+ 
+general prevalence of epilepsy is 3% in population 
+ 
+10% of population will have a seizure at some point 
+ 
+Seizure categorization: 
+ 
+1) Cause: Primary or Secondary (provoked) 
+2) Effect on mentation: Generalized (tonic-clonic, absence, atonic, myoclonic) or focal 
+3) Motor activity: convulsive or non-convulsive 
+ 
+There are 6 factors that define an ictal event:  
+1. abrupt onset 
+2. brief duration 
+3. loss of consciousness 
+4. purposeless activity 
+5. unprovoked 
+6. postictal state 
+ 
+ 
+ 
+Crack Cast Show Notes – Seizures – April 2016 
+www.crackcast.org 
+Always ask: was the incident truly a seizure? 
+ 
+Abrupt onset 
+generalized seizures usually occur without an aura 
+Brief duration 
+rarely last longer than 90-120 seconds (this is usually over-
+estimated by bystanders) 
+Loss of consciousness 
+present, unless it is a focal seizure 
+Purposeless activity 
+automatisms, undirected tonic-clonic movements 
+Unprovoked 
+not provoked by emotional stimuli 
+exceptions: fever in children and substance withdrawal in adults  
+Post-ictal state  
+acute altered state occurs post-seizure (except focal or absence 
+seizures) 
+ 
+Simple febrile seizure most common pediatric seizure. Age 6 months to 5 years. Prevalence is 
+2-5%. 30% of these patients have 1 recurrence.  
+Red flag: febrile seizure in <6 months, prolonged seizure in any age group, or focal seizure 
+ 
+1) What defines status epilepticus? 
+ 
+Various definitions: 
+ 
+Old definition: at least 30 min of seizure activity – changed because the longer somebody 
+seizes the worst their outcome 
+New definition: 5 or more minutes of persistent seizures OR a series of recurrent seizures 
+without return to FULL consciousness in between 
+ 
+2) List the doses of common medications used for status epilepticus 
+ 
+First line agents: 
+ 
+Benzodiazepines  
+ 
+ 
+Diazepam - 0.15 mg/kg IV 
+ 
+can be given rectally  
+ 
+Lorazepam - 0.1 mg/kg IV 
+ 
+preferred IV agent: longer half-life 
+ 
+Midazolam - 0.2 mg/kg IV / IM / IN 
+ 
+preferred for IM or buccal 
+ 
+b. All effective  
+Crack Cast Show Notes – Seizures – April 2016 
+www.crackcast.org 
+c. Give two max doses of benzos then switch to second line  
+d. If multiple doses are needed and patient desaturates → intubate 
+ 
+avoid long term neuromuscular blockade if possible (rare case where sux. 
+could be used – consider checking K+ on a blood glass) consider EEG for 
+monitoring of epileptiform brain activity 
+Second-line agents: 
+ 
+All agents are consensus based:  
+ 
+all need to be given over 10 mins or so!!! 
+ 
+Phenytoin - 20 mg/kg IV infusion  
+ 
+Fosphenytoin (prodrug) - 20 mg/kg IV infusion  
+ 
+Less tendency to cause hypotension and dysrhythmias  
+ 
+Phenobarbital - 20-30 mg/kg IV infusion 
+ 
+Valproic Acid - 20-40 mg/kg  
+ 
+Levetiracetam  
+ 
+Lacosamide  
+ 
+Propofol infusion  
+ 
+Age considerations: 
+ 
+Adults 10mg Midazolam x 2, or 4mg Lorazepam x 2 
+ 
+Benzo → Benzo →pheny/fosphenyoin →  
+Phenobarbital/Valproate/Propofol  
+ 
+ 
+Children 0.2+0.2 then rule of 20 
+ 
+B → B → Phenobarbital → pheny/fosphenyoin 
+ 
+Refractory status epilepticus: “ seizures persistently unresponsive to third-line agents”  
+ 
+Treatment:  
+Anesthetic doses of: 
+○ midazolam 
+○ propofol 
+○ isoflurane anesthesia  
+ 
+Need non-depolarizing NMB and continuous EEG monitoring   
+  
+Note: Keppra and Ketamine are new kids on the block. Avoid propofol in young children, as 
+incidence of mitochondrial dysfunction is higher in this population and the mitochondrial 
+suppression of propofol is theoretically harmful.  
+ 
+ 
+ 
+Crack Cast Show Notes – Seizures – April 2016 
+www.crackcast.org 
+3) List 10 differential diagnoses for seizures 
+ 
+4) List 10 indications for head CT in new-onset seizure 
+ 
+ 
+ 
+Crack Cast Show Notes – Seizures – April 2016 
+www.crackcast.org 
+Wisecracks: 
+ 
+1) How long does a driver in British Columbia require their driver’s license 
+suspended after a seizure? 
+ 
+The Office of the Superintendent of Motor Vehicles publishes the BC Guide in Determining 
+Fitness to Drive revised Jan 2016, See http://www2.gov.bc.ca/assets/gov/driving-and-
+transportation/driving/publications/factsheet-epilepsy.pdf 
+Private drivers: 6 months seizure free 
+Professional drivers: 12 months seizure free 
+ 
+2) What are the special causes for seizure and their Tx? 
+ 
+Other aetiologies:  
+e. hypoglucose  
+ 
+give D10-25 for kids < 2 yrs (use the rule of 50s) 
+ 
+can give D50 when > 2 yrs 
+f. Isoniazid overdose: 0.5 g/min pyridoxine IV until seizure stops (max dose 70 
+mg/kg or 5 g) 
+ 
+consider in prolonged refractory seizures despite benzo’s 
+ 
+**pyridoxine is the only effective treatment** 
+g. Eclampsia 
+ 
+seizing woman of childbearing age -   
+ 
+Consider in 20 weeks GA to up to 6 weeks postpartum  
+ 
+Give IV magnesium 6 g over 15 mins 
+h. Water intoxication / hyponatremia 
+ 
+children, psych. patients, athletes 
+ 
+treat with hypertonic saline 3% - 4-6 ml/kg over 1 hr (up to 100 ml) 
+OR 
+  
+i) 
+5% hypertonic 50cc or  
+ii) 
+3% hypertonic 100ml-200ml over 1-2 hours 
+iii) 
+Or 6% Saline (2 amps bicarb) see: http://emcrit.org/pulmcrit/emergent-
+treatment-of-hyponatremia-or-elevated-icp-with-bicarb-ampules/ 
+ 
+3) What are the most common causes of status epilepticus? 
+As per table 18-1: 
+ 
+Crack Cast Show Notes – Seizures – April 2016 
+www.crackcast.org 
+1) antiepileptic drug associated - withdrawal or under dose ~ 25% 
+2) ETOH related - 15-25% 
+3) drug toxicity / post-stroke / CVA / metabolic (lytes) / hypoxia / post-arrest - 35% 
+4) others: infection, cerebral tumour, trauma, idiopathic - 15% 

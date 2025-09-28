@@ -1,0 +1,146 @@
+# Metadata
+- Source: The Bottom Line
+- Title: OPTALYSE PE
+- Original URL: https://www.thebottomline.org.uk/summaries/optalyse-pe/
+- Scrape Date: 2025-07-17
+- Summary Date: AUTO_FILL_IF_AVAILABLE
+
+A Randomized Trial of the Optimum Duration of Acoustic Pulse Thrombolysis Procedure in Acute Intermediate-Risk Pulmonary Embolism
+Tapson. JACC Cardiovascular Interventions. 2018;11(14)1401-10
+Clinical Question
+In patients with intermediate risk PE, do low doses of tPA and short durations of ultrasound facilitated catheter directed thrombolysis, result in a reduction in RV:LV diameter at 48 hours?
+Background
+Systemic thrombolysis has been studied in intermediate risk PEs. The
+PEITHO
+follow up study reported that in patients with intermediate risk PE treated with systemic thrombolysis, there was no difference in longterm mortality, and it did not appear to reduce residual dyspnea or RV dysfunction. There are also concerns regarding significantly increased bleeding events with systemic thrombolysis
+Ultrasound facilitated catheter directed thrombolysis (USDCT) is a form of pharmaco-mechanical thrombolysis that uses the energy transmitted by high frequency, low-power ultrasound waves. In vitro and in animal models this has been shown to separate fibrin strands, increasing thrombus surface area, and making more plasminogen activator receptor sites available for facilitating thrombolysis
+The
+ULTIMA
+trial demonstrated that RV: LV diameter ratio improved at 24 hours with USCDT compared with anticoagulation alone and with no major bleeding
+Other studies have shows an association between the use of USDCT and significant improvement in
+PA pressure
+, cardiac index & RV:LV diameter ratio
+Previous trials of USDCT in acute intermediate PE evaluated infusion duration of 12-24 hours
+Design
+Randomised controlled trial
+Block randomization with initial block sizes of 4; changed to block sizes of 3 after arm 4 closed
+Multi-centre, parallel group study
+Imaging studies read in central laboratory in a blinded manner
+Statistical support provided independently in unblended manner by BTG and Liu Associates Consulting
+Intention to treat analysis included all randomized patients
+Modified per protocol (mPP) population analyses also reported
+Statistical significance for changes from baseline were assessed using the Student’s t-test
+Assuming a standard deviation of 0.41, based on the
+SEATTLE II
+study, and a 1-sided p value of 0.15, 24 evaluable subjects would provide 95% power in each arm to detect a mean RV:LV diameter ratio reduction of 0.23 or more
+Registered on
+clinicaltrials.gov
+Sponsor (Ekos/BTG) participated in study design
+Setting
+17 centres in USA & Europe
+Dates of data collection not stated
+Comparing baseline characteristics (Group 1 vs. Group 2 vs. Group 3 vs Group 4)
+Age: 59 vs. 62 vs. 60, vs. 59
+Female: 43% vs. 44% vs. 61% vs. 39%
+BMI: 36 vs. 36 vs. 40 vs. 29
+Race
+Caucasian: 57% vs. 52% vs. 68% vs. 61%
+African American: 43% vs. 37% vs. 32% vs. 33%
+Congestive heart failure: 7% vs. 15% vs. 14% vs. 6%
+Previous PE: 25% vs. 15% vs. 21% vs. 11%
+Presenting symptoms, signs & biomarkers
+Dyspnoea: 86% vs. 89% vs. 100% vs. 100%
+HR >100: 54% vs. 33% vs. 46% vs. 28%
+DVT (ultrasound): 43% vs. 41% vs. 36% vs. 56%
+Elevated BNP or Troponin: 77% vs. 92% vs. 82% vs. 61%
+Elevated BNP & Troponin: 35% vs. 32% vs. 21% vs. 28%
+Population
+Inclusion criteria
+:
+Age 18-75
+Symptomatic, intermediate-risk, acute PE
+PE symptoms for <14 days
+Systolic BP >90mmHg
+RV:LV diameter ratio >=0.9 on CT angiography
+Proximal PE located in at least 1 main or proximal lobar pulmonary artery
+Exclusion criteria included
+:
+Stroke or TIA; head trauma; other active intracranial or intraspinal disease within 1 year
+Recent active bleeding from major organ within 1 month; major surgery within 7 days of screening
+Systolic BP <90 mmHg
+Use of vasopressors
+Haematocrit <30%; platelet count <100; INR >3; and from June 2016 any haematological disease potentially involving abnormal platelet number or function
+Perceived high risk for catastrophic bleeding; life expectancy <1 year; active cancer apart from non-melanoma primary skin cancer
+Intervention
+Ultrasound facilitated catheter directed thrombolysis (USDCT)
+Group 1 (n-28): USDCT
+2 hours with tPA infused at 2mg/h per catheter (range 4-8mg; 1 vs. 2 lungs), 1 lung in 14%
+Group 2 (n=27): USCDT
+4 hours, with tPA infused at 1mg/h per catheter (range 4-8mg; 1 vs. 2 lungs), 1 lung in 19%
+Group 3 (n=28): UDCDT
+6 hours, with tPA infused at 1mg/h per catheter (range 6-12mg; 1 vs. 2 lungs), 1 lung in 11%
+Group 4 (n=18): USCDT
+6 hours, with tPA infused at 2mg/h per catheter (range 12-24mg, 1 vs. 2 lungs), 1 lung in 11%
+enrollment to this group stopped early after an intracranial hemorrhage developed that was considered probably related to thrombolytic therapy
+Control
+No control group
+Management common to both groups
+USDCT was performed within 48 hours of diagnostic CTA
+For unilateral PE in 1 main or proximal lobar pulmonary artery, 1 catheter was placed in the involved vessel
+With bilateral PE, 2 catheters were placed
+Treatment began with infusion of tPA and saline coolant at 35ml/h per catheter. The MicroSonic core of the EkoSonic device was then activated to deliver low energy ultrasound
+Cessation of the procedure in favour of alternative therapy could be undertaken for adverse events.
+All patients received therapeutic anticoagulation; the heparin dose was reduced to 300-500 U/h during the thrombolytic infusion and increased to full therapeutic dosing after USDCT
+After the USDCT, the type and duration of anticoagulation was determined by the responsible physician
+Outcome
+Primary outcome
+:
+Change in RV:LV diameter as measured by CTA from baseline to 48+- 6 h after the start of USDCT
+Significantly reduced in all 4 groups, p<= 0.0011
+RV:LV diameter ratio at baseline: 1.47 vs. 1.43 vs. 1.49 vs. 1.51
+% change from baseline at 48 hours: -24% vs. -23% vs. -26% vs. -26%
+95% C.I.: -31 to -18% vs. -28 to -17% vs. -33 to -20% vs. -37 to -14%
+Secondary outcomes
+:
+Change from baseline in embolic burden determined by refined modified Miller score by chest CTA at 48 +- 6h after the procedure – significantly reduced in all 4 groups (p <=0.0043), with a stepwise reduction with increasing dose
+Baseline: 20 vs. 20 vs. 21 vs. 20
+% decrease from baseline at 48 hours -5.5% vs. -9.2% vs. -14% vs. -25.7%
+95% C.I: -9.3 to -1.7% vs. -13.4 to 4.9% vs. -18.7 to -9.2% vs. -38.6 to -12.8%
+Major bleeding within 72 hours – total of 4 patients
+0% vs. 4% vs. 4% vs. 11%
+In group 2, one patient received 50mg IV tPA after becoming hypotensive and subsequently had a non-fatal ICH
+In group 3, one patient received an additional 12mg tPA and developed anaemia in the setting of a bleeding uterine fibroid
+In group 4, both patients had an event considered related to USCDT
+7 patients developed clinically relevant non-major bleeding (medical intervention required) in the first 72 hours
+All-cause mortality at 30 days: 0% vs. 0% vs. 0% vs. 6%
+Confirmed recurrent PE within 1 year: 0% vs. 4% vs. 4% vs. 0%
+Authors’ Conclusions
+USCDT using lower doses and shorter infusions of thrombolytic therapy in acute intermediate risk PE is associated with an improvement in RV:LV diameter ratio
+Strengths
+Randomised controlled trial
+Multi-centre
+Blinding of assessors of imaging studies
+Weaknesses
+Small number of patients in each arm
+No control group – we do not know how much the RV:LV ration would have changed without thrombolysis
+It appears that patients, clinicians and statistical analyzers were non-blinded
+Sponsors of trial were involved in study design
+Primary outcome was not patient centred
+There were a number of differences in the baseline characteristics
+In STEMI patients treated with fibrinolysis, bleeding rates have been demonstrated to be higher in African-Americans than Caucasians. Some of these results may not be generalizable to populations that have a different proportion of African-Americans
+The Bottom Line
+In patients with intermediate risk PE who were treated with low dose and short duration of Ultrasound facilitated catheter directed thrombolysis, RV:LV diameter ratio was significantly reduced at 48 hours. There was no difference based on the dose of thrombolysis or the duration of the USCDT. There was also no control group to determine what results would have been found in patients who did not undergo USCDT
+Further trials are needed with patient centred outcomes and a comparator group of anticoagulation alone, so that we can determine whether USCDT is of benefit
+External Links
+[article]
+A Randomized Trial of the Optimum Duration of Acoustic Pulse Thrombolysis Procedure in Acute Intermediate-Risk Pulmonary Embolism: The OPTALYSE PE Trial
+[further reading]
+Thrombus load and acute right ventricular failure in pulmonary embolism: correlation and demonstration of a “tipping point” on CT pulmonary angiography
+[further reading]
+Investigating the utility of the Modified Miller Score to improve healthcare resource allocation post-pulmonary embolism
+Metadata
+Summary author:
+David Slessor
+Summary date: 4th July 2019
+Peer-review editor:
+Steve Mathieu

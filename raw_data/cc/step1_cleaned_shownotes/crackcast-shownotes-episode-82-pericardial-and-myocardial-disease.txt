@@ -1,0 +1,755 @@
+# Metadata
+- topic: 3.3 - Cardiac System - CrackCast-Shownotes-Episode-82-Pericardial-and-Myocardial-Disease
+- source_folder: 3.3 - Cardiac System
+- original_file: CrackCast-Shownotes-Episode-82-Pericardial-and-Myocardial-Disease.pdf
+
+CrackCast Show Notes – Pericardial & Myocardial Disease – June 2017 
+www.canadiem.org/crackcast 
+ 
+ 
+Chapter 81 – Pericardial & Myocardial Disease 
+ 
+Episode Overview: 
+ 
+1. List eight causes of pericarditis. 
+2. Describe typical pain of pericarditis, expected labwork abnormalities, 
+3. What is the typical sequence of ECG changes in pts with pericarditis? (the stages) 
+4. Describe the treatment of pericarditis associated with: Uremia, Neoplasm, and SLE 
+5. Outline the management of Dressler's syndrome. 
+6. What is the pathophysiology of cardiac tamponade? Describe the mechanism of 
+hypotension in pericardial tamponade and list 4 expected findings on physical 
+examination.  
+7. Describe the procedural steps in pericardiocentesis 
+8. List 4 causes of pneumopericardium and one specific PEX finding 
+9. List five causes of constrictive pericarditis. 
+10. What is the pathophysiology of purulent pericarditis?  List 5 organisms responsible 
+for infectious pericarditis? How is it managed? 
+11. Describe the pathophysiology of hypertrophic cardiomyopathy 
+12. Describe the clinical exam and ECG findings associated with HCM 
+13. List 5 RFs for sudden death in HCM 
+14. A pt with known hypertrophic cardiomyopathy presents to the ED with acute 
+cardiogenic pulmonary edema causing mild hypoxia.  What is the general approach 
+to management in the ED?  Explain your choices. 
+15. List four causes of dilated cardiomyopathy.  
+16. Describe ECG findings of dilated cardiomyopathy 
+17. List 5 RFs for developing a dilated cardiomyopathy 
+18. In what time frame would one expect peripartum DCM? 
+19. List 5 causes of restrictive cardiomyopathy 
+20. List 8 common pathogens responsible for myocarditis, and 3 non-infectious causes of 
+myocarditis 
+21. Describe the stages of viral myocarditis and the management at each stage 
+ 
+Wisecracks 
+ 
+1. What are some functions of the pericardium? 
+2. What are Chagas Disease and Trichinosis, list bizz-buzz features for each? 
+3. What are the expected cardiac findings in Lyme disease and how is it treated? 
+4. How does sarcoid affect the heart? 
+5. Amyloidosis? 
+ 
+Rosen's in Perspective 
+ 
+ 
+These are challenging diseases -- both in managing and diagnosing! They can 
+present with a multitude of symptoms…. 
+ 
+Anything that causes pericarditis can lead to → pericardial effusion → tamponade / 
+constrictive pericarditis  
+ 
+It’s scary that the incidence of this disease in the ER is UNKNOWN… 
+ 
+Remember our anatomy for the pericardium:  
+o 
+There are parietal and visceral layers - that potential space 
+ 
+The parietal layer is attached to the diaphragm, sternum and the 
+vertebral column.  
+ 
+Blood supply from internal mammary artery and innervation from the 
+phrenic nerve 
+CrackCast Show Notes – Pericardial & Myocardial Disease – June 2017 
+www.canadiem.org/crackcast 
+ 
+ 
+ 
+Normally 15-35 mls volume 
+ 
+Pericardial effusion - occurs when the lymphatic or venous drainage of 
+the heart is obstructed. 
+  
+1) List eight causes of pericarditis. 
+  
+ 
+ 
+Idiopathic!  
+o 
+A specific cause is found in LESS than 20% of patients!! 
+o 
+Treatment: 
+ 
+NSAIDs for 2 weeks 
+ 
+Ibuprofen 600 mg q6hrs x 1 week; if not effective switch to 
+colchicine or indomethacin  
+ 
+Infectious 
+o 
+Lots of weird and wonderful infections 
+o 
+Bacterial and viral co-infections can exist  
+ 
+E.g. varicella-zoster and superinfection of Staph. Aureus  
+ 
+Post-trauma 
+o 
+Post MI, cardiac surgery, thoracic sx, trauma - penetrating injury 
+ 
+Usually appears 4-12 days post 
+ 
+Metabolic 
+ 
+Systemic autoimmune diseases 
+ 
+Tumours 
+ 
+Aortic dissection  
+  
+ 
+ 
+CrackCast Show Notes – Pericardial & Myocardial Disease – June 2017 
+www.canadiem.org/crackcast 
+ 
+ 
+2) Describe typical pain of pericarditis & expected labwork abnormalities 
+  
+ 
+Chest pain 
+o 
+Sharp 
+o 
+Pleuritic  
+o 
+Varies with position  
+ 
+Relieved by sitting forward and worse lying down/deep breath 
+in/swallowing 
+o 
+May radiate to shoulders/diaphragm 
+ 
+Hx of fevers and myalgia  
+  
+ 
+The friction rub - is typically only heard in sound-proofed cardiologists offices  
+  
+***there is no single test that is diagnostic for pericarditis*** 
+  
+3) What is the typical sequence of ECG changes in patients with 
+pericarditis? (the three stages) 
+  
+ 
+Given the difficulty of making the diagnosis of pericarditis, the ECG is our most 
+reliable tool.  
+ 
+ESR and WBC are neither sensitive nor specific  
+ 
+Troponin elevation suggests - Myocarditis, myopericarditis, or MI 
+  
+There are three stages:  
+1. First hours to days of illness  
+a) Diffuse ST seg. Elevation 
+i) Reciprocal depression in aVR and V1 
+ii) ***unlike MI, pericarditis has concave upward ST segments, and no T wave 
+inversions, no dynamic changes, no reciprocal changes, and no evolution of Q 
+waves*** 
+b) PR seg depression  
+2. Normalization of ST segments  
+ . 
+Flattening of the T waves → T wave inversion  
+3. ECG normalizes (occasionally T waves can stay inverted)  
+  
+Bottom line: ACS can be difficult to distinguish from acute pericarditis 
+ 
+CrackCast Show Notes – Pericardial & Myocardial Disease – June 2017 
+www.canadiem.org/crackcast 
+ 
+ 
+ 4) Describe the treatment of pericarditis associated with: Uremia, 
+Neoplasm, and SLE 
+  
+Uremia 
+ 
+Due to renal failure or dialysis  
+o 
+Pericarditis can occur with acute renal failure or with chronic renal failure  
+o 
+Look for the effusion!  
+ 
+Trxt: 
+o 
+Find any underlying cause (infection)  
+o 
+Intensive dialysis  
+ 
+**NSAIDS are contraindicated! And ineffective.  
+ 
+Steroids for those who don’t respond to dialysis  
+Neoplasm 
+ 
+Think lung, breast, lymphoma, leukemia metastatic disease (primary dz very rare) 
+ 
+At risk for malignant pericardial effusions - causing death due to tamponade  
+ 
+New symptoms: SOB, cough, palpitations weakness, dizzy, hiccups, fatigue 
+ 
+Pericardiocentesis 
+o 
+With sclerosing or chemo agents  
+  
+SLE / RA / connective tissue diseases  
+ 
+Are all at risk for constrictive pericarditis or tamponade 
+ 
+Trxt: 
+o 
+Corticosteroids  
+  
+5) Outline the management of Dressler's syndrome. 
+  
+ 
+20% of pts experience a “different quality of chest pain” 2-4 weeks post MI 
+o 
++/- low grade fever and rub 
+o 
+ECG changes are often masked by the ACS ECG changes 
+o 
+At risk for dysrhythmias and CHF  
+o 
+Mgmt:  
+ 
+1-3 days of ASA 325 mg daily  
+HOWEVER….. 
+ 
+Dressler’s syndrome is the LATE post-MI pericarditis  
+o 
+Can also occur post PE and post-surgery 
+ 
+NO anticoagulants - because of risk of hemorrhage 
+o 
+Ibuprofen or Indomethacin  
+  
+6) What is the pathophysiology of cardiac tamponade? Describe the 
+mechanism of hypotension in pericardial tamponade and list 4 expected 
+findings on physical examination.  
+  
+ 
+Beck’s Triad: 
+o 
+JVD; hypotension, muffled heart sounds  
+o 
+Look for electrical alternans or pulsus paradoxus 
+  
+ 
+Remember: Commonly seen in CANCER, TRAUMA and UREMIA 
+ 
+Comes down to nature of fluid, rate of accumulation and state of cardiac function 
+ 
+Acute collection problem, 50-200ml can cause tamponade physiology. 
+ 
+Chronic can compensate, can drain LITRES! 
+  
+CrackCast Show Notes – Pericardial & Myocardial Disease – June 2017 
+www.canadiem.org/crackcast 
+ 
+ 
+***Stages: 1) Accumulation in parietal pericardium - 2) Fluid accumulating faster than the 
+rate of the parietal pericardium ability to stretch - 3) Accumulation that exceeds the body’s 
+ability to increase blood volume to support right ventricle filling pressure.  
+  
+Net result is increased pericardial pressure leading to decrease preload/ventricle 
+compliance/filling 
+  
+REMEMBER: The most important factor is the RATE of accumulation 
+  
+Need 200-250 mL to show cardiomegaly on CXR 
+  
+ 
+  
+ 7) Describe the procedural steps in pericardiocentesis 
+  
+Check out: 
+  
+http://www.emcurious.com/blog-1/2014/11/28/the-pericardiocentesis 
+https://emin5.com/2016/07/11/pericardiocentesis/ 
+http://www.sonoguide.com/pericardiocentesis.html 
+https://lifeinthefastlane.com/ccc/pericardiocentesis/ 
+  
+Blind technique (LITFL): 
+  
+ 
+Subxiphoid approach 
+ 
+Long 18-22 G needle attached to syringe 
+ 
+Insertion: between xiphisternum and left costal margin 
+ 
+Direct towards the left shoulder at 40 degree angle to skin 
+ 
+Continual aspiration as needle approaches RV 
+ 
+Once pericardial fluid aspirated, can insert cannula into pericardial space 
+ 
+Attach a 3 way tap and remove fluid with improvement in haemodynamics 
+ 
+U/S Guided 
+  
+Subxiphoid / Parasternal / Modified Apical approach 
+  
+Similar as above, but add realtime U/S. Cardiac probe. 
+  
+See http://www.ultrasoundpodcast.com/2013/03/ultrasound-guided-pericardiocentesis-
+microcast-foamed-education-mainlined/ 
+CrackCast Show Notes – Pericardial & Myocardial Disease – June 2017 
+www.canadiem.org/crackcast 
+ 
+ 
+Watch out for the LAD, Internal Thoracic, Mammary and intercostal vessels!!! 
+  
+ 
+  
+8) List 4 causes of pneumopericardium and one specific PEX finding 
+  
+ 
+Malignant: Esophageal cancer / lung cancer erosion  
+ 
+Iatrogenic: Post-EGD/thoracic surgery  
+ 
+Infectious: necrotising staph. Aureus  
+ 
+Post-traumatic: blunt chest trauma  
+  
+Hamman’s crunch!!  
+  
+9) List five causes of constrictive pericarditis. 
+  
+From Uptodate: 
+ 
+● Idiopathic or viral – 42 to 61 percent 
+● Post-cardiac surgery – 11 to 37 percent 
+● Post-radiation therapy – 2 to 31 percent, primarily after Hodgkin disease or breast cancer 
+● Connective tissue disorder – 3 to 7 percent 
+● Post-infectious (tuberculous or purulent pericarditis) – 3 to 15 percent 
+● Miscellaneous causes (malignancy, trauma, drug-induced, asbestosis, sarcoidosis, uremic 
+pericarditis) – 1 to 10 percent 
+  
+ 
+ 
+CrackCast Show Notes – Pericardial & Myocardial Disease – June 2017 
+www.canadiem.org/crackcast 
+ 
+ 
+10) What is the pathophysiology of purulent pericarditis?  List 5 
+organisms responsible for infectious pericarditis? How is it managed? 
+  
+- 
+Direct spread from an intrathoracic focus of infection, including extension from a 
+myocardial focus or direct contamination from trauma or thoracic surgery 
+- 
+Hematogenous spread 
+- 
+Extension from a subdiaphragmatic suppurative focus 
+ 
+- 
+Staph. Aureus  
+- 
+Strep. Pneumo  
+- 
+Salmonella  
+- 
+Candida  
+- 
+Histoplasma infection (Ohio and Mississippi Valley) 
+ 
+Drain it! Abx. Everyone needs surgery… 
+  
+-- From Uptodate 
+  
+11) Describe the pathophysiology of hypertrophic cardiomyopathy 
+  
+ 
+Prevalence - 1:500 
+o 
+Autosomal Dominant  
+o 
+Hundreds of different mutations are known  
+ 
+Its a genetic disease of sarcomere proteins - causing sarcomere disarray and 
+whorling / scarring  
+o 
+Leading to a hypertrophied LV (in the absence of another cause for the LV to 
+be hypertrophied)  
+o 
+This thickening is usually asymmetrical - more the septum than the free wall  
+ 
+But the hyperT can be anywhere.. 
+ 
+The LV and RV cavities are usually normal 
+o 
+All this is thought to stem from abnormal cardiac protein construction - in 
+response to physiologic stress, the heart tries to adapt by building a big 
+cellular structure - hyperT 
+ 
+The thickness of the LV and degree of outflow tract obstruction correlate with disease 
+severity.  
+ 
+This also leads to impaired ventricular filling 
+  
+12) Describe the clinical exam and ECG findings associated with HCM 
+  
+ 
+Average age of dx - 30-40 yrs!! 
+ 
+Sx:  
+o 
+Dyspnea, chest pain, syncope, near-syncope, palpitations  
+ 
+Px:  
+o 
+Low S4 gallop  
+o 
+Harsh midsystolic murmur  
+ 
+Worse with valsalva or changing from standing to squatting position 
+(change in preload and afterload - its a dynamic murmur)  
+o 
+Bifid arterial pulse 
+  
+ECG: Abnormal in 90% 
+ 
+PACs and PVCs 
+ 
+Multifocal ventricular ectopy  
+ 
+Ventricular and supraventr. Dysrhythmias 
+CrackCast Show Notes – Pericardial & Myocardial Disease – June 2017 
+www.canadiem.org/crackcast 
+ 
+ 
+ 
+LVH 
+ 
+ST segment changes 
+ 
+T wave inversions 
+ 
+LAE 
+ 
+Abnormal / dagger Q waves 
+ 
+Diminished or absent R waves in the lateral leads 
+  
+13) List 5 RFs for sudden death in HCM 
+  
+ 
+Family member with a history of sudden cardiac death  
+ 
+History of syncope / SVT’s  
+ 
+Massive LVH 
+ 
+Abnormal hypertensive response to exercise  
+ 
+Young age of diagnosis  
+ 
+Stimulant abuse 
+ 
+Ischemic heart disease  
+  
+14) A patient with known hypertrophic cardiomyopathy presents to the 
+ED with acute cardiogenic pulmonary edema causing mild 
+hypoxia.  What is the general approach to management in the 
+ED? Explain your choices. 
+  
+Most people with HCM are on long-term betablocker therapy. Some may be on CCB’s.  
+  
+While we would typically think about using nitro in CHF….this is the WRONG answer… 
+  
+Nitro decreases ventricular volume - a bad thing in HCM.  
+ 
+So our treatment of choice:  
+ 
+ 
+MOVIEs 
+ 
+Put the defib pads on! 
+ 
+Increase preload (leg lift / fluid challenge)  
+ 
+Call cardio 
+ 
+If in cardiovascular collapse: 
+o 
+IV phenylephrine 
+o 
+IV propranolol or esmolol 
+ 
+Beta-blocker  
+ 
+Amiodarone or sotalol for dysrhythmias (AF or VT) 
+ 
+ICD 
+  
+To recap: NO vasodilators in HCM. They drop the peripheral vascular resistance and 
+increase the LV outflow tract obstruction and filling pressures = leading to worsening 
+heart failure and hypotension! 
+  
+Afib in the HCM patient is treated in a similar way as the general population - cardioversion, 
+rate control and anticoagulation.  
+  
+ 
+ 
+CrackCast Show Notes – Pericardial & Myocardial Disease – June 2017 
+www.canadiem.org/crackcast 
+ 
+ 
+15) List four causes of dilated cardiomyopathy (DCM) 
+  
+ 
+Genetic mutations of the cytoskeleton / sarcomere proteins 
+ 
+Environment... 
+ 
+Myocarditis  
+ 
+Peripartum DCM 
+ 
+ETOH (toxins)  
+ 
+Ischemia 
+ 
+Autoimmune - e.g. SLE 
+  
+16) Describe ECG findings of dilated cardiomyopathy 
+  
+DCM is defined by abnormal ventricular contractility with an EF <45% 
+  
+ 
+Nonspecific : 
+o 
+Poor R wave progression 
+o 
+Intraventricular conduction delay 
+o 
+LBBB 
+ 
+Holter showing 
+o 
+PVCs or occasional VT 
+  
+17) List 5 RFs for developing a dilated cardiomyopathy 
+  
+ 
+Primary cardiac muscle disease - e.g. hx of myocarditis  
+o 
+Infectious  
+ 
+Post-ischemia 
+ 
+Auto-immune disease 
+ 
+ETOH abuse  
+ 
+Cocaine abuse  
+  
+18) In what time frame would one expect peripartum DCM? 
+ 
+- 
+Last 3 months of pregnancy or first 5 months postpartum  
+  
+19) List 5 causes of restrictive cardiomyopathy 
+  
+ 
+Tropical endomyocardial fibrosis  
+ 
+Amyloidosis 
+ 
+Scarcoidosis 
+ 
+Hemochromatosis*** only treatable kind!  
+ 
+Slcerderma 
+ 
+Neoplasm 
+ 
+Glyocogen storage diseses  
+  
+ 
+ 
+CrackCast Show Notes – Pericardial & Myocardial Disease – June 2017 
+www.canadiem.org/crackcast 
+ 
+ 
+20) List 8 common pathogens responsible for myocarditis, and 3 non-
+infectious causes of myocarditis 
+  
+This is a tough disease to diagnose 
+ 
+Think about it in people with vague symptoms: 
+ 
+ 
+Flulike symptoms, fever, fatigue, myalgias, vomiting/diarrhea, dyspnea, chest pain 
+ 
+Signs: 
+o 
+Fever, tachycardia, tachypnea, dysrhythmias,  
+ 
+***Unfortunately no symptom or sign is sensitive or specific to the diagnosis*** 
+o 
+Cardiac auscultation is usually normal 
+o 
+In Kids: look for grunting respirations and intercostal retractions +/- wheezing  
+ 
+Harbingers of badness: 
+ 
+Cyanosis, toxic looking, ventricular dysrhythmias  
+ 
+ECG: 
+o 
+Sinus tach, wide QRS, low electrical activity, AV block, long QT interval 
+ 
+Labs: 
+o 
+Troponin - of some use, but its elevation time scale is unknown  
+o 
+WBC and ESR are of no diagnostic value  
+o 
+IgM viral titres may show a specific type of virus  
+ 
+Dx:  
+o 
+ECHO u/s may show hypokinesis 
+o 
+MRI is the test of choice, and may have similar sensitivity to biopsies 
+  
+Bottom line: Think of this diagnosis! 
+ 
+ 
+Especially in the otherwise healthy patient who presents with an ECG that looks like 
+an ACUTE MI, elevated biomarkers, CHF or dysrhythmias  
+ 
+  
+Infectious 
+ 
+1. Advenovirus 
+2. Parvovirus 19 
+3. herpes virus 6 
+4. CMV 
+5. Toxoplasma gondii 
+6. Chagas disease (#1 cause in 
+south america)  
+7. Coxsackie B virus  
+8. Influenza  
+  
+Non-infectious 
+ 
+1. Drug related (ETOH, chemo 
+drugs) 
+2. Allergic reactions (post antibiotics) 
+3. Chemicals (arsenic)  
+  
+ 
+ 
+CrackCast Show Notes – Pericardial & Myocardial Disease – June 2017 
+www.canadiem.org/crackcast 
+ 
+ 
+21) Describe the stages of viral myocarditis and the management at each 
+stage 
+  
+ 
+Supportive management is key 
+ 
+Acute : The necrosis from the virus invading the myocytes  
+o 
+Antivirals - pleconaril or ribavirin  
+ 
+Sub-acute : host cellular immune response causing cytotoxicity = autoimmune injury 
+o 
+Immunosuppression (steroids haven’t shown much benefit)  
+o 
+IVIG 
+ 
+Chronic: the toxic chemical effects produced by the pathogen = fibrosis, cardiac 
+dysfunction and dilated cardiomyopathy 
+o 
+CHF treatment 
+o 
+VAD 
+o 
+Cardiac transplant  
+ 
+Wisecracks 
+  
+1) What are some functions of the pericardium? 
+ 
+a. Keeps the heart in position 
+b. Lubricates the heart’s surface 
+c. Prevents the spread of infection 
+d. Prevents cardiac overdilation 
+e. Augments atrial filling 
+f. Maintains normal pressure-volume relationships of the cardiac chambers…. 
+ 
+2) What are Chagas Disease and Trichinosis? List bizz-buzz features for 
+each. 
+  
+Chagas: 
+ 
+Protozoal infection in Central America - Trypanosoma cruzi  
+ 
+Very cardiotoxic if someone develops symptoms from the disease  
+ 
+Think about it in anyone traveling from Latin America with myocardial dysfunction  
+ 
+Treatment is two antiparasitic drugs for > 60 days 
+ 
+Trichinosis: 
+ 
+Ingestion of cysts found in undercooked meat (e.g. pork) - Trichinella spiralis 
+o 
+But now found in hunters, immigrants who raise their own pork, international 
+travelers  
+ 
+Systemic flu-like illness, biopsy or serologic studies needed  
+ 
+Can cause myocardial involvement  
+ 
+Treatment: Corticosteroids and anti-helminthic drugs  
+  
+3) What are the expected cardiac findings in Lyme disease and how is it 
+treated? 
+  
+Causes a reversible AV blockade leading to heart block. Antibiotics can usually reverse this 
+blockade!  
+  
+ 
+ 
+CrackCast Show Notes – Pericardial & Myocardial Disease – June 2017 
+www.canadiem.org/crackcast 
+ 
+ 
+4) How does sarcoid affect the heart? 
+  
+Sarcoid leads to granuloma formation - location determines the effects.  
+  
+In the septum = conduction defects 
+In the pap muscles = mitral regurg 
+In the ventricular walls = wall motion abnormalities  
+  
+These mechanical problems are usually unresponsive to standard therapies…..its one of 
+those weird situations where you may prescribe systemic corticosteroids for VT!  
+  
+5) Amyloidosis? 
+  
+Massive amyloid deposition - increased cardiac weight and restrictive cardiomyopathy - 
+leading to CHF. Standard therapies are usually ineffective, leading to death in a year. 
+ 
+ 

@@ -1,0 +1,133 @@
+# Metadata
+- Source: The Bottom Line
+- Title: High STEACS
+- Original URL: https://www.thebottomline.org.uk/summaries/icm/high-steacs/
+- Scrape Date: 2025-07-17
+- Summary Date: AUTO_FILL_IF_AVAILABLE
+
+High-sensitivity troponin in the evaluation of patients with suspected acute coronary syndrome: a stepped-wedge, cluster-randomised controlled trial
+Anoop SV Shah on behalf of the High STEACS Investigators. Lancet 2018; 392:919-928. doi: 10.1016/S0140-6736(18)31923-8
+Clinical Question
+In patients presenting to the Emergency Department with suspicion for acute coronary syndrome (ACS), does the use of a high-sensitivity troponin assay reduce subsequent myocardial infarction or cardiovascular death at 12 months when compared with the use of a standard troponin assay?
+Background
+Despite the widespread use of biomarkers for myocardial injury, patients with prognostically significant acute coronary syndrome are still discharged home from the Emergency Department. This was first highlighted by Pope et al in the New England Journal of Medicine in 2000.
+The use of a more sensitive troponin assay may allow more of these patients to be identified and receive therapies, such as revascularisation procedures and antiplatelet medications, aimed at preventing future coronary events.
+Will the increased sensitivity of such a test have a trade-off, in terms of reduced specificity, that will result in more testing without patient centred benefits?
+The use of highly sensitive troponin assays have been shown to allow earlier discharge of some low risk patients
+Than (2014)- Bottom Line article
+The impact of these assays on patient-centred outcomes has been less extensively studied and there are no randomised controlled trials in this area.
+Design
+This was a stepped-wedge, cluster randomised controlled trial in which ten hospitals were randomised
+A stepped-wedge is a type of before and after study design
+The study consisted of
+two phases:
+A validation phase
+of 6 months, during which sites reported cardiac troponin concentrations using a contemporary troponin assay (c-TnI) and used this to guide clinical decisions
+During this 6-month validation period, both the high sensitivity and traditional assays were performed but clinicians were only aware of the traditional assay result
+An implementation phase
+of 6-24 months during which clinicians were only aware of the high-sensitivity assay (hs-TnI) result and based their clinical decisions on this high-sensitivity assay
+Sites were randomly allocated to early or late implementation of the high-sensitivity troponin assay
+A sex-specific threshold was used, with men having higher thresholds than women
+Two physicians who were masked to the study phase independently reviewed all clinical information, and discordant diagnoses were resolved by a third reviewer
+Regional and national registries were used to ensure complete follow-up for the trial population
+The primary outcome was subsequent myocardial infarction or cardiovascular death within one year following the initial presentation at hospital
+Two analyses were conducted:
+Comparing
+validation cohort
+vs
+implementation cohort
+Comparing
+no myocardial injury
+vs
+‘reclassified’ myocardial injury according to hs-TnI
+vs
+myocardial injury according to c-TnI
+This allowed a focused view on the
+reclassified
+cohort, which are the patients treated differently as a result of the newer high-sensitivity test
+Secondary outcomes were duration of hospital stay, unplanned coronary revascularisation, all-cause death, death from cardiovascular causes (cardiac and non-cardiac), hospital admission for heart failure and ischaemic stroke
+Power was calculated as 74–85% to demonstrate an absolute risk reduction if the number of patients
+reclassified
+was 6–9% with a primary event rate of 13%
+Setting
+Ten secondary or tertiary care hospitals in Scotland
+Patients were enrolled between June 10th 2013 and March 3rd 2016
+Population
+Inclusion
+: Patients were eligible for the study if they presented with suspected acute coronary syndrome and had paired cardiac troponin measurements from the standard care and trial assays
+Exclusion
+: Patients were excluded if they had been admitted previously during the trial period or were not resident in Scotland
+48,282 patients were included in the study
+The average age of participants was 61 and 47% of the study population were women
+Intervention
+A
+high-sensitivity troponin assay (hs-TnI)
+(ARCHITECT stat; Abbott Laboratories, USA) was used to guide clinical decisions
+This particular assay has a 99th centile upper reference limit of 34 ng/L in men and 16 ng/L in women
+Control
+A
+contemporary cardiac troponin I (c-TnI)
+assay (Abbott Laboratories, USA) was used to guide clinical decisions
+Thresholds of 40 ng/l or 50 ng/l were used depending upon the inter-assay coefficient of variation at each site
+Management common to both groups
+Cardiac troponin testing was done when patients presented to hospital and was repeated 6 or 12 hours after the onset of symptoms, at the discretion of the attending physician and in accordance with national and international guidelines
+Management thereafter (angiography, percutaneous intervention etc) was at the discretion of clinicians
+Classification of
+myocardial infarction
+followed the Universal Definition of Myocardial Infarction previously published and if cardiac troponin testing was positive in the absence of clinical features of ischaemia, patients were classified as suffering
+myocardial injury
+Outcome
+Primary outcome
+:
+Myocardial infarction or death from cardiovascular causes occurred in 1,106 (6%) of 18,978 patients who presented during the validation phase and in 1,480 (5%) of 29,304 patients who presented during the implementation phase
+Adjusted Odds Ratio (OR) for implementation vs. validation phase: 1.05 (95% CI 0.92–1.19; p=0.48)
+Reclassified cohort
+:
+In patients who were reclassified by the high-sensitivity assay, the primary outcome occurred in 105 (15%) of 720 patients during the validation phase and 131 (12%) of 1,051 patients in the implementation phase
+OR: 1.10 (0.75–1.61; p=0.620)
+1,771 of 10,360 patients (17%) were reclassified by high-sensitivity troponin I assay
+Only one-third of these patients were subsequently classified as having a type 1 myocardial infarction
+Reclassified patients were twice as likely to be women (83% vs. 41%) but had similar rates of chest pain as the presenting symptom
+Patients reclassified by the hs-TnI assay were more likely to undergo coronary angiography in the implementation phase compared with the validation phase (11% vs. 4%) but percutaneous coronary intervention (5% vs. 3%) did not differ
+More patients in the implementation phase were started on antiplatelet therapy (18% vs. 9%) and other secondary prevention agents during the implementation phase
+Secondary outcome
+:
+In reclassified patients, there were no differences in any of the secondary outcomes or safety outcome measures between phases
+The length of hospital stay was halved in patients with a negative hs-TnI result, and reduced by one-third across the trial population
+Authors’ Conclusions
+Implementation of a high-sensitivity cardiac troponin I assay prompted reclassification of 1,771 (17%) of 10,360 patients with myocardial injury
+Only one-third of these patients had a diagnosis of type 1 myocardial infarction, and the incidence of subsequent myocardial infarction or death from cardiovascular causes within one year was not affected by use of this assay
+Strengths
+This was an adequately powered, pragmatic study that assessed one of the most frequent presentations faced by Emergency Physicians—the investigation of acute coronary syndrome
+The cluster randomised study design was appropriate to the clinical question
+The internal validity of the study was improved by the adjusted analysis
+Robust definitions of myocardial infarction were used
+Assessors were blinded to the study phase, and sites were randomised to early and late adoption of the implementation phase, reducing investigator bias
+The large sample size enhanced the external validity of the study
+The primary outcome measure of myocardial infarction or death from a cardiovascular cause at one year was patient-centred
+100% follow-up of patients was achieved through the use of linked datasets
+Weaknesses
+The follow-up time of one year may be too short to assess the impact of anti-platelet therapy, statins and ACE-inhibitors, however this only concerned a small number of patients (89 in the case of dual anti-platelets), so it seems unlikely that this would have had a major impact on cardiovascular outcomes
+Similarly, the non-significant increase in percutaneous coronary intervention (28 patients) is unlikely to change study outcomes beyond one year of follow-up
+38% of reclassified patients were already on aspirin therapy, so the impact of dual anti-platelet therapy would possibly be diluted by the sick Scottish cohort at baseline
+The study only incorporated Scottish hospitals, limiting the generalisability to other settings
+57% of patients in the reclassification group had an abnormal ECG
+In other healthcare settings, this may have prompted further investigation even in the context of negative serial troponins
+The proportion of patients reclassified by high sensitivity troponin was smaller than anticipated from the pilot study, so the study may have been underpowered
+The diagnostic threshold for either troponin assay was not adjusted for underlying renal failure
+The before and after study design, over a 33 month period, means that the confounding effect from practice changes over time cannot be dismissed
+The Bottom Line
+The use of high-sensitivity troponin lowers the diagnostic threshold for myocardial infarction
+Identification of this expanded group of patients, and the resultant increase in interventions, does not appear to improve patient-centred outcomes at one year
+I am curious to see longer-term outcome data, in a wider setting, before concluding that identification of these patients has no downstream benefit
+My bias as an Emergency Physician looking to improve hospital patient flow means that I am attracted to the reduced length of stay associated with high sensitivity troponin assays
+External Links
+High STEACS study
+Rory Spiegel’s EM NERD blog on high sensitivity troponin
+LANCET editorial
+Metadata
+Summary author:
+Fraser Magee
+Summary date: 27th September 2018
+Peer-review editor:
+Duncan Chambler

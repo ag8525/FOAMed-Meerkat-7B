@@ -1,0 +1,64 @@
+---
+url: https://thesgem.com/2021/04/sgem327-magnum-pa-nebulized-magnesium-for-pediatric-asthma/
+title: "SGEM#327: MAGNUM PA – Nebulized Magnesium for Pediatric Asthma"
+date: 2021-04-17
+audio_url: https://media.blubrry.com/thesgem/content.blubrry.com/thesgem/SGEM327.mp3
+download_date: 2025-08-11
+summary: |
+  In a study examining the efficacy of nebulized magnesium sulfate in children with moderate to severe asthma exacerbations, it was found that this treatment did not significantly reduce hospitalization rates compared to placebo. The study involved children aged 2 to 17 who had not responded adequately to initial treatments with albuterol, ipratropium bromide, and oral corticosteroids. Despite the use of optimized delivery equipment, the results showed no statistical superiority of nebulized magnesium over placebo in reducing hospital admissions or improving secondary outcomes such as PRAM scores and respiratory parameters. The findings suggest that intravenous magnesium remains the preferred treatment for severe asthma exacerbations in children, as nebulized magnesium does not provide additional benefits. This study underscores the importance of publishing negative results to guide clinical practice and avoid unnecessary treatments.
+---
+
+**Case:** A four-year-old girl with a known history of asthma presents to your emergency department (ED) after a one-day history of runny nose and cough. Her usual triggers are upper respiratory infections and cats. You don the appropriate personal protective equipment (PPE) wondering if this is COVID. On initial exam she has minimal air entry, has biphasic wheeze, is saturating 92% on room air and has suprasternal retractions. You give her an initial Pediatric Respiratory Assessment Measure (PRAM) score of 8 – and consider her to be having a “*severe*” exacerbation. You give her a dose of oral dexamethasone and start three back-to-back treatments of albuterol and ipatroprium bromide. After one hour she is still working hard to breathe and her PRAM has improved somewhat but is still 6 denoting “*moderate*” asthma. You wonder whether magnesium is indicated now and rather than starting an IV to give it that way, you could just nebulize a dose instead.
+
+**Background:** Asthma is a common presenting complaint for children in the ED. The PRAM score is a tool used to assess the severity of airway obstruction in pediatric patients. The PRAM was published in 2000 (Chalut et al) and validated in 2008 (Ducharme et al). The PRAM consists of five clinical elements: O2 saturation, suprasternal retractions, scalene muscle contraction, air entry, and wheezing. A score of 0-3 is considered mild asthma, 4-7 is moderate, and 8-12 is severe.
+The Canadian Pediatric Society (CPS) Guidelines recommend the initial management of pediatric patients with severe asthma exacerbations consists of: keeping oxygen saturations >93%, inhaled beta agonists, inhaled ipatroprium bromide, oral steroids, consider IV steroids, consider continuous aerosolized beta-2 agonists, consider IV magnesium sulfate and keep NPO.
+For children with severe asthma, IV magnesium has been shown to significantly decrease hospitalization rates though practically these children are rarely sent home after this IV treatment (Cheuk et al 2005, Griffith et al 2016, Su et al 2018 and Liu et al 2016). As IV magnesium requires an intravenous, a painful and often distressing procedure in of itself, and the magnesium itself given IV can cause hypotension, an alternate delivery system would be of benefit.
+
+**Clinical Point:** Does nebulized magnesium prevent hospitalization in children with moderate to severe asthma?
+
+**Reference:** Schuh et al. Effect of Nebulized Magnesium vs Placebo Added to Albuterol on Hospitalization Among Children With Refractory Acute Asthma Treated in the Emergency Department: A Randomized Clinical Trial. JAMA Nov 2020
+
+- **Population:** Children 2 to 17 years of age with a previous diagnosis of asthma presenting to a pediatric ED with moderate to severe asthma after receiving one hour of treatments including 3 x inhaled albuterol treatments, 3 x inhaled ipatropium bromide treatments and oral corticosteroid. Moderate to severe asthma was defined by a PRAM score of greater than 4.
+  - **Exclusions:** Children less than 2 years of age, those requiring immediate airway management, patients who received IV magnesium prior to enrollment, had comorbidities (chronic lung, cardiovascular, kidney, neurologic, or other systemic disease), and those with a known hypersensitivity to magnesium.
+- **Intervention:** Three consecutive doses of nebulized magnesium sulfate 600mg with albuterol 5mg delivered through AeroNebGo nebulizer with Idehaler holding chamber.
+- **Comparison:** Three consecutive doses of nebulized placebo with albuterol 5mg delivered through AeroNebGo nebulizer with Idehaler holding chamber
+- **Outcome:**
+  - **Primary Outcome:** Hospitalization for either persistent respiratory distress or the need for supplemental oxygen
+  - **Secondary Outcomes:** Changes in the PRAM score; respiratory rate and O2 saturation change from baseline at 60/120/180/240 minutes; Changes in blood pressure 20/40/60/120/180/240 minutes; number of albuterol treatments within 240 minutes; Adverse effects. Exploratory: Hospitalizations; unscheduled visits within 72h of discharge; administration of IV magnesium in the ED after experimental intervention.
+
+**Authors’ Conclusions:** *“Among children with refractory acute asthma in the ED, nebulized magnesium with albuterol, compared with placebo with albuterol, did not significantly decrease the hospitalization rate for asthma within 24 hours. The findings do not support use of nebulized magnesium with albuterol among children with refractory acute asthma.”*
+
+**Results:** There were 816 patients eligible for analysis. The median age was 4.5 years, 63% were male, median PRAM score was 6 and 44% were hospitalized
+**Key Results:** No statistically significant difference between the nebulized magnesium group and the placebo group.
+- **Primary Outcome:** Hospitalization
+  - 43.5% in the magnesium group vs 47.7% in the placebo group
+  - Absolute difference -4.2% (95% CI; −11% to 2.8%) P=0.26
+  - No statistically significant superiority of magnesium over placebo in any of the subgroups
+- **Secondary Outcomes:**
+  - No statistically significant difference in any of the secondary outcomes
+  - Adverse events were infrequent and not attributed to treatment
+  - Admission to the ICU was the only serious adverse events and due to asthma not the experimental therapy
+
+**Commentary:** 
+**1. *“Negative”* Study –** This very well done RCT found no statistical superiority of nebulized magnesium in this patient population compared to placebo. It could be labeled a “*negative*” study, but it is very important to publish, review and discuss these studies. Publication bias is well recognized in the medical literature. We need to value “*negative*” studies as much as “*positive*” studies in our quest for the “*truth*”.
+The authors should be commended on asking an important Point, conducting the trial, analyzing the data, writing it up and getting it published. Another really important point is that they did not try to spin the data.
+
+**2. Optimized Delivery of Magnesium –** They used equipment in the MAGNUM PA trial that might not be standard everywhere. Specifically, they used the AeroNebGo nebulizer with Idehaler holding chamber which apparently delivers 20% medication to the lungs vs. 4% with conventional nebulizers. Had they shown a difference, we would be asking whether this can be applied to centers that do not have this optimal setup.
+The fact that they did not find a statistical difference makes me believe the results even more. Rural and small community hospitals are unlikely to have such equipment. If it does not “*work*” in an optimized system with the best technology, it is very unlikely to work in the community setting**.**
+
+**3. Sample Size –** Early on, they had planned for a small number of patients required for this study (n=284). The calculation was based on a hospitalization rate of 30% and powered to find a 15% absolute reduction with nebulized magnesium.
+However, during the early part of the study they observed a hospitalization rate of around 50%. No in-group analysis was performed at this point, so blinding was maintained. They redid their power calculation and powered the study to find a 10% reduction on hospitalizations. This resulted in them needing to recruit 816 patients which took eight years to accomplish.
+
+**4. Severe Asthmatics –** Another point to make about sample size would be about the small number of patients in the severe cohort (16%) as per the PRAM score. The vast majority (84%) of children included in the study had a PRAM score of <8 (moderate severity). One reason they did not recruit as many severe asthmatics is they often received IV magnesium before being considered for the trial early in their presentation to the ED based on physician judgment.
+
+**5. Intravenous Magnesium –** This data applies to nebulized magnesium for the treatment of moderate to severe asthma in children. We should try not to over interpret the data and conclude that IV magnesium does not work in these patients.
+
+**Comment on Authors’ Conclusion Compared to SGEM Conclusion:** We agree with the authors’ conclusion and appreciate their work conducting and publishing a well-run study with negative results.
+
+**SGEM Bottom Line:** If using magnesium to treat children with moderate to severe asthma who don’t respond to initial albuterol and ipratropium bromide, use intravenous magnesium because the evidence does not support using nebulized magnesium.
+
+**Case Resolution:** Recognizing that nebulized magnesium is not the way to go, you decide to put in an IV and give her a dose that way while you continue with albuterol treatments. After a painful COVID swab and several hours in your ED of albuterol treatments she begins to improve, but not enough for you to send her home. She is admitted overnight and in the morning is markedly improved. Her albuterol treatments have been spaced out to every 3 hours. She is discharged home pending her COVID swab results. Proper instructions are given to the parents regarding inhaled B-agonists and steroids at home as well as reasons to return to the ED.
+
+**Clinical Application:** For children with acute moderate to severe asthma who are not responding to your initial treatments including three back-to-back inhaled albuterol/ipatropium bromide treatments and oral steroids, should NOT receive nebulized magnesium. Consider IV magnesium.
+
+**What Do I Tell My Patient?** We’re going to give you magnesium through an intravenous. We once wondered if it would work to give it inhaled, but we haven’t been able to show that giving it that way makes any significant difference.

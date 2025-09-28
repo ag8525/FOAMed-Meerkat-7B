@@ -1,0 +1,103 @@
+---
+source: The Bottom Line
+title: Lyon
+original_url: https://www.thebottomline.org.uk/summaries/em/lyon/
+scrape_date: 2025-07-17
+summary_author: @DuncanChambler
+summary_date: 2015-05-21
+peer_review_editor: @SteveMathieu75
+summary: |
+  The document discusses a study comparing two drug regimens for rapid sequence intubation (RSI) in pre-hospital trauma patients: the traditional etomidate-suxamethonium versus a modified fentanyl-ketamine-rocuronium approach. The study, conducted by a single Air Ambulance Trust, found that the fentanyl-ketamine-rocuronium regimen resulted in a 100% first-attempt intubation success rate compared to 95% with the traditional regimen, with statistically significant improvements in laryngeal view and reduced hypertensive responses to intubation. However, the study's non-randomized design, potential confounding variables, and lack of blinding limit the ability to draw definitive causal conclusions. Despite these limitations, the findings suggest that the modified regimen may offer physiological advantages in pre-hospital trauma settings.
+
+---
+
+# Significant Modification of Traditional Rapid Sequence Induction Improves Safety and Effectiveness of Pre-hospital Trauma Anaesthesia
+
+## Clinical Point
+In pre-hospital trauma patients undergoing rapid sequence intubation (RSI), does fentanyl-ketamine-rocuronium induction compared to etomidate-suxamethonium induction affect intubation success or haemodynamic responses to laryngoscopy?
+
+## Design
+- Before-and-after non-randomised cohort study
+- Protocolised intubation process with only drug regimen changed
+- No blinding of clinicians
+- Multivariable logistic regression model to investigate confounding variables
+
+## Setting
+- Single Air Ambulance Trust operating two helicopter emergency medical services (HEMS)
+- Two 14-month periods three years apart
+  - Group 1: July 2007 to October 2008
+  - Group 2: February 2012 to March 2013
+
+## Population
+
+**Inclusion Criteria:**
+- All consecutive trauma patients undergoing pre-hospital RSI
+- Decision to intubate based on individual on-scene risk-benefit assessment
+
+**Exclusion Criteria:**
+- RSI for medical (non-trauma) indications
+- No monitor printout of haemodynamic data
+
+**Enrollment:**
+- 274 patients underwent RSI, 13 excluded for missing data, leaving 261 for analysis
+  - Group 1: 116
+  - Group 2: 145
+
+## Intervention
+
+**Group 1: Etomidate-suxamethonium**
+- Routine: Etomidate 0.3 mg/kg + suxamethonium 1.5 mg/kg
+- Haemodynamic compromise: Etomidate 0.15 mg/kg + suxamethonium 1.5 mg/kg or suxamethonium only if peri-arrest
+
+**Group 2: Fentanyl-ketamine-rocuronium**
+- Routine: Fentanyl 3 mcg/kg + ketamine 2 mg/kg + rocuronium 1 mg/kg (3:2:1 regimen)
+- Haemodynamic compromise: Fentanyl 1 mcg/kg + ketamine 1 mg/kg + rocuronium 1 mg/kg (1:1:1 regimen) or rocuronium only if peri-arrest
+
+## Control
+- Treatment common to both groups included position optimisation, standardised anaesthesia kit, pre-prepared drugs, non-invasive monitoring, pre-oxygenation, challenge-and-response checklist, and tracheal intubation with bougie.
+
+## Outcomes
+
+### Primary Outcome
+- **Intubation success on first attempt:**
+  - Group 1: 95% (extrapolated to n=110/116)
+  - Group 2: 100% (extrapolated to n=145/145)
+  - p-value by Fisher’s exact test: 0.0072
+
+- **Hypotensive response to induction:**
+  - Full dose: Group 1: 0%, Group 2: 7%, p = 0.022
+  - Reduced dose: Group 1: 3%, Group 2: 0%, p = 1.0
+
+- **Hypertensive response to intubation:**
+  - Full dose: Group 1: 31 mmHg increase, Group 2: 5 mmHg increase, p < 0.0001
+  - Reduced dose: Group 1: 20 mmHg increase, Group 2: 6 mmHg increase, p = 0.013
+
+### Secondary Outcome
+- **Laryngeal view (Cormack-Lehane grading):** Better in Group 2, p = 0.013
+- **Survival to hospital discharge:** Same between groups at 19%
+
+## Authors’ Conclusions
+A modified rapid sequence intubation using fentanyl + ketamine + rocuronium provides effective pre-hospital induction with better laryngeal views and favourable physiology compared to etomidate + suxamethonium.
+
+## Strengths and Weaknesses
+- **Strengths**
+  - Important clinical Point
+  - Open publication of data from service evaluation projects
+  - Attempts to keep variables constant other than induction drugs
+- **Weaknesses**
+  - Three-year gap between cohorts likely introduced other changes
+  - Baseline differences in age and injury severity
+  - Reduced dose induction more frequent in Group 1
+  - Fragility Index indicates small differences could change conclusions
+  - Operator-dependent outcomes not blinded
+  - Lack of detailed information on equipment and procedure specifics
+
+## Bottom Line
+This service evaluation shows an association between fentanyl + ketamine + rocuronium induction and favourable clinical outcomes, but methodological weaknesses limit the strength of conclusions. Causation cannot be inferred.
+
+## External Links
+- **Original article:** [Significant modification of traditional rapid sequence induction improves safety and effectiveness of pre-hospital trauma anaesthesia by Lyon et al](https://www.thebottomline.org.uk/summaries/em/lyon/)
+- **Further reading:** 
+  - [Is ketamine a viable induction agent for the trauma patient with potential brain injury by BestBets](https://bestbets.org)
+  - [Intubation, Hypotension and Shock by LITFL](https://litfl.com)
+```

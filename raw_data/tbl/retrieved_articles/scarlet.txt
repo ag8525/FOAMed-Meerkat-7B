@@ -1,0 +1,117 @@
+# Metadata
+- Source: The Bottom Line
+- Title: SCARLET
+- Original URL: https://www.thebottomline.org.uk/summaries/icm/scarlet/
+- Scrape Date: 2025-07-17
+- Summary Date: AUTO_FILL_IF_AVAILABLE
+
+Effect of Recombinant Human Soluble Thrombomodulin on Mortality in Patients with Sepsis-Associated Coagulopathy
+JL Vincent et al. 2019; doi:10.1001/jama.2019.5358
+Clinical Question
+In adult patients with sepsis-associated coagulopathy does the administration of human recombinant thrombomodulin (rhsTM) compared to placebo reduce 28 day mortality?
+Background
+The presence of a sepsis-associated coagulopathy and its severity has been independently associated with an increased hospital mortality
+Haematological manipulation in patients with septic shock is a controversial area following the PROWESS and PROWESS-SHOCK trials involving Activated Protein C (Drotrecogin Alfa)
+ART123 is a rhsTM, and acts as co-factor with thrombin in the activation of Protein C
+A Phase 2b study had shown the use of rhsTM to be safe, and there was a suggestion of efficacy (although this was not statistically proven) when 28 day mortality was analysed
+Design
+Randomised, double-blind, placebo controlled phase III trial
+Randomisation stratified by site with a block size of 4
+Allocation in a 1:1 ratio
+Consent sought prospectively
+All potential patients discussed with a physician from one of the 2 regional coordinating  centres to confirm the inclusion criteria (listed below)
+Window 1 (24 hours) commenced when a patient with suspected or confirmed bacterial infection developed either organ dysfunction or coagulopathy
+Window 2 (12 hours) commenced from when the other inclusion criteria of organ dysfunction is met and allowed for discussion with coordinating centres, consent and randomisation
+Window length changed from 15 hours to 40 hours from first qualifying measure during the study to enable more time for participant identification and enrolment
+Study supported by Asahi-Kasei Pharma America Corporation (involved in design, collection, management, and analysis)
+Setting
+319 sites in 27 countries
+Patients enrolled from October 2012 – March 2018
+Population
+Inclusion Criteria:
+> 18 years old
+and
+clinical objective evidence of bacterial infection with a known site of infection (from clinical, microbiological and radiological evidence) and SIRS response (WBC count and temperature)
+and
+WBC < 4000/mm³ or > 12000/mm³
+Temperature < 36ºC or > 38ºC
+concurrent cardiovascular and/or respiratory dysfunction
+and
+vasopressors to maintain MAP > 65 mmHg following adequate fluid resuscitation
+mechanical ventilation and P/F ratio < 250 (or < 200 if respiratory infection)
+coagulopathy
+INR > 1,4 (not explained by another known aetiology)
+Platelets 30 – 150 x 10
+9
+Exclusion
+:
+Multiple, but important ones include:
+Platelets < 30 x 10
+9
+Use of anticoagulants / antiplatelets in three days prior to receiving study drug (except DVT prophylaxis, aspirin < 325mg per day, heparin locks, and anticoagulation for RRT)
+Recent CVA, trauma with increased risk of bleeding (< 3 months), GI Bleed (6 weeks, unless corrective interventional procedure), completion of surgery that may be haemorrhagic within prior 12 hours of study drug, bleeding diathesis or hereditary hypercoagulable state
+Renal dysfunction (chronic necessitating RRT, or acute with oliguria > 48 hours to receiving study drug
+Sample size of 800 calculated to provide 80% power at a 5% 2 level α level based on an ARR of 8% (24% placebo and 16% rhsTM)
+405 allocated to placebo and 395 rhsTM
+Well balanced baseline characteristics of both control and rhsTM groups with regards to demographics, coagulation, illness severity, organ dysfunction, and site of infection
+Intervention
+ART-123 – a recombinant human soluble thrombomodulin
+0.06mg/kg/d (max 6mg/day) for 6 consecutive days
+given as IV bolus or diluted in 50mls 0.9% saline for 15 minute infusion
+must be administered within 4 hours from closure of window 2
+Control
+Matching placebo
+supplied in identically labelled, individual glass ampoules containing the same volume (1ml)
+Management common to both groups
+Other treatment guided as per clinical state, no specified similarities in treatment
+Outcome
+Primary outcome
+:
+28 Day Mortality
+26.8% rhsTM vs 29.4% placebo
+ARR 2.55% (95% CI -3.68% to 8.77%)
+Subgroup Analyses
+Pre-specified
+Non significant mortality difference in those with higher severity score (APACHE II > 25) or concomitant heparin use
+No other pre-specified or post-hoc subgroup significant with respect to 28 day mortality
+In those with a baseline INR > 1.4 the Kaplan-Meier Plot does show a suggestion of reduced mortality
+The ARR is 4.01% (-3.04 to 11.06%) compared to an ARI of 5.45% for those with a baseline INR < 1.4 (-6.68% to 17.59%)
+Coagulation Markers
+At day 6 the plasma D-dimer concentration, Prothrombin fragment F1.2 (a marker of thrombosis) and thrombin-antithrombin complex levels were lower
+In a post-hoc analyses the change from baseline of these markers was statistically significantly greater (p < 0.5) in the rhsTM group
+Safety Outcome:
+Adverse Event Rate at day 28 (including major bleeding this includes life threatening, resulting in serious morbidity or  >6 units packed red blood cells over 2 days)
+Serious Adverse Events 52% rhsTM vs. 50% placebo
+Serious Major Bleeding 5.8% rhsTM vs 4% placebo
+Authors’ Conclusions
+The administration of rhsTM to patients with sepsis-associated coagulopathy did not significantly reduce 28 day mortality
+Strengths
+Given the mortality trend and safety profile shown in the phase 2b study any study that tries to improve sepsis mortality is worthwhile
+Multi-centre, international, randomised and double-blind with similar baseline characteristics increase external validity
+However, 55/159 sites enrolled only one patient
+Sensible inclusion of need for vasopressors and/or mechanical ventilation as a selection criteria
+The collection of coagulation markers and the findings are interesting however I am not sure what clinical outcome this reduction in markers would translate to?
+Well reported safety outcomes important (reported in supplementary material) to allow clinicians
+Design minimises bias:
+Selection bias minimised by need to discuss with coordinating centres
+Performance and Detection bias minimised by strict blinding protocols
+Attrition bias low (16 patients randomised but not included)
+Weaknesses
+Decision to extend time window for treatment meant that ~ 20% of study population no longer had a coagulopathy by time of drug administration
+Sample calculations based on 8% difference, previous Phase 2b study had only shown a difference of 3.8% (17.8% in rhsTM group vs 21.56% in placebo)
+As with any sepsis trial the population is heterogenous
+Some of the reported outcomes (including the subgroup analysis of INR <1.4 or > 1.4 and reduction from baseline in coagulation markers) were post-hoc analyses (the author’s quite rightly highlight the need to interpret these with caution)
+The Bottom Line
+Based on this study I will not be advocating for the use of rhsTM in patients with a septic coagulopathy
+The continued research into improving outcomes of this cohort of patients should be continued given its independent association with hospital mortality
+External Links
+A randomized, double-blind, placebo-controlled, Phase 2b study to evaluate the safety and efficacy of recombinant human soluble thrombomodulin, ART-123, in patients with sepsis and suspected disseminated intravascular coagulation.
+JL Vincent et al. Critical Care Medicine: September 2013 – Volume 41 – Issue 9 – p 2069–2079
+Sepsis Associated Coagulopathy Severity Predicts Hospital Mortality
+PG Lyons et al. Critical Care Medicine: May 2018 – Volume 46 – Issue 5 – p 736–742
+Metadata
+Summary author: George Walker
+@hgmwalker89
+Summary date: 14 June 2019
+Peer-review editor:
+Duncan Chambler

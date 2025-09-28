@@ -1,0 +1,129 @@
+# Metadata
+- Source: The Bottom Line
+- Title: After 80 study
+- Original URL: https://www.thebottomline.org.uk/summaries/em/after-80-study/
+- Scrape Date: 2025-07-17
+- Summary Date: AUTO_FILL_IF_AVAILABLE
+
+Invasive versus conservative strategy in patients aged 80 years or older with non-ST elevation myocardial infarction or unstable angina pectoris (After Eighty study): an open-label randomised controlled trial
+Tegn. Lancet;2016;10023:1057-1065
+Clinical Question
+In patients aged 80 years or older, with unstable angina/non-ST elevation myocardial infaction (NSTEMI), does an early invasive strategy compared with a conservative strategy, reduce the composite outcome of myocardial infarction, need for urgent revascularisation, stroke and death?
+Design
+Randomised controlled trial
+Permuted block randomisation
+Stratified by hospital
+Use of sealed opaque envelopes
+Non-blinded
+Consecutive patients
+Intention to treat analysis
+Median follow-up of 1.53 years
+Power calculation: 412 patients required to give a 80% error to detect a 10% absolute risk reduction from a baseline risk of 21%, with a false positive rate of 5%
+Setting
+16 academic and teaching hospital without percutaneous coronary intervention facilities in Norway
+December 2010 – February 2014
+Population
+Inclusion criteria: aged 80 years or over, with NSTEMI/unstable angina
+With or without ST depression
+With normal or raised Troponin T/I
+Assessed for inclusion within 2 days of hospital admission
+Exclusion criteria:
+Unstable with continuing chest pain, ischaemic symptoms/signs, cardiogenic shock, bleeding problems, life expectancy <12 months due to serious co-morbidity; substantial mental disorder, including severe dementia
+457 randomised out of 4187 patients assessed for inclusion:
+2214 met exclusion criteria
+1516 candidates who met inclusion not included:
+402 refused to participate
+1011 logistics
+Intervention
+Early invasive strategy
+Patient transported to Oslo University Hospital 1 day after inclusion
+Early coronary angiography with immediate assessment for percutaneous coronary intervention (PCI), coronary artery bypass graft of optimum medical treatment
+Patients returned to their local community hospitals after:
+6-18 hours if underwent PCI
+4-6 hours if underwent angiography alone
+Angiography not performed in 9 patients (4%)
+PCI performed in 107 patients (47%)
+CABG performed in 6 patients (3%)
+Control
+Optimal medical treatment
+Patient remained in community hospital
+If had reinfarction, refractory angina despite optimal medical treatment, malignant ventricular arrythmias, or increasing symptoms of heart failure, they were considered for urgent coronary angiography
+All patients treated according to existing guidelines
+Baseline characteristics and medical treatments at discharge were similar between intervention vs. control groups, apart from the use of warfarin and nitrates:
+Age, mean (range): 84.7 (80-93) vs. 84.9 (80-94)
+Previous MI: 47% vs. 39%
+T2DM: 20% vs. 14%
+Killip class 1: 74% vs 74%
+Ejection fraction
+<30%: 5% vs. 3%
+30-50%: 28% vs. 31%
+ECG
+Pathological Q waves: 15% vs. 18%
+ST depression: 19% vs. 18%
+Negative T wave: 15% vs. 21%
+Troponin elevation: 94% vs. 92%
+Creatinine (mg/dL): 1.15 vs. 1.19
+GRACE score: 138 vs. 138
+Medical treatment at inclusion
+Aspirin: 99% vs. 97%
+Clopidogrel: 85% vs. 82%
+Ticagrelor: 5% vs. 5%
+Warfarin: 17% vs. 9%
+Nitrates: 46% vs. 55%
+Medical treatment at discharge
+Aspiring: 95% vs. 93%
+Clopidogrel: 72% vs. 73%
+Ticagrelor: 4% vs. 4%
+Warfarin: 22% vs. 14%
+Beta-blocker: 86% vs 85%
+ACE inhibitor or ARB: 52% vs. 54%
+Nitrates: 34% vs. 48%
+Outcome
+Primary outcome: composite of myocardial infarction, need for urgent revascularisation, stroke and death was significantly reduced in the invasive group
+40.6% vs. 61.4%, Hazard ratio (HR) 0.53 (95% C.I. 0.41-0.69), p=0.0001, NNT = 5
+Fragility index
+: 26 patients
+Secondary outcomes:
+Myocardial infarction – significantly reduced in invasive group
+17% vs. 30%, HR 0.52 (95% C.I. 0.35-0.76), p=0.001
+Need for urgent revascularisation – significantly reduced in invasive group
+2% vs. 11%, HR 0.19 (95% C.I. 0.07-0.52), p=0.001
+Stroke – no significant difference
+3% vs. 6%, HR 0.60 (95% C.I. 0.25-1.46), p=0.27
+Death from any cause – no significant difference
+25% vs. 27%, HR 0.89 (95% C.I. 0.62-1.28), p=0.53
+Complications – no significant difference
+Major bleeding: 2% vs. 2%
+Minor bleeding: 10% vs. 7%
+Length of hospital stay: 6 days vs. 5 days
+Sub-group analysis for primary outcome:
+Age <90 years: Significantly reduced in invasive group
+Hazard ratio 0.47 (95% C.I. 0.35-0.62; p=0.0001)
+Age >90 years (n=34): No significant difference
+Hazard ratio 1.21 (95% C.I. 0.53-2.7; p=0.64)
+Authors’ Conclusions
+The study supports an invasive strategy in clinically stable patients who are aged 80 years or over with NSTEMI/unstable angina. In patients ages older than 90 years the evidence is unclear
+Strengths
+Randomised controlled trial
+Intention to treat analysis
+Listed on
+clinicaltrials.gov
+Patients quickly returned to community hospital post intervention. This means that any differences found are likely to be due to the intervention rather than differences in medical management that patients received at the community vs. central hospital
+Multi-centre
+Weaknesses
+Large numbers of patients excluded for logistical reasons
+Use of composite outcome. The need for urgent revascularisation is often included as part of the composite outcome in these type of trials. However, I think what would be most important to me would be my risk of dying or having severe morbidity such as a stroke of myocardial infarction; rather than the risk that if I do not have an angiogram now I might have to have it in the future
+The Bottom Line
+In patients over the age of 80 years with NSTEMI/unstable angina, an invasive compared with a conservative approach, reduces the composite outcome of death, myocardial infarction, stroke or need for urgent revascularisation. This was predominately due to the reduction in myocardial infarction and the need for urgent revascularisation. The reduction in myocardial infarction means that I will recommend this treatment to my patients.
+In subgroup analysis of patients aged over 90 years there was no benefit found. However with low numbers of patients included over the age of 90 years, caution is required with interpreting these results.
+External Links
+[article]
+Invasive versus conservative strategy in patients aged 80 years or older with non-ST-elevation myocardial infarction or unstable angina pectoris (After Eighty study): an open-label randomised controlled trial
+Interview with lead author
+ACC Conference
+Metadata
+Summary author:
+Dave Slessor
+Summary date: 13th April 2016
+Peer-review editor:
+Steve Mathieu

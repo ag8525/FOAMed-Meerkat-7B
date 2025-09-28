@@ -1,0 +1,128 @@
+# Metadata
+- Source: The Bottom Line
+- Title: CURE
+- Original URL: https://www.thebottomline.org.uk/summaries/cure/
+- Scrape Date: 2025-07-17
+- Summary Date: AUTO_FILL_IF_AVAILABLE
+
+Effects of Clopidogrel in Addition to Aspirin in Patients with Acute Coronary Syndromes without ST-Segment Elevation
+CURE Investigators. NEJM 2001; 345:494-502
+Clinical Question
+In patients with acute coronary syndromes without ST elevation, does clopidogrel and aspirin, compared with aspirin alone, reduce a composite outcome of death from cardiovascular causes, acute myocardial infarction and stroke?
+Background
+Acute coronary syndromes (ACS) are typically caused by thrombosis secondary to ruptured plaque. Aspirin and heparin had been shown to reduce the risk of death following an ACS
+Clopidogrel is an antiplatelet agent that inhibits the platelet aggregation induced by adenosine diphosphate. Combining clopidogrel with aspirin, which blocks the thromboxane-mediated pathway may have an additive effect. This trial looked to investigate this
+Even though this is an older trial, I have re-visited it as I have noticed a number of patients being treated with clopidogrel who would not have fulfilled the studies inclusion and exclusion criteria
+Design
+Randomised controlled trial
+Computerised randomisation
+Block randomisation stratified to clinical centre
+Double blinded
+Placebo controlled
+Study outcomes adjudicated by staff who were unaware of treatment assignment
+Intention to treat analysis
+Sample size calculation
+12,500 patients would give 90% power to detect a:
+16.9% relative risk reduction for the 1st primary outcome, from a baseline rate of 10%, with a two-sided alpha level of 0.045
+16.4% relative risk reduction for the 2nd primary outcome, from a baseline rate of 14% rate, with a 2 sided alpha level of 0.01
+Setting
+482 centres in 28 countries
+Patients recruited: Dec 1998 – September 2000. Patients followed up until December 2000
+Population
+Inclusion criteria:
+Hospitalised within 24 hours after the onset of symptoms and did not have ST elevation
+Initially study included patients >60 years of age with history of coronary artery disease and no new ECG changes
+After enrolment of 3000 patients, inclusion criteria changed on basis of advice from steering committee. Patients enroled only if ECG changes or elevated cardiac enzymes at entry (Troponin, creatine kinase, creatine kinase MB, or other cardiac enzymes)
+Exclusion: Contraindications to antithrombotic or antiplatelet therapy, high risk for bleeding, severe heart failure, taking oral anticoagulant, had undergone coronary revascularisation in previous 3 months, had received IV glycoprotein IIb/IIIa receptor inhibitors in the previous 3 days
+12,562 patients randomised. 13 patients lost to follow up
+Comparison of baseline characteristics of intervention vs. control groups
+Age: 64 vs 64
+Time from onset of pain to randomisation: 14hr vs. 14hr
+Diagnosis at study entry
+Unstable angina: 75% vs. 75%
+Suspected MI: 25% vs. 25%
+Medical history
+MI: 32% vs. 32%
+CABG: 18% vs. 18%
+Diabetes: 22% vs. 23%
+ECG abnormality
+Any: 94% vs. 94%
+ST
+Depression >=1mm: 42% vs. 42%
+Elevation <=1mm: 3% vs. 3%
+Transient elevation >2mm: 1% vs. 1%
+T wave inversion
+>2mm: 25% vs. 26%
+<2mm: 12% vs. 11%
+Other: 11% vs. 11%
+Medication at time of randomisation
+Aspirin: 67% vs. 66%
+Heparin or LMW heparin: 72% vs. 73%
+Intervention
+Clopidogrel + Aspirin
+Clopidogrel: loading dose of 300mg, followed by 75mg per day
+Aspirin: 75-325mg per day
+Control
+Placebo + Aspirin
+Matched to intervention group
+Management common to both groups
+Study primarily included centres at which there was no routine policy of early use of angiography
+Outcome
+Primary outcomes: significantly reduced in intervention group
+Composite of death from cardiovascular causes, non-fatal MI or stroke
+9.3% vs. 11.4%, RR 0.8, (95% C.I. 0.72-0.90), p<0.001
+NNT: 48
+Fragility index: 64
+Composite of 1st primary outcome or refractory ischaemia
+16.5% v. 18.8%, RR 0.86, (95% C.I. 0.79-0.94), p<0.001
+NNT: 44
+Fragility index: 60
+Secondary outcomes: comparing intervention vs. control groups
+Significant reduction in:
+Myocardial infarction
+5.2% vs. 6.7%, RR 0.77 (95% C.I. 0.67-0.89)
+No significant difference in:
+Death from cardiovascular causes
+5.1% vs. 5.5%, RR 0.93 (95% C.I. 0.79-1.08)
+Death from non-cardiovascular causes
+0.7% vs. 0.7%
+Refractory ischaemia
+8.7% vs. 9.3%, RR 0.93 (95% C.I. 0.82-1.04)
+Stroke
+1.2% vs. 1.4%, RR 0.86 (95% C.I. 0.63-1.18)
+Adverse events
+Major bleeding
+Significantly more common in intervention group
+3.7% vs. 2.7%, RR 1.38 (95% C.I. 1.13-1.67), p=0.001
+Authors’ Conclusions
+Clopidogrel reduced the rates of MI and recurrent coronary ischaemia, with a trend towards lower rates of stroke and death from cardiovascular causes.
+Strengths
+Randomised controlled trial
+Double blinded
+Multiple centres
+Minimal loss to follow up
+Large number of patients included with high power and high fragility index
+Weaknesses
+Inclusion criteria changed during study period
+Definition of acute coronary syndrome without ST elevation is not clearly defined
+Did not state how many patients had diagnosis of acute coronary syndrome made on the different cardiac enzymes. The study was conducted a number of years ago and a number of cardiac enzymes are no longer accepted diagnostically
+The Bottom Line
+In patients with ACS without ST elevation, who have ECG changes and/or elevated cardiac enzymes, and present to hospital within 24 hours of symptom onset, the use of clopidogrel + aspirin, compared to aspirin alone significantly reduced the composite outcome of death from cardiovascular causes, myocardial infarction or stroke. This reduction was largely due to the significant reduction in the rate of myocardial infarction
+There was no significant difference in rates of mortality or stroke. Patients given clopidogrel had a significantly increased rate of major bleeding
+External Links
+[article]
+Effect of Clopidogrel in Addition to Aspirin in Patients with ACS Without ST Elevation
+[further reading]
+PulmCrit: Avoiding over-diagnosis and over-treatment of MI in critically ill patients
+[further reading]
+Unfractionated heparin and LMWH in ACS withou ST elevation: a meta-analysis
+[further reading]
+Cardiology Trials – a useful website summarising all of the important cardiology trials
+[further reading]
+Anticoagulants in ischemia-guided management of non-ST-elevation acute coronary syndromes
+Metadata
+Summary author:
+Dave Slessor
+Summary date: 03.01.2018
+Peer-review editor:
+Steve Mathieu

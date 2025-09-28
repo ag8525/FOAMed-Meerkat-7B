@@ -1,0 +1,140 @@
+# Metadata
+- Source: The Bottom Line
+- Title: LOTUS China
+- Original URL: https://www.thebottomline.org.uk/summaries/lotus-china/
+- Scrape Date: 2025-07-17
+- Summary Date: AUTO_FILL_IF_AVAILABLE
+
+A Trial of Lopinavir–Ritonavir in Adults Hospitalized with Severe Covid-19
+Cao B, New Engl J Med. 2020; doi:10.1056/NEJMoa2001282
+Clinical Question
+In patients infected with SARS-CoV-2, what is the efficacy and safety of oral lopinavir–ritonavir?
+Background
+Lopinavir has been identified as having in-vitro activity against SARS-CoV, the virus that causes SARS in humans. Data also show that it has activity against Middle East respiratory syndrome coronavirus (MERS-CoV)
+With the current SARS-CoV-2/COVID-19 epidemic, it is important to identify and evaluate medications for safety and efficacy
+Young et al published a
+case series
+in JAMA on March 3, 2020 describing 5 patients treated with lopinavir-ritonavir, showing variable results
+Design
+Randomized, controlled, open-label trial
+Web based randomization
+Block randomisation stratified on basis of respiratory support
+Placebo controls were not used due to the emergent nature of the trial
+Primary efficacy analysis was on an intention-to-treat basis
+Primary outcome assessed up to day 28
+Original sample size of 160 would have provided 80% power to detect a difference, at a two-sided significance level of α=0.05, of 8 days in the median time to clinical improvement between the two groups, assuming that the median time in the standard-care group was 20 days and that 75% of the patients would reach clinical improvement
+Registered on
+Chinese Clinical Trial Registry
+Setting
+Jin Yin-Tan Hospital, Wuhan, Hubei Province, China
+Data collected: January 18, 2020, through February 3, 2020
+Population
+Inclusion
+: Male and non-pregnant female patients 18 years of age or older were eligible with the following:
+Diagnostic specimen that was positive on reverse-transcriptase–polymerase-chain-reaction (RT-PCR) for SARS-CoV-2
+Pneumonia confirmed by chest imaging
+Oxygen saturation (Sa
+o
+2
+) of 94% or less while breathing ambient air or a ratio of the partial pressure of oxygen (Pa
+o
+2
+) to the fraction of inspired oxygen (Fi
+o
+2
+) (Pa
+o
+2
+:Fi
+o
+2
+) at or below 300 mg Hg
+Exclusion
+:
+Physician decision that involvement in the trial was not in the patient’s best interest
+Presence of any condition that would not allow the protocol to be followed safely
+Known allergy or hypersensitivity to lopinavir–ritonavir
+Known severe liver disease
+Use of medications that are contraindicated with lopinavir–ritonavir and that could not be replaced or stopped during the trial period
+Pregnancy or breast-feeding
+Known HIV infection
+199 patients underwent randomization; 99 patients assigned to lopinavir–ritonavir and 100 patients to standard care alone
+No significant between-group differences in demographic characteristics
+Median age 58
+Median interval time between symptom onset and randomization was 13 days
+Intervention
+Lopinavir–ritonavir
+400mg/100mg orally or via nasogastric tube plus standard care for 14 days
+5 patients in the treatment group did not receive the intervention
+2 due to attending physician’s discretion
+3 had early death within 24 hours after randomization
+Control
+Standard care alone for 14 days
+Management common to both groups
+Standard care comprised, as necessary, supplemental oxygen, noninvasive and invasive ventilation, antibiotic agents, vasopressor support, renal-replacement therapy, and extracorporeal membrane oxygenation (ECMO)
+Outcome
+Primary outcome:
+time to clinical improvement, or live discharge from hospital – no significant difference
+Median, 16 day vs. 16 days; hazard ratio for clinical improvement, 1.31; 95% confidence interval (CI of difference), 0.95 to 1.85; P=0.09
+Defined as the time from randomization to an improvement of two points (from the status at randomization) on a seven-category ordinal scale or live discharge from the hospital, whichever came first
+1 = not hospitalized with resumption of normal activities
+2= not hospitalized, but unable to resume normal activities
+3,= hospitalized, not requiring supplemental oxygen
+4 = hospitalized, requiring supplemental oxygen
+5 = hospitalized, requiring nasal high-flow oxygen therapy, noninvasive mechanical ventilation, or both
+6 = hospitalized, requiring ECMO, invasive mechanical ventilation
+7 = death
+Modified intention-to-treat population excluding 3 early deaths – significantly lower in intervention group
+Median time to clinical improvement was 15 days in the lopinavir–ritonavir group, as compared with 16 days in the standard-care group (hazard ratio, 1.39; 95% CI, 1.00 to 1.91)
+Secondary outcomes
+In intervention group significant improvements in:
+Duration of intensive care stay
+median, 6 days vs. 11 days (95% CI of difference, −9 to 0)
+Duration of hospitalization in survivors
+median, 12 days vs. 14 days (95% CI, 0 to 3)
+% of patients with clinical improvement at
+day 14
+45% vs. 30% (95% CI, 2.2 to 28.8)
+day 28
+79% vs. 70% (95% CI, -3.3 to 20.9)
+No significant difference in:
+% of patients with clinical improvement at day 7
+6% vs. 2% (95% CI, -1.4 to 9.5)
+Mortality at day 28
+19.2% vs. 25.0% (95% CI, −17.3 to 5.7)
+Duration of mechanical ventilation
+median 4 days vs. 5 days (95% CI, −4 to 2)
+Time from treatment initiation to death
+median 9 days vs. 12 days (95% CI, −6 to 2)
+Proportions with viral RNA detection over time
+Viral RNA titer area-under-the-curve (AUC) measurements
+Authors’ Conclusions
+Lopinavir–ritonavir treatment did not significantly accelerate clinical improvement, reduce mortality, or diminish throat viral RNA detectability in patients with serious Covid-19
+Strengths
+Conducted with quick response to the identification of the pandemic nature of SARS-CoV-2
+Authors obtained informed consent from patients or their legal representatives
+Registered on Chinese trial registry
+Allocation concealment maintained through use of web randomisation
+Weaknesses
+Open label design meant a lack of blinding, which could have introduced bias
+No long-term data are available
+The median time to treatment was 13 days, so it’s possible that the treatment was initiated too late and earlier treatment would be more effective
+Nearly 14% of the lopinavir-ritonavir group did not complete treatment due to side effects
+The authors state that once the original planned sample size of 160 was reached, they continued enrolment as it was determined that the study was underpowered, however they do not comment on whether the final population of 199 allowed them to achieve their desired power
+Because of the negative results of the trial, an underpowered study could expose these results to Type II error (falsely negative results)
+Plan for modified intention to treat analysis was not described in clinical trial registration
+The Bottom Line
+In this single centre, non-blinded, randomised controlled trial, for a subset of patients treated in Wuhan, China, lopinavir-ritonavir did not demonstrate efficacy in reducing mortality and did not reduce viral loads or duration of viral detectability
+Due to the fact that in this study the median time to treatment was 13 days we cannot determine if earlier detection and treatment could be effective, and more studies would be required to investigate this
+External Links
+A Trial of Lopinavir–Ritonavir in Adults Hospitalized with Severe Covid-19
+Epidemiologic Features and Clinical Course of Patients Infected With SARS-CoV-2 in Singapore
+PulmCrit- Is Lopinavir/Ritonavir down and out?
+REBEL EM: Lopinavir-Ritonavir in Hospitalized Patients with Severe COVID-19
+INTENSIVE Blog review
+Metadata
+Summary author:
+Daniel Hu, PharmD, BCCCP
+Summary date: 3/19/20
+Peer-review editor:
+dave slessor

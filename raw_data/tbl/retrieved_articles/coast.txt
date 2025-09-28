@@ -1,0 +1,230 @@
+# Metadata
+- Source: The Bottom Line
+- Title: COAST
+- Original URL: https://www.thebottomline.org.uk/summaries/coast/
+- Scrape Date: 2025-07-17
+- Summary Date: AUTO_FILL_IF_AVAILABLE
+
+Randomised controlled trial of oxygen therapy and high-flow nasal therapy in African children with pneumonia
+@KathMaitland
+on behalf of the COAST trial group.
+Intensive Care Medicine
+August 2021 https://doi.org/10.1007/s00134-021-06385-3
+Clinical Question
+In hypoxic African children (oxygen saturations of between 80 and 91%) with pneumonia, does oxygen therapy reduce mortality when compared with a permissive hypoxia (no oxygen) strategy?
+In severely hypoxic children (oxygen saturations less than 80%), does high-flow nasal therapy reduce mortality when compared with low-flow oxygen therapy?
+Background
+Severe pneumonia is the leading cause of mortality in African children under the age of 5
+In-hospital mortality is high (9-16%)
+Supply of oxygen therapy is variable and in many hospitals, children with severe pneumonia receive little or no oxygen therapy
+Many hospitals lack pulse oximeters meaning that oxygen therapy is often administered according to non-specific clinical signs
+Current World Health Organisation (WHO) recommendations are that oxygen therapy be administered to children with severe pneumonia or SpO2 <90%
+There is currently minimal evidence to support this practice
+A number of recent ICU studies have given weight to the hypothesis that a conservative oxygen therapy strategy may be appropriate in most adult patients
+IOTA,
+ICU-ROX
+Conservative oxygen strategies have also been investigated in critically ill children
+Oxy-PICU trial (Pilot),
+BIDS
+and studies are ongoing
+Oxy-PICU trial
+The Children’s Oxygen Administration Strategies Trial (COAST) aimed to investigate the impact of different strategies of oxygen therapy for children with severe pneumonia
+Design
+A two-stratum multi-centre, open-label, fractional-factorial randomised controlled trial
+In the
+severe hypoxamia stratum
+, eligible children were randomised in a 1:1 ratio to high-flow nasal therapy (HFNT) or low-flow oxygen delivery
+In the
+hypoxaemia stratum
+, eligible children were randomised (ratio 1:1:2) to HFNT, LFO or permissive hypoxaemia
+Sample size determined using simulations assuming a 1:2 ratio between the respective strata and 48 hour mortality in the LFO arms of 26% and 9% in severe hypoxaemia and hypoxaemia strata respectively.
+The randomisation list was computer-generated in London using variably sized permuted blocks stratified by trial centre.
+Opaque and sealed randomisation envelopes were used for allocation concealment. These were prepared in London and sent to each site. One set for the
+severe hypoxaemia
+stratum (SaO
+2
+<80%) and one set for the
+hypoxaemic
+stratum (SaO
+2
+≥80% and <92%). The envelopes for each site were numbered consecutively and opened in numerical order.
+Overall, 4200 children provided at least 90% power to detect a 25% RR for HFNT vs. LFO in the
+severe hypoxaemia
+stratum a 33% relative risk reduction (RR) for liberal (HTNT or LFO) vs permissive
+hypoxaemia
+Patients were analysed on an intention to treat basis according to their randomised groups
+Nurses and doctors were unblinded to treatment allocation
+Laboratory tests were blinded
+Primary outcomes
+were mortality at 48-hours and 28 days post-randomization
+Secondary outcomes
+were:
+Treatment failure at 48 hours (defined as persistent hypoxaemia)
+Time to hypoxaemia resolution (SpO2≥92%)
+Duration of respiratory support
+Length of initial hospital stay
+Day 28 neurocognitive/ developmental sequelae
+Hospital readmissions
+Anthropometric status
+Primary outcome analysed as a binary outcome using multivariable logistic regression adjusted for baseline SpO2 and trial site
+Adjusted odds ratios were calculated to compare any respiratory support vs. permissive hypoxaemia and HFNT vs. LFO
+Setting
+Four Ugandan and two Kenyan hospitals
+February 14th 2017 and February 28th 2020
+Population
+Inclusion
+: Children aged 28 days to 12 years of age hospitalised with a history of respiratory illness, hypoxaemia and
+any one
+of the 2013 WHO clinical definitions of severe pneumonia:1. Signs of respiratory distress (any one of):
+severe lower chest wall in-drawing
+use of auxiliary muscles
+head nodding
+inability to breastfeed or drink because of respiratory problems
+2. Tachypnoea
+3. Abnormalities on chest auscultation
+4. Lethargy or reduced conscious state
+5. Convulsions
+Exclusion
+:
+Known uncorrected cyanotic heart disease
+Chronic lung disease (excluding asthma)
+Oxygen administered at another health facility (or for more than three hours at current hospital)
+Previous COAST study enrolment
+1,842 eligible children were enrolled into the COAST trial and included in all analyses
+388 children in
+severe hypoxaemia
+arm of study
+194 randomised to HFNT
+194 randomised to LFO
+1,454 children in
+hypoxaemia
+arm of study
+363 randomised to HFNT
+364 to LFO
+727 to permissive hypoxaemia
+When compared with the
+hypoxaemia
+arm of the study, patients in the
+severe hypoxaemia
+arm were:
+Younger (median age 7 months vs. 9 months)
+Had lower median weight
+Had greater incidence of cyanosis
+There were some baseline imbalances between the groups, with a higher proportion of LFO patients (60%) in the severe hypoxaemia stratum had O2 sats of <70% when compared to HFNT patients (55%)
+In addition, 14.9% of LFO patients were severely malnourished in comparison to 9.8% of HFNT patients. The LFO arm also had higher rates hypothermia, dehydration and unresponsiveness than the HFNT arm.
+Intervention
+HFNT delivered by AIRVO2 device. This device contains a humidifier with an integrated flow generator that delivers a high flow warmed and humidified air/ oxygen blend
+HFNT was initiated at 21% with flow rates and oxygen titrated using a structured protocol
+Children unable to tolerate HFNT switched to LFO
+LFO was delivered by nasal cannulae/ prongs and escalated to higher flow rates delivered by standard masks
+Oxygen could be weaned/ stopped if SpO2 remained ≥ 92% on room air and restarted if SpO2 dropped to <92%
+Children were switched from HFNT to LFO at 48 hours
+Control
+In the
+severe hypoxaemia
+stratum LFO was delivered by nasal cannulae/ prongs and escalated to higher flow rates delivered by standard masks
+In the
+hypoxaemia
+stratum, permissive hypoxaemia was allowed for children with oxygen saturations between 80 and 91%
+Low-flow oxygen was commenced if O2 sats <80% in the hypoxaemia stratum
+Management common to both groups
+Oxygen therapy was almost universally started within 30 minutes of screening
+BITMOS sat 801+ oximeters were used on all patients
+Children managed on general paediatric wards
+Training in triage and emergency paediatric life support given throughout the trial
+Baseline infrastructural support provided by the study
+Oxygen saturations checked at 15,30 and 60-minute intervals post-enrolment
+A structured clinical case report form was completed at admission and on reviews at 1, 2, 4, 8, 16, 24, 36 and 48 h.
+Children unable to tolerate HFNT were switched to LFO
+From 2 hours post-enrolment oxygen could be weaned/stopped if SpO2 remained ≥92% on room air and restarted if SpO2 dropped to<92%
+At 48 hours post enrollment children on HFNT were switched to LFO
+All children received standard treatments including intravenous maintenance fluids (2.5-4.0 mls/kg/hour), antibiotics, antimalarials, antipyretics, anticonvulsants and transfusions for haemoglobin <5g/dl according to national guidelines
+Outcome
+Primary outcome
+: Study stopped prematurely by the Trial Steering Committee due to ethical concerns in Uganda over the permissive hypoxaemia strategy
+In the
+severe hypoxaemia
+stratum:
+48h mortality in the
+severe hypoxaemia
+stratum was 9.3% for HFNP compared with 13.4% for LFO
+Adjusted odds ratio 0.60 (95% CI 0.33-1.06; p=0.076)
+28-day mortality was 18.6% vs. 23.4% respectively
+In the
+hypoxaemia
+stratum
+48h mortality in the
+hypoxaemia
+stratum was 1.1% for HFNT, 2.5% for LFO and 1.4% for permissive hypoxaemia
+Adjusted odds ratio for liberal oxygen therapy vs. permissive hypoxia 1.16 (95% CI 0.49-2.74; p=0.728)
+28-day mortality was 3.3%, 4.1% and 3.9% respectively
+Secondary outcomes
+:
+In the
+severe hypoxaemia
+stratum, median duration on respiratory support was longer in the HFNT arm when compared to LFO (36.6h vs. 32.1h)
+In the
+severe hypoxaemia
+stratum, the mean oxygen volume used was lower in HFNT when compared with LFO (2.7 litres vs. 3.6 litres)
+In the
+hypoxaemia
+stratum, median duration of respiratory support between HFNP and LFO were similar (8.4h vs. 6.8h)
+The permissive
+hypoxaemia
+strategy had lower time on oxygen and oxygen volume than the liberal strategies
+Treatment failure to 48 hours lower for HFNT vs. LFO in
+severe hypoxaemia
+stratum but this did not reach statistical significance
+Treatment failure lower for the liberal versus permissive
+hypoxaemia
+strategy
+Day-28 hospital readmissions were low (<3%) across all groups and there was no difference in mean hospital stay
+There was also no reported difference in neurocognitive sequelae
+Authors’ Conclusions
+Our findings support the need for future trials with similar designs, particularly in settings where access to oxygen and/or mechanical respiratory support are restricted
+The scale of the mortality reduction of HFNT over LFO, particularly in severely hypoxaemic children (40%) warrants further investigation
+Oxygen-sparing strategies potentially offer cost-effective approaches to reducing overall oxygen requirements in overburdened health services and adds to the general findings in critical care than ‘less is more’
+Strengths
+This was a pragmatic and well-designed study attempting to answer an important clinical question
+The investigation of a permissive hypoxaemia strategy challenged dogma and conventional practice and it is disappointing that this study was not allowed to continue
+The primary outcome of mortality at 48 hours and 28 days was patient-centred
+The additional analysis of oxygen consumption has additional interest in the developing world from a resource allocation standpoint
+The results were consistent with recent ICU literature supporting more conservative oxygen strategies
+There was good compliance with treatment allocations, with minimal protocol violations. This was particularly impressive in view of the resource implications
+Subject retention to 28 days was excellent (99.3%)
+Weaknesses
+Early cessation of the study meant that it was unable to fully assess the effect of the permissive hypoxaemia strategy or the impact of HFNT in severe hypoxaemia
+Only 1842 children out of a planned 4200 children were enrolled when the study was ceased
+Recruitment to the
+severe hypoxaemia
+stratum seemed to be slower than planned in comparison to the
+hypoxaemia
+stratum, with a ratio closer to 1:4 than the planned 1:2
+48-hour mortality was much lower than predicted in both the
+severe hypoxaemia
+and
+hypoxaemia
+strata. The authors postulated that this may have been due to increased vaccination rates of children reducing the incidence of bacterial pneumonia
+Only 25% of children with O2 sats of <80% were initially commenced on oxygen in the HFNT arm of the
+severe hypoxaemia
+stratum. Whilst I can see the rationale for permissive hypoxaemia in less sick children, this aspect of the study design made me uneasy
+There were baseline imbalances between the groups (see
+study population
+), which would likely have become less pronounced as study recruitment numbers increased
+The open label design, with unblinding of treating doctors and nurses, may have introduced bias
+It is unclear whether the paediatric population of Uganda and Kenya are representative of Africa or the developing world and study results should be generalised with caution
+The safety net of detecting O2 sats of <80% with 15-minutely and then hourly clinical reviews may not exist in resource-limited settings outwith a clinical trial
+All routine non-trial medications were made available by study inclusion, which may have increased the incentive to be included in the study, particularly for poorer families. It is possible that this introduced selection bias
+Only 66.3% of children had signs of pneumonia on CXR
+The Bottom Line
+There is a strong signal here that high-flow nasal therapy results in a mortality benefit for African children with severe pneumonia and SpO2 of <80% and I would advocate for the use of this therapy in this context, if available
+A permissive hypoxaemia strategy of tolerating O2 sats of 80-92% may be safe in most children with pneumonia and this challenges my conventional practice of targeting 92-96%
+Many children with hypoxia due to pneumonia may clinically improve with humidified, high-flow air alone and this deserves further exploration
+External Links
+COAST trial
+Interview with Prof Maitland on CCR podcast
+Metadata
+Summary author: Fraser Magee
+Summary date: 14/09/21
+Peer-review editor: Halah Zareian
+Picture by: Shutterstock

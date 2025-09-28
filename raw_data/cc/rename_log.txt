@@ -1,0 +1,606 @@
+--- CrackCast File Renaming Log ---
+Source Directory: Step4_CC_final_corrected_files
+-------------------------------------
+[Matched] Original: 00cc-ep-149-asa-and-nsaids-ch-144-asa-and-nsaids-9th-ed_cleaned_final.md
+          -> New Name: cc-0.md
+---
+[Matched] Original: cc-181-approach-to-geriatrics_cleaned_final.md
+          -> New Name: cc-181.md
+---
+[Matched] Original: cc-187-combative-patient_cleaned_final.md
+          -> New Name: cc-187.md
+---
+[Matched] Original: cc-e132-hiv-aids_cleaned_final.md
+          -> New Name: cc-132.md
+---
+[Matched] Original: cc-e139frostbite_cleaned_final.md
+          -> New Name: cc-139.md
+---
+[Matched] Original: cc-e146-radiation_cleaned_final.md
+          -> New Name: cc-146.md
+---
+[Matched] Original: cc-e168-upper-airway_cleaned_final.md
+          -> New Name: cc-168.md
+---
+[Matched] Original: cc-e170-fever-_cleaned_final.md
+          -> New Name: cc-170.md
+---
+[Matched] Original: cc-e174-gu-and-renal_cleaned_final.md
+          -> New Name: cc-174.md
+---
+[Matched] Original: cc-ep-096-anorectal-disorders-ch-86-9th-ed-rosens-_cleaned_final.md
+          -> New Name: cc-96.md
+---
+[Matched] Original: cc-ep-105-brain-and-cranial-nerve-disorders-ch-95-rosens-9th-ed-dillan-radomske-edit_cleaned_final.md
+          -> New Name: cc-105.md
+---
+[Matched] Original: cc-ep-111_cleaned_final.md
+          -> New Name: cc-111.md
+---
+[Matched] Original: cc-ep-114-factitious-disorders-and-malingering-ch-104-rosens-9th-ed-_cleaned_final.md
+          -> New Name: cc-114.md
+---
+[Matched] Original: cc-ep-126-diabetes-mellitus-and-disorders-of-glucose-homeostasis-ch-118-rosens-9th-ed-1_cleaned_final.md
+          -> New Name: cc-126.md
+---
+[Matched] Original: cc-ep-127-rhabdomyolysis-ch-119-rosens-9th-ed-_cleaned_final.md
+          -> New Name: cc-127.md
+---
+[Matched] Original: cc-ep-128-thyroid-and-adrenal-disorders-ch-120-rosens-9th-ed-_cleaned_final.md
+          -> New Name: cc-128.md
+---
+[Matched] Original: cc-ep-130-viral-illness-ch-122-rosens-9th-ed_cleaned_final.md
+          -> New Name: cc-130.md
+---
+[Matched] Original: cc-ep-133-parasitic-infections-ch-125-rosens-9th-ed-1-2_cleaned_final.md
+          -> New Name: cc-133.md
+---
+[Matched] Original: cc-ep-134-tickborne-illnesses-ch-126-rosens-9th-ed-_cleaned_final.md
+          -> New Name: cc-134.md
+---
+[Matched] Original: cc-ep-135-tuberculosis-ch-127-rosens-9th-ed_cleaned_final.md
+          -> New Name: cc-135.md
+---
+[Matched] Original: cc-ep-137-soft-tissue-infections-ch-129-rosens-9th-ed-_cleaned_final.md
+          -> New Name: cc-137.md
+---
+[Matched] Original: cc-ep-140-accidental-hypothermia-ch-132-rosens-9th-ed-_cleaned_final.md
+          -> New Name: cc-140.md
+---
+[Matched] Original: cc-ep-141-heat-illness-ch-133-rosens-9th-ed_cleaned_final.md
+          -> New Name: cc-141.md
+---
+[Matched] Original: cc-ep-142-electrical-and-lightning-injuries-ch-134-rosens-9th-ed-_cleaned_final.md
+          -> New Name: cc-142.md
+---
+[Matched] Original: cc-ep-144-high-altitude-medicine-ch-136-rosens-9th-ed-_cleaned_final.md
+          -> New Name: cc-144.md
+---
+[Matched] Original: cc-ep-147-approach-to-the-poisoned-patient-ch-139-9th-ed-edited_cleaned_final.md
+          -> New Name: cc-147.md
+---
+[Matched] Original: cc-ep-148-acetaminophen-ch-143-rosen-9th-edition_cleaned_final.md
+          -> New Name: cc-148.md
+---
+[Matched] Original: cc-ep-151-antidepressants-ch-146-rosen-9th-edition-_cleaned_final.md
+          -> New Name: cc-151.md
+---
+[Matched] Original: cc-ep-154-cocaine-and-sympathomimetics-ch-149-9th-ed-_cleaned_final.md
+          -> New Name: cc-154.md
+---
+[Matched] Original: cc-ep-155-toxic-alcohols-ch-141-rosens-9th-ed_cleaned_final.md
+          -> New Name: cc-155.md
+---
+[Matched] Original: cc-ep-158-hydrocarbons-ch-152-rosen-9th-edition-_cleaned_final.md
+          -> New Name: cc-158.md
+---
+[Matched] Original: cc-ep-161-antipsychotics-ch-155-rosens-9th-ed-_cleaned_final.md
+          -> New Name: cc-161.md
+---
+[Matched] Original: cc-ep-163-pesticides-ch-157-9th-ed-_cleaned_final.md
+          -> New Name: cc-163.md
+---
+[Matched] Original: cc-ep-165-sedative-hypnotics-ch-159-rosens-9th-ed-_cleaned_final.md
+          -> New Name: cc-165.md
+---
+[Matched] Original: cc-ep-166-general-approach-to-the-paediatric-patient-ch-160-rosens-9th-ed_cleaned_final.md
+          -> New Name: cc-166.md
+---
+[Matched] Original: cc-ep-169-pediatric-respiratory-emergencies_lower-airway-obstruction-ch-168-rosens-9th-ed_cleaned_final.md
+          -> New Name: cc-169.md
+---
+[Matched] Original: cc-ep-172--gastrointestinal-disorders-ch-171-rosens-9th-ed_cleaned_final.md
+          -> New Name: cc-172.md
+---
+[Matched] Original: cc-ep-173-infectious-diarrheal-disease-and-dehydration-ch-172-rosens-9th-ed_cleaned_final.md
+          -> New Name: cc-173.md
+---
+[Matched] Original: cc-ep-175-neurologic-disorders-ch-174-rosens-9th-ed_cleaned_final.md
+          -> New Name: cc-175.md
+---
+[Matched] Original: cc-ep-176-musculoskeletal-disorders-ch-175-rosens-9th-ed_cleaned_final.md
+          -> New Name: cc-176.md
+---
+[Matched] Original: cc-ep-179-drug-therapy-in-pregnancy-1_cleaned_final.md
+          -> New Name: cc-179.md
+---
+[Matched] Original: cc-ep-182-drug-therapy-in-the-geriatric-patient-ch-185-rosens-9th-ed-_cleaned_final.md
+          -> New Name: cc-182.md
+---
+[Matched] Original: cc-ep-184-the-solid-organ-transplant-patient-rosens-188_cleaned_final.md
+          -> New Name: cc-184.md
+---
+[Matched] Original: cc-ep-186-substance-abuse-ch-140-rosens-9th-ed_cleaned_final.md
+          -> New Name: cc-186.md
+---
+[Matched] Original: cc-ep099-select-urologic-disorders-ch-89-rosens-9th-ed-1-1_cleaned_final.md
+          -> New Name: cc-99.md
+---
+[Matched] Original: cc-ep102-seizure-chpt-92-in-rosens-9th-edition_cleaned_final.md
+          -> New Name: cc-102.md
+---
+[Matched] Original: cc-ep104-delirium-and-dementia_cleaned_final.md
+          -> New Name: cc-104.md
+---
+[Matched] Original: cc-ep106-spinal-cord-ch-96-rosens-9th-ed_cleaned_final.md
+          -> New Name: cc-106.md
+---
+[Matched] Original: cc-ep107-peripheral-nerve-disorders-1_cleaned_final.md
+          -> New Name: cc-107.md
+---
+[Matched] Original: cc-ep110-thought-disorders-ch-100-9th-ed_cleaned_final.md
+          -> New Name: cc-110.md
+---
+[Matched] Original: cc-ep112-anxiety-disorders-ch-102-rosens-9th-ed-edited-1_cleaned_final.md
+          -> New Name: cc-112.md
+---
+[Matched] Original: cc-ep113-somatoform-disorders-ch-103-rosens-9th-ed-_cleaned_final.md
+          -> New Name: cc-113.md
+---
+[Matched] Original: cc-ep118-sle-and-the-vasculitides-ch-108-rosens-9th-ed-at_cleaned_final.md
+          -> New Name: cc-118.md
+---
+[Matched] Original: cc-ep119-allergy-and-anaphylaxis-ch-109-rosens-9th-ed-edited-1_cleaned_final.md
+          -> New Name: cc-119.md
+---
+[Matched] Original: cc-ep120-dermatologic-presentations-ch-110-rosens-9th-ed-_cleaned_final.md
+          -> New Name: cc-120.md
+---
+[Matched] Original: cc-ep121-anemia-polycythemia-and-white-blood-cell-disorders-chps-112-113-rosens-9th-ed-nstefani-5_cleaned_final.md
+          -> New Name: cc-121.md
+---
+[Matched] Original: cc-ep123-selected-oncologic-emergencies-ch-115-rosens-9th-ed_cleaned_final.md
+          -> New Name: cc-123.md
+---
+[No Number] Original: cc-lithium_cleaned_final.md
+             -> Moved to Review
+---
+[Matched] Original: cc67sexualassault_cleaned_final.md
+          -> New Name: cc-67.md
+---
+[Matched] Original: cce084htn__cleaned_final.md
+          -> New Name: cc-84.md
+---
+[Matched] Original: cce087-peripheral-arteriovascular-disease-shownotes_cleaned_final.md
+          -> New Name: cc-87.md
+---
+[Matched] Original: cce090-liver-and-biliary-tract_cleaned_final.md
+          -> New Name: cc-90.md
+---
+[Matched] Original: cce091-pancreas_cleaned_final.md
+          -> New Name: cc-91.md
+---
+[Matched] Original: cce092-small-intestine_cleaned_final.md
+          -> New Name: cc-92.md
+---
+[Matched] Original: cce098-stis_cleaned_final.md
+          -> New Name: cc-98.md
+---
+[Matched] Original: cce101-stroke_cleaned_final.md
+          -> New Name: cc-101.md
+---
+[Matched] Original: cce108-neuromuscular-disorders-1_cleaned_final.md
+          -> New Name: cc-108.md
+---
+[Matched] Original: cce115-suicide_cleaned_final.md
+          -> New Name: cc-115.md
+---
+[Matched] Original: cce122-disorders-of-hemostasis_cleaned_final.md
+          -> New Name: cc-122.md
+---
+[Matched] Original: cce129-bacteria_cleaned_final.md
+          -> New Name: cc-129.md
+---
+[Matched] Original: cce136-bone-and-joint-infections_cleaned_final.md
+          -> New Name: cc-136.md
+---
+[Matched] Original: cce143-diving-injuries-and-dysbarism-1_cleaned_final.md
+          -> New Name: cc-143.md
+---
+[Matched] Original: cce150anticholinergics_cleaned_final.md
+          -> New Name: cc-150.md
+---
+[Matched] Original: cce152-cv-drugs_cleaned_final.md
+          -> New Name: cc-152.md
+---
+[Matched] Original: cce154-hallucinogens_cleaned_final.md
+          -> New Name: cc-154.md
+---
+[Matched] Original: cce157-heavy-metals_cleaned_final.md
+          -> New Name: cc-157.md
+---
+[Matched] Original: cce162-plants-mushrooms-herbals-1_cleaned_final.md
+          -> New Name: cc-162.md
+---
+[Matched] Original: cce171-peds-cardiac_cleaned_final.md
+          -> New Name: cc-171.md
+---
+[Matched] Original: cce178-medical-illness-in-pregnancy_cleaned_final.md
+          -> New Name: cc-178.md
+---
+[Matched] Original: cce185-alcohol-related-disease_cleaned_final.md
+          -> New Name: cc-185.md
+---
+[Matched] Original: cce191-disaster-preparedness-2_cleaned_final.md
+          -> New Name: cc-191.md
+---
+[Matched] Original: ccep072otolaryngology_cleaned_final.md
+          -> New Name: cc-72.md
+---
+[Matched] Original: ccep073-asthma_cleaned_final.md
+          -> New Name: cc-73.md
+---
+[Matched] Original: ccep074-copd-1_cleaned_final.md
+          -> New Name: cc-74.md
+---
+[Matched] Original: ccep079dysrhythmias-1_cleaned_final.md
+          -> New Name: cc-79.md
+---
+[Matched] Original: ccep49generalorthoprinciples_cleaned_final.md
+          -> New Name: cc-49.md
+---
+[Matched] Original: ccep50hands__cleaned_final.md
+          -> New Name: cc-50.md
+---
+[Matched] Original: ccep51wristandforearm-1_cleaned_final.md
+          -> New Name: cc-51.md
+---
+[Matched] Original: ccep52humerusandelbow_cleaned_final.md
+          -> New Name: cc-52.md
+---
+[Matched] Original: ccep54backpain_cleaned_final.md
+          -> New Name: cc-54.md
+---
+[Matched] Original: ccep59woundmanagementprinciples_cleaned_final.md
+          -> New Name: cc-59.md
+---
+[Matched] Original: ccep62venemousanimalinjuries_cleaned_final.md
+          -> New Name: cc-62.md
+---
+[Matched] Original: ccep63thermalburns_cleaned_final.md
+          -> New Name: cc-63.md
+---
+[Matched] Original: ccep65forensicmedicine_cleaned_final.md
+          -> New Name: cc-65.md
+---
+[Matched] Original: ccep68intimatepartnerviolence_cleaned_final.md
+          -> New Name: cc-68.md
+---
+[Matched] Original: ccep69elderabuse_cleaned_final.md
+          -> New Name: cc-69.md
+---
+[Matched] Original: ccep75urtis-shownotes_cleaned_final.md
+          -> New Name: cc-75.md
+---
+[Matched] Original: ccep76pneumonia_cleaned_final.md
+          -> New Name: cc-76.md
+---
+[Matched] Original: ccep77pleural-disease_cleaned_final.md
+          -> New Name: cc-77.md
+---
+[Matched] Original: ccep80implantablecardiacdevice_cleaned_final.md
+          -> New Name: cc-80.md
+---
+[Matched] Original: ccep83infectiveendocarditisandvalvularpathology_cleaned_final.md
+          -> New Name: cc-83.md
+---
+[Matched] Original: ccep_53shoulder-3_cleaned_final.md
+          -> New Name: cc-53.md
+---
+[Matched] Original: ccep_57kneeandlowerleg_cleaned_final.md
+          -> New Name: cc-57.md
+---
+[Matched] Original: ch1-airway_cleaned_final.md
+          -> New Name: cc-1.md
+---
+[Matched] Original: ch10-peds-resus_cleaned_final.md
+          -> New Name: cc-10.md
+---
+[Matched] Original: ch11-neonatal-resus_cleaned_final.md
+          -> New Name: cc-11.md
+---
+[Matched] Original: ch12-adult-fever_cleaned_final.md
+          -> New Name: cc-12.md
+---
+[Matched] Original: ch13-weakness_cleaned_final.md
+          -> New Name: cc-13.md
+---
+[Matched] Original: ch14-cyanosis_cleaned_final.md
+          -> New Name: cc-14.md
+---
+[Matched] Original: ch15-syncope_cleaned_final.md
+          -> New Name: cc-15.md
+---
+[Matched] Original: ch16-coma_cleaned_final.md
+          -> New Name: cc-16.md
+---
+[Matched] Original: ch17-confusion_cleaned_final.md
+          -> New Name: cc-17.md
+---
+[Matched] Original: ch18-seizures_cleaned_final.md
+          -> New Name: cc-18.md
+---
+[Matched] Original: ch19-vertigo_cleaned_final.md
+          -> New Name: cc-19.md
+---
+[Matched] Original: ch2-mechanical-ventilation_cleaned_final.md
+          -> New Name: cc-2.md
+---
+[Matched] Original: ch20-headache_cleaned_final.md
+          -> New Name: cc-20.md
+---
+[Matched] Original: ch21-diplopia_cleaned_final.md
+          -> New Name: cc-21.md
+---
+[Matched] Original: ch22-red-eye_cleaned_final.md
+          -> New Name: cc-22.md
+---
+[Matched] Original: ch23-sore-throat_cleaned_final.md
+          -> New Name: cc-23.md
+---
+[Matched] Original: ch24-hemoptysis_cleaned_final.md
+          -> New Name: cc-24.md
+---
+[Matched] Original: ch25-dyspnea_cleaned_final.md
+          -> New Name: cc-25.md
+---
+[Matched] Original: ch26-chest-pain_cleaned_final.md
+          -> New Name: cc-26.md
+---
+[Matched] Original: ch27-abdo-pain_cleaned_final.md
+          -> New Name: cc-27.md
+---
+[Matched] Original: ch28-jaundice_cleaned_final.md
+          -> New Name: cc-28.md
+---
+[Matched] Original: ch29-nausea-and-vomiting_cleaned_final.md
+          -> New Name: cc-29.md
+---
+[Matched] Original: ch3-pain-management_cleaned_final.md
+          -> New Name: cc-3.md
+---
+[Matched] Original: ch30-gib_cleaned_final.md
+          -> New Name: cc-30.md
+---
+[Matched] Original: ch31-diarrhea_cleaned_final.md
+          -> New Name: cc-31.md
+---
+[Matched] Original: ch32-constipation_cleaned_final.md
+          -> New Name: cc-32.md
+---
+[Matched] Original: ch33-pelvic-pain_cleaned_final.md
+          -> New Name: cc-33.md
+---
+[Matched] Original: ch34-vaginal-bleeding_cleaned_final.md
+          -> New Name: cc-34.md
+---
+[Matched] Original: ch35-back-pain_cleaned_final.md
+          -> New Name: cc-35.md
+---
+[Matched] Original: ch36-multiple-trauma_cleaned_final.md
+          -> New Name: cc-36.md
+---
+[Matched] Original: ch37-trauma-in-pregnancy_cleaned_final.md
+          -> New Name: cc-37.md
+---
+[Matched] Original: ch38-pediatric-trauma_cleaned_final.md
+          -> New Name: cc-38.md
+---
+[Matched] Original: ch39-geriatric-trauma_cleaned_final.md
+          -> New Name: cc-39.md
+---
+[Matched] Original: ch4-psa_cleaned_final.md
+          -> New Name: cc-4.md
+---
+[Matched] Original: ch40-injury-prevention_cleaned_final.md
+          -> New Name: cc-40.md
+---
+[Matched] Original: ch41-head-trauma_cleaned_final.md
+          -> New Name: cc-41.md
+---
+[Matched] Original: ch42-facial-trauma_cleaned_final.md
+          -> New Name: cc-42.md
+---
+[Matched] Original: ch43-spinal-trauma_cleaned_final.md
+          -> New Name: cc-43.md
+---
+[Matched] Original: ch44-neck-trauma_cleaned_final.md
+          -> New Name: cc-44.md
+---
+[Matched] Original: ch45-thoracic-trauma_cleaned_final.md
+          -> New Name: cc-45.md
+---
+[Matched] Original: ch47-gu-trauma_cleaned_final.md
+          -> New Name: cc-47.md
+---
+[Matched] Original: ch48-vascular-trauma_cleaned_final.md
+          -> New Name: cc-48.md
+---
+[Matched] Original: ch5-patient-monitoring_cleaned_final.md
+          -> New Name: cc-5.md
+---
+[Matched] Original: ch6-shock_cleaned_final.md
+          -> New Name: cc-6.md
+---
+[Matched] Original: ch7-blood-and-blood-components_cleaned_final.md
+          -> New Name: cc-7.md
+---
+[Matched] Original: ch8-brain-resus_cleaned_final.md
+          -> New Name: cc-8.md
+---
+[Matched] Original: ch9-adult-resus_cleaned_final.md
+          -> New Name: cc-9.md
+---
+[Matched] Original: chh46-abdominal-trauma_cleaned_final.md
+          -> New Name: cc-46.md
+---
+[Matched] Original: crackcast-e193-ch-2-9th-ed-mechanical-ventilation-and-noninvasive-ventilatory-support_cleaned_final.md
+          -> New Name: cc-193.md
+---
+[Matched] Original: crackcast-e194-ch-3-9th-ed-pain-managementtt_cleaned_final.md
+          -> New Name: cc-194.md
+---
+[Matched] Original: crackcast-e195-procedural-sedation-and-analgesia-1_cleaned_final.md
+          -> New Name: cc-195.md
+---
+[Matched] Original: crackcast-e196-monitoring-the-emergency-patient-_cleaned_final.md
+          -> New Name: cc-196.md
+---
+[Matched] Original: crackcast-e197-shock-3_cleaned_final.md
+          -> New Name: cc-197.md
+---
+[Matched] Original: crackcast-e198-brain-resuscitation_cleaned_final.md
+          -> New Name: cc-198.md
+---
+[Matched] Original: crackcast-e199-adult-resuscitation_cleaned_final.md
+          -> New Name: cc-199.md
+---
+[Matched] Original: crackcast-e207-dizziness-and-vertigo_cleaned_final.md
+          -> New Name: cc-207.md
+---
+[Matched] Original: crackcast-shownotes-episode-100-gynecologic-disorders_cleaned_final.md
+          -> New Name: cc-100.md
+---
+[Matched] Original: crackcast-shownotes-episode-103-headache-disorders_cleaned_final.md
+          -> New Name: cc-103.md
+---
+[Matched] Original: crackcast-shownotes-episode-109-cns-infections_cleaned_final.md
+          -> New Name: cc-109.md
+---
+[Matched] Original: crackcast-shownotes-episode-117-tendinopathy-and-bursitis_cleaned_final.md
+          -> New Name: cc-117.md
+---
+[Matched] Original: crackcast-shownotes-episode-124-acid-base-disorders_cleaned_final.md
+          -> New Name: cc-124.md
+---
+[Matched] Original: crackcast-shownotes-episode-131-rabies_cleaned_final.md
+          -> New Name: cc-131.md
+---
+[Matched] Original: crackcast-shownotes-episode-138-sepsis-syndromes_cleaned_final.md
+          -> New Name: cc-138.md
+---
+[Matched] Original: crackcast-shownotes-episode-145-drowning_cleaned_final.md
+          -> New Name: cc-145.md
+---
+[Matched] Original: crackcast-shownotes-episode-153-caustics_cleaned_final.md
+          -> New Name: cc-153.md
+---
+[Matched] Original: crackcast-shownotes-episode-159-inhaled-toxins_cleaned_final.md
+          -> New Name: cc-159.md
+---
+[Matched] Original: crackcast-shownotes-episode-162-opioids_cleaned_final.md
+          -> New Name: cc-162.md
+---
+[Matched] Original: crackcast-shownotes-episode-170-pediatric-respiratory-emergencies-diseases-of-the-lungs_cleaned_final.md
+          -> New Name: cc-170.md
+---
+[Matched] Original: crackcast-shownotes-episode-176-acute-complications-of-pregnancy_cleaned_final.md
+          -> New Name: cc-176.md
+---
+[Matched] Original: crackcast-shownotes-episode-180-labor-and-delivery_cleaned_final.md
+          -> New Name: cc-180.md
+---
+[Matched] Original: crackcast-shownotes-episode-183-the-immunocompromised-patient_cleaned_final.md
+          -> New Name: cc-183.md
+---
+[Matched] Original: crackcast-shownotes-episode-58-ankle-and-foot-pdf_cleaned_final.md
+          -> New Name: cc-58.md
+---
+[Matched] Original: crackcast-shownotes-episode-60-foreign-bodies-jan2017_cleaned_final.md
+          -> New Name: cc-60.md
+---
+[Matched] Original: crackcast-shownotes-episode-61-mammalian-bites_cleaned_final.md
+          -> New Name: cc-61.md
+---
+[Matched] Original: crackcast-shownotes-episode-64-chemical-injuries_cleaned_final.md
+          -> New Name: cc-64.md
+---
+[Matched] Original: crackcast-shownotes-episode-66-child-maltreatment_cleaned_final.md
+          -> New Name: cc-66.md
+---
+[Matched] Original: crackcast-shownotes-episode-70-oral-medicine_cleaned_final.md
+          -> New Name: cc-70.md
+---
+[Matched] Original: crackcast-shownotes-episode-71-ophthalmology-part-a_cleaned_final.md
+          -> New Name: cc-71.md
+---
+[Matched] Original: crackcast-shownotes-episode-71-ophthalmology-part-b_cleaned_final.md
+          -> New Name: cc-71.md
+---
+[Matched] Original: crackcast-shownotes-episode-78-acute-coronary-syndrome-part-a_cleaned_final.md
+          -> New Name: cc-78.md
+---
+[Matched] Original: crackcast-shownotes-episode-78-acute-coronary-syndrome-part-b_cleaned_final.md
+          -> New Name: cc-78.md
+---
+[Matched] Original: crackcast-shownotes-episode-81-heart-failure_cleaned_final.md
+          -> New Name: cc-81.md
+---
+[Matched] Original: crackcast-shownotes-episode-82-pericardial-and-myocardial-disease_cleaned_final.md
+          -> New Name: cc-82.md
+---
+[Matched] Original: crackcast-shownotes-episode-85-aortic-dissection_cleaned_final.md
+          -> New Name: cc-85.md
+---
+[Matched] Original: crackcast-shownotes-episode-86-abdominal-aortic-aneurysm_cleaned_final.md
+          -> New Name: cc-86.md
+---
+[Matched] Original: crackcast-shownotes-episode-88-pe-and-dvt_cleaned_final.md
+          -> New Name: cc-88.md
+---
+[Matched] Original: crackcast-shownotes-episode-89-esophagus-stomach-and-duodenum_cleaned_final.md
+          -> New Name: cc-89.md
+---
+[Matched] Original: crackcast-shownotes-episode-93-appendicitis_cleaned_final.md
+          -> New Name: cc-93.md
+---
+[Matched] Original: crackcast-shownotes-episode-95-large-intestine_cleaned_final.md
+          -> New Name: cc-95.md
+---
+[Matched] Original: crackcast-shownotes-episode-97-renal-failure_cleaned_final.md
+          -> New Name: cc-97.md
+---
+[Matched] Original: e116-shownotes-arthritis_cleaned_final.md
+          -> New Name: cc-116.md
+---
+[Matched] Original: e125-electrolytes-shownotes_cleaned_final.md
+          -> New Name: cc-125.md
+---
+[Matched] Original: e56-hip-and-femur_cleaned_final.md
+          -> New Name: cc-56.md
+---
+[Matched] Original: ep-188-ems-overview-and-ground-transport-ch-190-rosens-9th-ed-_cleaned_final.md
+          -> New Name: cc-188.md
+---
+[Matched] Original: ep-189-air-medical-transport-ch-191-rosens-9th-ed-_cleaned_final.md
+          -> New Name: cc-189.md
+---
+[Matched] Original: ep-191-weapons-of-mass-destruction-ch-193-rosens-9th-ed_cleaned_final.md
+          -> New Name: cc-191.md
+---
+[Matched] Original: ep094-gastroenteritis-ch-84-9th-ed-1-1_cleaned_final.md
+          -> New Name: cc-94.md
+---
+[Matched] Original: ep55pelvictrauma_cleaned_final.md
+          -> New Name: cc-55.md
+---

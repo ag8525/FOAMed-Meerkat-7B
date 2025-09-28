@@ -1,0 +1,423 @@
+```yaml
+title: "CrackCast Episode 136: Bone and Joint Infections"
+url: "https://canadiem.org/crackcast"
+date: 2017-12
+source: "CanadiEM – CrackCast"
+original_file: CCE136-Bone-and-Joint-Infections.pdf
+summary: |
+  Bone and joint infections, including osteomyelitis and septic arthritis, are critical conditions that require prompt diagnosis and management. Key diagnostic tools include elevated ESR and CRP levels, joint aspiration for synovial culture, and MRI for osteomyelitis detection. Management involves obtaining cultures before initiating IV antibiotics, with empirical treatment targeting S. aureus and other suspected pathogens based on patient age, risk factors, and regional prevalence. Risk factors for these infections include diabetes, immunosuppression, and recent surgery. Complications can range from joint destruction to systemic sepsis. The Kocher’s Criteria aids in differentiating septic arthritis from transient synovitis in children, while biofilm formation by bacteria complicates treatment due to increased resistance, necessitating both antimicrobial therapy and surgical intervention.
+```
+
+## Overview
+
+### Key Concepts
+
+- Skeletal infection should be considered in the differential diagnosis of all patients who present with bone or joint pain.
+- Hematologic evaluation is of little value in the diagnosis of bone and joint infections, with the exception of the ESR and CRP level, which are elevated in approximately 90% of cases of bone and joint infections.
+- The diagnostic evaluation for septic arthritis includes complete blood count, ESR, and CRP level. Joint aspiration is the definitive diagnostic procedure, and synovial culture is the only reliable joint fluid test for establishing a diagnosis.
+- The diagnosis of osteomyelitis involves an operative culture of the infected bone. MRI has become the best diagnostic modality to detect osteomyelitis.
+- With suspected septic arthritis, joint fluid and blood culture specimens are obtained before IV antibiotics are administered. With suspected osteomyelitis, blood culture specimens are obtained, and IV antibiotics are administered while plans are made for further imaging studies or surgical aspiration or resection of bone.
+- The most important aspect of antibiotic treatment of suspected bone and joint infections is to provide potent bactericidal activity against S. aureus with additional empirical antibiotic coverage aimed at suspected organisms on the basis of age, risk factors, and regional variability.
+
+### Rosens in Perspective
+
+Questions we won’t cover as “core” because they are foundational concepts to understand - covered elsewhere on Crackcast.
+
+- Describe the pathophysiology of septic arthritis?
+- How is synovial fluid analyzed?
+
+Go back and take a listen to episodes 116 and 117 for more review.
+
+However, Bone & Joint infections are something to know about! Approximately 1% of all hospitalized patients have a Bone & Joint Infection, something Rosen’s calls BJIs… but let's not use that shorthand in radio format :)
+
+What are we talking about with this chapter?
+
+Orthopedic infections classified by site of involvement:
+
+- Osseous (osteomyelitis)
+- Articular (septic/pyogenic/suppurative arthritis)
+- Bursal (septic bursitis)
+- Subcutaneous (cellulitis or abscess)
+- Muscular (infectious myositis or abscess)
+- Tendinous (infectious tendonitis or tenosynovitis) varieties.
+
+Classified as:
+
+- ACUTE = < 2 weeks
+- SUB-ACUTE = 2 - 6 weeks
+- CHRONIC > 6 weeks
+
+**Note**: As Rosen’s states: “The terms osteomyelitis literally means inflammation of the marrow of the bone, but it is colloquially used to refer to infection in any part of the bone.” Majority are secondary to bacterial infections, but can be fungal, viral, and parasitic.
+
+Major risk factors for ALL BJIs:
+
+- Diabetes mellitus
+- Sickle cell disease
+- AIDS
+- Alcoholism
+- Injection drug use
+- Chronic corticosteroid use
+- Preexisting joint disease (especially rheumatoid arthritis)
+- Other immunosuppressed states
+- Postsurgical patients
+- Prosthetic implants
+
+## Core Questions
+
+### 1. List 6 risk factors for bone and joint infections
+
+Biggest Risk Factors for Bone & Joint Infection: PISSED THIRD
+
+- Septic Arthritis / Osteomyelitis / Salmonella
+- Prosthetic Material
+- Instrumentation (recent)
+- Steroids / chemo
+- Sickle cell / asplenia
+- ETOH / IVDU
+- DM / PVD
+- Other Immunosuppression
+- Transplant
+- HIV
+- IVDU
+- Renal Failure / Chronic Disease
+- Drugs / ETOH
+
+### 2. Describe the classification of osteomyelitis (based on pathophysiology)
+
+- **Hematogenous**
+  - Seeding via bacteremia
+  - Goes to metaphyseal bone secondary to slow blood flow here
+  - PREDOMINANT cause of pediatric osteomyelitis/septic arthritis and vertebral osteomyelitis in adults
+  - Joints are enclosed by a synovial capsule which forms a sleeve around the articulating bone
+  - Some joints (e.g., shoulder, hip, and knee) this capsule extends beyond the epiphysis and attaches to the metaphysis.
+  - Thus, allowing bacteria to spread directly from the metaphysis into the joint
+  - In neonates/infants, there is essentially nothing really holding back bacteria from spreading from the metaphyseal area to the joint (the growth plate doesn’t stop the spread!)
+  - In children > 1, not likely to get direct spread, as no straight connection. However, Volkmann’s canals allow formation of subperiosteal abscess and extension under the periosteum
+  - In adults after growth plate ossifies, a little bacteria highway now exists again
+  - Blood cultures are often negative (see wisecracks)
+
+- **Contiguous**
+  - +/- vascular insufficiency
+  - Involves the direct spread of bacteria from surrounding infected areas
+  - Causes most osteomyelitis in the appendicular skeleton (e.g., foot, hand, skull, maxilla, and mandible)
+
+Eventually, infected bone becomes necrotic from lack of blood supply, causing areas termed sequestra. Bone is smart. To compensate it surrounds sequestra with new bone termed involucrum. This makes penetration of antibiotics to these areas difficult, thus the need to combine antimicrobials with surgical debridement.
+
+It's important to talk about bites!!! Spaced repetition, but:
+
+- Bites = Infections from direct implantation of bacteria into deep structures
+- Tend to be on hands and feet
+- 20% to 50% of cat bites get infected secondary to morphology of feline teeth.
+- Watch out for “fight bites” as human mouths are dirty dirty things, and can wreak havoc in those MCP joints
+
+### 3. List the 3 most common bacteria causing osteomyelitis/septic arthritis for each age group: neonate, child, adult; and the following circumstances:
+- a. Sexually active adolescent
+- b. Infected prosthesis
+- c. Sickle cell disease
+- d. IVDU
+- e. Human bite
+- f. Plantar puncture wound
+- g. Diabetic foot
+
+Most common cause in osteomyelitis in all comers = Gram-positive bugs. Think Staph aureus!!!
+
+Don’t forget about extra-pulmonary TB!
+
+See Table 128.2 in Rosen’s 9th Edition.
+
+### 4. Describe a diagnostic approach to osteomyelitis. What is the utility of bloodwork?
+
+One-liner: If the history and exam look like osteomyelitis, only really need an ESR w/ X-ray and probe-to-bone test.
+
+In general, labs are not useful in completely well-looking patients. Gold standard is bone biopsy & culture!!!
+
+See the Rosen’s algorithm Figure 128.2 in 9th Edition.
+
+Lab notes:
+
+- With acute osteomyelitis, WBC can be up, but neither sensitive nor specific
+  - Chronic osteomyelitis can have normal WBC
+  - The ESR (or CRP) = more helpful than the WBC count.
+    - Can help RULE IN, but cannot RULE OUT
+  - Useful level is ESR greater than 70 mm/hr.
+  - CRP level is a better early indicator of disease, as it peaks within 48 hrs
+  - ESR is most valuable in following response to treatment
+- Remember blood cultures in all SICK patients, immunocompromised patients, and neonates
+
+Advanced imaging should be left for surgical planning, except for MRI which is key for spinal involvement.
+
+Let’s talk about the “probe-to-bone” test. “Probing for bone with a sterile blunt metal tool should be included in the initial assessment of all diabetic patients with infected pedal ulcers. A positive result consists of detection of a hard, gritty surface; also indicated in nondiabetic ulcers due to peripheral neuropathy, vasculopathy, or pressure sores.” (uptodate)
+
+Below taken from EMRAP Dec 2017:
+
+“Probing the wound to see if it reaches the bone can help identify osteomyelitis. Other tests such as ESR or x-ray can help make the diagnosis.
+- Aragon-Sanchez, J et al. Diagnosing diabetic foot osteomyelitis: is the combination of probe-to-bone test and plain radiography sufficient for high-risk inpatients? Diabet Me. 2011 Feb;2892):191-4. PMID: 21219428
+- If you can probe to bone and have a positive x-ray, the likelihood ratio of osteomyelitis is 12.
+- If you can’t probe to bone with a negative x-ray, the negative likelihood ratio is 0.02.
+- How do you probe the wound? Get a sterile probe and gently explore the wound. If you feel something hard or gritty, it is positive. This is a Grade 2C recommendation.
+- A high ESR and CRP obtained in the emergency department do not mean the patient has to be admitted. If the wound probes to bone and the patient has an elevated ESR, make sure the patient is not systemically ill, doesn’t have a fever, does not have spreading cellulitis, etc. Many of these patients can be referred for outpatient follow-up.”
+
+If they don’t have a wound to probe - you’re left getting expedited imaging - preferably with an MRI. Remember, plain radiographs require at least 2 weeks of symptoms to “start” showing subtle changes consistent with osteomyelitis.
+
+- “In general, magnetic resonance imaging (MRI) is the imaging modality with greatest sensitivity for diagnosis of osteomyelitis; if MRI is not available, computed tomography (CT) is an appropriate alternative test. If metal hardware precludes MRI or CT, a nuclear study is appropriate.
+- …..an MRI with no evidence of osteomyelitis is sufficient for exclusion of osteomyelitis in patients with symptoms for at least one week.” - uptodate
+
+### 5. List 4 early findings of osteomyelitis on X-ray
+
+- Lucent lytic areas of cortical bone destruction (sequestrum)
+- Soft tissue edema
+- Deep soft tissue swelling
+- Distorted fascial planes & altered fat interfaces
+- A periosteal reaction
+- Hypertrophy or elevation of the periosteum
+- Presence of involucrum (new bone deposit/calcification) or sequestra
+
+Note: X-rays lag behind the clinical picture, but at least some of these features should be present by 28 days.
+
+### 6. List 5 complications of osteomyelitis
+
+- In adults:
+  - Bacteremia and sepsis
+  - Septic arthritis
+  - Brain abscess
+  - Meningitis
+  - Spinal cord compression
+  - Pneumonia and empyema
+
+- In children:
+  - Developing skeletal destruction
+  - Destruction of growth plate and shorter/deformed limb
+  - Pathologic fractures
+
+### 7. List 6 differential diagnoses of osteomyelitis
+
+- Osteoid osteoma
+- Chondroblastoma
+- Ewing’s sarcoma
+- Metastatic bone tumors
+- Lymphomas
+- Occult fractures (e.g., buckle fractures)
+
+### 8. Describe the empiric management of suspected osteomyelitis
+
+Don’t forget about basic wound care! Irrigate wounds with sterile saline, cover with appropriate dressings.
+
+- Really depends on the population and risk factors. If concerned about pseudomonas (puncture wounds to the feet) - add fluoroquinolone or ceftazidime/cefepime
+  - E.g., if a diabetic with osteomyelitis consider adding clindamycin or metronidazole on to the regimen (Clavulin + Septra)
+
+An easy regimen for most:
+- 3rd Gen cephalosporin
+- Vancomycin
+- If not concerned RE: MRSA
+  - Amoxicillin-clavulanate is a good PO choice.
+
+Diabetic foot infections: According to ASPIRES guidelines
+- PO options:
+  - Amox-Clav
+  - Moxifloxacin
+- IV options:
+  - Piperacillin-Tazobactam
+  - Meropenem
+
+ESBL coverage: FatCAT
+- Fosfomycin
+- Carbapenems (Imipenem/Meropenem)
+- Aminoglycosides (Gentamycin/Tobramycin)
+- Tigecycline
+
+VRE Coverage:
+- Linezolid
+- Daptomycin
+- Tigecycline
+- Chloramphenicol
+- High-dose ampicillin or ampicillin/sulbactam
+- Nitrofurantoin
+
+MRSA Coverage:
+- PO:
+  - Septra
+  - Doxy
+  - Clinda
+  - Linezolid
+
+- IV:
+  - Vanco
+  - Linezolid
+  - Daptomycin
+  - Tigecycline
+
+PSEUDOMONAL COVERAGE - (puncture wounds, post-surgical wounds, Sickle cell anemia)
+
+- PO:
+  - Ciprofloxacin
+
+- IV:
+  - Ceftazidime for cefepime
+  - Tobramycin
+  - Piperacillin-tazobactam
+  - Meropenem
+
+ANTIPSEUDOMONAL CEPHALOSPORIN = Ceftazidime for cefepime
+ANTIPSEUDOMONAL aminoglycoside = Tobramycin
+
+List from UpToDate:
+
+- Antipseudomonal penicillins in combination with a beta-lactamase inhibitor include:
+  - Pip-Tazo 4.5 g every six hours or 3.375 g every four hours; the dose is usually given over 30 minutes
+- Cephalosporins with antipseudomonal activity include:
+  - Ceftazidime 2 g every eight hours
+  - Cefoperazone 2 g every 12 hours (not available in the United States)
+- Fluoroquinolones:
+  - Ciprofloxacin 400 mg every eight to twelve hours
+  - Levofloxacin has no advantage over Ciprofloxacin in anti-pseudomonal coverage and is primarily indicated for the treatment of respiratory tract infections. However, levofloxacin (750 mg daily) can reasonably be used in the rare situation of a polymicrobial infection that includes susceptible strains of streptococci and P. aeruginosa. We do not advise using other quinolone agents such as Moxifloxacin for treatment of P. aeruginosa.
+- Carbapenems:
+  - Meropenem 1 g every eight hours
+- Alternative antibiotics — Intravenous Colistin and Polymixin B may be effective alternative agents for treatment of multidrug-resistant P. aeruginosa. As an example, in a study of 22 patients with metallo-beta-lactamase-producing Pseudomonas infections, the use of IV colistin was associated with a favorable response, but mild nephrotoxicity occurred in two-thirds of patients. It was concluded that colistin may be a useful drug when choices are limited.
+
+### 9. What is the clinical triad of septic arthritis? Describe typical findings in joint aspiration + radiography.
+
+Triad = Fever, Pain, decreased ROM
+
+| Non-inflammatory | Inflammatory | Septic | Hemorrhagic |
+|------------------|--------------|--------|-------------|
+| Color            | Clear/yellow | Yellow/white | Cloudy/opaque | Opaque, may contain fat droplets |
+| Viscosity        | Thick, stringy | Variable | Thin, watery | Variable |
+| Synovial white blood cells | 200 to 2000/mm³ | <25,000/mm³ +LR for SA = 0.32 | 2000 to 50,000/mm³ <50,000/mm³ +LR for SA = 0.42 | >25,000/mm³ +LR for SA = 2.9 >50,000/mm³ +LR for SA = 7.7 >100,000/mm³ +LR for SA = 28 | <2000/mm³ |
+| Synovial polymorphonuclear cells | Variable | Variable | >90% +LR for SA = 2.7 | <25% |
+| Gram stain       | Negative     | Negative | 29% to 65% positive | Negative |
+| Leading diagnosis | Osteoarthritis | Gout, reactive arthritis | Bacterial Arthritis | Trauma, Hemophilia |
+
+X-ray:
+
+- Soft tissue swelling
+- Subchondral bone destruction
+- Periosteal new bone
+- Loss of joint space
+- Osteoporosis
+- Late joint space narrowing
+
+See Table 106.4 in Rosen’s 9th Edition.
+
+### 10. List 5 complications of septic arthritis
+
+- Joint Complications:
+  - Destruction of articular cartilage
+  - Destruction of joint
+  - Ankylosis
+  - Growth plate disruption or destruction
+  - AVN, especially from vascular occlusion in neonatal femoral heads
+  - Surrounding structure infection:
+    - Bursae
+    - Tendons
+    - Ligaments
+    - Muscles
+    - Skin
+
+- Systemic Complications:
+  - Sepsis
+  - Endocarditis
+  - Pneumonia
+  - Abscesses
+
+### 11. What is the triad of disseminated Gonococcal disease?
+
+- Gonococcal disease can present as either:
+  - Mono-oligoarticular arthritis
+  - True disseminated gonococcal infection (sometimes termed arthritis-dermatitis syndrome: bacteremia, diffuse migratory arthralgias, characteristic skin lesions, and tenosynovitis)
+  - Cervical, urethral, rectal, and pharyngeal cultures are positive in up to 75% of cases, so all mucosal orifices of the patient (and partner, if possible) should be cultured appropriately
+- Classic triad:
+  - Migratory polyarthritis
+  - Tenosynovitis
+  - Dermatitis
+- In disseminated gonococcal infection, the skin lesions often contain the gram-negative diplococcus. Look for involvement of hemorrhagic pustules of hands and feet.
+
+### 12. List X-ray findings of septic arthritis in a joint with a prosthesis.
+
+- Movement of the prosthesis
+- Bone erosion
+- New subperiosteal bone growth widening
+- >2-mm lucency at the bone-cement interface
+
+### 13. List 10 differential diagnoses for septic arthritis
+
+- MONOARTICULAR:
+  - Septic arthritis
+  - Gout
+  - CPPD/pseudogout
+  - Osteoarthritis
+  - Trauma, hemarthrosis
+
+- POLYARTICULAR: SYMMETRICAL:
+  - Rheumatoid arthritis flare
+  - Psoriatic arthritis
+  - Polymyalgia rheumatica
+  - Enteric arthritis
+  - Ankylosing spondylitis
+  - Hep B/C induced arthritis
+
+- POLYARTICULAR: ASSYMMETRICAL:
+  - Gonococcal arthritis
+  - Lyme arthritis
+  - ARF
+  - Reactive arthritis
+  - Viral arthritides
+
+ARF, Acute rheumatic fever; CPPD, calcium pyrophosphate dihydrate deposition Disease.
+
+### 14. Describe the empiric management of suspected septic arthritis
+
+Antibiotics for septic arthritis/osteomyelitis (same for IVDU and Sickle Cell):
+
+- Ceftriaxone + Vancomycin
+- Add pseudomonal coverage for infected prosthetic (e.g., cipro or mero or piptazo)
+
+Unless that Gram stain comes back!
+
+See Rosen’s Tables 128.1 and 128.4 in the 9th Edition.
+
+## Wisecracks
+
+### 1. What is Kocher’s Criteria?
+
+Kocher’s Criteria: Used to help the clinician determine whether a child with a limp has bacterial septic arthritis vs. transient (toxic) synovitis, a self-limited reactive swelling of the synovium of the hip associated with a viral illness.
+
+- Temp > 38.5
+- Non-weight bearing on affected side
+- WBC > 12
+- ESR > 40 (CRP >20 mg/L)
+
+Likelihood of septic arthritis (# of criteria met):
+
+- 1 : 3%
+- 2 : 40%
+- 3 : 90%
+- 4 : 99% (probably not that high, given that validation studies had a range from 60-99%)
+
+A few caveats from Uptodate:
+
+- Fever ≥38.5°C (101°F)
+- Inability to bear weight
+- White blood cell count >12,000/mm³
+- Erythrocyte sedimentation rate >40 mm per hour
+- C-reactive protein >2.0 mg/dL (20 mg/L)
+
+In small observational studies, children with four or more of these findings had bacterial arthritis of the hip 59 to 99.6 percent of the time. However, in one study where hip aspiration was performed in all patients, septic hip was diagnosed in 4 of 34 children who met one or none of these criteria. Thus, the clinician should not rely solely on these findings to identify which limping child should undergo hip ultrasound and arthrocentesis, but should take into account the entire clinical picture. Physicians with expertise in evaluating joint disease in children should be consulted for patients with equivocal findings.
+
+### 2. What is Biofilm? What is its clinical significance?
+
+Biofilm = super crazy bacterial commune!!! AKA “a highly structured community, the biofilm, which plays an important role in the pathogenesis of septic arthritis and osteomyelitis. Within the biofilm, the bacteria are at varying stages of metabolism—some are active, some are slow-growing, and some are dormant.”
+
+- Antibiotics only target metabolically active bacteria (planktonic state)
+  - Bacteria in other stages in the biofilm are MORE resistant to antibiotics
+- Gram stains only identify planktonic bacteria
+  - This is why we need to CULTURE fluid
+  - Also explains the need for surgical debridement - cut to cure (surgeon shout out!)
+
+## References
+
+- www.canadiem.org/crackcast
+- Aragon-Sanchez, J et al. Diagnosing diabetic foot osteomyelitis: is the combination of probe-to-bone test and plain radiography sufficient for high-risk inpatients? Diabet Me. 2011 Feb;2892):191-4. PMID: 21219428
+- EMRAP Dec 2017
+- Rosen’s Emergency Medicine: Concepts and Clinical Practice, 9th Edition
+- UpToDate
+```

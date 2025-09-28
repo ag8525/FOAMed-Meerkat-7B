@@ -1,0 +1,101 @@
+# Metadata
+- Source: The Bottom Line
+- Title: POCUS: Batllori
+- Original URL: https://www.thebottomline.org.uk/summaries/icm/pocus-batllori/
+- Scrape Date: 2025-07-17
+- Summary Date: AUTO_FILL_IF_AVAILABLE
+
+Randomized comparison of three transducer orientation approaches for ultrasound guided internal jugular venous cannulation
+Batllori et al. BJA 2015 doi: 10.1093/BJA/aev399
+Clinical Question
+In patients undergoing internal jugular cannulation under ultrasound guidance, does the use of an oblique compared to short- and long-axis approach increase success rate and decrease complications?
+Design
+Single centre, prospective, randomised study
+Unblinded
+Randomisation by computer-generated number list
+Followed up until catheter removed with all tips sent for culture
+Power calculation based on assumption of 60% first needle pass cannulation in Short Axis (SAX) group and to detect a 20% difference between the groups
+alpha-level 0.05, 80% power
+70 patients per group required
+Intention-to-treat analysis
+Setting
+Single hospital in Spain
+April 2012 – March 2013
+Population
+Inclusion:
+18 years and above
+Indication for IJV cannulation
+Exclusion:
+<18 years
+History of previous surgical intervention at the cannulation site
+Presence of a CVC during the past 72 hours (in the same vein as the cannulation was planned)
+Infection, haematoma or surgical emphysema close to the puncture site
+Recent cervical trauma with present neck immobilisation
+Altered haemostasis (INR >2, platelet count < 50,000)
+Agitated or uncooperative patient
+Cannulation planned to be performed outside of the surgical area
+Urgent cannulation
+231 patients screened, 220 randomised
+Common intervention
+Performed by three anaesthetists
+Structured training programme: 2 hour lecture, 1 hour beside teaching, 1 hour supervised practice using phantom
+Previously had 10 successful cannulations in each of the three views
+Linear array probe
+Performed either in theatre or post-anaesthetic care unit
+Full asepsis.
+Real-time ultrasound guidance
+Seldinger technique for CVC insertion
+Chest radiograph performed to assess position of catheter and presence of complications
+Short-axis (SAX)
+Probe placed transversely over neck
+Needle introduced in a plane perpendicular to long-axis of transducer
+Long-axis (LAX)
+Probe place longitudinally over neck
+Needle introduced underneath footprint of probe following its long axis
+Oblique-axis (OAX)
+SAX first obtained
+Probe rotated to a position midway between SAX and LAX view
+Needle introduced underneath footprint of probe aiming from lateral to medial
+Outcome
+Primary outcome:
+First needle pass cannulation rate (needle pass was considered as any forward movement of needle without any backward movement, irrespective of skin puncture)
+Higher 1st pass success rate in OAX vs LAX (OR 3.7, CI 1.71-8)
+Higher 1st pass success rate in SAX vs LAX (OR 2.37, CI 1.16-4.86)
+No difference between OAX and SAX
+Secondary outcome:
+Number of needle passes until successful cannulation
+More needle passes required in LAX vs OAX
+More needle passes required in LAX vs SAX
+No difference between OAX and SAX
+Cannulation time measured in seconds
+Longer cannulation time in LAX vs SAX
+Incidence of mechanical complications (including arterial puncture, posterior wall puncture, pneumothorax and haemothorax)
+Higher complication rate in SAX compared to LAX and OAX
+Commonest complication was puncture through the posterior wall
+Incidence of catheter-related bloodstream infection
+2 in LAX group but not statistically significant
+Authors’ Conclusions
+OAX and SAX are better than LAX in terms of cannulation quality outcomes and that OAX is a safe and effective approach to performing IJV cannulation and should be encouraged
+Strengths
+Comprehensive training programme for operator
+Clear definition of what constitutes a needle pass
+Analysis between operators
+Weaknesses
+Small number of operators already experienced and accredited in ultrasound-guided IJV cannulation
+Elective setting
+Vast majority of insertions (87%) performed in anaesthetised patients
+The Bottom Line
+This study confirms the view that ultrasound-guided IJV cannulation is quicker and technically less demanding in SAX compared to LAX but is associated with greater risk of complication. OAX is a relatively less well-known approach which has the potential to combine the advantages of SAX and LAX but requires further evaluation and training.
+External Links
+[article]
+Randomized comparison of three transducer orientation approaches for ultrasound guided internal jugular venous cannulation
+[further reading]
+AAGBI Safer Vascular Access 2016
+[further reading]
+The oblique view: an alternative approach for ultrasound-guided central line placement
+Metadata
+Summary author:
+Adrian Wong
+Summary date: 26 October 2016
+Peer-review editor:
+Duncan Chambler

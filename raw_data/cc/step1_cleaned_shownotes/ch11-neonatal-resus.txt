@@ -1,0 +1,548 @@
+# Metadata
+- topic: 1.1 - Critical Management Principles - 11 Neonatal Resus
+- source_folder: 1.1 - Critical Management Principles
+- original_file: Ch.11 Neonatal Resus.pdf
+
+CrackCast Show Notes – Neonatal Resuscitation – March 2016 
+www.crackcast.org 
+                              
+ 
+CrackCast Episode 11 – Neonatal Resuscitation  
+ 
+Episode overview:  
+ 
+1) List the equipment needed for neonatal resuscitation 
+2) List 5 questions to ask the mother during an imminent delivery 
+3) Describe the components of the initial assessment of the newborn (APGAR) 
+4) What is the management of meconium? 
+5) When should oxygen be used in the neonatal resuscitation period? 
+6) What is the indication for CPR in a neonate? 
+7) Describe how to perform CPR on a neonate 
+8) What are the indications for intubation of a neonate? 
+9) List 4 reasons not to resuscitate a newborn 
+ 
+Wisecracks:  
+ 
+1) What are some special considerations for resuscitating a preterm infant?  
+2) Describe the Neonatal Resuscitation algorithm 
+3) A quick review of specific neonatal disorders:  
+a) Diaphragmatic hernia 
+b) Meningomyelocele 
+c) Omphalocele 
+d) Choanal atresia 
+e) Pierre-Robin sequence 
+4) Neonatal Resuscitation Case (shownotes only) 
+ 
+ 
+1) List the equipment needed for neonatal resuscitation 
+ 
+1) PPE equipment – gown, gloves, mask etc. 
+2) blankets to warm and dry the neonate 
+3) radiant warmer 
+4) airway stuff 
+a. bulb syringe / meconium aspirator  
+b. suction catheters size 5,8,10 
+c. self-inflating BVM + reservoir bag 
+d. various BVM masks: premee, infant, etc. 
+e. laryngoscope with blades 00 , 0 , 1 
+f. 
+ET tubes with stylets: 2.5 / 3 / 3.5 / 4 
+5) airway securing gear: tape, scissors  
+6) confirmation equipment:  
+a. CO2 detector  
+CrackCast Show Notes – Neonatal Resuscitation – March 2016 
+www.crackcast.org 
+                              
+b. stethoscope  
+c. chest x-ray machine 
+7) equipment for umbilical vein catheterization 
+a. umbilical catheters # 3.5 and #5 
+b. three-way stop-cock.  
+c. provodine  
+d. drapes  
+e. PPE equipment 
+f. 
+scalpel, hemostats 
+g. suture 
+ 
+ 
+2) List 5 questions to ask the mother during an imminent delivery 
+ 
+1) What is the estimated gestational age? 
+2) Is this a multiple gestation? 
+3) Is meconium present? 
+4) Is there a history of vaginal bleeding? 
+5) Were medications given during delivery or drugs taken intrapartum?  
+ 
+ 
+3) Describe the components of the initial assessment of the newborn 
+(APGAR) 
+ 
+*In the 
+acute 
+resuscitati
+on phase 
+we really 
+only care 
+about the 
+HR and 
+respiratory 
+effort 
+ 
+APGAR = 
+Appearanc
+e, Pulse, 
+Grimace, 
+Activity, 
+Respiratio
+ns  
+ 
+CrackCast Show Notes – Neonatal Resuscitation – March 2016 
+www.crackcast.org 
+                              
+ 
+4) What is the management of meconium? 
+ 
+● Meconium in amniotic fluid = sign of fetal distress in utero  
+● Previous guidelines recommended routine suctioning of non-vigorous neonates that had 
+meconium stained amniotic fluid 
+● However, thinking has changed:  
+● Tracheal suctioning only if: 
+○ absent or depressed respirations (gasping, poor oxygenation)  
+○ poor muscle tone 
+○ HR < 100 bpm 
+● usually need two passes of ETT guided suctioning: 
+○ intubate child and place suction catheter inside ETT (to 100 mmHg suction) 
+and withdraw both to aspirate the meconium 
+● if bradycardia and apnea continue → BVM and intubate 
+ 
+Bottom line: don’t let the meconium trip you up. 
+● Treat (suction) the neonate based on either:  
+o 
+Inadequate respiratory effort or HR < 100 bpm 
+ 
+ 
+5) When should oxygen be used in the neonatal resuscitation period? 
+ 
+● oxygen is a drug, and a neonate should be initially resuscitated on room air  
+● goal is that the SP02 of a neonate be above 80% by ten minutes after birth  
+● supplemental oxygen is thought to be toxic to neonatal lungs, brains, and eyes so don’t 
+routinely give it 
+● after 15-20min SP02 goal is 90-95% NOT 100% 
+ 
+ 
+6) What is the indication for CPR in a neonate? 
+ 
+CPR is started if the HR is < 60bpm ** despite adequate ventilation for 30 seconds** 
+ 
+ 
+7) Describe how to perform CPR on a neonate 
+Either the encircling hands technique or two fingers on the lower 
+⅓ of the sternum. But the encircling hands generates higher 
+systolic and coronary perfusion pressures 
+Don’t forget the 5 Ps! 
+Ratio is 3:1 
+ 
+CrackCast Show Notes – Neonatal Resuscitation – March 2016 
+www.crackcast.org 
+                              
+8) What are the indications for intubation of a neonate? 
+ 
+Same as adults but a few more: 
+● respiratory distress 
+● increased work of breathing (retractions) 
+● desaturations 
+● tachypnea 
+● administration of surfactant via ETT 
+ 
+9) List 4 reasons not to resuscitate a newborn 
+1) <23 weeks gestational age 
+2) <400 g birthweight 
+3) confirmed anencephaly 
+4) trisomy 13 
+5) trisomy 18 
+ 
+If unsure start resuscitation!  
+ 
+Wisecracks:  
+ 
+1) What are some special considerations for resuscitating a preterm infant?  
+ 
+Rosen’s in Perspective: 
+ 
+Key principles to guide resuscitation: 
+1) newborns have rapidly changing cardiopulmonary physiology, and as such have: 
+a. their own unique vital signs 
+b. unique stress responses 
+2) focus entirely on respiratory management (not cardiovascular) 
+3) need special equipment 
+ 
+Three key components of neonatal physiology:  
+ 
+1) Hypoxia 
+2) Hypothermia 
+3) Hypoglycemia  
+ 
+Pathophysiology of the transition for intra to extrauterine life  
+ 
+● Two changes must occur: 
+1) removal of fluid from unexpanded alveoli to allow ventilation 
+CrackCast Show Notes – Neonatal Resuscitation – March 2016 
+www.crackcast.org 
+                              
+2) redistribution of cardiac output to provide lung perfusion because: 
+■ the fetal lung is poorly perfused 
+■ due to vasoconstriction (only 40% of the RV cardiac output goes to the 
+lung) 
+○ most to the pulm. artery → ductus arteriosus → descending aorta 
+● At birth 
+○ baby breathes → alveolar oxygen decreases pulmonary vascular resistance 
+■ the fetal shunt through the ductus arteriosus closes (due to increased 
+systemic vascular resistance)  
+■ shunt usually closes by 15 hrs of age 
+○ after shunt closes all the RV output goes to the lungs 
+○ **with hypoxia or acidosis the pulmonary vascular bed constricts and the 
+ductus may reopen** 
+■ this leads to persistent fetal circulation 
+● *** resuscitation facilitates the first few breaths - and prevents and reverses ongoing 
+hypoxia and acidosis -- is essential to the transition to extrauterine life *** 
+ 
+● Key points: 
+○ respirations do not necessarily =  adequate ventilation 
+○ hypoxia = cyanosis, lethargy, unresponsiveness 
+○ bradycardia (HR < 100 bpm)  = inadequate oxygenation and ventilation  
+○ pulse oximetry will not be normal in a neonate until >15 mins  
+○ bradycardia = hypoxia  
+ 
+ 
+Hypothermia: 
+● newborns are unable to generate heat by shivering and cannot retain heat due to low fat 
+stores and large body surface area 
+● at risk for heat loss due to amniotic, wet fluid covering, the cool hospital environment 
+● low temperatures lead to: 
+○ metabolic acidosis 
+○ increased 02 consumption 
+○ hypoglycemia 
+○ apnea 
+● Treatment: dry and warm the baby! 
+ 
+Hypoglycemia  
+● peripheral glucose < 40 mg/dL (~2.5 mmol/L) 
+● at risk due to: 
+○ poor glycogen stores 
+○ immature liver enzymes 
+○ diabetic mothers 
+○ preemies or small for GA 
+CrackCast Show Notes – Neonatal Resuscitation – March 2016 
+www.crackcast.org 
+                              
+● develops in response to: 
+○ resp. illness 
+○ hypothermia 
+○ polycythemia  
+○ asphyxia 
+○ sepsis  
+● may be asymptomatic! 
+● symptoms: 
+○ apnea, colour changes, resp. distress, lethargy, jitteriness,  seizures, acidosis 
+○ poor myocardial contractility  
+ 
+ 
+2) Describe the Neonatal Resuscitation algorithm 
+ 
+Simply put there is: 
+ 
+1) Preparation 
+● get the right people 
+● get the right stuff 
+ 
+2) 5 steps of resuscitative delivery 
+ 
+ 
+Dr. Lipp’s memory aid:  
+ 
+ “WARM PASS neonate;  
+Ventilate then Intubate:  
+Compress LOW Rate 
+avoid a cold fate” 
+ 
+ 
+● WARM/dry 
+● PASS- position, assess, stimulate, suction 
+ventilate - use CPAP or PPV with any signs of resp. distress 
+● intubate - if you are going to suction, do CPR, or BVMs aren’t effective 
+● compress at low rate - if any bradycardia start CPR at <60 bpm 
+● to avoid a cold fate - if there is neonatal asphyxia and ROSC after resuscitation start 
+therapeutic hypothermia  
+ 
+Step 1: time 0-30 sec: warm, position, suction, stimulate, assess 
+ 
+● dry off amniotic fluid ASAP 
+● replace with warm blankets 
+CrackCast Show Notes – Neonatal Resuscitation – March 2016 
+www.crackcast.org 
+                              
+● position to achieve maximum air entry 
+○ put the neck in slight extension  (put a folded towel under the infant’s shoulders) 
+● suction only if: 
+○ meconium present AND: 
+■ poor tone, poor respirations 
+■ bradycardia,  
+○ large volume of secretions  
+○ ***deep suctioning can lead to vagal stimulation = bradycardia/apnea*** 
+● stimulate by rubbing feet, back, etc.  
+● assess: 
+○ in the first 30 seconds: 
+■ baby’s response to warming, drying and stimulation  
+■ HR 
+● Palpate stump, listen, ECG 
+○ if HR <100 or apnea 
+■ start PPV (see step two) 
+■ if no response and HR<60 start CPR 
+○ APGAR scores:  
+○ **in the acute resuscitation all we should care about is the HR and respiratory 
+effort** 
+ 
+Step 2: 60-120 sec: ventilation, oxygen, intubation 
+ 
+● any cyanosis or respiratory distress: 
+○ start CPAP or PPV 
+■ first breaths need 30-40 mmHg, subsequent need 20 mmHg 
+■ RR 40-60 breaths/min 
+■ if you bag for >2 mins, put in an OG tube 
+■ use room air initially 
+■ ***know that the O2 sat. doesn’t reach >90% until more than 10 mins 
+○ indications for intubation: 
+■ need for tracheal suctioning  
+■ ineffective BVM 
+■ CPR started 
+○ if there is any deterioration post intubation: 
+■ think through the DOPE list (displacement, obstruction, pneumothorax, 
+equipment failure) 
+■ revert to BVM or insert an LMA 
+ 
+Step 3: 180 sec – onwards: chest compression 
+ 
+● bradycardia in a neonate is an indication of hypoxemia 
+● ***any neonate with HR <60 despite adequate oxygenation and ventilation for a least 30 
+seconds should get CPR 
+CrackCast Show Notes – Neonatal Resuscitation – March 2016 
+www.crackcast.org 
+                              
+○ rate: 90 bpm with 30 vents / min 
+○ ratio of 3:1 in general 
+■ if it's thought to be a cardiac cause then the 15:2 ratio can be used.  
+○ use the encircling hands technique  
+■ compress ⅓ the AP depth 
+■ reassess every 30-60 seconds 
+■  
+Step 4: resuscitative medications 
+ 
+● medications are indicated: 
+○ bradycardia/asystole 
+○ hemorrhage  
+● suitable medications: 
+ 
+1) Oxygen 
+○ use for persistent bradycardia 
+○ use for respiratory distress lasting 90 seconds (after all the other measures have 
+been attempted (controversial)  
+2) Epinephrine 
+○ indications: 
+i) 
+asystole 
+ii) 
+HR < 60 despite effective ventilations with 100% O2 and CPR 
+○ ideally administered IV 
+i) 
+dose: 
+(1) 0.01 to 0.03 mg/kg OR 
+(2) 0.1 ml to 0.3ml/kg of 1:10000 
+ii) 
+repeat q3-5mins 
+○ if the ET route is used a higher dose is needed (0.1mg/kg) 
+3) Naloxone 
+○ only for the neonate who is adequately ventilated 
+○ great for the mother who received opioids during labour 
+○ shouldn’t be used for the narcotic addicted mother: 
+i) 
+it may precipitate withdrawal seizures  
+○ dose: 0.1mg/kg IV, IO, or SC or IM 
+○ repeat dosing at 4 hrs may be needed 
+4) Glucose 
+○ should be checked on every newborn 
+○ any glucose < 3.5 mmol/L with symptoms should be treated: 
+i) 
+symptoms: 
+(1) irritability 
+(2) tremors 
+(3) jitteriness 
+(4) apnea 
+(5) tachypnea 
+CrackCast Show Notes – Neonatal Resuscitation – March 2016 
+www.crackcast.org 
+                              
+(6) seizures 
+(7) cyanosis 
+(8) lethargy 
+(9) poor feeding 
+○ treatment:  
+i) 
+IV glucose  
+(1) D10W 2-5 ml/kg, with an infusion of D10W at 80-100 ml/kg/day 
+ii) 
+higher concentrations of glucose should be avoided because they are 
+hyperosmolar 
+iii) 
+**encourage breast or bottle feeds** 
+○ asymptomatic neonates with very low glucoses (<~2.6) should be treated 
+empirically 
+5) volume expanders  
+○ indicated with signs of acute bleeding or hypovolemia (cyanosis despite 
+resuscitation, shock, CPR required) 
+○ use O- PRBCs - 10 ml/kg 
+○ NS 
+○ Ringers 
+6) dopamine 
+○ rarely indicated 
+○ infused at 5-20 mcg/kg/min 
+ 
+Vascular access: 
+● immediate access through the umbilical vein← best choice 
+● femoral line 
+● IO access (although very challenging due to fragile bones) 
+ 
+Medications that should NOT be used routinely: 
+● albumin 
+● dopamine  
+● calcium 
+● bicarbonate 
+● atropine 
+ 
+Step 5: Therapeutic hypothermia 
+ 
+● for early neonatal asphyxia: 
+○ symptoms: altered LOC, seizures, hypovolemia, hyporeflexia 
+○ in mod-severe hypoxemic encephalopathy: selective cerebral hypothermia in 
+asphyxiated infants may protect against brain injury 
+○ hypothermia at 33.5-34.5 degrees in the neonatal population leads to lower 
+mortality and less neurologic disability at 18 months of age 
+■ **controversy whether whole body vs. head alone should be cooled** 
+○ start cooling within 6 hrs of birth and continue for 72 hrs 
+CrackCast Show Notes – Neonatal Resuscitation – March 2016 
+www.crackcast.org 
+                              
+ 
+ 
+ 
+3) A quick review of specific neonatal disorders:  
+ 
+● Diaphragmatic hernia 
+● Meningomyelocele 
+● Omphalocele 
+● Choanal atresia 
+● Pierre-Robin sequence 
+ 
+Diaphragmatic Hernia: 
+● as soon as diagnosed, the child should be intubated!  
+CrackCast Show Notes – Neonatal Resuscitation – March 2016 
+www.crackcast.org 
+                              
+● ventilation distends the stomach and worsen respiratory distress because it is in the 
+chest cavity 
+ 
+Meningomyelocele/Omphalocele: 
+ 
+● should not be placed on the their backs: 
+○ put on their sides / stomachs 
+● cover the spinal defect in sterile gauze pads soaked in warm sterile saline 
+ 
+● infants with gastroschisis or omphalocele should be resuscitated and have the defect 
+covered in plastic to decrease water and heat loss 
+ 
+Choanal Atresia: (absence of nasal passageways) 
+● leads to bilateral upper airway obstruction and respiratory distress 
+● diagnosed by inability to pass catheter through either nare: 
+○ Treatment: intubate or oral airway 
+ 
+Pierre-Robin Sequence: 
+● genetic disease 
+● small jaws, large tongue = upper airway obstruction 
+● Treatment 
+○ nasal or oral airway 
+○ intubation → may fail so be ready with LMA 
+ 
+ 
+4) Neonatal Resuscitation Case 
+ 
+You are working in a community ED. A code pink is called: g2p1 -- 36 weeks with the head 
+visible.  
+ 
+Elevator thoughts: get the right people, the right stuff 
+ 
+On arrival the infant is cyanotic, limp, with poor resp. effort: 
+● Cut and clamp the cord 
+● Dry, warm, stimulate!! 
+pale, poor resp effort, HR 40  
+● how do you measure HR?: 
+○ auscultation 
+○ three lead ECG 
+○ umbilical stump palpation 
+● Start PPV! with room AIR 
+○ only increase the FiO2 ratio later on in the resuscitation.  
+no response after 30 seconds.  
+● ways to make ventilation better 
+CrackCast Show Notes – Neonatal Resuscitation – March 2016 
+www.crackcast.org 
+                              
+○ “MR SOPA” 
+■ mask reposition 
+■ suction 
+■ open mouth 
+■ increase pressure 
+■ acquire airway 
+● intubate 
+● use an LMA 
+No response 
+● start CPR: 
+○ sequence and timing for compressions and  ventilations “1-2-3 breathe, 1-2-3- 
+breath” 
+● give glucose 
+● give narcan 
+● start epinephrine.  
+ 
+ 
+Normal values: 
+● HR 100-180 
+● RR 40-60 
+● SP02 at 10 mins 85-90% 
+○ 60% at 1 min 
+ 
+Initial steps: 
+● now have 1 min to start PPV 
+○ stimulate, position, suction airway, dry and WARM.  
+● PPV: 
+○ count it out: 
+■ “Breathe - 2 -- 3; breathe - 2-- 3-”  
+■ RR 40-60 goal 
+● IF HR < 60 despite CPR 
+○ give epi 
+○ NS bolus 10 ml/kg 
+○ consider needle decompression 
+● Venous access issues: 
+○ IO generally not that reliable  in the first few days of life 
+○ umbilical line 
+■ look for the SMILE 
+● the arteries are symmetric like eyes.  
+● put it in the irregularly shaped structure.  
+■ take a 5 FR flushed line with a stopcock insert to 5 cm, then check for 
+blood return, insert till you get blood back, then get someone to hold the 
+catheter in place 
+● ET tube: 
+CrackCast Show Notes – Neonatal Resuscitation – March 2016 
+www.crackcast.org 
+                              
+○ don’t give narcan via ET tube 
+○ epi can be given at a higher dose.  
+ 
+ 

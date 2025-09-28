@@ -1,0 +1,77 @@
+# Metadata
+- Source: The Bottom Line
+- Title: POCUS: Kristensen
+- Original URL: https://www.thebottomline.org.uk/summaries/icm/pocus-kristensen/
+- Scrape Date: 2025-07-17
+- Summary Date: AUTO_FILL_IF_AVAILABLE
+
+A randomised cross-over comparison of the transverse and longitudinal techniques for ultrasound-guided identification of the cricothyroid membrane in morbidly obese subjects
+Kristensen et al. Anaesthesia 2016 DOI: 10.1111/anae.13465
+Clinical Question
+In medically-qualified anaesthetists, does the use of the transverse ultrasound technique compared to the longitudinal orientation result in faster identification of the cricothyroid membrane?
+Design
+Single centre, prospective, randomised study
+Unblinded
+Randomisation by computer-generated number sequence
+Video recordings to ensure accurate timings obtained
+Power calculation based on ability to detect a one-third difference between the group assuming a mean time to locate the cricothyroid membrane of 55.4 seconds (based on previous work)
+alpha-level 0.05, 90% power
+40 anaesthetists required
+Setting
+Single hospital in Copenhagen, Denmark
+26 November 2015 – 26 December 2015
+Population
+Inclusion:
+Clinically-active, medically-qualified anaesthetists
+Certified or in-training
+42 anaesthetists participated
+10 in training
+37 would use US at least weekly
+40 have never used US examination for airway management prior to study
+Common intervention
+Anaesthetists provided training in 2 techniques by:
+20 minute e-learning module
+30 minute didactic lecture
+10 minute hands on practice with airway ultrasound expert
+Each anaesthetist would perform US examination in 1 of 2 obese patient
+Each anaethetist performed US guided localisation with both methods, with the sequence of methods randomly allocated
+Transverse (TAX)
+Probe placed transversely over neck
+TACA (Thyroid cartilage, Airline i.e. cricothyroid membrane, Cricoid cartilage) technique to identify
+Video
+Longitudinal (LAX)
+Probe place longitudinally over neck
+Video
+Outcome
+Primary outcome: Time to identification of cricothyroid membrane
+Faster in TAX compared to LAX (24 secs vs 37.6 secs, p = 0.0003)
+Secondary outcome: Success rate of identification
+No difference (90% success rate in identification of cricothyroid membrane overall)
+Authors’ Conclusions
+The cricothyroid membrane could be identified using ultrasound technique, either longitudinal or transverse orientation, and should be mastered and utilised by anaesthetists in cases where the cricothyroid membrane cannot be identified by landmarks or palpation.
+Strengths
+Randomised, controlled trial
+Comprehensive training programme for subjects
+Comparison between 2 widely recognised techniques for ultrasound-guided cricothyroid identification
+Majority of subjects although familiar with US had never used it for airway management
+2 point verification process – immediate by bedside and high-definition video recording
+Weaknesses
+Scans performed on 2 subjects
+Unclear methodology with regards to scan sequence and crossovers
+The Bottom Line
+This study highlights the usefulness of ultrasound in identification of the cricothyroid membrane in airway management. Like the use of ultrasound in vascular access, optimal and preferred probe orientation will be dependant on various individual factors.
+External Links
+[article]
+A randomised cross-over comparison of the transverse and longitudinal techniques for ultrasound-guided identification of the cricothyroid membrane in morbidly obese subjects
+[further reading]
+Ultrasound in airway management
+[further reading]
+Role of ultrasound in the airway management of critically ill patients.
+[further watching]
+Ultrasound to assist cricothyroid identification
+Metadata
+Summary author:
+Adrian Wong
+Summary date: 20 October 2016
+Peer-review editor:
+David Slessor

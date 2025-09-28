@@ -1,0 +1,334 @@
+```yaml
+title: "CrackCast Episode 10: Pediatric Resuscitation"
+url: "www.crackcast.org"
+date: 2016-02
+source: "CanadiEM – CrackCast"
+original_file: "Ch.10 Peds resus.pdf"
+summary: |
+  The document provides a comprehensive overview of pediatric resuscitation, focusing on CPR techniques for infants, Pediatric Advanced Life Support (PALS) algorithms for cardiac arrest, bradycardia, tachycardia, and septic shock, as well as the dosing and indications for core pediatric resuscitation medications. It highlights the importance of high-quality CPR, the use of epinephrine, and the consideration of reversible causes during resuscitation. The document also addresses Sudden Infant Death Syndrome (SIDS), listing risk factors and prevention strategies, and discusses the management of SIDS deaths. Additionally, it defines Apparent Life Threatening Events (ALTE) and outlines potential causes, emphasizing the need for thorough evaluation and safe discharge criteria. The document concludes with insights into pediatric cardiac arrest epidemiology, pathophysiology, and specific considerations for atropine and succinylcholine use, as well as anatomical features relevant to pediatric intubation.
+```
+
+## Overview
+
+### Episode Overview
+
+1. Describe the CPR technique for an infant
+2. Describe the PALS cardiac arrest, bradycardia, and tachycardia algorithms
+3. Describe the PALS septic shock algorithm
+4. List the dose and primary indication for core pediatric resuscitation medications
+5. What are 8 risk factors for Sudden Infant Death Syndrome (SIDS)?
+6. List 8 strategies for preventing SIDS
+7. Describe the management of a SIDS death
+8. Define Apparent Life Threatening Events (ALTE) and list 10 causes
+
+## Core Questions
+
+### Describe the CPR technique for an infant
+
+Rosen’s advocates for the “encircling” hands technique in infant CPR, which according to animal models gives better hemodynamics than using the standard two-finger technique.
+
+Remember the high-quality CPR mantra: "push hard, push fast at a rate of at least 100 bpm, minimize interruptions, allow full chest recoil, do not over-ventilate."
+
+### Describe the PALS cardiac arrest, bradycardia, and tachycardia algorithms
+
+#### PALS Cardiopulmonary Arrest
+
+- High-quality CPR (at least 100 bpm)
+- Attach patient to monitor, attempt IV access
+- Ventilations at a rate of 10-12 breaths per minute
+- Shock shockable rhythm at 2-4 J/kg
+- Epinephrine 0.01 mg/kg every 3-5 minutes
+- Pulse/rhythm checks every 2 minutes
+- Think through reversible causes (Hs and Ts)
+
+#### Chest Compression to Ventilation Ratio
+
+- No ideal ratios are known; recommendations made based on educational theory and physiology
+- Less O2 is needed during arrest
+- In adults, the ratio is 30:2
+- In kids (infants and children):
+  - 1 rescuer CPR: 30:2
+  - 2 rescuer CPR: 15:2
+- Neonates: 3:1
+- Once an advanced airway is in place, the goal is 8-10 breaths per minute.
+
+#### Pediatric VF or VT
+
+- Much less common than PEA or asystole
+- Common etiologies:
+  - Infectious cardiomyopathies, congenital heart disease, WPW, channelopathies, electrolyte abnormalities
+  - Another specific pediatric entity: "asphyxia-associated VF" in foreign body aspirations, or drowning cases
+- Outcomes after initial VF/VT rhythm are good (~25%)
+- 10% decrease in survival for each minute that VF/VT is not defibrillated
+
+#### PALS Bradycardia
+
+Treat bradycardia with poor perfusion, altered mental status, hypotension, or shock
+
+1. Supplemental O2 and assist respiration if needed
+2. Start CPR if heart rate less than 60 if signs of hypotension (kids can’t change their contractility as much as adults, thus are rate dependent)
+3. Give epinephrine 0.01 mg/kg IV/IO Q3-5min
+4. Atropine 0.02 mg/kg IV/IO
+   - Min dose 0.1 mg
+   - Max dose 0.5 mg
+   - May repeat x 1
+5. Consider trans-cutaneous or trans-venous pacing
+
+#### PALS Tachycardia
+
+1. Are they stable or unstable?
+2. QRS Wide or Narrow?
+
+- QRS > 90ms (2.25 small boxes) - possible VT
+- QRS < 90ms - probably SVT if history of abrupt rate change, absent/abnormal p-waves, non-variable HR, HR > 220 in infants or 180 in children
+- Probably sinus tach if history of known cause, normal p-wave morphology, variable R-R, constant P-R interval, HR < 220 in infants, or 180 in children
+
+3. **Unstable = shock 0.5-1 J/kg, increase to 2 J/kg if ineffective**
+4. Stable wide complex tachycardia - consider adenosine if regular rhythm and monomorphic (do not delay defibrillation though… if unsure use electricity)
+   - Adenosine 0.1 mg/kg rapid IV push, max 6 mg
+   - Second dose 0.2 mg/kg rapid IV push, max 12 mg
+   - Amiodarone 5 mg/kg IV/IO over 20-50 minutes OR procainamide 15 mg/kg IV/IO over 30-60 minutes
+5. Narrow complex - probable SVT
+   - Consider vagal maneuvers - ice bath, carotid sinus massage, or any Valsalva (REVERT trial?)
+   - Adenosine as above or synchronized DCCV if no vascular access
+6. If probable sinus tachycardia: search for and treat the cause NOT the HR
+
+### Describe the PALS septic shock algorithm
+
+Figure 10-4. Algorithm for time-sensitive, goal-directed stepwise management of hemodynamic support for infants and children with septic shock. Rosen’s 8th Edition. Page 107.
+
+### List the dose and primary indication for core pediatric resuscitation medications
+
+- **Adenosine**: 0.1 mg/kg – rapid IV push - for probable SVT, max first dose 6 mg; 0.2 mg/kg – second dose, max second dose 12 mg
+- **Amiodarone**: 5 mg/kg - for stable wide complex tachycardia; for persistent pulseless VF/VT
+- **Atropine**: 0.02 mg/kg - for persistent unstable bradycardia
+- **Calcium**: CaCl - 20 mg/kg - for hypocalcemia, hyperkalemia
+- **Dextrose**: 0.5-1 g/kg IV/IO - for hypoglycemia (adults D50; kids generally D25)
+- **Dobutamine**: 2-20 mcg/kg/min - for cardiogenic shock
+- **Dopamine**: 2-20 mcg/kg/min - shock and hypotension
+- **Epinephrine**: 0.01 mg/kg - for persistent unstable bradycardia; or PEA, pulseless VF/VT despite defibrillation, or shock; 0.01-1 mcg/kg/min - for shock
+- **Furosemide**: 1 mg/kg - for pulmonary edema
+- **Lidocaine**: 1 mg/kg - as a pre-treatment agent for intubation in increased ICP, infants
+- **Magnesium sulfate**: 25-50 mg/kg - for Torsades or refractory VF/VT
+- **Naloxone**: 0.01 - 0.1 mg/kg - for opiate overdose
+- **Norepinephrine**: 0.05 - 2 mcg/kg/min - for shock (septic particularly)
+- **Procainamide**: 15 mg/kg for stable wide complex tachycardia
+- **Sodium bicarbonate**: 1-2 mEq/kg - for profound metabolic acidosis or Na channel blocker overdose (e.g. TCA)
+
+Two more medications that Rosen’s lists:
+
+- **Alprostadil (PGE1)** - Prostaglandin: used for ductal dependent congenital heart disease; infusion: start at 0.05 - 0.1 mcg/kg/min; can cause apnea
+- **Milrinone**: for bad cardiogenic shock to decrease SVR and PVR
+
+### What are 8 risk factors for Sudden Infant Death Syndrome (SIDS) and describe its epidemiology
+
+#### Risk factors for SIDS:
+
+1. Between 1-12 months of age
+2. Low socioeconomic status
+3. Multiple gestation pregnancy
+4. Male
+5. Prone sleeping
+6. Exposure to second-hand smoke
+
+#### Epidemiology:
+
+- 3rd leading cause of death in infants
+- Most common cause of death in children < 1 yr
+- Can occur anytime before age 2
+  - Rare < 1 month or > 1 yr.
+  - Peak 2-4 months of age
+  - No association between Apparent Life Threatening Events (ALTE) and SIDS
+  - In the ED:
+    - Rarely benefit to CPR or resuscitation (baby is already dead)
+    - Primary role is to support the family
+    - Blood and urine samples but rarely helpful
+- Most SIDS due to genetic variants in ion-channels/proteins
+- Autopsy usually done
+- Psychological considerations:
+  - ER physician should be clear, pediatrician backup may be helpful
+  - Parents feel intense guilt and burden
+    - Many have increased rates of infertility, miscarriage, and divorce post SIDS
+  - Parental support is key
+  - For more see the AAP guideline: “death of a child in the ED”
+
+### List 8 strategies for preventing SIDS
+
+1. Avoid smoking, alcohol, or illicit drugs in the home
+2. Regular prenatal care
+3. Supine sleep position
+4. Empty crib, on a flat surface, and no sleep positioners (i.e. wedges)
+5. Firm sleeping surface
+6. Room-sharing but no bed-sharing
+7. Avoid overheating
+8. Pacifier use decreases risk
+
+### Describe the management of a SIDS death
+
+See the AAP guideline: “Death of a child in the ED”: [AAP Guideline](http://pediatrics.aappublications.org/content/134/1/e313)
+
+Standard protocol includes an autopsy, death scene investigation, clinical and family history.
+
+### Define and list 10 causes of Apparent Life Threatening Emergencies (ALTE)
+
+- ALTE = “a description of a clinical presentation”
+- Not clearly defined
+  - Very challenging for ER docs because the events range from minor to life-threatening
+  - Up to 50% of cases have no definitive diagnosis
+
+#### 10 Causes of ALTE
+
+1. Infection
+2. GERD
+3. Congenital pulmonary or vascular malformations
+4. Seizure disorders
+5. Cardiac dysrhythmias
+6. Metabolic issues (i.e. hypoglycemia)
+7. Head injury / non-accidental trauma
+8. Apnea NYD
+9. Breath holding
+10. Reactive airways
+
+#### Etiology (more detailed):
+
+- Infection
+  - Sepsis
+  - RSV / other resp. viruses - 9%
+  - Febrile convulsion - 12%
+  - Pertussis - 6%
+  - UTI
+- GERD - 18%
+  - With or without obstructive apnea
+- Congenital malformations
+  - Tracheomalacia, vascular rings, pulmonary slings
+- Seizure disorder - 25%
+- Cardiac dysrhythmias
+- Congenital cardiac malformations - 2%
+- Metabolic
+  - Hypoglycemia
+- Child abuse/ non-accidental trauma (NAT)
+  - NAT don’t ever forget!!!!
+- Apnea - 9%
+- Asthma / head injury / feeding difficulties / breath holding
+
+- ALTE child may look totally normal at the time of ED presentation (50% of the time) but any non-hospital person who witnessed choking or cyanosis should be taken seriously
+- ED evaluation depends on hx and physical exam
+- Investigations +/-:
+  - CBC, glucose, lytes, urine/blood cultures
+  - Tox screen, ECG
+  - +-CT, CXR,
+- Children < 60 days should undergo thorough screening for infection with//without pediatrics assessment
+  - EMRAP Claudius and Keens suggests kids <1 month be admitted
+- Outcome:
+  - Variable depending on etiology
+  - One retrospective review of 196 pts. showed no deaths: mostly asthma, GERD, and seizures
+  - Most well-appearing infants can be discharged with close follow-up
+- Safe discharge criteria: according to Fu and Moon
+  - Brief, non-severe, and resolving episode
+  - Non-progressive cause - GERD
+  - No comorbidities
+  - No previous ALTEs in 24 hrs
+
+## Wisecracks
+
+### Epidemiology and pathophysiology of pediatric cardiac arrest
+
+#### Epidemiology:
+
+- Rare compared with adults
+- Most common causes:
+  - SIDS – 25%
+  - Traumatic – 20%
+  - Drowning – 15%
+- Outcome of pediatric cardiac arrest
+  - In hospital – ROSC 50 -60%
+    - Survival to hospital discharge 9-27%
+  - Out of hospital – ROSC 18-50%
+    - Survival to hospital discharge 6-9%
+- Much of the survival depends on patient-specific factors (reason for arrest) but also is affected by system factors (number of trained personnel on hand)
+
+#### Pathophysiology
+
+Three main pathways:
+
+- Asphyxia - # 1 cause
+  - Acute hypoxia/hypercarbia
+- Ischemic
+  - Insufficient myocardial blood flow
+    - Hypovolemic shock, sepsis, MI
+- Arrythmogenic <10%
+  - VF/VT
+
+#### Clinical Features
+
+- “Pulselessness, apnea, and unresponsiveness”
+- New ILCOR and AHA guidelines advise against pulse checks in kids given the frequent occurrence of bradycardia and hypovolemia
+  - ***Start CPR if 2/3 features: (e.g. apnea and unresponsive)
+  - C-A-B
+  - No pulse check or rescue breaths for lay rescuers
+    - Pulse checks: only 85% sensitive; only 64% specific (36% of the time CPR wasn't needed)
+    - Based on ECMO studies
+    - Health care workers may empirically start CPR without a pulse check
+
+#### Four phases of cardiac arrest:
+
+1. Pre-arrest
+   - Avoid the insult that caused asphyxia or ischemia
+     - Gates around swimming pools, seat belts
+     - Recognize and treat shock early
+2. No flow
+   - Untreated cardiac arrest:
+     - Recognize ASAP
+3. Low flow (aka CPR phase)
+   - Do CPR
+4. Post-resuscitation: complex number of factors involved
+   - Post-arrest brain injury
+     - Coma, seizures, myoclonus,
+     - Spectrum: full function--> brain death
+     - Probably best to keep temp <36 degrees (based on adult studies in post VF arrests) and prevent fever
+   - Post-arrest myocardial dysfunction
+     - Consider dobutamine/milrinone/levosimendan
+     - Epinephrine
+     - Fluids
+   - Systemic ischemia-reperfusion response
+   - Unresolved pathologic process that caused the cardiac arrest
+     - Treat the underlying cause if known
+
+### What does Rosen’s say about atropine and succinylcholine use in pediatric resuscitation?
+
+#### Atropine
+
+- ACEP recommendations:
+  - “Pre-treatment of children < 1 year and those undergoing intubation with succinylcholine
+- Thought to:
+  - Minimize bradycardia during intubation
+  - Very little to no evidence supporting this recommendation
+
+#### Succinylcholine
+
+- FDA as of 1992
+  - Routine use of SCh in children should be avoided except in special circumstances:
+    - Laryngospasm, full stomach, or when no IV access is available (so IM is needed)
+  - Rocuronium is preferred
+    - However, many places still use SCh for RSI…
+    - Kids need a higher dose: 2 mg/kg
+
+### What are the pertinent anatomic features of children as it relates to laryngoscopy and intubation?
+
+| Feature                | Description                                | Implication                                      |
+|------------------------|--------------------------------------------|--------------------------------------------------|
+| Size                   | Smaller, narrow field of vision            | Difficult for visually impaired providers        |
+| Adenoidal hypertrophy  | Large tonsils                              | Risk for obstruction, bleeding, etc.             |
+| Developing teeth       | Friable alveolar ridge in edentulous kids  | Risk for disruption, bleeding                    |
+| Primary teeth          | Weak in young children                     | Easily avulsed or aspirated                      |
+| Tongue                 | Large relative to oropharynx               | Obstructs                                        |
+| Anterior, superior larynx | Opening is higher at C3                  | More acute angle of the laryngeal opening = difficult to visualize |
+| Weak hyoepiglottic ligament | Base of tongue connected to epiglottis loosely | Blade in vallecula doesn't elevate the epiglottis as much |
+| Narrow, angled epiglottis | May be more difficult to mobilize       | Covers the tracheal opening                      |
+| Narrowest point        | At the cricoid cartilage instead of glottis | Tough to pass tube into the cords                |
+
+## References
+
+- [AAP Guideline](http://pediatrics.aappublications.org/content/134/1/e313)
+- European Resuscitation Council (ERC)
+```

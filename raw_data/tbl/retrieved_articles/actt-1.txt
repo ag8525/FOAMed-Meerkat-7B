@@ -1,0 +1,154 @@
+# Metadata
+- Source: The Bottom Line
+- Title: ACTT-1
+- Original URL: https://www.thebottomline.org.uk/summaries/icm/actt-1/
+- Scrape Date: 2025-07-17
+- Summary Date: AUTO_FILL_IF_AVAILABLE
+
+Remdesivir for the Treatment of Covid-19- Preliminary Report of the Adaptive COVID-19 Treatment Trial (ACTT)
+John H. Beigel et al. New England Journal of Medicine; May 22nd 2020; doi:10.1056/NEJMoa2007764
+Clinical Question
+In hospitalised adult patients with evidence of lower respiratory tract infection due to Covid-19, is remdesivir superior to placebo in shortening the time to recovery?
+Background
+The Severe Acute Respiratory Syndrome coronavirus 2 (SARS-CoV-2) was identified in December 2019 in Wuhan, China. It is a single-stranded RNA virus and has been responsible for a global pandemic, with an estimated 300,000 deaths worldwide as of May 2020
+Johns Hopkins Covid-19 Map
+There are currently no effective interventions, other than supportive management, to improve outcomes following hospitalisation with Covid-19 infection
+Remdesivir is an anti-viral medication. The active metabolite of remdesivir interferes with the action of viral RNA-dependent RNA polymerase causing a decrease in viral RNA production
+(Pharmacological treatments for COVID-19)
+Remdesivir has been shown to have activity against other serious coronavirus infections (SARS-CoV and the Middle East Respiratory Syndrome (MERS-CoV)) in animal models
+Remdesivir is therefore a potential treatment option for patients hospitalised with Covid-19 infection
+A recent RCT published in the Lancet found no difference in the time to clinical improvement, however this was stopped early
+Wang April 2020
+Design
+Double-blind, randomised, placebo-controlled trial in hospitalised patients with Covid-19 using an adaptive platform
+Patients randomised in a 1:1 ratio to receive either remdesivir or a matched placebo for up to 10 days
+Study designed to achieve 85% power for detecting a recovery rate ratio of 1.35 with a two-sided type-I error rate of 5% (recovery rate ratio is similar to hazard ratio in survival analysis)
+Randomisation stratified by study site and disease severity
+The primary outcome measure was the
+time to recovery
+, defined as the first day, during the 28 days after enrolment, on which a patient satisfied categories 1, 2, or 3 on the eight-category ordinal scale:
+1: not hospitalised, no limitations of activities
+2: not hospitalised, limitation of activities, home oxygen requirement, or both
+3: hospitalised not requiring supplementary oxygen and no longer requiring ongoing medical care (used if hospitalisation was extended for infection-control reasons)
+4: hospitalised, not requiring supplemental oxygen but requiring ongoing medical care (Covid-19 related or other medical conditions)
+5: hospitalised, requiring any supplemental oxygen
+6: hospitalised, requiring non-invasive ventilation or use of high-flow oxygen devices
+7: hospitalised, receiving invasive mechanical ventilation or ECMO
+8: death
+Primary outcome was a log-rank test of time to recovery between remdesivir and placebo, stratified by disease severity
+Primary outcome changed (on March 22nd after enrolment of 72 patients) from difference in clinical status to time to recovery
+As part of the adaptive study design, with the aim of enrolling sufficient patients to reach 400 recoveries, the data and safety monitoring board (DSMB) planned to actively monitor the interim data in order to make recommendations about early study closure or changes to the study arms
+On April 27th, the National Institute of Allergy and Infectious Diseases (NIAID) decided to make the study results public after recommendation by the DSMB, even though the trial was ongoing
+Registered on
+clinicaltrials.gov
+Setting
+60 trial sites and 13 sub-sites in the USA (45 sites), Denmark (8), UK (5), Greece (4), Germany (3), Korea (2), Mexico (2), Spain (2), Japan (1) and Singapore (1)
+Data collected from February 21 2020 until April 19 2020
+Population
+Inclusion
+:
+Adults 18 years of age or older who were hospitalised with symptoms suggestive of COVID-19 assessed for eligibility
+Participants had to have a laboratory-confirmed SARS-CoV-2 infection and had to meet
+one of the following criteria:
+Radiographic infiltrates on imaging
+Oxygen saturation (SpO2) ≤94% on room air
+Requiring supplemental oxygen, mechanical ventilation, or extracorporeal membrane oxygenation (ECMO)
+Exclusion
+:
+Alanine aminotransferase (ALT) or an aspartate aminotransferase (AST) > 5 times the upper limit of the normal range
+Impaired renal function as determined by calculating an estimated glomerular filtration rate (eGFR), or need for haemodialysis or haemofiltration
+Allergy to study product
+Pregnancy or breast-feeding
+Anticipated discharge from the hospital or transfer to another hospital within 72 hours of enrolment
+1059 patients (538 intervention and 521 control) were included in the final analysis, out of 1063 randomised
+79.8% of patients enrolled at sites in North America
+Comparing intervention vs. control groups:
+Age: 58.6 vs. 59.2
+Male: 65.1% vs. 63.6%
+Median time from symptom onset to randomisation: 9 vs. 9 days
+Race
+Asian: 14.2% vs. 10.9%
+Black or African American: 20% vs. 21.3%
+White: 51.6% vs. 54.8%
+Score on ordinal scale
+4 (hospitalised, not requiring supplementary oxygen): 12.4% vs. 11.5%
+5 (hospitalised, requiring supplementary oxygen): 41% vs. 38.1%
+6 (hospitalised, requiring non-invasive ventilation or high flow oxygen): 18.1% vs. 19%
+7 (hospitalised, receiving invasive ventilation or ECMO): 23.1% vs. 28.2%
+Intervention
+Remdesivir
+200mg IV loading dose on day 1, followed by a 100mg maintenance dose administered daily on days 2-10 or until hospital discharge or death
+Control
+Placebo
+Matched placebo administered according to the same schedule and in the same volume as the active drug
+A normal saline placebo was used at the European sites and at some non-European sites due to a shortage of matched placebo
+Management common to both groups
+Supportive care according to the standard of care for the trial site hospital
+Outcome
+Primary outcome
+:
+Patients in the remdesivir group had
+a significantly shorter time to recovery
+than patients in the placebo group
+median 11 days vs. 15 days; rate ratio for recovery 1.32; 95% CI 1.12-1.55; p<0.001
+In total, 482 patients (45.5%) recovered and 81 patients (7.6%) died
+Recovery was most pronounced in the 422 patients with a
+baseline ordinal score of 5:
+these were patients who were hospitalised and required supplemental oxygen (rate ratio for recovery 1.47; 95% CI 1.17-1.84)
+No difference
+in recovery times in patients receiving mechanical ventilation or ECMO (rate ratio for recovery 0.95; 95% CI 0.64-1.42)
+Secondary outcomes
+:
+The
+odds of improvement in the ordinal scale score
+measured at day 15 were significantly higher in the remdesivir group, when compared with the placebo group
+odds ratio for improvement, 1.50; 95% CI, 1.18 to 1.91; P=0.001
+No significant difference in mortality
+32 deaths in remdesivir arm vs. 54 deaths in placebo arm
+Kaplan-Meier estimate 7.1% (95% CI 5.0-9.9) for remdesivir vs 11.9% (95% CI 9.2-15.4) for placebo (p = 0.059)
+Hazard ratio for death 0.70 (95% CI, 0.47 to 1.04)
+No difference in patients discontinuing medication due to an
+adverse event
+between the treatment and control arms
+Authors’ Conclusions
+These preliminary findings support the use of remdesivir for patients who are hospitalised with Covid-19 and require supplemental oxygen therapy. However, given high mortality despite the use of remdesivir, it is clear that treatment with an antiviral drug alone is not likely to be sufficient
+Strengths
+Matched placebo used in the majority of patients
+Intention to treat analysis
+Patients reviewed on a daily basis and visited at home if discharged from hospital
+Randomisation stratified by study site and disease severity
+Participants from multiple countries improved the generalisability of the study results
+Safety evaluation performed
+Weaknesses
+The main driver of the treatment effect was patients who required oxygen therapy (ordinal score 5) recovering to be discharged from hospital by day 15 (ordinal score 1 or 2). There was, however, no protocolised oxygen therapy, so the threshold for administering oxygen may have differed between the remdesivir and placebo arms
+At time of randomisation 28.2% of patients in the control arm received mechanical ventilation or ECMO, vs. 23.1% in the intervention arm
+The primary outcome was initially planned as the
+difference in clinical status at day 15
+, but was changed after commencement of the study due to a longer than expected time course of Covid-19 infection. This was after 72 patients had been enrolled in the study
+Data and safety monitoring board review occurred after completion of enrolment while follow-up was still ongoing on 22nd April, so outcome data on 301 patients who had not recovered or completed 29 study days was not available
+No matched placebo used in the European sites. Blinding could have been compromised as a result. In a study in which the primary endpoint was based on clinician decision (whether or not to administer oxygen and/or discharge from hospital) this may be relevant
+The time to recovery differed from the April 2020 Lancet paper by Wang et al (21 and 23 days for remdesivir and placebo respectively) but this may be partially due to patient inclusion in the Wang study being limited to symptoms of ≤12 days
+Patients with renal failure were excluded but there was no definition of what GFR constituted renal failure
+No laboratory data was made available in the study results
+Participants only followed up for 29 days in this preliminary report so longer-term outcomes are unknown
+Baseline ordinal scores were missing in 42 patients
+The Bottom Line
+Remdesivir may be effective in shortening the time to recovery in hospitalised patients with Covid-19 infection, particularly those patients who require oxygen therapy only
+It is unclear how clinically relevant this result is, particularly in view of the methodological limitations of the study and the lack of long-term outcome data
+External Links
+[article]
+Remdesivir for the treatment of Covid-19
+[further reading]
+PulmCrit review
+[further reading]
+REBEL-EM review
+[further listening]
+FOAMcast: COVID-19: Remdesivir (ACTT-1 study)
+[further reading]
+EMNerd: The Case of the Partial Cohort
+Metadata
+Summary author: Fraser Magee
+@fraz65
+Summary date: 25/05/2020
+Peer-review editor:
+@davidslessor

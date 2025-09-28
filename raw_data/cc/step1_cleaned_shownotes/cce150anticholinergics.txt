@@ -1,0 +1,277 @@
+# Metadata
+- topic: 4.2 - Toxicology - CCE150Anticholinergics
+- source_folder: 4.2 - Toxicology
+- original_file: CCE150Anticholinergics.pdf
+
+ 
+ 
+CrackCast Show Notes – Anticholinergics – February 2017 
+www.canadiem.org/crackcast 
+CRACKCast E150–Anticholinergics 
+ 
+Key Points 
+ 
+❏ Symptoms of muscarinic receptor blockade may include delirium, mydriasis, a lack of 
+sweating, dry mucous membranes, ileus, urinary retention, hyperthermia, 
+tachycardia, and hypertension. 
+❏ Delirium may be the sole manifestation of toxicity and only one-third of patients 
+manifest all of the classic autonomic  ndings of tachycardia, dry skin and axilla, and 
+mydriasis. 
+❏ Physostigmine should be given to control severe agitation and delirium precipitated 
+by muscarinic receptor antagonism. 
+❏ Physostigmine is relatively contraindicated in patients with bradycardia or AV block in 
+the setting of possible TCA toxicity. 
+❏ Benzodiazepines should be used for symptom control when seizures occur or when 
+physostigmine is contraindicated. 
+❏ Patients who develop hyperthermia despite treatment with evaporative cooling 
+should be paralyzed, intubated, and cooled. 
+❏ Symptomatic patients should be observed until symptoms are clearly resolving. 
+Accidental ingestion with mild symptoms can be expected to improve in less than 6 
+hours. Purposeful ingestions with mild to moderate symptoms will require admission 
+to the hospital for extended observation (24 to 48 hours). 
+ 
+ 
+Core Questions 
+ 
+1) Describe the anticholinergic toxidrome 
+2) List 10 anticholinergic meds 
+3) List 15 DDx for Delirium 
+4) Describe the management of anticholinergic toxicity 
+ 
+ 
+ 
+Rosen’s In Perspective 
+ 
+Here we are usually talking about anticholinergic = antimuscarinic 
+ 
+But in general Muscarinic receptors are on smooth muscle and the autonomic nervous system 
+(SLUDGE & BBB) 
+ 
+Nicotinic receptors are on skeletal muscle NMJ 
+ 
+Anticholinergic  “Red as a beet 
+Dry as a bone 
+Blind as a bat 
+Mad as a hatter 
+Hot as hell 
+The bladder keeps its 
+tone and the heart runs 
+alone” 
+Antimuscarinic and 
+antinicotinic properties - 
+leading to a relative 
+sympathomimetic 
+(sympathetic overdrive 
+because cholinergic tone 
+is blocked) 
+ 
+Hyperthermia, cutaneous 
+flushing, delirium, 
+hallucinations, mydriasis, 
+urinary retention, and dry 
+skin and mucous 
+membranes 
+Antihistamines, tricyclic 
+antidepressants, 
+cyclobenzaprine, 
+orphenadrine, antiparkinson 
+agents, antispasmodics, 
+phenothiazines, atropine, 
+scopolamine, belladonna 
+alkaloids (eg, Jimson 
+Weed) 
+Supportive, based on the 
+specific agent  
+ 
+ 
+CrackCast Show Notes – Anticholinergics – February 2017 
+www.canadiem.org/crackcast 
+ 
+ 
+ 
+ 
+ 
+[1] Describe the anticholinergic toxidrome 
+ 
+Box 145.1  
+ 
+1. Mydriasis: “Blind as a bat” 
+2. Altered mental status: “Mad as a hatter” 
+3. Dry mucous membranes: “Dry as a bone” 
+4. Dry, flushed skin: “Red as a beet” 
+5. Hyperthermia: “Hot as Hades” 
+6. Urinary retention: “Full as a flask” 
+7. Decreased bowel sounds/ileus 
+8. Tachycardia 
+ 
+See Figure 145.1 In Rosen’s (9th)  
+ 
+ 
+ 
+[2] List 10 anticholinergic meds 
+ 
+In general the list you’ll see is: 
+ 
+❏ Plants 
+❏ Jimson weed 
+❏ belladonna alkaloids 
+❏ Atropine  
+❏ Scopolamine 
+❏ Antihistamines (H1 blockers)  
+❏ Dimenhydrinate  
+❏ Diphenhydramine  
+❏ Antiparkinson agents 
+❏ Benztropine (Cogentin) 
+❏ Procyclidine 
+❏ Tricyclic antidepressants 
+❏ Cyclobenzaprine 
+❏ Amitriptyline 
+ 
+Let's break this down into common antimuscarinic and antinicotinic drugs 
+ 
+Antimuscarinic agents 
+❏ Atropine 
+❏ Benztropine (Cogentin) 
+❏ Dimenhydrinate (Gravol, Dramamine) 
+❏ Diphenhydramine (Benadryl, Nytol, Advil PM, etc.) 
+❏ Doxylamine (Diclectin, Restavit, Unisom) 
+❏ Glycopyrrolate (Robinul) 
+❏ Ipratropium (Atrovent) 
+❏ Oxybutynin (Ditropan, Driptane, Lyrinel XL) 
+❏ Tiotropium (Spiriva) 
+ 
+ 
+CrackCast Show Notes – Anticholinergics – February 2017 
+www.canadiem.org/crackcast 
+❏ Tricyclic antidepressants (28 compounds with numerous trade names) 
+❏ Scopolamine 
+❏ Tropicamide 
+ 
+Antinicotinic agents 
+❏ Bupropion (Zyban, Wellbutrin) - Ganglion blocker 
+❏ Dextromethorphan - Cough suppressant and ganglion blocker 
+ 
+Plants of the Solanaceae family contain various anticholinergic tropane alkaloids, such as 
+scopolamine, atropine, and hyoscyamine 
+ 
+Plants = The most common plants containing anticholinergic alkaloids (including atropine, 
+scopolamine, and hyoscyamine among others) are: 
+❏ Atropa belladonna (deadly nightshade) 
+❏ Brugmansia species 
+❏ Datura species 
+❏ Garrya species 
+❏ Hyoscyamus niger (henbane) 
+❏ Mandragora officinarum (mandrake) 
+ 
+List source seen here 
+ 
+See Table 145.1 in Rosen’s (9th)  
+ 
+Note: In Canada the usual place you will see Doxylamine is in combination w/ pyridoxine 
+(vitamin B6) which makes Diclectin, which is used to prevent morning sickness. 
+ 
+ 
+[3] List 15 DDx for “Hot & Bothered” 
+ 
+Box 145.2: Common Differential Diagnosis Considerations With Overlapping Signs 
+and Symptoms of Antimuscarinic Toxicity 
+ 
+Differential Diagnosis Considerations 
+Toxicological 
+1. Sympathomimetic toxicity 
+2. Serotonin toxicity 
+3. Neuroleptic malignant syndrome 
+4. Lithium toxicity 
+5. Antidepressant toxicity 
+6. Antipsychotic toxicity 
+Central Nervous System 
+1. Intracranial hemorrhage (ICH) 
+2. Seizure 
+Metabolic 
+1. Hyperthyroid 
+2. Encephalopathy 
+Infectious 
+1. Sepsis 
+2. Central nervous system (CNS) infections 
+ 
+ 
+ 
+ 
+CrackCast Show Notes – Anticholinergics – February 2017 
+www.canadiem.org/crackcast 
+[4] Describe the management of anticholinergic toxicity 
+ 
+Stabilization 
+❏ Sodium bicarb for QRS widening (<100 in TCA, otherwise goal <110) 
+❏ Supportive care 
+❏ Fluid resuscitate 
+❏ Tx seizures & agitation w/ Benzos 
+❏ Aggressively treat temp (if evaporative cooling does not work, then go for intubation, 
+deep sedation and paralysis) 
+❏ Physostigmine controversial see below 
+ 
+Decontamination 
+❏ Generally not needed 
+❏ There is no role for gastric lavage, whole bowel irrigation, or hemodialysis. 
+❏ Oral activated charcoalnot indicated UNLESS: 
+❏ symptomatic patients w/ ingestion of  a highly toxic quantity of 
+antimuscarinic plant seeds  
+❏ only if the patient presents early after ingestion (<2 hours) and  
+❏ is anticipated to remain cooperative.  
+❏ **** Administering AC is best made in consultation with a medical toxicologist 
+or regional poison center. *** 
+Elimination 
+***In general no role*** 
+ 
+Antidote - Physostigmine 
+ 
+❏ reversibly inhibits cholinesterases in the both peripheral nervous system and CNS 
+❏ allows for acetylcholine accumulation and subsequent com-petition with the 
+antimuscarinic blocking agent occupying the receptor 
+❏ short half--life, approximately 20 minutes but clinical duration of physostigmine is 3 to 
+6 hours. 
+❏ Far more effective than Benzos at treating agitation / delirium 
+❏ Other cholinesterase inhibitors not used as they DO NOT CROSS BBB (eg 
+pyridostigmine, neostigmine, edrophonium) 
+ 
+Classic indications are: 
+❏ Delirium / Coma / Seizure 
+❏ risk of harming themselves or staff 
+❏ requiring ongoing physical restraint, or  
+❏ interfering with effective treatment (eg, pulling out IV lines) 
+ 
+Contraindications: 
+❏ TCA overdose 
+❏ Wideined QRS >100 
+❏ AV blocks 
+❏ Bradycardia 
+❏ Unknown co-ingestions 
+ 
+ 
+ 
+See Box 145.3 
+ 
+ 
+ 
+ 
+ 
+CrackCast Show Notes – Anticholinergics – February 2017 
+www.canadiem.org/crackcast 
+ 
+Source: FOAMCAST 
+ 
+ 
+ PODCAST Summary 
+ 
+A comparison of phisostigmine and benzoe tx of anticholernic 
+ 
+Berns & Linden 
+ 
+ 
+CrackCast Show Notes – Anticholinergics – February 2017 
+www.canadiem.org/crackcast 
+ 
+ 
+ 
+Source: FOAMCAST 
+ 

@@ -1,0 +1,804 @@
+# Metadata
+- topic: 3.5 - GI System - CrackCast-Shownotes-Episode-95-Large-Intestine
+- source_folder: 3.5 - GI System
+- original_file: CrackCast-Shownotes-Episode-95-Large-Intestine.pdf
+
+CrackCast Show Notes – Large Intestine – July 2017 
+www.canadiem.org/crackcast 
+ 
+ 
+Chapter 95 – Large Intestine 
+ 
+Episode Overview: 
+ 
+1. List features that are typical for IBS. 
+(Describe the Rome IV criteria and list 4 medications used to treat irritable bowel 
+syndrome)  
+2. What is the pathophysiology of diverticular disease? 
+3. List clinical presentations of diverticular disease. 
+4. How is diverticular disease managed in the ED? Which patients should be admitted 
+to hospital? List 3 complications.  
+5. List the types and potential causes of large bowel obstruction. 
+6. What are the four types of GI volvulus? What are the risk factors for developing each 
+type? 
+7. List the extra-intestinal manifestations of IBD. 
+8. What are the pathologic and clinical differences between UC and Crohn’s?  
+9. List 4 categories of medical therapy for IBD and give one example for each. 
+10. Describe the radiologic features of toxic megacolon. 
+11. What the potential causes of toxic megacolon? 
+12. Which conditions are associated with the development of colonic ischemia? List 4 
+precipitants of ischemic colitis in the elderly and 3 in young patients 
+13. List 4 DDx for colitis 
+14. Differentiate between acute and chronic radiation proctocolitis in pathophys and 
+clinical presentation 
+ 
+Wisecracks 
+ 
+1) What is Ogilvie’s Syndrome? List 3 RFs 
+2) Compare AXR findings in SBO with LBO 
+3) What is the difference between each Cecal and Sigmoid volvulus on AXR? How is 
+management different? 
+4) List 3 Perianal complications and 6 Extra-intestinal manifestations of Crohn’s 
+disease. 
+5) How does adult intussusception differ from peds 
+ 
+Rosen's in Perspective 
+ 
+Rosen’s jumps right into the topics we're covering today! So let’s just give you the list of what 
+we’ll be covering again! 
+● IBS 
+● Diverticular disease  
+● Volvulus 
+● Large bowel obstruction  
+● IBD 
+● Intussusception 
+● Colonic ischemia  
+● Radiation proctocolitis  
+CrackCast Show Notes – Large Intestine – July 2017 
+www.canadiem.org/crackcast 
+ 
+ 
+1) List features that are typical for IBS. 
+ 
+This is a chronic, non-life threatening disorder - causing abdo pain and weird bowel habits. 
+10-15% prevalence, and it is thought to impair one’s QOL more than diabetes or renal 
+failure!!! 
+ 
+Its defined as a “functional, somatic syndrome” because there are no physical or lab features 
+that clinch the diagnosis!  
+ 
+No known cause. Testing shows that people with IBS have abnormal electric rhythmic 
+patterns and abnormal responses to stimulation. Often associated with anxiety, depression, 
+FM, CFS, chronic pelvic pain, sexual abuse, menstrual cycle variations.  
+ 
+Routine laboratory studies (complete blood count, chemistries) are normal in IBS. 
+"Alarm" or atypical symptoms which are not compatible with IBS include: 
+● Rectal bleeding 
+● Nocturnal or progressive abdominal pain 
+● Weight loss 
+● Laboratory abnormalities such as anemia, elevated inflammatory markers, or 
+electrolyte disturbances” -- Quotation from Uptodate 2017 
+● Nocturnal diarrhea, anorexia, onset > 50 yrs of age 
+However, here are features that are typical for IBS:  
+● One out of three days of:  
+○ Bloating 
+○ Abdominal pain (relieved with defecation)  
+○ Constipation OR diarrhea OR both  
+○ Upper GI symptoms (dyspepsia / nausea)  
+● Mild abdominal tenderness  
+ 
+The strict definition is made by the ROME IV criteria - check out the show notes!  
+Check out Box 85.2 - ddx for IBS based on symptoms - diarrhea, constipation, pain.  
+ 
+Describe the Rome IV criteria & list 4 medications used to treat irritable bowel 
+syndrome 
+ 
+Rome III is no longer in! Here are the Rome IV criteria!  
+ 
+CrackCast Show Notes – Large Intestine – July 2017 
+www.canadiem.org/crackcast 
+ 
+ 
+ 
+Pasted from: https://irritablebowelsyndrome.net/clinical/new-rome-iv-diagnostic-
+criteria/ 
+ 
+Management: 
+ 
+● Dietary changes (no one actually knows what to consistently suggest!)  
+● MedS:  
+○ Dicyclomine (IBS-P) 
+○ Loperamide  (IBS-D) 
+○ Rifaximin   
+○ Lactulose (IBS-C)  
+○ TCA’s 
+○ SSRIs 
+● Peppermint oil 
+● Probiotics  
+CrackCast Show Notes – Large Intestine – July 2017 
+www.canadiem.org/crackcast 
+ 
+ 
+2) What is the pathophysiology of diverticular disease? 
+ 
+“An affliction of middle age and Western civilization” - unknown before 20th century, etiology 
+related to ?removal of the outer fiber on wheat kernels by the milling process. Supposedly 
+80% of people over 85 have diverticula.  
+ 
+The colon wall has weak points where the vasa recta run, it is thought that chronic low fiber 
+stools (causing the colon to stressfully process stool), chronic inflammation, and altered 
+bowel flora lead to diverticula. 
+ 
+These weak points are prone to herniation of the colonic mucosa - usually small, but can be 
+> 1cm.  
+ 
+A couple important points:  
+ 
+● Diverticula doesn’t equal diverticulitis (10-25% progress to itis though)  
+● Complicated diverticulitis:  
+Any extension of inflammation beyond the pericolonic fat 
+○ Abscess formation 
+○ Peritonitis 
+○ Intestinal obstruction (inflammatory ileus)  
+○ Fistula formation (to the bladder) 
+ 
+3) List clinical presentations of diverticular disease. 
+ 
+Symptoms show up when there is microinflammation and perforation of the sac.  
+ 
+**New frame shift: recently this is thought to be more of inflammatory condition - rather than 
+infectious and obstructive.  
+ 
+Symptoms:  
+● Bloating  
+● Crampy pain  
+● Excessive gas 
+● Change in bowel habits  
+ 
+10-30% of people progress to diverticulitis (West = left side, Japan = right side)  
+ 
+ITIS presentation:  
+ 
+● LLQ pain (referred to groin or suprapubic)  
+○ RLQ pain in some!  
+● Peritonitis (if perforation)  
+● Dysuria / pneumaturia (colovesical fistula)  
+● Vomiting / distension (if obstructed)  
+● Feces / gas from vagina (colovaginal fistula)  
+ 
+CrackCast Show Notes – Large Intestine – July 2017 
+www.canadiem.org/crackcast 
+ 
+ 
+A tentative diagnosis can be made clinically, but a CT scan is routinely performed to 
+exclude alternative dx, or complicated diverticulitis. Empirical treatment can be initiated 
+in the right context, especially if the person has been recently imaged to rule out other 
+pathology.  
+ 
+4) How is diverticular disease managed in the ED? Which patients 
+should be admitted to hospital? List 3 complications.  
+ 
+Take special care with the immunocompromised / elderly - they may have a perforation with 
+less dramatic symptoms.  
+ 
+Management: 
+ 
+● Diverticulosis 
+○ High fiber diet, period.  
+ 
+● Uncomplicated diverticulitis  
+○ Antibiotics (?some controversy about this!!)  
+■ See Box 85.3 in Rosen’s 
+ 
+○ Soft / liquid diet (for comfort - not mandatory)  
+○ NSAIDS / narcotics for pain relief (better Rx a stool softener or the 
+constipation will worsen the disease!!)  
+○ Most young, immunocompetent patients can be managed with outpatient 
+treatment and follow-up in 2-3 days.  
+○ Consider admission for IV abx if: 
+■ Inadequate po intake, high pain 
+■ No social supports 
+■ Elderly 
+■ Poor follow up  
+ 
+● Complicated Diverticulitis  
+○ Admission 
+○ Bowel rest 
+○ IV abx 
+○ Surgical consultation - may need percutaneous abscess drainage;  
+■ Fistulas and strictures may need surgical correction after the acute 
+phase.  
+● Definitive:  
+○ Some surgeons may elect to do a single stage laparoscopic resection to 
+remove sections of the colon  
+ 
+Complications:  
+● Complicated diverticulitis:  
+Any extension of inflammation beyond the pericolonic fat 
+○ Abscess formation 
+○ Peritonitis 
+CrackCast Show Notes – Large Intestine – July 2017 
+www.canadiem.org/crackcast 
+ 
+ 
+○ Intestinal obstruction (inflammatory ileus)  
+○ Fistula formation (to the bladder) 
+ 
+● Bleeding - severe hemorrhage 
+○ Lower GI bleeding - 40% of it is caused by diverticulae (painless bleeding, 
+often associated with NSAID use)  
+ 
+● Mis-diagnosis of colonic thickening as diverticulitis, when it is actually a malignancy 
+ 
+5) List the types and potential causes of large bowel obstruction. 
+ 
+Much less common > SBO; usually is a symptom of some underlying malignancy (>50% are 
+due to colo-rectal CA)  
+ 
+Types:  
+ 
+Mechanical vs. pseudo-obstruction (Ogilvie’s syndrome)  
+ 
+Causes:  
+ 
+● Malignancy (53%)  
+● Adhesions 
+● Volvulus (17%)  
+● Diverticular disease (12%) 
+● Fecal impaction  
+● Strictures (due to IBD)  
+● Hernias 
+● Pseudoobstruction (**the only type managed non-surgically)  
+ 
+Again, it’s helpful to use the EXTERNAL vs INTERNAL approach for forming a DDx of the 
+causes of LBO 
+ 
+Here is the pathophys: 
+  
+“…..dilated with air and fluid that cannot be passed distally….When intraluminal pressure 
+approaches systolic blood pressure, blood flow to the bowel wall is compromised...edema... 
+decreased reabsorption of intraluminal fluid leads to dehydration...arterial flow to the bowel 
+wall is compromised, ischemia and gangrene develop….translocation of bacteria..from a 
+compromised bowel can lead to sepsis. Perforation of the bowel wall follows if the process is 
+not interrupted.” - From Rosen’s.  
+ 
+In these patients, the rectal exam is crucial - because you may find a hard mass or stool, 
+which may explain the cause for the obstruction!  
+ 
+ 
+ 
+CrackCast Show Notes – Large Intestine – July 2017 
+www.canadiem.org/crackcast 
+ 
+ 
+Management: 
+● Rehydration 
+● Electrolyte replacement 
+● Pain and nausea control 
+● Antibiotics (if perforated, sick, etc.) 
+● Gastric decompression and NPO 
+● Surgical consultation  
+ 
+6) What are the four types of GI volvulus? What are the risk factors for 
+developing each type? 
+ 
+In general you can get a volvulus anywhere. Patients can present with a bowel obstruction 
+pattern.  Can get:  
+ 
+❏ Electrolyte disturbances secondary to third spacing / respiratory compromise from 
+massive abdominal distention 
+❏ If left untreated bowel can get ischemic, gangrenous and perforate. 
+ 
+Pearl: Sigmoid volvulus account for 60% of all intestinal volvulus. So if you're a betting 
+person that’s the most common. 
+ 
+Gastric - Not large intestine…we know 
+ 
+2 types: 
+❏ Organo-axial volvulus is more common in adults, responsible for 60% of 
+presentations 
+❏ Mesentero-axial volvulus is more common in children 
+ 
+Organo-axial volvulus  
+❏ more common of the two types in adults (60% of cases) 
+❏ RF:  trauma or para-oesophageal hernia 
+❏ Pathophys: stomach rotates around long axis w/ antrum rotates anterosuperiorly 
+fundus rotates posteroinferiorly 
+ 
+Mesentero-axial volvulus 
+❏ More common is peds  
+❏ Pathophys: rotation around short axis from the lesser to greater curvature 
+displacement of antrum above gastro-oesophageal junction; stomach appears 
+upside-down with the antrum and pylorus superior to the fundus  
+❏ plain films may show an intrathoracic stomach with two air fluid levels  
+ 
+Midgut 
+ 
+Caused by malrotated gut. Can be any age ***BUT ***  
+❏ approximately 75% of cases within a month of birth 
+❏ most within the first week  
+❏ 90% within 1 year 
+CrackCast Show Notes – Large Intestine – July 2017 
+www.canadiem.org/crackcast 
+ 
+ 
+RFs: Gastroschisis / omphalocele / diaphragmatic hernia / duodenal or jejunal atresia 
+ 
+Cecal  
+❏ Requires congenitally abnormal mobile segment of cecum 
+❏ 10-25% of population have this anatomic variant 
+❏ RF: Usually needs coexisting trauma, adhesions, lymph nodes or malignancy, 
+Pregnancy 
+❏ 20% risk for gangrene 
+ 
+Sigmoid 
+❏ Needs Long redundant section of sigmoid w/ narrow mesentery attachment to abdo 
+wall  
+❏ The narrow attachment allows mesentery to twist on itself = luminal obstruction 
+❏ After obstruction, the proximal colon continues to force gas and liquid into the 
+obstructed segment = sometimes massive dilation of the distal colon 
+❏ RF: A high fiber diet / Chronic constipation / Residents of long-term care facilities / 
+neurologic or psychiatric disease 
+ 
+7) List the extra-intestinal manifestations of IBD. 
+ 
+● Inflammatory arthropathies/arthritis  
+● Iritis / uveitis / Episcleritis / Scleritis  
+● Erythema nodosum  
+● Pyoderma gangrenosum  
+● Aphthous stomatitis 
+● Ankylosing spondylitis  
+● Sacroiliitis  
+● Osteoporosis  
+● **Thromboembolic disease risk - 60% increased 
+○ DVT 
+○ PE 
+○ Cerebral sinus thrombosis  
+○ Ischemic heart disease 
+○ Mesenteric ischemia  
+● Peripheral neuropathy  
+● Primary sclerosing cholangitis (UC)  
+ 
+These extra-intestinal manifestations occur more frequently with Crohn’s disease than UC.  
+ 
+8) What are the pathologic and clinical differences between UC and 
+Crohn’s?  
+ 
+These are the two similar, yet different diseases characterized by chronic, unpredictable 
+relapsing inflammation of the GI tract. Thought to develop due to “immune system 
+disregulation in the GI tract”.  
+ 
+Peak diagnosis at 15-35 yrs.  
+CrackCast Show Notes – Large Intestine – July 2017 
+www.canadiem.org/crackcast 
+ 
+ 
+ 
+ 
+UC 
+Crohn’s disease 
+Pathologic features 
+Superficial inflammation of 
+the colon and rectum.  
+ 
+ 
+*spares the small intestine*  
+*superficial* 
+*diffuse, continuous mucosal 
+inflammation* 
+*associated with PSC* 
+*strong environmental 
+component*  
+ 
+ 
+ 
+Usually forms as a 
+continuous lesion, but CAN 
+also have skip lesions  
+ 
+Usually distal small intestine 
+and proximal colon involved.  
+ 
+ 
+ 
+*any part of the GI tract* 
+*transmural inflammation* 
+*multiple complications:  
+● Strictures 
+● Abscesses 
+● Fistulae  
+*strong genetic component* 
+*usually has “skip lesions”* 
+*complex, fistulizing lesions* 
+*granulomata*  
+*affects younger patients 
+and children*  
+ 
+Clinical features 
+(differences are underlined!)  
+● Abdo pain 
+● Tenesmus 
+● Bloody diarrhea (4-6 
+or more stools per 
+day) 
+● Weight loss 
+● Rectal bleeding 
+● Pallor / fatigue 
+ 
+● Abdo pain 
+● Tenesmus 
+● Bloody diarrhea (4-6 
+or more stools per 
+day) 
+● Nausea / vomiting  
+● Nocturnal diarrhea 
+● Fissures 
+● Anorectal abscesses  
+● Ulcerated 
+hemorrhoids 
+● Strictures 
+● Growth and pubertal 
+delay in children 
+● Weight loss 
+● Rectal bleeding 
+● Pallor / fatigue 
+● Peri-anal skin tags 
+● Dry mucous 
+membranes  
+ 
+9) List 4 categories of medical therapy for IBD and give one example for 
+each. 
+ 
+1. Oral aminosalicylates (5-ASA, mesalamine)  
+2. Steroids (methylprednisolone, prednisone)  
+3. Immunosuppressants (cyclosporine)  
+4. Antibiotics (Flagyl + Cipro)  
+ 
+25% of people with UC may need surgery.  
+CrackCast Show Notes – Large Intestine – July 2017 
+www.canadiem.org/crackcast 
+ 
+ 
+10) Describe the radiologic features of toxic megacolon. 
+ 
+Radiographic findings on plain abdominal films:  
+ 
+● dilatation of the right colon greater than 6 centimeters,  
+● dilatation of the transverse colon;  
+● absence of normal colonic haustral markings,  
+● air-filled crevices between large pseudopolypoid projections extending into the 
+colonic lumen.  
+ 
+ 
+Copied from: http://www.radpod.org/2007/07/05/toxic-megacolon/ 
+ 
+ 
+ 
+ 
+CrackCast Show Notes – Large Intestine – July 2017 
+www.canadiem.org/crackcast 
+ 
+ 
+11) What the potential causes of toxic megacolon? 
+ 
+Toxic megacolon (pathologic dilatation due to inflammation, paralysis of the smooth muscle 
+layers) may occur as a complication of IBD, infectious colitides of diverse etiology, ischemic 
+colitis, volvulus, diverticulitis, and obstructive colon cancer. 
+ 
+Most people present with multiple days of loose bloody stools (>10 /day), fever, abdominal 
+pain, dehydration, distension, anorexia.  
+ 
+Often may be triggered by: anticholinergics, antimotility agents, narcotics, antidepressants.  
+ 
+Management (copied from Uptodate - 2017)  
+ 
+“Medical therapy is the first line of treatment for patients with IBD and toxic megacolon 
+and includes fluid resuscitation and correction of laboratory abnormalities, 
+administration of broad-spectrum antibiotics, intravenous corticosteroids, complete 
+bowel rest, bowel decompression with a nasogastric or long intestinal tube, and a 
+surgical consultation.  
+ 
+Medical therapy is the first line of treatment for patients with toxic colon from C. difficile 
+and includes fluid resuscitation and correction of laboratory abnormalities, 
+discontinuation of the offending antibiotic, oral or tube administration of vancomycin and 
+intravenous metronidazole, complete bowel rest, bowel decompression with a 
+nasogastric or long intestinal tube, and a surgical consultation. “  
+ 
+***Make sure you correct any hypokalemia and hypomagnesemia*** 
+ 
+12) Which conditions are associated with the development of colonic 
+ischemia? List 4 precipitants of ischemic colitis in the elderly and 3 in 
+young patients 
+ 
+Very tough diagnosis to make!  
+ 
+Usually a non-occlusive mechanism.  Most common spot is left colonic segment. (but can 
+also affect the right segment due to pathology leading to SMA occlusion)  
+ 
+Elderly:  
+1. CHF 
+2. Vasoactive drugs (digoxin, sumatriptan, pseudophed) 
+3. Atherosclerosis 
+4. Renal failure 
+5. Thrombophilia and infectious (STEC)  
+6. Post-operative cardiac sx 
+ 
+CrackCast Show Notes – Large Intestine – July 2017 
+www.canadiem.org/crackcast 
+ 
+ 
+Young patients:  
+1. Collagen vascular disease 
+2. Heme disorders  
+3. Long distance running 
+4. Cocaine abuse  
+ 
+13) List 4 DDx for colitis  
+ 
+● Infectious colitis 
+○ STEC (E coli o157h7)  
+○ C. Diff 
+○ Amoeba  
+● Ischemic colitis 
+● Radiation colitis  
+● Diverticular disease  
+● Appendicitis  
+● Inflammatory cancer 
+● In Kids:  
+○ Henoch Schonlein Purpura 
+● Celiac disease 
+● Toxic megacolon  
+ 
+ 
+14) Differentiate between acute and chronic radiation proctocolitis in 
+pathophys and clinical presentation 
+ 
+***”Radiation proctocolitis (RP) is a common side effect of radiation therapy, occurring in 
+50% to 75% of patients receiving radiation to the pelvis”*** 
+ 
+Symptomatic treatment for both: steroid enemas, antibiotics for suspected infection, surgical 
+consult for perforation 
+ 
+Acute proctocolitis: abdominal and rectal pain, diarrhea, bleeding, and tenesmus 
+ 
+Time course: within 6 weeks after a course of radiation therapy 
+ 
+Pathophys: intestinal mucosa is rapidly overturned → Radiation slows the regrowth but does 
+not affect sloughing rate → This leads in gaps of coverage that coalesce into ulcerations 
+ 
+Once radiation stops, healing begins and usually self resolves in several weeks 
+ 
+Chronic proctocolitis: Can be similar to acute OR insidious onset, with a variety of 
+presentations, including ulcerative disease, stricture, obstruction, fistula, bowel perforation or 
+fecal incontinence 
+  
+ 
+Time course:  can occur at anytime post therapy 
+CrackCast Show Notes – Large Intestine – July 2017 
+www.canadiem.org/crackcast 
+ 
+ 
+Pathophys: TOTALLY DIFFERENT THAN ACUTE. Its all about the endarteritis here… 
+combined with abnormal collagen tissue deposition. Net result: decrease gut perfusion 
+causing ischemia, scarring and decrease bowel lumen diameter. 
+ 
+ 
+ 
+ 
+ 
+Wisecracks:  
+ 
+1) What is Ogilvie’s Syndrome? List 3 RFs. 
+ 
+Remember Episode 92: Small intestine - 3 causes of SBO =   
+ 
+❏ Mechanical 
+❏ Neurogenic 
+❏ Pseudo-obstruction  
+ 
+Here we are talking about the last. Acute intestinal or colonic pseudo-obstruction (Ogilvie's 
+syndrome).  
+ 
+❏ Characterized by acute dilatation of the intestine in the absence of an anatomic 
+lesion that obstructs the flow of intestinal contents 
+❏ Usually its the right hemi colon with possible extension to rectum.  
+❏ More common in old men. Pathogenic mechanism : unknown. Thought to be some 
+disruption of autonomic nervous system and pacemaker cells of cajal. 
+ 
+Common associated risk factors: 
+ 
+❏ Trauma, especially fractures 
+❏ Surgery especially involving spinal anesthesia  
+❏ Major orthopedic surgery / Obstetrical surgery / Pelvic / abdominal / 
+cardiothoracic surgery 
+❏ Severe medical illness (eg pneumonia/myocardial infarction/heart failure) 
+❏ Neurologic conditions 
+❏ Chemotherapy 
+❏ Retroperitoneal pathology (ie malignancy or hemorrhage) 
+❏ One of the above plus metabolic imbalance or medication administration (eg, 
+narcotics, phenothiazines (think methylene blue), calcium channel blockers, alpha-2-
+adrenergic agonists, epidural analgesics) 
+ 
+Don’t forget about other causes of colonic dilatation: mechanical or toxic megacolon! 
+ 
+2) Compare AXR findings in SBO with LBO 
+ 
+According to Radiopedia: 
+ 
+SBO 
+ 
+Abdominal radiographs are only 50-60% sensitive for small bowel obstruction. In most 
+cases, the abdominal radiograph will have the following features: 
+CrackCast Show Notes – Large Intestine – July 2017 
+www.canadiem.org/crackcast 
+ 
+ 
+❏ Dilated loops of small bowel proximal to the obstruction 
+❏ Predominantly central dilated loops 
+❏ Three instances of dilatation > 2.5-3 cm 
+❏ Valvulae conniventes are visible 
+❏ Air-fluid levels if the study is erect, especially suspicious if 
+❏ >2.5 cm in length 
+❏ In same loop of bowel but at different heights 
+ 
+High grade obstruction may also present with the following features: 
+ 
+❏ Gasless abdomen: gas within the small bowel is a function of vomiting, NG tube 
+placement and level of obstruction 
+❏ String-of-beads sign: small pockets of gas within a fluid-filled small bowel 
+ 
+ 
+ 
+ 
+CrackCast Show Notes – Large Intestine – July 2017 
+www.canadiem.org/crackcast 
+ 
+ 
+LBO 1 
+ 
+Large bowel obstructions are characterised by colonic distension proximal to the obstruction, 
+with collapse distally. 
+ 
+Cut-off for what constitutes dilatation  
+❏ Colon = 6cm  
+❏ Caecum = 9cm 
+ 
+Xray findings: 
+❏ colonic distension: gaseous secondary to gas-producing organisms in faeces 
+❏ collapsed distal colon 
+❏ small bowel dilatation, depends on 
+❏ duration of obstruction 
+❏ incompetence of the ileocaecal valve 
+ 
+Don’t forget to look for signs of ischemia:  
+❏ intramural gas (pneumatosis coli) 
+❏ portal venous gas  
+❏ free intra-abdominal gas (pneumoperitoneum) 
+ 
+                                                 
+1 Source: http://www.radiologymasterclass.co.uk/tutorials/abdo/abdomen_x-
+ray_abnormalities/pathology_large_bowel_obstruction 
+CrackCast Show Notes – Large Intestine – July 2017 
+www.canadiem.org/crackcast 
+ 
+ 
+3)  What is the difference between each Cecal and Sigmoid volvulus on 
+AXR? How is management different? 
+ 
+Punchline: Very hard to differentiate between the two on plain radiographs. CT is WAY 
+better for not missing volvulus and looking for the broader differential.  
+ 
+Look for the whirl sign, Source: Radiopedia 
+ 
+ 
+ 
+ 
+Cecal Volvulus 
+ 
+majority of patients (90%) have abdominal pain, but clinical triad of abdominal pain, 
+distention, and constipation is not so bueno (inconsistent). Patterns of presentation vary on a 
+spectrum similar to that for sigmoid volvulus. Vomiting is seen in only 50% of patients. 
+ 
+CrackCast Show Notes – Large Intestine – July 2017 
+www.canadiem.org/crackcast 
+ 
+ 
+Radiographs : 50% sensitivity...  
+ 
+❏ Dilated cecum w/ possible air fluid level.  
+❏ Small bowel often is distended as well. 
+❏ In contrast, with sigmoid volvulus, the distal colon should have a paucity of gas  
+❏ The classic coffee bean sign, a large oval gas shadow with a line down the middle 
+representing bowel bent over on itself, may be seen in the midabdomen.  
+❏ Free air = perforation 
+❏ Cecal volvulus is often diagnosed only at surgery. 
+ 
+Sigmoid 
+ 
+More classic triad of abdominal pain, distention, and constipation 
+ 
+Radiograph:  
+ 
+❏ grossly distended loop of colon (no haustral markings) 
+❏ “bowel may have the appearance of a bent inner tube.” 
+❏ Perforation = Free air may on upright chest radiograph or lateral decubitus 
+radiograph  
+❏ Can have false negative secondary to obscuring bowel gas 
+❏ Contrast enema can help: shows tapering point of torsion,i.e “bird’s beak” 
+appearance  
+ 
+Management:  
+ 
+Cecal: surgery (open vs laparoscopic) 
+Sigmoid: endoscopic reduction versus surgery  
+ 
+4) List 3 Perianal complications and 6 Extra-intestinal manifestations of 
+Crohn’s disease. 
+ 
+Perianal: 
+❏ Anal Fissures 
+❏ Skin tags 
+❏ Perianal Fistula 
+❏ Anorectal Abscess 
+❏ Anal Stenosis 
+❏ Ulcerated Hemorrhoids 
+❏ Elevated risk for adenocarcinoma in fistula tract and recurrent stenosis 
+ 
+Extra-intestinal 
+❏ MSK (Arthritis, ankylosing spondylitis, isolated joint, Hypertrophic osteoarthropathy - 
+Clubbing, periostitis) 
+❏ Miscellaneous - Osteoporosis, aseptic necrosis, polymyositis, osteomalacia 
+ 
+ 
+CrackCast Show Notes – Large Intestine – July 2017 
+www.canadiem.org/crackcast 
+ 
+ 
+❏ Skin and mouth  
+❏ Reactive lesions - Erythema nodosum, pyoderma gangrenosum, aphthous 
+ulcers, vesiculopustular eruption, cutaneous vasculitis, neutrophilic 
+dermatosis, metastatic Crohn disease, epidermolysis bullosa acquisita 
+❏ Specific lesions - Fissures and fistulas, oral Crohn disease, drug rashes 
+ 
+❏ Nutritional deficiency - Acrodermatitis enteropathica (zinc), purpura (vitamins C and 
+K), glossitis (vitamin B), hair loss and brittle nail (protein) 
+ 
+❏ Hepatobiliary 
+❏ Specific complications - Primary sclerosing cholangitis (PSC) and bile duct 
+carcinoma, small duct PSC, cholelithiasis 
+❏ Associated inflammation - Autoimmune chronic active hepatitis, 
+pericholangitis, portal fibrosis and cirrhosis, granuloma in Crohn disease 
+❏ Metabolic - Fatty liver, gallstones associated with ileal Crohn disease 
+ 
+❏ Ocular : Uveitis iritis, episcleritis, scleromalacia, corneal ulcers, retinal vascular 
+disease, retrobulbar neuritis, Crohn keratopathy 
+ 
+❏ Metabolic: Growth retardation in children and adolescents, delayed sexual maturation 
+ 
+❏ Thromboembolic disease  
+❏ **Thromboembolic disease risk - 60% increased 
+❏ DVT 
+❏ PE 
+❏ Cerebral sinus thrombosis  
+❏ Ischemic heart disease 
+❏ Mesenteric ischemia  
+ 
+❏ Peripheral neuropathy  
+ 
+5) How does adult intussusception differ from peds 
+ 
+Adults:  
+● Vague, undifferentiated presentations - age 65 yrs 
+● Usually cause by a mass (60% benign neoplasms, 30% malignant)  
+● CT diagnosis 
+● Need surgery usually 
+● Not so happy endings 
+ 
+Kids:  
+● Vague, undifferentiated presentations, but second most common cause of abdominal 
+pain in kids next to appendicitis (often age 4-10 months?)  
+● Usually unknown cause (viral adenopathy?) 
+● Diagnosed with U/S 
+● Usually ileocolic (at the cecal valve)  
+● Usually reduced with air/hydrostatic enemas (80% of cases)  
+● Good endings 

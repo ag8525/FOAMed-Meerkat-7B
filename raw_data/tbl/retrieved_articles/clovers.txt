@@ -1,0 +1,171 @@
+# Metadata
+- Source: The Bottom Line
+- Title: CLOVERS
+- Original URL: https://www.thebottomline.org.uk/summaries/icm/clovers/
+- Scrape Date: 2025-07-17
+- Summary Date: AUTO_FILL_IF_AVAILABLE
+
+Early Restrictive or Liberal Fluid Management for Sepsis-Induced Hypotension
+The National Heart, Lung, and Blood Institute Prevention and Early Treatment of Acute Lung Injury Clinical Trials Network. NEJM 2023. DOI: 10.1056/NEJMoa2212663
+Clinical Question
+In patients with sepsis-induced hypotension does a restrictive fluid strategy (with early vasopressor usage) compared to a liberal fluid strategy result in lower mortality before discharge by day 90?
+Background
+The
+2021 SSC Guidelines
+recommend the use of large volumes of fluid (30ml/kg) during the initial resuscitative phase of septic shock
+This however is based on low quality evidence – with only a weak, low quality recommendation in the above guidelines
+Practice varies widely, with
+an Australian observational study
+showing a median of 4.2L of fluid given to septic patients within the first 24 hours
+The recently published
+CLASSIC trial
+showed no difference in 90-day mortality when comparing a restrictive fluid strategy to standard care; however randomisation for this trial occurred in ICU after initial fluid resuscitation
+Design
+Multi-centre, randomized, unblinded superiority trial
+Patients randomly assigned in 1:1 manner to restrictive or liberal strategies
+Randomised via central web based system
+Stratified by trial site
+Protocol amended in October 2019
+Limited initial infusion to 1000ml if vitals signs stabilised and felt to be volume replete
+Pre-specified stopping boundaries (for both futility or efficacy in either group) at 1/3 or 2/3rds recruitment
+Study was stopped at the 2nd interim analysis due to futility, there were no concerns of harm from the DSMB
+Informed consent required from patients or legal representatives
+Protocol adherence monitored for first 300 patients and in 10% (random sample) during remainder of trial
+Power calculation:
+Assuming baseline mortality of 15% and an absolute difference of 4.5% in the restrictive group
+2320 patients needed to have 90% power at a significance level of 0.05
+Setting
+60 US centres
+March 2018 to January 2022
+Population
+Inclusion
+:
+Adult patients with suspected / confirmed infection
+Sepsis induced hypotension (SBP < 100 mmHg or MAP <65mmHg following > 1000ml IV fluid)
+Exclusion
+:
+> 4 hours since meeting inclusion criteria for sepsis induced hypotension
+>24 hours since hospital presentation
+> 3L IVT (including pre-hospital)
+Inability to obtain informed consent
+Pregnancy
+Fluid overload
+Blood pressure is at known or reported baseline level
+Hypotension suspected to be from non-sepsis cause
+Severe volume depletion from non-sepsis causes
+12276 met inclusion criteria → 4868 met eligibility criteria (i.e. no exclusion criteria) → 1563 randomised
+782 restrictive group
+781 to liberal group
+Comparing baseline characteristics of restrictive vs. liberal group
+Generally well matched
+Age: 59.1 vs 59.9
+Female: 47 vs 47%
+Chronic heart failure: 13 vs 10%
+ESRF with haemodialysis: 4 vs 5%
+SOFA score: 3.4 vs 3.5
+SBP: 93 vs 94 mmHg
+Lactate: 2.9 vs 2.9
+Median time from eligibility to randomisation: 61 vs 60 mins
+Median volume of fluid administered before randomisation: 2050 mls vs 2050 mls
+Intervention
+Restrictive Group
+If SBP < 100mmHg or MAP < 65 mmHg after receipt of 1 – 3L crystalloid:
+All bolus and maintenance fluids ceased
+Up to 2L fluid boluses allowed (including pre-randomisation) at discretion of clinician
+Following this if, MAP < 65 mmHg or SBP < 90 mmHg
+Titration of norepinephrine +/- second vasopressor aiming MAP > 65
+Once MAP in target then fluids limited to KVO, medications and nutrition
+Rescue fluids recommended for (500ml bolus):
+Severe hypotension (SBP < 70, MAP < 50 mmHg)
+Refractory hypotension (SBP <90 or MAP <65 on Norepinephrine > 20 mcg min or equivalent)
+Lactate > 4 mmol/L and increasing after 2 hours of therapy
+Sinus HR > 130 for 15 mins
+Echocardiographic evidence or haemodynamic evidence of extreme hypovolaemia
+Felt to be in best interests by treating team
+Control
+Liberal Group
+SBP < 100mmHg or MAP < 65 mmHg after receipt of 1 – 3L crystalloid
+Halt all maintenance
+Prescribe 2L at randomisation (to be completed within 180 mins)
+2nd litre can be with-held if volume replete following clinical assessment following first litre
+If any of the following present then further 500ml bolus:
+MAP < 65 or SBP < 90 mmHg
+Lactate > 4 mmol/L and increasing
+UOP < 30mls/hr
+HR > 110 bpm (sinus)
+Requirement for vasopressors
+Measured or clinical assessment
+Rescue vasopressors allowed if severe hypotension (defined as per restrictive group), lactate > 4 mmol/L and increasing after 2 hours, > 5L total IV fluid given, clinical manifestations of fluid overload or treating team felt to be in best interests
+Management common to both groups
+Assigned protocol followed for 24 hours
+Hourly reassessments or after any intervention
+Protocol could be over-ridden at any time if felt to be in best interests of patient
+Vasopressors could be administered peripherally
+40% in restrictive group and ~25% in liberal group had peripheral vasopressor infusion
+Outcome
+Primary outcome
+:
+Death before discharge home by day 90: 14.0% in restrictive group vs 14.9% in liberal group
+Estimated difference -0.9% (95% CI -4.4 to 2.6), p = 0.61
+Efficacy and Safety outcomes
+:
+No significant difference in
+days free from organ support therapy by day 28:
+days free from ventilator use at 28 days
+days out of ICU from day 1 to 28
+new intubation with mechanical ventilation by day 28
+ARDS onset between day 1 and day 7
+Serious Adverse Events:
+3 vs 0 counts of extravasation of vasopressors in restrictive group (all managed conservatively)
+Subgroup Analysis:
+No subgroup favoured with liberal or restrictive fluid use
+These included: age, sex, race, location at randomisation, pneumonia, baseline SBP < 90 or vasopressor use
+Post-hoc Analysis:
+Higher rates of ICU admission in restrictive group (Table S8):
+0 – 24 hours: 67 vs 59%
+0 – 7 days: 70% vs 62%
+Authors’ Conclusions
+A restrictive fluid strategy (with earlier vasopressor use) did not result in significantly lower (or higher)  mortality before discharge home by day 90 than a liberal fluid strategy
+Strengths
+Randomised
+Multi-centre trial with broad inclusion criteria means results applicable to ED and early ICU practice where patients present in undifferentiated manner
+The caveat to this is that sepsis is a heterogenous process and different causes of sepsis may respond differently to fluid
+Excellent design with high internal validity that helps answer an important and frequently occurring question with prior limited evidence base
+High level of adherence to protocol
+97% adherence in restrictive group and 96% in liberal group (within audited sample)
+This is impressive given time constraints on ED management
+Achieved separation in fluid administered in first 24 hours
+Almost identical amounts of fluid administered in both groups following the intervention to day 7 (Table S3)
+Excellent safety outcome reporting including on peripheral vasopressor administration
+Weaknesses
+Unblinded
+Single country may limit external validity
+Early cessation
+Large numbers eligible but not enrolled (n = 3303, ~25% of all those screened) – this may introduce a selection bias. This includes:
+900 as study team unable to obtain informed consent
+887 patient or surrogate refused consent
+873 MD refusal
+346 not excluded but not enrolled
+Patients may not have been that unwell at baseline (median SBP > 90, low lactate levels, an ICU admission rate of ~63% and only ~60% patients in restrictive group required vasopressors)
+No dynamic methods used to assess fluid responsiveness
+The fluid regimes don’t account for patient weight / size – 2L in a 50kg patient is likely to have a different physiological response to that in a 120kg patient
+Significant amounts of the study were left to individual clinician preference, introducing bias
+This trial compares to protocolised approaches – other approaches may have different outcomes
+ARISE-FLUIDS
+and
+ANDROMEDA-SHOCK 2
+will add more information
+The Bottom Line
+This trial dovetails with the CLASSIC trial with respect to the time course of fluid restriction in critically ill septic patients
+This paper will not change my current practice. It appears both approaches are safe and therefore I will continue to use a multi-modal approach to assess my patients and their requirement for fluid and make the decision to prescribe further fluid or commence vasopressors based on this assessment and prior response to fluid already administered
+External Links
+article
+Early Restrictive or Liberal Fluid Management for Sepsis-Induced Hypotension
+Further reading
+CLASSIC trial
+Metadata
+Summary author: George Walker @hgmwalker89
+Summary date: 22nd January 2023
+Peer-review editor:
+Segun Olusanya
+Picture by: Pixabay

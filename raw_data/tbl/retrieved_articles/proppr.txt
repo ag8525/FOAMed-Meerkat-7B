@@ -1,0 +1,115 @@
+# Metadata
+- Source: The Bottom Line
+- Title: PROPPR
+- Original URL: https://www.thebottomline.org.uk/summaries/em/proppr/
+- Scrape Date: 2025-07-17
+- Summary Date: AUTO_FILL_IF_AVAILABLE
+
+PROPPR: Transfusion of Plasma, Platelets, and Red Blood Cells in a 1:1:1 vs a 1:1:2 Ratio and Mortality in Patients With Severe Trauma. The PROPPR Randomized Clinical Trial
+PROPPR Study Group*, JAMA. 2015;313(5):471-482
+Clinical Question
+In patients with severe trauma and predicted to require massive transfusion, does the use of a transfusion protocol using a 1:1:1 ratio of plasma to platelets to red blood cells (RBCs) compared to 1:1:2 improve mortality?
+Design
+Randomised-controlled trial
+Treating clinicians non-blinded
+Allocation concealment maintained through use of sealed containers of blood products
+Blinding of assessors of primary outcome
+Sample size calculation
+Sample size increased from 580 to 680 patients according to “trial’s adaptive design” due to lower actual mortality than predicted
+With sample size of 680 patients
+95% power to detect 10% absolute difference in mortality at 24 hours
+92% power to detect 12% absolute difference in mortality at 30 days
+Setting
+12 North American Level 1 trauma center sites
+3rd August 2012 – 2nd December 2013
+Population
+Inclusion:
+Highest trauma level activation
+Estimated age 15 years or older or greater than/equal to weight of 50 kg if age unknown
+Received directly from scene of injury
+Received at least 1 U of blood product in pre-hospital setting or within 1 hour of arrival to hospital
+Predicted to receive a massive transfusion by Assessment of Blood Consumption Score ≥ 2 or by the attending trauma surgeon
+’
+s judgment
+Exclusion:
+Received a life saving intervention from another hospital
+Non-survivable injuries
+Prisoners directly admitted from jail
+Required emergency thoracotomy prior to randomisation
+Obvious pregnancy
+Severely burned
+Had at least 5 minutes of CPR with chest compressions before admission
+Known “Do Not Resuscitate” orders prior to randomization
+Enrolled in a concurrent ongoing interventional, randomized clinical trial
+Patients who wear “opt-out” bracelet
+>3 U RBCs given before randomization
+PROPPR products not given within 2 hour period
+Patient improved, did not require further transfusion
+11185 screened, 680 patients randomised (338 to intervention, 342 to control)
+Groups eventually matched including Injury Severity Scores and Revised Trauma Scores (median ISS score 26)
+Intervention
+Blood product ratios of 1:1:1 (plasma:plts:RBCs)
+Packs contained 6 U plasma, 1 dose plts (pool of 6 U) and 6 U RBCs
+Control
+Blood product ratios of 1:1:2 (plasma:plts:RBCs)
+Alternating packs containing 3 U plasma, 0 dose plts and 6 U RBCs with 3 U plasma, 1 dose plts and 6 U RBCs
+In both intervention and control group
+Blood products administered in a pre-specified order to maintain assigned ratios
+Transfusion stopped when clinically indicated
+Outcome
+Primary outcome:
+24 hour mortality – no significant difference
+30 day mortality – no significant difference
+Secondary outcome:
+No significant difference in:
+Time to haemostasis
+Any of 23 pre-defined complications
+Hospital-, ventilator, and ICU-free days
+Incidence of surgical procedures
+Functional status at discharge
+Blood product volumes transfused
+Until haemostasis achieved – no significant difference
+After haemostasis till 24 hours post-admission – significantly higher in intervention group
+Post-Hoc Analysis
+Death by Exsanguination in 1st 24 hours– significantly decreased in intervention group
+Achieved haemostasis – significantly greater in intervention group
+Authors’ Conclusions
+Among patients with severe trauma and major bleeding, early administration of plasma, platelets, and red blood cells in a 1:1:1 ratio compared with a 1:1:2 ratio did not result in significant differences in mortality at 24 hours or at 30 days.
+Strengths
+Randomised, multi-centre, pragmatic
+Targeted most severely injured trauma patients predicted to be at highest risk of haemorrhage
+Pre-specified transfusion order to maintain target ratios
+Sample size increased to maintain statistical power
+Minimal loss during follow up
+Allocation concealment contained
+Weaknesses
+Unblinded
+30 day maximum follow up time
+Powered to detect an absolute difference of 10% in mortality – unable to detect smaller effect
+2968 patients would have been required to detect the observed difference of 4.2% (24 hour mortality) with 90% power
+The Bottom Line
+Among patients with severe trauma and major bleeding there was no significant difference in 24 hour or 30 day mortality in patients who received a blood product transfusion at a ratio of 1:1:1 compared to a ratio of 1:1:2. However the study was significantly underpowered for the observed difference in mortality found.
+A ratio of 1:1:1 resulted in reduced mortality from  exsanguination within the 1st 24 hours, with similar complication rates to a lower ratio protocol. Therefore, I will continue to aim for a 1:1:1 ratio in this population.
+External Links
+[Article – abstract & supplementary data]
+] Transfusion of Plasma, Platelets, and Red Blood Cells in a 1:1:1 vs a 1:1:2 Ratio and Mortality in Patients With Severe Trauma
+[Podcast – FOAMed]
+EMCrit Podcast 13 – Trauma Resus II: Massive Transfusion
+[RebelEM – FOAMed]
+REBELEM PROPPR
+[EMNerd – FOAMed]
+EM Nerd
+[EM Literature of Note – FOAMed]
+EMLitofNote
+[MDCalc]
+Assessment-of-blood-consumption-for-massive-transfusion
+[St Emlyn’s]
+Getting the Balance Right: The PROPPR Trial
+[SGEM]
+SGEM #109 One Platelet, One Plasma and One RBC – PROPPR Trial
+Metadata
+Summary author:
+@avkwong
+Summary date: 7th Feb 2015
+Peer-review editor:
+@davidslessor

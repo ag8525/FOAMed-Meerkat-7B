@@ -1,0 +1,543 @@
+# Metadata
+- topic: 3.6 - GU and Gyne - CCE098-STIs
+- source_folder: 3.6 - GU and Gyne
+- original_file: CCE098-STIs.pdf
+
+CrackCast Show Notes – Sexually Transmitted Infections – August 2017 
+www.canadiem.org/crackcast 
+ 
+ 
+Chapter 98 – Sexually Transmitted Infections 
+ 
+Episode Overview: 
+ 
+1. List 6 causes of each of the following:  
+a. Genital ulcers 
+b. Genital discharge 
+c. Epithelial cell lesions 
+d. Ectoparasites 
+2. List the differential diagnosis of painful and painless genital lesions. 
+3. Differentiate between primary and recurrent herpes infection 
+4. List 4 techniques for the diagnosis of herpes and how it is managed? 
+5. List 3 complications of herpes infection 
+6. What are the clinical stages/phases of syphilis? How do you diagnose syphilis? How 
+are the phases managed? 
+7. What is the causes of chancroid? How is it managed? 
+8. List the treatment options for & complications of chlamydia and gonorrhea infections  
+9. Compare differences in presentation and treatment (table 88.3) between 
+Trichomonas, BV, and Candidiasis, and Non-gonococcal urethritis. 
+10. List 5 risk factors for PID 
+11. List clinical findings that support a diagnosis of PID as described by the CDC 
+12. Describe inpatient and outpatient treatment regimens for PID 
+13. List factors which favor admission in PID 
+14. What are some treatment options for condylomata acuminata (genital warts)? 
+15. What is molluscum contagiosum and how is it managed? 
+16. Describe the diagnosis and management of ectoparasites (pediculosis pubis and 
+scabies). 
+a. Pediculosis pubis: Parasitic infection caused by Phthirus pubis. 
+b. Scabies: Sarcoptes scabiei is the mite responsible for scabies. 
+ 
+Wisecracks:  
+ 
+1. What is a Jarisch-Herxheimer reaction? 
+2. What is the specific pathogenic cause of 
+a. Syphilis 
+b. LGV 
+c. Chancroid 
+d. Granuloma inguinale (Donovanosis :( ….the worst) 
+ 
+Questions:  
+1. List 6 causes of each of the following: (table 88.1)  
+c. Genital ulcers 
+i. 
+Genital herpes 
+ii. 
+Primary syphilis 
+iii. 
+Chancroid 
+iv. 
+Lymphogranuloma venereum (rare) 
+v. 
+Granuloma inguinale (rare) 
+CrackCast Show Notes – Sexually Transmitted Infections – August 2017 
+www.canadiem.org/crackcast 
+ 
+ 
+vi. 
+Neoplasm/Trauma 
+d. Genital discharge 
+i. 
+Gonorrhea 
+ii. 
+Chlamydia 
+iii. 
+Nongonococcal urethritis (NGU) 
+iv. 
+Pelvic inflammatory disease (PID) 
+v. 
+Trichomoniasis 
+vi. 
+Bacterial vaginosis 
+e. Epithelial cell lesions 
+i. 
+Genital warts 
+ii. 
+Secondary syphilis 
+iii. 
+Molluscum contagiosum 
+iv. 
+Neoplasm 
+v. 
+Nevi 
+vi. 
+Skin tags 
+f. Ectoparasites 
+i. 
+Pubic lice 
+ii. 
+Scabies 
+iii. 
+Body/Head lice 
+iv. 
+Mites (chiggers) 
+v. 
+Ticks 
+  
+2. List the differential diagnosis of painful and painless genital lesions.**** 
+a. Painful 
+i. 
+Genital herpes 
+ii. 
+Chancroid 
+iii. 
+Behcet's syndrome  
+b. Painless 
+i. 
+Syphilis 
+ii. 
+Lymphogranuloma venereum 
+iii. 
+Granuloma inguinale 
+  
+3. Differentiate between primary and recurrent herpes infection 
+ 
+Genital Herpes 
+Infection  
+Primary 
+Secondary 
+Etiology 
+Infection with HSV-1 or HSV-2 in absence 
+of pre-existing antibodies.  
+Reactivation of latent infection. 
+More common with HSV-2 than 
+HSV-1. 
+ 
+Often secondary to variety of 
+stressors including acute 
+illness/injury, immunosuppression, 
+physiologic stress, and menses. 
+Symptoms 
+Cluster of erythematous, painful lesions, 
+which quickly ulcerate (external genitalia, 
+Generally less symptomatic with 
+lesions occurring in the same 
+CrackCast Show Notes – Sexually Transmitted Infections – August 2017 
+www.canadiem.org/crackcast 
+ 
+ 
+perineum, buttocks, rectum, and 
+oropharynx).  
+ 
+Dysuria is common secondary to 
+proximity of lesions to the urethra.  
+ 
+Generally more painful and symptomatic 
+with tender regional lymphadenopathy, 
+fever, headache and malaise +/- other 
+systemic symptoms.  
+distribution due to reactivation of 
+latent infection in the affected nerve 
+roots.   
+ 
+Prodromal symptoms of itching, 
+burning, and paresthesias common 
+prior to development and skin and 
+mucosal lesions. 
+ 
+ 
+Duration 
+Generally lasts 2-4 weeks if untreated 
+before spontaneous resolve.  
+Generally shorter duration than 
+primary with decreasing frequency 
+and severity over time.  
+   
+   
+4. List 4 techniques for the diagnosis of herpes; how is it managed? 
+a. Clinical: History of similar lesions in same distribution supports clinical 
+diagnosis though insensitive and nonspecific.  
+b. PCR diagnostic test of choice - highest Sn/Sp in presence of active lesions. 
+c. Direct fluorescent antibody (DFA) 
+d. Serology for HSV 
+ 
+ 
+*Consider dark-field microscopy and serologic testing for syphilis to help differentiate 
+the two. Cytologic testing is insensitive and nonspecific an should not be relied upon 
+to make diagnosis of HSV. 
+ 
+Management: See Table 88.2.  
+ 
+1) Not curative, but decrease duration, severity and the development of 
+complicated infection (especially when initiated in first 72 hours). Majority 
+managed with oral as outpatient - parenteral if systemic complications.   
+2) Daily antiviral therapy will decrease the frequency while being taken but does 
+not affect frequency or severity once discontinued. 
+3) Topical antiviral therapy not recommended.     
+ 
+Example regimens: 
+Primary: Acyclovir 400 mg PO TID x 7-10 days 
+    Valacyclovir 1000 mg PO BID x 7-10 days 
+ 
+Secondary: Acyclovir 400 mg PO TID x 5 days 
+         Valacyclovir 1000 mg PO daily daily x 5 days 
+ 
+5. List 3 complications of herpes infection 
+a. Meningoencephalitis 
+b. Hepatitis or Pneumonitis 
+c. Disseminated infection 
+CrackCast Show Notes – Sexually Transmitted Infections – August 2017 
+www.canadiem.org/crackcast 
+ 
+ 
+  
+6. What are the clinical stages/phases of syphilis? How do you diagnose 
+syphilis? How are the phases managed? 
+ 
+Syphilis 
+Manifestation 
+Primary 
+Painless papule at the site of inoculation → ulceration forming chancre 
+(relatively painless, clean based ulcer with well demarcated, indurated 
+edges 1-2 cm in size). 
+ 
+Non-tender regional lymphadenopathy may be seen. Often in genital or 
+perianal region but may be present in oropharynx, breast, or hands etc.    
+Secondary 
+Presents in ~25% of patients with primary infection over weeks → months. 
+ 
+Rash - diffuse and highly variable. 
+ 
+Generalized lymphadenopathy - diffuse, rubbery and non-tender. 
+*Epitrochlear adenopathy particularly suggestive.   
+ 
+Mucous membrane lesions - multiple shallow erosions of oropharyngeal 
+mucosa. Condylomata lata resemble genital warts and are broad based 
+papular lesions.   
+ 
+Systemic symptoms - low-grade fever, anorexia, headache, malaise, 
+myalgias, and weight loss.  
+Latent 
+Serologic evidence in absence of clinical signs or symptoms. 
+ 
+<12 months - early latent (infectious). 
+ 
+>12 months - late latent (non-infectious with the exception of pregnant 
+patients).   
+Tertiary  
+Cardiovascular and gummatous disease (uncommon) including aortitis, 
+aortic aneurysm, and gummatous lesions of the skin, bone, and other 
+organs.  
+ 
+Diagnosis: Treponema pallidum is the spirochete that causes syphilis. Fastidious organism 
+and cannot be cultured in the laboratory. Confirmed with dark field microscopy or serologic 
+testing (non-treponemal VDRL/RPR and treponemal FTA-ABS/MHA-TP). 
+ 
+Dark field microscopy - visualization of spirochete obtained from chancre provides spot 
+diagnosis. Limited by specialized laboratory equipment, proper specimen collection, and 
+experience of the microscopist. 
+ 
+Non-treponemal test VDRL/RPR - utilized for screening purposes providing quantitative 
+measurements of nonspecific antibodies produced in response to infection with T. pallidum. 
+Sn 70-80% in primary and rises to nearly 100% in secondary infection.  
+ 
+CrackCast Show Notes – Sexually Transmitted Infections – August 2017 
+www.canadiem.org/crackcast 
+ 
+ 
+Treponemal test FTA-ABS/MHA-TP - utilized to confirm the diagnosis in context of positive 
+non-treponemal result *always confirmed following initial positive study*. Provide qualitative 
+measurements of specific antitreponemal antibodies. Highly specific and may remain 
+positive even after successful treatment and cure. 
+ 
+Management: Benzathine Penicillin G 2.4 million units IM single dose in primary, secondary, 
+and early latent syphilis and generally curative. Penicillin allergy - Doxy/Tetracycline x 2/52. 
+ 
+Penicillin remains drug of choice in pregnancy, neurosyphilis, and congenital syphilis, even 
+in the presence of penicillin allergy. Admission for desensitization and treatment.                  
+ 
+ 
+7. What is the causes of chancroid? How is it managed? 
+ 
+Chancroid - Ulcerating infection caused by gram-negative organism Haemophilus ducreyi. 
+Common in developing world but extremely uncommon in Western world.  
+ 
+Incubation of less than a week preceded by tender erythematous papule that rapidly 
+ulcerates to form multiple, irregular, inflamed, painful, and ‘dirty’ ulcers. Painful inguinal 
+lymphadenopathy is common.     
+ 
+Management: Ceftriaxone 250 mg IM single dose. 
+ 
+ 
+ Azithromycin 1000 mg PO single dose. 
+ 
+ 
+ Ciprofloxacin 500 mg PO BID x 3 days.  
+ 
+8. List the treatment options for & complications of chlamydia and gonorrhea 
+infections (table 88.3) 
+a. Chlamydia (urethritis, cervicitis, proctitis, pharyngitis) 
+i. 
+Azithromycin 1 g PO single dose or Doxycycline 100 mg PO BID x 7 
+days. 
+b. Gonorrhea (urethritis, cervicitis, proctitis, pharyngitis) 
+i. 
+Ceftriaxone 250 mg IM single dose plus Azithromycin 1 g PO single 
+dose. 
+c. What makes an STI “complicated”: list three conditions (table 88.4) 
+i. 
+Disseminated gonorrhea 
+ii. 
+Gonococcal conjunctivitis 
+iii. 
+Epididymitis/orchitis 
+  
+9. Compare differences in presentation and treatment (table 88.3) between 
+Trichomonas, BV, and Candidiasis, and Nongonococcal urethritis. 
+ 
+ 
+Presentation 
+Physical exam 
+Treatment 
+Trichomonas 
+Females - vaginal 
+discharge, pruritus, dysuria, 
+urinary frequency, 
+dyspareunia, and postcoital 
+bleeding. 
+ 
+Females - erythema 
+of vaginal mucosa 
+and vulva, in addition 
+to the discharge. 
+Punctate hemorrhage 
+(strawberry cervix is 
+Metronidazole 2 g PO single 
+dose. 
+ 
+Tinidazole 2 g PO single 
+dose. 
+CrackCast Show Notes – Sexually Transmitted Infections – August 2017 
+www.canadiem.org/crackcast 
+ 
+ 
+Males - often asymptomatic 
+but may cause dysuria and 
+urethral discharge.  
+seen in 10% of 
+patients. 
+ 
+Bacterial 
+vaginosis 
+Often asymptomatic though 
+women may experience a 
+malodorous, thin whitish 
+vaginal discharge. Fishy 
+odour is often reported.   
+Fishy odour 
+accentuated with 
+addition of 10% KOH 
+solution to wet mount 
+slide (whiff test).  
+Metronidazole 500 mg PO 
+BID x 7 days. 
+ 
+Metronidazole gel 0.75%    
+5 g intravaginally once daily 
+x 5 days. 
+ 
+Clindamycin cream 2% 5 g 
+intravaginally qhs x 7 days. 
+Vulvovaginal 
+candidiasis 
+Common nonspecific 
+findings of pruritus, 
+abnormal discharge, 
+dyspareunia, and external 
+dysuria.  
+Vulvar erythema and 
+edema with satellite 
+lesions, erythema of 
+the vaginal mucosa, 
+and a thick curdy 
+whitish vaginal 
+discharge.  
+Fluconazole 150 mg PO 
+single dose. 
+ 
+Topical OTC antifungal x 7 
+day course (clotrimazole, 
+miconazole, butoconazole).   
+Nongonococcal 
+urethritis 
+Patients often 
+asymptomatic. When 
+present, often less 
+prominent than those with 
+gonococcal urethritis.   
+Clinical features are 
+not sufficiently 
+specific to distinguish 
+NGU from 
+gonococcal urethritis 
+and coinfection is 
+common.   
+Azithromycin 1 g PO single 
+dose plus 
+Ceftriaxone 250 mg Im 
+single dose when gonorrhea 
+has not been ruled out with 
+negative NAATs. 
+ 
+Metronidazole 2 g PO single 
+dose recommended for 
+cases of trichomonas.  
+ 
+  
+10. List 5 RFs for PID 
+a. Multiple sexual partners 
+b. Age <25 
+ 
+c. Partner with an STI 
+d. History of STI  
+e. History of PID 
+ 
+11. List clinical findings that support a diagnosis of PID as described by the CDC 
+Diagnosis should be considered and presumptive treatment initiated in any sexually active 
+woman at risk for STD’s who presents with lower abdominal or pelvic pain and one or more 
+of the following findings on pelvic examination: 
+a. Cervical motion tenderness or 
+b. Uterine tenderness or 
+c. Adnexal tenderness 
+ 
+*Additional criteria on Table 88.5 improves specificity but decreases the diagnostic 
+sensitivity.  
+CrackCast Show Notes – Sexually Transmitted Infections – August 2017 
+www.canadiem.org/crackcast 
+ 
+ 
+12. Describe inpatient and outpatient treatment regimens for PID 
+a. Inpatient: 
+i. 
+CefoXAtan 2 g IV q6-12h plus Doxycycline 100 mg PO/IV q12h x 10 
+days. 
+ii. 
+Clindamycin 900 mg IV q8h plus Gentamicin 2mg/kg IV load then 
+1.5mg/kg q8h 
+b. Outpatient: 
+i. 
+Ceftriaxone 250 mg IM single dose plus Doxycycline 100 mg PO BID 
+x 14 days. +/- Metronidazole 500 mg PO BID x 14 days. 
+ 
+* Sexual intercourse should be deferred until symptoms have resolved and antibiotic therapy 
+has been completed by the patient and her partner.  
+ 
+13. List factors which favor admission in PID 
+a. Surgical emergencies cannot be excluded 
+b. Pregnancy  
+c. Tubo-ovarian abscess 
+d. Severe illness, nausea, vomiting, or high fever 
+e. Inability to follow or tolerate outpatient regimens. 
+f. 
+Failure to respond to oral therapy  
+  
+14. What are some treatment options for condylomata acuminate (genital warts)? 
+a. Patient applied 
+i. 
+Imiquimod cream 
+ii. 
+Podofilox solution or gel 
+iii. 
+Sinecatechins ointment 
+b. Provider administered 
+i. 
+Surgical excision 
+ii. 
+Cryotherapy 
+iii. 
+Topical therapy with trichloroacetic acid (TCA) or bichloroacetic acid 
+(BCA) 
+ 
+15. What is molluscum contagiosum; how is it managed? 
+a. Localized skin infection presenting with one or more 2-5 mm papules with 
+waxy appearance, and central umbilication. 
+b. Spontaneous resolution typical in 6-12 months. Patients may seek primary 
+care or dermatologic follow up for curettage, cryotherapy, or treatment with 
+topical agents for persistent lesions. 
+     
+16. Describe the diagnosis and management of ectoparasites (pediculosis pubis 
+and scabies). 
+a. Pediculosis pubis: Parasitic infection caused by Phthirus pubis. 
+i. 
+Diagnosis - visual inspection of lice present within the pubic hair or 
+attached to the skin when feeding. The eggs (nits) are attached to the 
+shaft of the pubic hairs.  
+ii. 
+Management - topical permethrin 1% creams and rinses available 
+OTC to be applied to the affected area and washed off after 10 
+CrackCast Show Notes – Sexually Transmitted Infections – August 2017 
+www.canadiem.org/crackcast 
+ 
+ 
+minutes. Resistance may require alternative topical agents or oral 
+ivermectin.  
+b. Scabies: Sarcoptes scabiei is the mite responsible for scabies. 
+i. 
+Diagnosis - visual inspection often reveals characteristic burrows in 
+the skin. Excoriations, papules, and nodules are frequently seen in the 
+groin, genitalia, axilla, and interdigital web spaces. Diagnosis may be 
+confirmed by microscopic examination of scrapings from characteristic 
+skin lesions, which reveals the mites.     
+ii. 
+Management -  topical permethrin 5% cream applied topically and 
+washed off after 8-14 hours. Alternative agents include topical benzyl 
+benzoate, topical lindane, or oral ivermectin. 
+ 
+*Potentially affected clothing and linen should be washed in hot water with detergent.   
+ 
+Wisecracks:  
+ 
+1. What is a Jarisch-Herxheimer reaction? 
+a. Acute worsening of symptoms that may develop after initiation of antimicrobial 
+therapy for syphilis. Typically increased malaise, myalgias, and fever within 
+24 hours of treatment. Thought to be secondary to sudden lysis of 
+spirochetes, but the mechanism is poorly understood. 
+ 
+*Making patients aware of this common self-limited phenomenon may prevent a 
+return visit to the ED. 
+    
+2.  What is the specific pathogenic cause of 
+a. Syphilis 
+i. 
+Treponema pallidum  
+b. LGV 
+i. 
+Chlamydia trachomatis (L1, L2, and L3 serovars) 
+c. Chancroid 
+i. 
+Haemophilus ducreyi  
+d. Granuloma inguinale (Donovanosis :( ….the worst) 
+i. 
+Klebsiella granulomatosis 
+ 
+ 
+ 

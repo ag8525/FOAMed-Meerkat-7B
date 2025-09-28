@@ -1,0 +1,113 @@
+# Metadata
+- Source: The Bottom Line
+- Title: PROWESS-SHOCK
+- Original URL: https://www.thebottomline.org.uk/summaries/icm/prowess-shock/
+- Scrape Date: 2025-07-17
+- Summary Date: AUTO_FILL_IF_AVAILABLE
+
+PROWESS-SHOCK: Drotrecogin Alfa (Activated) in Adults with Septic Shock
+PROWESS-SHOCK Study Group. N Engl J Med 2012;366:2055-64.
+Clinical Question
+In patients with septic shock, does Activated Protein C (also known as drotrecogin alfa or DrotAA) compared with placebo reduce mortality?
+Design
+Randomised
+Multi-centre
+Double blind
+Placebo controlled
+6 month follow up period
+Powered at 80% with ⍺ significance level of 0.05 to detect absolute mortality difference of 7% (relative difference 20%), from expected baseline mortality rate of 35%, if 1500 patients were recruited
+Recruitment target was increased mid-study to 1696 due to lower-than-expected mortality rate of 27.6%
+Setting
+March 2008 to August 2011
+208 sites worldwide (Europe, North and South America, Australia, New Zealand and India)
+Population
+Inclusion
+Age ≥18 years
+Infection requiring IV antibiotics
+≥2 SIRS criteria
+Septic shock, defined as:
+At least 30 mL/kg IV fluids
+≥1 vasopressor for ≥4h
+Continuing vasopressor requirements through time of randomization with goal SBP of 90 mmHg or MAP of 65 mmHg
+Hypoperfusion in the prior 36 hours, defined as ≥1 of:
+Metabolic acidosis, defined as base deficit of at least 5 mmol/L, bicarbonate <18 mmol/L, lactate >2.5 mmol/L
+Urine output <0.5 mL/kg/h for an hour or a 50% increase of creatinine from baseline
+Acute hepatic dysfunction with AST or ALT >500 IU/dL or bilirubin >2 g/dL
+Exclusion
+Coexisting illnesses with high risk of death (e.g. metastatic cancer)
+27816 potential patients, 1697 recruited and randomised
+Mean APACHE II scores were 25.2 (DrotAA group) and 25.5 (placebo group)
+Intervention
+DrotAA 24mcg/kg of body weight per hour for 96 hours
+Mean duration administered was 83.3 hours
+Interrupted for procedures in 36.7%
+Study drug stopped early in 25.9%
+Control
+Placebo dissolved in 0.9% saline solution at equivalent infusion rate
+Mean duration administered was 85.1 hours
+Interrupted for procedures in 34.4%
+Study drug stopped early in 22.9%
+Outcome
+Primary outcome: 28-day mortality
+26.4% in intervention vs 24.2% in control
+Relative risk 1.09 (95% CI 0.92-1.28; p = 0.31)
+Absolute risk reduction -2.2 (95% CI -2.0-6.3; NNH = 47)
+Secondary outcomes:
+90-day mortality
+34.1% in intervention vs 32.7% in control
+Relative risk 1.04 (95% CI 0.90-1.19; p = 0.56)
+Absolute risk reduction -1.36 (95% CI-3.17-5.89; NNH = 74)
+SOFA score at day 7
+No difference:
+Cardiovascular
+Respiratory
+Renal
+Coagulation
+Liver
+Adverse Events
+Any serious events by day 28
+14.3% in intervention vs 11.5% in control
+Relative risk 1.23 (95% CI 0.96-1.59; p = 0.11)
+Absolute risk reduction -2.76 (95% CI -0.46-5.98; NNH = 37)
+Any bleeding event during treatment period
+Non-serious
+8.6% in intervention vs 4.8% in control
+Relative risk 1.80 (95% CI 1.23-2.61; p = 0.002)
+Absolute risk reduction -3.84 (95% CI 1.44-6.24; NNH = 27)
+Serious
+1.2% in intervention vs 1.0% in control
+Relative risk 1.25 (95% CI 0.49-3.15; p = 0.81)
+Absolute risk reduction -0.24 (95% CI -0.75-1.23; NNH = 417)
+Any cerebral haematoma, cerebral haemorrhage, subarachnoid haemorrhage, haemorrhagic stroke by day 28
+0.4% in intervention vs 0.4% in control
+Relative risk 1.00 (95% CI 0.20-4.90; p = 1.00)
+Authors’ Conclusions
+DrotAA did not significantly reduce mortality at 28 or 90 days, as compared with placebo, in patients with septic shock.
+Strengths
+Randomised, blinded, placebo-controlled
+Targeted the group of patients identified by PROWESS as most likely to benefit i.e. the sickest patients
+Adaptive trial design: statistical power maintained by increasing recruitment numbers when mortality < 30%
+Weaknesses
+Funded by manufacturer
+Each centre recruited an average of 8.2 patients over the 3 years and 5 months period. This very low recruitment rate for severe sepsis (a not uncommon syndrome) is unexplained.
+The Bottom Line
+DrotAA doesn’t reduce mortality in patients who are septic and you can no longer get it anyway – the drug has been withdrawn.
+External Links
+[article abstract]
+Drotrecogin Alfa (Activated) in Adults with Septic Shock
+[Open access commentary]
+Severe sepsis: are PROWESS and PROWESS-SHOCK trials comparable? A clinical and statistical heterogeneity analysis by Kalil and Florescu
+[Editorial]
+Septic Shock — Evaluating Another Failed Treatment by Wenzel and Edmond
+[Editorial]
+The withdrawal of Xigris by Saxon and Wyncoll
+[Summary of journey]
+Xigris’ epitaph: “I Never Worked a Day in My Life” (PROWESS-SHOCK)
+[Guidelines]
+International Guidelines for Management of   Severe Sepsis and Septic Shock: 2012
+Metadata
+Summary author:
+@avkwong
+Summary date: 6 November 2014
+Peer-review editor:
+@DuncanChambler

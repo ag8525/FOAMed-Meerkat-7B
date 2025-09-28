@@ -1,0 +1,135 @@
+# Metadata
+- Source: The Bottom Line
+- Title: CRASH-3
+- Original URL: https://www.thebottomline.org.uk/summaries/crash-3/
+- Scrape Date: 2025-07-17
+- Summary Date: AUTO_FILL_IF_AVAILABLE
+
+Effects of tranexamic acid on death, disability, vascular occlusive events and other morbidities in patients with acute traumatic brain injury (CRASH – 3): a randomised, placebo-controlled trial
+The CRASH-3 trial collaborators. The Lancet, 2019; doi.org/10.1016/S1040-6736(19)32233-0
+Clinical Question
+In patients with traumatic brain injury (TBI), does the administration of tranexamic acid (TXA) under 3 hours from injury, compared with placebo, reduce head injury associated in-hospital mortality within 28 days?
+Background
+There are limited trials that have looked at the use of TXA use in TBI – an extremely common cause of mortality and morbidity
+TICH – 2 looked at the use of TXA in spontaneous intra-cranial haemorrhage but not traumatic bleeds
+Two small trials set in India, Colombia and Thailand (n=508)  found no statistical improvement in mortality in isolation
+A meta-analyses did show a reduction in mortality (risk ratio of 0.63, CI 0.40 – 0.99)
+There has been a smaller recent trial in the USA (ROC-TXA) although this is yet to be fully published
+Design
+Randomised, Placebo Control Trial
+Random allocation through removal of the lowest numbered treatment pack available
+Pack labels on TXA and placebo identical and contents checked to ensure coding of contents correct with random testing (chromatography)
+Packs prepared with randomisation codes from an independent statistician
+Participants and study staff blinded
+Initial power calculations approximated requirement of 10000 patients to have 90% power (two sided α of 1%) to detect a 15% relative reduction (3 % ARR, from 20% to 17%) in mortality
+Sample size increased to 13000 as primary outcome changed to in-hospital death within 28 days and recruitment limited to < 3 hours of injury due to emergence of data surrounding time frames and effectiveness of TXA
+Pre-specified subgroups included head injury severity, time to TXA and age
+Multi-variable model used to control for age, Systolic BP, TBI severity
+Primary outcome of head injury associated death was assessed by the responsible clinician, and for adverse events to be recorded (eg. PE/DVT) then radio-graphic or post-mortem evidence was required
+Outcome data collected at day 28, at discharge from randomising hospital or at death (whichever came first)
+19% of hospital records monitored (on site or remotely) including 67% of those who died from head injury
+Intention to treat analysis
+Setting
+175 hospitals in 29 countries
+July 2012 – Jan 2019
+Population
+Inclusion
+:
+Adults with TBI within 3 hrs of injury (changed from within 8 hrs of injury in Sep 2016)
+GCS <=12 or intracranial bleeding on CT
+No major external bleeding
+The treating clinician had to be substantially uncertain as to the appropriateness of TXA as a treatment
+Exclusion
+:
+None listed
+12737 patients randomised
+6406 to TXA of which 4649 were randomised < 3 hrs
+4613 / 4649 analysed
+13 withdrew consent, 7 had data unavailable and 29 lost to follow-up
+6331 to placebo of which 4553 were randomised < 3 hrs
+4514 / 4553 analysed
+19 withdrew consent, 14 data unavailable and 25 lost to follow up
+Baseline characteristics (sex, age, time since injury, SBP, GCS, pupillary reaction) well matched
+27% in TXA group and 28% patients in placebo group had GCS 13-15 therefore must have had a positive CT scan
+Intervention
+Tranexamic acid
+1g over 10 minutes followed by IV infusion of 1g over 8 hours
+Control
+Placebo
+0.9% NaCl used, otherwise identical
+Management common to both groups
+No information published regarding ongoing management
+Outcome
+Primary Outcome:
+28 day in-hospital head injury associated mortality in patients assigned within 3 hours of injury -no significant difference
+TXA group 855/4613 (18.5%) vs. 892/4514 (19.8%) in placebo
+RR 0.94 (95% CI 0.86 – 1.02)
+ARR 1.23% (95% CI -0.39 – 2.84%)
+Pre-specified Subgroup Analysis of Primary Outcome
+Excluding those with GCS 3 or bilateral unreactive pupils-no significant difference
+28 day in hospital TBI associated mortality in TXA group 485/3880 (12.5%) vs. 525/3757 (14.0%) in placebo
+RR 0.89 (95% CI 0.80 – 1.00)
+ARR 1.47% (95% CI -0.05 – 2.99%)
+Patients with Mild to Moderate TBI (GCS 9-15) -significantly reduced in TXA group
+28 day in hospital TBI associated mortality in TXA group 166/2846 (5.8%) vs. 207/2769 (7.5%) in placebo
+RR 0.78 (95% CI 0.64 – 0.95)
+ARR 1.64% (95% CI 0.34 – 2.95%)
+Other secondary outcomes
+:
+Timing of TXA:
+< 1 hr RR 0.96 (95% CI 0.79 – 1.17)
+1-3 hr RR 0.93 (0.85 – 1.02)
+Early treatment was more effective than later treatment in mild – moderate injury (p=0.005), but timing had no effect in severe injury
+No statistical difference noted in high income vs low and middle income countries
+Disability Measures:
+Disability Rating Scale similar, 4.99 in TXA vs 5.03 in placebo (if TXA used within 3 hours)
+4 – 6 is classed as a moderate disability
+No difference between groups for patient derived disability measures
+Complications:
+No increased risk of vaso-occlusive events (1.6% in both groups) or seizures (3.2% in TXA group vs 3.0% in placebo)
+Authors’ Conclusions
+TXA safe in TBI and that treatment within three hours reduces head injury associated deaths
+Strengths
+Extremely large, multi-centre trial across a range of countries (both geographically and economically) increases external validity
+Good Internal Validity
+Extremely well balanced baseline characteristics minimises selection bias
+Randomisation and protocols for blinding minimise detection bias
+Minimal loss to follow up reduce attrition bias
+Small number of protocol violations (98 in total, of which 32 were patients recruited during a lapse in the annual ethics approval in the UAE)
+Pragmatic design to allow timely access to intervention
+Sensible pre-specified subgroups – GCS and pupillary reaction are easily assessed in the pre-hospital setting (and don’t require a CT scan).
+This is important given the demonstrated ease by which TXA can be administered in the out of hospital setting in other large trials
+Although saying this a large proportion had a GCS > 12 therefore must have had a positive CT scan prior to administration
+Important that study also considered patient focused outcomes (eg. Patient Derived Disability Measures) in addition to mortality
+Weaknesses
+The primary outcome of 28 day in hospital head injury associated mortality could miss certain cohorts of patients
+There will arguably be some deaths beyond 28 days that will have occurred as a direct result of the TBI
+Some deaths will be due to withdrawal of medical care – this may occur beyond 28 days (this could be exacerbated in countries and cultures where treatment withdrawal may not be culturally or religiously appropriate)
+A small subset of patients may have been discharged into another care setting and may not survive to 28 days, however, discharge alive from the randomising hospital will be recorded as survival.
+If one of the hypothesised benefits is to reduce haematoma expansion, then in those patients with smaller bleeds and higher initial GCS (and supposed lower likelihood of mortality) then following TXA administration and presumed resultant reduced expansion, would an outcome related to neurological state be better rather than mortality?
+Classification of the primary outcome by the responsible clinician may lead to some some errors in classification (ie. due to head injury or other causes)
+Differences between clinicians may exist as to what constituted a TBI associated death (this could lead to recall and observer bias)
+No mention was made of pre-hospital interventions or management common in both groups
+This may be important in the evolving age of pre-hospital care and the critical importance of minimising secondary brain injury, especially if trying to translate results to countries with more aggressive resource limitations
+For purists, the conclusion doesn’t correlate with the statistical analysis
+The primary outcome has a 95% CI that crosses zero, thus the conclusion that “treatment within 3 h of injury reduces head-injury associated death” is not statistically correct
+Despite the size of the subgroup in which a statistical benefit was shown (GCS 9-15), this may be a type I error. This opens up interesting ethical questions about outcome reporting, especially given the reporting of this trial in the media
+The Bottom Line
+This is an enormous and well-designed, pragmatic trial designed to answer a question with limited evidence base
+TBI still has a 28 day in hospital mortality of nearly 20% in the placebo group – this is similar to the MRC CRASH trial which started recruitment in 1999
+TXA administration in TBI appears safe, however by conventional statistics it does not appear to reduce in hospital TBI associated death at 28 days when administered < 3 hours
+Hopefully longer term data will be published in due course
+Interesting debate will continue to occur as to whether subgroup analyses can be used to drive changes in clinical practice
+If it was my loved one with a mild-moderate TBI, I would be advocating for them to receive TXA given its low risk of harm
+External Links
+CRASH 2 Trial
+Pulm Crit – Tranexamic Acid for traumatic brain injury (CRASH3)
+Prehospital Tranexamic Acid Use for Traumatic Brain Injury (TXA)
+JC: Tranexamic Acid (TXA) in Head Injury. The CRASH-3 results. St Emlyn’s
+EM Nerd-The Case of the Indecisive Antidote
+SGEM#270: CRASH-3 TXA FOR TRAUMATIC HEAD BLEEDS?
+badEM: Crash 3
+Metadata
+Summary author: George Walker @hgmwalker89
+Summary date: 31.10.19
+Peer-review editor: @davidslessor

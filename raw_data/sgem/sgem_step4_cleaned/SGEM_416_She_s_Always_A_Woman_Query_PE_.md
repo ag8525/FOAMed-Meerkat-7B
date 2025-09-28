@@ -1,0 +1,118 @@
+---
+url: https://thesgem.com/2023/09/sgem416-shes-always-a-woman-query-pe/
+title: "SGEM#416: She’s Always A Woman, Query PE?"
+date: 2023-09-30
+audio_url: https://media.blubrry.com/thesgem/content.blubrry.com/thesgem/SGEM416.mp3
+download_date: 2025-08-11
+---
+
+**Reference:**Jarman et al. Sex Differences in Guideline-Consistent Diagnostic Testing for Acute Pulmonary Embolism Among Adult Emergency Department Patients Aged 18-49. AEM September 2023
+
+**Guest Skeptic:** Dr. Corey Heitz is an emergency physician in Roanoke, Virginia. He is also the CME editor for Academic Emergency Medicine.
+
+**Case:** During a shift in the emergency department (ED), you see two patients with pleuritic chest pain, one female and one male. Pulmonary embolism (PE) is a diagnosis you are considering for both. After d-dimer testing your female patient, you order a CT scan of the chest for the male patient. One of the nurses on shift asks you why you didn’t order a d-dimer for the male, like you did the female patient.
+
+**Background:** PE is commonly considered during ED workups for chest pain and shortness of breath (1). We have covered the topic of PE more than ten times on the SGEM:
+
+* SGEM#51: Home (Discharging Patients with Acute Pulmonary Emboli Home from the Emergency Department)
+* SGEM#118: I Hope you Had a Negative D-dimer (ADJUST PE Study)
+* SGEM#126: Take me to the Rivaroxaban – Outpatient treatment of VTE
+* SGEM#163: Shuffle off to Buffalo to Talk Thrombolysis for Acute Pulmonary Embolism
+* SGEM#184: We Weren’t Born to Follow-Up – The PEITHO Long-Term Follow-up Study
+* SGEM#219: Shout, Shout, PERC Rule Them Out
+* SGEM#276: FOCUS on PE in Patients with Abnormal Vital Signs
+* SGEM#277: In the Pregnant YEARS – Diagnosing Pulmonary Embolism
+* SGEM#282: It’s All ‘bout that Bayes, ‘Bout that Bayes- No Trouble – In Diagnosing Pulmonary Embolism
+* SGEM#295: Teacher, Teacher – Tell Me How to Do It (Diagnose a PE)
+* SGEM#323: Mama I’m Comin’ Home – For Outpatient Treatment of a Pulmonary Embolism
+
+Many patients may be able to have PE ruled out without imaging, after risk stratification with one of several decision tools (2). A very common clinical decision instrument is the Well’s Criteria. It has seven items with each item having a weighting from 1 to 3. The score is added up and then can be applied in a three-tiered model (low, moderate, or high risk) two-tiered model (PE is unlikely or likely).
+
+ 
+Another common tool is the revised Geneva Score (rGS). It is an eight-item clinical decision instrument for risk stratification. Each item in this tool also has different weight assigned to the items. Patients are considered low, intermediate, or high-risk depending on their total score.
+
+ 
+Neither of these two scores considers the sex of the patient for risk stratification. However, sex differences exist in the workup of PE, with females receiving more diagnostic testing, but with a lower diagnostic yield. Female patients are also more likely to undergo diagnostic imaging, and females who undergo imaging are less likely to be diagnosed with PE (3-5).
+
+---
+
+### **Clinical Question: Are male and female patients equally likely to receive care consistent with guidelines for suspected PE?**
+
+---
+
+**Reference:** Jarman et al. Sex Differences in Guideline-Consistent Diagnostic Testing for Acute Pulmonary Embolism Among Adult Emergency Department Patients Aged 18-49. AEM September 2023
+
+* **Population:** Patients 18-49 years of age presenting with chest pain, shortness of breath, hemoptysis, or syncope alone or in combination
+  + **Excluded:** Pregnancy or incomplete ED visits
+* **Exposure:** Objective testing for PE
+* **Comparison:** Sex (male or female)
+* **Outcome:**
+  + **Primary Outcome:** Receipt of guideline-consistent care based on revised Geneva Score (rGS)
+  + **Secondary Outcomes:** Rates of d-dimer testing, d-dimer positivity, rates of CT-pulmonary artery scanning (CTPA), overall yield of testing.
+* **Type of Study:** A retrospective cohort study conducted at two U.S. academic tertiary care hospitals
+
+ 
+Dr. Angela Jarman
+
+This is an SGEMHOP episode which means we have the lead author on the show.  Dr. Angela Jarman is an Assistant Professor and the Director of Sex & Gender in Emergency Medicine at UC Davis. She joined the faculty there after completing a two-year fellowship in Sex & Gender in Emergency Medicine at Brown University, where she also earned a Master of Public Health degree.
+
+**Authors’ Conclusions:** *“In this cohort, females were more likely than males to receive care consistent with current guidelines and less likely to be diagnosed with PE.”*
+
+** Quality Checklist for** **Observational Study:**
+
+1. Did the study address a clearly focused issue? Yes
+2. Did the authors use an appropriate method to answer their question? Yes
+3. Was the cohort recruited in an acceptable way? Yes
+4. Was the exposure accurately measured to minimize bias? Yes
+5. Was the outcome accurately measured to minimize bias? Yes
+6. Have the authors identified all-important confounding factors? Yes
+7. Was the follow up of subjects complete enough? Yes
+8. How precise are the results? Seem precise where CIs are provided
+9. Do you believe the results? Yes
+10. Can the results be applied to the local population? **Probably**
+11. Do the results of this study fit with other available evidence? Yes
+12. Funding of the Study. It was supported by three grants (American Heart Association, National Center for Advancing Translational Science, and the Office of Research on Women’s Health. The authors all declared no conflicts of interest
+
+**Results:** They identified 1,991 patient encounters that met inclusion criteria. The mean age was 36 years, 63% were female and the majority had a chief complaint of chest pain. The revised GS was calculated to be low, intermediate, or high risk 36%, 62% or 2% of the time respectively.
+
+---
+
+### **Key Result:** **Female patients were more likely to receive guideline-consistent care.**
+
+---
+
+* **Primary Outcome:** Receipt of guideline-consistent care based on rGS was 70% female vs. 63% male, *p* = 0.003
+* **Secondary Outcomes:** Rates of d-dimer testing, d-dimer positivity, rates of CT-pulmonary artery scanning (CTPA), overall yield of testing.
+
+** **
+
+ 
+Listen to the podcast to hear Angela answer our five nerdy questions.
+
+**1. Revised Geneva Score vs Well’s Criteria:** Your group decided to use the rGS rather than Well’s criteria. My experience is that Well’s is used more often than rGS. Can you explain your decision not to use Well’s Criteria?
+
+**2. Female Sex as a Risk:** I have heard several times when asking residents and other clinicians what risk factors someone has for PE. Female sex is often cited as being a risk factor. Can you address this seeming misconception?
+
+**3. Guideline-Inconsistent Care:** What do you think drives clinicians not to follow the guidelines?
+
+**4. Clinical Gestalt:** Let’s talk a little about the finding that the plurality of PEs diagnosed were in patients who did *not* receive guideline consistent care. Do you think this is where clinician gestalt becomes important?
+
+** 5. Guidelines are Not GODlines**: At the end of the day, we are talking about concordance with guidelines. Guidelines should guide our care but not dictate our care. You identified an association between how closely guidelines are followed and the sex of the patients. What this research does not tell us is what is the correct percent PE guidelines should be followed. We know it is not 0% and I think we can agree it is not 100%. So, what is the correct number and why?
+
+**Comment on Authors’ Conclusion Compared to SGEM Conclusion:** We agree with the authors’ conclusions.
+
+---
+
+### **SGEM Bottom Line: When working patients up for a PE, consider the guideline and risk stratify with validated decision tools or clinical gestalt to avoid over testing and overuse of advanced imaging.**
+
+---
+
+**Case Resolution:** The male patient was getting a CTPA without d-dimer testing. The female patient had an elevated d-dimer, and therefore also underwent CTPA imaging. Neither patient was diagnosed with a PE.
+
+ 
+Dr. Corey Heitz
+
+**Clinical Application:** Understanding our own biases is important. One tool to try to avoid a bias in this case is to consider using a validated risk-stratification tools to help our decision-making processes.
+
+**What Do I Tell the Patient?** You explain to your nurse that when you utilized risk-stratification tools, the female patient was low risk, while the male was high, and this explains the difference in initial workups.
+

@@ -1,0 +1,165 @@
+```yaml
+title: "CrackCast Episode 198: Brain Resuscitation"
+url: "https://www.canadiem.org/crackcast"
+date: 2019-02
+source: "CanadiEM – CrackCast"
+original_file: "CRACKCast-E198-Brain-Resuscitation.pdf"
+summary: |
+  The document focuses on brain resuscitation, emphasizing the dynamic nature of neuronal injury post-ischemic insult and the importance of maintaining optimal physiological conditions to prevent further damage. Key management strategies include maintaining mean arterial pressure (MAP) above 65 mmHg and cerebral perfusion pressure (CPP) between 50-70 mmHg, avoiding hypoxia and significant hyperoxia, and managing intracranial pressure (ICP) through patient positioning, sedation, and potentially hypertonic therapy or surgery. Hyperventilation should be avoided except in acute herniation scenarios, and hyperglycemia should be controlled with insulin. Seizures require prompt treatment with IV antiepileptics, and fever should be managed aggressively. Therapeutic hypothermia is recommended for comatose survivors of out-of-hospital cardiac arrest, with a target temperature of 33-36 degrees Celsius maintained for 24 hours. The document also discusses cerebral autoregulation, the importance of maintaining euthermia, and the use of seizure prophylaxis in traumatic brain injury (TBI) patients.
+```
+
+## Overview
+
+### Key Concepts
+
+1. Neuronal injury is a dynamic process that continues for hours or days after an ischemic insult to the brain.
+2. Hypotension and hypoperfusion should be avoided by maintaining MAP >65 mmHg and CPP of 50-70 mmHg.
+   - Normoxia and mild hyperoxia, with PaO2 of 80-120 mmHg and oxyhemoglobin saturations in the high 90s, should be maintained. Hypoxia and significant hyperoxia should be avoided.
+   - ICP elevation can further exacerbate ischemic brain injury. Initial management should include optimizing patient positioning while providing adequate analgesia and sedation. Management should then be escalated in a stepwise fashion to include hypertonic therapy, deep sedation with barbiturates, hypothermia, and surgery as needed.
+   - Hyperventilation decreases cerebral blood flow and should be avoided by targeting a PaCO2 of 35-40 mmHg. In the event of life-threatening cerebral herniation or significant ICP elevation, therapeutic hyperventilation is appropriate only as a short-term intervention bridging to more definitive therapy (i.e., craniotomy).
+   - Hyperglycemia worsens neurologic outcomes. Subcutaneous or IV insulin should be used to maintain a glucose < 180 mg/dL.
+   - When present, seizures should be promptly aborted using IV lorazepam, followed by treatment with IV phenytoin, valproic acid, or levetiracetam with an initial 20 mg/kg loading dose. The prophylactic administration of antiepileptic drugs is not recommended, except for 7 days immediately following TBI.
+   - Fever is an important mediator of secondary brain injury and all temperatures >38 degrees Celsius should be treated promptly with acetaminophen and surface cooling.
+3. Comatose survivors of out-of-hospital cardiac arrest should be rapidly cooled in the ED, maintained at a constant target of 33-36 degrees Celsius in an ICU setting for 24 hours after resuscitation, and receive targeted temperature management to prevent hyperthermia after this period.
+
+### Rosens in Perspective
+
+Neurological anatomy and physiology represent perhaps one of the most complex areas of medicine. The processes of neuronal damage and repair are unbelievably nuanced and healing can occur optimally only under ideal conditions. In the ED, we frequently encounter patients with potential neurologic injury, and as such, we must equip ourselves with the requisite knowledge to best care for these patients. This podcast will give you the baseline knowledge you will need to correct metabolic and hematologic derangements that would otherwise slow neurologic healing and worsen outcomes. We will also speak to specific physiologic targets to guide your interventions in the ED. Last, we will present an analysis of therapeutic hypothermia and look at the patient population(s) that will see benefit from it.
+
+Like we always say, this podcast will act as a jumping-off point. Brain resuscitation is a complex topic, so you need to take the time to dig a little deeper. Also, to make sure this information is retained, you should also read through the chapter in Rosen’s 9th Edition AND use our set of flash cards.
+
+With that said, let’s jump into another episode!
+
+## Core Questions
+
+### 1. What is cerebral autoregulation?
+
+Cerebral autoregulation is the process by which the brain controls the amount of perfusing blood flow it receives. Under optimal conditions, the brain is able to accommodate changes in intracranial pressure and mean arterial pressure by altering cerebral vascular resistance. ICP is typically low, so cerebral perfusion is largely dependent on MAP. As MAP increases, cerebral blood vessels vasoconstrict to prevent vasogenic edema and increasing ICP. Conversely, if MAP decreases, the brain attempts to increase cerebral blood flow by vasodilation of cerebral vasculature. Homeostasis is maintained, and optimal physiologic functioning persists.
+
+There is a limit to the brain’s ability to autoregulate, however. This typically occurs at extremes of MAP and when the brain is injured. In the context of MAPs <60 mmHg and >160 mmHg, the brain is unable to adequately autoregulate, and as a result, cerebral perfusion is not optimized. In the setting of increasing ICP, the brain attempts to increase cerebral blood flow by causing vasodilation, which often increases ICP and worsens neurogenic ischemia.
+
+The numbers listed above are not hard-and-fast limits; rather, they represent a range that has the capacity to shift. In patients with chronically uncontrolled hypertension, the MAP range at which the brain can autoregulate is higher.
+
+### 2. Describe your parameters for post-arrest care of a brain-injured patient.
+
+Essentially, we need to keep the injured brain in a normal physiologic environment. Parameters to consider are discussed below.
+
+If arresting - ROSC is our first priority. The degree of brain injury post-arrest depends on the duration of complete cerebral ischemia (time before initiation of CPR). Success in resuscitation with a good neurologic outcome is inversely proportional to the duration of arrest.
+
+After that - as per the original CRACKCast boys - “keep their vitals and ABG in normal limits, and keep the brain asleep”
+
+Goals:
+1. Avoid hypotension: MAP > 65 mmHg
+   - Injured brain loses ability to autoregulate effectively
+2. Avoid hypertension: aim for SBP <140 mmHg
+   - Hypertension may disrupt BBB and lead to worsening vasogenic edema.
+3. Avoid hypoxia or hyperoxia: PaO2 80-120
+   - Hypoxia - obviously avoid.
+   - Hyperoxia - increased oxidative brain injury in animal models.
+4. Avoid hyper/hypocarbia
+   - Caveat - hyperventilation can be used if the patient is herniating. Otherwise, aim for PaCO2 35-45
+5. Maintain euthermia (avoid fever/spikes in temperature)
+   - Metabolic demand increases by 8-13% for every ºC.
+   - Increased free radical production, BBB damage, vasogenic edema
+6. Maintain euglycemia
+   - Target BG <10mmol/L, avoid hypoglycemia
+   - Hyperglycemia after brain injury = worse outcomes. Increased levels of lactate in the brain, increased cell death.
+7. Consider therapeutic hypothermia <36º (will discuss in later questions)
+8. Aggressively treat seizures
+   - Seizures increase brain metabolism by 300-400%.
+   - Consider EEG monitoring if concerned about nonconvulsive SE.
+9. Avoid ICP triggers
+   - Head in neutral position
+   - Collar LOOSELY applied if C spine injured (avoid impeding head’s venous drainage)
+   - Prevent Valsalva (coughing/gagging)
+   - Avoid unnecessary stimulation and noisy environment
+   - Sedate and paralyze (consider EEG for subclinical SE)
+
+### 3. List 7 interventions for management of a patient with elevated ICP.
+
+Note - some overlap with our previous list
+
+1. Elevate HOB 30º
+2. Neutral position of head and neck to avoid jugular venous compression.
+3. Treat fever
+4. Minimize triggers of ICP increases
+   - Treat pain
+   - Adequate sedation to avoid coughing (propofol decreases cerebral metabolic activity and CBF)
+5. Initiate osmolar therapy (mannitol or HTS)
+   - Use mannitol in cases of fluid overload (is a diuretic)
+   - Use HTS in other settings (can be used as a resuscitative fluid)
+6. Consider barbiturate coma if refractory to other therapies. (further decreases CBF and lowers ICP)
+7. Hypothermia can be considered in highly refractory cases.
+8. Surgical management - craniectomy can be considered in refractory ICP or if herniation present.
+
+### 4. What are the equations for cerebral blood flow and cerebral perfusion pressure?
+
+Cerebral Perfusion Pressure = Mean Arterial Pressure - Intracranial Pressure (or CVP, whichever is higher)
+
+Normal Range: 50-70 mmHg
+
+Cerebral Blood Flow = Cerebral Perfusion Pressure/Cerebral Vascular Resistance
+
+Normal Range: 50 ml / 100 g min (typically less in white matter and higher in grey matter)
+
+While the above equations may seem fairly simple, the actual measurement and analysis of these values is nuanced. Approximations of cerebral blood flow and cerebral perfusion pressure are used to steward management of our patients with brain injury, but the above equations are not always accurate. Keep in mind the vast complexity of neurologic physiology we discussed earlier...it should help you wrap your head around these topics.
+
+### 5. Describe a protocol for induced hypothermia after cardiac arrest.
+
+While this may not be something you do regularly in the Emergency Department, induction of hypothermia after cardiac arrest is something you should have an idea as to how to do. Look no further than to Box 7.1 in Rosen’s 9th Edition for a description of the Skeleton Protocol. The Skeleton Protocol is described further below:
+
+1. Evaluate adult survivors of cardiac arrest by following institutional criteria for appropriateness for induced hypothermia.
+2. Begin cooling by rapidly infusing 2L of cold (4 degrees Celsius) intravenous saline immediately after arrival or ROSC.
+3. Expose patient, avoid external warming - no blankets and no heated ventilator circuit.
+4. Place temperature-sensing urinary catheter and esophageal temperature probe.
+5. Initiate definitive endovascular temperature control device at maximal rate to target temperature of 33 degrees Celsius.
+6. Prevent shivering with sedation and non-depolarizing paralytic - bolus in ED, bolus or drip in ICU.
+7. Avoid hypotension and hypoxia.
+8. Most ED diagnostic evaluation, if needed, should follow initiation of cooling (in patients with acute myocardial infarction who are going to primary coronary intervention, cooling should not delay door-to-balloon time. Cooling is initiated in the ED if there is time before catheterization laboratory is ready; otherwise, cooling is initiated in the laboratory).
+9. Admit to ICU.
+10. Continuous EEG monitoring for occult status epilepticus recommended. Treat seizures if present.
+11. Manage ABG in a consistent manner (may choose pH stat or alpha stat).
+12. At 24 hours after initiation of cooling, initiate rewarming to a target temperature of 36.5 degrees Celsius at a rate of 0.15 degrees Celsius per hour.
+13. Discontinue paralytics at the onset of warming. Control shivering with sedation, narcotics, and surface counter-warming.
+14. Lighten sedation as tolerated as rewarming progresses.
+15. Discontinue endovascular temperature control device after 48 hours (may use the device to maintain normothermia after rewarming is complete until it is removed).
+16. Remove or minimize sedation to allow neurologic evaluation before 72 hours to allow the best possible clinical prognostication at that time point; neurology consultation recommended.
+
+The research demonstrates consistent benefit of therapeutic mild hypothermia. It is theorized that reduced metabolic demand, diminished glutamate release, reduced free radical formation, and limitation of inflammatory cytokine production in the setting of mild hypothermia improve clinical outcomes. Rosen’s cites a figure that says in survivors of out-of-hospital cardiac arrest, the NNT with therapeutic hypothermia is 1 in 7. Wowza.
+
+Note here again that therapeutic hypothermia is recommended for OHCA patients only. The role of therapeutic hypothermia in patients with TBI is less clear, so stay tuned for more details. There is also no clear role for therapeutic hypothermia in patients following ischemic stroke, so do not go freezing the old gal with pronator drift in bed 4.
+
+It is important to note that there are several induced hypothermia protocols available. Rosen’s provides a link to a website from the University of Pennsylvania that makes available several other protocols. We, too, have included the link below:
+
+Link: [https://www.med.upenn.edu/resuscitation/hypothermia/protocols.html](https://www.med.upenn.edu/resuscitation/hypothermia/protocols.html)
+
+### 6. In the patient with a traumatic brain injury, what is the optimal drug for and duration of seizure prophylaxis?
+
+Seizures are bad...mmmmmmkay. We know this already. But, what you may not know is just how bad they are. Seizure activity has been noted to increase brain metabolism by 300-400%, which can significantly worsen neurological damage in our patients with an injured brain. Yikes.
+
+In the setting of traumatic brain injury, it is recommended that seizure prophylaxis be instituted. The benefit of seizure prophylaxis has been demonstrated with phenytoin, reducing seizures during the first seven days after TBI. While this can be accomplished with phenytoin, the side effect profile is not ideal. As such, Rosen’s recommends 7 days of levetiracetam 500 mg PO BID.
+
+Remember, we are only giving prophylactic antiepileptics to our TBI patients. There is no convincing evidence to suggest that we should be prophylactically treating patients with either cardiac arrest or intracerebral hemorrhage with these medications. In fact, giving AEDs to patients with intracerebral hemorrhage has been found to be associated with worse neurologic outcomes, so don’t do it.
+
+## Wisecracks
+
+### 1. What are Lundberg A waves?
+
+On ICP monitoring devices, Lundberg A waves represent periods of refractory ICP elevation. These appear as increases in ICP from baseline, plateauing ICP for several minutes, and then spontaneous return of ICP to near-baseline levels. These are generally the result of increasing ICP that leads to increased cerebral vasodilation that further increases ICP and diminishes CPP. The return to baseline is the result of the Cushing Response.
+
+### 2. What is the relationship between PaCO2 and CBF?
+
+As we all know, carbon dioxide is a vasodilator. We also know that lowering the PaCO2 in the patient suspected to be herniating is a life-saving measure, but just how important is it? Well, here you go: for every 1 mmHg reduction in PaCO2, you see a rapid reduction in CBF by 2%. Remember, however, that this comes at a price. There is a profound reduction in CBF with hyperventilation, so this strategy should only be used when the patient is herniating or when there is critically high ICP that is not responding to hyperosmolar therapies.
+
+### 3. What is the Monro-Kellie hypothesis?
+
+Throwback to our medical school days. The Monro-Kellie hypothesis states that the skull is a rigid container with three non-compressible elements: brain, blood, and cerebrospinal fluid. Increases in one substance will cause displacement of others from the box or increases in ICP. The first vault content to be displaced is CSF. CSF is shunted from the intracranial compartment to the spinal subarachnoid space. Next to be displaced is blood. Displacement of blood is achieved by compression of the dural sinuses and cerebral veins. Last to go is the brain. Herniation will eventually occur, and death or permanent neurologic injury will result if intervention is not undertaken.
+
+### 4. What is the probability that a survivor of cardiac arrest has a full neurologic recovery? How do these values change in patients with severe coma?
+
+Outcome prognostication in patients who survive cardiac arrest is difficult. However, Rosen’s cites the following probabilities for neurologic recovery after cardiac arrest:
+
+- Normal patients: 14-55% chance of full neurologic recovery
+- Patients with severe coma (defined as having motor plus brainstem four score <4 in the absence of sedatives and paralytics): 5-10%
+
+Again, these numbers may not be the most accurate. However, it is important to remember that for most patients, the likelihood that they will make a full recovery is not insignificant, so you should endeavor to intervene appropriately and in accordance with a patient’s wishes to best treat them.

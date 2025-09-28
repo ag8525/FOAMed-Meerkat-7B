@@ -1,0 +1,121 @@
+---
+source: The Bottom Line
+title: CURE (Clopidogrel in Addition to Aspirin in ACS without ST Elevation)
+original_url: https://www.thebottomline.org.uk/summaries/cure/
+scrape_date: 2025-07-17
+summary_author: Dave Slessor
+summary_date: 2018-01-03
+peer_review_editor: Steve Mathieu
+summary: |
+  The CURE trial investigated the efficacy of adding clopidogrel to aspirin in patients with acute coronary syndromes (ACS) without ST-segment elevation. This randomized, double-blind, placebo-controlled trial demonstrated that the combination therapy significantly reduced the composite outcome of cardiovascular death, myocardial infarction, and stroke compared to aspirin alone, with a relative risk reduction of 20% and a number needed to treat of 48. However, the addition of clopidogrel was associated with an increased risk of major bleeding. The trial's strengths include its large sample size and robust design, though it faced limitations such as changes in inclusion criteria and evolving diagnostic standards for ACS. Overall, clopidogrel plus aspirin is beneficial in reducing myocardial infarction rates in this patient population, albeit with a heightened bleeding risk.
+
+---
+
+# Effects of Clopidogrel in Addition to Aspirin in Patients with Acute Coronary Syndromes without ST-Segment Elevation (CURE Trial)
+
+## Clinical Point
+In patients with acute coronary syndromes (ACS) without ST elevation, does the combination of clopidogrel and aspirin, compared to aspirin alone, reduce the composite outcome of death from cardiovascular causes, acute myocardial infarction, and stroke?
+
+## Background
+Acute coronary syndromes are often caused by thrombosis due to ruptured plaque. Aspirin and heparin have been shown to reduce mortality following ACS. Clopidogrel, an antiplatelet agent, inhibits platelet aggregation induced by adenosine diphosphate. This trial investigates the potential additive effect of combining clopidogrel with aspirin.
+
+## Design
+- Randomised controlled trial
+- Computerised block randomisation stratified by clinical centre
+- Double-blinded
+- Placebo-controlled
+- Intention-to-treat analysis
+- Sample size calculation: 12,500 patients for 90% power to detect a 16.9% relative risk reduction for the primary outcome
+
+## Setting
+- 482 centres in 28 countries
+- Recruitment: December 1998 to September 2000
+- Follow-up until December 2000
+
+## Population
+
+**Inclusion Criteria:**
+- Hospitalised within 24 hours after symptom onset without ST elevation
+- Initially included patients >60 years with coronary artery disease and no new ECG changes
+- Criteria changed to include patients with ECG changes or elevated cardiac enzymes after 3000 patients enrolled
+
+**Exclusion Criteria:**
+- Contraindications to antithrombotic/antiplatelet therapy
+- High bleeding risk
+- Severe heart failure
+- Recent coronary revascularisation
+- Recent IV glycoprotein IIb/IIIa inhibitors
+
+**Enrollment:**
+- 12,562 patients randomised
+- 13 patients lost to follow-up
+
+## Intervention
+
+**Clopidogrel + Aspirin Group:**
+- Clopidogrel: 300 mg loading dose, then 75 mg daily
+- Aspirin: 75-325 mg daily
+
+## Control
+
+**Placebo + Aspirin Group:**
+- Placebo matched to clopidogrel
+- Aspirin: 75-325 mg daily
+
+## Outcomes
+
+### Primary Outcomes
+- **Composite of death from cardiovascular causes, non-fatal MI, or stroke:**
+  - Intervention: 9.3%
+  - Control: 11.4%
+  - Relative risk (RR): 0.8 (95% CI: 0.72–0.90), p < 0.001
+  - Number needed to treat (NNT): 48
+
+- **Composite of first primary outcome or refractory ischaemia:**
+  - Intervention: 16.5%
+  - Control: 18.8%
+  - RR: 0.86 (95% CI: 0.79–0.94), p < 0.001
+  - NNT: 44
+
+### Secondary Outcomes
+- **Significant reduction in myocardial infarction:**
+  - Intervention: 5.2%
+  - Control: 6.7%
+  - RR: 0.77 (95% CI: 0.67–0.89)
+
+- **No significant difference in:**
+  - Death from cardiovascular causes
+  - Death from non-cardiovascular causes
+  - Refractory ischaemia
+  - Stroke
+
+**Adverse Events:**
+- Major bleeding more common in intervention group: 3.7% vs. 2.7%, RR: 1.38 (95% CI: 1.13–1.67), p = 0.001
+
+## Authors’ Conclusions
+Clopidogrel reduced rates of myocardial infarction and recurrent coronary ischaemia, with a trend towards lower rates of stroke and cardiovascular death. However, it increased the risk of major bleeding.
+
+## Strengths and Weaknesses
+- **Strengths**
+  - Randomised controlled trial
+  - Double-blinded
+  - Multi-centre
+  - Minimal loss to follow-up
+  - Large sample size with high power
+
+- **Weaknesses**
+  - Inclusion criteria changed during the study
+  - Definition of ACS without ST elevation not clearly defined
+  - Diagnostic criteria for ACS based on cardiac enzymes no longer widely accepted
+
+## Bottom Line
+In patients with ACS without ST elevation, presenting with ECG changes and/or elevated cardiac enzymes within 24 hours of symptom onset, clopidogrel plus aspirin significantly reduced the composite outcome of death from cardiovascular causes, myocardial infarction, or stroke, primarily due to reduced myocardial infarction rates. However, clopidogrel increased major bleeding risk.
+
+## External Links
+- **Original article:** [Effect of Clopidogrel in Addition to Aspirin in Patients with ACS Without ST Elevation](https://www.nejm.org/doi/full/10.1056/NEJMoa010746)
+- **Further reading:**
+  - PulmCrit: Avoiding over-diagnosis and over-treatment of MI in critically ill patients
+  - Unfractionated heparin and LMWH in ACS without ST elevation: a meta-analysis
+  - Cardiology Trials – a useful website summarising important cardiology trials
+  - Anticoagulants in ischemia-guided management of non-ST-elevation ACS
+```

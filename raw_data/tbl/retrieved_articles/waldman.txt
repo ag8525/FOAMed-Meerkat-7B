@@ -1,0 +1,64 @@
+# Metadata
+- Source: The Bottom Line
+- Title: Waldman
+- Original URL: https://www.thebottomline.org.uk/summaries/em/waldman/
+- Scrape Date: 2025-07-17
+- Summary Date: AUTO_FILL_IF_AVAILABLE
+
+Waldman: Topical Tetracaine Used for 24 Hours Is Safe and Rated Highly Effective by Patients for the Treatment of Pain Caused by Corneal Abrasions: A Double-blind, Randomized Clinical Trial
+Waldman. Academic Emergency Medicine, 2014, 21(4):374-382
+Clinical Question
+In patients with corneal abrasions, is topical tetracaine, compared with saline, for 24 hours a safe and effective analgesic?
+Design
+Randomised controlled trial
+Double blinded
+Block randomisation with random block sizes
+Setting
+Single tertiary Emergency Department, New Zealand
+01.11.2011. – 31.10.2012
+Population
+Inclusion: adult patients with uncomplicated corneal abrasion from mechanical trauma, or removal of foreign body by physician; or keratitis from UV light
+Exclusion: high risk of infection or complication, including contact lens wear, unable to make follow up at 48 hours
+122 patients randomised from 414 patients coded with corneal abraisions/foreign body
+Intervention
+topical tetracine hydrochloride 1%
+applied up to every 30 minutes while awake for 24 hours
+Control
+topical saline
+applied up to every 30 minutes while awake for 24 hours
+Outcome
+Primary outcome: occurrence of any complication, and persistent fluorescein uptake at 48 hours (a marker of corneal healing)
+There were no complications in either group
+fluorescein uptake was seen in 23.9% in the tetracaine group vs. 21.3% in the saline group (Risk difference = 2.6%, 95% C.I. -14% to 20%, P=0.76)
+Secondary outcomes:
+reduction of pain as measured by a 100-mm visual analogue scale (VAS)
+average difference in pain score between tetracaine group and saline was 0.44mm at 24 hours (95% C.I. -0.32 to 1.2, P=0.259)
+However, in both groups <10mm after 12 hours, and approached zero after 24 hours
+patient rating of study drug effectiveness at 1 week, on a scale of 0-10
+7.7 in the tetracaine group vs. 3.8 in the saline group (difference =3.9%, 95% C.I. 2.4 to 5.3, P<0.0005)
+Authors’ Conclusions
+Topical tetracaine used for 24 hours is safe and significantly more effective than saline for the treatment of corneal abrasions
+Strengths
+Randomised
+Double blinded
+Largest RCT evaluating the safety and efficacy of topical anaesthesia for the treatment of uncomplicated corneal abraisions
+Weaknesses
+Some studies have suggested that tetracaine can cause increased risk of infections and poor corneal wound healing. Whilst this study had no complications in either group, it was inadequately powered for this primary outcome measure
+Burning caused by tetracaine, and lack of burning by saline, may have unblinded the patient and researcher
+Patients with retained rust rings excluded post-hoc due to ongoing fluorescein uptake that was felt to be secondary to underlying pathology
+Patient compliance with treatment was not recorded
+There was poor follow up at 48 hours: Tetracaine group 69% vs. saline group 64%
+The Bottom Line
+Based on this study, patients with a corneal abrasion rated topical tetracaine as being more effective than saline in providing analgesia, with no complications or delayed healing at 48 hours. However, the reduction of pain as measured by VAS was no different and importantly this study was not adequately powered to determine tetracaine safety. I won’t be using tetracaine as routine treatment. However, in situations where pain management is proving ineffective, with appropriate patient consent and local agreement, I would consider its use.
+Links
+Full text pdf /
+abstract
+/
+Editorial, Commentaries or Blogs
+R.E.B.E.L EM – Topical Anesthetic Use on Corneal Abrasions
+Metadata
+Summary author:
+@davidslessor
+Summary date: 12 May 2014
+Peer-review editor:
+@stevemathieu75

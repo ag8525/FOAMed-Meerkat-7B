@@ -1,0 +1,150 @@
+# Metadata
+- topic: 1.1 - Critical Management Principles - 5 Patient Monitoring
+- source_folder: 1.1 - Critical Management Principles
+- original_file: Ch.5 Patient Monitoring.pdf
+
+Crack Cast Show Notes – Patient Monitoring – Feb 2016 
+www.crackcast.org 
+ 
+CrackCast Episode 5 – Patient Monitoring 
+ 
+Episode Overview: 
+ 
+1) List 6 situations when pulse oximetry is not useful 
+2) List 10 situations when capnography is useful 
+3) Describe the ETCO2 curve 
+4) List four indications for invasive blood pressure monitoring 
+ 
+Wisecracks: 
+ 
+1) False pulse oximetry readings 
+ 
+ 
+1) List 6 situations when pulse oximetry is not useful 
+ 
+Pulse oximetry basics: 
+ 
+pulse oximetry uses LED lights to assess blood oxygenation by assessing the fractional 
+difference between the wavelengths of oxygenated and deoxygenated blood 
+ 
+calculates the percent of hemoglobin in the oxyhemoglobin state (not Pa02) 
+ 
+pulse oximeters are accurate between 80-100% 
+ 
+below that range large changes in Sa02 can occur with small changes in Pa02 
+ 
+Limitations to pulse oximetry:  
+● pulse oximeters are unable to distinguish oxy/deoxyhemoglobin from MetHb and COHb 
+■ Methemoglobin (MetHb) 
+ 
+caused by exposure to an oxidizing agent which changes 
+hemoglobin to its ferric form that is unable to bind 02 
+ 
+classically the cyanotic patient who doesn’t respond to O2 therapy  
+■ Carboxyhemoglobin (COHb) 
+ 
+carbon monoxide poisoning can occur from smoke inhalation, 
+automotive exhaust, propane heaters, wood stoves, gasoline motors etc.  
+ 
+classically the patient is one with “hypoxia, lactic acidosis, and 
+hypotension” 
+ 
+often have headache and altered LOC 
+ 
+With both MetHb and COHb the SpO2 will falsely read as high 
+ 
+So when is pulse oximetry not useful? 
+ 
+Three settings: 
+1) Methemoglobinemia 
+Crack Cast Show Notes – Patient Monitoring – Feb 2016 
+www.crackcast.org 
+● cyanide poisoning 
+● antimalarials 
+● benzocaine 
+● post methylene blue infusion 
+2) Carboxyhemoglobinemia 
+● CO poisoning 
+3) Poor light penetration 
+● dark nail polish  
+● low perfusion states 
+● dark skinned patients 
+ 
+ 
+2) List 10 situations when capnography is useful 
+ 
+Capnography can be qualitative or quantitative:  
+End-tidal CO2 measurement 
+ 
+Colorimetry (qualitative) 
+Uses a breath by breath assessment 
+purple = <4 mmhg CO2 
+tan = 4-15 mmhg CO2 
+yellow = >20 mmhg CO2  
+● used mainly for confirming endotracheal tube placement post-intubation 
+● quantitative waveform capnography is gold standard  
+ 
+Waveform capnography (quantitative) 
+Uses: 
+1) confirms ventilation/respiration and tube placement (gold standard) 
+2) a sudden rise during cardiac arrest may indicate ROSC 
+3) the most sensitive way of detecting apnea during procedural sedation 
+4) useful in the postictal/intoxicated/overdose patient to determine if they 
+have adequate ventilations  
+5) acidotic patients develop a compensatory resp. alkalosis and therefore 
+often have a dropping ETc02.  
+6) to roughly correlate between alveolar CO2 and arterial CO2 in people 
+with normal lung physiology 
+ 
+ 
+ 
+ 
+ 
+ 
+Crack Cast Show Notes – Patient Monitoring – Feb 2016 
+www.crackcast.org 
+3) Describe the ETCO2 curve 
+ 
+ 
+ 
+A, Four phases of a normal capnogram. 1-2, The carbon dioxide–free portion of the respiratory 
+cycle. 2-3, The rapid upstroke of the curve, representing the transition from inspiration to 
+expiration and the mixing of dead space and alveolar gas. 3-4, The alveolar plateau, 
+representing the alveolar gas rich in carbon dioxide and tending to slope gently upward with the 
+uneven emptying of the alveoli. 4-5, The respiratory downstroke, which is a nearly vertical drop 
+to baseline. B, C,and D, See text for explanation.  
+ 
+The shape of the capnogram can give you information about obstructive airway disease (shark-
+finning), spontaneous respiratory efforts, or ET cuff leaks.  
+ 
+4) List four indications for invasive blood pressure monitoring:  
+ 
+Intra-arterial catheter is the most accurate 
+ 
+Indicated when:  
+1) hemodynamic instability is anticipated 
+2) when dynamic monitoring of the patient’s condition or treatment effects is needed in real 
+time (volume shifts) 
+3) frequent arterial sampling  
+4) inaccurate BP due to obesity or dysrhythmias  
+ 
+ 
+ 
+Crack Cast Show Notes – Patient Monitoring – Feb 2016 
+www.crackcast.org 
+ 
+ 
+ 
+Wisecracks corner: 
+ 
+1) False Pulse Ox Readings 
+ 
+Another way to think of the causes for a false pulse ox reading is use the letters “SPO2” 
+● S = structural change to the hemoglobin molecule due to a dyshemoglobinemia 
+○ methhemoglobinemia or carboxyhemoglobinemia 
+● P = post-methylene blue  
+● O2  
+○ pOlish 
+○ lOw perfusion states 
+  
+ 

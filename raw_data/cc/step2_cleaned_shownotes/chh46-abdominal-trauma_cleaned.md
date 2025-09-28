@@ -1,0 +1,478 @@
+```yaml
+title: "CrackCast Episode 186: Abdominal Trauma"
+url: "https://canadiem.org/crackcast"
+date: 2016-10
+source: "CanadiEM – CrackCast"
+original_file: "Chh.46 Abdominal Trauma.pdf"
+summary: "Will be added later"
+```
+
+## Overview
+
+### Rosens in Perspective
+
+Principles to consider with any trauma patient:
+
+As with ANY trauma: we can never forget to think about co-incident or prodromal medical conditions that lead to trauma:
+- Hypoglycemia, seizures, anticoagulation
+- Post-EBV infection with splenic rupture after trivial trauma
+
+Don’t be fooled by the “isolated tib-fib #.” Don’t forget to suspect the hollow viscus injury.
+
+General pre-hospital and ER management:
+- EMS:
+  - Rapid survey, hemorrhage control / airway intervention, IV’s
+  - Scoop and run
+- ER:
+  - General trauma principles apply
+  - Thoracotomy, with possible aortic cross clamping
+  - Prophylactic doses of broad-spectrum antibiotics covering coliforms and anaerobes should be given in cases of blunt and penetrating abdominal trauma to decrease the risk of intra-abdominal sepsis (e.g., pip-tazo)
+  - In a rural setting, patients may need initial DAMAGE CONTROL operative stabilization by a general surgeon prior to transfer: open, pack, close.
+
+## Core Questions
+
+### 1) What are four mechanisms of injury in blunt trauma?
+
+1. Rupture/Burst
+   - Sudden increase in intra-abdominal pressures.
+   - Think Seatbelts
+   - Can have hollow viscus perforation, mesenteric tears, and solid organ injuries
+
+2. Crush
+   - Mechanism: direct force to anterior wall, squishing organs between force and vertebral column
+   - Elderly and alcoholics prone to this (weak abdominal musculature)
+
+3. Acceleration/Deceleration
+   - Sudden forces cause shear effect of organs on their pedicle, damaging vasculature
+
+4. Iatrogenic
+   - Positive Pressure Ventilation - gastric distension and pneumoperitoneum
+   - CPR / Heimlich - rib #s, perforation with pneumoperitoneum
+   - Tube thoracostomy - liver and splenic injury
+   - Liver Biopsy - hemoperitoneum
+   - Endoscopy / ERCP - perforation
+
+### 2) List expected intra-abdominal seat-belt injuries
+
+Solitary lap belts are far worse than 3-point restraint systems.
+
+- Solid organ hematoma or rupture
+- Bowel perforation
+- Mesenteric shearing / avulsion
+- Diaphragmatic herniation
+
+*Remember other seat belt injuries too: rib/sternal #s and Chance’s #.*
+
+### 3) What are the most common intra-abdominal injuries in children?
+
+Children have relatively poorly developed abdominal walls and decreased A/P diameter, increasing incidence of both solid and hollow organ injury.
+
+- Liver >>> Spleen >> Kidney
+
+Don’t miss hollow viscus perforation.
+
+Don’t forget about non-accidental trauma (NAT):
+- Duodenal/small bowel hematomas and perforations
+- Pancreatic contusions/lacerations/pseudocysts
+- Hepatospleno laceration/rupture
+- Mesenteric laceration
+
+### 4) Differentiate between the use of CT scan, diagnostic peritoneal lavage (DPL), and ultrasound – advantages & disadvantages.
+
+| Modality | Advantages | Disadvantages | Notes/Pearls |
+|----------|------------|---------------|--------------|
+| CT       | Gold star: Guides angiography and non-operative management. Higher predictive ability than DPL for operative lesions. Guides angiographic interventions by finding the source of bleeding. Visualizes the retroperitoneal space and vertebral column. Interrogates the GU tract and renal arteries. Can prevent unnecessary surgery. | Black star: May prevent necessary operations. Patients have to leave the ED. Can detrimentally delay laparoscopy or laparotomy. Radiation risk (?1-2% of all cancers today may be from radiation). | Oral contrast is not required anymore. See question 5 for the injuries missed by CT. |
+| Ultrasound | Portable, Fast, Serial exams. Can detect small amounts of hemoperitoneum with good specificity. Non-invasive, safe. Can find thoracic injuries. | Accuracy Variation. Doesn’t image solid parenchymal damage, retroperitoneal, diaphragm injuries. Limited in the obese, agitated, bowel/gas patient. Less sensitive than DPL and more operator dependent. 30% false negative rate in situations with pelvic #. Will miss bowel injury. Need 100-500mL of blood minimum. Can’t distinguish blood, pancreatic, ascitic, uroperitoneum. NEED serial exams to exclude hemoperitoneum. Will miss hollow viscous, diaphragm, solid organ, and retroperitoneal injury. | |
+| DPL | Good to triage unstable patients with equivocal FASTs, or who cannot have a FAST exam. | Low risk: Infection, Intraperitoneal injury. Can lead to unnecessary laparotomy in a stable patient who has a self-limited injury. False negative if lavage fluid not recovered. | First aspiration positive if: 10mL or more of frank blood is found on initial aspiration. Lavage: Saline introduced through catheter, and recovered by gravity drainage and analysed. |
+
+Other:
+- X-ray: Only current use is CXR to exclude thoracic injury prior to CT.
+- MRI: Impractical.
+- Local wound exploration.
+- Laparoscopy.
+
+CT will be the main way to find solid intra-parenchymal injury (e.g., subcapsular splenic lac).
+
+CT with oral contrast may find gastric, duodenal, rectal perforations (gastrograffin contrast); but CT with IV contrast should be able to distinguish these from duodenal hematomas.
+
+If X-ray is the only available imaging:
+- Obtain a LEFT lateral decubitus film after the patient has lied on their side for 5-10 mins - to look for free air.
+- Look for the “soap bubble” sign (string of air outlining the kidney) in cases of duodenal or retroperitoneal perforation.
+
+### 5) List intra-abdominal injuries that may be missed on CT
+
+Poorly identifies injury to the:
+- Pancreas
+- Diaphragm
+- Small bowel*
+- Mesentery*
+
+*Delayed diagnosis leads to increased morbidity.*
+
+### 6) Describe the process of local wound exploration
+
+- Goal is to assess the depth of a penetrating wound: has it penetrated peritoneum?
+- Steps:
+  - Consent, Clean, Prepare, PPE
+  - Local anesthetic with epinephrine
+  - Assess and possibly lengthen the stab wound
+    - Individually go through each layer
+    - **NO blind probing with digits, instruments, or swabs**
+    - Look for evidence of peritoneal violation
+  - Caveats:
+    - Pointless in people with multiple wounds
+    - Pointless when peritoneal violation is likely
+    - Contraindicated in thoracic cage injury
+    - Low yield in obese and heavily muscled people
+
+a) List 5 ways to determine if peritoneum has been violated in penetrating trauma
+
+i. Clear missile path through abdomen - based on entrance and exit wounds (Caveat is low velocity or tangential missile ricocheting paths)
+ii. Bowel / organs visualized on Local Wound Exploration (LWE)
+iii. “End” of the wound tract not visualized on LWE
+iv. X-ray showing retained foreign body or free air
+v. Laparoscopy showing diaphragm injury
+vi. CT demonstration of peritoneal violation
+
+### 7) List clinical indications for laparotomy in blunt and penetrating abdominal trauma
+
+Stab wound - “Stab-7” … well 5 really good reasons
+1. Shock “hemodynamic compromise”
+   - **The preeminent reason for Laparotomy** - don’t let the surgeon or anyone else suggest advanced imaging!
+   - Only caveat: need to consider intrathoracic injury leading to shock in upper abdominal trauma:
+     - Pneumo-hemothorax
+     - Pericardial tamponade
+2. Evisceration
+   - Viscus or omental evisceration have major risk for intra-peritoneal injury!
+3. Implements in situ
+   - Should be removed in the OR - to control hemorrhage and identify organ
+   - Only reasons to consider removing it in the ER:
+     - It impedes ER resuscitation
+     - Patient too unstable or too many comorbidities (won’t survive OR)
+     - ?The pregnant patient?
+4. Left-sided diaphragm injury:
+   - Can lead to bowel herniation weeks to DECADES later! - obstruction, strangulation, perforation, etc.
+   - Right-sided injury is RARE given liver’s location
+   - Can have “evanescent clinical clues”
+   - Argued absolute need for either DPL (with lower cutoffs) OR laparoscopy/laparotomy
+5. Gross GI hemorrhage
+   - From NG or rectum/vagina
+   - This is rare in isolation, these people usually have evidence of external bleeding
+
+**The debated ones:**
+6. Intraperitoneal air
+   - Air is insensitive and non-specific
+   - Could be from chest or the peritoneal violation - does not mean an absolute visceral injury
+7. Peritoneal signs - debated reliability
+   - Less reliable in the immediate post-injury period
+   - Overt signs for or against even with some intoxication have good PPV and NPV
+
+GSW
+Same as above review table 46-3
+1. Unstable/shocky (rule out other causes in chest/extremities/etc)
+2. Gross evisceration or major wound!
+3. Diaphragm injury on left side
+4. Implement/bullet/missile in situ
+5. Peritoneal signs (less reliable immediately post-injury)
+6. ++ Bleeding
+7. Intraperitoneal air
+
+Blunt trauma: see table 46-5
+
+I. Unstable patient/shock with STRONG suspicion for intra-abd. Injury
+   - Don’t forget other sources of shock!
+II. Consistent evidence of peritoneal irritation on exam
+III. Pneumoperitoneum
+   - Can come from CV/iatrogenic source
+IV. Evidence of diaphragm injury
+   - **Non-specific signs, and must be assumed in penetrating trauma
+V. Profuse GI bleeding
+
+### 8) Describe the management of unstable blunt abdominal trauma and:
+
+a. Pelvic fracture
+
+- Key action!
+  - BIND the PELVIS!
+- Key questions:
+  - Any hemoperitoneum?
+    - FAST +ve (FAST is LESS sensitive)
+      - Go to OR for laparotomy
+    - FAST -ve
+      - DPL suprapubically for those who do it
+        - To find retroperitoneal blood moving anteriorly
+      - If -ve patient should go to angiography before OR
+      - CT with angiography to diagnosis and treatment
+
+b. Head injury (closed head injury)
+
+- Key action:
+  - Airway protection and brain resuscitation regardless!!
+- Is there frank coma or lateralizing signs needing craniotomy?
+  - Difficult choice (in the unstable patient with intra-peritoneal blood on FAST) whether or not to get a STAT CT head or do pre-emptive burr holes while doing the laparotomy
+- In the STABLE patient
+  - With lateralizing signs → do a CT or craniotomy
+    - And CT abdomen
+  - Without lateralizing signs → CT!
+
+c. Wide mediastinum (aortic injury)
+
+- Suspected aortic injury based on wide mediastinum (not sensitive or specific!)
+- IF STABLE:
+  - CT chest-abd
+- IF UNSTABLE:
+  - With intra-peritoneal blood on FAST/DPL:
+    - Laparotomy!
+    - May need
+      - Operative thoracotomy or intra-operative TEE
+  - Without intra-peritoneal blood:
+    - Resuscitate, consider EFAST and CT!
+
+**Bonus:**
+Pediatric issues:
+- Key actions:
+  - Decompressive NG tube because kids have lots of aerophagia which impairs lung function
+  - Keep them warm! More susceptible to heat loss
+    - Give WARM blood and fluids
+    - Use warm blankets and lamps
+  - Don’t get psychologically paralysed just because it’s a kid:
+    - Do the maximally aggressive interventions and procedures!
+    - The sicker the kid, the more you do!!!
+- Expectant management in children with liver and spleen injuries is better tolerated than in adults
+  - CT imaging is the mainstay in the stable patient:
+    - But will miss:
+      - Pancreatic, hollow viscus injuries
+  - DPL and FAST studies are OK
+    - But not as accurate in isolation when compared with adult applications
+- Any child who is unstable, needing +++ blood, with frank peritoneal signs -- need OR
+- Penetrating trauma is managed the same as adults
+- Closed head injuries don’t contraindicate surgery!
+
+### 9) Provide an approach to anterior abdominal trauma with:
+
+d. Evidence of peritoneal violation (penetrating injuries)
+
+- Key differentiate between STAB vs. GSWs
+
+**Stab:**
+Mainstay of management is “selective non-operative management” due to a low incidence of actual intra-peritoneal injury.
+
+1. Anterior abdomen stab:
+   a. Is there a clinical indication for laparotomy?
+      - See question 6 above
+   b. Has there been peritoneal violation?
+      - If “no” to 1.1, consider assessing whether the wound tract is SUPERFICIAL to the peritoneal, retroperitoneal, intrathoracic, pericardial cavity
+        - If it is superficial - patient can be discharged without further scans!
+        - Five methods - see question 6!
+      - If inconclusive or yes - ASSUME violation!
+   c. Is there a delayed need for laparotomy?
+      - These people have KNOWN or presumed peritoneal violation
+        - “60%” or more of those with peritoneal violation have organ injury
+        - These should be observed for 12-24 hrs
+        - Serial physical examinations with non-invasive imaging is the mainstay
+          - CT will miss hollow viscous and diaphragm injury
+          - U/S is less sensitive than DPL
+
+2. Thoracoabdominal stab
+   - Any structure can be injured! Mediastinum, thoracic cavity, diaphragm, peritoneal cavity
+   - U/S is VERY helpful to look for blood E-FAST
+   - Slash wounds may not need further imaging, but any thoracic wound that extends beyond the anterior rib should not undergo deeper LWE
+   - Diaphragmatic injury needs to be suspected
+   - CT “sensitivity/spec of 94/96% for diaphragm injury”
+   - But equivocal cases NEED exploration
+   - A conservative approach:
+     - “ANY left lower chest stab wound needs MANDATORY diaphragm exploration”
+
+3. Flank and back stab
+   - Risk for retroperitoneal injury, and intraperitoneal injury (15-40%)
+   - Still most stable patients need CT and consideration for OR or observation
+
+**The implement in situ:**
+- Any foreign body in the torso should be removed under operating conditions
+
+**Gunshot wounds:**
+- Similar approach to stab wounds, key questions (again): did the missile pass through the abdomen and violate the peritoneum?
+- Usually lead to multiple organ injuries
+  - HIGH >70-90% incidence of penetration and damage
+  - Should be managed more aggressively with almost absolute need for operative evaluation - ***but this depends on your centre***
+    - Serial physical exams should be the exception with GSWs
+
+**Management:**
+- Same three questions as stab wounds
+  1. Need for immediate laparotomy? - the “7” indications
+  2. Peritoneal violation?
+     - Six methods: - see q6
+       - Missile path
+       - LWE - very low yield in GSWs
+       - Radiographs
+       - U/S - limited success: best for thoracoabdominal trauma to assess both cavities
+       - CT
+       - Laparoscopy
+  3. Injury needing laparotomy?
+     - In most cases, ANY question of peritoneal violation = operative evaluation
+     - If a conservative approach is used:
+       - Serial exams - even useful in drug and ETOH intoxication
+       - DPL - with high sensitivity cut offs
+       - High resolution CT for hollow viscous, solid organ and/or vascular injury
+       - Laparoscopy for left thoraco-abdominal injury who don’t have other indications for operative assessment
+
+**Special circumstances:**
+- Thoraco-abdominal
+  - Risk for injuries in both areas!
+  - Low threshold DPL (5000 - 10000)
+  - Most do serial exams with CT
+- Flank and back
+  - Serial exams and DPL are much less accurate for retroperitoneal injuries
+  - In the stable patient:
+    - CT with contrast is the mainstay
+- Shotgun:
+  - Damage depends on the three different types of shotgun wounds
+    - Type III (<3 m) - carry the most lethality, and the liver is much more susceptible to injury than the lungs
+      - They have massive organ injury, shock, tissue destruction
+      - Need debridement and hemostasis
+    - Type II and I
+      - May be watched carefully based on clinical condition
+      - Small bowel punctures from pellets may not need repair because they don’t allow leakage and close spontaneously
+
+e. Evidence of intra-abdominal injury with blunt abdominal trauma
+
+- This is the bulk of trauma in Canada!
+- The multi-system blunt trauma patient is challenging and the management can’t be too dogmatic because there are SOOO many factors
+- Generally:
+  - Someone with head, abdomen, and chest injuries should probably get a laparotomy STAT or “face imminent exsanguination!”
+  - Get your trauma TEAM together!
+
+Now let's focus on blunt abdominal trauma!
+- Important caveats:
+  - “A clinical assessment of an ALERT patient using abdominal findings alone is reasonably accurate but has false positive and negative errors”
+  - Drugs, ETOH, age, language, psych, and distracting injuries will further limit the exam
+    - So if you’re in a low resource setting, do frequent serial exams
+
+Two key issues we worry about:
+1. Is there frank hemoperitoneum to explain the patient’s critical unstable condition?
+   - E.g., are they unstable DUE TO abdominal injury
+2. Do they have an organ injury that needs operative repair?
+   - Is there something occult or not imminently giving them shock?
+
+**Hemoperitoneum**
+- FAST U/S
+  - Rapid, non-invasive, most accurate when done serially
+  - If +ve
+    - Almost all shocky cases go to OR!
+  - If -ve:
+    - There could still be an injury needing operative repair!
+- DPL
+  - Sensitive! False negative rate of 2%!
+  - Mostly has a role in unstable patients where U/S is not an option
+- CT
+  - Risky for the patient depending on the location of the CT scanner
+
+**Need for delayed laparoscopy/laparotomy**
+- FAST U/S or DPL
+  - Main role is in the unstable patient
+  - Only U/S is better than CT at finding a traumatic pancreatic pseudocyst
+- CT:
+  - Best test in the stable patient
+  - Also looks at the retroperitoneum
+  - Also can interrogate the solid organ injuries
+  - Also can quantify the extent of hemoperitoneum
+- Laparoscopy:
+  - Main role is for penetrating trauma
+
+**Management of blunt trauma:**
+1. Are there imminent indications for laparotomy?
+   - See question 7
+     - Rare, rare, rare that patient goes to OR on clinical grounds alone due to numerous other injuries and other sources of hypotension
+       - TBI, pelvic, long bone, chest injuries are common
+       - Patient often intoxicated
+   - The OR (unless it is a true confident trauma surgeon) isn’t the safest place because other injuries needing immediate treatment may be missed
+
+**In the blunt trauma patient who is hemodynamically unstable with a proven intra-abdominal source: laparotomy is the correct choice.**
+
+2. The patient is hemodynamically stable:
+   - FAST
+     - +/- DPL
+   - CT:
+     - The mainstay!
+   - OR vs. watchful waiting:
+     - Main high-grade liver and spleen injuries are watched
+     - But this has downsides and best should occur in a trauma centre with a clear trauma SYSTEM in place should the patient deteriorate at 2 am!
+   - Pitfalls to the expectant approach:
+     - Hollow viscus injuries missed → which all need OR
+     - Head injuries may mask a patient’s sensorium
+     - Increased risks associated with ++ blood product use
+     - Lag time associated with failed attempts at angiography may lead to increased morbidity
+
+### 10 and 11) Provide an approach to flank and back injuries.
+
+**Penetrating:**
+- Stab:
+  - Anything more than superficial slashes/wounds needs consideration for intra/retroperitoneal injury
+- GSW:
+  - Probably need laparotomy and/or CT due to high risk for any missile path
+
+**Blunt:**
+- Stable vs. unstable!
+
+## Wisecracks
+
+### 1) Describe indications and technique of DPL. What is a positive DPL?
+
+- To assess for hemoperitoneum in blunt or penetrating trauma
+- See table above for description of the two steps
+  - Most aspiration sites are in the infra-umbilical midline site in adults and pediatrics
+    - Caveats:
+      - 2-3rd trimester patients
+      - Patients with midline scarring
+      - Patients with pelvic #s
+- Results Analysis:
+  - 10mL or more on first aspiration
+    - 90% PPV for intraperitoneal injury
+  - Lavage fluid positive if (in cubic millimetres):
+    - Blunt trauma
+      - > 100,000
+    - GSW
+      - > 5,000 - 10,000
+    - Stab wound
+      - Anterior abd/back/flank:
+        - >100,000
+      - Low chest**see below
+        - Equivocal cases need 12-24 hrs of observation
+
+**Laparoscopy has supplanted DPL for the purpose of identifying or excluding diaphragm injury in lower chest penetrating trauma.**
+
+### 2) List 1 absolute contraindication and 4 relative contraindications to DPL
+
+- CI
+  - Need for laparotomy
+- Relative contraindications:
+  - Prior abdominal surgery or infections
+  - Coagulopathy
+  - Obesity
+  - 2nd or 3rd trimester of pregnancy
+
+### 3) What is Waddell's triad?
+
+- A triad of injuries seen in pediatric pedestrian struck traumas: e.g., 6-year-old pedestrian struck by car
+  - Femur # - HIGH mortality!
+  - Intra-abdominal or intrathoracic injury - bleed! May have a hidden bleed!
+  - Head injury - small, pliable brain!
+
+### 4) What are Gray-Turner and Cullen’s signs?
+
+- GT:
+  - Ecchymotic discoloration of the flanks.
+- CS:
+  - Bruising around the umbilicus
+
+Either thought to be related to “old” retroperitoneal hemorrhage that is >12hrs to days old.
+
+### 5) How much blood is detectable by bedside US?
+
+- On average 500 mL
+
+## References
+
+- [CanadiEM – CrackCast](https://canadiem.org/crackcast)
+- http://pemplaybook.org/podcast/multisystem-trauma-in-children-part-one-airway-chest-tubes-and-resuscitative-thoracotomy/attachment/picture1/
+```

@@ -1,0 +1,136 @@
+# Metadata
+- Source: The Bottom Line
+- Title: TICH-2
+- Original URL: https://www.thebottomline.org.uk/summaries/icm/tich-2/
+- Scrape Date: 2025-07-17
+- Summary Date: AUTO_FILL_IF_AVAILABLE
+
+Tranexamic Acid for hyperacute primary IntraCerebral Haemorrhage
+Sprigg, N et al. The Lancet 2018; doi: 10.1016/S0140-6736(18)31033-X
+Clinical Question
+In adults with acute, spontaneous intra-cerebral haemorrhage (ICH) does the administration of tranexamic acid (TXA) compared to a placebo improve functional status at 90 days?
+Background
+Spontaneous ICH has a high mortality and morbidity. Haematoma expansion has been independently associated with death and poor outcome. Expansion occurs more frequently in the first three hours, however it has been shown to occur later than this.
+Multiple modalities to try to improve outcome have been studied. Early surgery (STICH-II) and intensive blood pressure lowering (INTERACT) were not shown to reduce risk of death or severe disability. Recombinant Factor VII is the most widely studied haemostatic therapy, however a Cochrane Review showed no significant reduction in death or disability.
+The use of TXA had not previously been widely studied. One small Malaysian study of 30 patients looking at TXA use in spontaneous ICH found significant haematoma expansion in the control group, and a meta-analysis of 2 RCTs showed a significant reduction in ICH progression in traumatic brain injuries.
+Design
+Double blind, randomised, placebo-controlled, phase III trial
+Registered in the UK by the NIHR and written consent obtained where available. If not, proxy consent granted and then consent sought as soon as possible
+Randomised 1:1 centrally in real-time
+Stratified by country
+Minimisation for key prognostic factors (age, sex, time since onset, systolic blood pressure, NIHSS stroke severity, history of antiplatelet use and presence of intra-ventricular haemorrhage
+Identical individual treatment packs were provided to all sites and all labelled with a unique pack number
+Total sample size calculated at 2000 participants
+Significance 0.05, power 90%  to detect an ordinal OR of 0.79 by shift analysis of modified Rankin Scale (mRS)
+OR of 0.79 based on distribution of mRS in ENOS trial and also lay in range seen in related trials (TXA in traumatic brain injury and Recombinant Factor VII for ICH)
+5% loss to follow-up and 20% reduction for baseline covariate adjustment also accounted for
+Pre-specified secondary outcomes, sub groups and safety outcomes
+Sub groups included onset to randomisation (< 3 and <4.5 hours), age (< 70),ethnicity, sex, systolic BP, NIHSS score (<15), history of anti-platelet use, presence of intra-ventricular haemorrhage, presence of spot sign, haematoma location, baseline haematoma volume (<30ml, 30-60ml, >60ml)
+Participants reviewed at day 2, 7 and on day of discharge or death; followed up by phone (or postal questionnaire) at 90 days
+CT scan repeated after 24 hours of treatment (if multiple CT scans done, scan with closest timeframe to 24 hours used)
+Central assessors who were trained in mRS and masked to treatment did final follow-up at 90 days; similarly CT scans (again masked to treatment) were reviewed by expert assessors, each using the same digital software
+Setting
+124 hospital sites in 12 countries
+March 203 – September 2017
+Population
+Inclusion:
+Adult patients with intra-cerebral haemorrhage were eligible if admitted to participating hospital within 8 hours of stroke onset (or time last seen well)
+Exclusion:
+ICH secondary to anticoagulation, trauma, thrombolysis, known underlying structural abnormality
+Pre-morbid mRS > 4
+Life expectancy under 3 months
+GCS < 5
+Contra-indication to TXA
+Female of child-bearing potential, pregnant or breastfeeding
+Geographical factors preventing difficult follow-up at 90 days
+2325 randomised: 1161 assigned TXA and 1164 assigned placebo
+9 excluded from analysis in both arms
+Baseline characteristics similar in both arms
+This included age, sex, ethnicity, time from onset to randomisation, history of anti-platelets, statin, stroke or TIA or ischaemic heart disease, pre-stroke mRS, GCS, NIHSS score, systolic and diastolic blood pressure, location and volume of haematoma, presence of intra-ventricular haemorrhage
+The only slight difference was whether CT angiography was “spot positive” (20% in TXA group vs. 25% in placebo).
+The CT Angiographic spot sign is an area of contrast enhancement that corresponds to a site of active haemorrhage and is an independent predictor of ICH growth and poor outcome
+Intervention
+Tranexamic Acid
+1g IV TXA in 100ml 0.9% NaCl infused over 10 minutes
+Followed by another 1g in 250ml 0.9% NaCl infused over 8 hours
+Control
+Placebo
+Normal saline used in place of TXA above, otherwise identical intervention
+Management common to both groups
+Participants received blood pressure lowering treatment, neurosurgery and VTE prophylaxis as part of standard care.
+Outcome:
+Primary Outcome
+: There was no difference in function status at day 90
+Ordinal OR: 0.88 (95% CI 0.76 to 1.03; p = 0.11)
+Pre-specified sub-groups
+:
+If systolic BP < 170 mmHg then TXA use beneficial
+OR 0.79 (95% CI 0.59 to 0.90; p = 0.0188)
+If baseline haematoma volume 30 – 60 mls TXA use beneficial
+OR 0.66 (95% CI 0.44 to 0.98; p value not reported)
+No other pre-specified group had significant 95% CI
+There were some non-significant trends to favour TXA use such as onset to randomisation time (less than 4.5 hours), age (under 70 years) and presence of intra-ventricular blood
+Secondary Outcomes
+:
+No other pre-specified secondary outcomes were significant
+Death at day 90
+Multiple functional assessment tools at day 90
+Length of hospital stay
+Destination of hospital discharge
+Safety Outcomes
+:
+Fewer predefined serious events in TXA group at day 2 and day 90 with
+VTE events: TXA 3.4% vs Placebo 3.2% (P = 0.98)
+Seizures: TXA 6.6% vs Placebo 7.3% (P = 0.44)
+Other ischaemic events
+Authors’ Conclusions
+TXA does not affect functional status at day 90, although some potential benefits were noted with regards to reduction in haematoma expansion, early death and numbers of serious adverse events
+Strengths
+Multi-centre, randomised, control study
+Pragmatically designed to answer an important question given mortality and morbidity of intracranial haemorrhage and benefit of TXA shown in other trials
+Rigorous methodology results in good internal validity:
+Excellent protocols for blinding and allocation concealment reduces performance, detection, and recall bias
+Well balanced baselines minimise selection bias
+Minimal loss to follow-up reduces attrition bias
+Good adherence to protocol
+Excellent time from randomisation to treatment (median – 21 minutes)
+Primary outcome clinically relevant and important to patients
+Weaknesses
+Methodology
+The primary outcome (modified Rankin Scale) is subjective and debatable when dichotomised into good vs bad
+Different assessors and patients may have applied the scoring system variably, although all assessors were trained and certified in using the outcome tools
+Follow up to 90 days could be considered short when considering rehabilitation after a major stroke
+The trial team plan to publish 1 year follow-up
+Internal validity (accuracy)
+The broad inclusion criteria and heterogeneous study population may have biased toward the null hypothesis
+Testing the hypothesis in study populations with a short duration from onset to treatment or with a smaller initial haematoma volume may provide additional evidence in support of their theory specifically in these subgroups
+Compared to other TXA trials (WOMAN / CRASH-2), the number of patients recruited was small, which may have lead to this trial being underpowered to rule out a small but clinically meaningful effect
+External validity (generalisability)
+Although 124 centres were involved from 8 countries, 82% were from the UK; 5 countries recruiting only a total of 30 patients; and there was only one country outside Europe (Malaysia, which recruited 46 patients)
+This reduces generalisability to lower-income healthcare systems and possibly non-European populations
+The Bottom Line
+The signal of benefit from tranexamic acid administration seen in this trial has not been proven by conventional statistical significance thresholds
+Given some non-significant trends in certain subgroups and low rates of serious events, further work looking at certain subgroups should be considered to identify patients that may benefit
+The complementary CRASH-3 trial, investigating tranexamic acid administration in traumatic head injuries, will expand the evidence base in this area when published
+Given the good safety profile and potential small benefit, it is reasonable to administer tranexamic acid early in patients with intracerebral haemorrhage
+External Links
+[article]
+Tranexamic acid for hyperacute primary IntraCerebral
+Haemorrhage (TICH-2): an international randomised,
+placebo-controlled, phase 3 superiority trial
+[further reading]
+CT Angiographic Spot Sign
+by Radiopaedia
+[further reading]
+CRASH-3 Trial
+[further reading] Gayet-Ageron et al.
+Effect of treatment delay on the effectiveness and safety of antifibrinolytics in acute severe haemorrhage: a meta-analysis of individual patient level data from 40 138 bleeding patients
+by Gayet-Ageron et al.
+[further reading]
+Haemostatic therapies for acute spontaneous intracerebral haemorrhage. Cochrane Database of Systematic Reviews
+Metadata
+Summary author:
+George Walker
+Summary date: 6 March 2019
+Peer-review editor:
+Duncan Chambler

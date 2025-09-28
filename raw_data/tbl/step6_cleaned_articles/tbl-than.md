@@ -1,0 +1,89 @@
+---
+source: The Bottom Line
+title: Than (A 2-hour Diagnostic Protocol for Possible Cardiac Chest Pain in the Emergency Department)
+original_url: https://www.thebottomline.org.uk/summaries/em/than/
+scrape_date: 2025-07-17
+summary_author: @DavidSlessor
+summary_date: 2014-05-11
+peer_review_editor: @stevemathieu75
+summary: |
+  The document discusses a randomized controlled trial evaluating a 2-hour diagnostic protocol for patients with suspected acute coronary syndrome in an emergency department setting. The study aimed to determine if a rapid diagnostic pathway could facilitate early discharge without increasing adverse effects compared to conventional methods. The protocol involved a modified TIMI score assessment and a repeat Troponin test after 2 hours, with low-risk patients being discharged if results were normal. The primary outcome was the rate of discharge within 6 hours without major adverse cardiac events (MACE) within 30 days, showing a significant increase in early discharges in the intervention group. However, the study was not powered to compare MACE rates between groups, and its findings are limited by its single-center design and specific operational hours, suggesting the need for further research before widespread implementation.
+
+---
+
+# A 2-hour Diagnostic Protocol for Possible Cardiac Chest Pain in the Emergency Department
+
+## Clinical Point
+In patients with suspected acute coronary syndrome, does a rapid diagnostic pathway allow early discharge from hospital without increasing adverse effects compared to a conventional diagnostic assessment and discharge plan?
+
+## Design
+- Randomised controlled trial  
+- Computer-generated block randomisation  
+- Blinding of personnel determining results of primary outcome  
+
+## Setting
+- Single centre, Emergency Department, New Zealand  
+- Study period: October 2010 to July 2012  
+
+## Population
+
+**Inclusion Criteria:**
+- Adult patients with possible cardiac chest pain  
+- Physician planned further observation/troponin testing  
+
+**Exclusion Criteria:**
+- STEMI  
+- Other clear cause for chest pain  
+- Chest pain >12 hours  
+- Persisting chest pain  
+- Pregnancy  
+
+**Enrollment:**
+- 3594 assessed for eligibility  
+- 544 randomised  
+
+## Intervention
+- Low-risk patients (modified TIMI score of 0, no new ischaemic ECG changes) underwent rapid diagnostic pathway  
+- Repeat Troponin test 2 hours after initial test  
+- If repeat Troponin normal, patient discharged with outpatient stress test within 72 hours  
+- If TIMI score >0 or new ischaemic ECG changes, standard investigation followed  
+
+## Control
+- Repeat Troponin I assay at 6-12 hours  
+- Follow-up investigations at clinician’s discretion  
+- All Troponin tests used ARCHITECT Troponin I assay (not high sensitivity)  
+
+## Outcomes
+
+### Primary Outcome
+- Discharge within 6 hours of arrival without subsequent major adverse cardiac event (MACE) within 30 days  
+- MACE includes: death (unless non-cardiac), cardiac arrest, emergency revascularisation, cardiogenic shock, ventricular arrhythmia or high-degree atrioventricular block requiring intervention, acute MI  
+- Significantly more patients discharged within 6 hours in intervention group (19.3%) vs. control group (11%); Difference 8.3% (95% CI: 1.8–14), p = 0.009  
+
+### Secondary Outcome
+- MACE during follow-up (excluding initial hospital visit):  
+  - 0.4% in intervention group vs. 0.0% in control group  
+
+## Authors’ Conclusions
+The rapid diagnostic pathway is an effective and practical strategy to improve early discharge rates for some patients with chest pain.
+
+## Strengths and Weaknesses
+- **Strengths**
+  - Randomised controlled trial  
+  - Blinding of staff determining primary outcome  
+
+- **Weaknesses**
+  - Not powered to compare MACE rates between groups  
+  - Only 52 patients underwent the rapid diagnostic pathway  
+  - Different follow-up investigations for intervention and control groups  
+  - Early discharge patients had outpatient stress test within 72 hours, limiting external validity  
+  - Single centre study  
+  - Recruitment only between 0800–2200, potentially affecting external validity  
+
+## Bottom Line
+A rapid diagnostic pathway for suspected cardiac chest pain allowed earlier discharge of some low-risk patients. Further research is needed to determine safety, and this strategy cannot currently be recommended.
+
+## External Links
+- **Abstract/doi:** [10.1001/jamainternmed.2013.11362](https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/1735891)  
+
+No additional editorial, commentaries, or blogs available.

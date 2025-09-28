@@ -1,0 +1,377 @@
+```yaml
+title: "CrackCast Episode 57: Knee and Lower Leg"
+url: "https://canadiem.org/crackcast/"
+date: 2017-01
+source: "CanadiEM – CrackCast"
+original_file: "CC.Ep_.57Kneeandlowerleg.pdf"
+summary: "Will be added later"
+```
+
+## Overview
+
+### Rosens in Perspective
+
+- “Most complex joint in the body”
+  - Flexion, extension, rotation, gliding, rolling
+  - Joins the two longest levers in the body (tibia and femur)
+- Main ER goals:
+  - Identify repairable vascular injuries
+  - Reducing dislocations
+  - Stabilizing fractures
+  - Giving antibiotics when needed
+
+- Has two joints:
+  - Tibio-femoral
+    - Femur = two condyles
+      - These articulate with the tibia, cushioned with the medial and lateral menisci
+      - Four strong ligaments anchor the tibia to the femur:
+        - Anterior cruciate ligament*
+          - Posterior medial femoral intercondylar notch → anterior surface of the tibial plateau at the notch
+          - Prevents anterior displacement of the tibia in relation to the femur
+        - Posterior cruciate ligament*
+          - Prevents posterior displacement of the tibia in relation to the femur
+        - Medial collateral ligament
+          - Prevents valgus deviation
+        - Lateral collateral ligament
+          - Prevents varus deviation
+      - * = rich blood supply
+      - 3 compartments
+        - Patello-femoral
+          - The patella slides up and down through the femoral trochlea
+        - Medial TBFM
+          - Includes the adductor tubercle and pes anerinus (goose foot)
+        - Lateral TBFM
+          - Includes the popliteus tendon
+      - The suprapatellar bursa communicates with the tibiofemoral joint
+      - The pre-patellar bursa does not communicate with the tibiofemoral joint
+
+## Core Questions
+
+### 1) List contents of popliteal fossa
+
+- Posterior rhomboid space:
+  - Laterally = biceps femoris tendon
+  - Medial = semimembranosus and semitendinosus tendons
+  - Superiorly = above muscle bellies
+  - Inferiorly = two heads of the gastrocnemius muscles
+  - Interiorly = popliteal artery + vein, peroneal and tibial nerves
+
+### 2) Describe Ottawa knee Rule
+
+Goal of radiography = rule out a fracture!
+
+- X-ray isn’t perfectly sensitive for finding subtle fractures
+  - Tips:
+    - Carefully trace the cortex
+    - Evaluate for a lipohemarthrosis
+
+The OKR:
+“Radiography necessary with any one of:”
+1. Age > 55 yrs
+2. Inability to transfer weight from one foot to the next four times at the time of injury AND in the ED (able to walk at least 4 steps)
+3. Inability to flex the knee to 90 degrees
+4. Isolated patellar tenderness
+5. Tenderness over the fibular head
+
+- 97-100% sensitivity
+- According to Rosen’s, the OKR has been validated in kids (>5 yrs) with a 92-100% sensitivity depending on the study
+
+Pittsburgh knee rule:
+X-ray if either:
+- Age < 12 or > 50
+- Unable to walk four full weight-bearing steps in the ED
+
+### 3) Describe Schatzker classification for tibial plateaus fractures
+
+- Normal mechanism of injury:
+  - Axial loading with valgus force (MVCs, falls from heights); fatigue and stress #s can occur in the elderly due to osteoporotic bones
+- Most involve the lateral plateau and are INTRA-ARTICULAR
+- A segond fracture = bone avulsion of the lateral tibial plateau
+  - Seen on the AP knee x-ray as a lateral avulsion #
+    - Lateral capsular ligament avulsion
+    - Can be associated with an ACL tear and rotatory instability
+  - Usually sports related injury: knee flexion, internal rotation and varus
+- Examination:
+  - Key to examine the distal pulses (high risk of popliteal artery injury)
+  - Must assess peroneal nerve function (foot dorsiflexion)
+  - Consider risk for co-comitant ACL/MCL injury
+- Imaging:
+  - X-rays may show no overt displacement and isolated lipohemarthrosis
+  - CT is the gold standard for evaluating tibial plateau #s, and should be done if operative intervention is considered (e.g. Displaced or multiple fragments)
+  - Patients with uncertain knee injuries should be non-weight bearing with orthopedic follow-up
+    - No weight bearing, and non-circumferential splint; usually 6-8 weeks
+
+Classification system:
+- Hohl (as in Rosen’s fig 57-6)
+  - Minimally displaced (<4mm)
+  - Displaced - 6 subtypes
+
+- Schatzker classification
+
+Schatzker:
+This system divides tibial plateau fractures into six types:
+- Schatzker I: is a wedge-shaped pure cleavage fracture of the lateral tibial plateau, originally defined as having less than 4 mm of depression or displacement
+- Schatzker II: split and depression of the lateral tibial plateau, type I fracture with a depressed component
+- Schatzker III: pure depression of the lateral tibial plateau
+  - divided into two subtypes
+    - Schatzker IIIa: those with lateral depression
+    - Schatzker IIIb: those with central depression
+- Schatzker IV: pure depression of the medial tibial plateau, without a fracture fragment
+- Schatzker V: involving both tibial plateau regions
+- Schatzker VI: fracture through the metadiaphysis of the tibia
+
+### 4) Describe the Insall-Salvati ratio
+
+Used to diagnose abnormal high/low riding patella
+
+- Lateral knee x-ray with knee 30 deg. Flexed
+- Patellar tendon length / patellar length
+  - Normal ratio 0.8 - 1.2 (0.74 - 1.5 in other sources)
+- Patella Baja = < 0.8
+- Patella Alta = >1.2
+
+### 5) Describe the management of a knee dislocation
+
+Big concern = popliteal artery injury! (Risk of limb loss in the future!)
+
+- It is fixed in a fibrous tunnel tethered on the femur and tibia
+- The peroneal nerve is in this tunnel as well
+
+Five types of dislocation (described based on the position of the tibia relative to the femur):
+1. Anterior (>50% of cases, with hyperextension mechanism)
+2. Posterior (high-velocity, knee flexion)
+3. Medial
+4. Lateral
+5. Rotary
+
+Hx:
+- Remember that many (>50%) spontaneously reduce before ED presentation
+
+Physical exam:
+- May be no effusion present due to joint capsule rupture
+- May have large amount of associated soft tissue injury / edema making blunt vascular injury difficult to diagnose
+- Hard signs:
+  - Large expanding hematoma
+  - Absent pulse
+  - Bruit or Thrill
+  - Pulsatile bleeding
+  - Limb ischemia
+- Soft signs:
+  - Limb paresthesias
+    - Peroneal nerve:
+      - Dorsum of foot
+      - Foot dorsiflexion
+    - Posterior tibial nerve:
+      - Diminished plantar flexion and plantar sensation
+- Posterior tibial and dorsal pedal pulses will be normal in 5-15% of popliteal artery injuries
+
+Diagnosis:
+“Suspect injury to the popliteal artery injury in anyone with multiligament knee injury, high-force knee trauma, and knee dislocation regardless of spontaneous reduction!”
+
+- Angiography - high morbidity due to need for femoral artery cannulation!
+  - CT angiography is preferred! (But no sensitivity reported in Rosen’s!)
+- Duplex Ultrasonography - unsure of the role
+- Ankle brachial index
+  - Ratio of systolic brachial BP / systolic ankle BP
+    - If > 0.9 = negative predictive value of 100% in knee dislocation
+- Serial physical exams - 7% miss rate
+  - Pedal pulses serially
+    - Sens = 79%, spec = 91%, NPV = 93%
+
+Treatment:
+- Reduction!
+  - Traction, counter-traction
+  - Splint in a long leg splint
+- HARD signs: A disrupted artery needs to be repaired ASAP in the OR
+  - 90% amputation after 8 hrs of injury
+- Isolated intimal tears identified on CT imaging are treated with observation vs. Anticoagulation
+- ABI and or serial exams
+  - IF normal and ABI > 0.9
+    - Observe for 24 hrs,
+    - Splint at 15 deg. Flexion
+    - Pedal pulse check q 3 hrs
+- At highest risk for compartment syndrome 24-48 hrs
+
+### 6) Describe the management and classification of patellar fracture and dislocation
+
+Fracture:
+- Almost all of these fractures are intra-articular
+- Classification
+  - Rim avulsion #s, transverse (70%), stellate, comminuted, longitudinal, marginal, proximal/distal poles
+  - Displaced or undisplaced
+- If undisplaced = usually the medial and lateral retinaculum provide support to the extensor mechanism
+- Treatment:
+  - If extensor mechanism is intact = non-operative management
+    - Long leg cast 4-6 weeks Or knee immobilization with non-weight bearing crutches
+  - ORIF for displaced/open fractures or non-intact extensor mechanism
+
+Dislocation:
+- Most common in women (higher Q angle)
+- Can occur due to a direct blow to the medial knee
+- Causes a tear in the medial patellar retinaculum (almost always dislocates laterally)
+- May cause an associated effusion if there is an osteochondral fracture
+- Important to reduce these on the field or ASAP in the ER after sedation
+  - Smooth gentle knee extension passively
+  - Gentle anteriomedial assistance
+- Important to get an AP, lateral and skyline view post
+- Rosen’s states 3-6 weeks of knee immobilization ?!
+  - But this duration causes huge muscle wasting morbidity
+- Patients should have good sports medicine followup
+
+### 7) List 6 overuse syndromes
+
+1. Patello-femoral pain syndrome
+2. Iliotibial band syndrome
+3. Peripatellar Tendinitis
+4. Plica syndrome (redundant folds of synovium)
+5. Popliteus tendinitis
+6. Bursitis
+
+### 8) Describe the sensory and motor function of nerves of the lower extremity
+
+“Foot off the brakes (dorsiflexion), to the right (eversion), and on the gas (plantar flexion)!”
+
+- Peroneal nerve
+  - Anterior compartment:
+  - Sens: first toe web space
+  - Motor: long toe extension
+- Superficial peroneal nerve
+  - Lateral compartment
+  - Sens: dorsum of foot
+  - Motor: foot pronation / Eversion
+- Sural nerve
+  - Superficial posterior compartment
+  - Sens: lateral foot
+  - Motor: plantar flexion (gastrox)
+- Tibial nerve
+  - Deep posterior compartment
+  - Sens: plantar aspect of foot
+  - Motor: foot flexion, long toe flexion
+
+### 9) Describe the 4 compartments of the lower leg and their contents
+
+1. Anterior
+   - Tibialis anterior, long toe extensors, anterior tibial artery, deep peroneal nerve (sensation to the first webspace of the foot)
+2. Lateral
+   - Foot everters: the peroneus longus and brevis; superficial peroneal nerve (sensation to the dorsum of the foot)
+3. Superficial posterior compartment
+   - Gastrocnemius, plantaris, soleus muscles
+   - Sural nerve (lateral side of the foot and distal calf)
+4. Deep posterior compartment
+   - Tibialis posterior, long toe flexor,
+   - Posterior Tibial and peroneal arteries
+   - Tibial nerve (sensation to plantar aspect of foot)
+
+### 10) Describe the management of Tibial tubercle fractures and Osgood-Schlatter Disease
+
+Tibial tubercle #s
+- # at the insertion of the patellar tendon
+- Normally the tibial epiphysis and tibial tuberosity ossification centres fuse in late adolescence
+- Usually occur with forced knee flexion against an activated quads.
+- 3 grades according to the Watson-Jones classification
+  - I: hinged up with no displacement from the proximal base
+  - II: tubercle avulsed
+  - III: extend into the articular surface
+- X-ray
+- Type 1: cast immobilization with knee in extension
+- Type 2-3 usually need reduction, possible ORIF and immobilization
+
+Osgood-Schlatter Disease:
+- “Osteochondritis of the tibial tuberosity”
+  - Traction apophysitis
+- Usually occurs in athletic adolescents
+- Painful swelling over the tibial tubercle - relieved by rest
+  - May be bilateral
+  - Pain with resisted knee extension
+- Clinical dx, an x-ray may help rule out tumours or avulsions
+- Usually self-limiting
+  - Rest, ice, analgesics, bracing
+  - Severe cases may be immobilized for 2-3 weeks
+  - Surgery not even considered an option until the epiphysis closes
+
+### 11) List 4 complications of tibial shaft fractures
+
+1. Compartment syndrome (highest risk at 24-48 hrs)
+2. Infection - shallow easily exposed bone (look for subtle open #!)
+3. Nerve injury - “foot off the brake, to the right, and on the gas”
+4. DVT, pseudoaneurysm
+5. Fat embolism
+6. Delayed healing - average union times is 20-30 weeks
+7. Malrotation
+8. CRPS
+
+(tenuous blood supply) = increased risk of osteomyelitis & non-union
+
+### 12) Describe the management of proximal fibula fractures
+
+- The fibula is a non-weight bearing bone that helps keep the tibial weight bearing surface in place on the plafond
+- Isolated fibula #s usually occur from a direct blow
+  - But rare cases: Maisonneuve fracture
+- Must assess peroneal nerve function (foot drop) and LCL status
+- Important to get knee and ankle joint x-rays
+- Mgmt:
+  - Symptom control
+  - Non-weight bearing initially
+    - Advance to wt. bearing as tolerated based on ortho opinion (should be pain free)
+    - Some non-displaced #s can be sent home on crutches in a walking boot
+    - No casting recommended in cases of nerve deficit due to risk of compartment syndrome and neuro / vasc. Injury
+    - Maisonneuve fractures need ORIF
+
+## Wisecracks
+
+### 1) What is a Baker’s cyst and how is it managed?
+
+- Is a popliteal cyst - an actual herniation of the synovial membrane through the posterior capsule of the knee
+- Becomes prominent with an enlarging knee effusion
+  - Noted in the posterior - medial popliteal fossa - maximal at full knee extension
+  - Soften or disappear in flexion
+- Can rupture into the calf and produce a clinical picture similar to DVT
+  - Acute complications:
+    - Thrombophlebitis
+    - Leg ischemia
+    - Nerve entrapment
+    - Compartment syndrome
+  - Ddx:
+    - Cystic masses, lipomas, liposarcomas, popliteal artery aneurysms
+- Ultrasound is the diagnostic modality of choice
+- Treatment: investigate the cause of the knee effusion (degenerative, inflammatory, or reactive from joint injury)
+  - Intra-articular glucocorticoids
+  - Children with primary cysts usually don’t need treatment
+  - Surgery usually focused on treating the intra-articular pathology (e.g. meniscus repair)
+  - Huge morbidity with attempted cyst removal
+
+### 2) What are extensor mechanism injuries in the knee?
+
+- Extensor mechanism:
+  - Quads - quad tendon - medial and lateral retinaculum (on either side of the patella) - patellar tendon - tibial tubercle
+- Ruptures can occur anywhere in this complex
+  - Usually following vigorous contraction of a flexed knee, laceration or blow. The quadriceps tendon usually ruptures at its insertion on the patella
+  - The patellar tendon may also rupture at the inferior patellar border
+- Risk factors:
+  - RA, Gout, SLE, Hyperparathyroidism, immunosuppression post organ transplant
+  - Steroid use, fluoroquinolones
+- Signs:
+  - Pain, swelling, palpable defect
+  - Unable to extend heel off the bed
+  - Patella alta
+  - Patella baja
+- Dx:
+  - Clinical
+  - X-rays for patellar height
+  - MRI for possible incomplete tendon rupture
+- Management:
+  - Treatment (surgery) should be done in 2-6 weeks post injury or sooner!
+  - Some partial tears can be treated with immobilization of the knee in full extension for 4-6 weeks
+
+### 3) DDx of sudden onset calf pain with swelling:
+
+- Fracture - stress/traumatic
+- Compartment syndrome
+- Necrotizing fasciitis
+- DVT
+- Thrombophlebitis
+- Achilles tendon rupture
+- Plantaris strain/rupture
+- Gastrocnemius strain/tear/rupture (usually medial head)
+- Bakers cyst rupture
+```

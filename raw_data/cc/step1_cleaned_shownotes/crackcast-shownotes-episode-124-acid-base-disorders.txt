@@ -1,0 +1,593 @@
+# Metadata
+- topic: 3.11 - Metabolism and Endocrinology - CrackCast-Shownotes-Episode-124-Acid-Base-Disorders
+- source_folder: 3.11 - Metabolism and Endocrinology
+- original_file: CrackCast-Shownotes-Episode-124-Acid-Base-Disorders.pdf
+
+CrackCast Show Notes – Acid Base Disorders – November 2017 
+www.canadiem.org/crackcast 
+ 
+ 
+Chapter 124 – Acid Base Disorders 
+ 
+Episode Overview: 
+ 
+1. Describe an approach to acid-base problems 
+2. List a DDx for Resp Acidosis, Resp Alkalosis, Met Acidosis, Met Alkalosis 
+3. List causes of an elevated AGMA 
+4. List causes of NAGMA 
+5. List 5 complications of bicarbonate therapy 
+ 
+Wisecracks 
+ 
+1. What are causes of a LOW anion gap?  
+2. Why do patients with hyperventilation have lip and extremity paresthesias, 
+carpopedal spasm, muscle cramps, lightheadedness, and syncope?  
+ 
+Key Points: 
+ 
+Patients with an acute severe metabolic acidosis rely on a robust respiratory compensation; 
+in these cases, the adequacy of the ventilatory response should be assessed and 
+augmented, with non-invasive or invasive ventilation, if needed. 
+ 
+• The strong ion difference = ([Na+ + K+ ] − [Cl− ]). When significantly less than 40, an 
+acidosis is present. 
+• The delta gap (ΔG) = (AG − 12) − (24 − [HCO3 − ]). Its calculation determines if the 
+anion gap is accounted for by the change in serum bicarbonate concentration. An 
+elevated anion gap and ΔG more than 6 indicates that a metabolic alkalosis in 
+addition to a metabolic acidosis is likely to be present. 
+• Patients who have a chronic respiratory acidosis (eg, in chronic obstructive 
+pulmonary disease) are at risk for dangerous alkalemia if they are ventilated with 
+routine parameters. Blood gas analysis in these cases should be performed 
+frequently and settings titrated to the serum pH.  
+• Alcoholic ketoacidosis may be manifested similarly to diabetic ketoacidosis but is 
+much less common; insulin is contraindicated in alcoholic ketoacidosis. 
+• When an elevated anion gap is recognized, the initial assessment focuses on 
+identifying one of four causes: ketoacidosis, toxic ingestions, lactic acidosis, and 
+renal failure. Typically, only chronic renal failure causes significant acidosis. 
+• Anion gap = Na+ − (Cl− + HCO3 − ). Causes of an elevated anion gap include 
+ketoacidosis, lactic acidosis, toxins metabolized to acids, and renal failure. 
+• When the cause of an elevated anion gap is determined to be lactate or ketones, 
+diagnostic efforts are directed at identifying the cause of the lactic acidosis or 
+ketoacidosis.  
+• Sodium bicarbonate is not recommended for the empirical treatment of acidemia; it is 
+an option in cases of severely depressed pH thought to pose an immediate life 
+threat. 
+ 
+ 
+ 
+ 
+CrackCast Show Notes – Acid Base Disorders – November 2017 
+www.canadiem.org/crackcast 
+ 
+ 
+Rosen’s in Perspective 
+ 
+Many basic cellular processes are sensitive to small changes in serum pH; the kidneys, 
+lungs, and physiologic buffers determine serum pH, which is normally between 7.36 and 
+7.44. Serum pH is determined by the relative concentrations of bicarbonate (HCO3) and 
+carbon dioxide (Paco2) = [1.5 × serum HCO3 − ] + [8 ± 2]; when two of these variables are 
+known, the third may be calculated. Most blood gas analyzers measure pH and Paco2 and 
+report a calculated [HCO3 − ]. 
+ 
+When only a primary disturbance and its corresponding compensation are present, it is 
+described as a simple acid-base disorder. A mixed acid-base disorder exists when more 
+than one primary disturbance occurs simultaneously.  
+ 
+Key thought process: Is this a simple ABD or a mixed ABD?  
+ 
+Often, acid-base disturbances are first identified when the results of laboratory tests ordered 
+to evaluate the patient’s symptoms demonstrate alterations in the bicarbonate level, pH, or 
+Paco2. The possibility of an acid-base disorder is suggested by clinical events such as toxic 
+ingestions, severe vomiting, or diarrhea, as well as in patients with diseases primarily 
+affecting the lungs and kidneys. All critically ill patients and all patients being mechanically 
+ventilated should have an assessment of their acid-base status. When an acid-base 
+disturbance is identified or suspected, elucidation of its underlying cause(s) is central to 
+appropriate management.  
+ 
+Painful arterial blood sampling is unnecessary for the evaluation of acid-base 
+disturbances. Paco2, HCO3 − , and pH values taken from peripheral venous, central 
+venous, intraosseous, and capillary blood are all suitable for acid-base assessment. 
+ 
+1) Describe an approach to acid-base problems  
+ 
+Simple acid-base disorders are categorized by the serum pH, Paco2, and HCO3 − 
+concentrations (See Table 116.1 for changes to pH, PaCO2, HCO3- and expected 
+compensation). 
+ 
+When the primary disturbance is identified, the next step is to determine its cause and 
+whether an appropriate compensation has occurred. An inappropriate compensation 
+suggests that the process underlying the primary disturbance has hindered an appropriate 
+response or that more than one primary disturbance is present. 
+ 
+If you’re serious about getting better at this, just go check out: 
+https://lifeinthefastlane.com/investigations/acid-base/ 
+ 
+There are a bunch of very helpful worksheets on this site, including the 1-2-3-4-5 rule for 
+determining if there has been an adequate metabolic compensation for resp. 
+acidosis/alkalosis.  
+ 
+But here’s the approach from LITFL: (and a worksheet from them below)  
+ 
+ 
+CrackCast Show Notes – Acid Base Disorders – November 2017 
+www.canadiem.org/crackcast 
+ 
+ 
+Interpret the ABGs in a stepwise manner: 
+ 
+1. Determine the adequacy of oxygenation (PaO2) 
+● Normal range: 80–100 mmHg (10.6–13.3 kPa) 
+2. Determine pH status 
+● Normal pH range: 7.35–7.45 (H+ 35–45 nmol/L) 
+● pH <7.35: Acidosis is an abnormal process that increases the serum 
+hydrogen ion concentration, lowers the pH and results in acidaemia. 
+● pH >7.45: Alkalosis is an abnormal process that decreases the hydrogen ion 
+concentration and results in alkalaemia. 
+3. Determine the respiratory component (PaCO2) 
+4. Primary respiratory acidosis (hypoventilation) if pH <7.35 and HCO3– normal. 
+● Normal range: PaCO2 35–45 mmHg (4.7–6.0 kPa) 
+● PaCO2 >45 mmHg (> 6.0 kPa): Respiratory compensation for metabolic 
+alkalosis if pH >7.45 and HCO3– (increased). 
+● PaCO2 <35 mmHg (4.7 kPa): Primary respiratory alkalosis (hyperventilation) 
+if pH >7.45 and HCO3– normal. Respiratory compensation for metabolic 
+acidosis if pH <7.35 and HCO3– (decreased). 
+5. Determine the metabolic component (HCO3–) 
+● Normal HCO3– range 22–26 mmol/L 
+● HCO3 <22 mmol/L: Primary metabolic acidosis if pH <7.35. Renal 
+compensation for respiratory alkalosis if pH >7.45. 
+● HCO3 >26 mmol/L: Primary metabolic alkalosis if pH >7.45. Renal 
+compensation for respiratory acidosis if pH <7.35. 
+ 
+*Whether an appropriate respiratory compensation to a metabolic acidosis has occurred can 
+be approximated by comparing the Paco2 to the last two digits of the serum pH. 
+ 
+In a primary metabolic acidosis with appropriate respiratory compensation, these two values 
+should be similar; that is, a patient with a serum pH of 7.20 should have a 
+Paco2 of 20 mm Hg.  
+ 
+If the serum pH is 7.17 and the Paco2 is 30 mm Hg, the respiratory compensation is less 
+than expected and a primary respiratory acidosis is present. This is commonly 
+seen in patients whose dominant condition causes a metabolic acidosis but also impairs 
+respiration, such as sepsis. 
+ 
+“THE DELTA GAP” 
+The delta gap (ΔG) describes the difference between the devia- 
+tion of the anion gap (AG) from normal and the deviation of the 
+serum bicarbonate concentration from normal: 
+ 
+ 
+ 
+Conceptually, calculation of the delta gap tried to determine whether the anion gap is 
+accounted for by the change in serum bicarbonate concentration. In patients with an 
+CrackCast Show Notes – Acid Base Disorders – November 2017 
+www.canadiem.org/crackcast 
+ 
+ 
+elevated anion gap and a delta gap greater than +6, meaning that the serum bicarbonate 
+level is significantly higher than would be predicted by the number of unmeasured anions, a 
+metabolic alkalosis in addition to a metabolic acidosis is likely to be present.  
+ 
+This is commonly seen when the dominant acidosis condition causes severe vomiting (eg, 
+diabetic ketoacidosis). In patients with an elevated anion gap and delta gap more negative 
+than −6, meaning that the serum bicarbonate level is significantly lower than expected given 
+the anion gap, a normal anion gap metabolic acidosis is likely be present in addition to the 
+elevated anion gap metabolic acidosis. This is usually seen when a lactic acidosis 
+complicates severe diarrhea. 
+ 
+ 
+ 
+ 
+ 
+ 
+CrackCast Show Notes – Acid Base Disorders – November 2017 
+www.canadiem.org/crackcast 
+ 
+ 
+2) List a DDx for RespAcidosis, RespAlkalosis, MetAcidosis, 
+MetAlkalosis 
+ 
+RespAcidosis 
+ 
+Respiratory acidosis occurs when hypoventilation leads to an inappropriately elevated Paco2 
+and resulting acidemia. Any condition that reduces minute ventilation may cause respiratory 
+acidosis.   
+ 
+It is the ACUTE resp. acidosis that kills! Restore oxygenation and ventilation STAT while you 
+find the cause!  
+ 
+A way of thinking through the DDx:  
+Won’t breathe 
+Can’t breathe (weak muscles / CNS lesion)  
+Can’t breathe enough (narrowing of the airways / air trapping ) 
+ 
+It is thought that spontaneous respiration cannot sustainably reduce Paco2 beyond 10 to 12 
+mm Hg, which is the appropriate compensatory respiratory alkalosis for a metabolic acidosis 
+that drives the pH down to about 7.10. 
+ 
+Here’s the list from Rosen’s (Box 116.1) 
+ 
+Causes of Respiratory Acidosis 
+ 
+Acute 
+- 
+Airway obstruction 
+- 
+Pulmonary disease (pneumonia, asthma, pulmonary edema, aspiration pneumonitis) 
+- 
+CNS depression (recreational drugs, intracranial catastrophe, neuromuscular 
+disorders, thoracic trauma) 
+ 
+Chronic 
+- 
+Lung disease (COPD, IPF) 
+- 
+Neuromuscular disorders (ALS, muscular dystrophy, obesity hypoventilation) 
+ 
+After 3-5 days...an appropriate metabolic compensation for respiratory acidosis is an 
+increase of approximately 3.5 mEq/L in the serum HCO3− concentration for every increase 
+of 10 mm Hg in Paco2. A patient with chronic respiratory disease resulting in a baseline 
+Paco2 of 60 mm Hg would therefore be expected to have a serum bicarbonate level of 
+approximately 30 mEq/L and a slight acidemia, because without another primary acid-base 
+abnormality, correction is never to a normal pH. 
+ 
+ 
+ 
+ 
+ 
+CrackCast Show Notes – Acid Base Disorders – November 2017 
+www.canadiem.org/crackcast 
+ 
+ 
+Respiratory Alkalosis 
+ 
+● Increased minute ventilation = low PaCO2 and increased pH 
+● The dx of exclusion is anxiety-related hyperventilation.  
+● Here’s a ddx: (From box 116.2) 
+○ Hyperventilation caused by hypoxia 
+■ High altitude 
+■ Severe anemia 
+■ Ventilation-perfusion mismatch 
+○ Central hyperventilation 
+■ Voluntary or psychogenic 
+■ Cerebrovascular accident 
+■ Increased intracranial pressure (tumor, hemorrhage, trauma) 
+○ Toxic or pharmacologic 
+■ Salicylates** 
+■ Caffeine, nicotine 
+■ Catecholamines 
+■ Thyroxine 
+○ Pulmonary 
+■ Pulmonary embolism 
+■ Pneumonia 
+■ Pulmonary edema 
+■ Asthma 
+■ Mechanical hyperventilation (iatrogenic) 
+○ Endocrine 
+■ Pregnancy 
+● Paco2 between 31 and 35 mm Hg, serum pH between 7.46 
+and 7.50, and serum bicarbonate concentration between 18 
+and 22 mEq/L. Thus, eucapnia (Paco2 ≅ 40 mm Hg) may 
+represent hypoventilation in pregnant patients. 
+■ Hyperthyroidism 
+○ Septicemia 
+○ Hepatic encephalopathy 
+○ Hyponatremia 
+ 
+ 
+*Suicidal aspirin ingestions often produce the classic syndrome of tinnitus, hyperthermia 
+(morbid finding), confusion, and a variety of metabolic derangements, ultimately leading to 
+seizures, coma, and cardiovascular collapse. Chronic salicylism, however, is notoriously 
+subtle in its presentation and occurs in older sicker patients who seemingly have more likely 
+explanations for their symptoms. Salicylate toxicity should be strongly considered in these 
+patients, as well as those with an unexplained respiratory alkalosis. 
+ 
+ 
+ 
+CrackCast Show Notes – Acid Base Disorders – November 2017 
+www.canadiem.org/crackcast 
+ 
+ 
+Metabolic Acidosis 
+ 
+● Reduced serum bicarbonate level due to:  
+○ Intrinsic acids 
+○ Extrinsic acids 
+○ Impaired acid excretion  
+● We divide this broad category into Elevated AG MA and Normal AG MA 
+ 
+See questions 3-4 
+ 
+Metabolic Alkalosis 
+ 
+Metabolic alkalosis occurs from loss of H+ or retention of HCO3− It is usually a 
+consequence of prolonged vomiting or nasogastric suction or a compensation for chronic 
+respiratory acidosis. The differential diagnosis includes a variety of predominantly endocrine 
+and electrolyte disorders 
+ 
+Causes of Metabolic Alkalosis (Box 116.5):  
+ 
+Volume-contracted (saline-responsive) 
+- 
+Vomiting, gastric suction 
+- 
+Diuretics (contraction alkalosis) 
+- 
+Postrespiratory acidosis 
+- 
+Ion-deficient baby formula 
+- 
+Chloride-secreting colonic villous adenomas 
+ 
+Euvolemic, Volume-Expanded (saline-resistant) 
+- 
+Hyperaldosteronism 
+- 
+Hypercortisolemia 
+- 
+Severe potassium depletion 
+- 
+Adenocarcinoma 
+- 
+Bartter’arterrcin 
+ 
+Unclassified 
+- 
+Hypoalbuniemia 
+- 
+Milk-alkali syndrome 
+- 
+Penicillin and related compounds 
+- 
+Hypercalcemia or malignancy 
+- 
+Massive transfusion (from citrate, especially with renal deficiency) 
+ 
+Big ones:  
+● Vomiting 
+● Hyperaldosteronism  
+● Hypercalcemia of malignancy  
+ 
+ 
+ 
+CrackCast Show Notes – Acid Base Disorders – November 2017 
+www.canadiem.org/crackcast 
+ 
+ 
+3) List causes of an elevated AGMA 
+ 
+Common unmeasured anions that cause an elevated anion gap include:  
+● Lactate,  
+● Keto acids (usually from diabetic ketoacidosis), 
+● Acidic products of exogenous toxins (eg, the toxic alcohols), 
+● Organic acids that accumulate in renal failure 
+ 
+Aka this is known as “KULT” 
+ 
+According to Rosen’s: The causes of elevated anion gap metabolic acidosis are classically 
+remembered by the mnemonic MUDPILES; however, it is more useful to focus on 
+the identity of the unmeasured anion (Box 116.3).  
+ 
+For example, if the cause of an elevated anion gap metabolic acidosis is found to be lactate 
+or ketones, the next step is to determine the cause of lactatemia or ketonemia. 
+ 
+Here’s the list:  
+Causes of Elevated Anion Gap Metabolic Acidosis -  From Rosen’s.  
+ 
+KETOACIDOSIS (3) 
+ 
+Diabetic ketoacidosis 
+Alcoholic ketoacidosis* 
+Starvation ketoacidosis 
+ 
+*Patients with AKA may demonstrate a high anion gap, but a mixed acid-base disorder 
+may be present due to concomitant ethanol withdrawal, which may cause a respiratory 
+alkalosis and metabolic alkalosis from vomiting. As a result, the serum pH can be acidemic, 
+normal, or Alkalemic. A urine dipstick can detect acetoacetate but not β-hydroxybutyrate; this 
+causes an apparent worsening ketonuria as the patient metabolizes β-hydroxybutyrate to 
+acetoacetate, although the patient is actually recovering. The treatment of AKA is dextrose-
+containing fluids; insulin is contraindicated. 
+ 
+LACTIC ACIDOSIS (3) = global ischemia, cellular poison (oxidative phosph. stopped), 
+impaired lactate clearance) 
+ 
+Global tissue ischemia 
+● Shock 
+● Grand mal seizure (in status unresponsive to standard treatment, 
+● consider isoniazid toxicity) 
+Focal end-organ ischemia (limb ischemia, mesenteric ischemia) 
+Inadequate blood oxygenation 
+● Hypoxia (from airway or breathing disorder) 
+● Carbon monoxide, methemoglobinemia 
+Inability of tissues to use oxygen from cellular poisons 
+● Cyanide (or nitroprusside therapy), hydrogen sulfide, aspirin, iron 
+CrackCast Show Notes – Acid Base Disorders – November 2017 
+www.canadiem.org/crackcast 
+ 
+ 
+Impaired lactate clearance 
+● Liver failure 
+● Metformin or phenformin (increased risk with concomitant renal 
+● insufficiency [creatinine > 1.5 mg/dL]) congestive heart failure, 
+● coexisting metabolic acidosis, and exposure to intravenous 
+● radiologic contrast media) 
+● Reverse transcriptase inhibitors (for HIV infection therapy) 
+ 
+RENAL FAILURE (the body’s naturally production of acids = sulfate, phosphate, urate, 
+hippurate) 
+ 
+TOXINS METABOLIZED TO ACIDS 
+ 
+Toxic alcohols (methanol, ethylene glycol)* 
+ 
+* As the parent compounds are converted to their toxic metabolites, the osmol gap closes, 
+and the anion gap widens. 
+ 
+Toluene 
+Paraldehyde 
+Aspirin 
+SEVERE RHABDOMYOLYSIS 
+ 
+Serum albumin accounts for most of the physiologic (normal) anion gap, usually between 9 
+and 15.  
+ 
+For example, a chronically malnourished alcoholic may present with alcoholic ketoacidosis 
+but may also have longstanding hypoalbuminemia, which causes a substantial increase in 
+the serum bicarbonate concentration. An acute ketonemia will reduce the serum 
+bicarbonate level to normal, resulting in no anion gap.  
+ 
+In addition to albumin, classic unmeasured anions such as lactate and ketones can 
+also be measured and incorporated into a diagnostic pathway. For example, a lactate 
+level of 4 mEq/L can be presumed to account for an anion gap of 16 mEq/L, but not an 
+anion gap of 25 mEq/L; in this case, other unmeasured anions should be sought.  
+ 
+Unmeasured cations are also present and may account for an elevated anion gap in a case 
+of hypomagnesemia or hypocalcemia, often in combination with hypokalemia.  
+ 
+4) List causes of NAGMA 
+ 
+This is much less life threatening than elevated AGMA! 
+ 
+Most cases encountered in the emergency department (ED) are 
+caused by gastric loss of bicarbonate in the setting of diarrhea. 
+ 
+ 
+CrackCast Show Notes – Acid Base Disorders – November 2017 
+www.canadiem.org/crackcast 
+ 
+ 
+Causes of Normal Anion Gap Metabolic Acidosis (Box 116.4) 
+ 
+GI HCO3- Loss 
+- 
+Diarrhea 
+- 
+Colostomy or ileostomy 
+- 
+Enteric fistulas 
+- 
+Ion exchange resins (ex. Kayexalate) 
+ 
+Renal HCO3- Loss 
+- 
+Renal tubular acidosis 
+- 
+Tubulointerstitial renal disease 
+- 
+Hyperparathyroidism 
+ 
+Rapid normal saline infusion 
+- 
+Urologic procedures 
+- 
+Ureterosigmoidostomy 
+- 
+Ureteroileal conduit 
+ 
+Ingestions 
+- 
+Acetazolamide 
+- 
+Calcium chloride 
+- 
+Magnesium sulfate 
+ 
+Other 
+- 
+Hypoaldosteronism 
+- 
+Hyperkalemia 
+- 
+Toluene 
+ 
+NOTE:  
+Overall, a normal anion gap does not exclude clinically significant acidosis or high 
+concentrations of unmeasured anions. Direct measurement of compounds that often 
+produce an elevated anion gap (eg, lactate, ketones, toxic alcohols) should still be pursued 
+when there is clinical concern, despite a normal anion gap. 
+ 
+5) List 5 complications of bicarbonate therapy 
+ 
+This is a list in the text, so it’s good to know!  
+ 
+● Paradoxical CNS acidosis—because sodium bicarbonate does not readily cross the 
+blood-brain barrier, serum alkalinizes much faster than the cerebrospinal fluid. As the 
+serum pH rises, minute ventilation slows and carbon dioxide, which readily crosses 
+the blood-brain barrier, delivers an additional acid load to the CNS.  
+● Hypokalemia, which can cause respiratory muscle weakness, impairing respiratory 
+compensation, hypocalcemia, hypernatremia 
+● Volume overload 
+● Hyperosmolality 
+● Overshoot alkalosis 
+CrackCast Show Notes – Acid Base Disorders – November 2017 
+www.canadiem.org/crackcast 
+ 
+ 
+So what to do??….administration of sodium bicarbonate is unlikely to be beneficial in most 
+cases of acidemia caused by endogenous acid production (eg, lactic acidosis, ketoacidosis), 
+sodium bicarbonate therapy is theoretically more attractive for conditions in which 
+the underlying problem is bicarbonate loss, which generally causes a hyperchloremic 
+or normal anion gap metabolic acidosis, or impairment of acid secretion, such as 
+renal failure. Many of the acidosis syndromes caused by exogenous toxins (eg, aspirin, 
+tricyclic antidepressants) call for bicarbonate as a specific therapy; these cases are distinct 
+from the empirical use of bicarbonate to treat the acidemia itself. Bolus dosing of hypertonic 
+(8.4%) sodium bicarbonate is ineffective and should not be used to treat hyperkalemia. 
+ 
+Hyperkalemic patients (especially if acidemic) may be treated with an isotonic sodium 
+bicarbonate infusion, as described above. Acidemia causes hyperkalemia as H+ is brought 
+into cells in exchange for K+.  
+ 
+So, as long as you’re not just “treating” the acidosis with bicarb (i.e. you know the 
+cause and are addressing it as well) bicarb may be a reasonable choice for the 
+conditions mentioned above (Tox, renal loss, renal failure).  
+ 
+NOT to be used empirically in cardiac arrest, NOT to be used in undifferentiated 
+acidemia or alkalemia from lactic/ketoacidosis.  
+ 
+Although it is commonly recommended to treat a serum pH less than 7.1 with sodium 
+bicarbonate (1 mEq/kg),17 we believe that best evidence currently supports withholding 
+bicarbonate therapy as an empirical treatment for acidemia in favor of treating its underlying 
+cause. 
+ 
+An iso-tonic bicarbonate drip is prepared by adding 150 mEq sodium bicarbonate (three 
+crash cart ampules, which are usually 50 mL of 8.4% solution) to 1 L of 5% D5W, infusing as 
+slowly as the clinical situation permits (eg, 75–200 mL/hr). Sodium bicarbonate should 
+generally not be added to normal saline because of concern of hypertonicity. 
+ 
+Winter’s equation (Paco2 = [1.5 × serum HCO3] + [8 ± 2]) can be used to calculate the 
+expected arterial Pco2 for the serum bicarbonate level. If the Pco2 is higher than 
+expected, the patient may be fatiguing and require ventilator support. 
+ 
+Wisecracks 
+ 
+1) BONUS: What are causes a LOW anion gap?  
+ 
+Elevated concentrations of unmeasured cations may cause a low anion gap (<3 mEq/L), 
+such as in cases of:  
+ 
+●  Lithium toxicity  
+● Hypergammaglobulinemia seen in multiple myeloma.  
+● Bromide toxicity may cause spurious hyperchloremia, and hypertriglyceridemia may 
+cause spurious hyponatremia, which can also cause a low or negative anion gap. 
+ 
+CrackCast Show Notes – Acid Base Disorders – November 2017 
+www.canadiem.org/crackcast 
+ 
+ 
+Other causes: think about what else the anion gap usually includes to be in the 6-12 range: 
+unmeasured anions such as albumin, sulfate, phosphate, and citrate. So, isolated 
+depressions of these may cause a low anion gap.  
+ 
+Hypoalbuminemia would be such a case. 
+ 
+2) BONUS: Why do patients with hyperventilation have lip and extremity 
+paresthesias, carpal pedal spasm, muscle cramps, lightheadedness, and 
+syncope?  
+ 
+Blood pH alters the binding affinity of calcium for albumin. When the pH lowers, calcium 
+loses some affinity for albumin (increasing free calcium); when the pH increases, calcium 
+binds more strongly to albumin (decreasing free calcium). Thus, clinical features of 
+respiratory alkalosis include those from hypocalcemia—lip and extremity paresthesias, 
+carpal pedal spasm, muscle cramps, lightheadedness, and syncope. 
+ 
+The classic paper bag technique to cause rebreathing - works through the placebo effect, 
+rather than changing PaCO2 - and has risks associated with it. 

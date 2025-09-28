@@ -1,0 +1,118 @@
+```yaml
+source: The Bottom Line
+title: RESCUEicp (Trial of Decompressive Craniectomy for Traumatic Intracranial Hypertension)
+original_url: https://www.thebottomline.org.uk/summaries/icm/rescue-icp/
+scrape_date: 2025-07-17
+summary_author: Steve Mathieu
+summary_date: 2016-09-08
+peer_review_editor: Duncan Chambler & Dave Slessor
+summary: |
+  The RESCUEicp trial investigated the efficacy of decompressive craniectomy versus medical management, including barbiturate coma, in patients with traumatic brain injury (TBI) and refractory intracranial hypertension. Conducted across 52 centers, the study found that decompressive craniectomy significantly reduced mortality at 6 and 12 months compared to medical management. However, it was associated with higher rates of vegetative state and severe disability. The trial highlighted the need for careful patient selection and further research into long-term outcomes and quality of life, as the intervention, while life-saving, often resulted in increased dependency. The study's strengths included its multicenter design and robust outcome measures, though it faced challenges such as slow recruitment and high crossover rates.
+---
+
+# Trial of Decompressive Craniectomy for Traumatic Intracranial Hypertension (RESCUEicp)
+
+## Clinical Question
+In patients with traumatic brain injury (TBI) and refractory intracranial hypertension, does decompressive craniectomy result in more favorable mortality and neurological outcomes at 6 months compared with barbiturate coma and continued medical management?
+
+## Design
+- International, multicenter randomised controlled trial
+- Parallel group superiority
+- 1:1 randomisation with permuted blocks and stratification
+- Modified intention-to-treat analysis
+
+## Setting
+- 52 centers in 20 countries
+- Hospitals with acute neurosciences care and 24-hour neurosurgical services
+- Study period: January 2004 to March 2014
+
+## Population
+
+**Inclusion Criteria:**
+- Patients with TBI, abnormal brain CT, and raised intracranial pressure >25 mmHg for 1-12 hours despite stage 1 and 2 measures
+- Aged 10 to 65 years
+
+**Exclusion Criteria:**
+- Bilateral fixed and dilated pupils
+- Bleeding diathesis
+- Unsurvivable injury
+
+**Enrollment:**
+- 2008 patients assessed for eligibility
+- 408 randomised
+- Data available for 389 patients at 6 months and 373 at 12 months
+
+## Intervention
+
+**Craniectomy Group:**
+- Decompressive craniectomy plus continued stage 1 and 2 treatments
+- Large unilateral fronto-temporoparietal craniectomy or bifrontal craniectomy based on brain swelling
+
+## Control
+
+**Medical Group:**
+- Continued stage 1 and 2 treatments plus barbiturates
+- Stage 3 therapy initiated if intracranial pressure >25 mmHg for 1-2 hours after stage 2 therapy
+
+**Stage 1 Therapy:**
+- Head elevation, ventilation, sedation, analgesia, optional paralysis
+- Monitoring: central venous pressure, arterial blood pressure, intracranial pressure
+
+**Stage 2 Therapy:**
+- Continued stage 1 treatments and optional treatments: ventriculostomy, inotropes, mannitol, hypertonic saline, loop diuretics, hypothermia
+- Barbiturates not permitted
+
+## Outcomes
+
+### Primary Outcome
+- Extended Glasgow Outcome Scale (GOS-E) at 6 months:
+  - Death: Craniectomy 26.9% vs. Medical 48.9%
+  - Vegetative state: Craniectomy 8.5% vs. Medical 2.1%
+  - Lower severe disability: Craniectomy 21.9% vs. Medical 14.4%
+  - Upper severe disability: Craniectomy 15.4% vs. Medical 8%
+  - Lower moderate disability: Craniectomy 10% vs. Medical 10.1%
+  - Upper moderate disability: Craniectomy 13.4% vs. Medical 9.6%
+  - Lower or upper good recovery: Craniectomy 2.5% vs. Medical 3.2%
+  - Upper good recovery: Craniectomy 1.5% vs. Medical 3.7%
+
+### Secondary Outcome
+- GOS-E at 12 months:
+  - Death: Craniectomy 30.4% vs. Medical 52%
+  - Vegetative state: Craniectomy 6.2% vs. Medical 1.7%
+  - Lower severe disability: Craniectomy 18% vs. Medical 14%
+  - Upper severe disability: Craniectomy 13.4% vs. Medical 3.9%
+  - Lower moderate disability: Craniectomy 10.3% vs. Medical 7.8%
+  - Upper moderate disability: Craniectomy 11.9% vs. Medical 12.3%
+  - Lower or upper good recovery: Craniectomy 7.2% vs. Medical 3.9%
+  - Upper good recovery: Craniectomy 2.6% vs. Medical 4.5%
+
+## Authors’ Conclusions
+Decompressive craniectomy in patients with TBI and refractory intracranial hypertension resulted in lower mortality but higher rates of vegetative state and severe disability compared to medical care.
+
+## Strengths and Weaknesses
+- **Strengths**
+  - Immediate access to 24-hour neurosurgical services at all trial sites
+  - Pre-specified exploratory analyses for covariate adjustment
+  - Similar numbers of patients received stage 1 and 2 treatments in both groups
+  - Timing for initiation of stage 3 treatment was similar in both groups
+  - Agreement for participation obtained from next of kin preemptively
+  - Randomisation code not released until stage 3 of the protocol
+  - GOS-E is a well-validated global outcome measure
+- **Weaknesses**
+  - Slow recruitment over 10 years; 50% of centers recruited 3 or fewer patients
+  - Potential deleterious effect of therapeutic hypothermia on neurological outcome
+  - Clinical teams aware of trial-group assignments
+  - High crossover rate in the medical group to decompressive craniectomy (37%)
+  - 10 patients excluded from all analyses due to withdrawal or lack of consent
+  - Long-term outcomes of survivors with severe disability not reported
+
+## Bottom Line
+Decompressive craniectomy in TBI patients with raised intracranial pressure was associated with lower mortality but more dependency. Further research on patient selection, long-term recovery, and quality of life is needed.
+
+## External Links
+- **Original article:** [Trial of Decompressive Craniectomy for Traumatic Intracranial Hypertension](https://www.nejm.org/doi/full/10.1056/NEJMoa1605215)
+- **Editorial:** Intracranial Pressure Rescued by Decompressive Surgery after Traumatic Brain Injury
+- **Further reading:** Decompressive Craniectomy in Diffuse Traumatic Brain Injury
+- **Further reading:** Decompressive Surgery Cuts Death in Traumatic Brain Injury
+- **LITFL:** RESCUEicp and the Eye of the Beholder
+```

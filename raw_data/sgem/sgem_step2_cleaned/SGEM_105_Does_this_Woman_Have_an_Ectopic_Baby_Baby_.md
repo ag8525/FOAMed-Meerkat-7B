@@ -1,0 +1,125 @@
+---
+url: https://thesgem.com/2015/02/sgem105-does-this-woman-have-an-ectopic-baby-baby/
+title: "SGEM#105: Does this Woman Have an Ectopic Baby, Baby?"
+date: 2015-02-01
+audio_url: https://media.blubrry.com/thesgem/content.blubrry.com/thesgem/SGEM105-Ectopic.mp3
+download_date: 2025-08-11
+---
+
+
+**Guest Skeptics:**  Dr. Matt Dawson. Director of Point of Care Ultrasound at the University of Kentucky. Co-creator of [Ultrasound Podcast](http://www.ultrasoundpodcast.com), Introduction to Bedside Ultrasound digital textbooks, One Minute Ultrasound smartphone app, Sonocloud.org, and other random ventures. Matt has also received numerous teaching awards.
+
+Dr. Mike Mallin. Director of Emergency Ultrasound and the Emergency Ultrasound Fellowship at the University of Utah. He is particularly interested in echocardiography and has sat for and passed the Echo Boards. He is published in multiple journals that can be found in a trashcan near you.
+
+**Case:** 23-year-old woman presents to the emergency department with sudden onset of vaginal bleeding and lower abdominal pain. There has been no change in her bowel or bladder habits. She has a history of irregular periods, does not know when her last *“normal”* period was and has never been pregnant. She is sexual active and sometimes uses condoms.
+
+Her vitals are blood pressure 110/70, heart rate 90, afebrile and oxygen saturation 99% on room air. Abdominal exam reveals a tender suprapubic area, volunteer guarding with positive bowel sounds. The pelvic exam is normal. Urine pregnancy test is positive. You are concerned about an ectopic pregnancy.
+
+**Background:**
+
+* Ectopic pregnancies represent approximately 2-3% of all pregnancies
+* Leading cause of 1st trimester maternal death
+* Higher incidence in in vitro fertilization population
+* Less than half of emergency department patients present with the classic abdominal pain and vaginal bleeding
+* 50% of patients with ectopic pregnancies have no identifiable risk factors
+
+[![Screen Shot 2015-01-16 at 1.54.16 PM](https://i0.wp.com/thesgem.com/wp-content/uploads/2015/01/Screen-Shot-2015-01-16-at-1.54.16-PM.png?resize=455%2C390)](http://thesgem.com/2015/02/sgem105-does-this-woman-have-an-ectopic-baby-baby/screen-shot-2015-01-16-at-1-54-16-pm/)
+
+Ectopic pregnancies represent a significant medical-legal risk. The [Canadian Medical Protection Association](https://www.cmpa-acpm.ca/-/timely-diagnosis-of-ectopic-pregnancy-a-key-factor-in-reducing-risk) (CMPA) reviewed all the ectopic cases from 2003 to 2007. They found 23 total open and closed cases. Of the 17 closed cases, delayed diagnosis was the number one reason for the medical/legal problem. There were 10 tubal ruptures and no maternal deaths in this series.
+
+Experts thought the following factors contributed to the diagnostic delay:
+
+* Delay in attending the patient
+* Failure to perform a pelvic examination
+* Failure to perform appropriate diagnostic investigations in women of reproductive age who presented with abdominal pain and vaginal bleeding
+* Inadequate systems for the follow up of diagnostic investigations and/or patients
+
+Based on the College decisions in the cases presented and the opinions of experts in the other cases, the following risk management considerations are suggested:
+
+1. Have you considered the diagnosis of ectopic pregnancy when a woman of reproductive age presents with abdominal pain and vaginal bleeding?
+2. Are you familiar with the current clinical practice guidelines for the investigation and management of suspected ectopic pregnancy?
+3. Have you performed the appropriate physical examination and arranged for any appropriate diagnostic investigations?
+4. Is there a system in place to facilitate timely follow up of investigations and/or patients?
+5. Does the documentation reflect your clinical impressions at the time of assessment, discussions with consultants, and patient instructions?
+
+---
+
+### **Clinical Question:** Does this woman have an ectopic pregnancy?
+
+---
+
+**Reference:** Crochet, J.R., Bastian, L.A., Chireau, M.V. Does this Woman Have an Ectopic Pregnancy? [JAMA](http://www.ncbi.nlm.nih.gov/pubmed/23613077). 2013;309(16):1722-1729.
+
+* **Population**: Medline and EMBASE for English articles from 1965-Dec 2012. Included 14 studies (n=12,101) of women with confirmed pregnancy, abdominal pain, vaginal bleeding or clinical suspicion of ectopic in early gestation.
+* **Intervention:** Physical exam findings, lab tests (bHcg) and transvaginal sonogram
+* **Comparison:** None
+* **Outcome:** Diagnosis of ectopic pregnancy, confirmed by surgical visualization and/or clinical follow-up
+
+**Author****s’ Conclusions:** *“**Symptoms of abdominal pain and vaginal bleeding in early pregnancy warrant an trans-vaginal ultrasound in order to rule out ectopic pregnancy. This is the single best diagnostic modality in making the diagnosis.**”*
+
+**![checklist](https://i0.wp.com/thesgem.com/wp-content/uploads/2014/04/checklist-cartoon-150x150.gif?resize=150%2C150)Quality Checklist** **for Systematic Review Diagnostic Studies:**
+
+1. The clinical problem is well defined – Yes
+   * **Comment:** Revenant study looking at ruling out ectopic pregnancy in known early pregnancy with abdominal pain or vaginal bleeding. The mortality/morbidity risk of ectopic pregnancy makes this a clinically relevant issue for early diagnosis and treatment in the ED.
+2. The study population represents the target population that would normally be tested for the condition included (i.e. no spectrum bias). Yes
+3. The study population included or focused on those in the emergency department. **Unsure**
+4. The study patients were recruited consecutively (i.e. no selection bias). No
+5. The diagnostic evaluation was sufficiently comprehensive and applied equally to all patients (i.e. no evidence of verification bias). Yes
+6. All diagnostic criteria were explicit, valid and reproducible (i.e. no incorporation bias). Yes
+7. The reference standard was appropriate (i.e. no imperfect gold-standard bias). Yes
+8. All undiagnosed patients underwent sufficiently long and comprehensive follow-up (i.e. no double gold-standard bias). **Unsure**
+9. The likelihood ratio(s) of the test(s) in question is presented or can be calculated from the information provided. Yes
+10. The precision of the measure of diagnostic performance is satisfactory. Yes
+
+**Key Results**: Among the 14 articles that were chosen to be included, the summary prevalence of ectopic pregnancy was 15% (IC 10-22%, I=96%).
+
+The positive likelihood ratios (+LR) for history and symptoms were less than 1.5, indicating limited clinical value.
+
+![Screen Shot 2015-01-16 at 9.14.19 PM](https://i0.wp.com/thesgem.com/wp-content/uploads/2015/01/Screen-Shot-2015-01-16-at-9.14.19-PM.png?resize=744%2C162)
+
+A discriminatory zone for beta HCG levels is still not determined, and a single level cannot rule out ectopic pregnancy.
+
+Transvaginal ultrasonography was the best diagnostic modality with a +LR of 111 when there was an adnexal mass or no intrauterine pregnancy. The –LR was also very good at 0.12 but with wide confidence intervals (0.03-0.55).
+
+[![IMG_2524](https://i0.wp.com/thesgem.com/wp-content/uploads/2014/09/IMG_2524-300x220.png?resize=300%2C220)](http://thesgem.com/2014/10/sgem91-ct-angiography-for-blunt-cerebrovascular-injury-detection-in-trauma-patients/img_2524/)
+
+![Screen Shot 2015-04-25 at 3.11.12 PM](https://i0.wp.com/thesgem.com/wp-content/uploads/2015/04/Screen-Shot-2015-04-25-at-3.11.12-PM.png?resize=889%2C162)
+
+As a systematic review, this study was well conducted with a good array of studies and minimal biases present. The clinically relevant outcomes of maternal and fetal mortality make the diagnosis of ectopic pregnancy an important issue.
+
+The robust positive likelihood ratio for transvaginal ultrasonography makes this diagnostic modality excellent for diagnosing ectopic pregnancy, if and when it is available. The common clinical conundrum comes from differentiating between ectopic pregnancy and miscarriage, for which this study provides useful exam and diagnostic tools.
+
+[![Matt Dawson and Mike Mallin](https://i0.wp.com/thesgem.com/wp-content/uploads/2014/11/Screen-Shot-2014-11-02-at-7.15.15-AM-300x179.png?resize=300%2C179)](http://thesgem.com/2014/11/sgem94-you-better-think-ultrasound-for-acute-abdominal-aneurysm/screen-shot-2014-11-02-at-7-15-15-am/)
+
+Matt Dawson and Mike Mallin
+
+Out of 10,890 abstracts that were initially reviewed, 14 articles were chosen for analysis based on the inclusion and exclusion criteria. The studies were found using only MEDLINE and EMBASE, therefore a selection bias would be present, as all non-published studies or negative studies would not be included.
+
+Also, all non-english trials would also be excluded; however, ectopic pregnancy is a universal concern. The search strategy “previously published in The Rational Clinical Examination series” is not easily accessible.
+
+In the studies that were included, some were based on “clinical impression” based on symptoms, however, the symptoms were not specifically stated. This could underestimate the effect of the specific symptoms, thereby leading the readers to rely more heavily on diagnostic modality and forgoing important clinical examination techniques.
+
+The review is aimed at emergency medicine and primary care physicians; however, clinical setting was not identified in the studies chosen. As most early pregnancies would generally present to the ED or clinic setting, this can be assumed, however, deviation from this would affect the generalizability of the study. Their length of follow up was also uncertain.
+
+There is heterogeneity amongst who is performing the ultrasound. Furthermore, the study aimed to look at ultrasounds performed by the *“bedside clinician”,* as noted by the authors could account for the large heterogeneity (I2=88%) with the test results. The operator variables were also not explored here; therefore we are unable to say how this translates to bedside ultrasonography in the ED.
+
+**Comment on Author****s’ Conclusion Compared to SGEM Conclusion:** Would be wary with who is performing and interpreting the ultrasound, but the strength of the +LR (111) makes this an excellent diagnostic modality for ectopic pregnancy regardless.
+
+Also must be careful not to undermine utility of history and physical examination in any patient encounter.
+
+---
+
+### **SGEM Bottom Line:** Transvaginal ultrasonography is an excellent test for diagnosing ectopic pregnancy.
+
+---
+
+**Case Resolution:** You perform a bedside transvaginal ultrasound and identify an ectopic pregnancy.
+
+You page the gynecology team who comes and takes over her care. Then it’s off to an ultrasound on a man suspected of renal colic before someone orders another CT.
+
+**Clinical Application**: In women with early pregnancy who present with abdominal pain and vaginal bleeding, physical examination findings of cervical motion tenderness, peritoneal findings, adnexal mass and adnexal tenderness are not useful enough to rule in or rule out the diagnosis of ectopic pregnancy.
+
+However, transvaginal ultrasonography is the single best test for diagnosis. Clinical disposition and follow up can then be determined based on the stability of the patient and the findings on exam.
+
+**[![Screen Shot 2015-01-30 at 2.37.46 PM](https://i0.wp.com/thesgem.com/wp-content/uploads/2015/01/Screen-Shot-2015-01-30-at-2.37.46-PM-300x202.png?resize=300%2C202)](http://thesgem.com/2015/02/sgem105-does-this-woman-have-an-ectopic-baby-baby/screen-shot-2015-01-30-at-2-37-46-pm/)What Do I Tell My Patient?** I am concerned that you are having a pregnancy outside the uterus. This is called an ectopic pregnancy. These pregnancies are often in the tube and are called tubal pregnancies. It is a very serious condition and can even be deadly. We have a test called an ultrasound, which is very good at finding out if you have an ectopic/tubal pregnancy.
+

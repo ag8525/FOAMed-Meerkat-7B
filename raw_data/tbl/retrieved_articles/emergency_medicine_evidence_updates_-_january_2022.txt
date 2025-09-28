@@ -1,0 +1,91 @@
+# Metadata
+- Source: The Bottom Line
+- Title: Emergency Medicine Evidence Updates – January 2022
+- Original URL: https://www.thebottomline.org.uk/blog/emergency-medicine-evidence-updates-january-2022/
+- Scrape Date: 2025-07-17
+- Summary Date: AUTO_FILL_IF_AVAILABLE
+
+Randomised Controlled Trials
+A physiotherapy-led transition to home intervention for older adults following emergency department discharge: protocol for a pilot feasibility randomised controlled trial
+Pilot and Feasibility Studies
+A Randomized, double-blind, dose ranging clinical trial of intravenous FDY-5301 in acute STEMI patients undergoing primary PCI
+International Journal of Cardiology
+Comparison of the efficacy of intranasal ketamine versus intravenous ketorolac on acute non-traumatic headaches: a randomized double-blind clinical trial
+Head & Face Medicine
+Pre-hospital transdermal glyceryl trinitrate in patients with stroke mimics: data from the RIGHT-2 randomised-controlled ambulance trial
+BMC Emergency Medicine
+Using the Social Robot NAO for Emotional Support to Children at a Pediatric Emergency Department: Randomized Clinical Trial
+Journal of Medical Internet Research
+NICE
+COVID-19 rapid guideline: managing COVID-19 NG191
+KardiaMobile for detecting atrial fibrillation MTG64
+Rehabilitation after traumatic injury NG211
+Other Guidance/Reports
+Coronavirus (COVID-19): ventilation guidance Updated 31 January 2022
+S
+cottish Government
+ERC-ESICM guidelines on temperature control after cardiac arrest in adults
+Resuscitation
+Cochrane
+Percutaneous thrombectomy or ultrasound‐accelerated thrombolysis for initial management of acute limb ischaemia
+Proton pump inhibitor treatment initiated prior to endoscopic diagnosis in upper gastrointestinal bleeding
+Primary Research
+AiRDose – Developing and Validating an Augmented Reality Smartphone Application for Weight Estimation and Dosing in Children
+Pediatric Emergency Care
+An economic evaluation of triage tools for patients with suspected severe injuries in England
+BMC Emergency Medicine
+Assessing the quality of patient handovers between ambulance services and emergency department – development and validation of the emergency department human factors in handover tool
+BMC Emergency Medicine
+Assessment of Iron Status in Adolescents Presenting to the Emergency Department With Heavy Menstrual Bleeding
+Pediatric Emergency Care
+Association between delays to patient admission from the emergency department and all-cause 30-day mortality
+Emergency Medicine Journal
+Biologic Therapies for Severe Asthma
+NEJM
+Biomechanical analysis of force distribution in one-handed and two-handed child chest compression- a randomized crossover observational study
+BMC Emergency Medicine
+Chest compression fraction calculation: A new, automated, robust method to identify periods of chest compressions from defibrillator data – Tested in Zoll X Series
+–
+Resuscitation
+Comparison of Arterial Ischemic and Hemorrhagic Pediatric Stroke in Etiology, Risk Factors, Clinical Manifestations, and Prognosis
+Pediatric Emergency Care
+Evaluation of initial shockable rhythm as an indicator of short no-flow time in cardiac arrest: a national registry study
+Emergency Medicine Journal
+Implementation of a Urinary Tract Infection Management Pathway to Evaluate Emergency Department Length of Stay in a Pediatric Emergency Department
+Annals of Emergency Medicine
+Intravenous Fluid Bolus Volume and Resolution of Acute Kidney Injury in Children With Diabetic Ketoacidosis
+Pediatric Emergency Care
+Necrotizing Soft Tissue Infections (NSTI): Pearls and Pitfalls for the Emergency Clinician
+The Journal of Emergency Medicine
+Paraphimosis Pain Treatment with Nebulized Ketamine in the Emergency Department
+The Journal of Emergency Medicine
+Patients’ experiences of attending emergency departments where primary care services are located: qualitative findings from patient and clinician interviews from a realist evaluation
+BMC Emergency Medicine
+Pediatric Carbon Monoxide Poisoning – Effects of Hyperbaric Oxygen Therapy on Thiol/Disulfide Balance
+Pediatric Emergency Care
+Point-of-care testing in Paediatric settings in the UK and Ireland: a cross-sectional study
+BMC Emergency Medicine
+Point-of-care testing with high-sensitivity cardiac troponin assays: the challenges and opportunities
+Emergency Medicine Journal
+Reducing Phlebotomy, Length of Stay, Cost – Development of a Blunt Abdominal Trauma Pathway in a Level I, Pediatric Trauma Center
+Pediatric Emergency Care
+Relationship Between Body Temperature and Heart Rate in Children With No Other Apparent Cause of Tachycardia
+Pediatric Emergency Care
+Rhythmicity of patient flow in an acute medical unit: relationship to hospital occupancy, 7-day working and the effect of COVID-19
+QJM
+The association between vital signs and clinical outcomes in emergency department patients of different age categories
+Emergency Medicine Journal
+The Impact of Pop-Up Clinical Electronic Health Record Decision Tools on Ordering Pulmonary Embolism Studies in the Emergency Department
+The Journal of Emergency Medicine
+Ultrasound-Guided Regional Anesthesia of the Femoral Nerve in the Pediatric Emergency Department
+Pediatric Emergency Care
+Usability and effectiveness of inhaled methoxyflurane for prehospital analgesia – a prospective, observational study
+BMC Emergency Medicine
+Metadata
+Summary author: Rebecca Howes
+@ClinicalLibsPHU
+Summary date:
+Picture by:
+Ehimetalor Akhere Unuabona
+on
+Unsplash

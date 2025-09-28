@@ -1,0 +1,103 @@
+---
+url: https://thesgem.com/2014/11/sgem96-machine-head-nippv-for-out-of-hospital-respiratory-distress/
+title: "SGEM#96: Machine Head – NIPPV for Out of Hospital Respiratory Distress"
+date: 2014-11-23
+audio_url: https://media.blubrry.com/thesgem/content.blubrry.com/thesgem/SGEM96.mp3
+download_date: 2025-08-11
+---
+
+
+**Case:** 55 year old man with a history of chronic obstructive pulmonary disease, asthma and congestive heart failure calls 911 complaining of shortness of breath. Emergency Medical Services arrive to find a patient very short of breath, diaphoretic and speaking only one-two word sentences. His respiratory rate is 40, heart rate is 110, O2 saturation 88% and afebrile. He is clearly working hard to breath. The paramedics decide to use non-invasive positive pressure ventilation on-route to support this man’s respiratory distress.
+
+ 
+
+
+**Background:**Acute dyspnea is a common emergency department complaint, in 2003 this chief complaint comprised about 3.5% of more than 115 million emergency department visits nationwide.
+A subset of these patients will present in respiratory distress, which is associated with increased morbidity and mortality. Often it can be hard to determine the exact etiology of the shortness of breath in a timely fashion, and therapeutic interventions need to begin before the exact diagnosis is known.
+Luckily the most common culprits of respiratory distress share a common treatment modality, and that treatment is non-invasive positive pressure ventilation.
+Studies have shown that acute cardiogenic pulmonary edema, chronic obstructive pulmonary disease and asthma exacerbations all benefit from non-invasive positive pressure ventilation.
+Cochrane did a SR which included 32 studies (n=2,916) looking at non-invasive positive pressure ventilation for cardiogenic pulmonary edema. Compared to standard medical care non-invasive positive pressure ventilation significantly reduced hospital mortality (RR 0.66, 95% CI 0.48-0.89). This was a study done by Vital et al in 2013.
+There was an older Cochrane SR from 2004 by Ram et al. They looked at non-invasive positive pressure ventilation for admitted patients with acute chronic obstructive pulmonary disease exacerbations. There 14 studies in the systematic review (n=758). It too showed a decrease in mortality (RR 0.52, 95% CI 0.35 to 0.76)
+Non-invasive positive pressure ventilation has also shown to benefit asthma exacerbations. The Cochrane SR by Lim et al identified six trials for inclusion. Their primary outcome was endotracheal intubation. This is because it is very rare for asthmatics to die and there were no deaths in any of these studies.
+There was only two studies in this SR looking at their primary outcome of intubations. These were small studies with a total of 86 patients and only 2 intubations. With such small numbers they could not find a difference between the non-invasive positive pressure ventilation group and standard care.
+However, with limited data they were able to show reduced hospitalizations, increased the number of patients discharged from the emergency department and improvement in some surrogate non-patient oriented outcomes like reparatory rate and lung function measurements.
+* **D.O.P.E. Mnemonic: Check out EMCrit Podcast **
+  + **D-** Displaced Tube:
+    - usually right mainstem, pyriform fossa, etc
+    - look at ETCO2 waveform, listen for bilateral breath sounds, etc
+  + **O-** Obstruction
+    - kinked or bitten tube, mucuous plug, etc.
+    - make sure you can pass suction catheter all the way down
+  + **P-** Pneumothorax
+    - collapsed lung
+    - listen to bilateral lung fields
+    - grab your ultrasound machine to look for bilateral lung sliding
+  + **E-** Equipment
+    - remove the patient from the vent and apply BVM
+    - this takes the ventilator equipment out of the picture
+
+ 
+
+
+---
+
+### **Clinical Question:** Does out-of-hospital non-invasive positive pressure ventilation improve in-hospital mortality compared to standard treatment in patients with grossly undifferentiated respiratory distress?
+
+---
+
+**Reference:** Mal et al. Effect of Out-of-Hospital Noninvasive Positive-Pressure Support Ventilation in Adult Patients With Severe Respiratory Distress: A Systematic Review and Meta-analysis. Annals of Emergency Medicine 2014
+
+* **Population:** Seven randomized control trials of adult patients (n=632) with out-of-hospital severe respiratory distress (suspected acute cardiogenic pulmonary edema, acute exacerbation of COPD, acute asthma exacerbation or pnemonia)
+* **Intervention:** Non-invasive positive pressure ventilation
+* **Comparison:** Standard Therapy
+* **Outcome:** 
+  + **Primary Outcome:** In-hospital mortality
+  + **Secondary Outcomes**: Need for invasive ventilation, hospital and intensive care length of stay and complications
+
+**Authors’****Conclusions:** *“Out-of-hospital administration of NIPPV appears to be an effective therapy for adult patients with severe respiratory distress”.*
+
+
+
+**Key Results:**Seven studies were included in the analysis (n=632). Six of the seven studies used CPAP and one trial used BiPAP. The vast majority of patients (>80%) were suspected to be of acute cardiogenic pulmonary edema.
+* **Primary Outcome:** Reduction of in-hospital mortality with the use of non-invasive positive pressure ventilation compared to standard care gave risk ratio 0.58; CI 0.35 to 0.95 (NNT=18)
+* **Secondary Outcomes**:
+  + Need for Invasive ventilation RR 0.37; CI 0.24 to 0.58 (NNT=8)
+  + ICU and hospital LOS could not be pooled
+  + Complications were reported in three patients with emesis
+
+
+
+**Commentary:** 
+Patients with undifferentiated respiratory distress present to the emergency department regularly. As mentioned earlier, NIPPV has been shown to be effective in reduction mortality in pulmonary edema and chronic obstructive pulmonary disease exacerbations. It is also been shown to be helpful in asthmatics. So the authors ask a reasonable question on whether or not pre-hospital treatment with NIPPV could also be of benefit.
+The authors did an extensive literature search including all the standard electronic databases. They also tried to identify any grey or unpublished literature. However, as with many studies they did restrict their search to English language studies.
+It is hard to determine if the primary studies were of high methological quality. From the data provided they do appear to be reasonable but there was insufficient information for a definitive answer.
+Five of the studies were judged to be low risk of bias using the Cochrane Collboration tool for assessing risk of bias. Allocation was concealed in five of the studies. There was no blinding in any of the studies. It would be hard to blind patients or providers if they had non-invasive positive pressure ventilation on their face. When it comes to follow-up it was very good. We look for less than 20% loss to follow-up and they only had 8 out 632 patients not accounted for in the study.
+The primary outcome demonstrated significant patient oriented benefit. There was decrease of in-hospital mortality. The number needed to treat was 18 (NNT=18). So only 18 people needed non-invasive positive pressure ventilation to prevent one death. The secondary outcome of need for invasive ventilation was also very good with a number needed to treat of eight (NNT=8).
+We must be cautious when applying these results to our practice situation. Six out of the seven studies were done in Europe. Their pre-hospital system is much different than those in North America. They often have emergency physicians or anesthesiologist in the ambulance. This difference could limit the external validity of their conclusions.
+Another limitation would be the definition of “standard” therapy. What was *“standard”* therapy? They used a very broad definition in the manuscript. It included providing simple supplemental oxygen, bronchodilators and a variety of drugs (nitroglycerine, calcium channel blockers, ionotropes, morphine, and steroids). How would this *“standard”* therapy compare to your local therapy for patients in severe respiratory distress?
+There were a variety of commercial non-invasive positive pressure  products used in the different randomized control trials. Given the overall positive effects demonstrated this would give strength to the conclusion that the intervention works. In addition, there was no accepted standard dose for starting the therapy or the length of therapy.
+Under reporting of harm is well know limitation of randomized control trials. It is unfortunate that only five of the studies commented on complications. Three of the studies said there were no harms while two studies reported three patients in the non-invasive positive pressure ventilation group experienced emesis.
+Traditionally we have been somewhat cautious in using non-invasive positive pressure ventilation for asthmatics for fear of barotrauma. Only one trial in this review with a total of ten patients were included in this systematic review. In this small sample size there were no report of complications.
+
+ 
+
+
+**Comment on Author****s’ Conclusion Compared to SGEM Conclusion:**The authors conclude that pre-hospital non-invasive positive pressure ventilation appears safe and beneficial for patients with respiratory distress. We add to this sweeping conclusion the caveat that non-invasive positive pressure ventilation is safe and beneficial in the appropriate clinical setting, and have yet to clearly and overwhelmingly show that ability for all-comer EMS providers to recognize these appropriate clinical scenarios. Further study with broader inclusion criteria of truly undifferentiated dyspnea using a more clear spectrum of EMS providers may shed light on this and help bring to light any unseen adverse events which previous studies had not been powered to do.
+
+---
+
+### **SGEM Bottom Line:**  Non-invasive positive pressure ventilation is a reasonable out of hospital treatment option for adult patients with grossly undifferentiated severe respiratory distress.
+
+---
+
+**Case Resolution:** The 55-year-old man with acute respiratory distress arrives with non-invasive positive pressure ventilation in place and doing better. His reparatory rate is normal, HR<100 and O2 saturation is 97%. You start working him up to differentiate what the cause of his decompensation and are optimistic you will not need to intubate him.
+
+
+
+**Clinically Application:**As Emergency Medicine doctors, we like to think of ourselves as the front-lines of medicine, but the pre-hospital providers are usually the first point of patient contact. They work in more strained and sometimes hostile conditions, they have fewer diagnostic tools at their disposal, and often times are the difference in the between our patients’ good or bad outcome.  We should think of prehospital transport as an extension of our ED and our Emergency Medical Service providers as extensions of our staff.  In this way, we should be arming Emergency Medical Service personnel with the best tools in order to deliver the most effective care and to do so safely.
+Non-invasive positive pressure ventilation can and should have a huge role in pre-hospital care. Non-invasive positive pressure ventilation would likely lead to fewer suboptimal in-field intubations, in addition to fewer patients arriving to the ED in extremis.  We should be working with Emergency Medical Service coordinators to enable Emergency Medical Service providers to use non-invasive ventilation, implement clear protocols for appropriate use, and enhancing physician-Emergency Medical Service communication to help make these decisions and manage potential complications.
+
+
+
+**What Do I Tell My Patient?** It would be paramedics telling the patients that they appear in acute respiratory distress. We have a device that can help you breath, been shown to save lives and may prevent you from having a large tube put down your throat.
+

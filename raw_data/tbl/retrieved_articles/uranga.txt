@@ -1,0 +1,97 @@
+# Metadata
+- Source: The Bottom Line
+- Title: Uranga
+- Original URL: https://www.thebottomline.org.uk/summaries/icm/uranga/
+- Scrape Date: 2025-07-17
+- Summary Date: AUTO_FILL_IF_AVAILABLE
+
+Duration of Antibiotic Treatment in Community-Acquired Pneumonia A Multicentre Randomised Clinical Trial
+Uranga JAMA Intern Med. doi:10.1001/jamainternmed.2016.3633 Published online July 25, 2016
+Clinical Question
+In hospitalised patients with community-acquired pneumonia (CAP), is five days of antibiotic therapy non-inferior to standard practice with respect to clinical improvement?
+Design
+Multicentre, noninferiority randomised controlled trial
+Patients were randomised at day 5
+80% power calculation identified that 142 patients would need to be recruited to each group in order to detect differences in the CAP symptom questionnaire
+Setting
+Four teaching hospitals in Spain
+January 1
+st
+– August 31
+st
+2012
+Population
+Inclusion criteria: Hospitalised patients over the age of 18 with a diagnosis of community acquired pneumonia (defined as consolidation on CXR with at least one symptom compatible with pneumonia, such as cough, fever, dyspnoea and/or chest pain)
+Patients had to have a temperature below 37.8 degrees for 48 hours and no more than one CAP sign of clinical instability (systolic BP < 90mmHg, pulse > 100, respiratory rate > 24 BPM, O
+2
+saturations < than 90%, or PaO
+2
+less than 60mmHg in room air)
+Exclusion criteria: HIV infection, chronic immunosuppression, nursing home residents, recent hospital discharge within 14 days, antibiotic therapy in the previous 30 days, pathogens requiring a longer course of antibiotics, chest drain insertion, an extra-pulmonary complication of infection, those admitted to ICU or who died before randomisation
+539 patients were screened for eligibility. 312 were randomised after 227 exclusions due to lack of consent (51), death (39), ICU admission (57), chest drain (5) and prior antibiotic treatment (75)
+150 patients were randomised to the control group and 162 randomised to the intervention group
+Intervention
+Antibiotic therapy discontinued at 5 days
+Control
+Antibiotic duration determined by usual clinician practice
+Common Management
+The type of antibiotic was selected according to local guidelines
+Outcome
+Primary outcome:
+No statistical difference in any of the primary outcomes
+Clinical success rate (resolution or improvement in signs and symptoms related to pneumonia without further antibiotics) at day 10:
+48.6% (71 out of 150) in the control group vs 56.3% (90 out of 162) in the intervention group in the intention to treat analysis (p=0.18)
+50.4% (67 out of 137) in the control group vs 59.7% (86 out of 146) in the intervention group in the per-protocol analysis (p=0.12)
+Clinical success rate at day 30:
+88.6% (132 out of 150) in the control group vs 91.9% (147 out of 162) in the intervention group in the intention to treat analysis (p= 0.33)
+92.7% (126 out of 137) in the control group vs 94.4% (136 out of 146) in the intervention group in the per-protocol analysis (p= 0.54)
+The mean (standard deviation) CAP symptom questionnaire scores at day 10:
+18.6 (9.0) in the control group vs 17.9 (7.6) in the intervention group in the intention to treat analysis (p=0.69)
+18.1 (8.5) vs 17.6 (7.3) in the per-protocol analysis (p=0.81)
+Secondary outcomes:
+Median duration of antibiotic therapy was longer in the control group: 10 days vs 5 days; p<0.001
+Hospital readmission by day 30 was more common in the control group: 9 (6.6%) vs 2 (1.4%); p=0.02
+No statistically significant difference in other secondary outcomes:
+hospital mortality
+mortality at day 30
+time until clinical improvement
+time to return to normal clinical activity
+radiographic resolution at day 30
+adverse antibiotic effects
+complications during hospitalisation
+length of hospital stay
+Authors’ Conclusions
+Shorter duration of antibiotic therapy, consistent with the recommendations of the
+IDSA/ ATS
+, can be safely implemented in hospitalised patients with community-acquired pneumonia, leading to a significant reduction in treatment duration
+Strengths
+Multicentre randomised controlled trial answering an important clinical question in a frequently observed disease
+Pragmatic study design, allowing physicians to select their preferred antibiotic for the first five days of therapy
+The study participants had similar baseline characteristics and were well-matched
+There was a significant difference in antibiotic duration between the study groups
+Both intention to treat and per-protocol analyses were performed.
+Although ICU patients were excluded, around 40% of patients in both study arms had pneumonia severity index scores of IV-V, indicative of severe illness
+The primary outcome incorporated both clinical success using objective criteria and also patient-reported outcomes
+Weaknesses
+The authors initially planned to have all-cause mortality or major complications as the primary outcome measure but when it was apparent that these were infrequent, they moved to surrogate outcome measures
+80% of the patients in the study received quinolones, with fewer than 10% receiving a beta-lactam/macrolide combination
+The study was performed in the Basque Country in Spain, limiting generalisability to the UK population, where beta-lactam antibiotics are generally first-line
+Lack of blinding may have influenced physician decisions in the control arm. A study design incorporating a placebo with double blinding may have minimised this
+Clinical criteria for stopping antibiotics applied to 70.1% of patients in the experimental arm, meaning that almost one third of patients did not receive the assigned intervention in a non-inferiority study. It was unclear whether these patients continued antibiotics due to clinical reasons or because of physician preference
+This was a highly selected group of patients and multiple exclusion criteria were incorporated, including prior antibiotic therapy
+The Bottom Line
+Stopping antibiotics at day five appears to be a safe strategy in stable patients who are hospitalised with mild to moderate community-acquired pneumonia in Northern Spain.
+These results cannot be generalised to the UK population, mainly due to significant differences in prescribing practices between these countries.
+The use of clinical criteria for stopping antibiotics may be a better strategy than an arbitrary length of treatment. Further studies in this area may help in ensuring appropriate antibiotic stewardship in the future.
+External Links
+[article]
+Duration of Antibiotic Treatment in Community-Acquired Pneumonia
+A Multicenter Randomized Clinical Trial
+[further reading]
+Infectious Diseases Society of America/American Thoracic Society consensus guidelines on the management of community-acquired pneumonia in adults
+Metadata
+Summary author:
+Fraser Magee
+Summary date: 19th Jan 2017
+Peer-review editor:
+Steve Mathieu

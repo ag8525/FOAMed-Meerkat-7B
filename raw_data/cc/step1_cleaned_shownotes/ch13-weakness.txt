@@ -1,0 +1,143 @@
+# Metadata
+- topic: 1.2 - Cardinal Presentations - 13 Weakness
+- source_folder: 1.2 - Cardinal Presentations
+- original_file: Ch.13 Weakness.pdf
+
+Crack Cast Show Notes – Weakness – March 2016 
+www.crackcast.org 
+ 
+CrackCast Episode 13 – Weakness 
+ 
+Episode overview:  
+ 
+1) Compare upper motor neuron (UMN), lower motor neuron (LMN), and neuromuscular 
+junction (NMJ) causes of weakness 
+2) List 10 neuromuscular causes of weakness and describe their basic pathophysiologic 
+mechanism 
+3) What are warning signs of impending respiratory failure in a patient with neuromuscular 
+weakness? 
+ 
+Wisecracks:  
+ 
+1) List seven non-emergent causes of peripheral neuropathy 
+2) What are some causes of non-neuromuscular weakness? 
+3) Clinical pearls for the weak patient  
+ 
+Rosen’s in Perspective: 
+ 
+There is “true” (objective) weakness (loss of strength from a neurologic or muscular disease 
+process) and then there is a host of other processes that mimic neuromuscular weakness: 
+cardiovascular, pulmonary, infectious, endocrine etc.  
+Delineating the cause of weakness can be tricky, so having a structured approach to weakness 
+is critical. We can differentiate between focal vs. generalised neuromuscular weakness, and 
+then start looking for causes including lesions or processes affecting central or peripheral 
+nerves, the neuromuscular junction, or the muscle fibers directly. 
+Keep in mind that weakness caused by primary damage or dysfunction of the brain, spinal cord, 
+peripheral nerves, and NMJ are rare, more common is secondary dysfunction from other 
+medical conditions. 
+ 
+1) Compare upper motor neuron (UMN), lower motor neuron (LMN), and 
+neuromuscular junction (NMJ) causes of weakness 
+ 
+Upper Motor Neuron (UMN) Lesion: 
+**This is a lesion in the cerebral cortex or corticospinal tract of the brainstem and spinal cord.  
+● spasticity to extension in upper extremities / flexion of lower extremities 
+● hyper-reflexia 
+Crack Cast Show Notes – Weakness – March 2016 
+www.crackcast.org 
+● pronator drift 
+● Hoffmann’s sign (same as tinel’s sign) and Babinski’s 
+sign (up going toes!) 
+● normal muscle bulk 
+ 
+Note: can’t always see these in the acute phase, but if you 
+find even 1 of these, there is a problem with the CENTRAL 
+nervous system 
+Lower Motor Neuron (LMN) Lesion:  
+** This is a lesion in the anterior horn, nerve root, axon, or 
+peripheral nerve 
+● flaccidity 
+● hypo-reflexia 
+● fasciculation 
+● loss of muscle bulk 
+ 
+Neuromuscular Junction (NMJ) Lesion: 
+** Lesions here disrupt normal signalling from the pre-synaptic 
+motor neuron to the post-synaptic muscle fiber 
+Mix of signs: 
+● slowly progressive or fluctuating signs 
+● bulbar or ocular signs 
+● mixed UMN and LMN pattern 
+● bilateral proximal muscle weakness 
+● loss of muscle bulk 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Image from 
+http://www.youmedicine.arduanet.it/en/ 
+Crack Cast Show Notes – Weakness – March 2016 
+www.crackcast.org 
+2) List 10 neuromuscular causes of weakness and describe their basic 
+pathophysiologic mechanism 
+ 
+ 
+3) What are warning signs of impending respiratory failure in a patient with 
+neuromuscular weakness? 
+ 
+ 
+climbing pCO2 
+ 
+decreased LOC 
+ 
+decreasing peak flows 
+ 
+tachypnea 
+ 
+respiratory distress with shallow respirations  
+ 
+accessory muscle recruitment 
+ 
+Wisecracks:  
+ 
+1) List seven non-emergent causes of peripheral neuropathy 
+ 
+1) Connective Tissue Disorder 
+2) External Compression (entrapment syndrome, compressive plexopathy) 
+3) Endocrinopathy (diabetes) 
+4) Paraneoplastic Syndromes 
+5) Toxins (alcohol) 
+Table 13-1. Critical and Emergent Causes of Neuromuscular Weakness. 
+Rosen's 8th Edition. Chapter 13 - page 125. 
+Crack Cast Show Notes – Weakness – March 2016 
+www.crackcast.org 
+6) Trauma 
+7) Vitamin Deficiency  
+ 
+ 
+2) What are some causes of non-neuromuscular weakness? 
+ 
+ 
+3) Clinical pearls for the weak patient  
+ 
+1) tachypnea and shallow respirations signify impending respiratory failure – prepare for positive 
+pressure ventilation 
+2) sudden onset of focal weakness is a vascular cause until proven otherwise (differentiate 
+occlusion vs. hemorrhage) 
+3) presence of severe headache with unilateral weakness or midline back pain with lower 
+extremity weakness is a compressive space-occupying lesion until proven otherwise. 
+4) patients with UMN signs that have weakness that localizes to spinal cord or corticospinal tract 
+are considered to have an emergent problem - this can lead to neurologic shock or obtundation 
+(think enlarging space occupying lesions) 
+5) the presence of anorectal or bladder insufficiency without other explanation suggests UMN 
+lesion or cauda equina syndrome  
+ 
+three classic signs of cauda equina : saddle paresthesia, urinary retention, and 
+fecal incontinence (plus focal motor neuron deficit) 
+6) lab tests are useful for excluding non-neuromuscular causes of weakness, with two 
+exceptions: a CK in inflammatory myositis, a potassium level in channelopathies 
+ 
+Box 13-1. Non-neurologic Weakness. Rosen's 8th Edition. Chapter 13 - page 125. 

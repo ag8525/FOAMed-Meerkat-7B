@@ -1,0 +1,139 @@
+# Metadata
+- Source: The Bottom Line
+- Title: Fluid – Hospital Wide Lactated Ringer’s versus Normal Saline
+- Original URL: https://www.thebottomline.org.uk/summaries/icm/fluid-hospital-wide-lactated-ringers-versus-normal-saline/
+- Scrape Date: 2025-07-17
+- Summary Date: AUTO_FILL_IF_AVAILABLE
+
+A Crossover Trial of Hospital-Wide Lactated Ringer’s Solution versus Normal Saline
+L McIntyre. NEJM 2025; DOI: 10.1056/NEJMoa2416761
+Clinical Question
+In hospitalised patients, does the use of Lactated Ringers (LR) vs Normal Saline (NS) lower the incidence of death or readmission to the hospital within 90 days after the index admission?
+Background
+Fluid choice (balanced solutions vs NS) has been widely studied in both the ED population (
+SALT-ED
+) and ICU populations (
+SMART
+,
+PLUS
+,
+BaSICS
+) as there have been concerns that the chloride load with NS may impair renal perfusion with resultant adverse outcomes
+These have shown mixed results – SMART showed decreased rates of major adverse kidney events at day 30 in the balanced group compared to the normal saline group and a recently published
+patient level meta-analysis
+showed a high probability that using balanced solutions in ICU reduced in-hospital mortality is high, although the certainty of the evidence was moderate
+However, there has been little work that assesses fluid choice outside the ICU and ED, and as such this crossover trial was conducted
+Design
+Investigator-initiated, open-label trial
+Cluster, cross-over
+All clinical data obtained from health administrative sources
+Trial consisted of 2 x 15-week periods
+Week 1 was run-in
+Weeks 2-13 patients admitted were eligible for analysis
+Weeks 14-15 were a washout period and patients admitted in this period were not eligible for inclusion
+A 3-week period in between the two periods was allowed to facilitate the switch of fluid stock
+Only index hospitalisations were included to minimise risk of carry-over
+Hospitals randomised to which arm they would start in, and notified 1 month before commencement
+Power Calculation:
+12 sites would provide 80% power to detect an absolute difference of 1% in the primary outcome at a two-sided significance level of 0.05
+1% based on discussion amongst trial executive committee and Canadian Critical Care Trials Group
+This assumed a baseline event rate of 16% (NS) and 15% (LR), a within-period intracluster correlation coefficient of 0.006, a cluster autocorrelation coefficient of 0.95, and an average of 1500 patient admissions per hospital per month
+4 additional sites added:
+2 to account for variation in hospital size
+2 to account for varying adherence to fluid shown in pilot study (80% LR, 94% NS)
+Trial stopped after 7 sites due to infeasibility created by COVID-19
+Local ethical approval and waiver of consent granted
+Setting
+7 hospitals in Ontario, Canada
+August 2016 to March 2020
+Population
+Inclusion
+:
+Patients:
+All patients with an index admission (i.e. not a readmission within last 90 days) during the study period included regardless of fluid used
+Hospitals:
+Admitted > 1500 patients during trial period
+Had a level II/III ICU
+Exclusion
+:
+Missing birth date
+< 1 month old
+Admission during run-in or wash-out period
+43,626 patients included (22,017 in the LR group and 21,609 in NS group)
+Patient’s largely ineligible based on exclusion criteria, < 24 excluded for data quality concerns
+Balanced baseline characteristics of LR  vs. NS group:
+Age: 58.5 vs 58.7
+Sex: 57.6 vs 58.4%
+Urban place of residence: 89.7 vs 90.1%
+Income quintiles balanced
+Case mix:
+Medicine: 39.9 vs 41.7%
+Surgery: 42.6 vs 40.7%
+Pregnancy / Childbirth: 16.8 vs 17.0%
+Mean Elixhauser Comorbidity Index: 2.6 vs 2.8
+Intervention
+The use of LR for all fluid administration (> 80% of stocked fluids were LR)
+78.2% compliance based on fluid inventory (Fig S2)
+Control
+The use of NS for all fluid administration (> 80% of stocked fluids were NS)
+93.6% compliance
+Management common to both groups
+Over
+330,000L
+of fluid used across 7 sites during trial periods (24-weeks)!
+Fluids administered as 250, 500 or 1000 ml boluses or infusions as specified by the treating physicians at the participating hospitals
+An automatic order was created for sites with EMR ordering to ensure correct fluid prescribed, and if no EMR present then bed-side nurses implemented an automatic substitution
+Physicians could exclude patients from use of the trial fluid if there were clinical concerns
+To monitor adherence, inventory of lactated Ringer’s solution and normal saline on all clinical shelves was tracked daily
+Overall adherence defined at a hospital level as the total use of the allocated study fluid divided by the total combined use of NS and RL
+A site-tailored strategy for education and communication was developed, and all physicians and nurses were targeted
+Outcome
+Primary outcome
+:
+Death or Readmission within 90 days after index admission
+LR: 20.3% (SD 3.5) vs NS: 21.4% (SD 3.3)
+Adjusted mean difference: -0.53 (95% CI -1.85 to 0.79)
+Percentages are the incidence of outcome events averaged across the seven hospitals/ clusters
+Secondary outcomes
+:
+Comparing LR vs. NS group
+No significant difference in
+Death within 90 days: 6.9 (SD 1.2) vs 7.6 (SD 1.7) %
+Adjusted mean difference: −0.26 (−0.95 to 0.43)
+Readmission within 90 days: 15.1 (2.9) vs 15.4 (2.1) %
+Adjusted mean difference: −0.06 (−1.78 to 1.67)
+Initiation of dialysis: 0.5 (0.3) vs 0.6 (0.5) %
+Hospital LOS (hrs): 164.7 (34.7) vs 172.3 (34.2)
+Discharged to a facility other than home: 15.4 (4.8) vs 16.3 (4.6)%
+Authors’ Conclusions
+In this cluster-randomized, crossover trial involving a heterogenous group of patients in academic and community hospitals, the use of lactated Ringer’s solution as compared with normal saline did not result in a significant difference in the incidence of death or readmission to the hospital within 90 days
+Strengths
+No missing data for primary outcome
+Large trial population
+Assessed fluid use across all phases of hospital journey – ED, Ward, ICU, OT etc
+One of the criticisms of other fluid trials in ICU is the potential for contamination bias when patients receive an alternate fluid outside the ICU (e.g. pre or post)
+Pragmatic trial with a heterogenous patient population increases real-world applicability to the clinician who is looking after a multitude of different conditions on the ward
+Based on my calculations: 330,000L of fluid used across all patients admitted (53,562) means exposure to fluids high (~6L/patient)
+Weaknesses
+Only involved hospitals in Ontario, therefore may reduce external generalisability
+The inclusion of all hospital admissions means the overall population included appeared to be not that unwell (~25% elective surgery and only ~15% seemingly admitted to ICU, Table S1)
+The authors conducted several sensitivity analysis which were consistent with the overall analysis (removal of elective surgery, removal of mental health)
+Adherence to LR much lower – this was only measured at a hospital level so hard to understand in which (if any) subgroups of patients adherence might be lower (and why this might be the case)
+No data provided on fluid use at a patient level
+Administrative data used and no individual level patient data collected, this means some granularity alongside nuances and understanding lost; for example, increased difficulty in understanding if there is any heterogeneity of treatment effect
+Administrative data compared to data collected by research co-ordinators may be less accurate
+Whilst not explicitly mentioned, my assumption is that all data was collected by trained data collectors using standardised data dictionaries given the nature of the administrative data used
+Early cessation with fewer hospital clusters than planned
+No economic evaluation (will likely be published separately) – this is important given the large volumes that are administered
+The Bottom Line
+Whilst the overall conclusion was that the use of LR did not reduce mortality or readmissions within 90 days, the point estimates all favoured LR even in context of significantly reduced adherence
+Given the large volumes of fluid administered any reduction in mortality (regardless of size) would be clinically important; however, I don’t believe that this trial provides compelling evidence to change an individual’s current practice
+Further work looking into strategies that reduce overall hospital fluid usage should be considered given the associated cost and environmental considerations (waste, transport)
+External Links
+article
+A Crossover Trial of Hospital-Wide Lactated Ringer’s Solution versus Normal Saline
+Metadata
+Summary author: George Walker @hgmwalker89
+Summary date: 15 June 25
+Peer-review editor: Dr Celia Bradford
+Picture by: Hilary Haliwell / Pexels

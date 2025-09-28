@@ -1,0 +1,120 @@
+# Metadata
+- Source: The Bottom Line
+- Title: Subtle STEMI
+- Original URL: https://www.thebottomline.org.uk/summaries/em/subtle-stemi/
+- Scrape Date: 2025-07-17
+- Summary Date: AUTO_FILL_IF_AVAILABLE
+
+Electrocardiographic Differentiation of Early Repolarization from Subtle ST-Segment Elevation Myocardial Infarction
+Smith S; Annals of Emergency Medicine 2012; 60(1):45-56, doi:10.1016/j.annemergmed.2012.02.015
+Clinical Question
+Are there specific ECG characteristics that can differentiate between anterior ST-elevation myocardial infarction (STEMI) and early repolarisation?
+Design
+Retrospective cohort study
+Derivation and validation study
+ECG measurement recorded by hand, but readers were not completely blinded to the diagnosis due to institutional differences in ECG appearance
+6 clinicians (Medical student, Residents, Attendings) analysed the ECGs, with between 1-3 clinicians assessing each measurement
+Consecutive patients identified by database searches
+STEMI
+Hospital database: Diagnosis of acute anterior STEMI from Minneapolis Heart Institute
+Catheterisation laboratory database: anterior STEMI, from Hennepin County Medical Center
+Early repolorisation
+ECG database: ECGs coded by cardiologists as early repolarisation from Hennepin County Medical Center
+Multivariate logistic regression
+Model concordance assessed with
+c
+statistic
+Setting
+2 urban hospitals in USA
+Data collected: 2003-2009
+Population
+STEMI group
+Inclusion criteria:
+Acute LAD occlusion confirmed on coronary angiogram with TIMI 0/1 flow
+Exclusion criteria:
+Bundle branch block or arrhythmia
+Obvious STEMI ECG changes
+(ST elevation >5mm, nonconcave morphology,
+≥1 mm of summed inferior ST depression, anterior ST
+depression, terminal QRS distortion, Q waves in any of V2-V4, T-wave inversion in any of V2-V6)
+Number of patients included:
+121 patients identified in the derivation group, of whom 60 met inclusion/exclusion criteria
+234 patients identified in the validation group of whom 83 met inclusion/exclusion criteria
+Early repolarisation group
+Inclusion criteria:
+Patients with chest pain that presented to the ED whose ECGs were coded by cardiologists as early repolarisation, with a final diagnosis of non-ischaemic chest pain with 3 serial negative cardiac troponin I markers
+Exclusion criteria:
+<1mm ST elevation of any leads V2-V4
+Number of patients included
+100 patients identified in the derivation group, of whom 70 met inclusion/exclusion criteria
+142 patients identified in the validation group of whom 101 met inclusion/exclusion criteria
+Tests of Interest
+The following variables were tested in the multiple logistical regression:
+ST-segment elevation in leads V2-V4 at the J point
+and 60 ms after the J point, T-wave amplitude in leads V2-V4, R-wave amplitude in leads v2-V4, computerised QTc, degree of upward concavity, J-wave notching, T wave height in V1 and V6
+Gold Standard Investigation
+For STEMI patients
+Coronary angiogram
+For early repolarisation patients
+ECGs coded by cardiologists as early repolarisation, final diagnosis of non-ischaemic chest pain and 3 serial negative cardiac troponin I markers
+Outcome
+Individual variables – patients with STEMI compared with early repolarisation were significantly more likely to have:
+Greater ST elevation 60ms after J point in V3: odds ratio (OR) per 1mm increase 2.5 (95% C.I. 1.7-3.8)
+Lower R wave amplitude in V4: OR per 5mm decrease 3.8 (95% C.I. 2.4-6.2)
+T wave in V1 >V6: OR 3.1 (95% C.I. 1.4-6.9)
+Longer QTc: OR per 10mm increase 1.5 (95% C.I. 1.3-1.8)
+Multiple variables: ECG criterion based on 3 measurements
+ST elevation 60ms after the J point
+QTc – computerised ECG reading
+R wave amplitude in V4
+If value of following equation >23.4 predictive of STEMI or ≤ to 23.4 predictive of early repolarisation;
+([1.196 x ST-segment elevation 60ms after the J point in lead V3 in mm]+[0.059 xQTc in ms]-[0.326x R-wave amplitude in lead V4 in mm])
+Both derivation and validation groups
+Sensitivity 86% (95% CI 79-91)
+Specificity 91% (95% CI 85-95)
+Accuracy 88% (95% CI 84-92)
+Positive likelihood ratio 9.2 (95% CI 8.5-10)
+Negative likelihood ratio 0.1 95% CI 0.08-0.3)
+Area under the curve 0.96 (95% C.I. 0.92-0.98)
+Inter-rater agreement
+R wave amplitude V4: 0.88 (95% C.I. 0.81 –
+0.92)
+ST elevation 60ms after J point in V3: 0.65 (95% C.I. 0.49 – 0.77)
+Authors’ Conclusions
+R-wave amplitude is lower, ST-segment elevation greater, and QTc longer for subtle anterior STEMI versus early repolarisation. In combination with other clinical data, this derived and validated ECG equation could be an important adjunct in the diagnosis of anterior STEMI.
+Strengths
+ECG criteria derived from one group of patients and then validated in a second, separate group
+Positive likelihood ratio approaching 10 for combination of 3 variables
+Appropriate gold standard investigations
+Assessors of ECG included medical students and emergency medicine residents meaning that the results found can be applied to my ED
+Weaknesses
+Retrospective analysis.
+The control group was limited to only 1 hospital within the study
+Wide range of interrater reliability between ECG readers on certain measurements
+QTc not corrected for sex which could have confounded the measurement
+Can only apply to anterior STEMI or early repolarisation, pattern could be indicative of other diagnosis such as left ventricular hypertrophy etc
+Currently not a straight forward process to calculate measurements needed in a time critical diagnosis
+The Bottom Line
+This study derived and validated an ECG score that can help differentiate anterior ST elevation from early repolorisation.
+Current on-line apps and calculators are available to help calculate this score but need to be used in the right patient by a clinician who understands this score in the context of the whole patient presentation.
+External Links
+[article]
+Electrocardiographic Differentiation of Early Repolarization From Subtle Anterior ST-Segment Elevation Myocardial Infarction
+[further reading]
+Dr Smith’s ECG blog
+[further reading]
+MD Calc: Subtle anterior MI calculator
+[further reading]
+Subtle STEMI App
+[further reading]
+LITFL: Benign early repolarisation
+[further reading]
+R.E.B.E.L.EM – Is This an Inferior STEMI or Pericarditis?
+[further reading]
+Terminal QRS distortion is present in anterior myocardial infarction but absent in early repolarization
+Metadata
+Summary author: Rebecca Mallinson
+@Becks33Rebecca
+Summary date: 20th July 2016
+Peer-review editor:
+@davidslessor

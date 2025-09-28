@@ -1,0 +1,272 @@
+```yaml
+title: "CrackCast Episode 93: Appendicitis"
+url: "https://canadiem.org/crackcast"
+date: 2017-06
+source: "CanadiEM – CrackCast"
+original_file: "CrackCast-Shownotes-Episode-93-Appendicitis.pdf"
+summary: |
+  The document provides a comprehensive overview of appendicitis, focusing on differential diagnoses, pathophysiology, clinical presentation, diagnostic imaging, and management strategies. Appendicitis is characterized by obstruction leading to inflammation and potential perforation, with pain typically localizing to the right lower quadrant. Key physical exam findings include the psoas sign, Rovsing’s sign, and McBurney’s point tenderness, though these are not definitive. Diagnostic imaging options include ultrasound and CT, each with specific advantages and limitations, such as cost, radiation exposure, and diagnostic accuracy. Management involves maintaining NPO status, administering IV fluids, analgesia, and antibiotics, with surgical intervention as the definitive treatment. Special considerations are noted for atypical presentations in children, pregnant women, and the elderly. The Alvarado and Pediatric Appendicitis Scores are useful tools for risk stratification, and imaging pathways combining ultrasound and CT can optimize diagnostic accuracy while minimizing radiation exposure.
+```
+
+## Overview
+
+### Episode Overview
+
+1. List 8 ddx for appendicitis
+2. List 5 causes of acute appendiceal obstruction and describe the pathophysiology of appendicitis including pain location
+3. List 5 PEX findings in appendicitis. Describe how the presentation of appendicitis is different in peds, pregnant women, and elderly.
+4. List 2 advantages and disadvantages each for CT and US in the diagnosis of appendicitis. What is the sensitivity/specificity of ↑WBC?
+5. Describe a clinical pathway for the diagnosis and management of appendicitis.
+6. When are antibiotics indicated?
+
+### Rosen's in Perspective
+
+Once laughed at….now loved; yes it’s the appendix!
+
+No longer thought to be vestigial: now it is thought to be a “repository for commensal bacteria that assist in normal digestive processes and may allow for recolonization of intestinal flora in times of enteric bacterial destruction.” - Rosen’s.
+
+Some studies also suggest a higher risk for C.diff infections for people without an appendix. 70% of cases of appendicitis occur in people < 30 years old.
+
+“The vermiform appendix is a blind-ended tube that originates from the cecum, approximately 3 cm from the ileocecal valve.”
+
+It ranges from 8-20 cm in length - which is why the pain can be almost anywhere!
+
+## Core Questions
+
+### 1) List 8 ddx for appendicitis
+
+**Differential Diagnosis in Appendicitis**
+
+- **All Patients**
+  - Nonspecific abdominal pain
+  - Gastroenteritis
+  - Epiploic appendagitis
+  - Ureterolithiasis, nephrolithiasis
+  - Inflammatory bowel disease
+  - Ileus or bowel obstruction
+  - Intestinal perforation
+  - Testicular torsion (males)
+
+- **Female Patients**
+  - Ectopic pregnancy
+  - Ovarian torsion
+  - Pelvic inflammatory disease
+  - Ovarian cyst
+
+- **Pediatric Patients**
+  - Henoch-Schönlein purpura
+  - Mesenteric lymphadenitis
+  - Meckel’s diverticulum
+
+### 2) List 5 causes of acute appendiceal obstruction and describe the pathophysiology of appendicitis including pain location
+
+“Appendiceal obstruction prevents egress of mucus and bacteria from the appendix; → mucous production and bacterial proliferation result in luminal distention, creating periumbilical pain…... Intraluminal pressure increases, resulting in ischemia and inflammation compromise the integrity of the appendiceal wall bacteria and then invade the appendiceal wall. This causes transmural inflammation that extends into the surrounding tissues (peritoneal, ileocecal, and pelvic areas), resulting in somatic localized pain, typically focused in the right lower quadrant. If this process continues, the appendix becomes necrotic and perforates, releasing enteric contents into the peritoneum and resulting in peritonitis and, typically, diffuse abdominal pain. The length of time from the onset of symptoms to perforation is highly variable.” - Rosen’s 9th Ed.
+
+“The appendix maintains afferent sensory fibers that follow the sympathetic innervation and enter the spinal cord at the 10th thoracic level (T10).....features of the appendix that determine the site of the patient’s pain and tenderness when the organ is inflamed: (1) the location of the origin of the appendix off the cecum; (2) the course the appendix takes from this origin; and (3) the length of the appendix.” - Rosen’s.
+
+We suggest you take a look at the figure in Rosen’s to help explain why “McBurney’s point” is not where pain from appendicitis is always found!
+
+“In fact, only 40% of patients have the base of their appendix within 3m of McBurney’s point, with 36% of patients having the base more than 5m away.” - These patients can present with pain in the LLQ or the right flank or in the back (if retrocecal!).
+
+**Causes:**
+
+1. Fecaliths (hard stools) (65%)
+2. Appendicoliths (calcified deposits)
+3. Lymphoid hyperplasia (primary or secondary to an enteric infection)
+4. Foreign bodies (e.g., vegetable matter, inspissated barium)
+5. Tumors
+6. Intestinal parasites
+
+### 3) List 5 PEX findings in appendicitis. Describe how the presentation of appendicitis is different in peds, pregnant women, and elderly.
+
+“No one element of the history or physical examination can reliably be used to diagnose or exclude appendicitis. Therefore, focusing on a single finding may lead to misdiagnosis………..Furthermore, because the pathophysiology of appendicitis is a progressive process, a patient’s symptoms typically worsen over the course of the illness until perforation of the appendix occurs.”
+
+Check out Tables 83.1+2 in Rosen’s!
+
+1. Iliopsoas (psoas) sign: Increased abdominal pain with patient lying on left side while provider passively extends the patient’s right leg at the hip with both knees extended
+   - Sensitivity: 13–42
+   - Specificity: 79–95
+
+2. Rovsing’s sign: Abdominal pain in the RLQ while palpating the left lower quadrant
+   - Sensitivity: 7–68
+   - Specificity: 58–96
+
+3. Obturator sign: Increased abdominal pain in the supine patient as the provider internally and externally rotates the right leg as it is flexed at the hip
+   - Sensitivity: 8
+   - Specificity: 94
+
+4. McBurney’s point tenderness has a low correlation with appendiceal location and is not highly sensitive for appendicitis, tenderness at this location does have a modest predictive value for appendicitis.
+
+5. “A genitourinary examination should be performed to assess for testicular pathology or hernias in males and pelvic pathology in females. Cervical motion tenderness (CMT) is not specific for pelvic pathology and is noted in 28% of female patients with appendicitis. A rectal examination contributes little toward the assessment of appendicitis and is not routinely recommended”
+
+Here are the top three: “RLQ tenderness; Abdominal wall rigidity; Pain focused at McBurney’s point”
+
+See wisecracks for the atypical presentations!
+
+### 4) List 2 advantages and disadvantages each for CT and US in the diagnosis of appendicitis. What is the sensitivity/specificity of ↑WBC?
+
+**Ultrasound:**
+
+Sensitivities of 75% to 90%, specificities of 83% to 95%, positive LRs of 4.5 to 5.8, and negative LRs of 0.19 to 0.27, with an average positive predictive value of 90%.
+
+- **Benefits in using US for the diagnosis of appendicitis:**
+  - Include decreased cost relative to other imaging modalities
+  - Lack of ionizing radiation exposure
+  - Decreased time to diagnosis
+  - May help us look for other etiologies in young women (pelvic ultrasound for ovarian masses)
+
+- **Limitations of US:**
+  - Decreased specificity and increased pain due to the transducer pressure needed for the graded compression
+  - A number of US examinations cannot visualize the appendix (i.e., nondiagnostic) for a number of reasons, including lack of operator experience, patient factors (e.g., obesity), superimposed bowel gas, or atypically located appendix.
+
+**CT scan (ideally with contrast):**
+
+It demonstrates an overall sensitivity of 94% to 100% and specificity of 91% to 99%, with a positive LR of 9.29 to 13.3, negative LR of 0.1 to 0.09, and positive predictive value of 95% to 97%
+
+- **Benefits:**
+  - Not operator dependent
+  - Helps the surgeon with surgical planning
+  - Helps look for alternative diagnoses
+  - Rapid
+  - Gold standard test
+
+- **Drawbacks:**
+  - Risk for false-negative studies in thin patients (less intra-abd. fat) or special circumstances (tip appendicitis)
+  - Radiation!! (2-10 mSv)
+  - Logistical (if you don’t have a CT scanner)
+
+“The greatest disadvantage of CT is the ionizing radiation. A CT scan of the abdomen exposes the patient to an average dose of ionizing radiation equivalent to 8 examination 10 mSv. To put this in perspective, the average ionizing radiation dose associated with an abdominal x-ray is 0.7 mSv, and the average dose associated with coronary angioplasty is 15 mSv. An abdominal CT carries an excess risk of fatal cancer of 1 in 2000, a value that is even greater in children. However, this value must be tempered by the fact that the general population has a lifetime risk of being diagnosed with cancer of 1 in 3. The risk of radiation increases conversely with age, with children and fetuses having the greatest risk of adverse outcomes of radiation due to their smaller body habitus, more rapidly developing cells, and increased incubation time for genetic mutations to manifest.” - Rosen’s. 9th Ed.
+
+“An imaging pathways that combine US and CT, in which abdominopelvic CT is performed if the graded compression US is nondiagnostic or negative, have demonstrated combined sensitivities of 94% to 99%, specificities of 91% to 97.5%, and significant reductions in CT utilization. It has been projected that this pathway would save $547/patient in imaging costs and $25 million/year in aggregate by reducing imaging costs, unnecessary surgeries, and unnecessary hospitalizations, not to mention decreased radiation exposure.” - Rosen’s 9th Ed.
+
+“Laboratory data should not be viewed as diagnostic for appendicitis. Rather, it should be used in association with the patient’s clinical history and physical examination to formulate a more comprehensive assessment of the patient’s condition and further risk-stratify the patient for treatment and disposition purposes.
+
+**White Blood Cell Count**
+
+A patient’s white blood cell (WBC) count does not by itself have the sensitivity, specificity, or predictive value necessary to be clinically useful in diagnosing or excluding appendicitis. An elevated WBC count (>10,000–12,000/mm3) has a sensitivity of 62% to 85%, specificity of 32% to 82%, positive LR of 1.59 to 2.7, and negative LR of 0.25 to 0.46.” Rosen’s 9th Ed.
+
+**Combined Inflammatory Markers**
+
+“The American College of Emergency Physicians clinical policy on patients with suspected appendicitis states that the combination of a WBC more than 10,000/mm3 and CRP more than 8 mg/L has a positive likelihood ratio of 23 and a negative likelihood ratio of 0.03. These combined laboratory findings offer the greatest impact when excluding appendicitis in patients with a low pretest probability of the disease. Although more research is needed, based on the best available evidence, we recommend using the combination of low WBC (<10,000/mm3) and CRP (<8 mg/L) in patients deemed to be low risk for appendicitis, based on the provider’s clinical assessment, to exclude appendicitis. Alternatively, we do not believe that there are sufficient data to establish the diagnosis of appendicitis conclusively based on the combination of elevated WBC and CRP levels; rather, these should only assist in the decision making process regarding the need for imaging.”
+
+- Only useful for those low-risk patients who can have serial exams, and watchful waiting.
+
+### 5) Describe a clinical pathway for the diagnosis and management of appendicitis.
+
+You must be a good clinician - Use the hx, px, and lab tests to formulate a pre-test probability.
+
+Check out Figure 83.2. Let’s try and talk through it here [don’t post the figure online!]
+
+UptoDate also has a detailed pathway, which relies heavily on the Alvarado score...
+
+**Key points:**
+
+1. Every pediatric patient should be considered for a graded compression ultrasound as the first diagnostic test of choice
+
+2. Don’t forget that serial, watchful waiting is an option for patients who are deemed to be low risk (after hx, px, labs and other etiologies are considered)
+
+3. If the patient is pregnant, graded compression and pelvic US should always be the initial studies of choice, followed by MRI of the abdomen without IV contrast in cases of nondiagnostic or negative US findings.
+
+**Management:**
+
+- Patients should remain NPO. IV fluids (normal saline or lactated Ringer’s) may be administered to maintain hydration and support hypotensive patients.
+- Pain and nausea should be treated with parenteral opiate analgesia and antiemetics. There have been a number of good quality studies that support the concept that opiate analgesia does not negatively affect a patient’s abdominal examination when the patient has an abdominal condition that requires surgery.
+- Antibiotics
+- Surgery!
+
+### 6) When are antibiotics indicated?
+
+1. When you make the diagnosis of appendicitis
+2. In patients with suspected appendicitis and severe sepsis or septic shock.
+
+“The choice of antibiotics should include broad-spectrum gram-negative and anaerobic coverage.
+
+For nonperforated appendicitis, we recommend ciprofloxacin, 400 mg IV, and metronidazole (Flagyl), 500 mg IV; or ceftriaxone, 1g IV, and metronidazole, 500 mg IV; or ampicillin-sulbactam, 3g IV monotherapy.
+
+For perforated appendicitis, we recommend broader spectrum antibiotics, such as piperacillin tazobactam, 3.375 to 4.5g IV, cefepime, 2 g IV, or imipenem cilastatin, 500 mg IV.
+
+Methicillin-resistant Staphylococcus aureus (MRSA) coverage is not typically needed to treat appendicitis but may be considered if the patient has previously known MRSA colonization.” - Rosen’s 9th Ed.
+
+## Wisecracks
+
+### 1) Which patient groups present atypically?
+
+Children, pregnant women, the elderly!
+
+**Pregnancy**
+
+- Acute appendicitis is the most common general surgical problem encountered during pregnancy.
+- Clinical manifestations are generally similar to other adults. Right lower quadrant pain is the most common symptom and occurs within a few centimeters of McBurney's point in most pregnant women, regardless of the stage of pregnancy. In late pregnancy, pain may be the right mid or upper quadrant. Rebound tenderness and guarding are less prominent in pregnant women, especially in the third trimester. Be aware of that sneaky retrocecal appendix or pelvic appendix.
+- Mild leukocytosis can be a normal finding in pregnant women: the total leukocyte count may be as high as 16,900 cell/microL in the third trimester and 29,000 cells/microL during labor, so leukocytosis may or may not be a sign of appendicitis.
+- The clinical diagnosis should be strongly suspected in pregnant women with classic findings: abdominal pain that migrates to the right lower quadrant, right lower quadrant tenderness, nausea/vomiting, fever, and leukocytosis with left shift.” From Uptodate
+
+**Elderly:**
+
+In many patients, initial features are atypical or nonspecific, and can include:
+
+- Indigestion
+- Flatulence
+- Bowel irregularity
+- Diarrhea
+- Generalized malaise
+
+Such patients may complain of urinary frequency and dysuria or rectal symptoms, such as tenesmus and diarrhea.
+
+**Children**
+
+“Appendicitis is uncommon in neonates, infants, and preschool children. Mortality from neonatal appendicitis approaches 28 percent and reflects the difficulty in establishing the diagnosis prior to advanced disease with bowel perforation and sepsis. Case reports indicate that abdominal distension, vomiting, and decreased feeding are the most commonly reported findings in neonates with appendicitis…..
+
+Fever and diffuse abdominal tenderness with rebound or guarding are the predominant physical findings although irritability, grunting respirations, difficulty with or refusal to ambulate, and right hip complaints may also be present. Localized right lower quadrant tenderness occurs in less than 50 percent of patients. The high frequency of rebound or diffuse tenderness and guarding reflects the high prevalence of perforation and peritonitis in this age group.
+
+Typical findings on history are nonspecific such as fever, vomiting, and abdominal pain, all of which can also occur with other surgical diagnoses, such as intussusception. Diarrhea is also relatively common making appendicitis difficult to differentiate from acute gastroenteritis, a much more common condition in these patients……..
+
+School-age (5 to 12 years) — Appendicitis is more frequent in this age group when compared to younger children. Abdominal pain and vomiting are commonly present in school-age children; although the typical migration of periumbilical pain to the right lower quadrant may not occur. On physical examination, right lower quadrant tenderness is noted in the majority of patients. Involuntary guarding and rebound tenderness indicate perforation. Other prominent symptoms include fever, anorexia, and pain with movement.” From Uptodate
+
+### 2) Describe the Alvarado Score and the Ped for Appendicitis
+
+“A low Alvarado score (<4) has more diagnostic utility to "rule out" appendicitis than a high score (≥7) does to "rule in" the diagnosis.”
+
+[Alvarado Score for Acute Appendicitis](https://www.mdcalc.com/alvarado-score-acute-appendicitis)
+
+[Pediatric Appendicitis Score (PAS)](https://www.mdcalc.com/pediatric-appendicitis-score-pas)
+
+- **Low Risk PAS (<4)**
+  - Low likelihood of acute appendicitis, and likely do not warrant imaging.
+  - The score has a higher negative predictive value (95%) in the absence of RLQ pain, pain with walking/jumping or coughing, and an ANC <6,750.
+  - Consider other causes of acute abdominal pain.
+
+- **Equivocal PAS (4-6)**
+  - Imaging can be helpful for this subgroup of patients, preferably ultrasound or MRI for pediatric patients.
+  - Surgical consults are warranted for patients with equivocal scores and imaging where the appendix cannot be visualized.
+
+- **High Risk PAS (>6)**
+  - Surgical consult is warranted for these patients.
+  - Imaging may still be pursued, but patients should only undergo ultrasound prior to a surgical consult.
+
+### 3) What are U/S findings of appendicitis?
+
+“The average diameter of the appendix ranges from 6 to 11 mm; thus, appendiceal diameter alone, in the absence of other radiologic findings, often does not imply appendicitis. Finally, a normal appendix has an average wall thickness of 1.5 mm.”
+
+In general, if the diameter is greater than 6 mm and noncompressible, think about appendicitis.
+
+For those of you ultrasound sharks, here are some pro tips for what to look for:
+- Diameter > 6mm
+- Non-compressible
+- Hyperemia on Doppler flow
+- Air shadowing, discontinuous mucosa.
+- Fat stranding (hyperechoic signals associated with periappendiceal inflammation)
+- Peritoneal fluid surrounding the appendix (secondary finding)
+
+See the Ultrasound Podcast on how to diagnose appendicitis in the ER!
+
+### 4) Tell me about tip vs. stump appendicitis…
+
+“There are two additional pathologic processes associated with appendicitis. First, so-called tip appendicitis is appendiceal inflammation localized to the distal end of the appendix. The clinical significance of this disorder is that it may be missed on imaging due to the limited extent of disease and the lack of classic findings associated with appendicitis; it has been demonstrated to contribute to the false-negative rate associated with computed tomography (CT) imaging. Second, stump appendicitis is a very rare entity that results from inflammation of the appendiceal remnant that may persist after the appendix has been removed surgically. Timing of its occurrence varies; it has been diagnosed 4 days to 50 yrs post appendectomy.” -- Rosen’s 9th Ed.
+
+## References
+
+- [Alvarado Score for Acute Appendicitis](https://www.mdcalc.com/alvarado-score-acute-appendicitis)
+- [Pediatric Appendicitis Score (PAS)](https://www.mdcalc.com/pediatric-appendicitis-score-pas)
+- Rosen’s Emergency Medicine: Concepts and Clinical Practice, 9th Edition
+- UpToDate
+```

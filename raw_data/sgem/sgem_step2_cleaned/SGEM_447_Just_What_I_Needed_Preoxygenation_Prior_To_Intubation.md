@@ -1,0 +1,109 @@
+---
+url: https://thesgem.com/2024/07/sgem447-just-what-i-needed-preoxygenation-prior-to-intubation/
+title: "SGEM#447: Just What I Needed – Preoxygenation Prior To Intubation"
+date: 2024-07-20
+audio_url: https://media.blubrry.com/thesgem/content.blubrry.com/thesgem/SGEM_447.mp3
+download_date: 2025-08-11
+---
+**Reference:**Gibbs et al. Noninvasive Ventilation for Preoxygenation during Emergency Intubation (The PREOXI trial). [NEJM June 2024.](https://pubmed.ncbi.nlm.nih.gov/38869091/)
+
+
+**Guest Skeptic:**Dr. Aine Yore is an Emergency Physician, practicing in the Seattle, Washington area for over twenty years. She is the former president of the Washington chapter of ACEP and her career focus outside of clinical practice has been largely devoted to health care policy.
+
+**Case****:** A 70-year-old man presents to the emergency department (ED) with an exacerbation of COPD. He is hypoxic on arrival with an oxygen saturation of 80% on room air. Although his oxygenation improves to 92% with supplemental oxygen by nasal cannula, he desaturates with minimal exertion and shows increasing fatigue indicating a need for greater respiratory support. He refuses non-invasive mechanical ventilation, as he has not tolerated it in the past, but is agreeable to intubation. His wife, who has been watching the monitors intently, says she is worried*. “His oxygen levels keep dropping. How will you intubate him without them going too low?”*
+
+**Background:** Preoxygenation is a critical step in the management of airway interventions, especially in critically ill patients undergoing tracheal intubation. This process involves the administration of supplemental oxygen before the induction of anesthesia to increase the oxygen reserves in the lungs, thereby reducing the risk of hypoxemia. Hypoxemia during intubation can lead to severe complications, including dysrhythmia, cardiovascular collapse, hypoxic brain injury, and death. Therefore, effective preoxygenation is essential to enhance patient safety during this high-risk procedure.
+
+Traditionally, preoxygenation has been achieved using an oxygen mask, which can deliver a high fraction of inspired oxygen (FiO2) under ideal conditions. However, oxygen masks have limitations. They do not provide positive pressure or ventilatory support, and the actual FiO2 delivered can be significantly lower than expected if the mask does not fit well. This can be particularly problematic in critically ill patients, who often present with compromised respiratory function and may not tolerate the procedure well.
+
+An alternative method of preoxygenation is the use of non-invasive ventilation (NIV), which includes devices like continuous positive airway pressure (CPAP) and bilevel positive airway pressure (BiPAP). NIV offers several advantages over traditional oxygen masks. It delivers a high FiO2 and provides positive pressure support, which can help maintain airway patency and improve ventilation. This is particularly beneficial for patients who are critically ill, and the risk of desaturation is high. Despite its advantages, the use of NIV for preoxygenation is not without challenges. It requires more time to set up and may increase the risk of aspiration in certain patient populations.
+
+Recent studies have explored the efficacy of NIV compared to traditional oxygen masks in critically ill patients. The findings suggest that NIV significantly reduces the incidence of hypoxemia during intubation. These results are promising and may influence future guidelines and clinical practices, emphasizing the importance of optimizing preoxygenation strategies to improve outcomes in critically ill patients. However, the optimal preoxygenation strategy to reduce the risk of hypoxemia and potential harm from it has not yet been determined.
+
+---
+
+### **Clinical Question: Among critically ill adults undergoing tracheal intubation, will preoxygenation with non-invasive positive pressure ventilation reduce the incidence of hypoxemia between induction to two minutes after tracheal intubation, compared to preoxygenation with facemask oxygen?**
+
+---
+
+**Reference****:** Gibbs et al. Noninvasive Ventilation for Preoxygenation during Emergency Intubation (The PREOXI trial). [NEJM June 2024](https://pubmed.ncbi.nlm.nih.gov/38869091/).
+
+* **Population:** Critically ill adults (18 years and older) undergoing tracheal intubation with a laryngoscope and sedation
+  + **Exclusions:** Pregnant women, prisoners, those already receiving positive-pressure ventilation, and those with conditions precluding NIV (e.g., vomiting, severe agitation, facial fractures).
+* **Intervention:** Preoxygenation with noninvasive ventilation using a tight-fitting mask connected to either a conventional or dedicated noninvasive ventilator (NIV) for three to five minutes before induction.
+* **Comparison:** Preoxygenation using an oxygen mask (nonrebreather mask or bag-mask device).
+* **Outcome:** 
+  + **Primary Outcome:** Hypoxemia during intubation, defined as oxygen saturation less than 85% during the interval between induction of anesthesia and 2 minutes after tracheal intubation.
+  + **Secondary Outcomes:** Lowest oxygen saturation during the interval between induction and 2 minutes after tracheal intubation**.** There were also several exploratory outcomes including outcomes related to procedural complications and clinical outcomes including mortality. There were also outcomes related to patient safety. These are listed in the supplemental materials.
+* **Type of Study:** This was a pragmatic, multicenter, unblinded, randomized, parallel-group trial.
+
+> **Authors’ Conclusions:** *“**Among critically ill adults undergoing tracheal intubation, preoxygenation with noninvasive ventilation resulted in a lower incidence of hypoxemia during intubation than preoxygenation with an oxygen mask.”*
+
+**![](https://i0.wp.com/thesgem.com/wp-content/uploads/2014/04/checklist-cartoon.gif?resize=150%2C150&ssl=1)Quality Checklist for Randomized Clinical Trials:**
+
+1. The study population included or focused on those in the emergency department. Yes and No
+2. The patients were adequately randomized. Yes
+3. The randomization process was concealed. Yes
+4. The patients were analyzed in the groups to which they were randomized. Yes
+5. The study patients were recruited consecutively (i.e. no selection bias). **Unsure**
+6. The patients in both groups were similar with respect to prognostic factors. Yes
+7. All participants (patients, clinicians, and outcome assessors) were unaware of group allocation. No
+8. All groups were treated equally except for the intervention. Yes
+9. Follow-up was complete (i.e. at least 80% for both groups). Yes
+10. All patient-important outcomes were considered. No
+11. The treatment effect was large enough and precise enough to be clinically significant. Yes
+12. Financial conflicts of interest. None disclosed. The study was primarily financed by a grant from the US Department of Defense.
+
+**Results:** They included 1,301 critically ill patients. The median age was 61 years and 39.5% were female.
+
+---
+
+### **Key Result:** **Hypoxia was significantly lower in patients treated with NIV before intubation compared with usual preoxygenation care.**
+
+---
+
+* **Primary Outcome:** Hypoxemia occurred in 9.1% of patients in the NIV group vs 18.5% in the oxygen mask group. The absolute risk difference of -9.4% (95% CI; -13.2 to -5.6%), P<0.001
+* **Secondary Outcomes:**The median lowest O2 saturation was statistically different at 99% and 97% with a median difference of 2% (95% CI, 1% to 3%). Several exploratory outcomes had interesting findings.
+
+**![](https://i0.wp.com/thesgem.com/wp-content/uploads/2015/04/Screen-Shot-2015-04-25-at-3.11.12-PM.png?resize=889%2C162&ssl=1)**
+
+Before talking nerdy we want to recognize that this was a very well conducted trial. The authors are to be complimented on successfully designing, conducting, completing, and publishing their trial.
+
+**1. Exclusions and Selection Bias:** They excluded pregnant women which is a common problem in medical research. They also excluded 840 out of 4,567 eligible patients (18%) who were already receiving NIV. This arguably could have been the group that might have most benefitted. However, if that speculation is correct, it implies the study may have been biased against the intervention, weakening the magnitude of the observed benefit. This should perhaps increase our confidence in the study results. Given the widespread use of NIV in patients with respiratory failure, it’s difficult to conceive how a study could be ethically constructed.
+
+The largest group to be excluded was if clinicians felt the patient needed urgent intubation. This clinical decision involves some subjectivity. Of the 4,567 patients screened for eligibility, 924 (20%) were excluded for this reason. Patients could also be excluded if they had conditions that precluded NIV. One condition was if the clinician felt they had severe agitation. Another 248 patients (5%) were excluded for this subjective reason. These exclusions could have introduced selection bias making us less confident in the true point estimate of the observed effect size of NIV in critically ill patients.
+
+![](https://i0.wp.com/thesgem.com/wp-content/uploads/2022/01/peaking-scaled-e1663879373568-150x150.jpg?resize=150%2C150&ssl=1)
+
+**2. Lack of Masking**: One limitation of the PREOXI trial is the lack of masking (blinding). Masking patients and clinicians would be difficult in this type of study design. This can introduce several potential biases that could impact the validity of the study results. One potential bias would be performance bias. This occurs when differences in the care provided to the participants in the different intervention groups are due to the knowledge of the intervention they are receiving. Clinicians who know that a patient is receiving NIV may be more attentive and provide additional care, potentially improving outcomes. Conversely, they might pay less attention to patients in the oxygen mask group, which could negatively impact their outcomes. This could result in an overestimate of the effect size.
+
+**3.** **Emergency Department Patients**: Only a quarter of patients who were included in the cohort came from the ED. The authors of the PREOXI trial did perform a pre-planned subgroup analysis of ED patients. According to the protocol and statistical analysis plan registered on [www.ClinicalTrials.gov](http://www.clinicaltrials.gov/) they wanted to explore whether the effect of the intervention varied across different patient subgroups, including those intubated in the ED versus those intubated in the ICU. The results from the ED did show a point estimate favoring NIV but it was not statistically significant as the 95% CI crossed the line of no difference.
+
+**4. Secondary Analysis & Expletory Outcomes:** There were several other pre-defined subgroups analyzed. This included patients with acute hypoxemic respiratory failure (just under half of all enrolled patients), body mass index (BMI), APACHE II scores, and FIO2 in the previous hour. All point estimates favoured NIV and all but one were statistically significant. While interesting we should not be too confident in any conclusions from this data. It should be thought of as hypothesis-generating.
+
+![](https://i0.wp.com/thesgem.com/wp-content/uploads/2024/07/Screenshot-2024-07-14-at-15.58.13.png?resize=1024%2C651&ssl=1)
+
+The authors collected data on many outcomes other than the primary and secondary outcomes (exploratory outcomes). These too are best understood as hypothesis-generating, and there were a few which were interesting. As one might expect, since the intervention reduced the incidence of hypoxia in the peri-procedural time frame, it also reduced the incidence of \**severe*\* hypoxia, defined as saturations of <80% and less than 70%, by 6.9% and 3.2%, respectively. There was also an observed reduction in the incidence of cardiac arrest by 0.9%. For all these outcomes, the CI did not cross 0, and they have some logical face validity in their relation to the primary outcome. There was no observed difference in mortality.
+
+![](https://i0.wp.com/thesgem.com/wp-content/uploads/2024/07/Screenshot-2024-07-17-at-22.12.28.png?resize=808%2C1024&ssl=1)
+
+![](https://i0.wp.com/thesgem.com/wp-content/uploads/2020/06/cow.jpg?resize=150%2C150&ssl=1)
+
+MOOs
+
+**5. MOOs and POOs:** The primary and secondary outcomes were monitor-oriented outcomes (MOOs) or surrogate outcomes, not patient-oriented outcomes (POOs). We understand why the authors chose hypoxemia as the primary outcome. It can be clinically relevant, while also being objective, measurable, immediate, and actionable. In contrast, mortality is a relatively infrequent event compared to hypoxemia, especially within the short time frame of an intubation procedure. To detect a statistically significant difference in mortality rates between groups, a much larger sample size would be required. This would increase the complexity, duration, and cost of the trial.
+
+**Comment on Authors’ Conclusion Compared to SGEM Conclusion:** We agree with the conclusions, though whether this translates to a patient-oriented benefit is not established and caution should be exercised to avoid over-interpreting these results.
+
+---
+
+### **SGEM Bottom Line: NIV used as an adjunct in preparing appropriate patients for endotracheal intubation can reduce transient hypoxemia.**
+
+---
+
+**Case Resolution:** You discuss the situation with the wife and patient and recommend NIV before intubation. He is intubated successfully without any hypoxemia.
+
+**Clinical Application:** The PREOXI trial supports the use of noninvasive ventilation for preoxygenation during emergency intubation in critically ill patients. By adopting NIV as the preferred preoxygenation method, physicians can reduce the incidence of hypoxemia during this high-risk procedure.
+
+**What Do I Tell the Patient?**You tell the wife that you share her concerns. You say to the patient “*I know you hated that tight mask, but I think if you can stand it for just five minutes, we can get your oxygen levels high enough that we can intubate you more safely.”* He is agreeable to this, and you are successful in intubating him without any complications.
+

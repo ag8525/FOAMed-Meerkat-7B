@@ -1,0 +1,145 @@
+# Metadata
+- Source: The Bottom Line
+- Title: RePHILL
+- Original URL: https://www.thebottomline.org.uk/summaries/icm/rephill/
+- Scrape Date: 2025-07-17
+- Summary Date: AUTO_FILL_IF_AVAILABLE
+
+Resuscitation with blood products in patients with trauma-related haemorrhagic shock receiving prehospital care
+Crombe N
+@DrNickCrombie
+et al. Lancet Haematology. 2022; online March 7 2022. doi.org/10.1016/S2352-3026(22)00040-0
+Clinical Question
+In patients with trauma-related haemorrhagic shock does prehospital administration of packed red cells and lyophilised plasma (Lyo-Plas) compared with normal saline reduce the composite outcome of mortality and failure to reach lactate clearance?
+Background
+Early transfusion in traumatic haemorrhagic shock is increasingly common expanding from military settings to civilian situations
+There is low quality evidence as to whether transfusion in the prehospital setting is helpful for patient outcomes. Studies are limited to case series and retrospective comparative narratives.
+There are 2 large RCTs examining the benefit of prehospital
+plasma
+transfusion. The results were discordant. One trial favoured prehospital transfusion (
+PAMPER
+trial) and the other showed no benefit (
+COMBAT
+trial)
+Early institution of blood components that more closely resembles whole blood may help prevent trauma coagulopathy, downstream traumatic shock, and improve outcomes
+The
+PROPPR
+trial (2015) was a multicenter RCT of
+in hospital
+patients at level 1 trauma centers comparing massive transfusion protocols based on plasma, platelets and RBCs ratios of 1:1:1 vs 1:1:2. There was no statistically significant mortality difference on the primary 30 day mortality outcome
+However death from exsanguination was reduced (9.2% vs 14.6% in 1:1:2 group; difference, −5.4% [95% CI, −10.4% to −0.5%];
+P
+= .03
+Lyophilised plasma (LyoPlas): Freeze dried plasma (German Red Cross) from single apheresis donors can be bought commercially and stored for 1.5 years at  2C-25C. Water is added to a glass bottle to reconstitute the plasma. It is thought to have similar or even improved biological efficacy compared to FFP
+Packed Red Cells are a plasma depleted blood product with a high haematocrit (0.5-0.7), low sodium (~120mmol/L), high potassium (~25mmol/L) and high lactate (~25mmol/L). The ability of transfused cells to deliver O2 is poor compared to natural red blood cells as they are depleted of 2,3-DPG
+Design
+Multicentre: based across 4 prehospital critical care services
+Allocation concealment: the box with the PRBC-LyoPlas was identical to the one containing normal saline
+Boxes were carried for 48 hours at controlled temperatures. If the boxes were unused at the 48 hour mark they were removed and placed back into blood bank stock
+Open-label, RCT with 1:1 ratio, variable block size, stratified by site
+Central secure trial database
+Clinicians assessing the outcomes were not aware of the allocation
+An independent data monitoring committee met 5 times during the trial to assess safety and advise on continuation of the trial
+The study was approved by the relevant ethics committee and Healthcare Products Regulatory Agency
+Due to the urgent need for treatment and the presence of haemorrhagic shock, consent was delayed until the patient was stabilised and was sought from the patient or next of kin
+It was calculated that 438 participants (219 per group) were needed to detect a difference of 10% in the primary outcome, with 80% power and a type 1 error rate of 0.05. Allowing for 10% attrition, the sample size was increased to 490 participants
+There was a protocol amendment with the power calculations re-framed in terms of relative risk reduction rather than absolute risk reduction. However, the sample size did not alter with this
+Setting
+Four prehospital critical care services in the UK
+Randomisation between November 29 2016 to January 2 2021: temporary suspension of randomisation during peak COVID pandemic time
+Population
+Inclusion
+:
+Adults (>16 years)
+Traumatic injury with hypotension (SBP<90mmHg) or absent palpable radial pulse
+Hypotension thought to be due to haemorrhage
+Exclusion
+:
+Patient had already been transfused blood products prior to assessment for eligibility
+Known refusal to receive blood products
+Pregnancy (known or apparent)
+Isolated head injury without evidence of haemorrhage
+Prisoners
+432 participants:
+209 to PRBC + LyoPlas group (199 available for analysis as 2 missing both mortality and lactate clearance data, 3 missing mortality data, 5 missing lactate clearance data only)
+223 to normal saline group (210 available for analysis as 2 missing both mortality and lactate clearance data, 2 missing mortality data, 9 missing lactate clearance data only)
+Due to the COVID-19 pandemic and end of funding, the intended sample of 490 patients was not met
+Comparing baseline characteristics of intervention vs. control group
+Groups were similar at baseline
+82% were men, median age 38 years, 79% blunt injury, 26 minutes to arrival of prehospital team, 39% transferred to hospital by air, 61% by road, median injury severity score 36
+Predefined subgroups: by site, mode of transport to hospital, initial lactate >2.2mmol/L, cardiac arrest, time to ED >1 hour, mode of injury (blunt vs penetrating vs crush vs multiple modes), volume of prehospital fluid given, age, head injury, compressible haemorrhage, premorbid drug history
+Intervention
+Packed red cells and lyophilised plasma (LyoPlas)
+Patients could receive up to 2 units of O negative, Rh negative, Kell negative, leukodepleted packed cells (mean volume = 282ml) AND 2 units of LyoPlas (reconstituted to 200ml with H20). The products were alternated
+If all 4 units had been delivered, further resuscitation with normal saline could follow if SBP < 90mmHg
+A measure of capillary lactate (lactate scout device) was taken prior to delivery of the intervention
+Control
+Normal saline
+Up to 4 x 250ml bags of 0.9% normal saline
+A measure of capillary lactate (lactate scout device) was taken prior to delivery of the intervention
+Management common to both groups
+The intervention and control fluids were delivered through a fluid warmer
+TXA therapy was given in 96% of the intervention group and 98% of the control group
+The interventions were delivered until hospital arrival OR improvement in SBP to>90mmHg
+Following arrival to hospital, further resuscitation fluids could be given at the discretion of the treating physicians
+Outcome
+Primary outcome
+: a composite outcome of mortality (between time of injury and hospital discharge)
+OR
+a failure to reach lactate clearance (<20% per hour in the first 2 hours after randomisation. For example, if the initial lactate was 5mmol/L, and was 3.2mmol/L at the 2 hour mark, this would represent a failure to clear lactate)
+OR
+both
+Comparing intervention vs control: 128/199 (64%) vs 136/210 (65%) [ARR 1.01 (95% CI 0.88-1.17)]
+Secondary outcomes
+: Comparing intervention vs control
+No significant difference in:
+Mortality: 43% vs 45% [ARR 0.97 (95% CI 0.78-1.2)]
+Failure to clear lactate: 50% vs 55% [ARR 0.94 (95% CI 0.78-1.13)]
+Vital signs on arrival at ED between groups (heart rate, SBP, respiratory rate, oxygen saturations)
+Lactate concentration on arrival to ED (7.04 vs 6.93, p=0.87)
+INR > 1.5 (14% vs 16%, p =0.80)
+Death within 3 hours 16% vs 22%, p=0.08
+Significantly greater in the intervention group:
+Haemoglobin on arrival to ED (133 g/L vs 118 g/L, p<0.0001)
+Total blood products given up to 24 hours:
+PRBC 6.34 vs 4.41 (p=0.004),
+Plasma 5.04 vs 3.37 (p=0.002)
+The treatment effect for the primary outcome was consistent across all of the predefined subgroups
+The frequency of adverse events were similar between groups with no transfusion related deaths
+A Bayesian analysis is also included suggesting that it is highly unlikely that there is a difference in the outcomes between the intervention and control groups
+Authors’ Conclusions
+The trial did not demonstrate a benefit for a composite outcome of mortality and lactate clearance in trauma patients with haemorrhagic shock receiving PRBC-LyoPlas compared with 0.9% saline
+Strengths
+Allocation concealment, intention to treat analysis, near complete follow-up
+Blinding of the primary outcome assessors
+An important question to answer: the assumption is that earlier transfusion improves patient outcomes, but this trial does not support that hypotheses
+It’s challenging to execute such a complex trial which traverses healthcare sector boundaries and recruits patients who are severely injured and unstable
+Composite outcomes can be useful when events, such as mortality, are rare and when the cost and logistics of running larger, better powered trials is not feasible. By combining different endpoints it may be easier to detect a difference between the treatment groups
+The authors note that patients who were allocated to the intervention were more likely to receive more blood products in total and therefore the cost and logistical difficulties of bringing blood to the prehospital setting did not seem justified as no benefit was seen overall
+The outcomes were objective and the assessors of these outcomes were blinded to the allocation
+Weaknesses
+Patients, although shocked, were not, on average anaemic (only 9 patients in the saline group had a Hb <80g/L). This may underestimate the treatment effect
+Composite outcomes that combine endpoints with large variability in importance means the results are difficult to interpret. For example, in this trial, a patient would clearly be concerned if they died from haemorrhagic shock but perhaps not so worried if they had a high lactate
+Lactate clearance is not a clinically meaningful outcome. The use of this marker for adequacy of resuscitation may also be contaminated by the fact that packed red cells contain high lactate levels (25mmol/L) and thus this may impact the serum levels in the intervention group
+Time from randomisation to hospitalisation was short, potentially diluting the impact of this prehospital intervention
+The trial is likely underpowered. The confidence intervals are wide, making an assessment of potential benefit or harm difficult
+The trial examined plasma:red cell ratio of 1:1. The PAMPER trial used FFP. Although, LyoPlas is thought to have similar biological efficacy to FFP, this difference in trial design/intervention could potentially be why PAMPER did show benefit in the intervention arm, but RePHILL did not
+The intervention did not explore different ratios of plasma:red cells, eg 2:1. It did not include other blood components, eg whole blood, platelets, calcium. So, it is unclear if these results apply in all situations
+The planned sample size of 490 was not met due to the pandemic and funding issues
+Once allocation was revealed, the treating clinicians were unblinded to the treatments which could cause detection bias (eg if clinicians know that a patient has received blood products already, the vigilance for ongoing need for transfusion may be less) or performance bias (ie some sort of unmeasured unequal care between groups). Detection and performance bias can overestimate or underestimate the effect of an intervention on the outcome
+The logistics of providing prehospital blood products is challenging. This is certainly not an option in many healthcare settings, eg less developed nations,  and remote settings with sparse populations. It is possible that these settings are actually the ones where this treatment may be more efficacious due to prolonged prehospital time. However, this extrapolation is hypothetical only
+The Bottom Line
+The logistical challenges and costs of carrying packed cells and LyoPlas for administration in a prehospital setting for patients with haemorrhagic shock due to trauma are substantial
+In this trial’s setting, prehospital transfusion does not benefit patient outcomes
+There may be more specific settings or patient groups where this strategy should be employed. However, further trials would be needed to appreciate which specific patient groups would benefit
+External Links
+[article]
+The RePHILL trial
+[further reading]
+JC: The RePHILL trial. St Emlyn’s
+[further reading]
+Acid-base, electrolyte and metabolite concentrations in packed red blood cells
+Metadata
+Summary author: Celia Bradford @celiabradford
+Summary date: March 29 2022
+Peer-review editor: Adrian Wong @avkwong

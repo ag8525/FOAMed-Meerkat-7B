@@ -1,0 +1,162 @@
+---
+title: "CrackCast Episode 62: Venomous Animal Injuries"
+url: "www.crackcast.org"
+date: 2017-02
+source: "CanadiEM – CrackCast"
+original_file: "CC.Ep62VenemousAnimalInjuries.pdf"
+summary: |
+  The document focuses on venomous animal injuries, primarily in North America, detailing the types of venomous snakes, spiders, and marine animals, along with their phenotypic characteristics and management strategies. It highlights the five classes of venomous snakes, with a focus on pit vipers and coral snakes, and describes the grades of pit viper envenomation, emphasizing the importance of rapid transport and specific antivenin administration. The document also covers the management of black widow and brown recluse spider bites, noting the use of antivenin and supportive care. Additionally, it discusses venomous marine injuries, including bites, nematocysts, and stings, with management focusing on supportive care and specific interventions like vinegar application for jellyfish stings. Key warnings include the need for careful monitoring of systemic symptoms and the potential for anaphylaxis with antivenin use.
+
+---
+
+## Overview
+
+### Rosens in Perspective
+
+Before we dive into Rosens, I just wanted to note for our international listeners that our focus here is primarily on North American envenomations, as logistically it would be impossible to cover the breadth of envenomations local to high-risk areas such as Southeast Asia, Brazil, Africa, and Australia. This chapter may leave you wanting more; you’ve been warned! For our North-North American listeners, enjoy the ride - the vast majority of these species are endemic to our warmer southern cousins. Enjoy.
+
+Mortality demographics
+
+In the States, they receive about 45,000 snakebites per year, with a mortality rate of less than 0.02%. Fatality rates across the US are highest from bees, followed by rattlesnakes, wasps, and spiders, although morbidity and mortality are growing in the field of ‘exotic snake’ exposure, which is particularly dangerous as antivenin is usually only available to the endemic areas of the imported creatures.
+
+As a category, Hymenoptera (wasps, bees, yellow jackets, hornets, and ants) are the most dangerous venomous animals due to anaphylactic reactions to their venom. Additionally, marine envenomations are on the rise as outdoor recreation rises. All in all, the highest risk group remains very young, elderly, or inappropriately treated patients.
+
+Some pedantry to chew on here; poisonous and venomous animals differ. Poison refers to toxins distributed in the tissue (i.e., pufferfish), which can cause harm after ingestion. Venom refers to specific glands and apparatus for the delivery of toxin.
+
+The composition of venom is complex: polypeptides, phospholipase A, enzymes, proteins, etc. Occasionally snakes can inject little or no venom (a “dry” bite).
+
+## Core Questions
+
+### 1) List the 5 classes of venomous snakes.
+
+Only 10% of snakes are venomous. Those classes are:
+- Colubridae - include boomslang and bird snake. Primarily an African snake, many have fangs that are too small to penetrate human skin, and no deaths have been reported.
+- Elapidae - include cobras, kraits, mambas, and coral snakes. More on coral snakes coming up!
+- Viperidae - true vipers (puff adders, gaboon viper, and European viper).
+- Crotalidae - pit vipers. Common throughout southern US, and we’ll focus on these guys in questions 4.
+- Atractaspididae - mole vipers - rarely envenomate humans.
+
+ECACV. Earthy Creatures Aggressively Carry Venom. Elapidae, Crotalidae, Atractaspididae, Colubridae, Viperidae.
+
+### 2) Describe phenotypic characteristics of Pit-Vipers
+
+These are the most prevalent native venomous snakes in the USA - accounting for 98% of all envenomations.
+
+They have 3 main groups: true rattlesnakes, copperheads & water moccasins, and pygmy rattlesnakes. All these fall into the Crotalidae family.
+
+- Pit midway between eye and nostril - head-sensitive organ for locating prey. This is 100% consistent in the family. Other useful characteristics are elliptical pupil, tail structure of single rows of sub-caudal plates, triangle head, and presence of fangs (not 100% sensitive).
+- The size of the snake doesn’t matter when it comes to envenomation.
+
+“Ask for a smile on the heat-seeking missile, or don’t put your foot in the pit - Chris’ tip”
+
+### 3) Describe phenotypic characteristics of coral snakes?
+
+These are found in North and South Carolina, Florida, Louisiana, Mississippi, Georgia, and Texas. This is the “deadly” eastern coral snake we’re talking about! It has a black nose.
+
+- Coral snakes are readily identified by their color pattern in North America. The red and yellow bands are adjacent, which lends to the rhyme: Red touches yellow, dangerous fellow. Red touches black, friend to Jack. If you’re in Brazil…. All bets off! ...Oh and some coral snakes have no red bands….
+
+“Red next to yellow, kill a fellow; Red next to black, venom lack.”
+
+### 4) List the grades of pit viper envenomation and indicate therapy.
+
+Illegitimate vs. Legitimate (accidental) envenomation - not so useful to us. Maybe for insurance companies…
+
+Common symptoms: immediate burning pain, which can progress...
+
+These are the five grades (verbatim) from Rosen’s pages 798-799:
+- Grade 0 (minimal). There is no evidence of envenomation, but snakebite is suspected. A fang wound may be present. Pain is minimal, with less than 1 inch of surrounding edema and erythema. No systemic manifestations are present. No laboratory changes occur.
+- Grade I (minimal). There is minimal envenomation, and snakebite is suspected. A fang wound is usually present. Pain is moderate or throbbing and localized to the fang wound, surrounded by 1 to 5 inches of edema and erythema. No evidence of systemic involvement. No laboratory changes occur.
+- Grade II (moderate). There is moderate envenomation, more severe and widely distributed pain, edema spreading toward the trunk, and petechiae and ecchymoses limited to the area of edema. Nausea, vomiting, and a mild elevation in temperature are usually present.
+- Grade III (severe). The envenomation is severe. The case may initially resemble a grade I or II envenomation, but the course is rapidly progressive. Within 12 hours, edema spreads up the extremity and may involve part of the trunk. Petechiae and ecchymoses may be generalized. Systemic manifestations may include tachycardia and hypotension. Laboratory abnormalities may include an elevated white blood cell count, creatinine, phosphokinase, prothrombin time, and partial thromboplastin time, as well as elevated fibrin degradation products and D-dimer. Decreased platelets and fibrinogen are common. Hematuria, myoglobinuria, increased bleeding time, and renal or hepatic abnormalities may also occur.
+- Grade IV (very severe). The envenomation is very severe and is seen most frequently after the bite of a large rattlesnake. It is characterized by sudden pain, rapidly progressive swelling that may reach and involve the trunk within a few hours, ecchymoses, bleb formation, and necrosis. Systemic manifestations, often commencing within 15 minutes of the bite, usually include weakness, nausea, vomiting, vertigo, metallic taste in mouth, and numbness or tingling of the lips or face. Muscle fasciculations, painful muscular cramping, pallor, sweating, cold and clammy skin, rapid and weak pulse, incontinence, convulsions, and coma may also be observed. An intravenous bite may result in cardiopulmonary arrest soon after the bite.
+
+Out of hospital care: All snake-bites are an emergency. The initial 6-8 hrs are critical to prevent severe envenomation.  
+Steps:
+1. Remove victim from the snake (kill it if needed!) - and bring the dead snake with you if possible (or take some good pictures).
+2. Rapid transportation.
+3. Remove clothing, jewelry around the bite.
+4. Slow the spread of venom by helping the patient calm down, avoid movement of the bitten area (splint it), stop drinking alcohol (!).
+5. Consider the Monash method or immobilization and compression techniques (supported for Elapidae bites but not studied in pit vipers) - can use a snugly fit band immediately after the bite (<30mins).
+6. Ice applied to the bite wound (only for comfort - this doesn’t decrease the spread of venom).
+7. Document the evolution of wound/limb edema.
+
+Bring to a hospital ASAP!
+
+Don’t: incise bite wounds, suck them, drink whiskey, clam juice, split chickens, or electrocute them.
+
+***Vitals, IV, normal saline running in, CBC, UA, Creatinine, BUN, CK, Fibrin, INR/PTT, Electrolytes, ECG, type and screen***; consider hepatic studies as well.
+
+1. Minimal constitutes observation for up 6-8 hours.
+2. Moderate envenomation requires 4 FabAV (4-6 for pit viper) over 60 min, and monitor for progression to severe.
+3. Severe requires 4 FabAV (8-12 for pit viper) over 60 minutes then a maintenance of 2 vials every 3 hours or 4-6 if progressing to very severe. Pit viper envenomation may require initial doses of up to 18 vials, with maintenance up to 10 vials every 6 hours.
+
+Pearls:
+- Kids often require double the doses compared to adults!
+- Don’t forget about antibiotics for gram negatives - especially with high-risk patients and wounds with large amounts of local destruction.
+- Pregnancy is not a contraindication.
+- Don’t do local infiltration of antivenin.
+- Toxicity is rarely delayed by more than 8-12 hrs.
+- Don’t forget to update tetanus.
+
+### 5) Describe a black-widow spider and expected management goals?
+
+This common North American spider, Latrodectus mactans, can be identified by the glossy black color and bright red marking on the abdomen - either an hourglass or two red spots. Fortunately, only half the population, namely females, are able to envenomate humans. These species frequently take cover in protected places such as rocks, woodpiles, stables, and… outhouses… ouch!
+
+Envenomation causes dull crampy pain in the bite, with spread to the rest of the body over the next hour. The abdomen may become board-like with minimal tenderness. Pregnant women may go into premature labor. Other symptoms include dizziness, restlessness, ptosis, N/V, pruritus, dyspnea, and well… just about anything! ECG may indicate dig toxicity-like changes.
+
+Management initially is cleaning with soap, water, and tetanus. Patients with symptoms should have lab work including: CBC, lytes, BUN, Creatinine, Coags, UA, and ECG. Treatment includes diazepam for muscle spasms, parenteral analgesics for pain, and admission for monitoring. Young, elderly, and pregnant patients should prompt consideration for antivenin Lyovac - a horse serum derivative. Hard criteria for antivenin include seizures, respiratory failure, uncontrolled HTN, pregnancy, and lack of response to prior therapies. Dose is one vial in 50ml NS over 15 minutes. Allergic reactions are common.
+
+### 6) Describe a brown recluse spider and expected management goals
+
+One-inch long spiders again found in protected areas such as woodpiles and rocks. More common in south-central US, but reported as far as the Canadian border. Distinguishing features include a violin-shaped darker area on the cephalothorax and three pairs of eyes instead of four… if you’re getting THAT close though, you’re asking for trouble.
+
+The toxin causes local tissue damage and hemolysis, and system symptoms are primarily allergic. Pain usually develops over 3-4 hours with a white area of vasoconstriction surrounding a bleb. This bleb eventually undergoes necrosis and may resemble a MRSA infection.
+
+System symptoms include hemolytic complications (thrombocytopenia, shock, jaundice, renal failure, hemorrhage) and pulmonary events, eventually culminating in DIC.
+
+Treatment is primarily supportive, but dapsone (an antibiotic known better for leprosy and PJP Pneumonia) 50-200mg/d can be considered for prevention of local effects if used within 48 hours.
+
+Analgesics are universally recommended. Signs of systemic envenomation require admission for observation. Antivenin is available in South America, but not commonly in North America.
+
+### 7) List 3 classes of venomous marine injuries, and describe key principles of management for each?
+
+- Bites
+  - Generally from cephalopods such as octopi. The octopus has a pair of modified salivary glands that secrete venom from its beak. The blue-ringed octopus in particular has reported fatalities from its venomous neuromuscular inhibitor and vasodilator. Treatment is fully supportive, as no anti-venin exists.
+
+- Nematocysts
+  - Nematocysts are, in essence, ‘spring-loaded’ venom glands that passively discharge on mechanical or chemical stimulation. They are found in animals known as cnidaria, which include jellyfish, man-of-war, hydroids, box jellyfish, nettles, and anemones. They are unique in that they can function even when the animal is dead or a limb has been severed.
+
+  The toxin is primarily antigenic, and allergic reactions are common. Severity is related to the number of nematocysts, species, and the patient's auto pharmacologic response. Death is usually from cardiopulmonary collapse, although death from drowning is more common. Management includes removal from water, treatment of allergic reaction, removing nematocysts, and pouring ideally hot vinegar over the affected area. Immersion in fresh water may increase nematocyst firing and is not recommended.
+
+- Stings
+  - Sea animals that sting include sea urchins, cone shells, stingrays, sea snakes, stonefish, and many others. Irrespective of which creature causes the sting, although some are worse than others, namely the cone shell and stingray, care is supportive, including removing sting apparatus, tetanus, antibiotics (cipro is a good choice), and good cardiopulmonary care. Bony fishes get a special shout-out as strong fish take their home here in lovely Victoria BC, and this is one of the rare fish envenomations which has an antivenin.
+
+## Wisecracks
+
+### 1. What does expert opinion suggest to avoid anaphylaxis in non-recombinant antivenin administration?
+
+- Prophylactic dose of 0.3mg epinephrine sc if using the horse-serum derived antivenin.
+
+The incidence with older horse antivenin was 12-17%, but the incidence with new types of antivenins (FabAV polyvalent - CroFab) is unknown.
+
+- Consider in patients with atopy, hay fever, and allergies to: wool, papaya, pineapples, chymopapain, previous horse or sheep serum injections.
+- Stay tuned for “phytotherapy (botanical therapy) and non-antivenin drugs”. Maybe consider hyperbaric therapy as well.
+
+### 2. What is the most toxic, per weight, venom?
+
+Trick question! Or rather, we’ve been talking about VENOM until now. It would seem the likely candidate for most poisonous animal is the poison dart frog, which requires only 2 micrograms of toxin to kill a human adult. As for the world’s most dangerous venomous animal? This prestigious award likely goes to the box jellyfish, which has, by some sources, caused at least 5,567 recorded deaths since 1954. Although, most of these are due to drowning…. I still wouldn’t want a chance encounter!
+
+### 3. What are the general phenotypic features of poisonous snakes in North America?
+
+- Triangle-shaped head vs. Round, Elliptical pupil vs. round. Fangs and pit vs. none, and a single row of caudal plates +/- rattle vs. double row of subcaudal plates. Now this is just a guideline, so don’t use it as a guide for which snakes are all cuddle and safe for pickup! This also only applies to North American snakes. See figure 62-1 for an illustration.
+
+### 4. What about coral snakes and Exotic envenomations?
+
+These can all present with delayed and atypical neurologic symptoms (bulbar, ptosis, brainstem dysfunction, etc.) and should be admitted to hospital.
+
+- Coral snakes: an antivenin for them is apparently no longer made, so check with your local poison centre or call the Arizona poison centre.
+- Exotic snakes: call your zoo.
+
+## References
+
+www.crackcast.org

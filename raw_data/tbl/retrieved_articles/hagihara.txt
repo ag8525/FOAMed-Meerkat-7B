@@ -1,0 +1,67 @@
+# Metadata
+- Source: The Bottom Line
+- Title: Hagihara
+- Original URL: https://www.thebottomline.org.uk/summaries/icm/hagihara/
+- Scrape Date: 2025-07-17
+- Summary Date: AUTO_FILL_IF_AVAILABLE
+
+Hagihara: Prehospital epinephrine use and survival among patients without-of-hospital cardiac arrest
+Hagihara. JAMA 2012;(307)11:1165-1168
+Clinical Question
+In patients with out-of-hospital (OOH) cardiac arrest is the use of adrenaline, compared to not using adrenaline, associated with an improved mortality?
+Design
+Prospective
+Non-randomised
+Cohort study with concurrent control group
+Setting
+Pre-hospital services, Japan
+01.01.2005-31.12.2008
+Population
+Inclusion: adult patients who had an OOH cardiac arrest prior to arrival of emergency services
+Exclusion: >60 minutes elapsed from call to scene arrival or >480 minutes from call to hospital arrival; missing data on adrenaline administration
+417 188 patients
+Intervention
+Patients treated with epinephrine
+From April 2006 certified paramedics were permitted to use adrenaline which led to the development of the intervention and the control group
+Control
+Patients not treated with adrenaline
+Outcome
+Comparing patients who received adrenaline with patients who did not receive adrenaline:
+the Odds Ratios (95% C.I.) were the following for:
+Return of spontaneous circulation (ROSC) before hospital arrival
+unadjusted OR 3.75 (3.59-3.91)
+adjusted OR 2.36 (2.22-2.5)
+Survival at 1 month
+unadjusted OR 1.15 (1.07-1.23)
+adjusted OR 0.46 (0.42-0.51)
+Good neurological outcome (CPC 1 or 2)
+unadjusted OR 0.61 (0.53-0.7)
+adjusted OR 0.31(0.26-0.36)
+Similar results were found in a propensity matched subgroup (n=26,802)
+Authors’ Conclusions
+Use of prehospital adrenaline was significantly associated with increased ROSC but decreased chance of survival and good functional outcome
+Strengths
+Huge numbers of patients
+Similar results found when analysed with different models
+Weaknesses
+Non-randomised
+Baseline characteristics generally favour adrenaline group with greater rates of bystander CPR (45% vs. 36%), use of public AED (0.8% vs. 0.4%), VF/VT (13.7% vs. 7.2%)
+Data on in-hospital CPR not included in analysis
+Number of adrenaline doses given not recorded
+Included pre-hospital cardiac arrests only
+One month survival influenced by in-hospital care which varies between centres
+The Bottom Line
+This study found an association between the use of adrenaline for cardiac arrest, and decreased survival as well as a poor neurological outcome. It is a non-randomised study, but with >400,000 patients included it needs to be taken seriously. If this was a ‘new drug’ it would not be included in any guideline, and is perhaps currently still only in the guidelines because it is something that ‘we have always done’!
+Links
+Full text pdf
+/
+abstract
+/ doi: 10.1001/jama.2012.294
+Editorial, Commentaries or Blogs
+EMCrit Blog. EM Crit Wee podcast – Abandon Epinephrine?
+Metadata
+Summary author:
+@davidslessor
+Summary date: 14 May 2014
+Peer-review editor:
+@stevemathieu75

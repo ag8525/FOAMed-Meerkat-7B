@@ -1,0 +1,97 @@
+---
+source: The Bottom Line
+title: DIRECT-MT
+original_url: https://www.thebottomline.org.uk/summaries/icm/direct-mt/
+scrape_date: 2025-07-17
+summary_author: Dan Hu, PharmD, BCCCP
+summary_date: 2020-05-24
+peer_review_editor: @celiabradford
+summary: "Will be added later"
+---
+
+# Endovascular Thrombectomy with or without Intravenous Alteplase in Acute Stroke (DIRECT-MT)
+
+## Clinical Question
+In patients with acute anterior ischaemic stroke, is endovascular thrombectomy alone noninferior to endovascular thrombectomy preceded by intravenous alteplase with respect to the modified Rankin score at 90 days?
+
+## Background
+Previous studies have established the role of endovascular thrombectomy in acute ischaemic stroke. The role of alteplase before thrombectomy is unclear, as it may improve reperfusion but also increase haemorrhagic risks.
+
+## Design
+- Investigator-initiated, multicentre, prospective, randomised, open-label trial with blinded outcome assessment
+- Funded by the National Health Commission of China and the Wu Jieping Medical Foundation
+- 1:1 randomisation using a Web-based system, stratified by site
+- Sample size: 636 patients for 80% power to determine noninferiority with a margin of 0.8
+
+## Setting
+- 41 academic tertiary care centres in 18 provinces in China
+- Study period: 23 February 2018 to 2 July 2019
+
+## Population
+
+**Inclusion Criteria:**
+- Clinical diagnosis of acute ischaemic stroke
+- Occlusion of the intracranial segment of the internal carotid artery or middle cerebral artery confirmed by CTA
+- Eligible for IVT and MT within 4.5 hours after symptom onset
+- NIHSS ≥ 2
+- Age ≥ 18 years
+- Written informed consent
+
+**Exclusion Criteria:**
+- Disability before stroke (mRS > 2)
+- Contraindications for IVT per AHA–ASA guidelines
+- Blood pressure > 185/110 mmHg
+- Blood glucose < 2.7 or > 22.2 mmol/L
+- Recent cerebral infarction, head trauma, surgery, or haemorrhage
+- Anticoagulant use with INR > 1.7 or thrombocyte count < 100 × 10⁹/L
+
+**Enrollment:**
+- 656 patients (327 thrombectomy alone, 329 combination therapy)
+
+## Intervention
+
+**Thrombectomy Alone Group:**
+- Endovascular thrombectomy without prior alteplase
+
+## Control
+
+**Thrombectomy + Alteplase Group:**
+- Intravenous alteplase (0.9 mg/kg) before thrombectomy
+
+## Outcomes
+
+### Primary Outcome
+- Modified Rankin scale score at 90 days: thrombectomy alone was noninferior to combination therapy
+  - Adjusted common OR: 1.07 (95% CI: 0.81–1.40), p = 0.04
+  - Unadjusted common OR: 1.09 (95% CI: 0.84–1.43), p = 0.02
+
+### Secondary Outcomes
+- No significant differences in mRS scores at 90 days, NIHSS scores, Barthel Index, or recanalisation rates
+- Higher rates of successful reperfusion before thrombectomy in combination therapy group
+
+**Safety Outcomes:**
+- No significant differences in death, symptomatic intracranial haemorrhage, or procedural complications
+
+## Authors’ Conclusions
+Endovascular thrombectomy alone is noninferior to thrombectomy preceded by alteplase in acute ischaemic stroke with large-vessel occlusion.
+
+## Strengths and Weaknesses
+- **Strengths**
+  - Independent data and safety monitoring
+  - Blinded outcome assessment
+  - Allocation concealment with computerised randomisation
+  - Minimal loss to follow-up
+- **Weaknesses**
+  - External validity may be limited by differences in stroke rates between populations
+  - Prespecified noninferiority margin was generous
+  - Sample size was small with wide confidence intervals
+  - Results may not apply to centres without thrombectomy capability
+
+## Bottom Line
+This study suggests that endovascular thrombectomy alone is a viable option for acute ischaemic stroke, particularly in centres with thrombectomy capability. However, the data may not be robust enough to change practice in smaller facilities without such capability.
+
+## External Links
+- **Original article:** [Endovascular Thrombectomy with or without Intravenous Alteplase in Acute Stroke – Yang et al.](https://www.nejm.org/doi/full/10.1056/NEJMoa2001123)
+- **NNT:** Tissue Plasminogen Activator (tPA) For Acute Ischemic Stroke
+- **NEJM Editorial:** Challenges in the Design and Interpretation of Noninferiority Trials
+- **REBEL EM:** The DIRECT-MT Trial: Are Systemic Lytics Necessary in LVO Treatment?

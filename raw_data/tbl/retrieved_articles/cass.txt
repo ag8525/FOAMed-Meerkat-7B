@@ -1,0 +1,149 @@
+# Metadata
+- Source: The Bottom Line
+- Title: CASS
+- Original URL: https://www.thebottomline.org.uk/summaries/icm/cass/
+- Scrape Date: 2025-07-17
+- Summary Date: AUTO_FILL_IF_AVAILABLE
+
+Induced hypothermia in patients with septic shock and respiratory failure (CASS): a randomised, controlled, open-label trial.
+Itenov. Lancet Respiratory Medicine 2018;6(3); 183-192
+Clinical Question
+In septic and mechanically ventilated patients aged 50 or over, does 24 hours of induced hypothermia followed by 48 hours of normothermia improve 30-day mortality compared to routine care?
+Background
+The search for the “magic bullet” to improve sepsis outcomes has been going on for years, with little success. Higher index of suspicion amongst clinicians and aggressive, early treatment seem to have been the key players in improving mortality
+A number of animal models have suggested therapeutic hypothermia improves sepsis outcomes:
+Decreased mortality in rats and rabbits
+Improved circulatory and respiratory biochemical markers in pigs
+Reduced inflammatory markers and cytokines in rats
+It is thought to work by decreasing the basal metabolic rate to prevent mitochondrial dysfunction and reduce pro-inflammatory cytokine production
+The authors of this study set out to see if therapeutic hypothermia conferred similar benefit to patients with severe sepsis or septic shock
+Design
+Multinational, multicentre, randomised controlled open-label study
+Randomisation via an online system with computer-generated blocks stratified by age, APACHE II score and study site
+Medical staff unavoidably aware of allocation once randomised
+Allocation blinded to assessors
+Power calculations estimated a sample size of 560 patients to provide an 80% power at two-sided alpha level of 0.05 to detect a relative change of 21% at the upper limit of the mortality estimate
+Mortality estimated at 40-56% based on site-specific registry data
+Sensible safety checkpoints included given no similar previous work.
+Managed by independent safety board who were unblinded to the results
+Interim analysis after recruitment of 140, 280 and 420 patients.
+Concern regarding bleeding and coagulopathy so data assessed after the first 10 and 24 patients to review for these specific complications
+Data analysed by intention-to-treat
+Setting
+10 ICUs across Denmark, the Netherlands and the USA
+November 2011 to November 2016
+Population
+Inclusion criteria:
+Age 50 years or older
+Severe sepsis or septic shock
+Mean arterial pressure (MAP) of <70mmHg
+Intubated and ventilated
+Likely ICU stay >24 hours
+Enrolled within 6 hours of meeting all the above criteria
+Exclusion criteria:
+Pregnant or breastfeeding patients
+Any bleeding disorder/uncontrolled bleeding
+Surgery in the previous 24 hours
+Patients detained under a psychiatry order
+5695 patients screened with 436 randomised:
+220 to the intervention group:
+2 withdrew consent, 1 had underlying coagulopathy.
+14 did not complete 24 hours cooling.
+Therefore, 203 in per-protocol group and 217 in the intention-to-treat analysis.
+216 in the control group:
+1 withdrew consent.
+Therefore, 215 in the intention-to-treat analysis
+Intervention
+Induced hypothermia
+Cooling and maintenance of core body temperature to 32-34°C for 24 hours after enrollment:
+Aim to reach target temperature within 2 hours
+Achieved using one of two external cooling systems (ArcticSun or Flex Pads) or an intravenous cooling catheter
+After 24 hours, patients were then slowly re-warmed to 37°C
+Temperature then maintained at 36-38°C for 48 hours
+Control
+Standard thermal management
+For the first 24 hours, no antipyretic medication was allowed
+After that, routine thermal management was allowed
+Management common to both groups
+Routine ICU care for the septic patient according the Surviving Sepsis Guidelines
+Outcome
+Trial halted early after 436 patients were recruited (78% of target) due to futility
+Primary outcome
+: 30 day all-cause mortality was higher in the induced hypothermia group but not statistically significant
+Induced hypothermia: 44.2%
+Standard thermal management: 35.8%
+Risk Ratio (RR): 1.2 (95%CI 1.0-1.6, p=0.07)
+Absolute Risk Increase (ARI): 8.43% (95% CI -0.78% to 17.63%; p=0.0779)
+Secondary outcomes
+:
+At day 30, the induced hypothermia group had more days with respiratory support (p=0.03), more days with renal replacement therapy (p=0.04) and more days with vasoactive medication (p=0.06).
+No difference in ICU length of stay or 180-day mortality
+Data collected at 72 hours to assess organ dysfunction:
+SOFA Score: no difference
+Respiratory function: induced hypothermia group more likely to still be on a ventilator (RR 1.2, 95% CI 1.0 to 1.3, p=0.07)
+Circulatory function
+Induced hypothermia group needed more vasoactive support
+Accumulated vasoactive-inotropic score in induced hypothermia group 74 vs
+control group
+52  (p=0.002)
+Renal function: no significant difference
+Liver function and coagulation: induced hypothermia group had more patients with a platelet count <150×109/L
+47.1% vs 34.3% (RR1.4, 95% CI 1.1 to 1.8, p=0.01)
+However, the induced hypothermia group had lower platelets at baseline
+No difference in INR or bilirubin
+Cerebral function: more patients in induced hypothermia group required sedation
+Induced hypothermia 78.5% vs 67.7% control (RR 1.2, 95%CI 1.2 to 1.3, p=0.02)
+C-reactive protein
+Median CRP
+Induced hypothermia 106 vs 153 (mg/L) control (p=0.0001)
+Reduction in CRP >30% from baseline
+Induced hypothermia 33.3% vs 50.3% control (p=0.001)
+Authors’ Conclusions
+In patients aged 50 and over with septic shock and requiring mechanical ventilation, induced hypothermia for 24 hours followed by 48 hours of normothermia did not improve 30 day mortality compared to routine care
+It also increased morbidity with more days on a ventilator and on renal replacement therapy, more vasoactive medication and increased inflammatory markers
+Strengths
+Mulitnational, multicentre randomised controlled study with all inherent benefits.
+A well designed trial that tested patient-centred outcomes to try to improve the care of a cohort of patients with a high mortality
+Good method for randomisation and concealment of allocation, which reduces systematic biases
+Strong plan for interim safety analyses given this was the first trial of its size and kind
+No loss to follow up
+Weaknesses
+Trial stopped early due to futility
+This resulted in not hitting the prescribed numbers and reduces the strength of any findings
+Furthermore, there was a trend towards higher mortality in the induced hypothermia group
+This was more concerning than the “futility” of continuing the study to show a positive result and was possibly the key reason for halting early
+Only included patients aged 50 or over with no real rationale as to why
+If they had found a significant benefit then this would have reduced the external validity of any findings
+Given that sepsis affects all age groups, this seems like an unnecessary step
+26 protocol violations which accounts for 11.8% of the intervention group
+There were several reasons for violation but an argument could be made that some of them could have been related to the hypothermia itself
+These should have been discussed by the authors:
+Died during the intervention period – 12 patients
+Circulatory instability – 5 patients
+Emergency surgery – 4 patients
+Consent withdrawn – 3 patients
+Biochemical derangement – 1 patient
+Bleeding – 1 patient
+The mortality of the control group (35.8%) was lower than that used in the power calculations (40-56%)
+Study protocol banned use of antipyretics for the first 24 hours
+Despite a lack of evidence showing benefit of this therapy, its use in routine ICU care is widespread
+The rate of rewarming after therapeutic hypothermia is often contested and can vary significantly between clinicians
+The accepted standard is 0.25-0.5 degrees Celsius per hour
+This study chose the upper limit of this range but given the variability in practice, the generalisability will be affected
+The Bottom Line
+In patients over 50 with severe sepsis on a ventilator, induced hypothermia did not improve mortality or any other aspect of organ dysfunction
+In fact, the results of this trial trend towards increased mortality and morbidity
+Taking these results alongside the inherent issues with hypothermia, not to mention the labour-intensive nature of this intervention, I will not be changing my current management of septic patients until further work proves a benefit
+External Links
+[article]
+Induced hypothermia in patients with septic shock and respiratory failure (CASS): a randomised, controlled, open-label trial
+[further reading]
+Rewarming after therapeutic hypothermia
+[further reading]
+LITFL – Fever, Friend or Foe
+Metadata
+Summary author:
+Alex Smith
+Summary date: 29th April 2018
+Peer-review editor:
+Adrian Wong

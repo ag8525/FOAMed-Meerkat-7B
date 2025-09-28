@@ -1,0 +1,133 @@
+# Metadata
+- Source: The Bottom Line
+- Title: Gujjar
+- Original URL: https://www.thebottomline.org.uk/summaries/em/gujjar/
+- Scrape Date: 2025-07-17
+- Summary Date: AUTO_FILL_IF_AVAILABLE
+
+Intravenous levetiracetam vs phenytoin for status epilepticus and
+cluster seizures: A prospective, randomized study
+Gujjar. Seizure 2017;49:8-12
+Clinical Question
+In patients with status epilepticus (SE) and cluster attacks of seizures (CS), does IV levetiracetam vs. IV phenytoin improve rate of control of seizures?
+Background
+Status epilepticus is a common medical emergency that carries a high morbidity and mortality. Current evidence and guidelines support the use of benzodiazepines followed by a longer acting agent, typically phenytoin. However, a number of patients remain refractory to this treatment or suffer from side effects.
+Levetiracetam is a recent addition that has not been extensively studied. It results in suppression of the release of neurotransmitters through inhibition of calcium release from intra-neuronal stores. It is well tolerated in healthy subjects, it has good renal clearance and has minimal drug interactions.
+In observational studies and small randomised trials it has been reported to be as effective as phenytoin in the treatment of status epilepticus.
+Design
+Prospective randomized controlled trial
+Non-blinded
+Computer generated list of random numbers
+Randomisation ‘failed’ in 28%, and choice of AED administered determined by treating physician, as patient was:
+Already on an adequate dose of anti-epileptic drug (AED) assigned by randomisation process
+Known to have previously failed to respond to assigned drug
+Assigned drug considered unsafe to use
+Per-protocol analysis
+Consecutive patients
+Sample size calculation: Similar studies reported 500 patients required for estimated AED efficacy rates of 50% with 10% group difference in proportions and 85% power. However due to the number of patients treated in the centre annually a convenience sample of 100 patients was chosen
+Setting
+Single university teaching hospital, Oman
+Dates of data collection: not stated
+Population
+Inclusion criteria:
+>15 years age with Status Epilepticus (SE) or Cluster Attacks of Seizures (CS)
+SE: >5 minutes or recurrent generalized tonic-clonic seizure(s) with no regaining of consciousness between attacks, or partial seizures persisting for >10 minutes
+CS: >=2 seizures over previous 24 hours (partial or generalized) with return of consciousness between episodes, with the last episode occurring within 2 hours of evaluation
+Exclusion criteria:
+BP <100, HR <50, 2nd or 3rd degree heart block or runs of ventricular ectopics
+Pregnancy, cardiac failure, pre-terminal, requiring immediate neurosurgery, pseudo-seizures
+Subtle SE: altered mental status without overt convulsions but with ongoing epileptiform activity on EEG
+52 patients included with SE
+Comparing baseline characteristics of intervention vs. control group – no significant differences reported
+Number of patients: 22 vs. 30
+Male: 59%vs 70%
+Age (mean): 38 vs. 37
+Cause of SE
+Cryptogenic Epilepsy
+50% vs. 60%
+Acute Symptomatic Epilepsy (acute stroke, metabolic, autoimmune, tumour, unknown)
+13.6% vs. 16.7%
+Remote symptomatic (post stroke, post traumatic epilepsy, autoimmune/amyloid, Lafora disease, MS, myoclonic epilepsy, brain tumour, CNS angiitis, neurocysticerosis)
+36.4% vs. 26.7%
+Generalised seizure: 100% vs. 93%
+Partial seizure: 0% vs. 7%
+Abnormal CT/MRI imaging: 44% vs. 50%
+Received IV benzodiazepine: 73% vs. 80%
+63 patients included with cluster seizures
+Comparing baseline characteristics of intervention vs. control group
+Number of patients: 38 vs. 25
+Male: 68% vs. 72%
+Age (mean): 38.5 vs. 40.6
+Cause of CS, no significant difference, p=0.53
+Cryptogenic epilepsy
+68.4% vs. 56%
+Acute symptomatic (head injury, eclampsia, glioma, ICH, cerebral venous thrombosis, alcohol, sepsis, limbic encephalitis
+10.5% vs. 28%
+Remote symptomatic (post-stroke, SLE, sickle cell)
+21.1% vs. 16%
+Generalised seizure: 63% vs. 72%
+Partial seizure: 37% vs. 28%
+Abnormal CT/MRI imaging: 67% vs. 50%
+Received initial IV benzodiazepine – significantly higher in phenytoin group
+40% vs. 76%, p=0.004
+Intervention
+Levetiracetam
+30mg/kg IV over 30 minutes
+Control
+Phenytoin
+20mg/kg IV over 30 minutes
+Management common to both groups
+Patients observerd to have ongoing seizures received IV benzodiazepine (lorazepam 4m or diazepam 5-10mg). This was followed immediately by the intervention or control drug
+If recurrent seizure within 24 hours a further 10mg/kg of the same drug given
+If ongoing seizures then the alternative AED admininstered in full dose, followed if necessary with an additional 10mg/kg bolus.
+If ongoing seizure treated with anaesthetic drugs
+All patients whose SE/CS was controlled with an AED had the corresponding AED as maintenance treatment (300mg/day phenytoin started at 24 hours or 1-1.5g levetiracetam started at 12 hours post loading dose)
+Outcome
+Primary outcome: Control of seizures with 1st AED (Cessation of seizure, improvement in mental state and non-recurrence of seizure over next 24 hours) – no significant difference.
+Comparing Levetiracetam vs. Phenytoin group
+SE group: 82% vs. 73.3%, p=0.33
+CS group: 81.6% vs. 80%, p=0.87
+Secondary outcomes – comparing Levetiracetam vs. Phenytoin groups
+Good functional outcome at hospital discharge (modified Rankin scale 0-3)
+SE group – no significant difference
+55% vs. 40%, p=0.29
+CS group – significantly higher in Levetiracetam group
+79% vs. 56%, p=0.049
+Fragility Index 0
+Mortality – no significant difference
+SE group: 9% vs. 10%
+CS group: 0% vs. 4%
+Adverse events – no significant difference
+When used sequentially 2 AED controlled
+SE in 92.3%
+CS in 96.8%
+When removing patients who ‘failed’ randomization no significant difference in primary outcome
+SE group: 82.3% vs. 76%, p=0.62
+CS group: 80.8% vs. 73.3%, p=0.58
+Authors’ Conclusions
+LEV is comparable to DPH for treating SE or CS
+Strengths
+Consecutive patients
+Assessed for adverse events
+Weaknesses
+Single centre
+Non-blinded
+Randomisation was not followed in 28% of patients
+Did not perform intention to treat analysis
+Under-powered to detect a difference
+This paper included two studies (patients with SE and patients with CS). This means that the number of patients in each study was even smaller and therefore further under-powered
+There were a number of baseline differences. Not all of these met statistical significance due to the low numbers of patients included
+The trial protocol did not follow UK standard practice for treatment of SE or CS
+The Bottom Line
+This single centre, non-blinded trial found no difference in rates of control of seizures with Levetiracetam compared with Phenytoin. However, it was significantly underpowered, and there were significant methodological concerns including the ‘failure’ of randomisation in 28%. This unfortunately adds little to the evidence base and practice should not be based on the results reported.
+External Links
+[article]
+Intravenous levetiracetam vs phenytoin for status epilepticus and cluster seizures: A prospective, randomized study
+[further reading]
+Southampton Neuro ICU Guidelines
+Metadata
+Summary author:
+@davidslessor
+Summary date: 16th April 2018
+Peer-review editor: Fraser Magee
+@Fraz65

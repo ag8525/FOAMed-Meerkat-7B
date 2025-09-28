@@ -1,0 +1,121 @@
+# Metadata
+- Source: The Bottom Line
+- Title: Ventura
+- Original URL: https://www.thebottomline.org.uk/summaries/icm/ventura/
+- Scrape Date: 2025-07-17
+- Summary Date: AUTO_FILL_IF_AVAILABLE
+
+Double-Blind Prospective Randomized Controlled Trial of Dopamine Versus Epinephrine as First-Line Vasoactive Drugs in Pediatric Septic Shock
+Ventura. Crit Care Med. 2015;43(11):2292-302. doi: 10.1097/CCM.0000000000001260.
+Clinical Question
+In paediatric patients with septic shock, does adrenaline compared with dopamine reduce 28 day mortality?
+Design
+Randomised controlled trial
+Randomisation performed using computer-generated assignment sequence
+Double blinded
+Consecutive patients
+Sample size calculation: 152 patients would provide 80% power to detect a 15% absolute reduction in mortality at 28 days, on basis of estimated baseline mortality of 25% in control group
+Protocol stopped early following planned interim analysis that demonstrated significant difference in mortality
+Modified Intention to treat analysis
+3 patients excluded due to protocol violations, and 1 patient excluded following withdrawal of consent
+Setting
+Single paediatric intensive care unit, Brazil
+February 2009 – July 2013
+Population
+Inclusion:
+Age 1 month to 15 years with fluid refractory septic shock
+Severe sepsis defined according to
+ACCM/PALS guidelines
+Hypoperfusion defined as abnormal heart rate (HR) for age, altered/decreased mental status, altered capillary refill time (CRT) (> 2 s or flash), diminished or impalpable or bounding peripheral pulses, mottled cool extremities, and urine output (UO) below 1mL/kg/hr
+Fluid refractory septic shock defined as persistence of clinical signs of hypoperfusion despite fluid bolus of 40ml/kg of crystalloid or colloid
+Exclusion:
+Receiving vasoactive drugs prior to hospital admission; known cardiac disease; do-not-resuscitate order; already participated in trial during same hospital stay
+120 patients included in analysis
+No significant baseline differences between control vs. intervention group
+Intervention
+Adrenaline
+Initial rate of 0.1 μg/kg/min, could be increased up to maximum of 0.3 μg/kg/min
+Maximum concentration of 4 μg/mL
+Control
+Dopamine
+Initial rate of 5 μg/kg/min, could be increased up to maximum of 10 μg/kg/min
+Maximum concentration of 1,600 μg/mL
+In all patients
+Fluid boluses of 20ml/kg given over 20 minutes
+Study drug given through exclusive peripheral cannula or intraosseous catheter
+Study drugs could be increased after 20 and 40 minutes up to middle then maximum dose
+If no response to maximum dose of study drug and total of 60ml/kg of crystalloids, the selection of vasoactive drug left to physicians discretion and the study drug was then gradually discontinued
+Once central venous catheter in place, treatment targeted at
+A central venous oxygen saturation >70%
+Mean arterial pressure minus central venous pressure according to age
+Comparing treatment administered in dopamine vs. adrenaline group
+Outcome
+Primary outcome: All day mortality at 28 days
+Significantly higher in dopamine group: 20.6% vs. 7%, Absolute risk increase 13.6%, Number needed to harm 7.35, p=0.033
+Multiple logistic regression analysis: Odds ratio 6.51 (95% C.I. 1.12-37.8, p=0.037)
+Secondary outcomes: (Comparing dopamine vs. adrenaline groups)
+Hospital acquired infection (
+defined according to USCDCP criteria
+)
+Significantly higher in dopamine group: 28.5% vs. 7%
+Multiple logistic regression Odds ratio 67.8  (95% C.I. 5-911, p=0.001)
+Need for other vasoactive drugs – no significant difference
+52.4% vs. 38.6%, p=0.13
+Serious Adverse outcomes
+Tachyarrhythmia
+1 patient in dopamine vs. 0 in adrenaline, p=0.339
+Ischaemic complication – related to extravasation
+No ischaemic events noted in either group
+Hyperglycaemia – significantly higher in adrenaline group 59% vs. 79%, p=0.017
+Raised lactate – no significant change in lactate levels during 1st 48 hours
+Post-hoc analysis
+Duration of resuscitation period (period during which dose of any vasoactive drugs was increased or patient given bolus of 20ml/kg of fluids) – significantly longer in dopamine group, 33.6hrs vs. 16.1hrs, p=0.024
+Duration of study drug – significantly shorter in dopamine group
+20.4hr vs. 36.5hr, p=0.003
+Systolic BP 6 hours post randomisation – significantly higher in adrenaline group
+92 vs. 99, p=0.03
+Heart rate
+Significantly higher in dopamine group at baseline
+158 vs. 149, p=0.047
+No significant difference at 6 hours post randomisation
+145 vs. 142, p=0.5
+Need for renal replacement therapy – significantly higher in dopamine group
+17.4% vs. 10.5%, p=0.001
+Authors’ Conclusions
+Adrenaline, compared with dopamine, improves survival and decreases the rate of hospital acquired infections in children with septic shock
+Strengths
+Randomised controlled trial
+Double blinded
+Use of consecutive patients
+Intention to treat analysis
+Weaknesses
+Single centre
+Low patient numbers
+Study performed only in Brazil. Differences in population and treatment may limit the external validity.
+The maximum dopamine dose used was lower than recommended in our
+local guidelines
+The fluid boluses were given more slowly than our local guidelines recommend (20min vs. 5 min)
+The duration that peripheral dopamine and adrenaline was continued for was longer than our standard practice (20.4hrs in dopamine group and 36.5hrs in adrenaline group)
+Staff may have been able to guess allocation group due to difference in flow rates. However a similar proportion of patients in each group had the study drug stopped due to non-responsiveness and were then all started on open-label adrenaline (36.5% of patients in the dopamine group vs. 33.3% in the adrenaline group)
+Study stopped early after finding 13.6% difference in mortality, which is less than the 15% difference the study was powered at
+Trial not registered on clinical trial.gov
+Miscalculation of hospital acquired infections in adrenaline group. Reported as 4 out of 57 patients – 2.3%. However 4 out of 57 patients is 7%.
+The Bottom Line
+The single centre randomised controlled trial in Brazil, demonstrated an increased mortality when dopamine, compared with adrenaline, was used to treat paediatric patients with septic shock. Patients treated with dopamine had a longer time until they were fully resuscitated, they had a greater need for renal replacement therapy, and greater number of hospital acquired infections. Further multi-centre trials are urgently needed to confirm these findings.
+External Links
+[article]
+Double-Blind Prospective Randomized Controlled Trial of Dopamine Versus Epinephrine as First-Line Vasoactive Drugs in Pediatric Septic Shock
+[Further reading]
+Core EM review by @emswami
+[Further Reading]
+Southampton PICU sepsis algorithm
+[Further reading]
+Southampton PICU guideline on septic shock
+[A similar trial]
+Double-Blind Randomized Clinical Trial Comparing Dopamine and Epinephrine In Paediatric Fluid-Refractory Hypotensive Septic Shock
+Metadata
+Summary author:
+@davidslessor
+Summary date: 29th December 2015
+Peer-review editor:
+@stevemathieu75

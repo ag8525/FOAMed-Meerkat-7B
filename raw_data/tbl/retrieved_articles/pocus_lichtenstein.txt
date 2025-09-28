@@ -1,0 +1,101 @@
+# Metadata
+- Source: The Bottom Line
+- Title: POCUS: Lichtenstein
+- Original URL: https://www.thebottomline.org.uk/summaries/icm/pocus-lichtenstein/
+- Scrape Date: 2025-07-17
+- Summary Date: AUTO_FILL_IF_AVAILABLE
+
+Relevance of Lung Ultrasound in the Diagnosis of Acute Respiratory Failure
+The BLUE Protocol
+Lichtenstein. Chest 2008;134;117-125
+Clinical Question
+In patients with acute respiratory failure can bedside ultrasound, compared to standard diagnostic methods, provide an accurate diagnosis?
+Design
+Observational diagnostic cohort study (Derivation only)
+Blinding of treating staff to test of interest
+Ultrasound operator not blinded to patients clinical presentation
+Consecutive patients
+Setting
+Two intensive care units in France
+Performed over 4 years – dates not stated
+Population
+Inclusion criteria: Adult patients with acute respiratory failure
+Defined by ‘classical clinical and biological criteria for requiring admission to the ICU’
+Exclusion critera: Patients excluded post-hoc if:
+Never received a definite diagnosis (n=16)
+Several official diagnosis (n=16)
+Rare diagnosis (n=9)
+301 patients had ultrasound performed of whom 260 included in analysis
+Test of Interest
+Lung ultrasound
+performed within 20 minutes of admission to ICU
+lasted <3 minutes
+5-MHz microconvex probe
+Semi-recumbent position, or were supine if intubated (n = 35)
+Anterior approach assessing
+Artefact analysis
+A lines: horizontal repetitive artifacts originating from the pleural line
+B lines: vertical, comet-tail artifacts originating from the pleural line, long, hyperechoic, well-defined, dynamic, erasing A lines. Three or more B lines in a single view are called B+ lines
+Lung sliding
+Alveolar consolidation
+Lateral subposterior approach assessing:
+Consolidation or effusion
+DVT
+diagnosed by visualisation of intraluminal thrombosis or absence of compressibility
+On completion of study, the authors analysed combinations of ultrasound signs that gave a sensitivity and specificity of >90% for the diagnosis, as assessed by the gold standard investigation. The following profiles were assigned:
+A profile
+Anterior predominant bilateral A lines associated with lung sliding (with possible focalized B lines)
+A’ profile
+A profile with abolished lung sliding and without lung point
+B profile
+Anterior predominant bilateral B+ lines associated with lung sliding (with possible focalized A lines)
+B’ profile
+B profile with abolished lung sliding
+A/B profile
+Anterior predominant B+ lines on one side, predominant A lines on the other
+C profile
+Anterior alveolar consolidation(s)
+PLAPS profile
+Posterior and/or lateral alveolar consolidation and/or pleural effusion
+Normal profile
+A profile without PLAPS (regardless of posterior A or B lines)
+Gold Standard Investigation
+Official diagnosis by the ICU team blinded to the test of interest
+History, examination, radiography read by radiologists, CT (n=38), ECHO (n=not reported), blood tests, response to treatment
+Outcome
+Primary outcome: no primary outcome defined
+Algorithm developed for performing and interpreting lung ultrasound (The BLUE protocol). The BLUE protocol, retrospectively, gave an accurate diagnosis for 90.5% of patients
+Authors’ Conclusions
+In 90.5% of cases of respiratory failure, an immediate accurate diagnosis was made with respiratory ultrasound.
+Strengths
+Blinding of clinicians determining the gold standard investigation to the test of interest
+Use of consecutive patients. However, as there were only two clinicians performing the ultrasound, the patients were likely to be consecutive as long as one of these two staff were present, rather than including all consecutive patients who were admitted to the intensive care.
+Standardised protocol for performing ultrasound scan
+Weaknesses
+Excluded patients post hoc with multiple diagnoses etc. This is a major weakness as when we perform a scan we do not know if our patient will have a rare diagnosis or multiple pathology. This means that the sensitivity and specificity are likely to be lower than reported
+The two staff performing the ultrasound have extensive experience. This may limit the external validity of the study.
+The level of agreement between the two clinicians performing the ultrasounds was not reported (the kappa score)
+No validation group
+Confidence intervals for results not reported in trial. (We have calculated them)
+Sensitivity for C profile for diagnosing pneumonia was reported as 11% in text and 21% in table. We have calculated it at 22%.
+Not registered on
+https://clinicaltrials.gov/
+The Bottom Line
+In patients with acute respiratory failure bedside, ultrasound appears to help determine the diagnosis. Validation studies are required to confirm the utility of the BLUE protocol. Due to biases in the study design the performance of the BLUE protocol is likely to be less accurate than the results reported in this trial.
+External Links
+[abstract]
+Relevance of lung ultrasound in the diagnosis of acute respiratory failure: the BLUE protocol
+[further reading]
+Tutorial: Lung ultrasound (includes the BLUE protocol)
+[further reading]
+BJA: Practical approach to lung ultrasound
+[further reading]
+CEURF – ultrasonography for the critically ill
+[further listening]
+Ultrasound podcast: lungs
+Metadata
+Summary author:
+David Slessor
+Summary date: 24th Feb 2016
+Peer-review editor:
+Adrian Wong

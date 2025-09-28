@@ -1,0 +1,186 @@
+# Metadata
+- Source: The Bottom Line
+- Title: LEAP2
+- Original URL: https://www.thebottomline.org.uk/summaries/icm/leap2/
+- Scrape Date: 2025-07-17
+- Summary Date: AUTO_FILL_IF_AVAILABLE
+
+LEAP2
+Alexander. JAMA 2019; Pubished online 27 September 2019. doi:10.1001/jama.2019.15468
+Clinical Question
+Is 5-day oral lefamulin non-inferior to 7-day oral moxifloxacin in the management of community-acquired bacterial pneumonia?
+Background
+Community Acquired Bacterial Pneumonia (CABP) is a leading cause of hospitalization and death in the United States
+Current first-line treatments include macrolides, β-lactams, and fluoroquinolones
+Lefamulin is the first pleuromutilin antibiotic approved for intravenous and oral use in humans
+Mechanism of action: inhibition of protein synthesis via interactions with ribosomal RNA
+LEAP1 demonstrated non-inferiority of lefamulin to moxifloxacin in moderate to severe CABP when initiated intravenously
+Design
+Phase 3, double-blind, double-dummy, parallel-group randomized clinical trial
+Patients were randomized 1:1 with block size of 6 and stratified based on
+Pneumonia Outcomes Research Team (PORT) risk class
+, geographic region, and prior receipt of short-acting antibiotic therapy for CABP
+Intention to treat (ITT) design included all randomized patients
+Additional population analyses:
+Modified ITT population: received any amount of study drug
+Clinically evaluable population: at least 48 hours of study drug, no other antibacterial drugs, did not have indeterminate clinical response, and no other confounding factors
+Microbiological ITT population: as per ITT population where pathogen identified
+A sample size of 738 patients randomized 1:1 provided 90% power to establish lefamulin non-inferiority to moxifloxacin for early clinical response (US Food and Drug Administration)
+79% responder rate in both treatment groups for the ITT population
+10% noninferiority margin
+1-sided α level of .025
+A similar power was achieved for the co-primary outcome of investigator-assessed clinical response in the modified ITT (European Medicines Agency)
+Authors based the non-inferiority margin of 10% on observational studies which estimated a 20% effect size of no treatment vs antibacterial therapy
+10% margin preserves 50% of treatment effect
+Consistent with US Food and Drug Administration and European Medicines Agency guidelines
+Setting
+99 sites in 19 countries throughout Europe, North America, South America, Asia, and Africa
+August 2016, to January 2018
+Population
+Inclusion
+:
+Adult patients with PORT risk class II, III, or IV radiographically documented pneumonia
+Acute illness (≤7 days)
+3 or more CABP symptoms (dyspnea, new or increased cough, purulent sputum production, and chest pain)
+Exclusion
+:
+More than 1 dose of a short-acting oral or intravenous antibacterial for CABP within 72 hours before randomization
+Hospitalization for 2 days or longer within 90 days
+Confirmed or suspected methicillin-resistant
+S. aureus
+At risk of major cardiac events or dysfunction
+Significant hepatic disease
+738 randomized patients
+685 completed treatment
+Mean duration of exposure to treatment
+5.0 days for lefamulin
+6.7 days for moxifloxcin
+Most commonly isolated pathogens
+S. pneumoniae
+: 63.7%
+H. influenzae
+: 26.6%
+Atypicals (
+M. pneumoniae
+,
+L. pneumophila
+, and
+C. pneumonia
+): 22.3%
+Intervention
+Lefamulin
+600 mg orally every 12 hours for 5 days
+Plus oral moxifloxacin placebo every 24 hours for 7 days
+Control
+Moxifloxacin
+400 mg orally every 24 hours for 7 days
+Plus oral lefamulin placebo every 12 hours for 5 days
+Outcome
+Classifications
+for US FDA Primary Outcome:
+Responder
+Alive, showed improvement in 2 or more of the 4 CABP symptoms, had no worsening of any CABP symptom, or did not receive a non-study antibacterial for the current CABP episode
+Non-responder
+Did not meet above criteria
+Indeterminate
+Lost to follow up or missing data on criteria
+Primary outcome:
+defined by US Food and Drug Administration
+Early clinical response at 96 hours (within a 24-hour window) after receipt of first dose of either study drug in the ITT population
+Lefamulin: 90.8%
+Moxifloxacin: 90.8%
+Absolute Difference: 0.1% (1-sided 97.5% CI: -4.4% to ∞)
+Co-primary outcomes:
+defined by European Medicines Agency)
+Investigator-assessed clinical response at test of cure (5-10 days after last dose of study drug) in the modified ITT population
+Lefamulin: 87.5%
+Moxifloxacin: 89.1%
+Difference: -1.6% (1-sided 97.5% CI: -6.3% to ∞)
+Secondary outcomes:
+Investigator-assessed clinical response at test of cure (5-10 days after last dose of study drug) for the clinically evaluable population
+Lefamulin: 89.7%
+Moxifloxacin: 93.6%
+Difference: -3.9% (1-sided 97.5% CI: -8.2% to ∞)
+Adverse Outcomes
+Overall incidence of treatment-emergent adverse events was 32.6% with lefamulin and 25.0% with moxifloxacin
+Lefamulin group
+Diarrhea (12.2%)
+Nausea (5.2%)
+Vomiting (3.3%)
+Gastrointestinal-relate treatment-emergent adverse events (17.9%)
+Hepatobiliary events (1.1%)
+Cardiac events (2.2%)
+Mean QTcF change from baseline at steady state 9.5 ms
+One patient’s QTc interval increased from 440.3 ms at baseline to a maximum of 490 ms on day 5 (study drug discontinued)
+One case of
+C. diff
+in patient successfully treated who then remained hospitalized for five days, resolved with oral vancomycin
+Moxifloxacin group
+Nausea (1.9%)
+Headache (1.6%)
+Urinary tract infection (1.6%)
+Gastrointestinal-relate treatment-emergent adverse events (7.6%)
+Hepatobiliary events (0.5%)
+Cardiac events (2.4%)
+Mean QTcF change from baseline at steady state 11.6 m
+Serious adverse events leading to death (none considered to be related to study drug)
+Lefamulin group
+3 within 28 day window
+Acute respiratory distress (1 patient)
+Acute myeloid lymphoma (1 patient)
+Pulmonary edema (1 patient)
+2 after 28 day window
+Acute myeloid lymphoma (1 patient)
+Subacute aortic valve endocarditis (1 patient)
+Moxifloxacin group
+3 within 28 day window
+Respiratory failure (1 patient)
+Natural causes (1 patient)
+Cerebral infarction (1 patient)
+Authors’ Conclusions
+“This study demonstrated the non-inferiority of oral lefamulin to oral moxifloxacin for the treatment of community-acquired bacterial pneumonia.”
+Strengths
+Appropriate design to answer the clinical question
+Non-inferiority methodology allows an efficient study and appropriate conclusion
+Randomisation method and prior-concealment prevents recruitment bias
+Stratification and block randomisation reduces uneven allocation by play of chance
+Study sponsors were blinded to treatment allocation unless unblinding was necessary for medical management
+The study used CABP end points defined by regulatory bodies in the United States and in Europe
+Sponsor did not have the right to veto or suppress publication
+Appropriate comparator drug (moxifloxacin) and duration
+Weaknesses
+Bias may have been introduced as the study sponsors were responsible for the design and conduct of the study; collection, management, analysis, and interpretation of the data; and preparation and review of the manuscript
+Results of some secondary endpoints were not reported
+Usually Intention-To-Treat (ITT) analysis is appropriate for superiority trial designs and Per-Protocol (PP) analysis is appropriate for non-inferiority trial design
+This trial used multiple populations and analyses, and the conclusions were in agreement, so this is unlikely to have resulted in a false conclusion
+ITT tends to minimise differences and PP tends to exaggerate differences – when testing for
+no difference
+, the analysis should try to exaggerate any differences so that a conclusion of
+no difference
+is robustly proven
+Authors’ self-reported limitations
+Broad exclusion criteria may limit generalizability to certain sub-populations
+Limited MIC data due to non-culture identification of many pathogens
+Sample not tested for viral pathogens
+Patients with suspected MRSA were excluded due to poor coverage with moxifloxacin
+Overall recovery of resistant pathogens was low
+Race/ethnicity designation may have been misclassified based on potentially inconsistent data collection methodology
+The Bottom Line
+Despite the potential sources of bias, this seems to be a generally well-designed study
+Oral lefamulin appears to be efficacious for the treatment of CABP, albeit with a higher rate of adverse reactions, as demonstrated by this non-inferiority trial
+Cost may be a barrier, as lefamulin will be priced at $200-300 per day of treatment
+Lefamulin likely represents a valuable addition to our arsenal of antibiotics against CABP, but given its status of non-inferiority (and not superiority), antimicrobial stewardship may dictate that it should be reserved if possible to avoid developing resistance
+External Links
+[article]
+Oral Lefamulin vs Moxifloxacin for Early Clinical Reponse Among Adults With Community-Acquired Bacterial Pneumonia
+[further reading]
+Lefamulin—A New Antibiotic for Community-Acquired Pneumonia
+accompanying editorial
+[further reading]
+Lefamulin
+From IDStewardship.com
+Metadata
+Summary author: Dan Hu
+Summary date: 16 December 2019
+Peer-review editor:
+Duncan Chambler

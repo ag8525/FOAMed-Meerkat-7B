@@ -1,0 +1,543 @@
+```yaml
+title: "CrackCast Episode 137: Skin Infections (Ch. 129 – 9th)"
+url: "https://canadiem.org/crackcast/"
+date: 2023-10
+source: "CanadiEM – CrackCast"
+original_file: "CC-Ep-137-Soft-Tissue-Infections-Ch.-129-Rosens-9th-Ed.-.pdf"
+summary: |
+  The document provides a comprehensive overview of skin infections, emphasizing the importance of recognizing and managing necrotizing infections, toxic shock syndromes, and other severe conditions like Rocky Mountain spotted fever and Lyme disease. Key diagnostic indicators for necrotizing infections include disproportionate pain, crepitus, and clinical instability, necessitating aggressive management with broad-spectrum antibiotics and surgical consultation. For common skin abscesses, antibiotics are generally not recommended unless specific criteria are met, such as extensive disease or systemic illness. The document also outlines the management of cellulitis, recommending agents effective against streptococci and methicillin-sensitive Staphylococcus aureus, and highlights the importance of adjunctive measures like NSAIDs and elevation. It discusses the pathophysiology and management of abscesses, emphasizing incision and drainage as primary treatment, with antibiotics reserved for complicated cases. Additionally, it covers the management of specific conditions like hidradenitis suppurativa and Bartholin’s cyst abscess, and provides criteria for hospital admission in cellulitis cases. The document concludes with a discussion on the management of toxic shock syndromes and necrotizing fasciitis, underscoring the need for surgical intervention and broad-spectrum antibiotics.
+```
+
+## Overview
+
+### Key Concepts
+
+Skin infections are common and are rarely life-threatening. Deadly necrotizing skin and soft tissue infections are rare, and there is insufficient evidence to motivate screening by laboratory tests.
+
+- Necrotizing infection is suggested by pain out of proportion to physical findings, crepitance, gas seen on imaging studies, or clinical instability. Suspected necrotizing infection is managed aggressively, with broad-spectrum antibiotics, critical care resuscitation, and surgical consultation.
+- Emergency clinicians should be familiar with toxic shock syndromes and Rocky Mountain spotted fever, which are rare, life-threatening, skin infection–related syndromes. Lyme disease should be considered in endemic areas.
+- For the management of most skin abscesses, antibiotics are not recommended. Adequate analgesia or sedation are essential to good patient care. There is debate about the necessity of wound culture and Gram staining.
+- Current recommendations for the treatment of cellulitis suggest agents effective against streptococci and methicillin-sensitive Staphylococcus aureus (e.g., cephalexin at maximal doses). Adjunctive measures are essential to a good treatment response—NSAIDs, immobilization, elevation, and compression.
+- Clindamycin monotherapy is an excellent choice for the treatment of skin infections because it covers streptococci and most staphylococci, including most CA-MRSA isolates. (not so excellent in our settings!)
+- Although they are active against CA-MRSA, trimethoprim-sulfamethoxazole and tetracyclines may not be effective for streptococci and are not recommended for cellulitis monotherapy.
+- There is insufficient evidence to recommend measurement of the white blood cell count in patients with skin infections.
+- Blood cultures are not necessary for the evaluation of skin infections, except with septic shock, necrotizing infections, immunocompromised, multifocal infections suggesting hematogenous seeding, infections complicating lymphedema, and perhaps facial cellulitis.
+- Skin infection mimics include venous stasis dermatitis and other forms of dermatitis.
+
+### Rosens in Perspective
+
+The skin is the largest organ in the body and accounts for about 15% of total body weight. It has three layers, the hypodermis, dermis, and epidermis.
+
+Let’s talk about some quick pathophysiology:
+
+- The epidermal appendages are important as sites of infection because they provide a break in the otherwise continuous protective layer of keratinocytes and create a potential space for bacterial replication. There are two types, sweat glands and follicles.
+- The dermal-epidermal junction is a complex basement membrane whose disruption results in vesicles and bullae.
+
+When it comes to the bedside, this is what we’re looking for to demonstrate that there could be a skin infection:
+
+- Redness (easiest in light-skinned people)
+- Warmth
+- Induration
+  - Peau d’orange—that is, orange peel skin = because it is tethered by hair follicles
+
+Here are a few other findings to watch out for:
+
+- Fluctuance describes a fluid collection palpated on examination. “Pointing” or “coming to a head” conveys a sense of imminent rupture.
+- Crepitus describes skin that feels crackly when it is palpated and suggests that gas is present in the soft tissues. This suggests necrotizing infection, discussed later.
+- Fever is present in 50% of patients with bacterial skin infections presenting to the ED.
+- Linear erythema tracking distally to proximally along a vascular pathway suggests lymphangitis or phlebitis.
+
+Here are a few “classic” stereotype, special circumstances to know about, because we won’t cover them in the episode:
+
+- Saltwater exposure: Vibrio vulnificus, Doxycycline
+- Freshwater exposure: Aeromonas species, Ciprofloxacin
+- Butcher / clams / veterinarian: Erysipelothrix rhusiopathiae, Amoxicillin
+- Diabetic foot infection: Mixed (+) / (-) / Anaerobes, Amox-Clav + Septra
+- Cat bites or infected dog bites: Pasteurella multocida, Amox-Clav
+- Human bite: Oral anaerobes, Amox-Clav
+- Erythema migrans: Borrelia burgdorferi, Doxycycline
+- Puncture wound through foot: Pseudomonas aeruginosa, Ciprofloxacin
+
+## Core Questions
+
+### 1) List 6 RFs for cellulitis
+
+- Skin barrier disruption due to trauma (such as abrasion, penetrating wound, pressure ulcer, venous leg ulcer, insect bite, injection drug use)
+- Skin inflammation (such as eczema, radiation therapy)
+- Edema due to impaired lymphatic drainage
+- Edema due to venous insufficiency
+- Obesity
+- Immunosuppression (such as diabetes, steroids, or HIV infection)
+- Breaks in the skin between the toes ("toe web intertrigo"); these may be clinically inapparent
+- Preexisting skin infection (such as tinea pedis, impetigo, varicella)
+
+### 2) List 6 DDx for cellulitis
+
+- Contact dermatitis
+- Fungal infection
+- Burns (superficial burns)
+- Viral infections
+- Insect bites (e.g., large localized reaction to hymenoptera sting)
+- Allergies: including fixed drug eruptions localized inflammation
+- Necrotizing infections
+- Erythema chronicum migrans
+- Venous stasis
+
+Inflammation near a joint:
+
+- Gout
+- Pseudogout
+- Septic arthritis
+- Tenosynovitis
+- Ruptured Baker’s cyst
+- Traumatic joint effusion
+- Hemarthrosis
+- Autoimmune arthritis
+
+### 3) List 4 Antibiotics each that cover Group A Strep and Staph aureus
+
+Check out this recent JAMA article that supports the notion that MRSA coverage isn’t always required. [JAMA Article](https://www.ncbi.nlm.nih.gov/pubmed?term=28535235)
+
+See Rosens Table 129.1 and 129.2
+
+- Skin Infections: Bacteriology and First-Line Antibiotic Therapy AND
+- First-Line Oral Antibiotics for Skin and Soft Tissue Infection
+
+Pearls:
+
+- Septra does not cover streptococcus
+- Oral agents with activity against CA-MRSA include trimethoprim-sulfamethoxazole (TMP-SMZ), clindamycin, tetracyclines, and linezolid.
+- Vancomycin is the standard parenteral agent for MRSA. Others include linezolid, daptomycin, tigecycline, and telavancin. No penicillin or cephalosporin is active against CA-MRSA, except ceftaroline.
+
+### 4) Compare Staph and Strep cellulitis clinical presentations
+
+Unless you have superpowers (in which case you should be a microbiologist) - we can’t really say for sure what infection is caused by what bug. But here are a few general observations according to Uptodate:
+
+“The most common cause of cellulitis is beta-hemolytic streptococci (groups A, B, C, G, and F), most commonly group A Streptococcus or Streptococcus pyogenes; S. aureus (including methicillin-resistant strains) is a notable but less common cause of cellulitis.”
+
+- Definitely think and include coverage for Streptococci in these:
+  - Erysipelas
+  - Non-purulent cellulitis
+
+Definitely be aware that skin and soft tissue infections can be caused by weird bugs too (but thankfully rare).
+
+Less common causes of cellulitis include:
+
+- Haemophilus influenzae (buccal cellulitis)
+- Clostridia and non-spore-forming anaerobes (crepitant cellulitis)
+- Streptococcus pneumoniae
+- Neisseria meningitidis
+- In immunocompromised patients, the spectrum of potential pathogens is much broader, and infectious disease consultation is warranted… and many others.
+
+### 5) Which patients with cellulitis should be admitted to hospital?
+
+Hospitalization is generally required for:
+
+- Immunosuppressed patients
+- Patients with diabetic foot infections
+- Infected lymphedema
+- Multifocal cellulitis
+- Suspected necrotizing infection
+
+When to start IV therapy? Tough, clinical decision. Here are a few principles from Uptodate:
+
+Treatment with parenteral antibiotics is warranted in the following circumstances:
+
+- Systemic signs of toxicity (e.g., fever >100.5°F/38°C, hypotension, or sustained tachycardia)
+- Rapid progression of erythema
+- Progression of clinical findings after 48 hours of oral antibiotic therapy
+- Inability to tolerate oral therapy
+- Proximity of the lesion to an indwelling medical device (e.g., prosthetic joint or vascular graft)
+
+The decision to initiate parenteral therapy should be based on individual clinical circumstances such as severity of clinical presentation and patient comorbidities. As an example, the presence of an immunocompromising condition (such as neutropenia, recent organ transplant, advanced HIV infection, B cell or T cell deficiency, or use of immunosuppressive agents) should lower the threshold for parenteral therapy.
+
+### 6) Describe the pathophysiology of simple abscesses. How are they managed? Which patients require antibiotics?
+
+Here’s the story of how Mr. Abscess came to existence:
+
+1. An abscess begins when bacteria multiply in the lumen of a hair follicle or at other locations beneath the epidermis.
+2. Neutrophils are drawn to the site of infection, and various cytokines combine with bacterial toxins to promote the development of purulence.
+3. The overlying epidermis prevents drainage. Fibrotic tissue usually encapsulates the infection.
+
+Note: Bartholin’s cyst abscess is caused by an obstructed Bartholin duct.
+
+Don’t know if it’s a cellulitis or abscess - the BEST way to figure that out - GRAB the ultrasound! [Sinai EM Tutorial](http://sinaiem.us/tutorials/soft-tissue-abscess/)
+
+If there is an abscess, this pressure will make the pus within the tissue move around, which helps in diagnosing an abscess – We call it Pus-stalsis. - from: [Sonospot](https://sonospot.wordpress.com/2012/08/21/sonoapp-study-cellulitis-vs-abscess-us-more-sensitive-than-ct-for-soft-tissue-abscess/)
+
+Plus the bonus of using ultrasound is that you don’t cut into that pseudoaneurysm… Vascular aneurysms and enlarged lymph nodes can be misdiagnosed as abscesses. Ultrasound examination can be helpful in this regard, and a color Doppler study should be used to investigate perivascular abscesses. When there is doubt, needle aspiration should be used to confirm the presence of pus and absence of blood.
+
+The treatment of abscess is surgical, and antibiotics are usually not indicated.
+
+- Analgesia / Ring blockade / Sedation
+- Once anesthesia has been attained, incision and drainage of an abscess involves four steps—incision, blunt dissection to disrupt loculations, irrigation, and packing*.
+- Needle aspiration alone has not been found to be an adequate alternative to incision and blunt dissection.
+
+***Consider giving abx to***:
+
+- Extensive disease (e.g., involving multiple sites of infection)
+- Severe associated cellulitis
+- Signs and symptoms of systemic illness
+- Associated comorbidities or immunosuppression
+- Extremes of age
+- Abscess in an area difficult to drain (e.g., face, hand, genitalia)
+- Septic phlebitis
+- Poor response to incision and drainage alone
+
+***Bartholin’s cyst abscess is caused by an obstructed Bartholin duct. Bartholin’s gland is located at the upper part of the lower third of the labium majora, and its duct opens onto the mucosa in this area medially but externally to the labium minora. Bacteria cultured are usually a mixture of aerobic and anaerobic flora from the vagina. Chlamydia trachomatis or Neisseria gonorrhoeae is isolated approximately 10% of the time.
+
+A pilonidal abscess is an abscess at the superior aspect of the gluteal cleft between the buttocks. Also known as a pilonidal cyst, this abscess often recurs. Treatment is the same as for other cutaneous abscesses.
+
+A stitch abscess is a collection of pus around a suture. Often, stitch abscesses are sterile, but a deeper wound infection can be confused with a stitch abscess.
+
+### 7) What are 8 risk factors for MRSA?
+
+See Table “Risk Factors for MRSA colonization”
+
+- Recent hospitalization
+- Residence in long-term care facility
+- Recent surgery
+- Hemodialysis
+- HIV infection
+- IVDU
+- Prior antibiotic use
+
+### 8) What are the characteristics of a complex abscess? How does management differ?
+
+These are complex wounds; some of which may have very few localized physical findings other than fever, leukocytosis, and malaise. For example, the supralevator abscess or hepatic abscesses - which require CT imaging with contrast. Most require surgery or an in-depth hx and physical exam. They usually occur in patients with immunocompromised, diabetes, fistula-forming disease, peripheral vascular disease.
+
+Complex abscesses that may benefit from culture include:
+
+- Deep abscesses
+  - Think of the five different perianal abscess
+- Post-surgical wounds
+- Abscesses post animal bite
+- Abscess in a patient who is immunocompromised
+- Abscess in a returning traveler:
+  - Parasitic causes, such as dracunculiasis and myiasis, should be considered.
+
+### 9) What is the etiologic pathogen and management of each of the following:
+
+#### a. Erysipelas
+
+- Beta hemolytic streptococci
+- PO abx that are active against strep: amox; cephalexin; clindamycin
+
+#### b. Staph Scalded Skin
+
+- Toxin-mediated bacterial skin syndrome
+
+Less sick than Staph or Strep TSS. SSSS is treated with antibiotics active against S. aureus, including MRSA. Wound care and hydration are important. Caused by bacterial exotoxins known as superantigens because they cause a severe and pathologic host immune system response by stimulating T lymphocyte activation and functioning as mitogens in vitro. Systemic disease results from the immune system’s response to the toxin, but may be accompanied by or simply resemble bacteremic septic shock.
+
+Early SSSS may be difficult to differentiate from bullous impetigo. The lack of mucosal involvement helps differentiate SSSS from toxic epidermal necrolysis and Stevens-Johnson syndrome.
+
+Other differential considerations include:
+
+- Kawasaki syndrome
+- Rocky Mountain spotted fever
+- Meningococcemia
+- Leptospirosis
+- Heat stroke
+
+### 10) List indications for Abx in abscess
+
+There continues to be some variation with the latest best practice on this issue. Rosen’s makes a general statement that simple, uncomplicated abscesses, after I+D, don’t require antibiotics.
+
+Uptodate has this to say on the subject:
+
+“Role of antibiotic therapy — For patients undergoing incision and drainage of a skin abscess, we suggest antibiotic treatment. In particular, we favor antibiotic treatment for patients with any of the following:
+
+- Single abscess ≥2 cm
+- Multiple lesions
+- Extensive surrounding cellulitis
+- Associated immunosuppression or other comorbidities
+- Systemic signs of toxicity (e.g., fever >100.5°F/38°C, hypotension, or sustained tachycardia)
+- Inadequate clinical response to incision and drainage alone
+- Presence of an indwelling medical device (such as prosthetic joint, vascular graft, or pacemaker)
+- High risk for adverse outcomes with endocarditis (these include a history of infective endocarditis, presence of prosthetic valve or prosthetic perivalvular material, unrepaired congenital heart defect, or valvular dysfunction in a transplanted heart)
+- High risk for transmission of S. aureus to others (such as in athletes or military personnel)
+
+However, because many abscesses can be treated successfully with incision and drainage alone, expert opinion varies, and it is reasonable to forgo antibiotic therapy in otherwise healthy patients who have small abscesses (e.g., <2 cm) and none of the above factors. An antibiotic-sparing approach may be particularly compelling in patients who have multiple antibiotic allergies or intolerances.
+
+The 2014 Infectious Diseases Society of America (IDSA) guidelines on the management of skin and soft tissue infections did not recommend routine antibiotic therapy for patients with mild skin abscesses in the absence of systemic infection, immunocompromising conditions, extremes of age, or multiple abscess, based on earlier data that suggested similar cure rates with incision and drainage alone. However, subsequent large trials have indicated a benefit to antibiotic therapy, even in patients with small abscesses:
+
+- In a randomized trial including 1220 patients >12 years of age (median 35 years) with abscess 2 to 5 cm in diameter who underwent incision and drainage, treatment with TMP-SMX (320 mg/1600 mg twice daily) resulted in higher cure rates 7 to 14 days after treatment than placebo (80.5 versus 73.6 percent). Wound cultures were positive for MRSA in 45 percent of cases.
+- In another randomized trial including more than 780 patients with skin abscess ≤5 cm (45 percent were ≤2 cm) who underwent incision and drainage, treatment with TMP-SMX or clindamycin each resulted in higher cure rates at 10 days than placebo (82 or 83 percent versus 69 percent). MRSA was isolated in 49 percent of cases.
+
+Antimicrobial therapy may also decrease the risk of recurrent skin abscess. In one randomized trial, new infections at one month of follow-up were less common among those who received clindamycin than those who received TMP-SMX or placebo. In another randomized trial, the likelihood of recurrent abscess formation was lower in patients who received TMP-SMX than in patients who received placebo.”
+
+### 11) What is the management of hidradenitis suppurativa?
+
+Acne and hidradenitis suppurativa (acne inversa) result from the obstruction of sebaceous glands.
+
+Very painful! Usually occurring in women - unknown multifactorial cause.
+
+The typical onset is between puberty and 40 years. It is currently believed to be an acneiform disorder that begins with follicular occlusion, rather than infection of the sweat glands.
+
+Short term management:
+
+- Incision of painful non-draining abscesses for symptomatic relief. Systemic antibiotics are usually prescribed and should cover CA-MRSA as well as some anaerobes:
+  - Clavulin + Septra
+
+Long term management:
+
+- Long-term treatment is complex and remains a subject of debate. Options include immunomodulators (e.g., steroids, cyclosporine), hormones, and en bloc resection. All patients should be instructed to stop smoking and keep the area clean and dry. Pain control is essential. Patients rarely show signs of systemic illness and thus can be discharged and referred to a plastic surgeon or dermatologist.
+
+### 12) What is the management of Bartholin’s cyst abscess?
+
+Bartholin’s cyst abscess:
+
+- Is caused by an obstructed Bartholin duct
+- Bartholin’s gland is located at the upper part of the lower third of the labium majora, and its duct opens onto the mucosa in this area medially but externally to the labium minora
+- Bacteria cultured are usually a mixture of aerobic and anaerobic flora from the vagina.
+- Chlamydia trachomatis or Neisseria gonorrhoeae is isolated approximately 10% of the time
+
+Tx:
+
+- Bartholin’s abscesses are drained from the mucosal rather than from the cutaneous surface
+- The Word catheter is a device used to keep the surgical wound from closing because the abscess will recur if the wound is allowed to close
+- A very small incision (≈3 mm) is made, and the cavity is drained. Testing for chlamydia or gonorrhea is recommended.
+- The catheter is inserted and inflated with about 4 mL of water or saline. The catheter should be left in place for 4 to 6 weeks so that a sinus tract will have time to form.
+- Sitz baths may help keep the area clean and draining
+- Antibiotics are usually not necessary but should be considered when there is extensive surrounding erythema or induration
+- Marsupialization is used in recurrent cases to prevent further recurrences and is usually deferred until the acute inflammation has subsided. A large incision is made, and the interior of the abscess is then sutured to the surrounding mucosa so that the abscess is sutured open.
+
+### 13) What are the diagnostic criteria for staph and strep TSS?
+
+These are deadly toxin-mediated diseases!!!
+
+The bacteria produce superantigens that are able to activate large numbers of T lymphocytes, resulting in the massive release of inflammatory mediators, including interleukins, tumor necrosis factors, and interferon.
+
+Diagnostic criteria for streptococcal TSS include:
+
+- Presence of group A streptococcal infection
+- Hypotension
+- Two of the following:
+  - Renal impairment
+  - Liver abnormalities
+  - Acute respiratory distress syndrome
+  - Coagulopathy
+  - Necrotic soft tissue infection
+  - Rash
+
+******These criteria were developed for epidemiologic purposes; failure to meet all criteria should not exclude the clinical diagnosis in suspicious cases.
+
+Staphylococcal TSS should be considered in any patient presenting with diffuse rash and hypotension. The diagnosis is made on the basis of the clinical presentation.
+
+### 14) How are Staph. Toxic shock and Strep. Toxic shock managed? What is the mortality rate?
+
+- Patients with STREP - TSS need surgical debridement of the necrotizing infection!
+- In patients with STAPH - TSS they need the source of the infection addressed (i.e., FB)
+
+Treatment:
+
+- Resuscitation and interventions above
+- Clindamycin and vancomycin
+  - Add gram-negative coverage if the patient is in shock
+- ?role for IVIG in staph. TSS
+  - Recent INCTINCT trial showed no benefit
+  - See thebottomline
+
+### 15) What are the 2 types of necrotizing fasciitis? List 4 RFs.
+
+Clinical manifestations that suggest a necrotizing infection are:
+
+- Signs of systemic toxicity, including abnormal vital signs,
+- Severe pain or pain out of proportion to physical findings,
+- Altered mental status,
+- Rapidly advancing infection,
+- Crepitus,
+- Hemorrhage,
+- Sloughing,
+- Blistering.
+
+Some patients appear well at presentation, and overlying skin may not be involved initially.
+
+Necrotizing fasciitis is an aggressive infection of subcutaneous tissues that spreads rapidly along fascial planes. In the operating room, the fasciae are inflamed, and tissue layers separate friably. It is caused by direct extension from a skin lesion in 80% of cases.
+
+Two types are described:
+
+- Type I is polymicrobial, with aerobes and anaerobes; it is more common in diabetics and immunocompromised individuals.
+- Type II is caused by a single organism, in any age group and in patients who are not chronically ill. Group A streptococci are most common; this aggressively virulent agent is known as flesh-eating bacteria.
+
+Risk factors:
+
+Type I:
+
+- Diabetes
+- IV drug use
+- Obesity
+- Immunosuppression
+- Recent surgery
+- Traumatic wounds
+- Peripheral vascular disease
+
+Type II:
+
+- Any age group, especially without any medical history
+- History of skin injury (e.g., laceration or burn)
+- Blunt trauma
+- Recent surgery
+- Childbirth
+- Injection drug use
+- Varicella infection (chickenpox)
+
+### 16) Describe the management of necrotizing fasciitis.
+
+Remember: Initial symptoms may be vague (e.g., malaise, fever, body aches, nausea, diarrhea). There may initially be diffuse or fusiform swelling of an extremity, or it may appear to be a simple cellulitis or wound infection. Physical findings may not be obvious initially, and pain out of proportion to physical findings is a clue. Eventually, the skin turns violaceous or ecchymotic. Anesthesia may develop over the involved tissue because of infarction of superficial nerves. Subsequent inflammation may result in the classic sign of so-called wooden-hard subcutaneous tissues.
+
+Management:
+
+1. Resuscitation
+2. Involvement of surgical / intensive care service
+   - Surgery is indicated in the setting of severe pain, toxicity, fever, and elevated serum creatine kinase (CK) level, with or without radiographic evidence of fasciitis. Use of antibiotic therapy without debridement is associated with a mortality rate approaching 100 percent. - Uptodate
+3. Laboratory studies - to look for DIC, renal failure, type and screen
+4. Broad spectrum abx in this order:
+   - Clindamycin
+   - Ampicillin-sulbactam
+   - Vancomycin
+   - +/- antipseudomonal abx if suspicious for pseudomonas / hospital acquired infection (Pip-tazo)
+5. ?hyperbaric oxygen
+   - Controversial
+
+### 17) What are the types of necrotizing myositis? Which pts are at risk? How are they treated?
+
+Myonecrosis, myositis, and pyomyositis refer to infections of muscle, which are rare. They may result from local spread of an adjacent infection, penetrating trauma, vascular insufficiency, or hematogenous spread.
+
+A few types:
+
+1. Clostridial myonecrosis - “gas gangrene”
+   - Exotoxins destroy tissue, contribute to shock, and may cause intravascular hemolysis, with anemia and disseminated intravascular coagulation (DIC). Patients present with severe pain. The skin may initially be pale, then bronze, and eventually purplish red. Hemorrhagic bullae may develop. Soft tissue gas may not be present initially.
+   - Traumatic form - crush, surgery, perforation
+   - Spontaneous form - people with colon cancer or bowel disease.
+2. Anaerobic streptococcal myositis usually results from trauma or is a postoperative complication. More insidious clinical course.
+3. Spontaneous gangrenous myositis—also known as spontaneous streptococcal gangrenous myositis, group A streptococcal necrotizing myositis, or streptococcal myonecrosis—is rare but aggressive and fatal in most cases.
+   - Usually occurs in immunocompetent patients who have a preceding influenza-like illness
+
+Resuscitation  
+Debridement  
+Broad spectrum antibiotics
+
+### 18) What is pyomyositis? How does it differ from necrotizing myositis? What are common pathogens?
+
+Pyomyositis is a deep abscess within striated muscle resulting from the hematogenous spread of bacteria in the setting of muscle injury. It is usually due to S. aureus, including CA-MRSA, and is more common in those who are immunocompromised. Mortality is less than 10%.
+
+## Wisecracks
+
+### 1. What are the potential complications of impetigo?
+
+Impetigo rarely progresses to systemic illness. However, most cases of poststreptococcal glomerulonephritis are believed to be caused by impetigo and not pharyngitis. Its onset is usually 10 days after the onset of impetigo but may occur up to 5 weeks later. Another feared complication is acute rheumatic fever. (according to uptodate)
+
+Other complications/manifestations:
+
+- Bullous impetigo
+  - Bullous impetigo is caused by S. aureus, including CA-MRSA. The bacteria produce an epidermolytic toxin that causes separation of the dermal-epidermal junction, resulting in bullae.
+- Ecthyma, or deep impetigo, is a less common ulcerative form of impetigo that extends through the epidermis into the dermis. It is manifested as ulcers with a punched-out appearance, with raised reddened margins covered with thick crust. It has a predilection for the lower extremities. Unlike impetigo, ecthyma can result in cutaneous scarring.
+
+Treatment:
+
+- Mild-moderate non-bullous impetigo = topical mupirocin TID for 5 days
+- Severe impetigo, bullous impetigo, ulcerative impetigo =
+  - Staph and MRSA coverage:
+    - Clindamycin AND Septra
+    - Cephalexin AND Septra
+
+### 2. What is the eagle effect, and why is it important in toxic shock infections?
+
+Basically, this is why we tell you to give clindamycin first and give it at large doses (900mg).
+
+Normally, as antibiotic serum concentrations increase, so should its effectiveness. However, Penicillins are ineffective with such large microbial counts as seen in TSS. This is paradoxical as usually with increasing serum concentrations antimicrobials get MORE effective, but this is not the case AKA the eagle effect (first described by Dr. Henry Eagle).
+
+Also: Penicillins work on the cell wall, but if bacteria are not in the growth phase, it's ineffective. Clindamycin works on the ribosomes, so gets around this issue.
+
+### 3. What is the difference b/n a furuncle and carbuncle?
+
+Folliculitis, furuncles, and carbuncles are purulent infections originating in the hair follicle. They are more likely to occur after damage to the hair follicle, such as from shaving.
+
+Folliculitis usually resolves on its own but can be treated with warm compresses or topical mupirocin. Hot tub and fungal folliculitis usually don’t need specific topical therapy but exceptions occur in patients with immunocompromise.
+
+A furuncle, or boil, is an infection of the hair follicle in which suppuration extends through the dermis into the subcutaneous tissue. Furuncles are painful and erythematous and often drain spontaneously.
+
+A carbuncle comprises multiple furuncles with loculations and connecting sinuses, often with multiple sites of drainage. Systemic symptoms may occur. Carbuncles are more likely to occur on the back of the neck and are more prevalent in diabetics.
+
+Furuncles and carbuncles are treated in the same manner as skin abscesses, primarily with incision and drainage. There is insufficient evidence to recommend for or against antibiotics, but I suggest coverage for streptococci and MRSA when disease is severe. Small furuncles may be treated initially with a trial of warm compresses to promote drainage.
+
+## Summary
+
+Let’s quickly recap this episode: because the textbook has an awesome flow chart; which if you burned into your head next time you saw a SSTI you’d be well set:
+
+Risk Factors for MRSA
+
+Hospital Acquired:
+
+- Recent Hospitalisation
+- Resident long-term care facility
+- Close contacts that are healthcare workers
+- Invasive procedures (urinary catheters, CVCs etc)
+- Recent antibiotics
+- Chronic hemodialysis
+
+Community Acquired:
+
+- Crowding (e.g., prisons / military / aboriginal)
+- Contact (household contacts, athletes, MSM)
+- Homeless
+- Compromised (HIV, infants, Elderly)
+- IVDU
+
+Erysipelas
+
+- Cause: Strep (most common Strep Pyogenes)
+- Tx: Penicillin, Macrolide, Clinda
+
+Salt Water: Vibrio Vulnificus  
+Fresh Water: Aeromonas  
+Tx: Keflex + Cipro
+
+Indications for antibiotics in abscess
+
+- Comorbidities
+- Immunosuppression
+- Systemically unwell
+- Shock / Hemodynamic instability
+- Associated cellulitis (>5cm)
+- Multiple foci of infection
+- Difficult area to drain
+- Failure of response to I & D
+
+Impetigo
+
+Non-Bullous
+
+- S. Aureus
+- S. Pyogens
+- MRSA
+
+Bullous
+
+- S. Aureus
+- MRSA
+
+Treatment
+
+- Hygiene
+- Topical mupirocin
+- Keflex
+- MRSA coverage for bullous
+
+Folliculitis
+
+Treatment
+
+- Hygiene
+- Topical mupirocin
+- I&D PRN
+- Antibiotics PRN
+- MRSA coverage for bullous
+
+## References
+
+- [JAMA Article](https://www.ncbi.nlm.nih.gov/pubmed?term=28535235)
+- [Sinai EM Tutorial](http://sinaiem.us/tutorials/soft-tissue-abscess/)
+- [Sonospot](https://sonospot.wordpress.com/2012/08/21/sonoapp-study-cellulitis-vs-abscess-us-more-sensitive-than-ct-for-soft-tissue-abscess/)
+```

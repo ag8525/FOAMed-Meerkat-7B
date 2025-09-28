@@ -1,0 +1,154 @@
+# Metadata
+- Source: The Bottom Line
+- Title: SSSP2
+- Original URL: https://www.thebottomline.org.uk/summaries/icm/sssp2/
+- Scrape Date: 2025-07-17
+- Summary Date: AUTO_FILL_IF_AVAILABLE
+
+Effect of an Early Resuscitation Protocol on In-hospital Mortality Among Adults With Sepsis and Hypotension: The Simplified Severe Sepsis Protocol 2 Trial
+Andrews.
+JAMA
+2017;318(13):1233-1240. doi:10.1001/jama.2017.10913
+Clinical Question
+In Zambian adults with sepsis and hypotension, does a resuscitation protocol implemented early after presentation to the Emergency Department improve in-hospital mortality compared with usual care?
+Background
+The implementation of sepsis protocols as the standard of care in the developed world has contributed to a reduction in sepsis mortality
+The mortality from sepsis remains high in the developing world
+It remains uncertain whether early sepsis resuscitation protocols could improve mortality from sepsis in resource-limited settings
+Patients who receive usual care may be at high risk of under-resuscitation, and therefore a time-based protocol to promote aggressive use of fluids, blood, and vasopressors may improve the quality of resuscitation and reduce mortality
+The
+FEAST
+study showed increased mortality with intravenous fluid bolus administration in African children with sepsis
+A randomised clinical trial conducted in Zambia, investigating intravenous fluids and vasopressor support in sepsis, was stopped early due to possible harm in patients with hypoxia and tachypnoea
+Design
+Single-centre, randomised controlled study
+Permuted block randomisation was performed by computer
+Patients, treating clinicians, and clinical study personnel were unblinded to participant enrolment but those responsible for data analysis were blinded
+Sealed, opaque envelopes were used to preserve allocation concealment
+Power calculation
+Statistical power (beta) set at 80% (20% chance of false negative)
+Statistical significance level (alpha) defined at 0.05 (5% chance of false positive)
+Assumed a baseline mortality rate of 65% (previous trial data)
+Expected absolute risk reduction of 20%
+212 patients were required
+Setting
+1500 bed national referral university hospital in Zambia
+October 2012 – November 2013
+Population
+Inclusion
+Patients presenting to the Emergency Department aged 18 years or older with sepsis (defined as suspected infection plus ≥2 systemic inflammatory response syndrome criteria) and hypotension (defined as systolic blood pressure ≤90 mm Hg or mean arterial pressure ≤65 mm Hg)
+Exclusion:
+The presence of hypoxaemia and severe tachypnoea (defined as arterial oxygen saturation <90% and respiratory rate >40 breaths per minute)
+Additional exclusion criteria included gastrointestinal bleeding in the absence of fever, congestive heart failure exacerbation, end-stage renal disease, elevated jugular venous pressure (JVP), incarceration, or the need for immediate surgery
+209 patients received the study interventions, completed follow-up, and were included in the primary analysis
+Both groups were similar at baseline
+Mean age was 36.7 years
+89.5% of patients were HIV positive, with a median CD4 count of 66/µL
+Median albumin level: 22 g/l
+Median middle arm circumference: 22.1 cm
+Median lactate level: 4.3 mmol/l
+Diagnosis on admission:
+Pneumonia 49.3%
+Tuberculosis 62.7%
+Both 38.3%
+Intervention
+Patients received haemodynamic management for the first 6 hours after enrolment
+An initial 2000 ml bolus of intravenous isotonic crystalloid was administered within 1 hour of enrolment, followed by an additional 2000 ml over the subsequent 4 hours to a total of 4 litres
+Fluid therapy was stopped if the nurse identified any of the following:
+Oxygen saturation decrease of 3%
+Respiratory rate increase by 5 breaths per minute
+JVP reached 3cm above sternal angle
+4 litres had been given
+If mean arterial pressure remained less than 65 mm Hg after completion of the initial 2000 ml fluid bolus, a dopamine infusion was initiated at 10 µg/kg/min
+Blood transfusion was administered to maintain a haemoglobin level of greater than 7 g/dL or with severe pallor
+Control
+Treating clinicians determined intravenous fluid administration, vasopressor use, and blood transfusion
+During usual care for sepsis in the study setting, in the first 6 hours
+the volume of intravenous fluid administered averages less than 2 litres
+< 50% of patients received any intravenous fluid bolus
+< 20% of patients received a blood transfusion
+< 2% of patients received a vasopressor
+Management common to both groups
+Treating clinicians determined the location of care (intensive care unit or medical ward) and antibiotic selection
+A dedicated study nurse measured heart rate, blood pressure, respiratory rate, and oxygen saturation hourly for the 6 hours after enrolment and supervised the administration of all ordered fluids and medications
+Outcome
+Primary outcome: In-hospital mortality was higher in the sepsis protocol group
+Sepsis protocol 48.1% vs Standard care 33.0%
+Absolute Risk Increase (ARI): 15.1% (95% CI 2.0%-28.3%; P = 0.0344)
+Relative Risk (RR): 1.46 (95% CI 1.04-2.05)
+Number Needed to Harm (NNH): 7 patients
+In the multivariate analysis adjusting for SAPS-3 at enrolment, risk of in-hospital mortality (RR 1.45 [95% CI 1.04-2.02];
+P
+= .03) and 28-day mortality (RR 1.41 [95% CI 1.08-1.84];
+P
+= .01) was greater in the sepsis protocol group than in the usual care group
+Secondary outcome:
+Median hospital length of stay was 5 days (IQR 3-8 days) in the sepsis protocol group vs 7 days (IQR 4-12 days) in the usual care group (P = .01)
+Rates of adverse events were similar between groups
+Patients in the sepsis protocol group received more intravenous fluid (median 3.5 L [IQR 2.7-4.0 L]) compared with patients in the usual care group (median 2.0 L [IQR 1.0-2.5 L]; P < .001) and more frequently received dopamine (Sepsis protocol 14.2% vs Standard care 1.9%; P < .001)
+In the usual care group, only about half of the patients received any intravenous fluids (n = 50; 48.3%)
+More patients in the sepsis protocol group experienced worsening hypoxemia or tachypnea (35.8%) compared with the usual care group (22.3%;
+P
+= .03)
+Only 1 patient was admitted to an intensive care unit (ICU), which is not surprising given that there are only 10 ICU beds in Zambia, a country of 13 million people
+Patients in the sepsis protocol group had a greater reduction in blood lactate levels after resuscitation (-1.2 mmol/L (-3.4 to 0.3) vs. -0.5 mmol/L (-2.2 to 1.1)]
+Authors’ Conclusions
+Among adults with sepsis and hypotension, most of whom were positive for HIV, in a resource-limited setting, a protocol for early resuscitation with administration of intravenous fluids and vasopressors increased in-hospital mortality compared with usual care
+Strengths
+Management of sepsis in the developing world is a very important and under-researched area so this is an important study
+Allowance was made in the study design for the potential deleterious effects of IV fluids, with hypoxic patients excluded from the study
+The harmful effects of protocolised sepsis resuscitation may have been even greater had hypoxic patients been included
+In addition, the study protocol accounted for the cessation of IV fluid therapy if evidence of respiratory compromise from volume overload existed
+The randomisation process ensured that both groups were similar at baseline
+The allocation concealment process was robust, with sealed envelopes and permuted block randomisation by computer
+All analyses were conducted in an intention to treat basis
+A conventional blood transfusion trigger of 70 g/dl was used
+Clear between-group separation was achieved with respect to IV fluid administration in the first six and twenty four hours (median difference 1.5 and 1.0 litres respectively; p < 0.001)
+A clear difference was also found in dopamine administration between the groups (14.2 vs. 1.9%; p < 0.001)
+The study results were consistent with previous randomised controlled trials within the developing world setting
+The primary outcome of mortality at 28 days was relevant and patient-centred
+An adjusted analysis for SAPS-3 score was performed
+The mortality difference persisted in the multivariate analysis adjusting for severity of illness and across pre-specified subgroups defined by preexisting HIV infection and baseline Glasgow Coma Scale score, haemoglobin level, lactate level, severity of illness, and jugular venous pressure
+No patients were lost to follow-up for primary outcome analysis
+3 patients were excluded after randomisation and were therefore not included in primary outcome analysis (leading to a modified Intention To Treat analysis)
+Weaknesses
+There is limited generalisability to the developed world as most patients were young, malnourished and HIV positive (with median CD4 counts of 66u/L)
+In addition, Intensive Care support for deteriorating patients was unavailable due to resource constraints
+This was a single-centre study in which research staff and treating clinicians were unblinded to the allocation groups
+This may have led to clinician bias and a difference in uncontrolled interventions between the study groups
+Convenience sampling was used, with participants being recruited between Monday morning and midday on Friday
+The inclusion criteria for the study was based upon the traditional Surviving Sepsis Campaign/ American College of Respiratory Physicians criteria for septic shock
+These criteria were based on the clinical characteristics of comparatively older patients, most of whom had chronic health problems
+Usual care involved a dedicated study nurse measuring clinical observations hourly and supervising the administration of all ordered fluids and medications
+It is unclear whether this is normal practice in a sub-Saharan African hospital
+Young, malnourished patients in the developing world may have been hypotensive at baseline rather than this being as a result of sepsis-induced vasoplegia
+Patients were included with septic shock on the basis of a systolic blood pressure of < 90mmHg or a MAP of < 65mmHg
+This differs from the recent EGDT studies and SSC criteria which would mandate fluid resuscitation prior to this diagnosis
+Patients in the sepsis protocol group received 2 litres of IV fluids in the first hour
+A significant number of these patients were malnourished, and this would have been significantly more than 30 mls/kg
+Almost 40% of patients in the treatment group received 4 litres or more of IV fluid therapy by six hours after study enrollment
+Due mainly to resource limitations, intravenous fluids were not titrated to haemodynamic parameters
+They were instead discontinued when patients showed evidence of respiratory compromise
+Administering IV fluids until a patient is clinically volume overloaded is unsophisticated and at variance with developed world practice
+On average, patients in the usual care group received IV antibiotics thirty minutes earlier, however this was a non-significant difference (p = 0.15)
+Dopamine was used for vasopressor support and this is another intervention that limits generalisability to the developed world
+Mortality outcomes were limited to 28 days
+The Bottom Line
+Consistent with previous studies in this area, protocolised intravenous fluids and dopamine appears to be harmful in African patients presenting with severe sepsis
+This should be abandoned as a treatment strategy in this setting
+Due to significant differences in patient characteristics and hospital resources, these results cannot be translated to the developed world
+External Links
+[article]
+Effect of an Early Resuscitation Protocol on In-hospital Mortality Among Adults With Sepsis and Hypotension: A Randomized Clinical Trial
+[further reading]
+The FEAST Trial summary
+[presentation]
+The SSSP2 trial
+Metadata
+Summary author:
+Fraser Magee
+Summary date: 5 November 2017
+Peer-review editor:
+Steve Mathieu
+and
+Duncan Chambler

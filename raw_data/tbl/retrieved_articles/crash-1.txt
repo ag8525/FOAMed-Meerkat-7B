@@ -1,0 +1,109 @@
+# Metadata
+- Source: The Bottom Line
+- Title: CRASH-1
+- Original URL: https://www.thebottomline.org.uk/summaries/icm/crash-1/
+- Scrape Date: 2025-07-17
+- Summary Date: AUTO_FILL_IF_AVAILABLE
+
+Effect of intravenous corticosteroids on death within 14 days in 10 008 adults with clinically significant head injury: randomised placebo-controlled trial
+Roberts et al for the CRASH trial collaborators. Lancet 2004; 364:1321-28. doi:10.1016/S0140-6736(04)17188-2
+Clinical Question
+In adults with a head injury, do early corticosteroids compared to placebo reduce death and disability?
+Design
+Randomised, controlled trial
+Centralised (21%) and non-centralised (79%) randomised concealed allocation method
+Blinding of clinicians, patients, and data analysts
+Annual interim analyses, with unmasking only if:
+“proof beyond reasonable doubt of a difference” was found or,
+new published data removed equipoise and uncertainty regarding corticosteroid use
+Intention-to-treat analysis
+Powered at 90% to detect 2% difference in mortality from baseline of 15%, with accepted type I error of 0.01 (chance of false positive), if 20,000 patients were recruited
+Setting
+239 hospitals from 49 countries
+Europe 38%, Asia 27%, South America 16%, Africa 14%, North America 4%, Oceania 1%
+April 1999 to May 2004
+Population
+Inclusion: adults over 16 years with head injuries, who presented within 8 hours of injury with GCS ≤ 14
+Exclusion: clear indication or contraindication for steroids
+10,008 patients randomised
+Intervention
+Administration of methylprednisolone for 48 hours
+Loading dose of 2 g over 1 hour in 100 ml 0.9% NaCl
+Maintenance of 0.4 g per hour for 48 hours in 20 ml per hour 0.9% NaCl
+Control
+Identical regime of placebo
+Outcome
+Primary outcome: unmasking of randomisation took place after 10,008 patients due to a clear difference favouring placebo for mortality at 2-weeks
+Corticosteroid group 21% mortality vs placebo group 18% mortality
+Relative risk 1.18 (95% CI 1.09–1.27; p=0.0001)
+Absolute risk increase 3.15% (95% CI 1.60%–4.70%; NNH 32)
+Secondary outcome: 6-month follow-up favoured placebo for mortality and severe disability
+Primary Outcome
+Measure
+Corticosteroids
+Placebo
+RR
+ARR
+NNH
+2-week mortality
+1052 (21.1%)
+893 (17.9%)
+1.18
+(95% CI 1.09–1.27; p=0.0001)
+-3.15%
+(95% CI 1.60%–4.70%)
+31
+CI = confidence interval; p = p-value; RR = relative risk; ARR = absolute risk reduction; NNH = number-needed-to-harm.
+Secondary Outcomes
+Measure
+Corticosteroids
+Placebo
+RR
+ARR
+NNH
+6-month mortality
+1248 (25.7%)
+1075 (22.3%)
+1.15
+(95% CI 1.07–1.24; p=0.0001)
+-3.40%
+(95% CI 1.70%–5.10%)
+29
+6-month mortality or severe disability
+1828 (38.1%)
+1728 (36.3%)
+1.05
+(95% CI 0.99–1.10; p=0.079)
+-1.80%
+(95% CI -0.12%–3.72%)
+55
+Authors’ Conclusions
+“Corticosteroids should not be used routinely to treat head injury, whatever the severity.”
+Strengths
+Excellent external validity due to worldwide recruitment and minimal exclusion criteria
+Robust statistical thresholds in planning phase (⍺<0.01, β=90%)
+Primary outcome data available for over 99% of patients
+Rapid publication of important outcome with secondary outcomes published later
+Weaknesses
+Halting at interim stage may produce results that are due to an extreme play of chance
+Hyperglycaemia from corticosteroid administration may have unblinded clinicians and / or led to unbalanced management of the two groups (see Lancet comments)
+Cause of death not investigated, so further theories and an explanation for the results are limited
+The Bottom Line
+Corticosteroids should not be given to patients with head injuries, unless other specific indications exist that outweigh the increased risk of death demonstrated by this trial
+External Links
+[article abstract]
+Effect of intravenous corticosteroids on death within 14 days in 10008 adults with clinically significant head injury: randomised placebo-controlled trial by CRASH trial collaborators
+[follow-up publication]
+Final results of MRC CRASH, a randomised placebo-controlled trial of intravenous corticosteroid in adults with head injury—outcomes at 6 months by CRASH trial collaborators
+[trial website]
+MRC CRASH
+[editorial]
+A CRASH landing in severe head injury by Sauerland and Maegele
+[comments]
+Lancet vol 365, issue 9455 with 4 comments to CRASH
+Metadata
+Summary author:
+@DuncanChambler
+Summary date: 15 August 2014
+Peer-review editor:
+@davidslessor

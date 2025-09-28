@@ -1,0 +1,115 @@
+# Metadata
+- Source: The Bottom Line
+- Title: Idarucizumab for Dabigatran Reversal
+- Original URL: https://www.thebottomline.org.uk/summaries/icm/idarucizumab-for-dabigatran-reversal/
+- Scrape Date: 2025-07-17
+- Summary Date: AUTO_FILL_IF_AVAILABLE
+
+Idarucizumab for Dabigatran Reversal
+Pollack.NEJM.2015;373(6)511-520; DOI: 10.1056/NEJMoa1502000
+Clinical Question
+In patients taking dabigatran, who present with serious bleeding or require urgent surgery/intervention is idarucizumab safe and efficacious for the reversal of anticoagulation?
+Design
+Prospective cohort study
+Blinding of clinicians to coagulation tests determining primary outcome
+Non randomised
+Follow up for at least 1 month
+Setting
+184 sites in 35 countries
+June 2014 to February 2015
+Population
+Inclusion:
+Adult patients taking dabigatran
+Group A: patients with overt, uncontrollable, or life-threatening bleeding that was judged to require a reversal agent (n=51)
+Group B: patients who required surgery or other invasive procedures that could not be delayed for at least 8 hours and for which normal haemostasis was required (n=39)
+Exclusion: none stated
+90 patients
+Baseline characteristics
+Age 76.5 years (median)
+Creatinine clearance 58ml/min (median)
+Time since last dose of dabigatran 15.4 hours (median)
+Site of bleeding (Group A)
+Intracranial: 18 patients
+Gastrointestinal: 20 patients
+Trauma: 9 patients
+Other: 11 patients
+Intervention
+5g IV idarucizmab
+Given as two 50ml bolus infusions, no more than 15 minutes apart
+Control
+No control group
+Outcome
+Primary outcome:
+Maximum % reversal assessed by dilute thrombin time: 100% (median), 95% C.I. 100-100%
+Determined in 68 patients as 22 patients had baseline dilute thrombin times that were normal
+Maximum% reversal assessed by escarin-clotting time: 100% (median), 95% C.I. 100-100%
+Determined in 81 patients as 9 patients had baseline escarin-clotting times that were normal
+Secondary outcomes:
+Clotting tests
+Dilute thrombin time normalised in
+98% of patients in Group A
+93% of patients in Group B
+Escarin-clotting time normalised in
+89% of patients in Group A
+88% of patients in Group B
+Level of unbound dabigatran at presentation (median)
+Group A: 84ng/mm (range 3-641)
+Group B: 76ng/ml (range 4-2880)
+Unbound dabigatran was <20ng/ml (level that produces little or no anticoagulant effect) in:
+89% of patients post 1st vial of idarucizumab
+93% of patients at 12 hours
+79% of patients at 24 hours
+Comparing patients with normal clotting results at presentation (n=22) vs. elevated clotting times at presentation (n=68)
+Creatinine clearance: 48ml/min vs. 67ml/min
+Median time since dabigatran dose: 12.8 hours vs. 30.3 hours
+Mortality: 4.5% vs. 25%
+Thrombotic events: 9.0% vs. 4.4%
+Clinical outcomes
+Causes of death within 96 hours
+Intracranial bleeding (n=3)
+Septic shock (n=1)
+Sepsis and GI bleeding (n=1)
+Circulatory collapse (n=1)
+Multiorgan failure (n=1)
+Haemodynamic collapse (n=1)
+Respiratory failure (n=1)
+Cardiac arrest (n=1)
+A further 8 patients died between 11 – 101 days post treatment of causes predominately secondary to co-existing conditions
+Thrombotic events occured in 5 patients
+1 patient within 72 hours
+4 patients after 72 hours
+For patients in group A, median reported time to cessation of bleeding 11.4 hours
+For patients in group B, 36 of the 39 patients underwent urgent procedures, of whom normal operative haemostasis was reported in 92%
+Authors’ Conclusions
+Idarucizumab completely reversed the effects of dabigatran in the majority of patients
+Strengths
+Prospective
+Blinding of clinicians to coagulation tests that determined primary outcome
+Multi-centre
+The population studied was the group of patients that clinicians will want to be able to immediately reverse the effects of dabigatran
+Weaknesses
+Significant conflict of interests with staff working for Boehringer Ingelheim Pharmaceuticals involved in the design, conduct and write-up of the trial
+No control group.
+BCSH guidelines
+recommend the use of prothrombin complex concentrates and other treatments for dabigatran reversal
+Causes for mortality not clear for some patients. i.e. some patient had cardiac arrest, was this due to a thrombosis, bleeding or anaphylaxis secondary to Idarucizumab?  (Idarucizumab is an antibody fragment. Other antibody fragments e.g. digibind can cause anaphylaxis.) One patient had a haemodynamic collapse whereas another patient had a circulatory collapse. What is the difference between these two, and what caused both of these ‘collapses’?
+Small number of patients
+The Bottom Line
+This prospective cohort study demonstrated that clotting tests normalised immediately following 2.5g of idarucizumab. Thrombotic events were recorded in 6% of patients following treatment with idarucizumab. Further studies are required, in particular to assess the safety of idarucizumab. These studies should ideally not have as much pharmaceutical company involvement as the current trial. However while waiting for these studies, if I have a patient who has a life threatening bleed following a recent dose of dabigatran, I would want to use idarucizumab to reverse the coagulation effects of dabigatran
+External Links
+[article abstract]
+Idarucizumab for Dabigatran Reversal
+[Further reading]
+BCSH Guideline on the management of bleeding in patients on antithrombotic agents
+[Further reading]
+Performance of Various Laboratory Assays in the Measurement of Dabigatran in Patients Receiving Therapeutic Doses
+[Further reading]
+Therapeutic antibodies: successes, limitations and hopes for the future
+[Further reading]
+REBEL EM: Dancing with the Devil: Taking Dabigatran to the OR
+Metadata
+Summary author:
+@davidslessor
+Summary date: 27th August 2015
+Peer-review editor:
+@DuncanChambler

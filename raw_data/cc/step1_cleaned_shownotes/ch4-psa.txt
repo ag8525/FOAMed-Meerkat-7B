@@ -1,0 +1,565 @@
+# Metadata
+- topic: 1.1 - Critical Management Principles - 4 PSA
+- source_folder: 1.1 - Critical Management Principles
+- original_file: Ch.4 PSA.pdf
+
+Crack Cast Show Notes – Procedural Sedation and Analgesia – February 2016 
+www.crackcast.org 
+ 
+                              
+Chapter 4: procedural sedation and analgesia 
+ 
+Procedural Sedation 
+ 
+Welcome back! this episode is about….PSAA 
+ 
+Here’s a sneak preview of the questions we’ll be answering:  
+ 
+1. What are the depths of procedural sedation? 
+a. Describe the continuum of procedural sedation 
+2. Describe the recommended personnel and monitoring during PSA? 
+3. What are contraindications for PSA in the ED? 
+4. What agents can be used for procedural sedation and analgesia? 
+5. Describe ASA classification system 
+6. Describe appropriate discharge instructions for patients post-procedural sedation 
+7. List 8 complications / side effects of Ketamine and how some can be treated? 
+8. list 4 situations when ketamine may be contraindicated 
+9. List 4 side effects of propofol in procedural sedation 
+ 
+Wise questions: 
+What are CAEP, Acep guidelines for PSAA? 
+How to choose the right drug? 
+ 
+============================================= 
+ 
+1.What are the various depths of procedural sedation? 
+ 
+There are some key Terms that we should be familiar with:  
+• 
+anxiolysis: decreased apprehension about a procedure where their level of 
+awareness doesn't change 
+• 
+analgesia: pain going bye bye 
+• 
+dissociation: trance-like state : where protective reflexes are maintained such as 
+respiration 
+• 
+sedation: controlled reduction of environmental awareness 
+• 
+procedural sedation and analgesia: idea is to decrease LOC without inhibiting 
+oxygenation, airway control.  
+ 
+There are five traditional groups on the continuum: of procedural sedation: 
+ <---1-----2-------3------4---------5-------> 
+o 
+1) minimal sedation = : anxiolysis 
+o 
+2) moderate sedation "conscious sedation": drug induced depression 
+where people are purposefully responding to commands when stimulated. 
+All reflexes and hemodynamics are preserved 
+o 
+3) Dissociative sedation: profound analgesia, amnesia, with protective 
+airway and resp. reflexes maintained. CV stability maintained 
+o 
+4) Deep sedation: depression of LOC where patients cannot be roused 
+unless by very painful stimuli. usually require assistance to maintain an 
+Crack Cast Show Notes – Procedural Sedation and Analgesia – February 2016 
+www.crackcast.org 
+ 
+                              
+airway and help with ventilation, but airway reflexes would kick in with 
+intubation 
+o 
+5) general anesthesia: loc with no rousability even despite painful 
+stimuli. REquires full support with ventilation and cardiovasc. support 
+usually needed. no airway reflexes.  
+ 
+ 
+ 
+2.Describe the recommended personnel and monitoring during PSA. 
+ 
+personnel, supplies and equipment 
+• 
+Minimum: ERP & nurse/RT as a support person 
+• 
+supplies ready for: 
+o 
+allergic reaction,  
+o 
+oversedation,  
+o 
+resp. depression, 
+o 
+arrest  
+o 
+airway emergency (consider having the stanford airway emergencies 
+book nearby) 
+• 
+oxygen, suction, pt. monitoring (sp02, ecg, BP, CO2 detector, vascular access, 
+resus. drugs), airway equipment, monitor, ACLS supplies,  
+• 
+area of controversy: supplemental 02 may delay rapid recognition of resp. 
+compromise and hypercarbia when capnography isn't used  
+o 
+<--> although transient hypercarbia is less concerning than transient 
+hypoxia!! 
+monitoring: 
+• 
+visual obs of the patient is the best monitoring (i.e. their colour, breathing, 
+response to pain, etc) 
+o 
+vitals, ETc02 (but no evidence showing affected clinical outcomes) 
+o 
+Bispectral index monitoring the frontal lobe of the brain is used in the 
+OR...but not in the ED 
+ 
+Crack Cast Show Notes – Procedural Sedation and Analgesia – February 2016 
+www.crackcast.org 
+ 
+                              
+o 
+highest risk times are when the patient is not longer receiving a painful 
+stimulus or when in the MRI scanner,  
+ 
+3.What are contraindications for PSA in the ED? 
+ 
+• 
+No absolute CI: Rosen’s includes a discussion of avoiding it in high risk patients: 
+o 
+the bearded truck driver who just ate a steak dinner and has a buttocks 
+abcess...can probably wait 
+o 
+use the airway mnemonics to help risk stratify your patients 
+The bottom line is that its a risk -  benefit judgement call! e.g. the higher risk patient should get 
+their joint reduced ASAP! 
+ 
+4.What agents can be used for procedural sedation and analgesia? 
+ 
+There are numerous agents available for PSAA….we’ll post a table on our website, but we’ll go 
+through some of the most common agents here….rosen’s goes through a bunch that are rarely 
+used! 
+ 
+yeah, when did you last see methohexital used?? 
+ 
+ultimately the choice of agent is complex  must consider: route, risks/benefits, patient 
+status, need for analgesia/anxiolysis/sedation/amnesia or all, and **provider 
+comfort/experience** etc..  
+ 
+stay tuned, because we’ll talk about this in the wise cracks corner section!  
+ 
+• 
+the five agents you should know about are: 
+o 
+Fentanyl 
+o 
+Midazolam 
+Crack Cast Show Notes – Procedural Sedation and Analgesia – February 2016 
+www.crackcast.org 
+ 
+                              
+o 
+Ketamine 
+o 
+Propofol 
+o 
+Etomidate 
+ 
+lets go through them briefly one by one 
+ 
+ 
+A couple caveats to know about!  
+• 
+*IN midaz. is  painful and irritating to the nose: so kids should have nebulized 
+lidocaine before being given midaz. IN 
+• 
+**when giving intranasal need to give Less than 1 ml of total volume per nostril 
+and add 0.1 ml of volume for the "dead" space in the atomizer.  
+AGENT 
+STarting Dose 
+onset 
+duration 
+advantages 
+adverse effct. 
+Fentanyl 
+(opiates) 
+“get that pain 
+undercontrol!” 
+1 mcg/kg IV 
+2 mcg/kg 
+Intranasal** 
+1-2 mins 
+10 mins 
+30-40 
+mins 
+60-120 
+mins 
+rapid onset, short dur. no 
+histamine release and minimal 
+CV effects 
+resp, depression and RIGID chest 
+syndrome (>5-7mcg/kg) 
+Midazolam 
+best choice for 
+seizures and 
+anxiolysis  
+0.05 mg/kg IV 
+0.2 mg/kg IN* 
+0.5 mg/kg Rectl 
+0.1 mg/kg IM 
+1-2 mins 
+10-15 mins 
+10-30 mins 
+10-15 mins 
+30-60 
+mins 
+45-60 
+mins 
+60-90 
+mins 
+60-120 
+mins 
+rapid onset, short 
+duration, multiple routes 
+1% of kids <5 have a 
+paradoxical agitated and excited 
+reaction (treated with 
+flumazenil); Resp. depression 
+esp. with opiates 
+Ketamine: 
+great in kids *@$ 
+1-2 mg/kg IV 
+4-5 mg/kg IM 
+6 mg/kg IN 
+1 min 
+5 mins 
+5-10 mins 
+15 mins 
+15-30 
+mins 
+30-120 
+mins 
+airway reflexes 
+maintained; no resp 
+depression, predictable, 
+relaxes airway smooth 
+muscle 
+emergence phenomenon 
+(15%)$; emesis; 0.4% 
+laryngospasm@ 
+Propofol 
+be aggressive in 
+kids, gentle in 
+the elderly 
+0.5-1mg/kg IV 
+<1 min 
+10 mins 
+rapid onset, short duration, 
+antiemetic, cerebral 
+protective 
+resp. depression, hypotension, 
+injection pain%.  
+Etomidate 
+generally safe if 
+given slowly.. 
+0.1mg/kg IV 
+1 min 
+5-10 
+mins 
+rapid onset, short duration, 
+cerebral protective, 
+minimal CV effects 
+resp. depression, myoclonus, 
+adrenal suppression; N/V;   
+HARD to titrate perfectly  
+Keta-fol 
+not shown to be 
+clinically superior 
+to either agent 
+alone 
+maybe slightly 
+higher patient 
+satisfaction 
+ 
+ 
+ 
+Nitrous oxide 
+inhaled 
+30-70% 
+1-2 mins 
+3-5 mins rapid onset, short 
+dur. 
+min. CV effects 
+expansion of gas filled 
+structures + emesis{} 
+Crack Cast Show Notes – Procedural Sedation and Analgesia – February 2016 
+www.crackcast.org 
+ 
+                              
+• 
+ideally give analgesic agent 30 mins before procedure so that you need less of 
+the sedation drug and thus avoid hypotension and synergistic resp. depression 
+• 
+% = for propofol painful injections give 1-2 mls of lidocaine through the IV on a 
+tourniquet'ed arm 
+• 
+propofol is very safe and predictable in kids 
+• 
+{} NO = can theoretically worsen pneumothoraces, SBO's, decompression 
+sickness, and COPD, and lead to N/V 
+ 
+5. Describe what you should have before starting PSAA as well as the ASA classification 
+system? 
+ 
+• 
+a full set of vital signs; mental status assessment ; Airway and CV assessment 
+o 
+use LEMON/MOANS 
+• 
+a focused anesthetic history with ASA grading is adequate 
+o 
+ASA III/IV may need an anesthetic consult 
+§ 
+ASA grading
+ 
+preprocedural fasting: 
+• 
+standard recommendations by ASA have no evidence with PSA&A (e.g. 6 hrs 
+from solid ingestion) 
+ 
+vomiting and loss of airway reflexes is VERY rare in PSA&A, unless the airway is 
+manipulated 
+• 
+thorough discussion about risks and benefits should take place (with signed 
+consent) 
+ 
+ 
+6.. Describe appropriate discharge instructions for patients post-
+procedural sedation? 
+ 
+recovery and discharge: 
+• 
+must be back to baseline 
+• 
+should not drive for 12-24 hrs 
+• 
+should be supervised for at least 4-8 hrs post procedure 
+ 
+Crack Cast Show Notes – Procedural Sedation and Analgesia – February 2016 
+www.crackcast.org 
+ 
+                              
+**simple rule of thumb: don’t leave the bedside until the patient is able to vocalise** 
+ 
+7. List 8 complications / side effects of Ketamine + and how can the first four be managed? 
+ 
+1. hypersalivation / increased secretions 
+2. emesis 
+3. laryngospasm 
+a. treatment not addressed in rosen’s: 
+i. 
+PPV with BVMpeep  
+ii. 
+Jaw thrust 
+iii. 
+Paralysis and intubation 
+ 
+4. 
+emergence reactions 
+a. 
+$ = only give pre-ketamine benzo's for mitigating pre-procedural anxiety, not for 
+everyone prophylactically; treat if you have a pt. with post-ketamine emergence reaction 
+i. 
+giving ketamine at a slow rate helps limit the transient apnea, laryngospasm, and 
+emesis/nausea  
+ 
+5. 
+transient apnea (if given quickly) 
+6. 
+? increased IOP 
+7. 
+worsening psychosis (hallucinogenic effects) 
+8. 
+catecholamine surge phenomenon  
+9. 
+Historic thought that it increased ICP 
+ 
+8. List 4 situations when ketamine may be contraindicated? 
+ 
+ 
+laryngospasm concerns 
+1. infants < 3 months  
+2. children with ongoing URTIs 
+Relative Contraindications to ketamine 
+3. 
+Psychosis (acute or even well controlled!) 
+4. 
+globe rupture (increasing IOP) 
+5. 
+significant CAD (catecholamine surge..) 
+ 
+9. List 4 side effects of propofol for in procedural sedation? 
+ 
+1. resp. depression, 
+2. hypotension, 
+3. injection pain%.  
+4. loss of airway reflexes  
+ 
+Wise Cracks corner:  
+ 
+In this section we want to cover four helpful clinical things:  
+ 
+1. How to choose the best drug for PSAA 
+2. What are the official EM organizations saying about PSAA 
+3. Touch on various reversal agents 
+4. Mention some pearls about PSAA in kids 
+Crack Cast Show Notes – Procedural Sedation and Analgesia – February 2016 
+www.crackcast.org 
+ 
+                              
+ 
+ 
+How to choose the best drug 
+ 
+Drug selection and administration: 
+ 
+• 
+questions to answer: 
+o 
+painful or NOT (e.g. fentanyl vs midazolam)? 
+o 
+length of procedure (e.g. IM ketamine for a long peds. facial lac vs. IV 
+propofol for a short reduction)? 
+o 
+anxiolysis vs. immobility (e.g. NOT etomidate)? 
+ 
+What are the official EM organizations saying about PSAA 
+ 
+ 
+• 
+What are CAEP, acep  guidelines for PSAA? 
+o 
+CAEP has no official policy on PSAA 
+o 
+ACEP: (from http://www.acepnow.com/acep-revises-clinical-policy-
+procedural-sedation-analgesia-emergency-department/)  
+o Critical Questions and Recommendations 
+o 
+does preprocedural fasting demonstrate a reduction in the risk of emesis or 
+aspiration? 
+o 
+Do not delay procedural sedation in adults or pediatrics in the ED based on fasting 
+time. 
+§ 
+Preprocedural fasting for any duration has not demonstrated a reduced 
+risk of emesis or aspiration for PSAA 
+ 
+o 
+does the routine use of capnography reduce the incidence of adverse respiratory 
+events? 
+o 
+Capnography—may be used as an adjunct to pulse oximetry and clinical 
+assessment to detect hypoventilation and apnea earlier than pulse oximetry and/or 
+clinical assessment alone in patients undergoing procedural sedation and 
+analgesia in the ED. 
+o 
+ 
+o 
+what is the minimum number of personnel necessary to manage complications? 
+o 
+the provider performing the procedure, a nurse or other qualified individual should 
+be present for continuous monitoring of the patient during procedural sedation and 
+analgesia.  
+o 
+ 
+o 
+in the ED can ketamine, propofol, etomidate, dexmedetomidine, alfentanil, or 
+remifentanil be safely administered?  
+o 
+YES 
+o 
+Level A recommendations: Ketamine can be safely administered to children and 
+propofol can be safely administered to both children and adults for procedural 
+sedation and analgesia in the ED. 
+o 
+Level B recommendations: Etomidate can be safely administered to adults for 
+procedural sedation and analgesia in the ED. A combination of propofol and 
+ketamine can be safely administered to both children and adults for procedural 
+sedation and analgesia. 
+o 
+Level C recommendations: Ketamine and alfentanil can be safely administered to 
+adults, and etomidate can be safely administered to children for procedural 
+sedation and analgesia in the ED. 
+Crack Cast Show Notes – Procedural Sedation and Analgesia – February 2016 
+www.crackcast.org 
+ 
+                              
+ 
+Touch on various reversal agents 
+ 
+Reversal and rescue agents: 
+• 
+usually excessive sedation can be mitigated by airway maneuvers and BVM prn 
+• 
+REversal of opiates and benzo's are not recommended as a routine but if you 
+absolutely must here are your options: narcan and flumazenil.  
+• 
+Narcan: narcan 
+o 
+competitive antagonist of opioids 
+o 
+half life of 45 mins 
+o 
+those with large doses of fentanyl or heroin may be sedated after one 
+dose 
+o 
+IV, IM, SC, or ET all are fine 
+o 
+usually 0.2 mg IV prn 
+o 
+titrate to resp. rate 
+• 
+Flumazenil 
+o 
+NOT effective for reversing the resp. depression induced by benzos 
+o 
+onset of 1-2 mins, duration 30-90 mins 
+o 
+***effective at reversing the paradoxical excitement in kids who are given 
+benzo's*** 
+o 
+same doses as narcan! 
+§ 
+0.1 - 0.2 mg IV q 1--2 mins prn 
+§ 
+max dose 1 mg 
+§ 
+in kids: 0.02 mg/kg (atropine dose!) 
+o 
+USE EXTREME CAUTION in those with chronic benzo. dependence or a 
+history of seizures:  
+§ 
+may lead to life threatening status epilepticus 
+ 
+Mention some pearls about PSAA in kids 
+ 
+special considerations for peds. populations 
+• 
+use distraction as much as possible (child life, parents telling stories) 
+• 
+ketamine and propofol are both very safe 
+o 
+don’t pee your pants just cus its a kid!  
+o 
+****PEARL the pre-ketamine discussion with patients and family**** warning 
+them about secretions, and optimizing how the room is layed out.. 
+• 
+use of EMLA or LET when possible 
+• 
+calculate the drug doses carefully! and make sure backup equipment is handy 
+• 
+don’t use Chloral hydrate: it has a very poor safety record! 
+o 
+prolonged recovery time, delayed onset, etc.  
+o 
+treat overdoses with beta blockers! 
+ 

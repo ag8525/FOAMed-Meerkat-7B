@@ -1,0 +1,56 @@
+---
+url: https://thesgem.com/2017/10/sgem193-stop-in-the-name-of-love/
+title: "SGEM#193: Stop, In the Name of Love"
+date: 2017-10-29
+audio_url: https://media.blubrry.com/thesgem/content.blubrry.com/thesgem/SGEM193.mp3
+download_date: 2025-08-11
+---
+**Case:** A 12-day old girl presents with fever and is otherwise well. You are planning to begin a full septic workup including some painful procedures including bloodwork. You wonder whether there is a way to mitigate the painful experience for the child.
+
+**Background:** Painful procedures are common in the neonatal period, including bloodwork, lumbar punctures, and bladder catheterization. There is evolving evidence to the long-term neuro-developmental harms associated with pain in preterm infants (Field T. Infant Behavior and Development 2017).
+
+One aspect is the lack of pain control referred to as oligoanalgesia. There are certain patient populations who are at risk for inadequate pain management.
+
+The pediatric age group represents one of the populations at risk for oligoanalgesia. There are many ways to address pain in pediatric patients with both pharmacologic and non-pharmacologic treatments. One medication that should not be used in children under 12 years of age is codeine.
+
+There is a RANThony on pediatric pain control and one of the interesting treatments was sucrose. That rant relied upon a Cochrane SRMA by Stevens B et al 2013 and a randomized clinical trial published in Pediatrics by Gray L et al 2015. Stevens and colleagues updated their review in 2016 and concluded **"sucrose is effective for reducing procedural pain"** and **"no serious side effects or harms have been documented with this intervention."**
+
+**Clinical Question:** 1) What is the current evidence for the use of sucrose in neonatal infants undergoing painful procedures?  2) Using a Cumulative meta-analysis (CMA), when did the evidence for the use of sucrose become statistically significant?
+
+**Reference:** Harrison et al. Sweet Solutions to Reduce Procedural Pain in Neonates: A Meta-analysis. Pediatrics 2017
+
+- **Population:** Randomized or quasi-randomized controlled trials of neonates
+  - **Exclusions:** Non-neonatal patients, inability to extract data from study or from author, untranslatable data.
+- **Intervention:** **"sucrose, glucose, or other sweet solutions orally"**
+- **Comparison:** **"no treatment, water, pacifier, swaddling/positioning, skin-to-skin care, formula feeding, expressed breast milk, breastfeeding, sensorial saturation, or topical anesthetics"**
+- **Outcome:** Unclear if they really had a primary and secondary outcome. What they said was that the aim of the article was to: "review what is known about the mechanisms of sucrose-induced analgesia; highlight existing evidence, knowledge gaps, and current controversies; and provide directions for future research and practice."
+
+**Authors’ Conclusions:** **"Evidence of sweet taste analgesia in neonates has existed since the first published trials, yet placebo/no-treatment, controlled trials have continued to be conducted. Future neonatal pain studies need to select more ethically responsible control groups."**
+
+**Key Results:** They found over 150 published studies looking into the topic of using sweet tasting solutions for analgesia and inducing calm in neonates.
+- **What did they find?** Almost all of the studies found reported less pain in infants up to 12 months using sweet solutions.
+- **How does it work?** No one really knows exactly how these sweet solutions work.
+- **Who knew?** Almost everyone knows that they work and it is routinely recommended.
+- **When did they know?** The CMA shows that from the early 2000’s that sweet solutions work and high-quality SR of sucrose had been done and recommendations incorporated into international consensus statements (2001). Despite the established science demonstrating the benefits of using sucrose for painful procedures, 125 of the 168 studies included in this review were from 2002 and later.
+- **What needs to happen now?** Stop doing unethical trials using placebo or no treatment.
+
+**Commentary:** 
+1) **Search Strategy:** The search strategy used in this systematic review was to include all the articles found in two other systematic reviews performed previously then search the literature from those dates forward. This assumes that the searches done in the two other systematic reviews were exhaustive. As well, the authors do not describe how the 'grey' literature was searched.
+
+2) **Risk of Bias (RoB):** Although the authors of this study stated: "RoB bias was overall low for most studies" they are in fact only referring to the new studies they found from 2011-2015 and not all the studies included in their narrative or CMA analysis. Upon reviewing the RoB from the Steven’s systematic review, the studies they included did in fact have significant RoB. The data from the other included review by Bueno et al had only 6/38 studies described as low-risk for bias.
+
+3) **Heterogeneity:** The statistical heterogeneity was variable depending on the comparisons examined. This is not clear from the current study, but requires reviewing the other two systematic reviews’ data.
+
+4) **Cumulative Meta-Analysis (CMA):** There is great value in thinking about what the CMA in this case means. Since 2000, a statistically significant benefit to sucrose for painful procedures in newborns has been shown. Given that absence of equipoise between sucrose and placebo/no treatment, it has been arguably unethical since 2000 to perform further studies on sucrose where the control group has been placebo or no treatment. Equipoise in study groups is essential to ensure ethical research. It appears in this case, given that there have been ongoing studies on this topic, knowledge translation on equipoise, ethics, and sucrose has been compromised.
+
+5) **Outcomes:** It appears in this case that the primary purpose of this paper was to establish a timeline around the understanding of the utility of sweet solutions for pain in newborns. The authors state their primary aim was to update the previously published reviews. If this were in fact the case, I would have expected more details on the methodology of this process (i.e., what outcome measures were they looking to include), a search independent of the previous systematic reviews’ work, a grey literature search, and a comprehensive review of all the included papers, not just the newly found ones.
+
+**Comment on Authors’ Conclusion Compared to SGEM Conclusion:** Although the authors cut some corners on their methodology, their conclusions are sound. Newborns undergoing painful procedures should have their pain minimized with sweet solutions. Further research should focus on optimizing this therapy. Any further research using placebo or no treatment is unethical.
+
+**SGEM Bottom Line:** When performing painful procedures on newborns use a sweet solution to minimize the pain experience. If you are doing research on sweet solutions, please do not have your comparison group get placebo or no treatment, it’s unethical at this point.
+
+**Case Resolution:** In this case, prior to performing the bloodwork, catheter urine, and lumbar puncture, the child is given sucrose. Although there is some crying noted, the child appears mostly comfortable during the process.
+
+**Clinical Application:** In newborns experiencing painful procedures, sweet solutions, like sucrose, should be given to minimize the pain experience.
+
+**What do I tell my patient?** I tell the families that we use sucrose to minimize the pain their baby will experience. I often tell them it’s like giving them the world’s best piece of chocolate before poking them with a needle. They might be so distracted by the chocolate that they won’t feel the pain as much.

@@ -1,0 +1,72 @@
+# Metadata
+- Source: The Bottom Line
+- Title: CRASH-2
+- Original URL: https://www.thebottomline.org.uk/summaries/icm/crash-2/
+- Scrape Date: 2025-07-17
+- Summary Date: AUTO_FILL_IF_AVAILABLE
+
+Effects of tranexamic acid on death, vascular occlusive events, and blood transfusion in trauma patients with significant haemorrhage (CRASH-2): a randomised, placebo-controlled trial
+CRASH-2 trial collaborators. Lancet 2010; 376: 23–32. doi: 10.1016/S0140-6736(10)60835-5
+Clinical Question
+In trauma patients with or at risk of significant haemorrhage, does the early administration of a short course of tranexamic acid (TXA) affect the mortality, incidence of occlusive events and the amount of blood transfused?
+Design
+Randomised using 24hr free call service balanced by centre, with an allocation sequence based on a block size of eight. If no telephone is available, taking the next consecutive randomisation pack
+Multi-centre
+Double-blinded, placebo-controlled with identical treatment packs
+With 20,000 patients, study powered to detect a 2% survival advantage from a baseline of 20% at either:
+85% power with α-error = 0.01, or
+95% power with α-error = 0.05
+Setting
+274 hospitals in 40 countries
+Enrolment began in May 2005
+Population
+Inclusion: adults (age > 18) with trauma; present within 8 hours of incident; either significant haemorrhage, or who are considered to be at risk of significant haemorrhage (systolic blood pressure < 90 mmHg and / or heart rate > 110 bpm); responsible doctor was substantially uncertain about whether or not to treat with TXA
+Exclusion: clear contra-indication to TXA
+20,207 trauma patients randomised and 20,127 analysed under intention-to-treat basis
+Evenly matched groups with 39 protocol violations in each group
+Intervention
+Loading dose of 1 g of TXA infused over 10 min
+Followed by an intravenous infusion of 1 g over 8 h
+Control
+Placebo (0.9% saline)
+Outcome
+Primary outcome: death in hospital within 4 weeks of injury
+Significant reduction in intervention group
+Secondary outcomes: no significant difference in intervention and control groups
+Receipt of a blood-products transfusion
+Surgical intervention
+Occurrence of vascular occlusive episodes (stroke, myocardial infarction, pulmonary embolism, clinical evidence of deep vein thrombosis)
+Unit of blood products transfused
+Dependency at hospital discharge or at day 28 if still in hospital
+Table: summary of results
+Authors’ Conclusions
+TXA safely reduced the risk of death in bleeding trauma patients in this study. On the basis of these results, TXA should be considered for use in bleeding trauma patients.
+Strengths
+Randomised, blinded, placebo-controlled
+Pragmatic study
+Large numbers
+Weaknesses
+Randomisation based on subjective opinion of treating physician; no standardised criteria for the definite use of TXA → selection bias
+No stratification of injury severity
+Follow up period only 28 days and was incomplete
+Non-standardisation on the use of fluids/blood products in groups. TXA did not reduce transfusion rates
+Only 5% of patients in both groups actually died of haemorrhage
+The Bottom Line
+The absolute risk reduction in mortality with the use of TXA in trauma patients is very small. Neither did it reduce the amount of blood products administered. However, TXA is unlikely to cause harm and hence will continue to be part of practice in the management of the bleeding trauma patient
+External Links
+[article]
+Effects of tranexamic acid on death, vascular occlusive events, and blood transfusion in trauma patients with significant haemorrhage (CRASH-2): a randomised, placebo-controlled trial
+[further reading]
+Morrison JJ, Dubose JJ, Rasmussen TE, Midwinter MJ. Military Application of Tranexamic Acid in Trauma Emergency Resuscitation (MATTERs) Study. Arch Surg. 2012; 147:113Y119
+[further reading]
+Effect of tranexamic acid in traumatic brain injury: a nested randomised, placebo controlled trial (CRASH-2 Intracranial Bleeding Study)
+[further reading]
+LITFL – Tranexamic acid
+[further reading]
+Lancet CRASH-2 resource page – comments, interviews, correspondence
+Metadata
+Summary author:
+@avkwong
+Summary date: 13 February 2015
+Peer-review editor:
+@DuncanChambler

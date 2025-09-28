@@ -1,0 +1,197 @@
+```yaml
+title: "CrackCast Episode 64: Chemical Injuries"
+url: "https://canadiem.org/crackcast"
+date: 2017-02
+source: "CanadiEM – CrackCast"
+original_file: "CrackCast-Shownotes-Episode-64-Chemical-Injuries.pdf"
+summary: |
+  The document provides a comprehensive overview of chemical injuries, focusing on the differences between alkali and acid injuries, HAZMAT response protocols, decontamination procedures, and personal protective equipment (PPE) for first responders. Alkali injuries cause deeper tissue damage due to liquefactive necrosis, while acid injuries result in coagulative necrosis with eschar formation. Effective HAZMAT response involves identifying hazardous substances, securing the environment, and decontaminating victims. Decontamination includes removing clothing, brushing off dry agents, and copious water irrigation, with special considerations for ocular exposure and specific chemicals like hydrofluoric acid and formic acid. The document also discusses chemical warfare agents, emphasizing the importance of PPE, decontamination, and specific antidotes for agents like cyanide. Notably, certain chemicals, such as dry lime and elemental metals, should not be irrigated with water due to adverse reactions.
+```
+
+## Overview
+
+### Episode Overview
+
+1. Describe the difference between Alkali and Acid injuries
+2. Describe a HAZMAT response on scene
+3. Describe the decontamination of an individual
+4. List PPE for first responders or caregivers
+
+### Rosens in Perspective
+
+- Chemicals are everywhere, with more than 10,000 new ones made every year.
+- Most susceptible organs: skin, eyes, lungs
+- Most commonly released substances:
+  - Volatile organic compounds (VOCs)
+  - Herbicides
+  - Acids
+  - Ammonia
+  - Cement
+  - Drain cleaner
+  - Gasoline
+
+**Pathophysiology:**
+- Most cause damage through a chemical reaction with the skin.
+
+## Core Questions
+
+### 1. Describe the difference between Alkali and Acid injuries
+
+- **Acidic compounds:**
+  - Cause protein denaturation and coagulative necrosis with the skin.
+  - The necrosis forms eschar, which limits the depth of acid penetration.
+  - Their free hydrogen ions are easily neutralized on the skin by copious water irrigation.
+
+- **Alkali compounds:**
+  - Produce saponification and liquefactive necrosis of body fat.
+  - They produce soluble protein complexes which permit the passage of hydroxyl ions deep into the tissue, limiting the contact of the alkali complex on the surface of the skin.
+  - Because there is no eschar formation, they usually penetrate deeper into the tissue.
+
+### 2. Describe a HAZMAT response on scene
+
+The contingency plan for hazmat (hazardous materials) management has two parts:
+
+1. **Initiation of the site plan (using the incident command system):**
+   - Identify the offending substance(s).
+   - Assess and secure the surrounding environment.
+     - First responders should develop a perimeter.
+     - Use PPE before entering.
+     - Determine which victims need rescue and decontamination.
+
+2. **Evacuation:**
+   - Secure the scene (extinguish fires, watch for other hazards).
+   - Decontamination.
+
+### 3. Describe the decontamination of an individual
+
+Should ideally occur before arrival to the ED:
+
+1. First responder uses a scene survey approach.
+2. Attempt to determine which substance(s) may be involved.
+3. Don appropriate PPE (personal protective equipment).
+4. Safely remove the victim from the hostile environment.
+5. All the victim’s clothing should be removed and placed in plastic bags.
+6. Dry agents should be brushed off; wet agents should be sprayed off copiously.
+   - Priority: eyes, mucous membranes, skin, hair.
+   - Clean until a normal skin pH.
+
+**Hydrotherapy:**
+- Application of large amounts of water to the skin (dilution is the solution) under low pressure.
+- Rosen’s: even after 1 hour of copious water irrigation, alkali exposures still often leave an abnormal pH for up to 12 hours.
+- Exception may be elemental metals (sodium), which are better removed with mineral oil.
+
+**Ocular therapy:**
+- Alkali burns are more common and severe, causing coagulation necrosis deep into the corneal stroma.
+  - E.g., Anhydrous ammonia can penetrate into the anterior chamber in less than 1 minute.
+- Classified into four categories:
+  - I-II: hyperemia and conjunctival ecchymosis; some conjunctival haziness.
+  - III-IV: deeper penetration causing mydriasis, iris discoloration, and cataract formation.
+- Treatment:
+  - Copious water irrigation.
+  - Submerge eyes in running tap water, continuously open and close the eyes.
+    - Turn the head so that the other eye doesn’t get contaminated.
+  - In the ER:
+    - Continued tap water irrigation until Morgan lens system setup.
+    - Repeated application of tetracaine/alcaine local anesthetic.
+
+### 4. List PPE for first responders or caregivers
+
+- Chemical-resistant clothing with a hood
+- Boots
+- Eyewear
+- Two layers of gloves
+- Respiratory mask
+
+## Wisecracks
+
+### 1. Name two acids that cause damage through liquefactive necrosis
+
+- **Hydrofluoric acid:**
+  - Burns as small as 2.5% TBSA can be fatal.
+  - Potential sources: glass etching, microelectronic production, rust remover, aluminum cleaner, cement, and brick cleaner.
+  - Can present with delayed onset pain.
+  - Unique mechanism of action: although an acid, works by liquefactive necrosis. The free fluorine ion scavenges calcium and magnesium.
+  - Very dangerous because it can cause hypocalcemia, hypomagnesemia, inhibition of ATPase and Krebs cycle, hyperkalemia, QTC prolongation.
+  - Most commonly dermal exposure with sudden to delayed onset pain. Coagulation and eschar can appear.
+  - Key management points:
+    - Irrigation for 15-30 mins with copious water.
+    - If still painful, continue with:
+      - Blister removal.
+      - Local 2.5% Calcium gluconate gel.
+      - Intravenous and intra-arterial infusion vs. subcutaneous injection of calcium gluconate (both controversial).
+      - Require hospitalization and calcium gluconate infusions.
+
+- **Formic acid:**
+  - Causes damage leading to acidosis, hemolysis, hemoglobinuria.
+  - Treatment: copious irrigation, NaHCO3 for acidosis. Severe cases may need hemodialysis or exchange transfusion.
+
+### 2. List chemical agents used in warfare/terrorism
+
+**Chemical Agents:**
+
+- Most choking agents (CG, CL, HC, PS) stimulate excessive lacrimation and only require supportive care (copious eye irrigation, bronchodilators, nebulized 4% sodium bicarbonate); rarely intubation for bronchospasms and pulmonary edema.
+
+**Other classes:**
+
+1. **Nerve agents:**
+   - Naturally occur as liquids at room temperature, so they need to be aerosolized into a gas.
+   - Work by preventing acetylcholinesterase from hydrolyzing ACh.
+     - Lead to DUMBELS or SLUDGE and the deadly B’s.
+   - Treatment: decontaminate, atropine (tapered to secretions - start at 2 mg), consider pralidoxime, use benzos for seizures.
+
+2. **Vesicants:**
+   - "Blistering agents" that form skin reactions at the site of contact. Aka “mustard gas.”
+   - Above 14°C, solid mustard becomes gaseous. The gas form is heavier than air.
+   - Up to 30 minutes of exposure can cause respiratory toxicity and death.
+   - Exposure doesn’t cause immediate pain and may present delayed up to 24 hours.
+   - Treatment: remove from environment, decontaminate with hypochlorite solution (or household bleach diluted to 1:9).
+
+3. **Cyanide:**
+   - Cyanide gas form is liberated from burning plastic-containing compounds.
+   - It is a cellular toxin and inactivates cytochrome oxidase.
+   - The electron transport chain and inhibits oxidative phosphorylation, leading to cellular hypoxia and death.
+   - If the salts/acid are ingested (metal cleaners, photographic production), usually results in sudden CV collapse, coma, and acidosis.
+   - “May smell a note of bitter almonds on their breath” -- not often clinically noted though.
+   - Most telling laboratory findings is:
+     - Profound lactic acidosis.
+     - Elevated mixed venous O2 saturation (cellular utilization of O2 is blocked).
+     - Shortened QT interval.
+     - Normal pulse oximeter - despite cellular hypoxia.
+   - Treatment:
+     - PPE and decontamination.
+     - ABC’s.
+     - Antiarrhythmics.
+     - Vasopressors.
+     - Antidotes:
+       - Trifecta of pimping:
+         - Amyl nitrite, sodium nitrite, sodium thiosulfate.
+         - Amyl nitrite: pearls are broken open and breathed for 30 seconds on 30 sec. off.
+         - Sodium nitrite: 300 mg IV dose over 5 minutes.
+         - Sodium thiosulfate: 12.5 g IV dose.
+       - The Nitrites induce methemoglobinemia.
+       - The thiosulfate causes transsulfuration of cyanide, so it can be renally excreted as thiocyanate.
+       - If coexisting carbon monoxide inhalation toxicity is suspected (smoke inhalation), the nitrites should be avoided.
+
+- **Hydroxocobalamin (Cyanokit) - IM / IV:**
+  - Binds cyanide to form cyanocobalamin.
+  - This is then renally excreted.
+  - Administer 5g hydroxocobalamin diluted in 200 mL of 5% dextrose IV over 30 minutes (binds 100mg cyanide — use a larger initial dose if necessary).
+  - Can cause reddening of the skin.
+  - Causes serum laboratory measurements to be unreadable.
+  - May safely be used with the “trifecta kit,” but usually only thiosulfate is given due to the risks associated with the nitrites.
+
+### 3. What chemicals should you NOT irrigate in water?
+
+- **Dry lime:** Brush off the skin prior to irrigation. Lime contains calcium oxide, which when combined with H2O forms calcium hydroxide, a strong alkali. This turns bad into really BAD.
+  - If you have already started to irrigate and recognize it's dry lime… STOP. Brush off any obvious concretions/particulate matter off before restarting irrigation with water.
+
+- **Elemental metals/reactive metal compounds:** Combust or release hazardous byproducts when exposed to water. Examples include sodium, potassium, magnesium, phosphorous, lithium, cesium, and titanium tetrachloride. Remove obvious metals with forceps, and apply mineral oil. Wipe oil, then re-apply until all the metal is removed. You may need to ask your surgical colleagues to help out if metal has penetrated tissues.
+
+- **Phenol:** Not water soluble. Take a sponge, and if you can soak it with 50 percent polyethylene glycol (PEG). THIS IS NOT THE PHARMACY OR GI PREP DOSE. If not, mega large doses of water, as phenol becomes more dilute, it penetrates skin better.
+
+## References
+
+- [CanadiEM – CrackCast](https://canadiem.org/crackcast)
+- [Image source](http://images.slideplayer.com/14/4331842/slides/slide_73.jpg)
+- [Image source](https://c1.staticflickr.com/2/1245/1027393112_7cd83fb81c.jpg)
+```

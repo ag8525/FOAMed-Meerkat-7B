@@ -1,0 +1,263 @@
+---
+title: "CrackCast Episode 162: Opioids"
+url: "https://canadiem.org/crackcast/"
+date: 2018-03
+source: "CanadiEM – CrackCast"
+original_file: "CrackCast-Shownotes-Episode-162-Opioids.pdf"
+summary: |
+  The document provides a comprehensive overview of opioid toxicity, focusing on the opioid toxidrome characterized by CNS depression, miosis, and respiratory depression. It emphasizes the unreliability of urine screens in diagnosing opioid intoxication and underscores the importance of airway management, oxygenation, ventilation, and naloxone administration in treatment. Naloxone, a competitive opioid antagonist, is crucial for reversing opioid effects, but its shorter duration compared to many opioids necessitates careful monitoring for recurrent respiratory depression. The document also discusses the management of opioid withdrawal, highlighting the use of clonidine, methadone, and buprenorphine, and addresses the opioid epidemic's impact, including the rise in opioid-related deaths and the role of community naloxone programs. Additionally, it outlines the clinical presentation of opioid withdrawal, risk factors for overdose, and the differentiation between body packers and stuffers.
+
+---
+
+## Overview
+
+### Key Concepts
+
+- The opioid toxidrome includes three prominent findings: CNS depression, miosis, and most importantly, respiratory depression, but presentations may be variable.
+- A negative urine screen is unreliable, and absence of detection should not deter a diagnosis of opioid intoxication when clinical findings support it.
+- Airway protection, oxygenation, ventilation, and early administration of naloxone are the cornerstones for management of patients with opioid toxicity.
+- The duration of action of many opioids, especially after overdose, is significantly longer than that of naloxone. Patients responsive to naloxone should be observed for recurrence of respiratory depression, because they may require further doses of naloxone.
+- Community naloxone programs and prescription drug monitoring programs are two new ways in which the medical profession is trying to curb the epidemic of opioid-related deaths.
+- Opioid withdrawal syndrome does not include altered cognition. Patients with known or suspected opioid withdrawal who also have altered cognition should be evaluated for another cause of the altered cognition.
+
+### Rosens in Perspective
+
+Opiate is the term for natural agents derived from the poppy plant juice that have morphine-like pharmacological effects. Example opiates include morphine and codeine.
+
+Opioid is the more inclusive term, which refers to any synthetic, semisynthetic, or natural agent that has morphine-like properties. Some common semisynthetic opioids are heroin, hydrocodone, oxycodone, hydromorphone, oxymorphone, and buprenorphine. Some common synthetic opioids are fentanyl, methadone, and meperidine.
+
+Opioids are a major cause for concern today - in overdose they cause respiratory depression and death.
+
+In 2010 alone, enough prescription opioids were prescribed to medicate every American adult with 5 mg of hydrocodone every 4 hours for 1 month.
+
+Consequently, the United States has seen a widespread rise in prescription opioid abuse, overdoses, and deaths. In 2010, approximately 12 million Americans, or 1 in 20, reported use of opioids without a prescription. Nearly 15,000 Americans die annually due to prescription opioid overdose, and overdoses overtook motor vehicle accidents as the number 1 cause of accidental death in 2010.
+
+Closer to home, nearly 1000 people died in BC in 2016 due to drug overdose.
+
+Additionally, there has been a major resurgence in heroin abuse in the last decade.
+
+In this episode we don’t talk much about testing, but what we should hit home is that Acetaminophen and salicylate drug levels should be obtained on all patients with suspected intentional overdose or overdose of unknown substance!
+
+## Core Questions
+
+### 1. List 6 commonly abused opioids (Table 156:1)
+
+- Heroin (semisynthetic)
+- Codeine (in its various forms e.g. Tylenol #3)
+- Fentanyl
+- Hydromorphone
+- Morphine
+- Methadone
+- Oxycodone
+- Meperidine
+
+### 2. Describe the opioid toxidrome (list opioid effects on Neuro, Resp, Ophtho, CV, GI, Derm)
+
+Opioids act on receptors in the central nervous, cardiovascular, pulmonary, and gastrointestinal systems and can also be used therapeutically for their antitussive and antidiarrheal effects.
+
+Classic triad: respiratory depression + CNS depression + miosis
+
+- **Neuro:** CNS depression, spongiform leukoencephalopathy/parkinsonism (from “chasing the dragon”, smoking heroin fumes from heating up in tin foil). Seizures (meperidine). Hypoxia and CNS depression can lead to anoxic brain injury. Serotonin syndrome (Meperidine, methadone, tramadol, fentanyl).
+- **Respiratory:** opioids shut down medullary resp centre (suppresses your brain’s ability to notice hypercapnia) → hypopnea, apnea.
+  - Acute lung injury with pulmonary edema in overdose from ‘capillary leak’
+  - ***Respiratory depression is the essential feature of opioid intoxication***
+- **Ophtho:** Miosis by stimulating mu receptors on EW-nuclei of CN3. NOT reliable. May be masked by co-ingestions. And meperidine does not cause miosis.
+- **CV:** Relative bradycardia. Hypotension from histamine release (along with flushing, pruritus)
+  - QT prolongation/K channel blockade (methadone). QRS widening (propoxyphene).
+- **GI:** nausea/vomiting, decreased GI motility, and slower gastric emptying, constipation, ileus.
+- **Skin:** LOOK for track marks, burns, marks/scars from “skin popping” drug SC. Fentanyl patches.
+
+### 3. List opioid preparations associated with the following presentations:
+
+- **Long QTc →** methadone, loperamide
+  - Torsades de pointe, Vtach.
+- **Prolonged QRS →** propoxyphene
+  - Historical; withdrawn from the market
+- **Seizures →** meperidine
+- **Hallucinations →** heroin (fumes)
+- **Sensorineural hearing loss →** methadone, heroin, hydromorphone (acute/chronic) from direct ototoxicity
+- **Serotonin syndrome →** methadone, meperidine, tramadol, fentanyl
+
+The two key ones to put in your memory:
+
+- **Long QTc**
+  - Methadone is known to block human ether-a-go-go related gene (hERG) potassium channels, causing QTc prolongation.
+- **Serotonin syndrome**
+  - Meperidine, methadone, tramadol, and fentanyl inhibit serotonin reuptake
+
+### 4. i) What is the dose of narcan? ii) What is the duration of action? iii) How do you administer a narcan infusion?
+
+Narcan is THE antidote for opioid poisoning. There is no routine role for charcoal, gastric lavage, or dialysis.
+
+Naloxone is a competitive opioid antagonist that rapidly reverses the effects of opioid intoxication.
+
+Naloxone is ineffective orally because its bioavailability is minimal due to first-pass metabolism. It is effective via intravenous, subcutaneous, intramuscular, inhalational, and endotracheal routes. It is indicated when an opioid intoxicated patient has significant CNS or respiratory depression.
+
+**Indications for naloxone:**
+
+- Respiratory rate < 10 /min OR saturation < 92% on room air,
+- Inability of patient to protect their airway
+- Fentanyl induced chest wall rigidity.
+
+**Narcan dosing:** 0.4mg - 2.0mg up to 10mg doses and then continuous infusions. 0.4mg doses should be used and titrated up until desired effect. Narcan’s onset of action is < 2 minutes. Remember, we titrate the dose of naloxone to the patient's respiratory rate (not their level of consciousness!).
+
+If there is an insufficient response to the initial dose, subsequent doses should be administered every 2 minutes (3 minutes if IM) according to the following schedule: 0.4 mg, 0.4 mg, 2 mg, 4 mg, and then 10 mg as a final dose if there is a high clinical suspicion of opioid intoxication.
+
+If there is no response after this dosing regimen, alternate causes for symptoms should be sought.
+
+**Goals of naloxone therapy:** RR ≥ 10/min, GCS > 10, protecting airway, no acute withdrawal symptoms precipitated.
+
+In fentanyl or carfentanil overdoses, more narcan is needed: start with 0.4mg then 0.8mg then 2mg x 2 then 10 mg. If not resolved by 10mg, start infusion.
+
+0.04mg may be wise starting dose to give chronic user with adequate resp status because precipitated withdrawal is a terrible thing for patients.
+
+**Narcan duration:** ‘Narcan Rule of 2s’... on in 2 min, off in 20 min to 2 hrs. Less time than most opioids so BEWARE of recurrent resp/CNS depression.
+
+**Narcan infusion:** If the 10 mg doesn't work, consider taking over the airway and/or starting narcan infusion. Use ½ to ⅔ the bolus dose that effectively reverses intoxication (IV) per hour.
+
+Note: Common formulation is 4 mg in 250 mL of D5W (16mg/L) run at 0.4‐ 0.8 mg/hr (25‐50 mL/hr).
+
+- Also, if 10-15 mg of naloxone doesn’t work, you definitely should be broadening your ddx and look for other causes of respiratory depression and coma.
+
+Don’t forget there are other routes: intranasal and nebulized!
+
+Intranasal naloxone has proved a viable, alternative to intravenous administration, especially for prehospital providers. Both 0.4 mg/mL and 1 mg/mL solutions of naloxone, delivered into each nare using an atomizer device, have been used.
+
+Nebulized naloxone—2 mg of naloxone is mixed with 3 mL of saline— has also been shown to be a safe, effective, and gradual way to reverse opioid intoxication in both the ED and prehospital settings. Care must be taken in selecting the optimal patient for nebulized naloxone. A patient with profound respiratory depression, such as a respiratory rate of less than six breaths per minute or cyanosis, will not receive enough naloxone to obtain the desired clinical effect.
+
+For an excellent recent BC guideline: [Opioid Guidelines](http://www.dpic.org/sites/default/files/pdf/OpioidGuidelines_1Mar2017.pdf)
+
+### 5. What opioid overdoses/ingestions need longer than 6 hours of observation?
+
+Remember that naloxone lasts 20 mins to 2 hours, many opioids have a much longer duration of action and if ingested in large quantities will release slowly.
+
+A few to worry about:
+
+- Methadone.
+- Other long-acting opioids (Kadian, M-Eslon)
+- Fentanyl patches that are ingested
+- Buprenorphine
+- Any INGESTED opioid
+
+Observation suggestions from DPIC: [Opioid Guidelines](http://www.dpic.org/sites/default/files/pdf/OpioidGuidelines_1Mar2017.pdf)
+
+- Asymptomatic patients who have injected, smoked or insufflated an opiate and have NOT received any naloxone: Monitor for 2 hours.
+- Asymptomatic patients who have ingested opiate and have NOT received any naloxone: Monitor for 4 hours following regular release opioids and 12 hours following ingestion of sustained release opioids or methadone. Catastrophic delayed onset of symptoms has been reported in the setting of sustained release opioid ingestion. Assume it is a sustained release preparation if the substance is not known with certainty.
+- Symptomatic patients:
+
+Lower risk patients: Observe for a minimum of 2 hours following naloxone administration.
+
+- **Lower risk definition:**
+  - 1. Did not require more than 0.9 mg naloxone for reversal, AND
+  - 2. Opioid smoked, insufflated or injected (not ingested), AND
+  - 3. Did not require repeat doses or infusion of naloxone following initial reversal
+
+Higher risk patients:
+
+Observe for a minimum of 6 hours following last dose of naloxone
+
+- **Higher risk definition:** 1. Oral overdose, OR 2. More than 0.9 mg of naloxone required for reversal
+
+Naloxone infusion: Observe for at least 12 hours after naloxone infusion has been stopped.
+
+**Special cases:**
+
+- Methadone overdose: Observe for a minimum of 12 hours following any overdose AND at least 12 hours following the last naloxone dose or discontinuation of naloxone infusion.
+- Buprenorphine: The management of buprenorphine overdose can be complex. After administering naloxone as per dosing guidelines (above), the poison centre should be called to guide further management in all cases.
+- Pediatric opioid exposure: Prolonged opioid toxicity may occur. Initiate naloxone as per dosing recommended above if indicated. The poison centre should be contacted to guide management in all cases.
+- Fentanyl patch ingestion: Initiate naloxone as per dosing recommended above if indicated. The poison centre should be contacted to guide management in all cases.
+- Opiate packers and stuffers (ingestion of opiates for the purposes of concealment): Initiate naloxone as per dosing recommended above if indicated. The poison centre should be contacted to guide management in all cases.
+- Patients wishing to leave prematurely: Ensure that the patient understands the risks associated with leaving prior to the completion of the observation period and encourage them to stay. Avoid antagonistic interactions that may prevent the patient from seeking medical treatment in the future.
+
+**Criteria to consider discharge:** Consider discharge when the patient is awake, alert, has normal vital signs (including a normal oxygen saturation on room air) and can mobilize as usual after the requisite observation period. Patients must meet these criteria without verbal or physical stimulation.
+
+**Criteria for hospital admission:** 1. Comorbidities requiring admission 2. Acute lung injury 3. Consider admission to a high acuity unit (step up) or intensive care if naloxone infusion is required.
+
+**Criteria for transfer to another facility:** 1. Unable to complete toxicological blood work (i.e. acetaminophen or salicylate) if exposure to additional substances is suspected 2. Patient requires more intensive care than is available at the current facility.
+
+**Take home naloxone:** Offer the patient take home naloxone (if available) and or provide the patient with information on how it can be obtained.
+
+Teaching regarding overdose prevention and recognition as well as response training should be offered to the patient as well as to their family and friends if present.
+
+**Opioid Agonist Therapy:** Provide referral to community addiction treatment and information on opioid agonist therapy (Suboxone® (buprenorphine) or methadone).
+
+**Addictions referral:** For all cases, consider consultation with an addiction medicine specialist to assist with long‐term treatment planning available through the RACE line (www.raceconnect.ca) Monday‐Friday 8am‐5pm.
+
+### 6. What is the clinical presentation of opioid withdrawal?
+
+Hyperadrenergic state:
+
+Yawning, piloerection, CNS excitation, tachypnea, mydriasis, tachycardia, hypertension, nausea, vomiting, diarrhea, abdominal cramps, and myalgias. CNS excitation manifests as restlessness, agitation, dysphoria, and insomnia.
+
+*NOT life-threatening but feels like it. Especially for those who use regularly to escape their discomfort.
+
+Can use COWS score to identify severity of withdrawal.
+
+*****Cognition and mental status are not affected in simple opioid withdrawal and, if present, should prompt the clinician to search for other causes instead of or in addition to withdrawal.******
+
+### 7. What are risk factors for opioid withdrawal?
+
+Tolerant patients who abruptly stop their opioids or take a substance that precipitates a withdrawal: narcan, naltrexone, buprenorphine (Suboxone) - partial opioid agonist.
+
+### 8. List 3 medications effective for opioid withdrawal.
+
+- Clonidine (alpha2-agonist) + IV fluids + antiemetics
+- Long-term prevention of withdrawal is achieved with opioid agonist therapy using methadone or buprenorphine (buprenorphine/narcan formulation known as Suboxone).
+
+### 9. What is the number one killer of people under 50?
+
+Not guns, not accidents, not suicide. Opioid overdose. Fentanyl is a major player. ED docs are uniquely positioned to connect at-risk patients with help they need: referrals to rapid access addiction clinics cropping up all over, involving addictions services if your hospital has it, starting patient on OAT with Suboxone.
+
+### 10. What is Suboxone?
+
+Formulation of buprenorphine:naloxone 4:1, Buprenorphine: partial opioid agonist with highest affinity for receptors. Binds tightly, partially activates receptors so as to prevent withdrawal while also preventing any other opioid from hitting receptors → protective against overdose. Long-acting. Can miss a day and still be covered. Naloxone component gets activated only if dissolved and injected - mitigates abuse potential. Suboxone doesn’t need a special license to prescribe (unlike methadone), can be uptitrated to a therapeutic dose within a day (unlike the weeks it takes for methadone), does have good analgesic effect (like methadone), does not need witnessed ingestions (unlike methadone), and does not relate to prolonged QTc or SS.
+
+### 11. How do you do a Suboxone induction?
+
+Patient must be in threshold level of withdrawal so the partial agonism will bring relief, not precipitate further withdrawal. Once COWS >12 (or higher if possible), give 2mg Suboxone SL (not PO).
+
+If improvement, continue with another 2mg q2hrs until reached total of 16mg. Max dose in Canada is 24mg (32mg in States).
+
+If COWS around 11-12, start with 1mg and uptitrate slowly if improvement. Next day, pt can take the induction day’s total in one dose. Provide prescription (requires duplicate).
+
+Home Inductions can be arranged if patient is in the ED but not in sufficient withdrawal and doesn’t want to wait. See attached documents - the clinical order sets for ED and home inductions.
+
+Ideally, get patient to follow-up with local addictions specialists or primary care.
+
+Link to Suboxone induction information and protocol: [BC OUD Guidelines](http://www.bccsu.ca/wp-content/uploads/2017/06/BC-OUD-Guidelines_June2017.pdf)
+
+## Wisecracks
+
+### 1. List 5 ddx for opioid intoxication (CNS + resp depression, + miosis)
+
+With some combination of the classic triad… other intoxications: clonidine, guanfacine, valproic acid, gamma-hydroxybutyrate (GHB), ethanol, sedative hypnotics, and atypical antipsychotics.
+
+Nontox: pontine stroke or hemorrhage, hypoglycemia.
+
+### 2. What opioids don’t cause miosis?
+
+Meperidine (Demerol) causes mydriasis.
+
+### 3. Risk factors for opioid overdose?
+
+Using alone. IVDU. Co-ingestions. Using shortly after detox. Any drugs acquired on the street. Fentanyl use.
+
+### 4. What is NAPE? Narcan induced pulmonary edema.
+
+Similar to negative-pressure associated pulmonary edema - while patient is emerging from CNS depression, respiratory efforts can be made against a floppy glottis and cause greatly elevated negative pressures that suck water out of pulmonary vasculature and into the airspaces (capillary leak).
+
+One of those patients who needs a good clinical exam, CXR, and supportive care (may need NIPPV)
+
+### 5. Difference between a “body packer” and “body stuffer”?
+
+- **Packers:** pre-meditated ingestion of well-packaged, high concentrated goods for the purpose of trafficking. Often packing lethal doses opioids, which becomes a problem if the packages leak or rupture. Once they become symptomatic they need immediate surgery.
+  - Asymptomatic body packers, however, require admission until the packets have been passed or retrieved.
+- **Stuffers:** hastily stuff their face with loosely packaged goods so as to evade detection. Less risk than packers as often minimal amounts.
+  - If still asymptomatic after 6-8 hrs they can usually be discharged (we’d still recommend calling your poison centre for their recommendation though!)
+
+## References
+
+- [Opioid Guidelines](http://www.dpic.org/sites/default/files/pdf/OpioidGuidelines_1Mar2017.pdf)
+- [BC OUD Guidelines](http://www.bccsu.ca/wp-content/uploads/2017/06/BC-OUD-Guidelines_June2017.pdf)
+- www.canadiem.org/crackcast
+```

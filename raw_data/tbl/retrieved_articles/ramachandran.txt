@@ -1,0 +1,92 @@
+# Metadata
+- Source: The Bottom Line
+- Title: Ramachandran
+- Original URL: https://www.thebottomline.org.uk/summaries/icm/apneic-oxygenation-during-prolonged-laryngoscopy-in-obese-patients-a-randomized-controlled-trial-of-nasal-oxygen-administration/
+- Scrape Date: 2025-07-17
+- Summary Date: AUTO_FILL_IF_AVAILABLE
+
+Apneic oxygenation during prolonged laryngoscopy in obese patients: a randomized, controlled trial of nasal oxygen administration
+Ramachandran. Journal of Clinical Anesthesia 2010;22:164-168. doi:10.1016/j.jclinane.2009.05.006
+Clinical Question
+In obese patients with simulated difficult laryngoscopy, does the use of nasal oxygen prolong the duration that oxygen saturations remain ≥95%?
+Design
+Randomised controlled trial
+Non-blinded
+Allocation concealment maintained
+Power calculation: To detect a difference of ≥60 seconds, 30 patients would be required with a
+probability of false positive trial 5%
+probability of false negative trial 20%
+Setting
+Single university hospital, USA
+Dates of data collection not reported
+Population
+Inclusion: elective surgery with general anaesthesia, BMI 30-35
+Exclusion: female, smoker, cardiac/respiratory disease, reflux, raised intracranial pressure, SpO
+2
+≤ 97% on 100% via face mask, Grade 3 or 4 mask ventilation or laryngoscopic view (current or past)
+30 patients analysed out of 33 randomised
+Intervention
+5L/min O
+2
+via nasal prongs
+applied prior to pre-oxygenation and continued until post-intubation
+Control
+No O
+2
+via nasal prongs
+All patients in intervention and control groups
+had standardised induction technique
+had pre-oxygenation with head up 25° and at least 8 vital capacity breaths until end-tidal O
+2
+% was >90%
+at 60 seconds had laryngoscopy performed
+If Cormack and Lehane grade 3 or 4 then excluded from study
+If Cormack and Lehane grade 1 or 2 then force on laryngoscope blade reduced to simulate a grade 4 view. At 6 minutes, or when SpO
+2
+decreased to 95%, tracheal intubation was performed
+Outcome
+Primary outcome:
+Patients not given nasal O
+2
+had a significantly shorter duration of time that SpO
+2
+was ≥95% compared to patients who received nasal oxygen
+Secondary outcomes:
+The number of patients with SpO
+2
+≥95% at 6 minutes was significantly greater in patients receiving nasal O
+2
+The lowest SpO
+2
+recorded was significantly lower in patients who did not receive nasal O
+2
+Authors’ Conclusions
+Nasal oxygen significantly increased the duration of SpO
+2
+≥95% during simulated difficult laryngoscopy in obese patients
+Strengths
+Randomised
+Maintained allocation concealment
+Weaknesses
+Single centre
+Small sample size
+Non-blinded
+The Bottom Line
+The addition of nasal oxygen from pre-oxygenation until post-intubation significantly prolonged the duration that oxygen saturations remained  ≥95% in simulated difficult airways. There are some methodological limitations, in particular the lack of blinding. However, as those treated with nasal oxygen had such significant gains and the treatment has minimal side effects, this will become my standard practice for critically ill patients. If during RSI you have an episode of hypoxia and you have not applied nasal O
+2
+the question should be asked as to why not.
+External Links
+[article abstract]
+Apneic oxygenation during prolonged laryngoscopy in obese patients: a randomized, controlled trial of nasal oxygen administration
+[further reading]
+St. Emelyns Best Bet apneic oxygenation during endotracheal intubation
+[further reading]
+EMCrit: Preoxygenation, Reoxygenation and Deoxygenation
+[further reading]
+Difficult Airway Society Proposed Guideline 2015 including the use of apneic oxygenation
+Metadata
+Summary author:
+@davidslessor
+Summary date: 23rd October 2014
+Peer-review editor:
+@stevemathieu75

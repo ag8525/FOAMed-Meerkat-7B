@@ -1,0 +1,247 @@
+# Metadata
+- Source: The Bottom Line
+- Title: ARISE
+- Original URL: https://www.thebottomline.org.uk/summaries/icm/arise/
+- Scrape Date: 2025-07-17
+- Summary Date: AUTO_FILL_IF_AVAILABLE
+
+ARISE: Australasian Resuscitation In Sepsis Evaluation Randomised Controlled Trial
+ARISE Investigators. NEJM Oct 1 2014 (ePub); DOI: 10.1056/NEJMoa1404380
+Clinical Question
+In adult patients with septic shock, does early goal-directed therapy (EGDT) compared with standard therapy reduce mortality at 90 days?
+Design
+Multi-centre, unblinded, randomised controlled trial
+Permuted block randomisation stratified by site to allocate eligible patients 1:1
+Intention to treat analysis
+Sample size calculation based on assumed in-hospital rate of death in the usual-care group of 28% with an increase to 38% by 90 days based on recent high quality studies. 1600 patients provided a power of 85-90% to detect an absolute risk reduction of 7.6%
+Setting
+51 hospitals (45 in Australia or New Zealand and 6 centres in Finland, Hong Kong and the Republic of Ireland)
+October 2008 – April 2014
+Population
+1600 patients
+Inclusion
+Adults presenting to the ED with suspected or confirmed infection and 2 or more SIRS criteria AND
+Evidence of either refractory hypotension OR hypoperfusion:
+Refractory hypotension: presence of a systolic blood pressure (SBP) < 90 mmHg or mean arterial pressure (MAP) < 65 mmHg after a 1000ml intravenous (IV) fluid challenge within 60 minutes (including IV fluids administered pre-hospital)
+Hypoperfusion: confirmed by the presence of a blood lactate concentration ≥ 4.0 mmol/L
+First dose of IV antimicrobial therapy commenced prior to randomisation
+Exclusion
+Contra-indication: CVC insertion; blood products (e.g Jehovah’s Witness)
+Inability to commence delivery of the EGDT protocol within 1 hour of randomisation or complete 6 hours of EGDT
+Haemodynamic instability due to active bleeding
+Pregnancy (confirmed or suspected)
+In-patient transfer from another acute health care facility
+The patient has an underlying disease process with a life expectancy of < 90 days; death is deemed imminent and inevitable; a “limitation of therapy” order restricting implementation of the study protocol
+Baseline characteristics EGDT vs. usual care group:
+Age: 62.7 +/- 16.4 vs. 63.1 +/- 16.5
+APACHE II scores: 15.4 +/- 6.5  vs. 15.8 +/- 6.5
+Lactate (at time criterion met): 6.7 +/- 3.3 vs. 6.6 +/- 2.8
+Site of infection: 1/3 pulmonary
+Median time to first dose antibiotics following arrival in ED: 70 minutes vs. 67 minutes
+Intervention
+EGDT
+Arterial line and a central venous catheter capable of continuous ScvO2 measurement (Edwards Lifesciences) was inserted within 1 hour after randomisation
+A treatment algorithm was commenced based on Rivers’ original EGDT algorithm & included:
+Supplemental oxygen if not already initiated and titrated to achieve SpO2 > 93%
+500mls bolus of crystalloid or colloid at least every 30 minutes until CVP > 8mmHg (self ventilating) or > 12mmHg (NIV or invasive ventilation)
+Vasopressors to achieve MAP of 65–90mmHg
+ScVO2 >70% once CVP and MAP targets achieved
+If ScVO2 < 70% and HCT < 30% → PRBC transfusion
+If ScVO2 remains < 70% despite HCT >30% or Hb > 100g/dl → dobutamine 2.5–20mcg/kg/min
+If ScVO2 still < 70% → increase oxygen → NIV → Mechanical ventilation
+Sedative and paralysing agents used if mechanically ventilated
+Treatment algorithm continued for 6 hours
+Intervention was provided by a study team trained in EGDT. Both the care providers and location of delivery (ED or ICU or both) were dependent on local resources
+Control
+Usual resuscitation care
+Arterial line and a CVC may be inserted if considered clinically appropriate
+ScVO2 measurement was not permitted during the 6 hour intervention period
+Decisions about the location of care delivery, investigations, monitoring, and all treatments were made at the discretion of the treating clinician
+Outcome
+Primary outcome: all cause mortality at 90-days after randomisation
+18.6% EGDT vs. 18.8% usual care group (RR 0.98, p < 0.9)
+Subgroup analysis: No difference between countries (Australia, New Zealand and ‘others’)
+Secondary outcome:
+Median length of stay (LOS) in the ED: 1.4 hours EGDT vs. 2.0 hours usual care group
+Hospital & ICU LOS: no difference
+The need for, and duration of, organ support
+vasopressor requirement: EGDT 76.3% vs.  usual care group 65.8%, P<0.001
+median duration of vasopressor infusion – no difference
+no difference in number receiving mechanical ventilation or RRT
+Tertiary outcome:
+28d all cause mortality
+14.8% EGDT vs. 15.9% usual care group (RR 0.93, P=0.53)
+mortality at ICU discharge
+10.9% EGDT vs. 12.9% usual care group (RR 0.85, P=0.28)
+hospital mortality (censored at 60d mortality)
+14.5% EGDT vs. 15.7% usual care group (RR 0.92, P=0.53)
+Volume of fluid administered during the first 6 hours:
+EGDT 1964+/-1415 vs. Usual-care group 1713+/-1401ml P<0.001
+Subgroup analyses: No difference in any categories
+Country
+APACHE II < 25 vs. >25
+Presence or absence of invasive mechanical ventilation
+Presence or absence of refractory hypotension
+Lactate level (<4.0mmol/l or<4.0mmol/L)
+Intravenous fluid administration (<20ml/kg or >20ml/kg of body weight)
+Primary Outcome
+Measure
+EGDT
+Usual Care
+AD
+95% CI
+p
+90-day mortality
+Mean (SD)
+18.6%
+18.8%
+-0.3%
+-4.1 to 3.6%
+0.90
+AD = absolute difference; CI = confidence intervals; p = p value
+Secondary Outcomes
+Measure
+EGDT
+Usual Care
+RR
+95% CI
+p
+Vasopressor support
+76.3%
+65.8%
+1.16
+1.09 to 1.24
+< 0.001
+ED LOS
+hours
+1.4
+2.0
+n/a
+< 0.001
+ICU LOS
+days
+2.8
+2.8
+n/a
+0.81
+Hospital LOS
+days
+8.2
+8.5
+n/a
+0.89
+28-day mortality
+14.8%
+15.9%
+0.93
+0.73 to 1.17
+0.53
+LOS = Length of Stay; ED = Emergency Department; ICU = Intensive Care Unit; RR = Relative Risk
+Authors’ Conclusions
+In critically ill patients presenting to the emergency department with early septic shock, EGDT did not reduce all-cause mortality at 90 days.
+Strengths
+Clinical relevance and high impact
+Large multi-centre study
+Use of original EGDT algorithm in the intervention group
+A pragmatic study which allowed clinician discretion in managing the ‘usual care’ group and also not limiting involvement of some centres because of resource limitations
+Information supplied regarding timing of first dose antibiotics. A sensible inclusion criteria of antimicrobials being started before enrolment addressed the potential confounding effect of late administration
+Subgroup analyses for variation in mortality between countries
+Statistical analysis plan published before recruitment was completed eliminates the risk of analytical bias
+Weaknesses
+Lower APACHE scores than ProCESS and Rivers study but this has been addressed with a subgroup analysis of those with APACHE II scores of < 25 and > 25. There was still no difference in mortality between EGDT and usual-care in the sicker group although the total numbers were small in > 25 group (n=69)
+Low recruitment rate per month across all centres. The largest recruiting centre (Austin Health) recruited at a mean rate of just over 2 patients per month. However, adherence with EGDT protocol was high and management of sepsis well established in usual care practice. This low rate reflects the complexities of conducting research studies. Multi-centre involvement is essential both for ensuring generalisability and appropriately powered trials
+The Bottom Line
+Another nail in the coffin for EGDT and specifically continuous central venous co-oximetry, liberal blood transfusion policy and probably dobutamine. Despite the stark difference between ProCESS & ARISE compared with the Rivers paper, it is essential that we continue to recognise the importance of high standard of care in sepsis. Early recognition, source control, antimicrobial therapy, fluid resuscitation and escalation remain the fundamental treatment goals.  I eagerly await the results of ProMISe to complete the triumvirate of modern EGDT in sepsis trials.
+External Links
+[Original article]
+Goal-Directed Resuscitation for Patients with Early Septic Shock
+[Further reading]
+ARISE: Supplementary Appendix
+[Further reading]
+Harmonizing international trials of early goal-directed resuscitation for severe sepsis and septic shock: methodology of ProCESS, ARISE, and ProMISe.
+[Further reading]
+The Bottom Line review of ProCESS
+[Further reading]
+Rivers. Early Goal-Directed Therapy in the Treatment of Severe Sepsis and Septic Shock 2001
+[Videocast]
+ESICM news. The ARISE Trial Results
+. Interview with Sandra Peake
+[Podcast]
+HEFT EMCAST
+Comparison of EGDT studies
+Rivers et al
+ProMISe
+ProCESS
+ARISE
+Location
+US
+UK
+US
+Australasia
+Population
+263
+1260
+1351
+1600
+Sepsis Definition
+Suspected / Actual Infection
+Yes
+Yes
+Yes
+Yes
+SIRS criteria ≥ 2
+Yes
+Yes
+Yes
+Yes
+Refractory ↓BP or lactate > 4 mmol/l
+Yes
+Yes
+Yes
+Yes
+Protocol
+Fluid before randomisation
+20–30 ml/kg
+1000 ml
+~20–30 ml/kg
+Changed during study
+1000 ml
+Recruitment
+not specified
+<6h from ED arrival & <2h from shock criteria
+<12h from ED arrival & <2h from shock criteria
+<6h from ED arrival & <2h from shock criteria
+Intervention
+EGDT 6 hours
+EGDT 6 hours
+EGDT 6 hours
+EGDT 6 hours
+Control
+Usual therapy
+Usual therapy
+1) Protocol usual therapy
+2) Usual therapy
+Usual therapy
+Primary outcome
+In-hospital mortality
+90-day mortality
+60-day mortality
+90-day mortality
+Primary Outcome
+Intervention
+30.5%
+n/a
+21.0%
+18.6%
+Control
+46.5%
+n/a
+1) 18.2%
+2) 18.9%
+18.8%
+Metadata
+Summary author:
+@stevemathieu75
+Summary date: October 3rd 2014
+Peer-review editor:
+@DuncanChambler

@@ -1,0 +1,140 @@
+# Metadata
+- Source: The Bottom Line
+- Title: Emergency Department Resuscitative Endovascular Balloon Occlusion of the Aorta in Trauma Patients With Exsanguinating Hemorrhage
+- Original URL: https://www.thebottomline.org.uk/summaries/icm/emergency-department-resuscitative-endovascular-balloon-occlusion-of-the-aorta-in-trauma-patients-with-exsanguinating-hemorrhage/
+- Scrape Date: 2025-07-17
+- Summary Date: AUTO_FILL_IF_AVAILABLE
+
+UK-REBOA RCT
+Jansen Jan. JAMA Published online October 12 2023; doi:
+:10.1001/jama.2023.20850
+Clinical Question
+In trauma patients with exsanguinating haemorrhage, does the use of the REBOA (resuscitative endovascular balloon occlusion of the aorta) device with standard care in the emergency department, compared with standard care alone, impact 90-day-mortality?
+Background
+The global burden of trauma is huge, with 4.4 million deaths worldwide per annum. It remains the leading cause of death in young people. The most common mechanism of death is haemorrhage
+The REBOA device is a novel intravascular catheter that is inserted using a seldinger technique via the femoral artery into the aorta. The balloon can then be inflated to occlude flow and theoretically stop bleeding at sites distal to the balloon occlusion. The balloon can be inflated in the descending thoracic aorta (zone 1) or infrarenal aorta (zone 3)
+The theoretical benefit of REBOA is to stanch bleeding from non-compressible bleeding but does not eliminate the need for definitive haemorrhage control. However, REBOA is not without risk, as balloon occlusion causes ischemia of tissues distal to the inflation. In addition, when the balloon is deflated a severe reperfusion injury is possible due to systemic flooding with potassium and acids
+Previous human research is limited to retrospective and prospective cohort studies and case series
+The UK-REBOA trial is the first randomised controlled trial assessing the use of this device
+Design
+Multicentre, open label, group-sequential, RCT
+Bayesian design: adaptive design takes advantage of accumulating information as patients are enrolled and uses that information to make well-defined changes in the trial design, eg sample size, stopping rules. The adaptive design helps avoid getting the wrong answers and avoids taking too long to draw the right conclusions
+Random assignment 1:1 ratio
+Allocation concealment achieved through web-based randomisation
+Permuted blocks of 2 or 4
+Intention to treat analysis
+Sample Size; The original plan was to include 120 patients, but the trial was stopped at 80 patients when an interim analysis triggered the pre-specified stopping rule for harm (although 90 patients were recruited by the time all the primary outcome data was collected)
+Consent not required initially but was sought to gather data later
+Clinicians using REBOA were required to complete a training package to ensure technical competency with insertion. There was ongoing training in each designated REBOA centre
+An independent data and safety monitoring committee oversaw the conduct of the trial and suggested stopping at the 80 patient mark when pre-specified stopping rules for harm were met
+Setting
+16 UK trauma centres
+Patients were enrolled between October 2017 and March 2022 and followed up for 90 days
+Population
+Inclusion
+: Trauma patients >16 years, with suspected or life-threatening torso haemorrhage that was deemed amenable to adjunctive treatment with REBOA as assessed by experienced clinicians
+Exclusion
+: pregnant, injuries that were deemed unsurvivable
+Patients
+: 90 Randomised
+46 randomised to REBOA and standard care group
+44 randomised to standard care
+Baseline characteristics:
+well matched between groups
+Male 69%
+Blunt trauma 97%
+Median Injury Severity Score 41
+Median age 41
+23% required CPR upon arrival to emergency department
+All were tachycardic and hypotensive prehospital [REBOA group had lower median SBP (84mmHg) compared with 99mmHg in standard group
+Head Injury; 3 patients in the REBOA + standard care group, zero in the standard care group
+Intervention
+46 randomised to REBOA and standard care (SC) group
+19 REBOA placed and balloon inflated: 10 had zone 1 inflation and 9 had zone 3 inflation: the median time from arrival in the emergency department to balloon inflation was 32 minutes (IQR 20-47 minutes). The median duration of inflation was 29 minutes (IQR 19-64 minutes)
+9 arterial access achieved but balloon not inserted as patient improved
+8 arterial access unsuccessful
+5 arterial access achieved, balloon inserted but not inflated as patient improved
+3 arterial access not attempted as patient improved
+2 arterial access not attempted as patient deteriorated
+Control
+44 randomised to standard care
+42 received standard care
+2 received REBOA and balloon inflated
+Management common to both groups
+Other management as per hospital trauma protocols
+Outcome
+Primary outcome
+: 90-day mortality
+REBOA + SC
+vs
+Standard Care
+alone:
+89 patients consented for data use
+25/46
+(54%)
+vs 18/46
+(42%)
+OR 1.58 [95%
+credible interval
+0.72-3.52] and a
+posterior probability
+of OR>1 of 86.9%
+Note the Bayesian methodology
+Bayesian methodology used
+minimally informative priors
+. This technique is used when there is minimal existing evidence prior to the study such that traditional sample sizes and power calculations are not possible prior to the study (similar to a pre-test probability). Priors in this study were informed by retrospective data on the national trauma registry. The prior estimated was that REBOA would reduce death by 3.7% with a prespecified OR of 0.77
+Using the prespecified prior, the unadjusted analysis showed an odds ratio of 1.58 and the result gives a 95% probability (
+credible interval
+) that the true value lies between 0.72 and 3.52, for 90-day-mortality. This tells us that REBOA is more likely to increase mortality compared with standard care
+The
+posterior probability
+considers the prior beliefs and then adds in new data gathered during the conduct of the trial (similar to the way likelihood ratios impact post-test probability)
+The multi-variable regression analysis was used to adjust for baseline imbalance and the odds of 90-day-mortality still remained higher in the REBOA group (OR 1.8: 95% CrI 0.59-5.59)
+Secondary outcomes
+: Comparing
+REBOA + SC
+vs
+Standard Care
+alone
+3-hour mortality
+Higher in REBOA group (24% vs 5%)
+6-hour mortality
+Higher in REBOA group (28% vs 9%)
+Death within 24 hours
+Higher in REBOA group (37% vs 23%)
+Time from randomisation to definitive haemorrhage control
+Longer in the REBOA group (83 minutes vs 64 minutes)
+Underwent a definitive haemorrhage control procedure
+Fewer in the REBOA group (30% vs 43%)
+There were similar transfusion requirements between groups
+Authors’ Conclusions
+In trauma patients with exsanguinating haemorrhage, a strategy of REBOA and standard care in the emergency department does not reduce, and may increase, mortality compared with standard care alone
+Strengths
+This trial is a hugely impressive achievement as it tests an intervention that has previously been described as life-saving and game-changing for patients with exsanguinating trauma
+The Bayesian methodology allowed design of the trial based on minimal previous robust evidence and then adaptation of sample size considering real time results. The results give a posterior probability which have a measure of uncertainty. In this case we are 86.9% sure that REBOA increases mortality when used in the care model described in the trial
+The allocation concealment, intention to treat analysis and complete follow-up (except one patient who withdrew consent) give robust internal validity to the study
+This study does a great deal to inform trauma-based care in advanced trauma centres
+Weaknesses
+The care model used in this study is insertion of REBOA in the emergency department by emergency physicians. This resulted in delay in time to definitive haemorrhage control procedures and higher early deaths by exsanguination There are other models for REBOA intervention. For example, the hospital I work at, would
+not
+insert REBOA in the emergency department but would take the patient straight to a hybrid theatre where there could be almost simultaneous insertion of REBOA whilst damage control surgery is commenced. This results of this trial do not necessarily mean REBOA use should be abandoned but raise significant caution to ongoing use particularly if delays in definitive surgery occur
+The study is unblinded but this obviously would be impossible to achieve
+There was some baseline imbalance, eg REBOA group had lower median prehospital and on-admission blood pressure, and a greater number of head injuries. However, the adjusted analyses considered these imbalances and the result was unaltered
+Less than 50% of the patients randomised to REBOA had a REBOA inserted and inflated
+Other harms of REBOA are not reported, eg ischemic lower limbs, renal injury. It would be important to appreciate these outcomes in patient groups who had REBOA therapy
+The Bottom Line
+When used in the care model described, REBOA most likely increases mortality
+Future use of REBOA would have to be done with caution and the model of care must not cause delay in definitive haemorrhage control procedures
+External Links
+article
+UK REBOA RCT
+further reading
+Bayesian Statistics Explained
+further reading
+Video of Presentation of Trial Results at CCR meeting
+further reading
+St Emlyn’s review
+Metadata
+Summary author: Celia Bradford @celiabradford
+Summary date: 16th October 2023
+Peer-review editor: David Slessor

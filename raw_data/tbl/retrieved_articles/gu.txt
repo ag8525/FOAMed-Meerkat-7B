@@ -1,0 +1,95 @@
+# Metadata
+- Source: The Bottom Line
+- Title: Gu
+- Original URL: https://www.thebottomline.org.uk/summaries/icm/gu-single-dose-etomidate-does-not-increase-mortality-in-patients-with-sepsis-a-systematic-review-and-meta-analysis-of-randomized-controlled-trials-and-observational-studies/
+- Scrape Date: 2025-07-17
+- Summary Date: AUTO_FILL_IF_AVAILABLE
+
+Single-Dose Etomidate Does Not Increase Mortality in Patients with Sepsis: A Systematic Review and Meta-Analysis of Randomized Controlled Trials and Observational Studies
+Gu. Chest 2015;147(2):335-346. doi:10.1378/chest.14-1012
+Clinical Question
+In adult patients with sepsis, severe sepsis or septic shock, is a single dose of etomidate for induction of anaesthesia, compared with any other induction, associated with a difference in mortality?
+Design
+Systematic review and meta-analysis
+Conducted in adherence to PRISMA
+Two reviewers performed systematic review and data extraction
+PubMed, Embase and CENTRAL up to July 2014
+Inclusion criteria:
+Adult populations
+Single dose etomidate compared against any other sedative or no agent
+Mortality as outcome
+Randomised, controlled trials or observational studies
+424 trials identified -> 20 full-text assessed -> N = 18 analysed in full
+Post-hoc randomised, controlled trial (RCT) data considered to be equivalent to observational studies
+Sensitivity and publication bias analysis performed
+Setting of Trials
+10 in North America, 6 in Europe, 2 in Asia
+Published between 2002 and 2014
+Population of Trials
+Trial sample sizes: n = 62 to 2014
+Total population: 2801 etomidate group vs 2751 other sedatives group
+Methodology of Trials
+2 RCTs
+3 post-hoc analyses of RCTs
+10 retrospective cohort studies
+3 prospective cohort studies
+Intervention
+Etomidate single-dose
+Specific details such as dose or indication are not provided
+Control
+Any other sedative agent
+RCT: ketamine (n=76)
+RCT: midazolam (n=120)
+Cohort: midazolam (n=65)
+All others: not specified
+Outcome
+Primary outcome: no statistically significant difference in mortality was shown by meta-analysis of the RCTs or cohort studies (performed separately)
+RCTs: risk ratio 1.20 (95% CI 0.84 to 1.72) favouring control but overlapping no effect
+Cohorts: risk ratio 1.05 (95% CI 0.97 to 1.13) favouring control but overlapping no effect
+Secondary outcome:
+Insufficient data prevented meta-analysis of resource use outcomes including length of stay and duration of mechanical ventilation
+Meta-analysis of available data from 8 cohort studies found a statistically significant increase in adrenal insufficiency associated with etomidate compared to control
+Risk ratio 1.42 (95% CI 1.22 to 1.64)
+Other analyses:
+Publication Bias
+No evidence of publication bias by funnel plot, and Begg’s and Egger’s tests
+Risk-of-Bias within publications
+RCTs were assessed as low (N=1) or unclear (N=1)
+Cohort were assessed as low (N=10) or high (N=5)
+Authors’ Conclusions
+In patients with sepsis, a single-dose of etomidate was not associated with increased mortality. However, given the data come from two small RCTs and other observational studies with potentially significant biases, this conclusion is not certain and further trials should be performed.
+Strengths
+Systematically designed and conducted review following established PRISMA guidelines
+Identified studies are recent and global
+Sensitivity analysis performed
+Did not over emphasise the strength of data from post-hoc analysis of RCTs
+Weaknesses
+Various drugs used as control for comparison
+Ketamine in one RCT, midazolam in the other RCT, midazlolam in 1 retrospective cohort study
+All other studies did not specify what the control for comparison was
+Therefore the conclusion is that etomidate is neither better nor worse than
+something
+else
+Secondary outcomes of resource use (length of stay and ventilation) could not be analysed due to the paucity of available data
+No attempt was made to contact the authors of the original trials
+With only 18 studies no older than 13 years, this would not have been unreasonably difficult
+Additional data may have provided information regarding the control drug and resource use
+Individual patient meta-analysis may provide stronger certainty about the conclusion
+Assessment of bias
+The Bottom Line
+This meta-analysis did not find evidence of harm from single-dose etomidate, but the trials on which it is based are small and the comparators are not clearly defined.
+Therefore, whilst there are alternative agents for cardio-stable induction, this trial does not provide evidence to support etomidate use over and above these other agents.
+Of note, the conclusion in this paper contradicts other recent meta-analyses (see link below)
+External Links
+[article]
+Single-Dose Etomidate Does Not Increase Mortality in Patients with Sepsis: A Systematic Review and Meta-Analysis of Randomized Controlled Trials and Observational Studies by Gu et al
+[further reading]
+Rapid Sequence Intubation of the Shock Patient by LITFL
+[further reading]
+Etomidate is associated with mortality and adrenal insufficiency in sepsis: a meta-analysis by Chan
+Metadata
+Summary author:
+@DuncanChambler
+Summary date: 24th April 2015
+Peer-review editor:
+@stevemathieu75

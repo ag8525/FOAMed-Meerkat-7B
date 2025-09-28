@@ -1,0 +1,76 @@
+# Metadata
+- Source: The Bottom Line
+- Title: TTM
+- Original URL: https://www.thebottomline.org.uk/summaries/icm/ttm/
+- Scrape Date: 2025-07-17
+- Summary Date: AUTO_FILL_IF_AVAILABLE
+
+TTM Trial Investigators: Targeted Temperature Management at 33°C versus 36°C after Cardiac Arrest
+Nielsen et al for the TTM Trial Investigators. NEMJ 2013;369:2197-206
+Clinical Question
+In adults that suffer an out-of-hospitals (OOH) cardiac arrest of presumed cardiac cause, does induced therapeutic hypothermia targeting 36°C compared to 33°C reduce mortality or reduce neurological deficit?
+Design
+Randomised, controlled clinical trial
+Single blinded
+Setting
+36 intensive care units
+Europe and Australia
+November 2010 and January 2013
+Population
+Inclusion: adult patients who were unconscious (GCS < 8) on admission to hospital after OOH cardiac arrest of presumed cardiac cause.
+Exclusion: > 6 hours from ROSC to enrolment screening, unwitnessed arrest with systole, hypothermia < 30°C, suspected or known intracranial haemorrhage.
+950 patients enrolled
+Intervention
+28 hours of temperature management with a target of 36°C using invasive or surface cooling, followed by gradual warming to 37°C at 0.5°C per hour and avoidance of pyrexia for 72 hours from randomisation.
+4 patients did not receive this intervention as assigned
+Control
+28 hours of temperature management with a target of 33°C using invasive or surface cooling, followed by gradual warming to 37°C at 0.5°C per hour and avoidance of pyrexia for 72 hours from randomisation
+3 patients did not receive this control as assigned
+Outcome
+Primary outcome: There was no difference in all-cause mortality through to the end of the trial (mean follow-up period was 256 days).
+48% had died in the 36°C group and 50% had died in the 33°C group.
+The hazard ratio for death was 1.06 for cooling to 33°C (CI 0.89 to 1.28; p=0.51)
+Secondary outcome: There were no differences between the groups regarding their neurological status (modified Rankin scale or Cerebral Performance Category).
+Authors’ Conclusions
+This trial does not provide evidence that targeting a body temperature of 33°C confers any benefit for unconscious patients admitted to the hospital after out-of-hospital cardiac arrest, as compared with targeting a body temperature of 36°C.
+Strengths
+Highly relevant clinical question
+Well designed, pragmatic methodology
+Objective outcomes assessed by blinded external physicians
+Intention-to-treat analysis with minimal drop-out / loss-to-follow-up
+Weaknesses
+Not generalisable to arrests with long or unknown ‘down-time’
+Unwitnessed arrests with systole as initial rhythm were excluded
+90% had bystander witness; 73% had bystander CPR
+Median time to basic life support was 1 minute!
+Median time to advanced life support was 9 and 10 minutes
+Median time to ROSC was 25 minutes
+Follow-up was relatively short-term; unclear if 36°C confers long-term neurological benefit or harm.
+Wide confidence intervals: with 95% certainty, true hazard ratio for 33°C could be anywhere between 0.89 (strong benefit) and 1.28 (strong harm).
+The Bottom Line
+This trial has not shown any benefit of therapeutic hypothermia at 33°C over 36°C after OOH cardiac arrest. Not everyone agrees this is the same as “36°C is equivalent to 33°C”.
+My conclusion: if cooling a patient to the conventional 33°C induces unwanted effects, aim for 36°C instead and it
+probably
+will make no difference to the patient’s outcome.
+Links
+Full text pdf not available without subscription /
+abstract
+/ doi: 10.1056/NEJMoa1310519
+Editorial or Commentaries
+So many to choose!
+Simon Carley at St Emlyn’s Blog:
+JC: What’s the target temperature for OOHCA cooling. St.Emlyn’s
+EmCrit Blog:
+Five Minutes with Jon Rittenberger on the TTM Trial
+Rittenburger.
+Temperature Management and Modern Post–Cardiac Arrest Care.
+NEMJ 2013;369:2262-3.
+ILCOR interim statement:
+Targeted temperature management following cardiac arrest: an update
+Metadata
+Summary author:
+@DuncanChambler
+Summary date: 1 May 2014
+Peer-review editor:
+@stevemathieu75
+(DOI: at local institution we have opted for 36°C)

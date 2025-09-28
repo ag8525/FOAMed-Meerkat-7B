@@ -1,0 +1,97 @@
+---
+source: The Bottom Line
+title: DETO2X-AMI (Oxygen Therapy in Suspected Acute Myocardial Infarction)
+original_url: https://www.thebottomline.org.uk/summaries/icm/deto2x-ami/
+scrape_date: 2025-07-17
+summary_author: Aidan Burrell
+summary_date: 2017-09-22
+peer_review_editor: Segun Olusanya
+summary: |
+  The DETO2X-AMI trial investigated the impact of supplemental oxygen therapy versus room air on all-cause mortality at one year in normoxic patients with suspected acute myocardial infarction (AMI). Conducted across 35 Swedish hospitals, this large, multicenter, randomized controlled trial enrolled 6600 patients and found no significant difference in mortality between the oxygen and room air groups. The study's primary outcome showed a hazard ratio of 0.97, indicating no mortality benefit from oxygen therapy. Secondary outcomes, including rehospitalization rates and troponin levels, also showed no significant differences. Despite the trial's strengths, such as its size and design, limitations included minimal oxygen saturation separation between groups and potential confounding from the use of face masks. The findings suggest that routine oxygen therapy in normoxic AMI patients is unwarranted, aligning with other studies that Point the benefit and highlight potential harm.
+
+---
+
+# Oxygen Therapy in Suspected Acute Myocardial Infarction (DETO2X-AMI Trial)
+
+## Clinical Point
+In patients with suspected myocardial infarction without baseline hypoxia, does oxygen therapy compared to room air improve all-cause mortality at 1 year?
+
+## Background
+Supplemental oxygen is commonly administered during acute myocardial infarction (AMI) based on the belief that it enhances oxygen delivery to ischemic myocardium, potentially reducing infarct size and complications. However, some studies suggest that oxygen may be harmful, increasing coronary vasoconstriction and free radical production. The AVOID trial indicated that oxygen could increase myocardial infarct size in STEMI patients. This study investigates whether supplemental oxygen improves outcomes in normoxic patients with suspected AMI.
+
+## Design
+- Investigator-initiated, multicenter, open-label, parallel-group, randomised controlled trial
+- Enrolment and data collection through the SWEDEHEART registry
+- 1:1 unrestricted computer-generated randomisation
+- Treating physicians and patients not blinded; assessors blinded
+- Sample size: 6600 patients (3300 per group) to detect a 20% reduction in mortality
+- Modified intention-to-treat analysis
+- Kaplan-Meier and Cox proportional-hazards models analysis
+
+## Setting
+- 35 Swedish hospitals
+- Study period: April 2013 to December 2015
+
+## Population
+
+**Inclusion Criteria:**
+- Adults >30 years old with symptoms suspicious for AMI
+- Oxygen saturation ≥90% on pulse oximetry
+- Symptoms: chest pain or shortness of breath <6 hours, with ECG changes or elevated cardiac troponins
+
+**Exclusion Criteria:**
+- Already receiving oxygen ≥20 minutes
+- Post-cardiac arrest
+- Non-consenting patients
+
+**Enrollment:**
+- 6600 patients randomised
+
+## Intervention
+
+**Oxygen Group:**
+- Supplemental oxygen (6 L/min for 6-12 hours) via open face mask
+
+## Control
+
+**Room Air Group:**
+- Room air (no face mask)
+- Both groups received additional oxygen if saturation <90%
+- Other treatments at clinician’s discretion
+
+## Outcomes
+
+### Primary Outcome
+- No difference in all-cause mortality at 1 year:
+  - Oxygen: 166/3311 (5.0%)
+  - Room air: 168/3318 (5.1%)
+  - Hazard ratio: 0.97 (95% CI: 0.79–1.21); p = 0.80
+
+### Secondary Outcomes
+- No difference in rehospitalisation at 1 year
+- No difference in median troponin peak
+- Oxygen group had fewer inotropes initiated and fewer hypoxia episodes
+
+## Authors’ Conclusions
+Routine supplemental oxygen in normoxic patients with suspected AMI does not reduce 1-year all-cause mortality.
+
+## Strengths and Weaknesses
+- **Strengths**
+  - Largest trial to date on oxygen therapy in suspected AMI
+  - Multicenter, randomised controlled design minimises bias
+  - Patient-centered outcomes (mortality and rehospitalisation)
+  - Novel RCT design embedded in a registry
+- **Weaknesses**
+  - Minimal separation in oxygen saturation between groups (97% vs 99%)
+  - Intervention included a face mask, potentially introducing confounding
+  - Lack of blinding for patients and clinicians
+  - Potential type II error due to overestimated baseline mortality in power calculation
+  - Limited follow-up data compared to other studies
+
+## Bottom Line
+This large trial indicates that supplemental oxygen does not improve outcomes in normoxic patients with suspected AMI. Combined with other studies suggesting potential harm and cost considerations, routine oxygen therapy in this population is not warranted. Updated guidelines are anticipated.
+
+## External Links
+- **Abstract:** [Oxygen Therapy in Suspected Acute Myocardial Infarction – NEJM 2017](https://www.nejm.org/doi/full/10.1056/NEJMoa1706222)
+- **Further Reading:** TBL: Air Versus Oxygen in ST-Segment Elevation Myocardial Infarction (AVOID) – JAMA 2015
+```

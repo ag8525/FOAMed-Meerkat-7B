@@ -1,0 +1,488 @@
+```yaml
+title: "CrackCast Episode 170: Pediatric Fever"
+url: "https://canadiem.org/crackcast/"
+date: 2018-04
+source: "CanadiEM – CrackCast"
+original_file: "CC-E170 Fever-.pdf"
+summary: "Will be added later"
+```
+
+## Overview
+
+### Key Concepts
+
+- Fever is the #1 reason kids are brought to the ED!
+- Vaccination (for Haemophilus influenzae type b and Streptococcus pneumoniae) has dropped the rates of serious bacterial illness. Serious bacterial illness (SBI) must be considered in the under-vaccinated or unvaccinated child.
+- Viruses cause the vast majority of childhood febrile illnesses and are generally self-limited and benign.
+- SBI is growth of pathogenic bacteria in a previously sterile site, such as urinary tract infection (UTI), bacteremia, meningitis, osteomyelitis, bacterial gastroenteritis, bacterial pneumonia, cellulitis, or septic arthritis.
+- The rate of SBI in infants younger than 3 months old presenting with fever is between 6% to 10%.
+- Infants 28 days old and younger are at much higher risk for bacterial illness with fever because of their immature immune systems and incomplete vaccination status, making aggressive evaluation of these children important.
+- Empirical treatment of febrile neonates is indicated and appropriate antibiotic regimens include ampicillin plus either gentamicin or cefotaxime, which cover the bacterial organisms likely in this age group.
+- Empirical treatment for herpes simplex virus (HSV) should be considered in any neonate with a maternal history of genital herpes, who appears ill, presents with fever and seizure, has cutaneous vesicles on physical examination, or evidence of transaminitis or coagulopathy.
+- The most common cause of SBI in children continues to be UTI, and the only reliable method to obtain urine in a non–toilet-trained infant is bladder catheterization or suprapubic aspiration when a catheter sample cannot be obtained.
+- Bacterial meningitis can occur at any age but most commonly presents in a relatively small proportion of febrile infants younger than 3 months old (3/1000).
+- Respiratory syncytial virus (RSV) and influenza are common viral causes of fever and respiratory distress in infants, although the presence of viral infection does not lower the risk of concomitant SBI in children younger than 28 days old.
+- In older infants and children, the documented presence of RSV or influenza significantly reduces the incidence of SBI and can be used to modify the evaluation. Because UTI is still common in this population, a urinalysis should be obtained.
+- There are several risk-stratification strategies (i.e., Boston, Rochester, and Philadelphia criteria) reported in the literature that have similar performance characteristics. All involve a laboratory evaluation designed to identify a subset of febrile infants younger than 3 months old that can safely be managed as outpatients with or without antibiotics.
+- Standardization and adoption of a clinical practice guideline for the evaluation of the febrile infant has been shown to reduce variation and cost.
+- Due to universal vaccination against pneumococcus, the evaluation of highly febrile children 3 to 36 months old has evolved from one of universal screening for occult bacteremia to one where clinical gestalt determines the need for blood work.
+- Inflammatory markers, such as C-reactive protein (CRP) and procalcitonin, have been shown to predict bacterial illness in febrile children more accurately than the white blood cell (WBC) count but cannot be relied upon solely to rule out SBI. Don’t hang your hat on them!
+- Traumatic lumbar punctures occur relatively commonly in young infants and can make interpretation of cell counts difficult and use of various formulas to account for the protein and WBCs in the cerebrospinal fluid (CSF) after a traumatic tap should be used with caution.
+- The risk of meningitis is exceedingly low in well-appearing children after a simple febrile seizure and lumbar puncture is not recommended.
+- Children presenting with fever and petechiae are at risk for infection with meningococcus; blood should be obtained for complete blood count (CBC) and culture and if available CRP or procalcitonin. Children with abnormal CRP or elevated or depressed WBC count, or with bandemia should be treated with parenteral antibiotics and admitted. Lower risk, well-appearing children with normal laboratory parameters can be considered for close outpatient follow-up.
+- Children with fever who also are receiving cytotoxic chemotherapy for cancer are at high risk for bacteremia and sepsis and should receive prompt broad-spectrum antibiotic therapy after appropriate diagnostic evaluation (at the minimum, a CBC and blood culture).
+- Patients with fever and a history of sickle cell disease are at risk for bacteremia from encapsulated organisms due to functional asplenia and should be considered high risk and should be admitted and treated.
+
+### Rosens in Perspective
+
+- When it comes to dealing with pediatric fever, we usually break down kids into four age ranges:
+  - 0-28 days
+  - 1-3 months
+  - 3-36 months
+  - > 3 years
+- These divisions reflect vaccination milestones and age-specific pathogens.
+
+## Core Questions
+
+### 1. List 10 non-infectious causes of fever in children
+
+Break this down into categories:
+- Infectious - viral/bacterial/fungal
+- NON-infectious:
+  - Drugs:
+    - Overdoses that uncouple oxidative phosphorylation
+      - Salicylates
+      - Iron
+    - Sympathomimetics / MDMA
+    - MH
+    - NMS
+    - Serotonin syndrome
+  - Metabolic
+    - Leukemia
+    - Lymphoma
+    - Neuroblastoma
+    - Wilms tumor
+    - Juvenile RA
+    - Kawasaki’s disease
+    - Vasculitides
+    - Hyperthyroidism
+  - Environmental
+    - Bundling
+    - Hot environment
+  - Structural
+    - Central stroke/brain tumor
+    - CNS hemorrhages usually cause hyperpyrexia (>41.5°C)
+
+### 2. List 3 bacterial pathogens responsible for infections in the following age groups
+
+Here we worry about SBI:
+- Serious bacterial illness (SBI) is pathogenic bacteria in a previously sterile site and includes urinary tract infection (UTI), bacteremia, meningitis, osteomyelitis, bacterial gastroenteritis, bacterial pneumonia, cellulitis, and septic arthritis.
+- The risk of SBI in febrile infants younger than 3 months old with a temperature of 100.4°F (38.0°C) or greater is between 6% and 10%; children younger than 28 days old have the highest incidence.
+- In all children younger than 3 months old, the urinary tract is the most common site of infection, followed by bacteremia and meningitis.
+
+a. 0-28 days
+   - GBS, Listeria, E. Coli
+b. 1-3 months
+   - H.flu; pneumococcus, meningococcus, E. coli
+c. 3-36 months
+   - Same as above, less Hflu.
+d. > 3 years
+   - Same as above, but add in Group A Strep.
+
+### 3. List 5 tests to perform on CSF
+
+A sample of cerebrospinal fluid (CSF) should be obtained from any child with signs and symptoms of meningitis. Fluid should be obtained with the smallest pencil-point or non-cutting spinal needle possible (typically a 22-gauge spinal needle) and sent for:
+- Cell counts & manual differential diagnosis
+- Gram staining
+- Culture
+- Measurement of CSF protein and glucose concentrations
+- HSV PCR testing
+
+50% of children with meningitis will not have bacteremia.
+
+“Meningoencephalitis due to HSV is a potential cause of fever, particularly in children; if suspected, CSF should be sent for HSV polymerase chain reaction (PCR) testing.”
+
+Children without any of the following criteria have a low risk (0.1%) of bacterial meningitis:
+- Positive CSF Gram stain
+- CSF ANC of 1000 cells/mL or more
+- CSF protein concentration of at least 80 mg/dL
+- Peripheral blood ANC of 10,000 cells/mL or more
+- History of seizure before or at the time of presentation
+
+“Contraindications to lumbar puncture include cellulitis over the proposed site of puncture, cardiopulmonary instability, bleeding diathesis, or platelet count below 50,000/μL, focal neurologic deficits, and signs of increased intracranial pressure, including papilledema.”
+
+### 4. Describe the empiric management of fever in the neonate (0-28 days)
+
+“Children presenting with temperature of 100.4°F (38.0°C) or higher who are younger than 28 days old are at particularly high risk for bacterial illness, with rates as high as 12%.”
+
+EVEN if the child appears well.
+
+Besides fever, other signs of serious illness include:
+- Bulging fontanel
+- Mottled extremities
+- Petechiae
+- Tachypnea
+
+Bacterial pathogens in this age group include group B streptococcus, L. monocytogenes, N. meningitidis, S. pneumoniae, and E. coli. Viral pathogens include RSV and HSV.
+
+- Ampicillin (100 mg/kg/24 hours divided every 6 hours)
+  - First dose: 50-100 mg/kg dose
+- Plus either:
+  - Gentamicin (5 mg/kg/24 hours divided every 8 to 12 hours)
+  - Or
+  - Cefotaxime (150 mg/kg/24 hours divided every 8 hours)
+    - First dose: 100 mg/kg dose
+- Empirical acyclovir should be added if risk factors for HSV disease exist (60 mg/kg/24 hours divided every 8 hours).
+  - First dose: Body weight >2 kg: IV: 20 mg/kg/dose every 8 hours
+
+Indications for coverage for HSV:
+- Maternal history of genital herpes
+- Ill appearing
+- Fever + seizure
+- Cutaneous vesicles
+- Transaminitis or coagulopathy
+
+“Other noninfectious causes of a septic-appearing neonate include the acute salt-wasting crisis associated with congenital adrenal hyperplasia and undiagnosed ductal-dependent congenital heart disease.”
+
+### 5. Why is ceftriaxone not recommended for the neonate?
+
+Bilirubin displacement!
+
+Ceftriaxone should be avoided in infants younger than 28 days old because of a theoretic risk of inducing acute bilirubin encephalopathy as ceftriaxone causes bilirubin to be displaced from its protein binding sites.
+
+### 6. Describe one of: Rochester vs. Philadelphia criteria
+
+As soon as the >28 dayer looks ill - all bets are OFF and need a full septic workup with empiric antibiotics {that’s the textbook answer, anyway}
+
+Ampicillin, 50 to 100 mg/kg every 6 hours, plus cefotaxime, 50 mg/kg every 8 hours parenterally, is one option. Vancomycin, 10 to 20 mg/kg IV every 6 to 8 hours, should be considered if S. pneumoniae resistant to penicillins and cephalosporins is suspected.
+
+Again, these criteria are strategies are used to evaluate WELL-APPEARING INFANTS. To be low risk, the child had to have been previously healthy with an uncomplicated nursery stay, to be nontoxic clinically, and to have no focal source of bacterial infection.
+
+Overall, antibiotics should not be administered unless a complete sepsis evaluation is performed, including a lumbar puncture. Or you may be committing an infant with a URTI to 14 days of admission and IV abx. The various criteria developed to define low-risk populations of febrile young infants all perform similarly and emphasizing consistent use of a set of criteria is more critical than which set of criteria are used.
+
+#### The Rochester criteria
+
+Avoids the LP in an infant who looks well.
+
+To be low risk, the child had to have been previously healthy with an uncomplicated nursery stay, to be nontoxic clinically, and to have no focal source of bacterial infection.
+
+Notes on stool studies:
+Stool studies are indicated in patients in whom bacterial gastroenteritis may be a cause of fever. A stool guaiac test for blood as well as Gram stain for WBCs should be performed. Presence of more than 5 WBCs per high-power field in the stool of a febrile child should trigger a culture of stool for Salmonella, Shigella, Campylobacter, enterotoxigenic E. coli, and Yersinia species. Patients with sickle cell disease are at particular risk for focal osteomyelitis from Salmonella.
+
+#### Philadelphia Criteria
+
+Table 166.2: Summary of Major Strategies for the Management of Febrile Infants Younger Than 3 Months Old
+
+| Criteria       | Philadelphia          | Rochester          |
+|----------------|-----------------------|--------------------|
+| Age            | 29 to 60 days old     | <60 days old       |
+| Temperature    | >100.8°F (38.2°C)     | >100.4°F (38.0°C)  |
+| Examination    | Well, no focus        | Well, no focus     |
+| Laboratory     | WBCs >15,000/mm3      | WBCs 5000 to 15,000/mm3 |
+| Band/neutrophil ratio | <0.2           | Absolute band count <1500 |
+| UA             | <10 WBCs/hpf (negative Gram stain) | <10 WBCs/hpf |
+| CSF            | <8 WBCs/hpf (negative Gram stain) | NA (no lumbar puncture is indicated) |
+| Stool          | <5 WBCs/hpf (if obtained) | ≤5 WBCs/hpf smear (if indicated) |
+| High risk      | Admission + IV antibiotics | Admission + IV antibiotics |
+| Low risk       | Home, no antibiotics  | Home, no antibiotics |
+| Performance    | Sensitivity 98% (92% to 100%) | Sensitivity 92% (83% to 97%) |
+| Specificity    | 42% (38% to 46%)      | 50% (47% to 53%)   |
+| PPV            | 14% (11% to 17%)      | 12% (10% to 16%)   |
+| NPV            | 99.7% (98% to 100%)   | 98.9% (97% to 100%)|
+
+Nowadays the approach to the febrile infant is more nuanced. Check out this Uptodate topic: [Here](http://www.uptodate.com)
+
+### 7. Define simple and complex febrile seizure. What are indications for LP?
+
+Febrile seizures are a common cause of convulsions in children younger than 5 years old. They are defined as a seizure accompanied by fever without the presence of CNS infection. They typically occur in infants and children 6 months to 5 years old. It is thought that the at-risk period is the rapid rise or defervescence of a fever, rather than the absolute height of the fever. (probably can’t be prevented by giving antipyretics!)
+
+#### Simple
+
+- < 15 min in duration!
+- Single seizure in 24 hrs
+- Nonfocal, generalized tonic-clonic seizure
+
+#### Complex
+
+- >15 mins
+- Focal seizure
+- > 1 seizure in 24 hrs
+- Occurring < 6 months or >5 yrs of age
+
+#### Indications for LP
+
+AAP suggests that a lumbar puncture be performed in:
+1. Any child with signs of meningeal irritation after the first febrile seizure and
+2. Be considered in symptomatic children who are incompletely immunized
+3. Or have received prior antibiotic therapy.
+
+Retrospective studies have shown that the incidence of meningitis after the simple or complex febrile seizures is exceedingly low and that infants with meningitis will demonstrate signs of sepsis or meningitis after the seizure, making empirical lumbar puncture based solely on a febrile seizure unnecessary.
+
+[What about EEG’s and MRI’s?]
+Routine referral for neuroimaging or electroencephalography is not indicated.
+
+There is also no role for antiepileptic therapy after a single febrile seizure.
+
+### 8. What is the likelihood of a) recurrent febrile seizure after 1st presentation; and b) risk of epilepsy after first febrile seizure?
+
+#### Recurrent febrile seizure after 1st presentation
+
+Parents should be warned that recurrence is common and is inversely related to age of first febrile seizure and height of the fever. Overall 33% of children who have a febrile seizure will have another one, and that 75% of these will occur within a year.
+
+If the child is younger than 1 year old, the recurrence is 50%, and children presenting with temperatures of 101.3°F (38.5°C) have a 35% chance of recurrence versus 13% at 104°F (40°C). (seems counter-intuitive!)
+
+#### Risk of epilepsy after first febrile seizure
+
+The risk of epilepsy in the general population is thought to be 0.5% to 1%, whereas the risk in a patient who has had a febrile seizure is 1% to 2%.
+
+### 9. List 6 causes of Fever and Petechiae
+
+1. Meningococcemia
+2. Pneumococcemia (pneumococcal bacteremia)
+3. Toxic shock syndrome
+4. Necrotizing fasciitis
+5. RMSF
+6. Bacterial endocarditis
+7. DIC
+8. Miliary tuberculosis
+9. Vasculitis - lupus
+10. ITP
+11. HSP
+12. Leukemia
+13. HIV
+
+The differential diagnosis of fever and petechiae also includes disseminated intravascular coagulation, Rocky Mountain spotted fever, pneumococcal bacteremia, Streptococcus pyogenes infection, various viral infections, idiopathic thrombocytopenic purpura, Henoch-Schönlein purpura, and leukemia. Petechiae can also be caused mechanically from a tourniquet, retching, or violent coughing. Petechiae due to vomiting or coughing are typically confined to the skin above the nipple line.
+
+### 10. Describe the criteria for the diagnosis of Toxic Shock Syndrome
+
+“TSS refers to the toxin-mediated clinical syndrome that occurs from Staphylococcus aureus, although a similar illness is caused by group A streptococcus. The toxin implicated in TSS is an exotoxin termed TSS toxin 1. The syndrome is classically associated with tampon use by menstruating women, although cases also occur in males and prepubertal girls from other sources of infection with S. aureus.”
+
+Clinical manifestations of TSS include fever (>102°F [38.9°C]), hypotension, diffuse erythroderma, and multisystem involvement.
+
+Treatment of TSS involves fluid resuscitation, because these patients typically have immense requirements and antistaphylococcal antibiotic therapy with clindamycin (25 to 40 mg/kg per day in three divided doses) and vancomycin (40 mg/kg per day IV in four divided doses).
+
+#### Box 166.1 (9th Ed.): Centers for Disease Control and Prevention Case Definition for Toxic Shock Syndrome
+
+- Fever: Temperature >102°F (38.9°C)
+- Hypotension: Systolic blood pressure 90 mm Hg for adults or less than fifth percentile by age for children <16 years old; orthostatic drop in diastolic blood pressure by 15 mm Hg
+- Orthostatic syncope or dizziness
+- Diffuse erythroderma
+- Desquamation: 1 to 2 weeks after onset of illness, particularly involving palms and soles
+- Multisystem involvement (three or more of the following organ systems):
+  - Gastrointestinal: Vomiting or diarrhea at onset of illness
+  - Muscular: Severe myalgia or creatine kinase elevation more than two times the normal upper limit
+  - Mucous membranes: Vaginal, oropharyngeal, or conjunctival hyperemia
+  - Renal: Blood urea nitrogen or serum creatinine more than two times the normal upper limit, or pyuria (>5 WBCs/high-power field)
+  - Hepatic: Bilirubin or transaminases more than two times the normal upper limit
+  - Hematologic: Platelets <100,000/L
+  - CNS: Disorientation or alterations in consciousness without focal neurologic signs in the absence of fever and hypotension
+- Negative results on the following tests, if obtained:
+  - Blood, throat, or CSF cultures for another pathogen (blood cultures may be positive for Staphylococcus aureus)
+  - Serologic tests for Rocky Mountain spotted fever, leptospirosis, or measles
+- Criteria for a probable case include a patient with temperature >102°F (38.9°C), hypotension, diffuse erythroderma, desquamation (unless the patient dies before desquamation can occur), and involvement of at least three organ systems. A probable case is a patient who is missing one of the characteristics of the confirmed case definition.
+
+### 11. What sickle cell patients require prophylaxis and why? What Abx?
+
+Febrile children with sickle cell disease are at particular risk for overwhelming infection. In fact, infection is the most common cause of sickle cell–related death, occurring in up to 40% of patients with sickle cell disease who die. (they have functional asplenia due to frequent splenic infarctions).
+
+They are at risk for infection with encapsulated organisms, including S. pneumoniae and H. influenzae.
+
+Because of this risk of bacterial disease, it is recommended that all children with sickle cell disease be completely immunized.
+
+That’s why any young (<5 yrs old) febrile child should receive prophylactic antibiotics. If they are older and have a history of severe pneumococcal infections or splenectomy - they should still receive antibiotic prophylaxis.
+
+The dose of penicillin is 125 mg orally twice daily until 3 years old (at about 14 kg) and 250 mg orally twice daily after 3 years old.
+
+Sickle cell patients are at particular risk for Salmonella osteomyelitis. All patients presenting with a temperature higher than 100.4°F (38.0°C) and sickle cell disease should have a blood specimen drawn for CBC, reticulocyte count, and culture. A reticulocyte count is important, because many infections (e.g., parvovirus B19) can induce life-threatening aplastic crisis. Infection also predisposes children with sickle cell disease to acute chest syndrome.
+
+Osteomyelitis typically is manifested with fever and bone pain. As patients with sickle cell disease may have frequent bone pain due to vaso-occlusive crisis, the diagnosis often can be difficult. All patients should have a blood specimen drawn for CBC with differential diagnosis, erythrocyte sedimentation rate, and culture; a radionuclide bone scan or magnetic resonance imaging (MRI) may help localize the infection. If Salmonella infection is suspected, a stool sample should be sent for culture.
+
+### 12. List the Duke criteria for infectious endocarditis
+
+See Box 166.2 (9th Ed.)
+
+Mnemonic: Bacterial Endocarditis FIVE PM
+
+#### Major Criteria
+
+- B: Blood culture +ve
+  1. Typical micro-organisms in 2 separate cultures or
+  2. Persistently +ve blood cultures drawn 12 hours apart or
+  3. Single +ve blood culture for Coxiella burnetii
+- E: Endocardial involvement
+  1. +ve echocardiogram (vegetation, abscess or valve dehiscence) or
+  2. New valvular regurgitation
+
+#### Minor criteria
+
+1. Fever > 38°C
+2. Immunologic phenomena (glomerulonephritis, Osler’s nodes, Roth’s spots, Rheumatoid factor)
+3. Vascular phenomena (major arterial emboli, septic pulmonary infarcts, mycotic aneurysm, intracranial hemorrhage, conjunctival hemorrhage, Janeway lesions)
+4. Echocardiographic findings (suggestive but not definitive)
+5. Predisposing (heart condition or IV drug user)
+6. Microbiologic evidence (Positive blood culture but not meeting major criteria)
+
+Definitive Diagnosis requires 2 Major or 3 Minor + 1 Major or 5 Minor
+
+## Wisecracks
+
+### 1. Provide a differential diagnosis for fever (review question)
+
+- Infectious - viral/bacterial/fungal
+- NON-infectious:
+  - Drugs:
+    - Overdoses that uncouple oxidative phosphorylation
+      - Salicylates
+      - Iron
+    - Sympathomimetics / MDMA
+    - MH
+    - NMS
+    - Serotonin syndrome
+  - Metabolic
+    - Leukemia
+    - Lymphoma
+    - Neuroblastoma
+    - Wilms tumor
+    - Juvenile RA
+    - Kawasaki’s disease
+    - Vasculitides
+    - Hyperthyroidism
+  - Environmental
+    - Over bundling/overdressing the neonate
+    - Hot environment
+  - Structural
+    - Central stroke/brain tumor
+    - CNS hemorrhages usually cause hyperpyrexia (>41.5°C)
+
+### 2. Which patients are excluded from the Rochester Criteria?
+
+These are higher risk features that either require a FSW or high-risk management.
+- Insufficient data on history or physical or labs
+  - Of note some red flag historical features that sometimes may be overlooked: these patients are not low risk; they would be defined as high risk if any of these are present.
+    - < 37 weeks gestation
+    - Received perinatal antibiotics
+    - Treated for unexplained hyperbilirubinemia
+    - Received any antimicrobial agents
+    - Previously hospitalized
+    - Chronic or underlying illness
+    - Hospitalized longer than mother
+- Unwell appearing
+
+### 3. What are the low-risk Rochester Criteria, and how are these children managed?
+
+#### Low risk
+
+- Age: ≤ 60 days
+- Temp: ≥38.0°C
+- History:
+  - Term infant
+  - No perinatal antibiotics
+  - No underlying disease
+  - Not hospitalized longer than the mother
+- Physical exam:
+  - Well appearing
+  - No sign of focal infection (middle ear, soft tissue, bone/joint)
+- Lab parameters:
+  - CSF: NA (no lumbar puncture is indicated)
+  - WBC >5000 and <15,000/mm3
+  - ABC <1500
+  - UA ≤10 WBCs/hpf
+  - Stool: ≤5 WBCs/hpf smear (if indicated)
+
+#### Management
+
+- Home/outpatient
+- No antibiotics
+- Follow-up required
+
+### 4. Which age groups should always have a urinalysis when presenting with fever without source?
+
+KEY point:
+- ANY child < 2 months (no brainer!!)
+- < 3 years, > 39°C, NO apparent source of fever! (based on CPS recommendation)
+- Check out: [CPS Position Statement](https://www.cps.ca/en/documents/position/urinary-tract-infections-in-children#ref12)
+
+...but let’s dive into this...
+- Risk factors for UTIs:
+  - Most common cause of infection in children < 3 months
+  - More common in:
+    - White girls
+    - Higher prevalence in
+    - Age < 2
+    - Absence of another apparent source
+    - Fever > 39 degrees
+    - Uncircumcised boys
+
+- Risk for UTI:
+
+The rate in uncircumcised febrile boys <3 months of age was 20.7% compared with 2.4% in circumcised boys, declining to 7.3% and 0.3%, respectively, in boys six to 12 months of age. However, contamination is very common in obtaining a urine sample from a male when the foreskin cannot be retracted and the rates in uncircumcised males are, undoubtedly, overestimates. In febrile girls, approximately 7.5% <3 months of age, 5.7% three to six months of age, 8.3% six to 12 months of age and 2.1% 12 to 24 months of age had a UTI as the cause of their fever. From: [CPS Position Statement](https://www.cps.ca/en/documents/position/urinary-tract-infections-in-children)
+
+So in summary:
+- CPS recommendation:
+  - “As previously recommended by the CPS, a urinalysis and urine culture should be obtained from children <3 years of age with a fever (>39.0°C rectal) with no apparent source.”
+    - From: [CPS Position Statement](https://www.cps.ca/en/documents/position/urinary-tract-infections-in-children)
+    - A child with rhinitis, cough, wheezing, rash or diarrhea is likely to have a viral infection as the source of fever and need not be investigated for a UTI.
+  - For children ≥3 years of age, the presence of urinary symptoms (dysuria, urinary frequency, hematuria, abdominal pain, back pain or new daytime incontinence) can be used as a criterion for requesting a urinalysis and culture. Be wary that prepubertal girls can develop dysuria and a red vulva from poor hygiene or exposure to bubble bath or other irritants; urine cultures will be sterile but this problem is often inappropriately treated as a UTI.
+  - Children <2 years of age should be investigated after their first febrile UTI with a renal and bladder ultrasound (RBUS) to identify significant renal abnormalities and grade IV or V VUR. A voiding cystourethrogram (VCUG) is not indicated with a first febrile UTI when the RBUS is normal.
+
+- We’d suggest shared decision making with the parents, and consideration of:
+
+What are we actually worried about:
+- Potential harm of not diagnosing an episode of UTI: [check out uptodate articles on the subject or reference (1)]
+  - UTI becoming bacteremia and the child becoming sicker
+  - Renal damage
+    - No studies to suggest development of ESRD, 6% risk of decrease in GFR in high-risk girls (in one study: PMID 8703696)
+  - Chronic bacteriuria, recurrent cystitis, or progression to upper urinary tract disease
+- Can the patient have follow-up if the UA is -ve but the UCx is +?
+- Parental views re: catheterization
+- Harm of a false positive
+- Cost
+- Benefits of early treatment
+- Is the patient IMMUNOCOMPROMISED?
+  - Much higher risk of viral causes of UTI (adenovirus, BK virus), funguria
+  - Need for surgical intervention:
+    - (e.g., diverting nephrostomy, bladder fulguration cystoscopy, removal of bladder clots)
+
+(1) Childhood urinary tract infections as a cause of chronic kidney disease. Salo J, Ikäheimo R, Tapiainen T, Uhari M Pediatrics. 2011;128(5):840. PMID 21987701
+
+Check out the Gorelick score for “ruling out screening for UTI” in girls < 24 months: [Gorelick Score](http://www.meducator3.net/algorithms/content/decision-rule-gorelick-and-shaw-when-screen-young-girl-urinary-tract-infection)
+
+Currently, the rate of occult bacteremia is less than 1%, with pathogens such as N. meningitidis becoming proportionally more prevalent. Urinary pathogens, occurring in 5% of febrile children younger than 2 years old, continue to be an important source of bacterial illness in infants and children. Risk factors include female sex, absence of another apparent source of infection, fever higher than 102.2°F (39.0°C), white race, and for boys, uncircumcised status.
+
+*Defervescence after acetaminophen administration has not been shown to reliably exclude bacteremia in children of any age.*
+
+Bag collection of urine is notoriously unreliable; up to 85% of cultures from bag specimens will be falsely positive (defined as a culture growing a single organism with >105 colony-forming units [CFUs]/mL or a mix of two or more organisms), which then places these children at risk for unneeded, potentially painful, and expensive follow-up diagnostic testing and antibiotics.
+
+### 5. Which children should have a CXR to r/o pneumonia in the setting of fever without source?
+
+- Very high WBC (> 25,000)
+- Hypoxemia
+- Respiratory distress
+- Tachypnea
+- Focal lung findings on auscultation
+- High fever > 39°C and an elevated ANC*
+
+*Since the advent of universal vaccination, the number of occult pneumonias has declined (15% to 9%) but is not yet low enough to recommend not obtaining radiographs on highly febrile children with leukocytosis or elevated ANC and no other apparent source of infection.
+
+### 6. What is the risk of SBI in children less than 3 months with an apparent viral syndrome?
+
+This has been studied (by Levine) in children < 60 days old:
+- Those with temp > 38 and 22% positive for RSV:
+  - Overall, children with documented RSV had a lower incidence of concomitant SBI than did those without RSV (12.5% vs. 7%), there was no significant difference in rates of SBI in children younger than 28 days old (14.2% in RSV-negative neonates vs. 10.1% in RSV-positive infants). Most of the bacterial infections were UTIs.
+- In older children > 3 months with viral syndromes:
+  - In over 1300 patients with temperature above 102.2°F (39.0°C) who had a recognizable viral syndrome, the risk of bacteremia was 0.2%.
+
+In another study:
+- A large multicenter trial of febrile infants less 60 days old revealed a decreased risk (2.5% vs. 11.7%) if the infant was influenza positive.
+
+“Based on this data, it is reasonable to consider a selective, de-escalated evaluation (i.e., urine and urine culture) of well-appearing infants who have positive viral testing in the ED given the exceedingly low rates of bacteremia and meningitis. Ill-appearing infants or neonates (28 days old and younger) should still undergo a full evaluation for SBI.”
+
+Reference: Levine DA, Platt SL, Dayan PS, et al: Risk of serious bacterial infection in young febrile infants with respiratory syncytial virus infections. Pediatrics 113(6):1728–1734, 2004.
+
+## References
+
+- [CPS Position Statement on Urinary Tract Infections in Children](https://www.cps.ca/en/documents/position/urinary-tract-infections-in-children)
+- Levine DA, Platt SL, Dayan PS, et al: Risk of serious bacterial infection in young febrile infants with respiratory syncytial virus infections. Pediatrics 113(6):1728–1734, 2004.
+- Childhood urinary tract infections as a cause of chronic kidney disease. Salo J, Ikäheimo R, Tapiainen T, Uhari M Pediatrics. 2011;128(5):840. PMID 21987701
+- [Gorelick Score for UTI Screening](http://www.meducator3.net/algorithms/content/decision-rule-gorelick-and-shaw-when-screen-young-girl-urinary-tract-infection)
+```

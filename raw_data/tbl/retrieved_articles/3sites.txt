@@ -1,0 +1,86 @@
+# Metadata
+- Source: The Bottom Line
+- Title: 3Sites
+- Original URL: https://www.thebottomline.org.uk/summaries/icm/3sites/
+- Scrape Date: 2025-07-17
+- Summary Date: AUTO_FILL_IF_AVAILABLE
+
+Intravascular Complications of Central Venous Catherization by Insertion Site
+JJ Parient et al. on behalf of 3SITES Study Group. 2015; NEJM 373:1220-1229
+Clinical Question
+In intensive care patients who require a central venous catheter (CVC), does the choice of insertion site affect the complication rates?
+Design
+Multi-centre, randomised-controlled trial
+Permuted-block randomisation
+subclavian, jugular or femoral vein
+“selective exhaustion” – if 3 venous sites available; randomised 1:1:1, if 2 venous sites available; randomised 1:1
+Intention to treat analysis
+Sample size calculation based on major catheter-related complications between jugular and subclavian cannulation
+sample size per arm to achieve a power of 0.85 and a two-sided alpha risk of 0.05 was 813 in the 3-choice group
+Setting
+10 ICUs in France (4 university hospitals and 5 general hospitals)
+December 2011 – June 2014
+Population
+Inclusion: Patients over 18 years of age; required a non-tunnelled CVC during their ICU admission and considered by attending physician to be suitable for CVC insertion in at least 2 of the following 3 sites: subclavian, internal jugular and femoral veins
+Exclusion: only one suitable site for CVC insertion; catheter removal planned outside ICU; moribund patient
+7559 screened, 3471 catheter insertions randomised
+1016 subclavian, 1284 jugular and 1171 femoral
+Intervention
+CVC: subclavian (SC), internal jugular (IJ) or femoral line (F)
+Maximal sterile precautions using Seldinger technique
+Landmark or ultrasound guided technique, although the use of ultrasound was encouraged
+Landmark technique included the use of ultrasound to “mark and go”
+CXR performed in all patients who had a subclavian or jugular line
+Control
+No control
+Outcome
+Primary outcome:
+Composite measure of major CVC-related complications (CVC blood stream infection (CRBSI) and DVT with clinical signs) from catheter insertion to 48 hours after catheter removal
+CRBSI defined as positive catheter-tip colonisation by the quantitative method (>/= 103 CFU/ml) associated with one concordant peripheral positive blood culture (2 in case of skin contaminant) or positive differential time
+Deep venous thrombosis with clinical signs confirmed by ultrasound compression of the site by an experienced radiologist on the insertion site within 48 hours of catheter removal
+Significantly lower composite outcome measures in subclavian compared to jugular and femoral sites (event rate of 1.5, 3.6 and 4.6 per 1000 catheter days respectively)
+CRBSI
+F vs SC; hazard ratio 3.4 (CI 1.0-11.1) p-value 0.048
+IJ vs SC; hazard ratio 2.3 (CI 0.8-6.2) p-value 0.11
+F vs IJ; hazard ratio 0.9 (CI 0.5-1.8) p-value 0.81
+DVT
+F vs SC; hazard ratio 3.4 (CI 1.2-9.3) p-value 0.02
+IJ vs SC; hazard ratio 1.8 (CI 0.6-4.9) p-value 0.29
+F vs IJ; hazard ratio 2.4 (CI 1.1-5.4) p-value 0.04
+Secondary outcome:
+Incidence of catheter-tip colonisation
+Significantly lower in subclavian site
+F vs SC; hazard ratio 3.4 (CI 2.4-5.0) p-value <0.001
+J vs SC; hazard ratio 2.5 (CI 1.7-3.5) p-value <0.001
+Asymptomatic DVT detected by ultrasound within 48 hours of catheter removal
+In paired analysis, consistently favoured subclavian site
+F vs SC; hazard ratio 3.0 (CI 1.7-5.3) p-value <0.001
+J vs SC; hazard ratio 3.1 (CI 1.9-5.0) p-value <0.001
+Safety measures – rate of mechanical complications during insertion and follow-up
+Significantly higher in subclavian site compared to jugular and femoral sites (2.1%, 1.4% and 0.7% respectively); almost exclusively pneumotharaces
+Authors’ Conclusions
+The use of subclavian vein for CVC catheterisation was associated with a lower risk of the composite outcome of catheter-related blood stream infection and symptomatic deep-vein thrombosis but was associated with a higher risk of mechanical complications, primarily pneumothorax.
+Strengths
+Multi-centre
+Relevant to ICU practice with pragmatic protocol
+Intention to treat analysis
+Weaknesses
+Unblinded and clinicians discretion as to suitability of sites; the reason for subclavian site exclusion was risk of pneumothorax and bleeding unacceptable.
+The use of ultrasound was variable. Considered “landmark” even when US used to ‘mark and go’ as oppose to real-time guided
+Different antiseptic preparations and dressings used across participating sites
+Primary outcome a composite measure of CRBSI and DVT
+High rate of failure and crossover in subclavian site arm (14.7%)
+The Bottom Line
+This study confirmed conventional wisdom that the use of subclavian veins for CVC catheterisation was associated with low risk of infection but highest risk of pneumothoraces. However, in this study, the use of ultrasound for subclavian CVC was relatively low.
+This study has not changed my practice and I will continue using ultrasound guided internal jugular lines as my first choice technique. I would choose the femoral route over subclavian. If a subclavian line is needed, I would continue using ultrasound to guide insertion accepting that the risk might be higher.
+External Links
+[article]
+Intravascular Complications of Central Venous Catherization by Insertion Site
+[further reading]
+EMNerd: The case of the blind allocator
+Metadata
+Summary author:
+@avkwong
+Summary date: 28th October 2015
+Peer-review editor:
+@stevemathieu75

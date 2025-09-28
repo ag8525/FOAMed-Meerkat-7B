@@ -1,0 +1,76 @@
+---
+url: https://thesgem.com/2012/11/podcast-11-all-seizures-stop-eventually/
+title: "SGEM #11: All Seizures Stop…Eventually (Magnesium and Eclampsia)"
+date: 2012-11-11
+download_date: 2025-08-11
+summary: |
+  In the case of a 23-year-old pregnant woman presenting with seizures at 37 weeks gestation, the clinical scenario suggests eclampsia, a severe complication of pre-eclampsia characterized by hypertension and proteinuria. The recommended treatment to stop the seizure is magnesium sulphate (MgSO4), administered as a 4g IV loading dose followed by a 1g/hr infusion. This approach is supported by evidence from a Cochrane review, which demonstrated a 41% reduction in maternal death risk and a 57% reduction in seizure recurrence compared to diazepam. While the exact mechanism of MgSO4 in treating eclampsia is unclear, it is preferred over diazepam due to its efficacy and safety profile. Delivery of the baby remains the definitive treatment for pre-eclampsia and eclampsia, but MgSO4 is crucial for immediate seizure management and prophylaxis in severe pre-eclampsia cases.
+---
+
+**Case Scenario:**
+
+A healthy 23-year-old woman presents 37 weeks pregnant, seizing. She has no history of seizures, drugs, trauma, illness, etc. You are addressing the A, B, Cs and the nurses ask, "What med do you want to stop the seizure?"
+
+- Ativan 2mg IV
+- Diazepam 10mg IV
+- Phenytoin 20mg/kg IV
+- MgSO4 4g IV
+- Hide in Bathroom
+
+**Pre-Eclampsia:**
+
+High blood pressure in pregnancy is a leading cause of maternal and perinatal mortality and morbidity. Hypertension (HTN) represents a spectrum of possible disorders (pre-existing HTN, pregnancy-induced HTN, pre-eclampsia, and eclampsia).
+
+Pre-eclampsia is defined as HTN and proteinuria. Between 2-8% of pregnancies develop pre-eclampsia. Women who have HTN before they become pregnant have a 20% risk of developing pre-eclampsia.
+
+Hypertension in pregnancy is a diastolic BP >90mmHg measured twice. Systolic BP of >140mmHg should be followed closely for the development of diastolic HTN. Severe HTN is a diastolic BP>110mmHg or systolic BP >160mmHg.
+
+Protein in the urine is the other component to make the diagnosis of pre-eclampsia. You should strongly suspect proteinuria when the urinary dipstick is >2+. Proteinuria is defined as >0.3g/d in a 24-hour urine collection or >30mg/mmol urinary creatinine in a random urine sample.
+
+There are other clinical manifestations of pre-eclampsia of which none are specific:
+
+- Visual scintillations and scotomata (occipital cortical ischemia)
+- Persistent headaches (cerebral ischemia or edema)
+- Right upper quadrant pain (capsular irritation secondary to hepatic necrosis and/or hematoma)
+- Shortness of breath or chest pain (secondary to non-cardiogenic pulmonary edema)
+
+While pre-eclampsia is fairly common, eclampsia is a fairly rare complication. Interestingly, only 20% of women with eclampsia have documented HTN in the week before their seizure, 10% will only have proteinuria and 10% will have neither. Eclampsia typically occurs in the second half of pregnancy or during labor. However, it can still occur after the birth.
+
+**Point:**
+
+What is the better treatment for eclampsia, magnesium sulphate or diazepam?
+
+**Reference:**
+
+Duley L, Henderson-Smart DJ, Walker GJA, Chou D. Magnesium sulphate versus diazepam for eclampsia. Cochrane Database of Systematic Reviews 2010, Issue 12. Art. No.: CD000127. DOI: 10.1002/14651858.CD000127.pub2.
+
+**Population:** Seven trials in low-to-middle-income countries with 1386 women with eclampsia.
+**Intervention:** MgSO4 4g IV loading dose followed by 1g/hr infusion vs. diazepam 40mg IV loading dose followed by an infusion of 20mg/500ml titrating to effect.
+**Analyses:** Death, recurrence of seizures, stroke or any serious morbidity
+
+**Main Results:**
+
+- 41% relative risk reduction in death with MgSO4
+- 57% relative risk reduction in recurrence of seizures with MgSO4
+
+**Evidence Based Medicine:**
+
+Forest Plots: "A graphical display designed to illustrate the relative strength of treatment effects in multiple quantitative scientific studies addressing the same Point. It was developed for use in medical research as a means of graphically representing a meta-analysis of the results of randomized controlled trials."
+
+Heterogeneity: "Statistical heterogeneity manifests itself in the observed intervention effects being more different from each other than one would expect due to random error (chance) alone."
+
+The mechanism of action for magnesium sulphate to treat eclampsia is not clearly understood. Infusion of magnesium can cause serious reactions such as cardiovascular collapse and respiratory paralysis.
+
+Magnesium is also recommended as prophylaxis against eclampsia in women with severe pre-eclampsia (TheNNT).
+
+**Authors' Conclusions:**
+
+"Magnesium sulphate for women with eclampsia reduces the risk ratio of maternal death and of recurrence of seizures, compared with diazepam."
+
+**BEEM Comments:**
+
+Complications of pregnancy and childbirth result in about 358,000 maternal deaths worldwide in 2008. However, 99% of these deaths occur in low- and middle-income countries. The risk of death in developed countries from pregnancy-related issues is 1 in 1,000-4,000. In contrast, women in developing countries have a 1 in 15-20 risk of death. This is the highest disparity between high and low-income countries in the world. This systematic review involved ~1,400 women from seven studies. Three of the studies were of high quality representing about 1,000 patients. Magnesium sulphate compared to diazepam reduced the relative risk of death by 41% and recurrence of seizures by 57%. It is cheap, safe, easy to give, and effective.
+
+**BEEM Bottom Line:**
+
+Delivery of the baby is the only definitive treatment for pre-eclampsia or eclampsia. However, giving magnesium sulphate 4g IV loading dose followed by 1gm/hr infusion for 24hrs saves lives and prevents further seizures in women with eclampsia.

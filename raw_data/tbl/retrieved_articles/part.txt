@@ -1,0 +1,151 @@
+# Metadata
+- Source: The Bottom Line
+- Title: PART
+- Original URL: https://www.thebottomline.org.uk/summaries/icm/part/
+- Scrape Date: 2025-07-17
+- Summary Date: AUTO_FILL_IF_AVAILABLE
+
+Effect of a Strategy of Initial Laryngeal Tube Insertion vs Endotracheal Intubation on 72-Hour Survival in Adults With Out-of-Hospital Cardiac Arrest
+Wang. JAMA 2018; 320:769-778 doi:10.1001/jama.2018.7044
+Clinical Question
+In adults suffering out-of-hospital non-traumatic cardiac arrest, does a strategy of airway management initially with laryngeal tube (LT) compared to endotracheal intubation (ETI) improve survival at 72 hours?
+Background
+Observational trials have suggested endotracheal intubation is superior to supraglottic airway devices (such as laryngeal mask airway or laryngeal tube), but since most community paramedics will perform ETI less than once per year it is a skill that is hard to maintain
+The AIRWAYS-2 trial, reported alongside this Pragmatic Airway Resuscitation Trial (PART), investigated iGel LMAs vs ETI in a UK out-of-hospital setting and found no difference in favourable neurological outcome at 90 days
+Design
+Pragmatic study specifically designed to investigate LT vs ETI as a strategy alongside existing clinical practice in a variety of out-of-hospital settings
+Funded specifically to be pragmatic in design, which created limitations on data collection, interventions and sample size
+Cluster-randomised, multiple cross-over design
+Paramedic / Emergency Medical Services (EMS) were the unit of randomisation, being assigned to periods of LT or ETI as the initial strategy for advanced airway management
+A priori randomisation of allocation sequence
+Duration of each allocation was at the request of the EMS units, with either 3 or 5 months to suit their training and implementation
+Cross-overs could occur more than once and were balanced in blocks of 2
+Two changes to the allocation sequence and cross-over timings were made during the trial to redress imbalances in recruitment numbers without the knowledge of outcome data
+The intervention and control group were open-label
+Hospital teams could intervene with airway management and managed patients at their discretion with the knowledge of cluster (treatment) allocation
+Sample size calculations were based upon existing data from ROC PRIMED trial
+Estimated 72-hour survivals were 16.2% for ETI and 11.1% for LT, suggesting an effect size of 5.1% in favour of ETI
+Adjustments were made for a more conservative effect size, interim analyses, loss of precision due to cluster randomisation design, non-compliance (use of bag-valve-mask rather than specified device), and loss to follow-up
+Final target sample size was set at 3000 patients, to have a trial power of 85% and a conventional overall statistical 2-sided alpha of 0.05
+Setting
+27 EMS agencies in 13 randomisation clusters producing 56 random cluster treatment group assignments
+December 2015 to November 2017
+Population
+Inclusion
+: Adults over 18 years; non-traumatic cardiac arrest; requiring advanced airway management or anticipated ventilatory support
+Exclusion
+: Initial clinical care by EMS agency not engaged in the trial; major facial trauma; major bleeding; asphyxia cardiac arrest; LVAD or total artificial heart; do not attempt resuscitation or do no enroll bracelet; pregnancy; prisoners
+3,840 patients screened, with 3,004 included
+Baseline characteristics were mostly balanced (LT vs ETI, bold highlights most notable difference):
+Median age: 64 vs 64 years
+Witnessed arrest: 51% vs 51%
+Median time from dispatch to arrival: 5.0 vs 5.3 minutes
+Median time from EMS arrival to airway management start: LT 9.8 minutes vs ETI 12.5 minutes
+Shockable rhythm: 20% vs 18%
+Prehospital epinephrine: 92% vs 94%
+Intervention
+A strategy involving
+Laryngeal Tube
+as the initial airway management
+EMS agencies were instructed to use Laryngeal Tubes when attending cardiac arrests
+Combitubes, LMAs, iGels or other supraglottic devices were not allowed
+Patients were retained in this assignment group regardless of actual intervention even if only managed with bag-valve-mask
+Control
+A strategy involving
+Endotracheal Intubation
+as the initial airway management
+EMS agencies were instructed to perform Endotracheal Intubation when attending cardiac arrests
+Conventional orotracheal intubation was preferred for initial attempt
+Videolaryngoscopy could be used
+Alternative methods (eg. nasotracheal or digital intubation) were not allowed
+Patients were retained in this assignment group regardless of actual intervention even if only managed with bag-valve-mask
+Management common to both groups
+Training was at the discretion of the EMS agencies
+No protocolised instruction or limit to the number of attempts
+Rescue strategies included any available airway management technique at the discretion of the attending EMS crew
+Outcome
+Primary outcome
+: At 72 hours, the survival rate was greater in the Laryngeal Tube group compared to the Endotracheal Intubation group
+Laryngeal Tube group: 18.3%
+Endotracheal Intubation group: 15.4%
+Adjusted Absolute Risk Reduction (ARR): 2.9% (95% CI 0.2% to 5.6%; P = 0.04)
+Number Needed to Treat (NNT): 35
+Fragility Index (FI): 3
+Secondary outcome
+:
+Return of spontaneous circulation
+LT 27.9% vs ETI 24.3%
+ARR 3.6% in favour of LT (95% CI 0.3% to 6.8%; P = 0.03)
+Hospital survival
+LT 10.8% vs ETI 8.1%
+ARR 2.7% in favour of LT (95% CI 0.6% to 4.8%; P = 0.01)
+Favourable neurological status at discharge
+LT 7.1% vs ETI 5.0%
+ARR 2.1% in favour of LT (95% CI 0.3% to 3.8%; P = 0.02)
+Intervention characterises:
+Initial airway management
+In LT group
+ETI performed (with or without bag-valve-mask initially): 4.5%
+LT inserted (with or without bag-valve-mask initially): 85.4%
+Bag-valve-mask only: 10.1%
+In ETI group
+ETI performed (with or without bag-valve-mask initially): 77.4%
+LT inserted (with or without bag-valve-mask initially): 9.2%
+Bag-valve-mask only: 13.3%
+Requirement of rescue intervention (according to initial attempt regardless of group allocation)
+If LT attempted: 9.7% (90.3% LT success)
+If ETI attempted: 48.4% (51.6% ETI success)
+Adverse events (according to group allocation):
+More than two attempts at airway insertion
+LT 4.5% vs ETI 18.9%
+Unsuccessful initial airway insertion
+LT 11.8% vs ETI 44.1%
+Unrecognised misplacement or dislodgment
+LT 0.7% vs ETI 1.8%
+Inadequate ventilation
+LT 1.8% vs ETI 0.6%
+Pneumothoraces
+LT 3.5% vs ETI 7.0%
+Rib fractures
+LT 3.3% vs ETI 7.0%
+Other analyses:
+No differences were identified when analysed in
+a priori
+defined subgroups (initial rhythm, bystander witnessed, response times, BLS attender capabilities, time to airway placement, use of neuromuscular blocking drugs, age, use of videolaryngoscope, use of bag-valve-mask only, airway placement after ROSC)
+Per-protocol analysis favoured Laryngeal Tube over Endotracheal Intubation
+As-treated analysis found no difference between the groups
+Adjusted analysis using General Estimating Equations found no difference
+Fragility analysis (imputing the 4 missing outcomes as all possible options) identified that the primary outcome would not have reached significance only if all four patients survived (probability of this occurring 0.06%)
+Authors’ Conclusions
+A strategy of initial airway management with a laryngeal tube was associated with “modest but significantly” improved survival at 72 hours when compared against a strategy of initial airway management with endotracheal intubation
+Strengths
+Important question with suitable hypothesis and pragmatic methodology
+Complex but appropriate randomisation strategy to minimise between group differences in all but the intervention
+Thorough and well reported statistical analysis with attempts to control for the pragmatic, cluster-randomised method
+The hypothesis was “A strategy with an initial plan of LT is better than ETI”; the authors stress this was not a trial comparing LT vs ETI directly, as the EMS teams were allowed to manage the situation at their discretion
+Although this weakens the ability to conclude LT is better than ETI, it makes the conclusion more generalisable to non-research settings
+This could be a strength or a weakness depending on how you wish to generalise the result of this trial for your clinical practice
+Weaknesses
+Cluster-randomised cross-over research method is not a conventional Randomised Control Trial and as such there may be between group differences introduced through systematic differences and not just by chance
+Internal validity may be reduced due to the lack of blinding of the intervention allocation or the lack of concealment of allocation or timings of cross-over
+Statistical analysis has attempted to investigate and control for these biases, but this has limitations
+Although the link between the intervention and the primary outcome of mortality at 72 hours has good biological plausibility, it is not particularly patient-centred nor resource-centred
+It may not be possible to generalise beyond Laryngeal Tubes to other supraglottic devices (compare with the iGel vs ETI trial
+AIRWAYS-2
+)
+The Bottom Line
+This trial identifies that a strategy involving laryngeal tubes as the initial airway management device is probably superior to a strategy involving endotracheal intubation, in the setting of pre-hospital, non-traumatic, adult cardiac arrest
+Due to potential systematic biases, the true difference between these strategies may not be as large as the difference observed in this pragmatic, cluster-randomised, cross-over trial
+External Links
+[article]
+Effect of a Strategy of Initial Laryngeal Tube Insertion vs Endotracheal Intubation on 72-Hour Survival in Adults With Out-of-Hospital Cardiac Arrest
+[further reading]
+AIRWAYS-2 summary by TBL
+[further reading]
+ILCOR statement after AIRWAYS-2 and PART publication
+Metadata
+Summary author:
+Duncan Chambler
+Summary date: 11 October 2018
+Peer-review editor:
+David Slessor

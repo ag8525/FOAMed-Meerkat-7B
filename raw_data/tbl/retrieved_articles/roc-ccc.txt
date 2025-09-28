@@ -1,0 +1,102 @@
+# Metadata
+- Source: The Bottom Line
+- Title: ROC-CCC
+- Original URL: https://www.thebottomline.org.uk/summaries/icm/roc-ccc/
+- Scrape Date: 2025-07-17
+- Summary Date: AUTO_FILL_IF_AVAILABLE
+
+Trial of Continuous or Interrupted Chest Compressions during CPR
+Nichol. NEJM 2015; published online first (accessed 19th November 2015). doi:10.1056/NEJMoa1509139
+Clinical Question
+In adult patients that are in cardiac arrest, do uninterrupted chest compressions compared to chest compressions interrupted for manual ventilation improve survival, neurological recovery or the rate of adverse events?
+Design
+Cluster randomised, controlled, cross-over trial
+Emergency Medical Services (EMS) grouped into clusters
+Randomised to intervention or control as a cluster
+Run-in phase to demonstrate adherence and performance
+Cross-over to alternative trial arm twice a year
+Unblinded EMS providers; outcome assessment blinding not specified
+Huber-White sandwich adjustment used to statistically account for cluster design (reduces risk of false positive conclusion)
+Adjustment made for interim analyses to reduce false positive risk
+Designed to have 90% power to detect survival rates of 8.1% in the control group versus 9.4% in the intervention group with a two-sided alpha level of 0.05
+Setting
+8 Resuscitation Outcome Consortium sites with 114 participating EMS agencies
+All based in USA or Canada
+June 2011 to May 2015
+Population
+Inclusion: adults with non-traumatic out-of-hospital cardiac arrest
+Exclusion:
+EMS witnessed arrest
+Traumatic injury
+Asphyxial cause of arrest
+Uncontrolled bleeding or exsanguination
+Pregnancy
+Existing tracheostomy or advanced airway management prior to enrolment
+Manual CPR by non-study EMS or mechanical CPR by any EMS prior to enrolment
+Opted not to participate in resuscitation research, or known to be a prisoner
+35,904 patients screened, 26,148 were eligible
+Active enrolment included 23,711 patients
+2,437 patients were enrolled during the run-in phase and were included in the safety analysis but not the efficacy outcome analysis
+Intervention
+Continuous chest compressions
+Chest compressions at a rate of 100/min
+Asynchronous positive pressure ventilation at 10/min commenced within 2 minutes of chest compressions starting
+Ventilation maintained via “oral airway” for first 3 cycles of ~2 minutes each
+If no ROSC or termination of CPR, then an endotracheal or supraglottic airway was inserted as soon after 3rd cycle as possible
+Continuous chest compressions and asynchronous ventilation continued once advanced airway device inserted
+Control
+Interrupted chest compressions
+Chest compressions at a rate of 100/min
+Interrupted for ventilation at a ratio of 30:2
+Positive pressure ventilation delivered during 5 second pause in compressions
+Ventilation maintained via “oral airway” for 3 cycles of ~2 minutes each
+If no ROSC or termination of CPR, then an endotracheal or supraglottic airway was inserted as soon after 3rd cycle as possible
+Continuous chest compressions and asynchronous ventilation continued once advanced airway device inserted
+Management common to both groups
+Once an advanced airway was inserted, or ROSC was achieved, CPR was standardised to existing guidelines in both groups (continuous compressions with asynchronous ventilation)
+Hospital care such as temperature management or coronary intervention was monitored but not standardised
+Outcome
+Primary outcome: no statistically significant difference in survival to hospital discharge between the groups was demonstrated
+Continuous chest compressions: 9.7%
+Interrupted chest compressions: 9.0%
+Adjusted difference: -0.7 (95% CI -1.5 to 0.1; p-value 0.07)
+Secondary outcome:
+Per-protocol analysis of survival to hospital discharge
+A statistically significant difference was demonstrated favouring interrupted chest compressions
+Continuous group 7.6% vs Interrupted group 9.6%
+Adjusted difference: -1.3 (95% CI -2.5 to -0.1; p-value 0.04)
+Neurological outcome at discharge
+There was no statistically significant difference in the proportion of survivors with a modified Rankin Scale score of 3 or less (favourable outcome)
+Continuous group 7.0% vs Interrupted group 7.7%
+Adjusted difference: -0.6% (95% CI -1.4 to 0.1; p-value 0.09)
+Hospital-free survival at 30-days
+Patients in the continuous group had less hospital-free survival with statistical significance, but the difference is of questionable clinical significance
+Continuous group 1.3 days vs Interrupted group 1.5 days
+Adjusted difference: -0.2 days (95% CI -0.3 to -0.1; p-value 0.004)
+Tertiary observational data
+The rate of transfer to hospital was lower in the continuous group
+Continuous group 52.8% vs Interrupted group 54.9%
+Adjusted difference: -2.0% (95% CI -3.6 to -0.5; p-value 0.01)
+Authors’ Conclusions
+Continuous chest compressions with asynchronous positive pressure ventilation do not improve survival or favourable neurological recovery in adults who suffer cardiac arrest in the community, compared to standard chest compressions interrupted for ventilation in a 30:2 ratio
+Strengths
+Pragmatic design – given the difficulty of performing a trial in community emergencies, the authors did well to perform this trial; the cluster and cross-over design is well suited to this area of research and the run-in phase design allowed for appropriate training to occur
+Statistical corrections – to the best of my understanding, the Huber-White sandwich correction is an appropriate statistical method to correct for non-independent events that occur in cluster randomised trials
+Internal validity – Screening over 35,000 patients to achieve a 90 power is impressive and strengthens the validity of the conclusion
+Weaknesses
+Credibility – the difference in management between the groups was only maintained until a advanced airway device was inserted (~6 minutes); considering the bigger picture of the pathophysiology and patient journey, is it even feasible that a different CPR strategy for the first 6 minutes can modify long term outcomes?
+Internal validity – some non-study differences existed between the groups; the rate of transfer and subsequent admission to hospital was lower in the continuous group; it is unclear if this was due to early death and cessation of CPR related to the intervention (an important outcome) or if it was a choice made by an un-blinded EMS provider (an important bias); this difference biases toward a negative conclusion although it is unclear if it is ‘false’ or ‘true’
+External validity – the chest compression fractions (the proportion of each minute during the first 6 minutes during which chest compressions were occurring) only differed slightly between the groups and both were greater than other observational studies have previously described; this represents high quality CPR in both groups that may not be representative of real-world resuscitation; this may produce a bias toward a false negative conclusion
+The Bottom Line
+This complex trial attempted to test a subtle modification to the early phase of resuscitation care in out-of-hospital cardiac arrests and did not demonstrate any convincing benefit from continuous chest compressions over conventional interrupted chest compressions
+External Links
+[article]
+Trial of Continuous or Interrupted Chest Compressions during CPR
+[further reading]
+Resuscitation Council (UK) 2015 Guidelines on Adult Advanced Life Support
+Metadata
+Summary author:
+@DuncanChambler
+Summary date: 25 November 2015
+Peer-review editor:
+@DavidSlessor

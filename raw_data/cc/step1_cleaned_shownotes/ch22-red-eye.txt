@@ -1,0 +1,466 @@
+# Metadata
+- topic: 1.2 - Cardinal Presentations - 22 Red Eye
+- source_folder: 1.2 - Cardinal Presentations
+- original_file: Ch.22 Red Eye.pdf
+
+Crack Cast Show Notes – Red and Painful Eye 
+May 2016 – www.crackcast.org 
+ 
+Chapter 22 – Red and Painful Eye 
+ 
+Episode overview:  
+ 
+1) Describe the Relative Afferent Pupillary Defect, how it is diagnosed, and list a 
+differential diagnoses for this finding 
+2) List 6 treatment options for Acute Angle Closure Glaucoma 
+3) Describe 5 history or physical exam findings that distinguish between periorbital 
+cellulitis and orbital cellulitis 
+ 
+Wisecracks 
+1) What are the causes of exophthalmos? 
+2) How can you differentiate between viral and bacterial conjunctivitis? 
+3) Causes of anisocoria? 
+ 
+ 
+ 
+Rosen’s in Perspective: 
+Ø Review your eye anatomy in Rosen’s 
+ 
+ 
+Ø Recap the key components of the eye exam: 
+ 
+Eight Key Components:  VVEEPP + Slit Lamp + Fundoscopy  
+ 
+VVEEPP 
+§ 
+Visual acuity (Vital Sign) 
+§ 
+Visual field testing  
+§ 
+External examination 
+§ 
+Extraocular movements 
+§ 
+Pupillary evaluation 
+§ 
+Pressure Determination 
+ 
+ 
+ 
+ 
+ 
+ 
+Slit Lamp 
+Fundoscopy 
+ 
+ 
+Crack Cast Show Notes – Red and Painful Eye 
+May 2016 – www.crackcast.org 
+ 
+VVEEPP Explained 
+ 
+1. V: Visual acuity (vital sign of the eye): 
+a. Snellen eye chart at 20 feet or Rosenbaum chart at 14 inches  
+b. Allen chart for young children and infants  
+c. If they cannot use the chart: 
+i. 
+Are they able to read the paper/phone? 
+ii. 
+Counting fingers 
+iii. 
+Perceive hand motion  
+iv. 
+Able to perceive light 
+ 
+2. V: Visual field testing  
+a. Confrontational field testing (not accurate for small field cuts)  
+i. 
+But this rarely changes the ED management 
+ 
+3. E: External examination  
+a. Of both external eyes and surrounding structures (facial bone fracture, etc.)  
+b. Globe position: exop/enophthalmos (proptosis)  
+c. Conjugate gaze 
+d. Periorbital soft tissues, bones, sensation  
+i. 
+Examination of upper a lower eyelids, including eversion*** 
+1. Ensure no foreign body 
+ii. 
+Assess adjacent structures 
+ 
+4. E: Extraocular muscle movement 
+a. Assess the eyes through ALL the cardinal movements of gaze  
+b. Inquire about diplopia (especially at the extremes of gaze)  
+i. 
+This may suggest ocular muscle entrapment, or functional edema 
+ 
+5. P: Pupillary evaluation  
+a. Assess size, shape, reactivity  
+b. Assess for RAPD using the swinging flashlight test 
+ 
+6. P: Pressure determination 
+a. Intraocular pressures normally 10-20 mmHg 
+b. IO HTN Differential Diagnosis: 
+i. 
+Glaucoma  
+ii. 
+Suprachoroidal hemorrhage  
+iii. 
+Retrobulbar pathology  
+c. Pressures in the 20-30 range should get ophthalmology follow-up 
+d. Pressures OVER 30 mmhg need rapid treatment 
+ 
+ 
+ 
+ 
+ 
+ 
+Crack Cast Show Notes – Red and Painful Eye 
+May 2016 – www.crackcast.org 
+ 
+Slit lamp examination - explained 
+Ø A systematic, magnified view of the conjunctivae and anterior chamber  
+Ø Will not help you with something posterior to the lens 
+ 
+● Lids and lashes 
+○ Blepharitis  
+○ Hordeolum (lid abscess)  
+○ Dacryocystitis  
+ 
+● Conjunctiva and sclera 
+○ Punctures, lacerations, inflammatory patterns 
+ 
+● Cornea (with fluorescein)  
+○ Abrasions, ulcers, foreign bodies 
+○ Angled beam is needed to assess depth perception  
+○ Edema (white haze / cloudiness)  
+ 
+● Anterior chamber 
+○ Cells (RBCs or WBCs) and flare (diffuse haziness)  
+○ Hyphema or hypopion  
+○ Foreign bodies  
+ 
+● Iris 
+○ Red light reflex 
+○ Tears in the iris - iridotomy  
+ 
+● Lens 
+○ Position,  
+○ Clarity  
+○ Cataracts 
+○ Artificial vs. native lens  
+ 
+Fundoscopy - explained 
+ 
+To help in you in cases of:  
+● Visual loss and/or vision changes 
+● Can find lens dislocation  
+ 
+● Non-dilated exam is commonly performed in the ED 
+○ Because of the risk of causing AACG (acute angle closure glaucoma) 
+ 
+● Inability to obtain the red light reflex (pearl) 
+○ Corneal opacification  
+○ Hyphema or hypopion  
+○ Miotic pupil  
+○ Lens cataracts  
+○ Blood in the vitreous  
+○ Retinal detachment  
+Crack Cast Show Notes – Red and Painful Eye 
+May 2016 – www.crackcast.org 
+ 
+ 
+Bedside testing:  
+● Fluorescein testing - uptake occurs only in damaged corneal tissue.  
+○ Under slit-lamp Cobalt blue light:  
+■ Have the patient blink, if there is uncertainty regarding the uptake of 
+fluorescein on the cornea  
+● Local anesthetic testing: 
+○ If the anesthetic abolishes the patient’s eye pain - the pain is of corneal origin  
+○ If the pain is mildly relieved - probable conjunctival origin  
+● Seidel’s sign: 
+○ Use with the suspicion of ocular penetration  
+■ Leaking aqueous fluid is detected by diluted fluorescein.  
+● The fluorescein strip MUST BE HELD DIRECTLY OVER THE 
+SUSPECTED AREA OF CORNEAL DISRUPTION 
+ 
+Ancillary testing:  
+● ESR and CRP - may help in cases where temporal arteritis is suspected  
+○ **however TA can occur with NORMAL levels of ESR and CRP** 
+● CT orbits and facial bones to rule out free air, FB’s, fractures,  
+● Ultrasound - good at detecting foreign bodies, but CT is better at delineating the 
+damage caused by intraocular foreign bodies  
+ 
+1) Describe the Relative Afferent Pupillary Defect, including: 
+§ How it is diagnosed 
+§ List a differential diagnosis 
+ 
+Assess for RAPD using the swinging flashlight test: 
+ 
+i. 
+Patient looks at a distant object 
+ii. 
+Room lights are dimmed  
+iii. 
+Flashlight is swung from one eye to the other (not obstructing their visual line)  
+iv. 
+The direct and consensual light reflexes are assessed  
+a. These are mediated through cranial nerves - the afferent, or sensory, limb 
+corresponds with the optic nerve (CN II), while the efferent, motor, limb 
+corresponds with the oculomotor nerve (CN III) “Two In, Three Out” 
+b. Is positive if the pupil dilates with the direct beam of light, while constricting 
+with consensual response.  
+v. 
+Causes of RAPD - the sensory, CN II, is not functioning  
+a. Inhibition of light transmission to the retina 
+i. Vitreous hemorrhage  
+ii. Loss of the retinal surface  
+iii. Ischemia or retinal detachment 
+iv. Prechiasmal optic nerve lesion - optic neuritis  
+ 
+ 
+ 
+ 
+Crack Cast Show Notes – Red and Painful Eye 
+May 2016 – www.crackcast.org 
+ 
+2) List 6 treatment options for Acute Angle Closure Glaucoma 
+ 
+Acute angle closure glaucoma: 
+Symptoms: 
+Ø Sudden onset eye pain and blurred vision, with frontal headache, N/V, shallow 
+anterior chamber, fixed mid-dilated pupil, limbal injection  
+ 
+Treatment: 
+i. 
+Decrease production of Aqueous Humour 
+§ 
+Timolol 0.5% 1 drop, then repeat in 30 minutes 
+§ 
+Apraclonidine 1% 1 drop once 
+§ 
+Acetazolamide 500 mg PO - to reduce aqueous humour production  
+o Methazolamide 50 mg PO instead of acetazolamide of the patient has 
+sickle cell disease  
+ 
+ii. 
+If IOP>30 (emergency) 
+§ 
+Constrict pupil 
+o Pilocarpine 4% 1 drop, then repeat in 15 minutes 
+§ 
+Establish an osmotic gradient: 
+o Mannitol 2 g/kg IV 
+ 
+iii. 
+Decrease IOP (other treatments) 
+§ 
+Head of bed at 30 degrees 
+§ 
+Anti-emetics for prevention of N/V and prevent coughing 
+§ 
+Analgesics  
+ 
+iv. 
+Decrease inflammation: 
+§ 
+Prednisolone 1% 1 drop q 15 minutes 
+ 
+Just to recap; in order of importance: 
+1. Timolol 
+2. Acetazolamide  
+3. Head of bed at 30 degrees, prophylactic anti-emetics, and analgesics  
+ 
+ 
+3) Describe 5 History or Physical exam findings that distinguish between 
+peri-orbital and orbital cellulitis 
+ 
+Orbital (or post-septal) cellulitis  
+ 
+Etiology 
+Symptoms 
+ 
+§ 
+Maxillary/ethmoid sinusitis 
+§ 
+Orbital trauma 
+§ 
+Dental Infection 
+ 
+Need CT to rule out abscess 
+ 
+ 
+§ 
+Eyelid swelling / redness 
+§ 
+Warmth of skin overlying orbit 
+§ 
+Tenderness over bone 
+§ 
+Palpebral injection/chemosis of the 
+conjunctiva 
+Crack Cast Show Notes – Red and Painful Eye 
+May 2016 – www.crackcast.org 
+ 
+Important Differences to Periorbital Cellulitis 
+ 
+§ 
+Fever 
+§ 
+Ill / Toxic appearance 
+§ 
+Blurred vision 
+§ 
+Proptosis 
+§ 
+Painful or limited extraocular movements 
+§ 
+Binocular diplopia 
+§ 
+Edema of optic disk 
+§ 
+Venous engorgement of the retina 
+ 
+ 
+Management 
+ 
+Further Work Up 
+Treatments 
+ 
+ 
+§ 
+Measure IOP, if >20 may need surgery 
+§ 
+Blood cultures 
+§ 
+CT orbits to rule out: 
+o 
+Foreign body 
+o 
+Emphysema 
+o 
+Hematoma 
+o 
+Abscess 
+o 
+Osteomyelitis 
+o 
+Cavernous sinus thrombosis 
+§ 
+Consider lumbar puncture 
+§ 
+Admission to hospital  
+ 
+ 
+IV Antibiotics for skin and sinus flora 
+ 
+Pip-Tazo 4.5g IV                              plus 
+Vancomycin 15-20mg/kg IV            
+ 
+OR 
+ 
+Ceftriaxone 2g IV                            plus 
+Metronidazole 500mg IV  
+ 
+ 
+ 
+ 
+Complications: 
+Ø Meningitis 
+Ø Cavernous sinus thrombosis 
+ 
+ 
+Periorbital cellulitis (or pre-septal) 
+ 
+Etiology 
+Symptoms 
+Considerations 
+ 
+§ 
+Bug bite 
+§ 
+Trauma 
+§ 
+Sinusitis 
+ 
+§ 
+Lid erythema, warmth,  
+tenderness, and swelling 
+§ 
+Low grade fever 
+ 
+§ 
+Mostly in children 
+§ 
+RARELY leads to orbital cellulitis 
+§ 
+Usually strep/staph species 
+ 
+ 
+Treatments 
+MILD CASES 
+§ 
+Clindamycin 300mg PO q8hrs x 10 days 
+ 
+OR 
+§ 
+Clavulin 875 PO BID x 14 days + Septra double strength TID x 10 days 
+ 
+MODERATE-SEVERE CASES or <1 year old 
+§ 
+Ceftriaxone 
+     +    Vancomycin or Clindamycin 
+ 
+Someone with periorbital cellulitis has no worrisome features and typically normal CT scan. 
+They rarely progress to orbital cellulitis but should have pediatric or ophthalmologic follow-up 
+ 
+Crack Cast Show Notes – Red and Painful Eye 
+May 2016 – www.crackcast.org 
+ 
+Wisecracks: 
+1) What are the causes of exopthlamos? 
+Ø These ALL increase the intraocular pressure 
+§ 
+Orbital cellulitis with/without abscess 
+§ 
+Retrobulbar hematoma (most common) 
+§ 
+Hyperthyroidism (enlarged ocular muscles) 
+§ 
+Orbital emphysema or inflammation (retained foreign body) 
+ 
+What are the causes of enophthalmos?  
+§ 
+Contralateral proptosis 
+§ 
+Penetrating globe injury causing vitreous extrusion 
+ 
+2) How to differentiate between bacterial vs. viral conjunctivitis? 
+Ø Still NO good evidence exists to distinguish between the two 
+o Weak positive LR of 3.1 for bacterial IF 
+§ 
+Sticking eyelids in the AM plus mucoid/purulent discharge  
+ 
+3) What are the causes of Anisocoria? 
+i. 
+Previous eye trauma 
+§ 
+Globe injury 
+§ 
+Afferent or efferent nerve dysfunction 
+§ 
+Ciliaris or iris paralysis 
+ 
+ii. 
+Previous eye surgery (iridotomy) 
+iii. 
+Synechiae from prior iritis  
+iv. 
+Physiologic (up to 10% of the population)  
+v. 
+Medication related (drugs)  
+vi. 
+Serious causes: 
+a. Uveitis 
+b. AACG 
+ 

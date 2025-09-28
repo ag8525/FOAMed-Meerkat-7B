@@ -1,0 +1,201 @@
+---
+title: "CrackCast Episode 153: Caustics"
+url: "www.canadiem.org/crackcast"
+date: 2018-02
+source: "CanadiEM – CrackCast"
+original_file: "CrackCast-Shownotes-Episode-153-Caustics.pdf"
+summary: |
+  Caustic ingestions, often involving strong acids or alkalis, can cause significant tissue injury upon contact with mucosal surfaces, leading to complications such as airway edema, esophageal or gastric perforations, and long-term risks like esophageal cancer. Key management includes early endoscopy within 12-24 hours to assess injury extent, with contraindications in cases of suspected perforation. Immediate interventions focus on airway protection, often necessitating early intubation in cases of airway compromise, and imaging to evaluate for perforations. GI decontamination methods like gastric lavage or activated charcoal are contraindicated, though whole bowel irrigation may be considered for large ingestions of specific substances. Complications range from metabolic acidosis and dysrhythmias to late-onset esophageal strictures and cancer. Understanding the properties of the ingested substance, such as pH and concentration, is crucial for predicting injury severity and guiding treatment.
+
+---
+
+## Overview
+
+### Key Points
+
+- Health care workers caring for patients with caustic exposures should adhere to universal precautions to prevent additional exposure.
+- All symptomatic patients should undergo endoscopy and be considered for admission.
+- Asymptomatic patients can undergo endoscopy in the emergency department or be discharged with close follow-up monitoring.
+- Gastric emptying or GI decontamination is not indicated for the majority of caustic ingestions.
+- Concentration and pH are the most important characteristics of a substance to predict esophageal and gastric injury.
+- Button batteries lodged in the airway or esophagus require endoscopic retrieval.
+
+### Rosen’s in Perspective
+
+Caustic or corrosive agents have the potential to cause tissue injury on contact with mucosal surfaces. Both strong acids and alkalis are capable of causing corrosive chemical injury.
+
+This chapter deals with ORAL exposure (for dermal exposures see Ch 57 and 153 in the 9th Ed.)
+
+Common alkalis (proton acceptors):
+- Lye
+- Ammonia
+
+Common acids (proton donors):
+- HCl
+- Sulfuric acid
+
+The injury from caustic agents typically increases with a pH below 3 or above 11. Other chemicals that have caustic properties include phenol, formaldehyde, iodine, and concentrated hydrogen peroxide.
+
+Most oral injuries are intended for self-harm. Some may be accidental (children drinking from a water bottle that held an acid).
+
+Some household products, such as liquid drain cleaners, continue to have high concentrations of alkali (30% KOH) or acid (93% H2SO4) (Table 148.1). These products often do not have concentration or content information available on the label, making it difficult for clinicians to determine the severity of exposure. Industrial, farm (dairy pipeline cleaners containing liquid NaOH and KOH in concentrations of 8% to 25%), and swimming pool chemicals also contain caustics in high concentrations.
+
+So watch out for those drain cleaners, oven cleaners, rust removers, toilet bowl cleaners, etc.!
+
+Something we may see more commonly are:
+- Crystals or pods of cleaners - dishwashing or laundry detergents
+- Crystal drain cleaners have lye concentration as high as 74% NaOH and may cause proximal esophageal injury.
+- Liquid dishwashing detergents and laundry detergents have a pH higher than 12, but because the titratable alkaline reserve is low, tissue equilibration occurs quickly, and there is less risk of injury after ingestion.
+
+## Core Questions
+
+### 1) Compare acid and alkali caustic burns
+
+Factors that influence the extent of injury from a caustic exposure include:
+- Type of agent
+- Concentration of solution
+- Volume
+- Viscosity
+- Duration of contact
+- pH
+- Presence or absence of food in the stomach
+
+The titratable acid/alkaline reserve of an alkali or acid correlates with the ability to produce tissue damage. Concentrated forms of acids and bases generate heat, resulting in superimposed thermal injury.
+
+Acidic compounds desiccate epithelial cells and cause coagulation necrosis. An eschar is formed that limits further penetration. Because acids tend to have a strong odor and cause immediate pain on contact, the quantity ingested is usually limited.
+
+Because of the resistance of squamous epithelium to coagulation necrosis, acids are thought to be less likely to cause esophageal and pharyngeal injury, although severe esophageal and laryngeal injury still occur particularly with intentional ingestions.
+
+Acids:
+- Can produce equal injury as compared to alkalis if ingested in a serial fashion
+- Can be absorbed systemically → metabolic acidosis and end organ dysfunction (in addition to local necrosis)
+
+Alkaline contact causes liquefaction necrosis, fat saponification, and protein disruption, allowing further penetration of the alkaline substance into the tissue.
+
+The depth of the necrosis depends on the concentration of the agent. A concentration of 30% NaOH in contact with tissue for 1 second results in a full-thickness burn.
+
+Alkalis are colorless and odorless, and unlike acids, they do not cause immediate pain on contact.
+
+Alkaline ingestions typically involve the squamous epithelial cells of the oropharynx, hypopharynx, and esophagus. The narrow portions of the esophagus, where pooling of secretions can occur, are also commonly involved. Alkalis may also cause gastric necrosis, intestinal necrosis, and perforation. The esophagus can also be injured. Burns below the pylorus carry a 50% mortality!
+
+Caustic injuries:
+- Phases:
+  - Necrosis
+  - Invasion with bacteria and PMNs
+  - Vascular thrombosis
+  - Perforation
+  - Contracture formation
+- Caustic injury is categorized as first, second, and third degree, similar to a thermal burn, by appearance on endoscopy
+
+### 2) Describe clinical features of significant airway and esophageal injury by caustics
+
+Airway edema and esophageal or gastric perforations are the most emergent issues. Laryngeal edema begins in minutes and occurs over several hours.
+
+Patients with acid or alkali ingestions present with similar initial constellation of signs and symptoms. Oral pain, abdominal pain, vomiting, and drooling are common. Patients can have wheezing and coughing, respiratory distress, hoarseness, odynophagia, dysphagia, stridor, and dysphonia.
+
+Oropharyngeal burns alone are not predictive of more distal injury, but drooling, odynophagia, dysphagia, vomiting, and stridor, especially in combination, are highly predictive of significant lesions.
+
+### 3) What are indications for endoscopy and when should it be performed?
+
+- The ideal time for endoscopy is 12 to 24 hours.
+- Small ingestions of potent substances can be as serious as larger ingestions. More than 40% of patients reporting to have “only taken a lick or sip” have esophageal burns.
+- The depth and extent of injury cannot be predicted based on signs and symptoms alone. Patients with signs and symptoms (vomiting, drooling, stridor, or dyspnea) of intentional ingestion should undergo endoscopy within 12 to 24 hours to define the extent of the disease.
+
+Endoscopy is contraindicated, however, in patients with likely or known perforation.
+
+Endoscopy performed too early may miss the extent or depth of tissue injury. Wound softening in the subacute phase when the likelihood of perforation is greatest makes late endoscopy (after 24 hours) more hazardous.
+
+Wound strength is weakest between day 5 to day 14 and the time of greatest risk for perforation. Early endoscopy has been studied and shown to be beneficial to patients. Early endoscopy and GI tract evaluation permit more rapid administration of nutritional support.
+
+Patients with significant esophageal burns, particularly those that are circumferential, may develop esophageal stricture; 80% of strictures become apparent in 2 to 8 weeks. Symptoms include dysphagia and food impactions. Strictures that become symptomatic early are generally more severe. In one study of 86 adults admitted to the hospital after caustic ingestion, 18 had complications with strictures and six died. Patients with significant esophageal injury have a thousand-fold increase in esophageal carcinoma, which develops 40 to 50 years after the caustic ingestion.
+
+Grades of injury on Endoscopy:
+- 1st Degree
+  - Edema /hyperemia
+  - 0% risk of stricture
+- 2nd Degree
+  - Ulcers/exudates/hemorrhages
+  - 2A: non-circumferential 30% risk of stricture
+  - 2B: circumferential 75% risk of stricture
+- 3rd degree
+  - Full thickness necrosis
+  - 90% risk of stricture
+
+### 4) What is the ED management of caustic ingestions?
+
+- After a caustic ingestion, little can be done to attenuate the severity of the tissue injury.
+- Early endotracheal intubation or upper airway endoscopic examination is warranted when there are indications of upper airway injury (Early intubation is indicated if there is any evidence of airway compromise, such as hoarseness, throat pain, drooling, or edema. Because edema and secretions can both increase rapidly and can make intubation difficult or even impossible, preparations should be made for a difficult airway.) on nasopharyngoscopy.
+- If there are significant symptoms or signs, such as respiratory distress, stridor, or voice alteration (hoarseness, muffling), intubation is often necessary early in the course of evaluation, before edema and secretions both threaten the airway and make intubation difficult or impossible. Also @ risk for esophageal perforation and cardiac dysrhythmias
+
+For this reason, upper airway examination is often done with an intubating bronchoscope so that if significant injury and edema are identified, intubation can be accomplished during performance of the bronchoscopic examination.
+
+In alert patients who are not vomiting and can tolerate liquids, small volumes (1 to 2 cups) of water or milk can be considered within the first 5 minutes after ingestion.
+
+Summary:
+- Airway edema = consider early intubation
+- Esophageal / Gastric Perforation = imaging (CT scan plus endoscopy 12-24 hrs post ingestion) & antimicrobials
+- Cardiac dysrhythmias = standards ACLS and electrolyte management
+- Perforation = laparotomy
+- Admit to ICU
+- Consider certification if intentional ingestion
+
+### 5) List the complications of caustic ingestions
+
+Early:
+- Metabolic acidosis
+- Electrolyte disturbances
+- Dysrhythmias
+- Airway compromise
+
+Subacute:
+- Strictures
+
+Late:
+- Esophageal Cancer (1000x risk)
+
+### 6) What is the role of GI decontamination in caustic ingestion?
+
+- DO NOT TRY to buffer
+- DO NOT TRY activated charcoal
+- DO NOT TRY gastric lavage
+
+Consider whole bowel irrigation if large ingestion of:
+- Acid
+- Zinc Chloride
+- Mercury
+
+## Wisecracks
+
+### 1) Is all bleach the same?
+
+- Liquid household bleach typically contains dilute (3% to 5%) sodium hypochlorite (NaOCl)
+- Ingestion rarely causes consequential injury
+- Industrial-strength bleach, however, contains significantly higher concentrations of NaOCl, which are more likely to cause esophageal necrosis
+- Toilet bowl cleaners contain HCl as high as 26%.
+- General-purpose anticorrosive cleaners, such as 31% muriatic acid (HCl), are sold in gallon containers for home use and as swimming pool cleaners.
+
+### 2) What caustic injuries can occur around methamphetamine production?
+
+Caustic ingestions may occur when methamphetamine is produced from over-the-counter medications and household chemicals. H2SO4, HCl, NaOH, ammonium hydroxide, anhydrous ammonia, and metallic lithium are all used in the clandestine production of methamphetamine. Severe caustic injuries occurring from ingestion of these agents can cause stricture formation, esophageal resection, and the need for colonic interposition.
+
+### 3) What pills are at highest risk for causing pill esophagitis?
+
+Patients who take medications in the supine position or who take pills without water are at higher risk of pill esophagitis.
+
+The pills most likely to adhere are:
+- Doxycycline
+- Tetracycline
+- Potassium chloride
+- Aspirin
+- Bisphosphonate
+
+Although uncommon, potassium chloride is particularly dangerous and can cause esophageal perforation with devastating communication with the aorta, left atrium, and bronchial artery.
+
+### 4) List 5 household caustic substances
+
+- Drain Cleaner (NaOH, KOH)
+- Oven Cleaner (NaOH)
+- Swimming Pool Cleaner (HCl)
+- Toilet Bowl Cleaner (HCl)
+- Rust Remover (H3PO4)
+```

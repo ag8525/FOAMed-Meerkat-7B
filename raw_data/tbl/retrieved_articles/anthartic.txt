@@ -1,0 +1,106 @@
+# Metadata
+- Source: The Bottom Line
+- Title: ANTHARTIC
+- Original URL: https://www.thebottomline.org.uk/summaries/icm/anthartic/
+- Scrape Date: 2025-07-17
+- Summary Date: AUTO_FILL_IF_AVAILABLE
+
+Prevention of Early Ventilator-Associated
+Pneumonia after Cardiac Arrest
+Francois et al. N Engl J Med 2019;381:1831-42. DOI: 10.1056/NEJMoa1812379
+Clinical Question
+In post out-of-hospital cardiac arrest patients treated with targeted temperature management, does the use of empirical antibiotics prevent early ventilator-associated pneumonia?
+Background
+Rates of survival to hospital discharge and good neurological outcomes post out-of-hospital cardiac arrest (OOHCA) remain poor
+Despite questions remaining around targeted temperature management, it aims to improve neurological outcomes in this group of patients
+The potential benefits of temperature management need to be balanced against its risk including increased risk of secondary infection
+Design
+Multicentre, randomised, double-blind, placebo-controlled
+Randomisation within 6 hours after return of spontaneous circulation
+Randomisation by secure, computer-generated, web-response system in a 1:1 ratio
+Stratified according to centre; using fixed block size of four units
+Patients, care providers and members of adjudication committee were blinded to allocation
+Sample size calculation identified 192 patients were required, based on:
+Baseline incidence of VAP rate on day 7 as 68%, mortality of 15%
+25% lower incidence of early VAP in intervention group
+2-sided, 5% type 1 error rate
+90% power
+Setting
+16 ICUs in France
+August 2014 to September 2017
+Population
+Inclusion
+: aged over 18, on ICU post OOHCA due to shockable rhythm, targeted temperature management 32 to 34°C
+Exclusion
+: OOHCA with non-shockable rhythm, in-hospital cardiac arrest, on-going pneumonia, gross aspiration identified during tracheal intubation AND confirmed by presence of lung infiltrates on chest radiograph, pregnancy, previous lung disease precluding accurate interpretation of chest radiographs, the use of extracorporeal life support, ongoing antibiotic therapy or during the week before admission, known chronic colonisation with multidrug-resistant bacteria, known allergy to beta-lactam antibiotics, contraindication to amoxicillin or clavulanate, predictable decision of early limitation, participation in another trial within 30 days
+1116 screened, 198 randomised, 194 included for final analysis
+Characteristics of the groups (Intervention vs Control)
+Age: 61 vs 60 years
+Sex: 77% vs 84% male
+OOHCA characteristics
+Witnessed: 95% vs 95%
+Low-flow time: 20 vs 18 mins
+Time to intubation: 20 vs 22 mins
+Suspected aspiration: 3 vs 8
+Baseline temperature: 35 vs 36°C
+Intervention
+2-day antibiotic therapy with amoxicillin-clavulanate (1gm and 200mg), intravenously, three times a day
+Control
+Saline injections intravenously, three times a day
+Management common to both groups
+Sedation protocol and use of neuromuscular blocking agents were left at treating clinician discretion
+Any method of targeted temperature management of 32 to 34°C for 24 to 36 hours
+All patients who had secondary infection received antibiotic therapy according to local guidelines
+Routine use of bundles for prevention of VAP and daily oral care were highly recommended
+VAP was confirmed using standardised criteria from 2010 Food and Drug Administration guidance –
+link
+which relies on clinical, radiological & microbiological criteria (patients had to meet all 3 types)
+Suspected VAP cases were reviewed by adjudication committee composed of three senior intensivists, who assessed clinical parameters including:
+Clinical Pulmonary Infection Score and Sequential Organ Failure Assessment Score
+Chest radiographs
+Quantitative sampling of lower respiratory tract (either bronchoalveolar lavage or endotracheal aspiration)
+Outcome
+Primary outcome
+: Rate of  early (within 7 days) ventilator-associated pneumonia (VAP)
+Lower incidence in intervention group (19% v 34%; hazard ratio 0.53, 95% CI 0.31 to 0.92, P=0.03)
+Secondary outcome
+:
+No difference between intervention and control group in:
+Rate of late VAP
+Other nosocomial infections
+28 day mortality
+Intestinal acquisition of multi-drug resistant bacteria
+Percentage of days with antibiotic use outside of trial intervention but during ICU stay
+Length of ICU stay
+Number of ventilator-free days until day 28
+Cost consequence analysis
+Not presented in main paper but rather in Supplementary Material
+Data available for 94 patients in each group showed significant lower cost in antibiotic compared to control group
+Authors’ Conclusions
+In patients treated with targeted temperature management after resuscitation of out-of-hospital cardiac arrests with shockable rhythm, the use fo a 2 day treatment course of amoxicillin-clavulanate resulted in a lower incidence of early VAP than placebo
+Strengths
+Relevant clinical question and hypothesis
+Multicentre, randomised and blinded
+Treatment strategies in line with known microbiological data on European ICU pathogen characteristics
+Weaknesses
+Key exclusions; non-shockable rhythm (which make up the majority of cardiac arrest rhythms) and suspected aspiration/co-existing lung disease (which confer higher risk of VAP)
+Incidence of early VAP less than half that used for power calculation
+Challenges of diagnosing VAP highlighted
+25% of VAP cases initially reported by investigators were not subsequently confirmed during adjudication
+78% agreement between two adjudicators, resulting in decision made by referee adjudicator
+The Bottom Line
+This trial shows that the use of a short course of antibiotics in OOHCA patients due to a shockable rhythm resulted in a lower rate of VAP without improvement in mortality or ICU length of stay and supports the findings of previous trials
+My current practice is to start a short course of antibiotic in patients who have clear signs of aspiration but not in others; I will be reviewing this with my colleagues in light of this trial
+External Links
+[article]
+Prevention of Early Ventilator-Associated Pneumonia after Cardiac Arrest
+[further reading]
+Early pneumonia and timing of antibiotic therapy in patients after nontraumatic out-of-hospital cardiac arrest
+[further reading]
+Prophylactic antibiotics are associated with a lower incidence of pneumonia in cardiac arrest survivors treated with targeted temperature management
+Metadata
+Summary author:
+Adrian Wong
+Summary date: 28/11/2019
+Peer-review editor:
+Duncan Chambler

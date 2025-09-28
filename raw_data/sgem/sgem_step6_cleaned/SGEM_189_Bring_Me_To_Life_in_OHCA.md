@@ -1,0 +1,77 @@
+---
+url: https://thesgem.com/2017/09/sgem189-bring-me-to-life-in-ohca/
+title: "SGEM#189: Bring Me To Life in OHCA"
+date: 2017-09-24
+audio_url: https://media.blubrry.com/thesgem/content.blubrry.com/thesgem/SGEM189.mp3
+download_date: 2025-08-11
+---
+
+**Case:** You are the medical director of an EMS system in a large city deciding on whether to respond to all out of hospital cardiac arrests (OHCA) with ACLS capabilities, or if resources should be directed to those candidates for extracorporeal CPR.
+
+**Background:** There are about ½ million sudden cardiac arrests in the USA each year. About half of these cardiac arrests are OHCA and the survival rate is pretty poor. We have covered the topic of OHCA on the SGEM a number of times:
+* SGEM#143: Call Me Maybe for Bystander CPR
+* SGEM#152: Movin’ on Up – Higher Floors, Lower Survival for OHCA
+* SGEM#162: Not Stayin’ Alive More Often with Amiodarone or Lidocaine in OHCA
+The American Heart Association came out with updated CPR & ECC Guidelines in 2015 that included its *“Chain-of-Survival*”. There are five steps in the Chain-of-Survival for OHCA:
+Most of us can agree with the first three steps. You need to recognize an arrest and activate your EMS system. Bystander high-quality CPR can buy you some time until defibrillation. We know that rapid application of electricity to defibrillate shockable arrhythmias save lives.
+It is the fourth step in the chain that is slightly more controversial; early advanced care. This basically means rapid access to ACLS type resuscitation skills (intubation and intravenous drug therapy). The classic paper on ACLS drugs is called OPALS (Ontario Pre-hospital Advanced Life Support) study and was done by Dr. Ian Stiell and team. Ian is a #LegendofEM and we covered his classic paper on SGEM#64.
+OPALS was a before and after observational study, which showed the addition of ACLS was associated with more return of spontaneous circulation (12.9% vs. 18.0%, p<0.001) and improved survival to hospital admission (10.9% vs. 14.6%, p<0.001). However, adding ACLS to the pre-hospital system did not demonstrate an improvement in survival to hospital discharge (5.0% vs. 5.1%, p=0.83). It also did not show an increase in good neurologic outcome in the survivors (78.3% vs. 66.8%, p=0.73).
+There have been a number of papers published since OPALS that support the findings of not using ACLS drugs like epinephrine for OHCA:
+* Olavseengen et al. Intravenous drug administration during out-of-hospital cardiac arrest: A randomized trial. JAMA 2009
+* Jacobs et al. Effects of adrenaline on survival in out-of-hospital cardiact arrest: A randomized double-blind placebo-controlled trial. Resuscitation 2011
+* Hagihara et al. Prehospital epinephrine use and survival among patients with out-of-hospital cardiac arrest. JAMA 2012
+In recent years there has been an interest in the use of extracorporeal cardiopulmonary resuscitation (E-CPR) in selected patients suffering from refractory OHCA.
+* Sakamoto et al. Extracorporeal cardiopulmonary resuscitation versus conventional cardiopulmonary resuscitation in adults with out-of-hospital cardiac arrest: A prospective observational study. Resuscitation 2014
+* Johnson et al. Extracorporeal life support as rescue strategy for out-of-hospital and emergency department cardiac arrest. Resuscitation 2014
+* Pozzi et al. Extracorporeal life support for refractory out-of-hospital cardiac arrest: should we still fight for? A single-centre, 5-year experience. Internat J Cardiol 2016
+
+
+
+**Clinical Question****:** In patients with OHCA that are candidates for E-CPR, does ACLS in the pre-hospital setting improve rates of ROSC, survival to hospital discharge and survival with good neurological outcome?
+
+
+
+
+**Reference:** Cournoyer et al. Prehospital advanced cardiac life support for out-of-hospital cardiac arrest: a cohort study. Academic Emergency Medicine. September 2017.
+
+* **Population:** Patients 18 years of age or older with prehospital cardiac arrest
+  + **Exclusion:** Traumatic arrests, deaths from obvious causes (decapitation, advanced putrefaction) or advanced do not resuscitate directive
+* **Intervention:** ACLS provider on scene during resuscitation
+* **Comparison:** No ACLS provider on scene during resuscitation
+* **Outcome:**
+  + **Primary:** Survival to hospital discharge
+  + **Secondary:** Prehospital ROSC and delay from call to hospital arrival
+  + **Subgroup Analysis:** Same metrics but for patients who were candidates for E-CPR
+
+ 
+
+**Authors’ Conclusions****:** *“**In a tiered-response urban emergency medical service setting, prehospital ACLS is not associated with an improvement in survival to hospital discharge in patients suffering from OHCA and in potential E-CPR candidates, but with an improvement in prehospital ROSC and with longer delay to hospital arrival.“*
+
+
+
+**Key Results:** A total of 7,134 patients were included in the study with 71.5% getting BLS and 28.5% receiving ACLS. The mean age was in the mid 60’s and 2/3 were male. Only 3.4% (246) were considered potential E-CPR candidates.
+**Primary Outcome:** No difference in survival to hospital discharge
+* **Primary Outcome:** Survival to hospital discharge (ACLS 10.9% vs BLS 10.6%, p=0.67)
+* **Secondary Outcomes:**
+  + Prehospital ROSC (ACLS 37.5% vs. BLS 18.5%)
+  + Delay from call to hospital arrival was 16 minutes longer in the ACLS group than in the BCLS group (95% CI = 15–16 minutes, p < 0.001).
+  + E-CPR candidates: 51.2% got ROSC and 36.6% survived to discharge. No significant difference associated with ACLS.
+
+
+**Comment on Authors’ Conclusion Compared to SGEM Conclusion:** We agree with the authors’ conclusion.
+
+
+**SGEM Bottom Line**: Even in E-CPR candidate patients, there is no evidence that ACLS provides a patient oriented benefit.
+
+
+
+
+**Case Resolution:** You decide to conserve resources and not to dispatch ACLS units to all cardiac arrests. You will however keep an eye on the literature to see if future results will change this decision.
+
+
+
+
+**Clinical Application:** Patients undergoing OHCA arrest do not benefit from ACLS during transport. Efforts should be focused on increasing bystander CPR, decreasing EMS response times and decreasing time to defibrillation.
+
+**What do I tell my patient?** Not applicable.
+

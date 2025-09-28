@@ -1,0 +1,127 @@
+# Metadata
+- Source: The Bottom Line
+- Title: PRIMARY SPONTANEOUS PNEUMOTHORAX (PSP) TRIAL
+- Original URL: https://www.thebottomline.org.uk/summaries/em/primary-spontaneous-pneumothorax-psp-trial/
+- Scrape Date: 2025-07-17
+- Summary Date: AUTO_FILL_IF_AVAILABLE
+
+Conservative versus Interventional Treatment for Spontaneous Pneumothorax
+Simon G.A. NEJM Jan 30 2020; DOI: 10.1056/NEJMoa1910775]
+Clinical Question
+In patients with primary moderate-large spontaneous pneumothorax does conservative management compared to interventional treatment result in acceptable rates of lung re-expansion at 8 weeks
+Acceptable was defined as complete lung re-expansion at 8 weeks in 90% of patients
+Background
+The annual rate of hospitalization for spontaneous pneumothorax amongst adults is roughly 140 per million (
+Halifax, JAMA 2018
+)
+There is significant heterogeneity in management, interventional drainage is most common and carries the risks of pain, infection and organ injury. Ongoing air leaks can require surgical intervention with its associated risks and costs
+Mean length of stay for hospitalized patients with a primary spontaneous pneumothorax is 4 days (
+Thelle, ERS 2017
+)
+To date there is a paucity of research exploring conservative management of primary spontaneous pneumothorax. A
+Cochrane review
+(2014) found no RCTs on the topic.
+Based on historical literature conservative management of primary spontaneous pneumothorax is best supported by a
+1966 cohort study
+. Observational data suggests conservative management may be a viable option and there is a clear need for robust trial data to support this
+Design
+Prospective, Randomised control, non-inferiority trial
+A protocol and statistical analysis plan were published prior
+Patients were randomized 1:1 conservative to intervention groups
+The nature of the intervention means allocation was apparent to all
+The study aimed to recruit 342 patients. This was computed based on a predicted drop out rate of 20% and to detect a non-inferiority rate of 9% with 95% power. This assumes a 99% successful re-expansion rate in the intervention arm
+This translates to the study being designed to rule out a re-expansion at 8 weeks of less than 90%
+Setting
+39 hospitals throughout Australasia
+Mixture of metropolitan and rural hospitals included
+Patients were recruited from July 2011 to March 2017
+Population
+Inclusion
+:
+Patients aged 14-50 years with unilateral primary spontaneous pneumothorax
+Size of pneumothorax had to be moderate to large based on the Collins method. This is where the sum of the intrapleural distances is greater than 6cm and corresponds to a loss of volume of 32% or more
+Exclusion
+:
+Previous spontaneous pneumothorax on the same side
+Secondary pneumothorax
+Bilateral pneumothorax
+Co-existing haemothorax
+Instability suggesting tension
+Patients unlikely to represent for follow up
+Pregnancy
+316 patients underwent randomization. 154 to the intervention group and 162 to the conservative group
+25 (15.4%) of patients in the conservative group underwent intervention and 10 patients (6.5%) in the intervention arm declined treatment
+Baseline characteristics of the groups were similar with a strongly male preponderance (84% and 87%) with mean age 26 in both groups
+Intervention
+Small bore (<12Fr) seldinger drain inserted and attached to underwater seal without suction
+Repeat CXR performed one hour later, if the lung had re-expanded and the drain was not bubbling it was clamped using a three-way valve
+Four hours later repeat CXR was performed, if the lung remained inflated the drain was removed and the patient was discharged
+If the pneumothorax reoccurred then the valve was re-opened and the patient admitted. Further drain management was at discretion of the treating clinician
+Control
+Conservative management group:
+Patients observed for a minimum of four hours before repeat CXR obtained
+If the patients were walking comfortably and not needing supplementary oxygen they were discharged with analgesia and written advice
+Interventions were allowed in this group under the following circumstances:
+Chest pain or dyspnoea preventing mobilization
+Patient unwilling to continue with conservative treatment
+Systolic blood pressure <90, heart rate greater than SBP, respiratory rate greater than 30, SpO
+2
+<90% on ambient air
+Chest radiograph showing an expanding pneumothorax with physiological instability
+Management common to both groups
+All patients received standard care with analgesia and supplemental oxygen if SpO
+2
+was less than 92%
+Unmasked clinical assessment 24-72 hours after randomization
+Follow up reviews carried out at 2, 4 and 8 weeks (Radiographs were only taken if there had been non-resolution of pneumothorax)
+Outcome
+Primary outcome
+:
+Complete radiological resolution at 8 weeks after randomization
+129 of 131 (98.5%) in the intervention arm vs 118 of 125 (94.4%) in the conservative management arm
+Risk difference of -4.1% (95% CI -8.5 to 0.5) p=0.02
+This falls within the 9% non inferiority margin
+If the missing follow up data is imputed as failure, then conservative management did not show statistically significant non inferiority
+93.5% resolution in the intervention group vs 82.5% in  the conservative management group
+Risk difference, −11.0 percentage points; 95% CI, −18.4 to −3.5)
+Secondary outcomes
+Authors’ Conclusions
+Modest evidence that conservative management was non inferior to interventional management for radiographic resolution at 8 weeks with the use of a 9% margin
+Time to resolution of symptoms does not statistically differ between the groups
+Conservative management spared 85% of patients a chest tube and resulted in fewer hospital days, less surgery and fewer adverse events
+The results challenge the fundamental principle that all large primary spontaneous pneumothorax require immediate drainage
+Strengths
+The study has a very relevant clinical question and aims to address a field lacking in robust data
+It was conducted across 39 centres including a mixture of rural and urban
+Exclusion criteria were applied to try and limit the number of secondary pneumothorax, namely the patient’s age less than 50 and it being their first pneumothorax
+The sample population covered a broad range of Australasian hospitals and can therefore be extrapolated to a broader western world population
+Weaknesses
+Not possible to blind the study
+Treating clinicians were more likely to report pneumothorax resolution in the intervention group than independent radiologists
+The original statistical analysis plan did not specify how to handle missing 8 week data. This has contributed to the fragility of the results. It was tackled by assuming failure for all missing data
+The Bottom Line
+This paper provides modest evidence that conservative management is an option for moderate to large primary spontaneous pneumothorax
+Fewer hospital days, fewer adverse events and a lower re-occurrence rate, all achieved without having a tube inserted into the patient’s thorax, offer compelling reasons to discuss treatment options with the patient and to consider not intervening a reasonable option
+The advent and popularity of pleural vents in some centres poses a third option in the management of primary spontaneous pneumothorax that has not been addressed in this paper
+External Links
+[article]
+Conservative versus Interventional Treatment for Spontaneous Pneumothorax
+[study protocol]
+Study Protocol
+[further reading]
+BTS spontaneous pneumothorax guidelines
+[further reading] REBELEM:
+Spontaneous Pneumothorax: Stand There and Do Nothing?
+[further reading] St. Emlyn’s Blog
+:
+JC – Conservative Management of Pneumothoraces
+[further reading] EM Lit of Note:
+Put an End to Routine Chest Tubes
+[further reading] First10EM:
+Conservative Treatment for Primary Spontaneous Pneumothorax
+Metadata
+Summary author:
+David Swetman
+Summary date: 27th July 2020
+Peer-review editor:
+Adrian Wong

@@ -1,0 +1,61 @@
+---
+url: https://thesgem.com/2019/09/sgem266-old-man-take-a-look-at-the-canadian-ct-head-rule-im-a-lot-like-you-were/
+title: "SGEM#266: Old Man Take a Look at the Canadian CT Head Rule I’m a Lot Like You Were"
+date: 2019-09-14
+audio_url: https://media.blubrry.com/thesgem/content.blubrry.com/thesgem/SGEM265.mp3
+download_date: 2025-08-11
+---
+**Case:** It’s a busy night in the emergency department, your next patient is a well appearing 70-year-old man, presenting after a mechanical fall from standing with loss of consciousness. He is neurologically intact with a Glasgow Coma Scale (GCS) of 15 one hour after the fall. There are no other external signs of trauma on your exam. He is not on anticoagulation and there is no history of seizures.
+
+**Background:** Head trauma is an exceedingly common presenting complaint in the emergency department, with approximately 2.5 million emergency department visits in the US in 2014, with the most significant proportion of visits occurring in the elderly ≥75 (1,682/100,000). Head trauma can result in a spectrum of brain injuries varying from mild to severe. In cases of severe injury, the decision to obtain head CT imaging is straightforward. In mild traumatic brain injury (mTBI), this decision can be more difficult, as there may be no or minimal evidence of injury on exam. Traditionally, CT imaging was obtained for fear of missing intracranial pathology. In an attempt to improve resource utilization, emergency department length of stay, limit cost and improve outcomes, there have been multiple Clinical Decision Rules (CDRs) created to help guide clinicians in their decision-making process. Two of the most commonly used rules include the Canadian CT Head Rule (CCHR) and the New Orleans Criteria (NOC); other rules include NEXUS-II, the Neurotraumatology Committee of the World Federation of Neurosurgical Societies, the National Institute of Clinical Excellence guidelines, and the Scandinavian Neurotrauma Committee guideline. The Canadian CT Head Rule is a clinical decision instrument to help you decide if a patient with a mild head injury requires a CT head. Minor head injury was defined as blunt head trauma, resulting in amnesia, loss of consciousness or an altered mental state (confusion or disorientation) with a GCS score ≥13. The CCHR only applies to those patients with minor head injury and is not applicable to non-traumatic cases, GCS less than 13, age less than 16 years, coumadin or bleeding disorder or obvious open skull fractures. The CCHR is the most researched CDR in mTBI and has shown sensitivities and specificities from 99-100% and 48-77%. The use of CDRs such as CCHR, have the ability to reduce the amount of unnecessary head CT imaging obtained in the emergency department. Unfortunately, the CCHR uses age ≥ 65 as a high-risk criterion for obtaining head CT imaging in mTBI. This is based on the initial validation study which demonstrated an odds ratio (OR) of 4.1 for risk of clinically important brain injury (CIBI). CIBI is defined, per the CCHR, as “any acute brain finding revealed on CT and which would normally require admission to hospital and neurological follow-up”. Given the ageing population, with an expected 60% increase in population >65 years old from 2015-2050 and the already rapidly rising rate of ED visits for TBI in this patient population which has shown a 120% increase from 2007-2013, it is important to look forward in finding decision aids or pathways that may further help clinicians risk stratify patients in this already higher risk cohort.
+
+**Clinical Question:** What is the diagnostic accuracy of the CCHR in patients 65 years of age or older in predicting clinically important brain injuries?
+
+**Reference:** Fournier et al. Adapting the Canadian CT head rule age criteria for mild traumatic brain injury. Emergency Medicine Journal 2019.
+
+**Population:**
+- Adult patients 65-years of age or older with confirmed mild TBI within the last 24 hours who received a head CT in the emergency department.
+- Mild TBI was defined as blunt head trauma, resulting in amnesia, loss of consciousness or an altered mental state (confusion or disorientation) with a GCS score ≥13.
+- **Excluded:** Patients with a coagulopathy, on anticoagulants, who did not undergo head CT or with a delay of >24 hours between the head injury and the emergency department visit.
+
+**Intervention:** Application of a modified Canadian CT Head Rule with cutoff ages of 65, 70, 75, 80 and 85 years old.
+
+**Comparison:** None
+
+**Outcome:**
+- **Primary Outcome**: Diagnostic accuracy of the modified CCHR for clinically important brain injuries (CIBI).
+  - CIBI was defined as any acute brain finding revealed on CT and which would normally require admission to hospital and neurological follow-up.
+- **Secondary Outcome**: Reduction of CT scan usage.
+
+**Authors’ Conclusions:** “Adjusting the age criteria of the Canadian CT head rule to 75 years old could be safe while reducing radiation and ED resources. A future prospective study is suggested to confirm the proposed modification.”
+
+**Key Results:** This retrospective chart review from a level 1 trauma center, in a French-Canadian population identified 104 patients with mTBI that met inclusion criteria. The mean age of the cohort was 77 years and 58% were male. CCHR had a sensitivity of 100% and a specificity of 13.9% for 75 years old. Overall, they identified 32 CIBI (30.7%, 95% CI 22-41%), 8 (25%) of which had no positive CCHR criteria apart from age. They found that GCS score less than 15 two hours post injury to have the largest association with CIBI (RR 2.35, 95%CI 1.36-4.09, p=0.0023) and dangerous mechanism to be the least predictive. They calculated that the modified CCHR would decrease 10% of CT images obtained in patients >65 years old.
+
+**Commentary:** 
+1) **Chart Reviews:** This is a single center, retrospective, chart review, with unclear methodological quality. Retrospective chart reviews are frequently biased by methods of data extraction. Gilbert et al published a chart review paper in 1995 to help improve methodological quality of chart reviews. Worster et al expanded the original list of eight to twelve quality indicators. This study incorporates seven of the proposed twelve criteria for a high-quality chart review:
+   - Were the abstractors trained before the data collection? Yes
+   - Were the inclusion and exclusion criteria for case selection defined? Yes
+   - Did the abstractors use data abstraction forms? Yes
+   - Was inter-observer reliability mentioned? Yes
+   - Was the medical record database identified or described? Yes
+   - Was the method of sampling described? Yes
+   - Did they obtain ethics approval? Yes
+   The study did not use the remaining variables described by Gilbert et al and Worster et al; Blinding (which may bias interpretation of chart documentations to favor outcome), monitoring performance of research assistants (to improve accuracy), Interrater reliability testing (kappa value), management plan of missing or conflicting data and definition of variables. Although variables were inherently defined in the CCHR and chart reviewers were documenting presence or absence of these on a standardized form, the absence of a particular variable in the chart does not necessarily indicate true absence of this variable clinically. The authors stated that when a criterion was not accurately reported in the medical record, it was considered absent. However, the absence of evidence is not the evidence of absence and taking this approach can result in a non-response bias, which could alter the validity of the results.
+
+2) **Excluded Patients:** As previously mentioned, there were 13 patients with mTBI who were excluded from the study, as they did not receive head CT imaging. From this, it can be inferred that there are clinicians from this patient population that are basing decisions to obtain CT imaging without the use of the CCHR. As a result, if one is not using the CDR, it is unlikely that all components of the rule be documented, worsening the non-response bias. With some clinicians not following the CCHR, this also raises concern for selection bias of sicker patients, as those providers not using the CCHR would be more likely to obtain CT imaging in sicker patients than those who are more well appearing and did not have imaging obtained.
+
+3) **Wide Confidence Intervals:** While the sensitivity for age 75 was 100% the lower 95% confidence interval was 89.1%. This means using this age adjusted CCHR could potentially miss more than 10% of CIBI. Is that an acceptable miss rate? It will all depend on where you work and patient expectations. A larger study could improve the precision of these results around the point estimate.
+
+4) **10% Reduction:** The estimated reduction of CT utilization by raising the age to 75 years is 10%. This could possibly lead to less cost, radiation exposure and ED length of stay. However, this gets back to point #3, is that 10% reduction worth the potential risk of missing up to 10% of CIBI? The answer is probably different depending on many things including your medical legal environment. While it might be more acceptable in Canada to reduce utilization with the potential increase in miss rate, the zero-miss culture in the USA might find this trade off unacceptable.
+
+5) **Prospective Validation:** We think this needs a prospective, multi-center validation study prior to clinical use. Numerous Clinical Decision Rules (CDRs) have been thought to be effective on derivation studies but go on to fail external validation. Take the San Francisco Syncope Rule as an example – The derivation study showed a sensitivity of 96% and specificity of 62%. The subsequent validation studies demonstrated sensitivities and specificities of 74-87% and 52-57% respectively. Very few CDRs go the additional step and do an impact analysis. We look forward to seeing this hypothesis of raising the CCHR age cutoff to 75 years further explored in validation studies.
+
+**Comment on Authors’ Conclusion Compared to SGEM Conclusion:** Although we hope to one day see a modified CCHR (or head CT decision pathway), for our ageing populations, we do not feel that this study is able to provide clinical guidance in management of mTBI in the emergency department. However, it is relevant for hypothesis generation and further prospective studies are required prior to clinical incorporation.
+
+**SGEM Bottom Line:** This paper opens the door for further research to try to narrow the criteria in the Canadian Head CT Rule to further reduce unnecessary head CT imaging in the emergency department. However, further, high quality prospective studies are required prior to clinical application.
+
+**Case Resolution:** Given the current evidence, and prevalence of CIBI in the patient population 65 years and older, you obtain head CT imaging. The CT scan is negative for acute pathology, both you and the patient are relieved. You provide the patient with return precautions and discharge him home.
+
+**Clinical Application:** The original Canadian Head CT Rule that was published back in 2001 has successfully reduced the number of head CT imaging obtained in the emergency department for mTBI. One major limitation to the decision instrument is using 65 years of age or older as a high-risk criterion. While this new study attempting to increase the age cutoff to 75 years is interesting and hypothesis generating it is not yet ready for clinical application at this time.
+
+**What Do I Tell My Patient?** There is some new evidence suggesting that we do not need to CT all patients older than 65 who have minor traumatic brain injury. However, best practice evidence at this time, still indicates that CT imaging should be performed in this patient population given the increased prevalence of CIBI.

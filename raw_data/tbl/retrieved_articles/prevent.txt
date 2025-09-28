@@ -1,0 +1,99 @@
+# Metadata
+- Source: The Bottom Line
+- Title: PreVent
+- Original URL: https://www.thebottomline.org.uk/summaries/icm/prevent-2/
+- Scrape Date: 2025-07-17
+- Summary Date: AUTO_FILL_IF_AVAILABLE
+
+Bag-Mask Ventilation during Tracheal Intubation of Critically Ill Adults
+Casey J. New England Journal of Medicine 2019; 380:811-821 DOI: 10.1056/NEJMoa1812405
+Clinical Question
+In adult ICU patients undergoing tracheal intubation, does bag mask ventilation (BMV) between induction and laryngoscopy reduce the risk of hypoxaemia?
+Background
+Intubation in ICU has a high rate of morbidity and mortality
+2018 systematic review
+Bag-mask ventilation between induction and laryngoscopy may prevent hypoxia during intubation
+The process of bag mask ventilation can distend the stomach and lead to the aspiration of gastric contents
+Standard anaesthetic practice, during a traditional rapid sequence induction procedure, is to provide high-flow oxygen via a facemask in the period between induction and intubation
+Critically ill patients differ from standard operating room patients, and they may have large areas of atelectasis and be hypoxic at baseline
+The most recent iteration of the Difficult Airway Society (DAS) intubation guidelines states that “gentle mask ventilation after the application of cricoid pressure and before tracheal intubation prolongs the time to desaturation. This is most useful in those with poor respiratory reserve, sepsis, or high metabolic requirements and also provides an early indication of the ease of ventilation”
+Difficult Airway Society Intubation Guideline 2015
+Critically ill patients may therefore benefit from being ventilated during the period of apnoea following anaesthetic induction and muscle relaxation
+There is currently minimal evidence on the risk-benefit profile of BVM ventilation in this area
+Design
+Multi-centre, parallel group, pragmatic, non-blinded randomised trial
+Blinding not possible due to nature of intervention. Patients, clinicians, and research personnel were aware of trial-group assignments after randomisation
+Randomisation with a 1:1 ratio using permuted variable block size according to site
+Opaque envelopes concealed until after study enrolment
+90% power calculation based on an absolute between-group difference of 5 percentage points in the lowest oxygen saturation determined that 350 patients would need to be enrolled
+Of the 667 screened patients who met the inclusion criteria, 401 (60.1%) met no exclusion criteria and were enrolled. 199 patients were assigned to undergo bag-mask ventilation, and 202 were assigned to undergo no ventilation
+Baseline characteristics: Median age: 60 years; 50% of patients had sepsis or septic shock; 60% of patients had hypoxaemic respiratory failure as the indication for intubation
+Setting
+Seven ICU’s in the United States of America
+March 2017 to May 2018
+Population
+Inclusion
+: Adult ICU patients >18 years old who required tracheal intubation
+Exclusion
+: Pregnancy; incarceration; need for immediate intubation precluding randomisation; clinician judgement of high risk of hypoxaemia or aspiration; unable to tolerate hypercapnoea (severe acidosis, intracranial pathology)
+Intervention
+BMV performed between administration of induction medications and laryngoscopy
+BMV performed with 100% oxygen at 10 breaths per minute using an oropharyngeal airway, two hands and while optimising position
+Structured education regarding best practices in bag-mask ventilation included:
+use of oxygen flow rates of at least 15 litres per minute
+a valve attached to the expiratory port of the bagmask device to generate a positive end-expiratory pressure of 5 to 10 cm of water
+an oropharyngeal airway
+a two-handed mask seal performed by the intubating clinician with a head-tilt and chin-lift manoeuvre, and ventilation at 10 breaths per minute with the smallest volume required to generate a visible chest rise
+Control
+No ventilation between administration of induction medications and laryngoscopy
+Management common to both groups
+All methods of pre-oxygenation, including non-invasive ventilation (NIV), were allowed in both groups prior to induction
+Apnoeic oxygenation between induction and tracheal intubation allowed in either group but not mandated
+Outcome
+Primary outcome
+: Lowest oxygen saturation (as measured by continuous pulse oximetry) observed during the interval between induction and 2 minutes after tracheal intubation:
+96% (interquartile range, 87 to 99) in the BMV group and 93% (interquartile range, 81 to 99) in the no-ventilation group (P=0.01)
+The mean difference 4.7 percentage points (95% CI, 2.5 to 6.8) after adjustment for pre-specified covariates and within-unit correlation with the use of multivariable generalised estimating equations
+In pre-specified subgroup analyses, the difference in the lowest oxygen saturation between the bag-mask ventilation group and the no-ventilation group was greater for patients with lower oxygen saturation at induction (P = 0.01 for interaction)
+Secondary outcomes
+: Incidence of severe hypoxaemia with oxygen saturation of less than 80%: 21 patients (10.9%) in the BMV group vs 45 patients (22.8%) in the no-ventilation group (relative risk, 0.48; 95% CI, 0.30 to 0.77)
+Tertiary data, subgroup or post-hoc analyses:
+Authors’ Conclusions
+In this multi-centre, randomised trial involving critically ill adults undergoing tracheal intubation, patients receiving bag mask ventilation during the interval between induction and laryngoscopy had higher oxygen saturations and lower rates of severe hypoxaemia than those receiving no ventilation
+Strengths
+A relevant study assessing the impact of different approaches to an everyday ICU procedure
+Multi-centre randomised controlled trial with appropriate power calculation for the primary outcome
+Intention to treat analysis performed
+Patients well-matched in most baseline variables
+BVM technique was standardised, with appropriate training program
+Weaknesses
+Study did not address a patient-centred outcome. It is unclear if transient hypoxaemia increases morbidity or mortality
+Due to the unblinded nature of the study, allocation concealment may have been compromised if the study investigators were aware of block sizes
+Differences in certain baseline variables, with higher rate of hypercarbic respiratory failure (27.2% vs 19.6%) and pneumonia (39.6% vs 28.6%) in the BMV group
+Each of the outcome variables of interest were reported as median (IQR) at the cohort level, but with their corresponding difference in estimate, 95% CI and p-values based on the variable means and standard deviations
+The methods of pre-oxygenation between groups varied significantly
+Study was not blinded and there was minimal information as to how patients were managed in relation to the inordinate number of variables that could change conditions when establishing an airway
+Not applicable to emergent immediate intubations or any patient judged as having a high risk of hypoxaemia or aspiration due to exclusion of these patients
+25% of patients in the non-BMV group were made to wait for two minutes or more after induction
+Aspiration risk not properly addressed as study was underpowered to do so
+The Bottom Line
+Within the methodological limitations of this study, bag-mask ventilation (BMV) appears to be a reasonable intervention to prevent hypoxia
+This study is inadequately powered to determine whether aspiration risk is increased with BMV. Moreover, there are a multitude of cofounders (mask seal, ventilatory volumes and pressure and gastric stasis) which may influence this
+Mask ventilation (with cricoid pressure) is recommended by the Difficult Airway Society especially when the patient has poor respiratory reserve, sepsis, or high metabolic requirements. It also provides an early indication of the ease of ventilation
+External Links
+[article]
+Bag-Mask Ventilation during Tracheal Intubation of Critically Ill Adults
+[editorial]
+Preventing Dogma from Driving Practice
+[further reading]
+PreVent: Bag-Mask Ventilation Prior to Intubation. REBEL EM
+[further reading]
+JC: Should we continue ventilations during RSI? St Emlyn’s
+[further reading]
+EM Nerd-The Case of the Conspicuous Conclusion
+[further reading]
+PreVent: BVM during RSI (Casey 2019)
+Metadata
+Summary authors: Peter Bainbridge; Venetia Khambatta; Daniel Lane
+Summary date: 16th May 2019
+Peer-review editors: Fraser Magee and Steve Mathieu

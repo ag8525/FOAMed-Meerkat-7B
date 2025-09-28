@@ -1,0 +1,724 @@
+```yaml
+title: "CrackCast Episode 171: Pediatric Cardiac Disorders"
+url: "https://canadiem.org/crackcast/"
+date: 2018-04
+source: "CanadiEM – CrackCast"
+original_file: CCE171-Peds-Cardiac.pdf
+summary: |
+  The document provides a comprehensive overview of pediatric cardiac disorders, focusing on congenital heart defects, their diagnosis, and management. Key conditions discussed include ductal-dependent lesions, which require prostaglandin E1 to maintain ductal patency, and Tetralogy of Fallot, managed by increasing systemic vascular resistance and addressing acidosis. Kawasaki disease is highlighted for its potential to cause coronary aneurysms, necessitating prompt treatment with high-dose aspirin and IVIG. The document also covers the management of congestive heart failure in children, emphasizing the use of oxygen, diuretics, and inotropes, and the importance of recognizing bacterial endocarditis in children with cardiac defects. Additionally, it addresses the differential diagnosis of myocarditis and pericarditis, the significance of the hyperoxia test in differentiating cardiac from pulmonary causes of cyanosis, and the implications of prolonged QT intervals and hypertrophic cardiomyopathy in young athletes.
+```
+
+## Overview
+
+### Key Concepts
+
+- The possibility of a congenital heart defect should be considered in an infant who presents with central cyanosis that does not respond to 100% supplemental oxygen (hyperoxia challenge).
+- Neonates with ductal-dependent cardiac lesions typically present within the first 2 to 3 weeks of life with either acute cyanosis or shock. Initiation of a prostaglandin E1 (PGE1) infusion (0.05 to µg/kg/min) will be lifesaving in these neonates.
+- Treatment of a hypoxic tet spell first includes the placement of an infant in the knee-to-chest position or of an older child in a squatting position to increase systemic vascular resistance (SVR) and the provision of supplemental oxygen. Sedative agents can be used to decrease hyperpnea. Various medications can be used as adjunctive treatment to increase the SVR and thereby decrease the degree of right-to-left shunting across the ventricular septal defect (VSD).
+- Prompt recognition of the clinical findings and symptoms of Kawasaki disease along with the rapid initiation of high-dose aspirin and intravenous immune globulin (IVIG) infusion can prevent the formation of coronary aneurysms.
+- Acute bacterial endocarditis should always be considered in a child with a known congenital heart defect or an acquired cardiac defect who presents with fever of unknown origin, acute neurologic deficits, new-onset microscopic hematuria, myalgias, splenomegaly, petechiae, or other signs of systemic embolization.
+- Oxygen, positive pressure ventilation (noninvasive or invasive), diuretics, and possibly inotropes are the main emergency department (ED) treatment of infants and children who present with congestive heart failure (CHF).
+- If vagal maneuvers fail to convert stable paroxysmal supraventricular tachycardia in children, rapid adenosine administration (0.1 mg/kg for the first dose, followed by 0.2 mg/kg on repeated doses) is the treatment of choice. Verapamil should be avoided in children younger than 1 year old because of its profound hypotensive effects.
+- Consider the use of lidocaine instead of amiodarone in cases of ventricular fibrillation or ventricular tachycardia due to medications (e.g., cyclic antidepressants) or toxins that prolong the QT interval.
+- Young athletes with a positive family history of sudden unexplained death or exertion-induced symptoms (such as chest pain, dyspnea, palpitations, and syncope) should be evaluated by a cardiologist before their resumption of vigorous activity.
+- The increased presence of automated external defibrillators (AEDs) in public places and at sporting events can potentially save the lives of more young athletes who suddenly collapse secondary to hypertrophic cardiomyopathy, prolonged QT syndromes, and commotio cordis.
+
+### Rosens in Perspective
+
+We hope you’re listening to this podcast while you’re well rested, caffeinated, or have time to listen to it at ½ speed. It’s a big one. There is more content in this episode than we can cover in the podcast, so there will be a few questions that are in the show notes only.
+
+Today we’re hoping to cover these topics in less than an hour: structural problems, electrical problems, flow problems, infectious problems.
+
+- Congenital heart disease - acyanotic, cyanotic
+- ToF
+- CHF and arrhythmias in the child
+- Bacterial endocarditis, RF, myocarditis, and pericarditis
+- Kawasaki’s disease
+
+For the kid with a known congenital heart problem, our job is easier - we can call for help, look the diagnosis up, and act accordingly.
+
+For the kids who have an unknown disease, our job is tougher.
+
+See Boxes 170.1 (Common Presenting Signs and Symptoms of Cardiac Disorders in Infants and Children) and 170.3 (Key Elements to Elicit in the History of a Child with a Known Cardiac Disorder)
+
+Let’s start this sauna-sweat-shop episode with a little anatomy review: Trace the path of the RBC during fetal circulation, and describe the changes that occur following delivery.
+
+Oxygen flow: mom’s lungs/body/placenta → umbilical vein → ductus venosus → fetal heart (through IVC) → right atrium → shunted to the left atrium by the patent foramen ovale → left ventricle → aorta → directed to the fetal coronary and cerebral circulations.
+
+Deoxygenated blood: SVC → RA → RV → pulmonary artery → patent ductus arteriosus* (PVR > SVR)→ mixes with well-oxygenated blood in the descending aorta. *Fetal pulmonary vascular resistance (PVR), however, is higher than fetal systemic vascular resistance (SVR); this forces deoxygenated blood to mostly bypass the fetal lungs (see Fig. 170.1). This poorly oxygenated blood enters the aorta through the patent ductus arteriosus and mixes with the well-oxygenated blood in the descending aorta. The mixed blood in the descending aorta then returns to the placenta for oxygenation through the two umbilical arteries.”
+
+Following delivery:
+- Decrease in pulmonary vascular resistance (increased pulm. Blood flow)
+- Increase in global O2 enhances closure of umbilical arteries, umbilical vein, ductus venosus, ductus arteriosus (complete closure by 2-3 weeks) - functional closure by 15-18 hours.
+- Increase in pulmonary artery flow creates a higher pressure system on the left side of the heart and closes the flap of the foramen ovale (closes completely by 3 months).
+
+## Core Questions
+
+### 1. What is the most common form of congenital heart disease?
+
+Incidence of CHD in the USA: 1%, or 8 to 10 cases per 1000 live births.
+
+VSD > TOF > ASD / PDA
+
+See Table 170.4 (Incidence of Specific Congenital Heart Defects)
+
+### 2. List 6 Acyanotic and 8 Cyanotic types of CHD
+
+Acyanotic CHD: These acyanotic lesions usually present within the first 6 months of life with symptoms of CHF; however, ASDs can remain asymptomatic until adulthood.
+
+Appearance on CXR:
+- Increased (acyanotic):
+  - ASD
+  - Eisenmenger’s syndrome
+  - VSD
+  - Patent ductus arteriosus
+  - Endocardial cushion defects
+- Decreased or normal (acyanotic)
+  - Pulmonic stenosis
+  - Aortic stenosis
+  - Coarctation of the aorta
+
+Or described another way:
+Obstructive vs. Left to right shunt:
+
+Cyanosis: Cyanosis in the neonate may be due to a variety of cardiac, pulmonary, hematologic, or toxic causes. Cardiac causes of cyanosis include congenital lesions with right-to-left shunts and cardiac lesions with decreased or increased pulmonary blood flow.
+
+Classically these are the “5 T’s”
+
+Appearance on CXR:
+- Increased (cyanotic): (too much mixed flow to pulmonary artery)
+  - Transposition of the great arteries,
+  - Total anomalous pulmonary venous return,
+  - Hypoplastic left heart syndrome,
+  - Truncus arteriosus
+- Decreased (cyanotic): (obstruction of flow to pulmonary artery)
+  - Tetralogy of Fallot,
+  - Severe pulmonic stenosis,
+  - Ebstein’s anomaly,
+  - Tricuspid atresia,
+  - Pulmonary atresia,
+  - Hypoplastic right heart syndrome
+
+Common pulmonary causes of cyanosis include bronchiolitis, pneumonia, and pulmonary edema. Methemoglobinemia is one of the hematologic causes of cyanosis as is polycythemia from prolonged delayed cord clamping.
+
+Remember: Central cyanosis involves the lips, tongue, and mucous membranes, whereas peripheral cyanosis (acrocyanosis) involves the hands and feet. The child looks “comfortably blue” and their degree of cyanosis worsens with crying. Acrocyanosis is a common finding in neonates caused by cold stress and peripheral vasoconstriction.
+
+### 3. What are the ductal dependent heart lesions?
+
+Remember: we are talking about the PDA - dependent lesions here!
+
+This is a hard list to think of “cold”, so try to think through things mechanically:
+- Acyanotic: We need the duct (PDA) to get blood to the body because of an obstruction in the left side of the heart or aortic arch
+  - That’s easy - AS/AA; Coarct; the LV is weak HLHS
+- Cyanotic: We need to get blood to the lungs because the kid has a weird structural abnormality on the right side (or otherwise) that won’t allow them to oxygenate blood
+  - That’s a bit tougher but you have this!
+    - TOF
+    - TGA
+    - TA
+    - PS/PA
+    - HRHS
+
+See Box 170.7 (Ductal-Dependent Cardiac Lesions in the Neonate)
+
+### 4. Describe the emergent management of the hypoxic infant with a suspected ductal dependent cardiac lesion.
+
+You must think about this in the 2-3 week old neonate who presents with sudden onset cyanosis or cardiovascular collapse!
+
+1. MOVIE
+2. Consider small 5-10 ml/kg bolus to optimize preload
+3. Have airway / intubation supplies ready
+   - Ketamine and Rocuronium preferred agents:
+     - To support cardiac output and SVR (which mitigates a right-to-left shunt), ketamine is the preferred induction agent along with a nondepolarizing metabolically neutral neuromuscular blocker, such as rocuronium. Not only will intubation provide a secure airway, but controlled ventilation will also help decrease the infant’s work of breathing, shunting much needed cardiac output and metabolic demands from the overtaxed respiratory apparatus.
+     - (Given the sympathetic drive in the neonate, ketamine may worsen the tachycardia in a maximally sympathetically driven neonate - consider etomidate or fentanyl for their cardioprotective properties)
+
+Treatment:
+An infusion of prostaglandin E1 (PGE1) maintain the patency of the ductus arteriosus. Start it at: 0.1 µg/kg/min (0.05mcg/kg/min and lower doses are better for maintenance but we need to acutely open the ductus - which in the emergent setting is best done with the higher dose)
+
+Children with cardiac conditions are at risk of post-intubation cardiovascular collapse due to positive pressure ventilation, increased intrathoracic pressures, and decreased venous return (e.g., cyanotic heart disease is often preload dependent).
+
+- What are complications of IV prostaglandin?
+  - APNEA! (30%)
+  - Seizures,
+  - Bradycardia,
+  - Hypotension,
+  - Fever
+  - Flushing,
+  - Decreased platelet aggregation
+
+Examination:
+- The mere presence of femoral pulses does not rule out clinically the possibility of a coarctation of the aorta. Even with an appropriately sized cuff, the blood pressures in the thighs can be 10 to 20 mm Hg higher than the blood pressures in the upper extremities because of the lack of well-designed blood pressure cuffs for the legs. Therefore, if the measured blood pressure in the lower extremities is lower than the blood pressure in the upper extremities, coarctation of the aorta should be suspected. Pulse oximetry readings that are lower in the legs than in the upper extremities are also suggestive of either a coarctation of the aorta or a right-to-left-shunt across a patent ductus arteriosus.
+
+### 5. List types of CHD which are most likely to present outside of the neonatal period.
+
+Two main types:
+- Mixing lesions - leading to CHF
+  - VSD
+  - Patent ductus arteriosus (encourages foramen ovale to stay open)
+  - Tetralogy of Fallot
+- Obstructive lesions - leading to decreased CO/shock
+  - Coarct
+  - Aortic stenosis
+
+See Table 170.5 (Symptomatic Presentation of Congenital Heart Defects and Time of Presentation)
+
+### 6. What are the anatomic anomalies seen in Tetralogy of Fallot?
+
+1. Right ventricular outflow tract obstruction;
+   - The degree of cyanosis and the age at presentation are directly dependent on the degree of right ventricular outflow tract obstruction.
+2. Large, unrestrictive, malaligned VSD;
+3. Over-riding aorta that receives blood flow from both ventricles;
+4. Right ventricular hypertrophy secondary to the high pressure load placed on the right ventricle by the right ventricular outflow tract obstruction.
+
+These anomalies are why there are decreased lung markings on the CXR and cyanosis!
+
+Can also be associated with:
+- Right-sided aortic arch (25% of patients),
+- ASD (10% of patients),
+- Anomalous origin of the left coronary artery.
+
+#### a. What the is pathophysiology of a Tet spell and how is it managed?
+
+Known as a hypercyanotic or hypoxic spell. These episodes occur most commonly in infants, with a peak incidence between 2 and 4 months old. And can be potentially life-threatening! (Limpness, seizures, cerebrovascular accidents, and even death have been reported with more severe tet spells.)
+
+Pathophysiology
+1. Event that suddenly lowers the SVR, such as crying or defecation, and hypovolemia or tachycardia will produce a large right-to-left shunt across the VSD, beginning the vicious circle of a hypoxic spell.
+2. Shunt through the VSD bypasses the lungs and causes hypercarbia, hypoxemia, and acidosis
+3. Respiratory centres are stimulated and the child hyperventilates
+4. More negative intrathoracic pressure increases the amount of blood returning to the right side of the heart
+5. The systemic blood shunts across the VSD leading to further hypoxia
+
+Management:
+1. Increase the SVR,
+2. To abolish the hyperpnea,
+3. To correct the metabolic acidosis
+
+1. Increase the SVR to push blood back towards the right ventricle
+   - Knee to chest position
+   - Ketamine
+   - Phenylephrine
+2. Decrease the PVR to promote forward flow to the lungs
+   - Supplemental O2
+   - Calm the child
+3. Relax the structures around the pulmonary outflow tract
+   - Morphine/Fentanyl
+   - BB (esmolol / propranolol)
+4. Reverse the acidosis
+   - IV fluids
+   - NaHCO3
+
+See Box 170.8 (Management of Tetralogy of Fallot Hypoxic Spells)
+
+...extra steps for third and 4th line treatments…
+Infants whose condition does not improve with these measures may require a vasopressor (such as phenylephrine) to increase the SVR and thereby to decrease the degree of right-to-left shunting across the VSD. An intravenous fluid bolus may also be considered to increase the volume of blood flow through the pulmonary artery. If the aforementioned pharmacologic interventions are not successful, consider propranolol (0.1 to 0.25 mg/kg IV) administered slowly and repeated if needed every 10 to 15 minutes (possibly reduces infundibular spasm at the right ventricular outflow tract) or phenylephrine (5 to 20 mcg/kg IV) administered slowly and repeated if needed every 10 to 15 minutes (alpha-antagonist to increase SVR).
+
+#### b. What is ductal-dependent ToF?
+
+ToF with severe pulmonic stenosis / atresia
+
+### 7. Describe the management of CHF in the infant
+
+CHF = the cardiac output doesn’t meet the hemodynamic or metabolic demands of the body.
+
+Ddx includes more than congenital heart disease: anomalous left coronary artery in infants, myocarditis, endocarditis, rheumatic heart disease, pericardial effusions, anemia, cardiomyopathies, systemic hypertension, hypothyroidism, hyperthyroidism, electrolyte imbalances, endocrine disorders, cardiac toxins, and dysrhythmias that compromise cardiac output.
+
+Presentation is different than the adults we’re used to: NOTE the absence of peripheral edema, crackles and pulmonary edema.
+
+Tachycardia, gallops (especially an S3), tachypnea with rales, hepatomegaly, peripheral edema, and decreased peripheral perfusion of the extremities. Wheezing and a chronic cough may also be the presenting symptoms of CHF.
+
+- MOVIE
+- Sample history:
+  - See box 170.3
+    - Cardiac dx, medications, baseline O2, all current meds
+    - Cardiologist, recent changes to meds,
+    - Known surgical procedures
+- Labs:
+  - ABG
+  - Hgb and Hct.
+  - Electrolytes! (in case of diuretic therapy or digoxin toxicity)
+- Interventions: try to tailor your interventions to the clinical picture*
+
+*For example, inotropic agents and diuretics may be required in a child with volume overload and decreased cardiac contractility, whereas vasodilatory agents may be required in a child with CHF due to an increased afterload*
+
+- Position head up (e.g. infant car seat may be a good option!)
+- Oxygen
+  - Consider early BIPAP or CPAP, or nasal CPAP.
+- Furosemide
+  - 1 mg/kg
+  - If volume overloaded (remember assess for the 2 bigs and 2 fasts as well as wheezes or cough)
+- If decompensated cardiogenic shock:
+  - 1st line pressor: norepinephrine
+  - 2nd line inotrope: dobutamine or epinephrine
+
+NOTE: What is absent?
+- Don’t give venodilators like nitroglycerin as first line agents!
+  - Children are much more sensitive to the drug’s potent vasodilatory effects than adults, and they can experience profound and rapid hypotension with its administration.
+  - Amrinone and milrinone, most commonly used in the ICU setting,
+
+### 8. List 12 conditions associated with a high risk of developing dysrhythmias
+
+SVT is the most common dysrhythmia!
+
+- Plumbing problem
+  - RHD
+  - Kawasaki’s
+  - CHD
+  - ALCAPA
+- Muscle problem
+  - Myocarditis
+  - Cardiomyopathy
+- Electrical problem
+  - Long QT
+  - Heart blocks
+  - Conduction pathway - WPW, ARVD
+- Critical substrate problem
+  - K, Mg, Ca, hypoxia, hypothermia
+- Other:
+  - Progression of shock or respiratory failure
+  - Drug of abuse/OD (cocaine, crystal meth, TCAs)
+  - Trauma - commotio cordis
+  - Electrocution
+
+### 9. Compare SVT and ST
+
+| SVT | ST |
+| --- | --- |
+| No cardiac abnormalities are found in approximately half of the cases; the Wolff-Parkinson-White syndrome is present in only 10% to 20%. | Usually atrioventricular reentrant tachycardia [AVRT]: Orthodromic, Antidromic (wide QRS) |
+| Sudden onset with no clear precipitant | Some systemic cause: Pain, Dehydration, Fever, Anxiety |
+| ECG: Usually narrow QRS (<0.08), HR > 220 (infants), HR > 180 (children), Constant R-R interval, No variability with activity, No P waves | ECG: Narrow QRS (unless BBB), HR < 220 (infants), HR < 180 (children), Variable beat-to-beat, HR changes with activity |
+| Mgmt: See next question! | Treat the underlying cause, Trial of analgesia, fluids and antiemetics |
+
+### 10. Describe the management of SVT in the infant/child.
+
+- Unstable (poor perfusion, AMS, long cap refill, pallor, cyanosis, hypotension)
+  - CARDIOVERSION!
+    - 0.5 - 1 J/kg; if no success then increase to 2 J/kg
+- Stable
+  - Vagal attempts
+    - Vagal maneuvers (e.g., a bag containing a slurry of crushed ice and water to the face, digital rectal exam, blowing on an occluded straw, or blowing on the tip of a syringe) - don’t attempt carotid massage in children (it doesn’t work).
+  - Adenosine (0.1-0.2 mg/kg) - max 12 mg
+
+Look for signs on ECG for WPW!**
+
+3rd line drugs for stable SVT:
+- Amiodarone
+  - Amiodarone may be given at a loading dose of 5 mg/kg over 60 minutes, then continued at 5 mcg/kg/min
+- Procainamide
+
+*****If the pt is known to have an underlying Wolff-Parkinson-White syndrome, the four medications that should be avoided are the A-B-C-D medications (adenosine, beta-blockers, calcium channel blockers, and digoxin);
+
+All of these medications preferentially block conduction down the atrioventricular node, leaving the accessory pathway open to conduct the atrial tachycardia to the ventricles at a potentially lethal rate. Under these circumstances, physicians should use amiodarone, procainamide, or cardioversion as safer alternatives
+
+### 11. Describe procedures and conditions for which prophylaxis for bacterial endocarditis is recommended
+
+Predisposing conditions (Box 170.12)
+- Hx of previous bacterial endocarditis
+- Indwelling IV lines
+- Underlying CHD
+  - VSD, TOF, Aortic stenosis, single ventricle, bicuspid aortic valve, prosthetic valve, post-op shunts
+- Acquired heart disease (ARF)
+
+Procedures (Box 170.13)
+- ALL dental procedures
+- Any manipulation or perforation of the gingival or oral mucosal tissue
+- Resp, MSK procedures
+
+A new heart murmur is present in less than 50% of the bacterial endocarditis cases. Common presenting signs are fever (99%), petechiae (21%), changing murmur (21%), dental caries (14%), and hepatosplenomegaly (14%). Less common signs are CHF (9%), splinter hemorrhages (5%), Roth’s spots (5%), and Osler’s nodes (4%).
+
+### 12. Describe 2 potential prophylaxis regimens
+
+- Single dose 30-60 minutes before procedure
+- Children
+  - PO
+    - Amoxicillin 50mg/kg
+    - Cephalexin 50mg/kg (Pen-allergic)
+    - Clindamycin 20mg/kg (Pen-allergic)
+    - Azithromycin 15mg/kg (Pen-allergic)
+  - Unable to take PO
+    - Cefazolin or Ceftriaxone 50mg/kg IM/IV
+    - Clindomycin 20mg/kg IM/IV
+
+See Table 170.7 (Regimes for Prophylaxis of Infective Endocarditis)
+
+### 13. What is the differential diagnosis of myocarditis? What is the most common cause of myocarditis in children?
+
+The most common cause is viral; coxsackievirus B and enteroviruses account for the majority of cases.
+
+Think about this difficult to identify dx in the child who has a clinical course out of proportion to the standard viral illness! (persistent tachycardia, malaise, CHF, dysrhythmias)
+
+DDX:
+- Infectious
+  - Viral
+    - Coxsackievirus B, enterovirus
+    - Echoviruses, influenza A and B viruses, adenovirus, varicella-zoster virus, Epstein-Barr virus, cytomegalovirus, and hepatitis B virus.
+  - Bacterial
+    - Corynebacterium diphtheriae, Streptococcus pyogenes, S. aureus, Mycoplasma pneumoniae, Borrelia burgdorferi, and meningococcus.
+- Non-infectious
+  - Kawasaki disease,
+  - Acute rheumatic fever (ARF),
+  - Collagen vascular disorders (e.g., systemic lupus erythematosus),
+  - Toxins (e.g., cocaine and doxorubicin),
+  - Endocrine disorders (e.g., hyperthyroidism),
+  - Drug-induced hypersensitivity (e.g., penicillins, sulfonamides, phenytoin, carbamazepine).
+
+They need a full septic workup, CXR, CRP, ECG, CK and troponin and bedside echo.
+
+### 14. What is the differential diagnosis of pericarditis in children? Describe any differences between adults and children.
+
+DDX:
+- Infectious
+  - Viral - most common cause
+    - Coxsackieviruses, echoviruses, adenovirus, Epstein-Barr virus, and influenza viruses
+  - Bacterial
+    - Pneumococcus, Staph aureus, meningococcus, H. influenzae
+- Other:
+  - ARF, systemic lupus erythematosus, uremia, post-pericardiotomy syndrome, leukemia, lymphoma, and tuberculosis.
+
+Unique in children:
+- Rare
+- Usually self-limited and benign course
+- Postcardiotomy syndrome being a major underlying etiology
+  - 1-2 weeks post ASD repair surgery
+- Infants and young children tend to be fussy and have decreased feeding with tachycardia being an important physical sign.
+- Early repolarization tends to be a benign common finding in adolescents and might mimic the ST-segment elevation noted with pericarditis.
+- The European Society of Cardiology (ESC) recommends high dose NSAIDs as the first line therapy for pediatric pericarditis, with colchicine as a second line therapy
+
+SEE for more: [Pediatric Pericarditis](http://www.acc.org/latest-in-cardiology/articles/2016/06/08/11/43/pediatric-pericarditis)
+
+[Pediatric Pericarditis Review](http://pedsinreview.aappublications.org/content/31/2/83)
+
+The classic electrocardiographic progression of a patient with pericarditis.
+First phase: Diffuse ST segment elevation with PR depression. TP segment downsloping = Spodick’s sign
+Second phase: ST segments back to isoelectric but decreased T wave amplitude.
+Third phase: T wave inversion.
+Fourth phase: Complete resolution
+
+### 15. What are the clinical diagnostic criteria for Kawasaki’s disease?
+
+Fever for 5 days plus:
+- 4 of:
+  - CREAM
+    - Conjunctivitis
+    - Rash
+    - Extremity changes
+    - Adenopathy
+    - Mucous membrane changes
+
+### 16. If the clinical criteria are not met, but you are still suspicious, how else might Kawasaki’s disease be diagnosed?
+
+The AHA’s Committee on Rheumatic Fever, Endocarditis, and Kawasaki Disease has published consensus guidelines on the approach to incomplete Kawasaki disease.
+
+The more inclusive criteria recommend that in a child who is febrile 5 days or more, the presence of two or three criteria should prompt further testing. A CRP of 3 mg/dL or more or an ESR of 40 mm/hr or more should prompt further laboratory investigations; children with elevated inflammatory markers should be empirically treated (box 170.15).
+
+During their hospital stay, children should receive an echocardiogram to assess for coronary aneurysms. Children with a CRP of less than 3 mg/dL and an ESR of less than 40 mm/hr may be observed daily and reassessed without treatment; serial ESR and CRP should be should be obtained daily on an outpatient basis.
+
+Supplementary Lab Criteria for Kawasaki Disease (Box 170.15)
+- Albumin <3g/dL
+- Anemia for age
+- Plt >450,000
+- WBC >15,000
+- Elevated ALT
+- Sterile pyuria >10 WBC/hpf
+
+### 17. What are some unusual clinical presentations of Kawasaki’s disease?
+
+Very young children, particularly those <6 months of age, and children >9 years of age are more likely to present with incomplete KD.
+
+- Infants six months of age or less with unexplained fever for at least seven days should be evaluated for KD, even if they have no clinical findings of KD.(1)
+
+Male sex, extremes of age and prolonged fever are factors associated with a higher risk for the development of coronary artery lesions.
+
+Other clinical features may be present including irritability, aseptic meningitis, uveitis, gastrointestinal complaints (diarrhea, vomiting, hepatic dysfunction), urethritis/meatitis, hydrops of the gallbladder and arthritis.*
+
+WARNING: The classic findings are often not present at the same time, and there is no typical order of appearance. As an example, some patients have only developed fever and cervical lymphadenopathy by the time of admission (so-called KD with isolated cervical lymphadenopathy, KDiL) (Uptodate)
+
+*Check out for more: [Kawasaki Disease Highlights](https://www.pcsp.cps.ca/uploads/publications/Highlights-kawasaki-disease.pdf)
+
+KD can also occur in adults - most of them have HIV infections as well. Don’t forget to include measles on your DDX of KD (in measles the rash starts on the face and then spreads)
+
+(1) From Rosen’s:
+(a) Infants 6 months of age or younger are more likely to present with incomplete Kawasaki disease and are more susceptible to giant coronary artery aneurysm formation.
+(b) For this reason, irrespective of general well appearance or lack of clinical findings, infants 6 months of age or younger with fever lasting for 7 days or more should undergo supplemental laboratory testing and undergo echocardiogram when inflammatory markers are abnormal. This underscores the current limits of diagnosis of Kawasaki disease, as well as the obligation to prevent the disastrous sequelae of aneurysmal development.
+
+Streptococcal disease, including pharyngitis and scarlet fever, can be confused with Kawasaki disease, but conjunctivitis and swelling of the hands and feet are unusual for streptococcal disease. Other infectious or autoimmune causes that mimic Kawasaki disease include Rocky Mountain spotted fever, leptospirosis, Stevens-Johnson syndrome, and juvenile rheumatoid arthritis.
+
+### 18. How is Kawasaki’s disease managed? What is treatment directed towards preventing?
+
+Originally described as mucocutaneous lymph node syndrome by Dr. Tomisaku Kawasaki in 1967, up to 20% may develop a coronary artery abnormality. This febrile, exanthematous, multisystem vasculitis is seen most commonly in children younger than 5 years old, with a male-to-female ratio of 1.5:1.
+
+Although the exact cause of this vasculitis of small- and medium-sized vessels remains unknown, early clinical recognition and initiation of high-dose aspirin and intravenous immune globulin (IVIG) improve the morbidity and mortality rates of Kawasaki disease in children.
+
+- KD is treated with IVIG at a dose of 2 g/kg and ASA at a dose of 80 mg/kg to 100 mg/kg per day in four divided doses.
+- ASA is reduced to an antiplatelet regimen at 3 mg/kg to 5 mg/kg per day after fever has subsided.
+- It is continued until inflammatory markers, platelet count and follow-up echocardiogram at six to eight weeks are normal.
+- IVIG is a safe and effective treatment for KD; however, cases of hemolytic anemia have been noted. It is important to be aware of this potential complication and to monitor hemoglobin levels following IVIG administration.
+(From: [Kawasaki Disease Highlights](https://www.pcsp.cps.ca/uploads/publications/Highlights-kawasaki-disease.pdf))
+
+Treatment with intravenous immune globulin (IVIG) within the first 10 days of illness reduces the prevalence of coronary artery (CA) aneurysms fivefold compared with children not treated with IVIG. (uptodate)
+
+The risk for cardiac complications (coronary artery aneurysms >>> pericardial effusion / pericarditis / CHF) are greatest at the 2-4 week mark.
+
+These coronary aneurysms can lead to myocardial infarction, thrombosis, rupture, or dysrhythmias. Significant risk factors for coronary aneurysmal formation include male gender, age younger than 1 year old, or older than 8 years old, prolonged febrile period longer than 10 to 14 days, early myocarditis, anemia (hemoglobin <10 g/dL), white blood cell count more than 30 × 103 /hpf, increased band count, elevated ESR, elevated CRP level, low serum albumin levels, aneurysms involving other arteries (renal, axillary, or iliac), and giant coronary aneurysms (>8 mm in diameter).
+
+### 19. List the Jones Criteria for the diagnosis of Acute Rheumatic Fever
+
+ARF, one of the most common causes of acquired heart disease in children, is the result of a delayed immune reaction to a group A streptococcal infection. In the United States, ARF most commonly occurs in children 5 to 15 years old, with an attack rate of 0.3% in children with an untreated streptococcal infection. Although this disease affects multiple organ systems, carditis is the most serious complication.
+
+To make the diagnosis:
+1. You need to prove that there has been an “antecedent” streptococcal infection
+   - A positive throat culture,
+   - A positive rapid streptococcal antigen test finding,
+   - An elevated antistreptolysin O (ASO) titer.
+     - The ASO titer begins to rise 1 to 3 weeks after streptococcal infection, peaks at 3 to 5 weeks, and reliably falls to baseline after 6 months.
+2. You need 2 major or 1 major and 2 minor JONES criteria!
+
+JONES: joint arthralgias (large and small joints), O carditis (murmur*, CHF, pericarditis, and various degrees of heart block), nodules, erythema marginatum, sydenham chorea.
+
+*Mitral or aortic insufficiency: The murmur of mitral insufficiency is characterized as a holosystolic murmur best heard over the apex with radiation to the axilla. The murmur of aortic insufficiency is characterized as a diastolic murmur that is best heard over the base of the heart. Innocent murmurs that are normally exacerbated with fever can be mistaken for the murmurs of mitral or aortic insufficiency.
+
+See Box 170.17 (Jones Criteria for the Diagnosis of Acute Rheumatic Fever)
+
+### 20. Describe the management of Acute Rheumatic Fever
+
+Treatment:
+1. Assess and address any of the cardiac manifestations:
+   - CHF
+   - Pericarditis / effusion
+   - Dysrhythmias
+2. Antibiotics
+   - PO penicillin VK x 10 days
+   - OR: Penicillin G benzathine (Bicillin L-A) 1.2 million units x 1 dose
+     - Monthly injections of benzathine penicillin G provide prophylaxis against recurrent attacks; alternative regimens include oral penicillin administered twice daily and, for penicillin-allergic patients, twice daily oral erythromycin. Prophylaxis is required until 18 years of age but can be continued for life, depending on the degree of cardiac involvement and risk of recurrence.
+     - Secondary prevention is accomplished by prevention of recurrent GAS pharyngitis or pyoderma. We recommend continuous antimicrobial prophylaxis, rather than recognition and treatment of acute GAS episodes, because GAS infection does not need to be symptomatic to trigger a recurrent attack of ARF (Uptodate)
+3. Bed rest - supportive care
+4. Antiinflammatory agents (for arthritis)
+   - ASA (high dose) or naproxen
+   - Possibly steroids for cardiac symptoms (ask Cardiology)
+     - There is no therapy documented to slow progression of valvular damage in the setting of ARF.
+
+The differential diagnosis of ARF includes myocarditis, bacterial endocarditis, Lyme disease, systemic lupus erythematosus, juvenile rheumatoid arthritis, serum sickness, and septic arthritis.
+
+Now we’re changing topics slightly before going into Wisecracks:
+
+Let’s discuss some ECG features in Peds (as compared to adults)!
+
+- PR and QRS are shorter
+- Qtc is shorter
+- More rightward axis.
+  - At birth, the muscle mass of the right ventricle is greater than that of the left ventricle; this is demonstrated by right axis deviation on the neonatal ECG.
+- T waves are inverted in the precordial leads until adolescence
+
+See Table 170.3
+
+A rare but potentially fatal congenital cardiac abnormality detected by ECG, anomalous origin of the left coronary artery from the pulmonary artery (ALCAPA), will show ischemic changes. These infants have a history of poor feeding, irritability, and failure to thrive, then suddenly present with cardiogenic shock secondary to myocardial ischemia.
+
+### 21. List 10 causes of sudden death in young athletes
+
+The most common cardiovascular cause of sudden death in the athlete is hypertrophic cardiomyopathy, accounting for up to 36% of the cardiovascular-related cases
+
+Muscular / Electrical / Valvular / Traumatic / environmental / arrhythmogenic / otherwise
+
+- Hypertrophic cardiomyopathy
+  - Proposed pathophysiologic mechanism of sudden death during exertion in these individuals is thought to be a transient decrease of blood flow out through the aorta or dysrhythmia originating from the hypertrophied ventricular myocardium.
+- Shocking - electrocution
+- Drug related arrhythmias
+- LGL syndrome / WPW / Brugada
+- Trauma - commotio cordis
+- Aortic rupture - Marfan’s
+- Long QT syndrome / Romano Ward syndrome / Lange-Nielsen syndrome (deaf patients)
+- Coronary artery abnormality - ALCAPA, post Kawasaki’s, myocardial bridge
+  - E.g. anomalous left coronary artery, in which the left main and right coronary arteries both arise from the right sinus of Valsalva. Individuals with this particular anomaly have a 46% incidence of sudden death, with more than 85% of the known cases of sudden death occurring during exercise.
+- Idiopathic dilated cardiomyopathy
+
+See Box 170.17 (Cardiovascular Causes of Sudden Death in Young Athletes)
+
+****Any athlete with exertional syncope or chest pain should be evaluated by a cardiologist for the possibility of a congenital coronary artery anomaly. If an anomaly is detected and surgically corrected, the athlete may resume full activity and participation in competitive sports.*****
+
+Individuals with Marfan syndrome should be evaluated for potential cardiac abnormalities before being allowed to participate in competitive sports. Clinical manifestations of the disease include tall and slender habitus, striae atrophicae, disproportionately long extremities compared with the trunk, scoliosis, pectus excavatum or carinatum, and lens dislocation. Approximately 50% of patients with Marfan syndrome have cardiac symptoms such as mitral valve prolapse or aortic dilatation.
+
+Although commotio cordis most commonly occurs in baseball, it has also been reported to occur in ice hockey, lacrosse, softball, and fist fights. Typically occurs in ages 5-15 yrs old.
+
+### 22. What is a normal pediatric QT interval
+
+The corrected QT (QTc) interval in normal individuals should not exceed 0.44 second in children or 0.42 second in adolescents. Individuals with QTc intervals longer than 0.55 second have a higher risk of sudden death.
+
+Pattern: PVC → VT/VF/TdP
+
+Jervell–Lange-Nielsen and the Romano-Ward syndromes are inherited disorders with variable penetrance, characterized by a prolonged QT interval that has been associated with sudden death. Other causes of prolonged QT intervals include hypocalcemia, hypokalemia, hypomagnesemia, myocarditis, and medications (e.g., procainamide, erythromycin, cyclic antidepressants, phenothiazines, quinidine, and organophosphates).
+
+Management of long QT:
+- Pulseless or unstable - CPR, defib, cardio
+- Correct any electrolyte abnormalities
+- Shorten a wide QRS with Sodium Bicarb
+- IV Magnesium
+- IV Lidocaine
+- ?IV esmolol
+
+### 23. What are ECG findings of HCM?
+
+Obstructive hypertrophic cardiomyopathy involves a thickened muscular interventricular septum that bulges into the left ventricle and impedes forward flow, causing chest pain, shortness of breath, pre-syncope, or syncope.
+
+Familial disease - autosomal dominant. Idiopathic in nature. The systolic left ventricular contractile function is vigorous, but the thickened muscle of the left ventricle is stiff, resulting in impaired ventricular relaxation and high diastolic filling pressures.
+
+The nonobstructive form, which occurs when the thickened septum does not block forward flow, occurs in only 0.2% of the general population, yet it is the single most common cardiac cause of sudden death in the young athlete.
+
+Some individuals with hypertrophic cardiomyopathy have experienced previous “warning” episodes of chest pain, dyspnea, syncope, or palpitations during vigorous activities. A family history of sudden unexplained death in young adults should also alert the clinician to the possibility of hypertrophic cardiomyopathy. The majority of young athletes who die of this condition have the nonobstructive form of hypertrophic cardiomyopathy, and the classic loud systolic ejection murmur that is present with the obstructive form may not be heard during the routine pre-sports physical examination (the obstructive form has a systolic murmur that is exacerbated with valsalva).
+
+ECG features:
+1. Left ventricular hypertrophy
+   - Voltage criteria: 11-25-35-45
+     - Limb Leads
+       - R wave in lead I + S wave in lead III > 25 mm
+       - R wave in aVL > 11 mm
+       - R wave in aVF > 20 mm
+       - S wave in aVR > 14 mm
+     - Precordial Leads
+       - R wave in V4, V5 or V6 > 26 mm
+       - R wave in V5 or V6 plus S wave in V1 > 35 mm
+       - Largest R wave plus largest S wave in precordial leads > 45 mm
+   - Non-voltage criteria:
+     - Increased R wave peak time > 50 ms in leads V5 or V6
+     - ST segment depression and T wave inversion in the left-sided leads: AKA the left ventricular ‘strain’ pattern
+2. Left atrial enlargement
+   - In lead II: Bifid P wave with > 40 ms between the two peaks; Total P wave duration > 110 ms. In V1: Biphasic P wave with terminal negative portion > 40 ms duration; Biphasic P wave with terminal negative portion > 1mm deep
+3. Prominent Q waves in the inferolateral leads
+   - Deep, narrow (“dagger-like”) Q waves in the lateral (V5-6, I, aVL) and inferior (II, III, aVF) leads. (<40 ms)
+4. Diffuse T wave inversions (Yamaguchi syndrome) - Q waves may not be present.
+
+The most accurate study for the diagnosis of hypertrophic cardiomyopathy is the echocardiogram, which will demonstrate various degrees of left ventricular hypertrophy and involving the ventricular septum in up to 90% of the cases.
+
+Typical:
+
+- From [Life in the Fast Lane - HCM](https://lifeinthefastlane.com/ecg-library/hcm/)
+
+Apical:
+
+No pharmacologic therapy has been proven to prevent sudden death. Most patients are managed with oral beta blockers.
+
+## Wisecracks
+
+### 1. What is the hyperoxia test? How is it clinically useful?
+
+Thought to help determine cardiac and pulmonary causes of CENTRAL CYANOSIS.
+
+Assessment of the rise in arterial oxygenation with the administration of 100% oxygen. An arterial blood gas is measured after several minutes on high-flow oxygen (100% oxygen).
+
+- After breathing high flow O2 - the PaO2 (you need to use an ABG) should be more than 250 mmHg; if NOT you should suspect a congenital heart disease.
+- Pulse oximetry is not an appropriate substitute for an arterial blood gas analysis; it is not sensitive enough to determine “pass or fail” of the test because a child breathing high-flow oxygen and registering 100% on pulse oximetry may actually have a Pao2 anywhere between 80 and 680 mm Hg
+- See *** below to review the “risk” of hyperoxia
+
+See Table 170.1 (Clinical Clues to Help Distinguish Between Cardiac and Pulmonary Causes of Central Cyanosis)
+
+Values between 100 and 250 mm Hg may indicate lesions with intracardiac mixing.
+
+****Prolonged administration of 100% oxygen may cause some theoretic problems, such as closure of the ductus arteriosus in those infants with critical left-sided heart obstructions or pulmonary vasodilation (which would potentially worsen pulmonary vascular congestion). Oxygen should not be initially withheld in critically ill infants based on this concern alone; rather, providers should closely monitor the response to oxygen in infants with suspected CHD.
+
+### 2. Describe common Xray findings in CHD: “boot-shaped heart”, “egg-on-a-string”, “snowman”
+
+Three things to notice specifically on the chest radiograph (Fig. 170.2):
+1. Cardiac size (cardiothoracic ratio),
+   - The normal cardiothoracic ratio in children is 50% to 55%. The cardiothoracic ratio is not very accurate in preverbal children, in whom a good inspiratory view is rarely obtained
+2. Cardiac shape (silhouette),
+3. Degree of pulmonary vascular markings.
+   - Increased pulmonary vascularity is present when the pulmonary arteries appear enlarged and are visible in the lateral third of the lung fields or the lung apices. Another marker of increased pulmonary vascularity is seen on the posteroanterior view of the chest radiograph: the diameter of the right pulmonary artery in the right hilum is wider than the internal diameter of the trachea.
+     - The cyanotic infant with increased vascular markings may have transposition of the great arteries, total anomalous pulmonary venous return, or truncus arteriosus
+
+You should take a look at where each heart structure is in relation to the film:
+
+Boot shaped heart:
+
+- Normalish cardiothoracic ratio
+- ABNORMAL cardiac silhouette
+- DECREASED PULMONARY vascular markings
+  - Ddx: (think - not enough blood going to lungs!)
+    - TOF
+    - Pulmonary atresia
+    - Tricuspid atresia
+
+The “egg-on-a-string” silhouette of transposition of the great arteries,
+
+- From [Radiopaedia - Egg on a String Sign](https://radiopaedia.org/articles/egg-on-a-string-sign-heart)
+  - Increased cardiac silhouette
+  - Abnormal heart contour
+  - Increased pulmonary vascular markings
+
+“Snowman-shaped” or “figure-of-eight” heart of total anomalous pulmonary venous return.
+
+- [Radiopaedia - Snowman Sign](https://radiopaedia.org/articles/snowman-sign-total-anomalous-pulmonary-venous-return-1)
+  - Increased heart size and abnormal silhouette
+  - Increased markings
+
+### 3. What is Eisenmenger’s Syndrome?
+
+Pulmonary hypertension due to a large unrepaired ASD/VSD; this leads to pulmonary vascular resistance promoting increased right to left shunting and clinically presenting with cyanosis, CP, SOBOE and hemoptysis.
+
+Eisenmenger’s syndrome can occur in any large left-to-right shunt defect that is not surgically corrected. Left uncorrected, irreversible changes in the pulmonary arterioles leads to pulmonary vascular obstruction and pulmonary hypertension. As the degree of pulmonary hypertension increases, the PVR (pulmonary vascular resistance) may then begin to exceed the SVR. This causes right-sided pressures to exceed those on the left, causing right-to-left shunting. The reversal in the direction of shunt flow produces cyanosis. Other clinical features of patients who have Eisenmenger’s syndrome include chest pain, dyspnea on exertion, and hemoptysis.
+
+### 4. Until what age is the thymus visible on CXR
+
+The cardiac size can be falsely increased in infants by the presence of the thymus, seen in the mediastinum on the chest radiograph from birth until about 5 years of age. The thymic borders are typically wavy in appearance and sometimes can be seen as the classic “sail sign” along the superior right border of the heart. The thymic shadow may not be visible radiographically in infants during times of physiologic stress but should reappear when the infant recovers.
+
+### 5. List 8 ductal dependent cardiac lesions in the neonate.
+
+- AS
+- Hypoplastic left heart
+- Coarct
+- TA
+- TGA
+- ToF
+- PA
+- Hypoplastic right Heart
+
+### 6. List features of pathologic heart murmur (7)
+
+The presence of a cardiac murmur may not be associated with an underlying cardiac defect. The location, intensity, quality, timing, and radiation of the murmur determine whether the murmur is suggestive of an underlying cardiac pathologic condition. Although systolic murmurs can be present without any underlying anatomic abnormalities, diastolic murmurs are always considered pathologic in nature.
+
+Think about it as:
+- Any Murmur + any cardiac finding = bad
+- Any murmur that’s really loud or diastolic
+
+1. Exam clues!
+   - Cyanosis
+   - Resp. distress
+   - Bounding or weak pulses!
+2. Auscultation clues:
+   - Diastolic murmur
+   - Loud S3 (soft S3 can be normal)
+   - S4 (stiff ventricle)
+   - Loud systolic murmur
+   - Murmur plus funny clicks, rubs, gallops
+3. Test cues!
+   - Abnormal ECG + murmur
+   - Abnormal CXR + murmur
+
+Innocent murmurs
+
+All innocent murmurs are associated with normal ECGs and normal chest radiographs. Two of the most common innocent murmurs encountered in the pediatric population are the neonatal pulmonic flow murmur (peripheral pulmonic stenosis murmur) and Still’s murmur.
+
+The pulmonic flow murmur of the neonate is due to the relatively thin walls and angulation of the right and left pulmonary arteries at birth. This systolic murmur is best heard at the left upper sternal border with radiation throughout the entire chest, axilla, and back. It usually disappears by 3 to 6 months of age. Persistence of a systolic murmur in the pulmonic area beyond this period should raise the possibility of a pathologic pulmonary arterial stenosis.
+
+Another common innocent murmur in children is Still’s murmur, in children between 2 and 6 years of age. Best heard along the left midsternal border, this murmur has a vibratory, musical, or twanging quality resulting from turbulent flow. The distinct quality of Still’s murmur distinguishes it from a VSD murmur, which has a harsher quality. The intensity of Still’s murmur increases in the supine position, or with fever, excitement, exercise, or anemia; like most murmurs, it is best heard with the bell of the stethoscope.
+
+### 7. When does the ductus arteriosus close functionally? Physically?
+
+Ductus arteriosus functionally closes at about 10 to 15 hours of life
+
+Complete anatomic closure does not occur until 2 to 3 weeks of life.
+
+### 8. When does the foramen ovale close? In what percentage of the population does it remain patent? How might an adult with a PFO present?
+
+Complete anatomic closure of the foramen ovale does not occur until about 3 months of age.
+
+Around 10% of the population has a patent foramen ovale
+
+Emboli phenomenon - diving emergencies, strokes, mesenteric ischemia, limb ischemia, MI.
+
+## References
+
+- [CanadiEM – CrackCast](https://canadiem.org/crackcast/)
+- [Pediatric Pericarditis](http://www.acc.org/latest-in-cardiology/articles/2016/06/08/11/43/pediatric-pericarditis)
+- [Pediatric Pericarditis Review](http://pedsinreview.aappublications.org/content/31/2/83)
+- [Kawasaki Disease Highlights](https://www.pcsp.cps.ca/uploads/publications/Highlights-kawasaki-disease.pdf)
+- [Life in the Fast Lane - HCM](https://lifeinthefastlane.com/ecg-library/hcm/)
+- [Radiopaedia - Egg on a String Sign](https://radiopaedia.org/articles/egg-on-a-string-sign-heart)
+- [Radiopaedia - Snowman Sign](https://radiopaedia.org/articles/snowman-sign-total-anomalous-pulmonary-venous-return-1)
+```

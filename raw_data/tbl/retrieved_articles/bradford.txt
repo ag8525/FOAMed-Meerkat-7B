@@ -1,0 +1,97 @@
+# Metadata
+- Source: The Bottom Line
+- Title: Bradford
+- Original URL: https://www.thebottomline.org.uk/summaries/icm/bradford/
+- Scrape Date: 2025-07-17
+- Summary Date: AUTO_FILL_IF_AVAILABLE
+
+A randomised controlled trial of induced hypermagnesaemia following aneurysmal subarachnoid haemorrhage
+@celiabradford
+2013. Crit Care Resusc.15(2):119-125
+Clinical Question
+In patients with aneurysmal subarachnoid haemorrhage does induced hypermagnesaemia reduce the incidence of cerebral artery vasospasm?
+Design
+Randomised controlled trial
+Randomisation stratified by World Federation of Neurosurgical Society Grade of SAH
+Variable block size
+Allocation concealment maintained through use of sealed opaque envelopes
+Clinical staff in intensive care non-blinded to treatment allocation
+Outcome assessors and neurosurgical staff blinded to treatment allocation
+Sample size calculation: 190 patients would provide 80% power to detect a reduction in the incidence of vasospasm from 60% to 40%
+Setting
+2 tertiary centres in Australia
+April 2005 – December 2009
+Population
+Inclusion:
+Clinical history consistent with aneurysmal SAH occurring within the previous 72 hours
+Aneurysmal SAH confirmed on CT
+Exclusion:
+Age <18; creatinine >200mmol/L; death thought imminent within 72 hours; myasthenia gravis; pregnancy; cerebral vasospasm present before inclusion
+162 patients randomised
+Comparing intervention to control group:
+Age (mean) 55.8 vs. 56.6
+Aneurysm size <5mm: 27.1% vs. 34%
+Aneurysm size >10mm: 22% vs. 8%
+GCS on admissiona (mean): 12.3 vs. 12.4
+WFNS grade:
+1: 48.1% vs. 42%
+2: 23.5% vs. 28.4%
+3: 2.5% vs. 3.7%
+4: 11.1% vs. 13.6%
+5: 44.9% vs. 58%
+Hydrocephalous present: 44.9% vs. 58%
+APACHE II (mean): 14.1 vs. 13.4
+Intervention
+High target range for serum magnesium (1.60-2.50 mmol/L)
+Mean serum magnesium in intervention group during study period: 1.70
+Control
+Standard target range for serum magnesium (0.65-1.05 mmol/L)
+Mean serum magnesium in control group during study period: 0.87
+In both intervention and control groups
+Patients received an IV infusion of magnesium sulphate at a constant rate of 20ml/hr; the concentration was adjusted to achieve the target concentration.
+The trial intervention was discontinued 12 days post original haemorrhage or on discharge from ICU, or if death thought to be imminent.
+Management of SAH based upon standard treament strategies
+Wherever possible, ruptured aneurysms secured by surgical or endovascualr treatment within 48 hours
+All patients received nimodipine
+BP supported with noradrenaline aiming for systolic BP of 120-160mmHg once aneurysm secure.
+Patients underwent cerebral angiography on day 5, or earlier if they developed clinical signs of suggestive of vasospasm.
+Clinically relevant vasospasm treated with chemical or balloon angioplasty and angiography was repeated daily until vasospasm resolved
+Outcome
+Primary outcome: Incidence of cerebral arterial vasospasm diagnosed by digital subtraction angiography and adjusted for baseline characteristics – No significant difference
+Odds Ratio 0.51 (95% C.I. 0.26-1.02, P=0.06)
+Secondary outcomes: No significant difference
+Glasgow outcome score at 90 days
+Modified rankin score at 90 days
+Proportion of patients requiring endovascular treatment for vasospasm
+Duration of ICU stay
+Tertiary outcomes
+Median amount of noradrenaline administered was significantly higher in the intervention group
+The mean serum calcium concentration was significantly lower in the intervention group
+Authors’ Conclusions
+Targeting high-range magensium levels in patients with SAH decreased vasospasm, but this was not statistically significant
+Strengths
+Randomised controlled trial
+Allocation concealment maintained
+Blinding of assessors of primary outcome
+Good separation of magnesium level between intervention and control group
+Intention to treat analysis
+Weaknesses
+Under powered
+ICU clinicians non-blinded
+Did not assess level of agreement (Kappa score) between assessors of primary outcome
+Did not record BP of patients in study. Any differences may have influenced results.
+The Bottom Line
+This underpowered study found a non-significant reduction in vasospasm post SAH in patients treated with hypermagnesaemia. Larger trials will be required to determine if there is a significant difference and if this is results in improvements in patient-orientated outcomes.
+Competing Interests
+The lead author is an editor for The Bottom Line. However, this summary and critique has been written and peer-reviewed independently from the authors
+External Links
+[article]
+A randomised controlled trial of induced hypermagnesaemia following aneurysmal subarachnoid haemorrhage
+[further reading]
+ICN & Celia Bradford: Vasospasm after SAH
+Metadata
+Summary author:
+@davidslessor
+Summary date: 3rd Nov 2015
+Peer-review editor:
+@DuncanChambler

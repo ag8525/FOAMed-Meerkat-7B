@@ -1,0 +1,150 @@
+# Metadata
+- Source: The Bottom Line
+- Title: PlasmAr
+- Original URL: https://www.thebottomline.org.uk/summaries/plasmar/
+- Scrape Date: 2025-07-17
+- Summary Date: AUTO_FILL_IF_AVAILABLE
+
+A Randomized Trial of Convalescent Plasma in Covid-19 Severe Pneumonia
+Simonovich. The New England Journal of Medicine; November 24, 2020.
+DOI: 10.1056/NEJMoa2031304
+Clinical Question
+In hospitalized adult patients with severe Covid-19 pneumonia, does convalescent plasma compared with placebo, improve patients’ clinical status at 30 days?
+Background
+Efficacy with convalescent plasma (predominantly from open-label, non-randomized trials) has been claimed for a variety of infections including SARS, Middle East respiratory syndrome (MERS), influenza A (H1N1) in 2009, avian influenza (H5N1) and Ebola
+Convalescent plasma has been frequently administered to patients with Covid-19
+Conclusive data for convalescent plasma use for patients with Covid-19 based on randomized clinical trials has been lacking
+Design
+Double-blind, placebo-controlled, multicenter trial
+Random assignment via REDCap randomization program in a 2:1 ratio to receive either convalescent plasma or placebo
+Designed to enroll 333 patients (222 in the plasma group and 111 in the placebo group) to provide 80% power to detect a proportional odds ratio of 1.8 for plasma as compared with placebo on the clinical ordinal scale at the 0.05 (two-sided) level of significance
+Ultimately 334 patients were enrolled out of 448 patients who were screened, but one patient withdrew consent prior to intervention
+Setting
+Conducted at 12 clinical sites in Argentina between May 28 and August 27, 2020
+Population
+Inclusion
+:
+Adults over 18 years old
+RT-PCR assay of a respiratory tract sample that was positive for SARS-CoV-2
+Radiologically confirmed pneumonia
+No previous directives rejecting advanced life support
+At least one of the following severity criteria
+Oxygen saturation (SaO2) < 93% while at rest and breathing ambient air
+A ratio of the partial pressure of oxygen (PaO2) to the fraction of inspired oxygen (FiO2) < 300 mm Hg (PaO2:FiO2)
+A Sequential Organ Failure Assessment (SOFA) or modified SOFA (mSOFA) score of ≥2 points above baseline status
+Exclusion
+:
+Pregnant or lactating
+Patients of reproductive age who were not willing to use
+contraceptive measures for a period of 30 days after enrollment
+History of blood component allergies
+An infectious cause of pneumonia other than SARS-CoV-2
+A requirement for mechanical ventilation, multiorgan failure, or any other condition that would impede the provision of informed consent
+228 patients received convalescent plasma and 105 patients received placebo
+Median time from the onset of Covid-19 symptoms to enrollment was 8 days
+Baseline demographics (intervention vs control)
+Median age: 62.5 vs 62 years
+Age category
+<65 yr: 55.3% vs 51.4%
+≥65 to <80 yr: 32.9% vs 41%
+≥80 yr: 11.8% vs 7.6%
+Female sex — 29.4% vs 39.0%
+Median time to onset of symptoms (IQR) days: 8 (5–10) vs 8 (5–10)
+Severity inclusion criteria
+Oxygen saturation <93% at FiO2 0.21: 98.2% vs 95.2%
+mSOFA or SOFA ≥2: 14% vs 16.2%
+Use of oxygen supplementation devices (n=299)
+Low-flow nasal cannula: 64.0% vs 66.7%
+Venturi or non-rebreather mask: 21.5% vs  15.2%
+High-flow nasal cannula: 4.8% vs 6.7%
+Noninvasive ventilatory support: 0 vs 0
+Other treatments during trial
+Glucocorticoids: 91.7% vs. 96.2%
+Tocilizumab: 2.6% vs. 7.6%
+Intervention
+Conalescent plasma
+Single administration of Covid-19 convalescent plasma in addition to standard treatment
+Convalescent patients from between 1-5 donors
+Total antibody titer goal in each plasma pool was > 1:800 in all cases
+Median volume of infused convalescent plasma was 500 ml
+Control
+Placebo
+Single administration of placebo (normal saline solution) in addition to standard treatment
+Management common to both groups
+Antiviral agents, glucocorticoids, or both were allowed if part of the standard of care at the health care institution
+Treatments during trial
+Glucocorticoids: 91.7% vs. 96.2%
+Tocilizumab: 2.6% vs. 7.6%
+Remdesevir: 0% vs. 0%
+Outcome
+Primary outcome
+: Clinical status 30 days after intervention – no significant difference
+Based on mutually exclusive ordinal categories on an adapted version of the World Health Organization (WHO) clinical scale –
+1: death
+2: invasive ventilatory support
+3: hospitalized with supplemental oxygen requirement
+4: hospitalized without supplemental oxygen requirement
+5: discharged without full return to baseline physical function
+6: discharged with full return to baseline physical function
+No significant difference was noted between the convalescent plasma group and the placebo group in the distribution of clinical outcomes according to the ordinal scale
+Odds ratio, 0.83; 95% confidence interval [CI], 0.52 to 1.35; P=0.46
+Remained non-significant after adjustment for sex, history of COPD, and history of tobacco use
+Odds ratio, 0.92; 95% CI, 0.59 to 1.42; P=0.70
+Secondary outcomes
+Comparing intervention vs. control group – no significant differences in:
+30 day mortality
+10.96% vs. 11.43% (risk difference -0.46%; 95% CI, -7.8 to 6.8)
+Invasive ventilatory support at 30 days
+8.3% vs. 9.5%
+Proportion that required invasive ventilatory support
+26.8% vs. 22.9%
+Clinical status on the ordinal scale at days 7 and 14 and the time (in days) to discharge from the hospital
+7 days (odds ratio, 0.88; 95% CI, 0.58 to 1.34)
+14 days (odds ratio, 1.00; 95% CI, 0.65 to 1.55)
+Time to hospital discharge (median days)
+13 vs 12, Subhazard ratio, 1 (0.75–1.32)
+Adverse events
+– no significant differences in
+Overall incidence of adverse events
+Odds ratio, 1.21; 95% CI, 0.74 to 1.95
+Serious adverse events
+Odds ratio, 1.40; 95% CI, 0.78 to 2.51
+Infusion-related events
+Odds ratio, 3.13; 95% CI, 0.69 to 14.11
+Sub-group analysis
+There was a significant difference in the primary outcome, in favour of placebo, for patients younger than 65 years of age
+Odds ratio 0.18; 95% CI, 0.06 to 0.54
+Authors’ Conclusions
+“The use of convalescent plasma did not result in a significant clinical benefit as compared with placebo in patients with severe Covid-19 pneumonia”
+Strengths
+Randomized, controlled trial
+Authors attempted to identify subgroups which may have benefited from the intervention
+No external funding provided for the study
+Both participants and the clinical research team remained blind to the treatment assignment
+Limitations
+Median time from the onset of Covid-19 symptoms to enrollment was 8 days
+Authors note that no difference was seen in a subgroup 39 patients who received the intervention within 72 hours after the onset of symptoms
+Median time from the onset of symptoms to progression to respiratory failure is around 7 days
+Study conducted in patients with severe Covid-19 pneumonia
+Authors note that the study cannot draw firm conclusions about potential efficacy of passive immune therapy earlier than the median time of entry to this trial or in patients with milder forms of the disease
+Per-protocol analysis, as the patient who withdrew consent and did not receive the intervention was not included
+The Bottom Line
+The data from PlasmAr demonstrate a lack of benefit for the study population of patients severe pneumonia due to Covid-19 in terms of convalescent plasma’s ability to reduce mortality or improve other clinical outcomes at day 30
+Unclear if patients with milder forms of pneumonia or earlier administration of convalescent plasma would be beneficial
+External Links
+[article]
+A Randomized Trial of Convalescent Plasma in Covid-19 Severe Pneumonia
+[further reading]
+PlasmAr supplementary index at NEJM
+[further reading]
+Convalescent plasma in the management of moderate Covid-19 in adults in India: open label phase II multicentre randomised controlled trial (PLACID trial)
+[further reading]
+ConPlas-19 trial (failed to complete enrollment)
+[further reading]
+ConCOVID trial (stopped early)
+[further reading]
+Effect of Convalescent Plasma Therapy on Time to Clinical Improvement in Patients With Severe and Life-threatening COVID-19 (stopped early)
+Metadata
+Summary author: Dan Hu
+Summary date: 11/29/2020
+Peer-review editor: david slessor

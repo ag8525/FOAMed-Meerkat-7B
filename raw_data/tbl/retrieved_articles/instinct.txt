@@ -1,0 +1,105 @@
+# Metadata
+- Source: The Bottom Line
+- Title: INSTINCT
+- Original URL: https://www.thebottomline.org.uk/summaries/icm/instinct/
+- Scrape Date: 2025-07-17
+- Summary Date: AUTO_FILL_IF_AVAILABLE
+
+Immunoglobulin G for patients with necrotising soft tissue infection: a randomised, blinded, placebo-controlled trial
+Madsen. Intensive Care Med. 2017 Apr 18 (doi: 10.1007/s00134-017-4786-0)
+Clinical Question
+In patients with necrotising soft tissue infection (NSTI), does the use of intravenous immunoglobulin (IVIG) compared to placebo improve patient reported physical outcomes?
+Background
+IVIG consists of pooled plasma from 2000-10000 donors with the IVIG fraction
+IVIG has anti-infective and immunomodulatory properties. It inhibits the activity of streptococcal and staphylococcal virulence factors
+NSTI’s are characterised clinically by fulminant tissue destruction, systemic signs of toxicity, and high mortality
+Type 1: Polymicrobial: Anaerobic e.g. clostridium, non GAS, E Coli, klebsiella etc.
+Type 2: Monomicrobial (GAS most common), staphylococcus, MRSA
+Prior to INSTINCT, The effects of IVIG vs placebo have been assessed in only
+one small RCT
+. This was stopped early because of slow recruitment rate (21 patients). The evidence base for IVIG therefore comes mainly from retrospective studies
+Design
+Randomised blinded placebo controlled
+All patients with confirmed NSTI (diagnosed in theatre by the surgeon) were screened
+1:1 randomisation
+Stratified according to the presence or absence of NSTI on either head/neck/extremities to obtain a subgroup with a presumed higher rate of streptococcal or staphylococcal infections
+Variable block sizes of 2,4 and 6 were computer generated
+Opaque and sealed envelopes were used
+Blinded administration and analysis
+Physical component summary (PCS) score  of SF-36 at 180 days after randomisation (0-100)
+PCS is composed of four scales assessing physical function, role limitations caused by physical problems, bodily pain, and general health. Higher scores represent better physical health
+100 patients needed to show a 7 point increase (15% relative increase) in PCS score at day 180 on the basis of a mean PCS score of 42 in the control group, an alpha of 0.05 and a power of 80%
+Setting
+Single specialist centre for management of NSTI in Denmark
+April 2014 – March 2016
+Population
+Inclusion: Adult patients with confirmed NSTI at surgery and who were admitted to, or planned to be admitted to the ICU
+Exclusion:
+Patients who had received more than one dose of IVIG before randomisation
+> 48 hours of NSTI
+Pregnant or Breast feeding
+Hypersensitivity to IVIG
+129 patients were screened, 100 were enrolled
+Baseline characteristics were similar although there were some differences in the following:
+Higher in the IVIG group
+Acute kidney injury: 10% vs 1%
+Presence of monomicrobial infection with Group A streptococcus: 56% vs 31%
+Lower in the IVIG group
+Median time from admission to primary operation was lower in the IVIG group: 18 vs 25 hours
+IVIG received before randomisation was lower in the IVIG group: 16% vs 40%
+Presence of monomicrobial infection with S.Aureus: 0% vs 23%
+Intervention
+IVIG 25g/day for three consecutive days
+Control
+0.9% sodium chloride – equivalent volume for three consecutive days
+In both groups
+All other interventions given at discretion of treating physician as per the unit protocol. This included: repeated surgical revisions, intravenous antimicrobials (clindamycin, meropenem and ciprofloxacin) and three sessions of hyperbaric oxygen; sepsis and supportive intensive care
+Outcome
+Primary outcome: Mean physical component summary (PCS) score at day 180 after randomisation was higher, but not statistically significant, in the IVIG group
+36 (IQR 0-43) vs 31 (IQR 0-47); 95% CI -7 to 10, P=0.81
+No statistical difference between groups in the analyses when adjusted for age and SOFA scores at baseline
+Secondary outcomes: No statistical difference in any outcomes. These included:
+Mortality at 28, 90 and 180 days
+Time to resolution of shock
+Severe bleeding (3 units of PRBC’s within 24 hours of the episode in ICU after randomisation)
+Any bleeding in the ICU after randomisation
+Total volume of blood products used in the ICU after randomisation
+SOFA scores at days 1-7 (excluding the GCS component)
+Use of RRT, ventilation and vasopressor in the ICU
+Serious adverse events
+Days alive off life support in the 90 days after randomisation
+Days alive and out of hospital in the 180-day follow-up period
+Any amputation within the 180 days
+Authors’ Conclusions
+In ICU patients with NSTI, there was no apparent effects of adjuvant IVIG on self-reported physical functioning at 6 months
+Strengths
+Randomised
+Blinded
+Patient reported outcomes
+Early intervention (in theatre/ICU on confirmed diagnosis)
+Protocolised management
+Registered with ClinicalTrials. gov (NCT02111161), before the inclusion of the first patient, and the trial protocol, including the statistical analysis plan, has been published
+Weaknesses
+Single prior dose of IVIG allowed
+A lower dose of IVIG was administered compared with most UK practice. This limits the external validity
+The proportion of patients infected with either group A streptococcus or S.Aureus was unevenly distributed between the two groups
+Management of NTSI is centralised in Denmark. Details around initial supportive management and transfer are not supplied and differences would effect both internal and external validity. Most referring hospitals did however perform the initial surgery
+Hyperbaric oxygen is not typical practice in UK which affects the external validity
+Antimicrobial use was based on unit policy but is not typical for UK practice. This again might limit the studies external validity
+The Bottom Line
+This study does not demonstrate a statistically significant difference in patient centred outcomes when IVIG is used in combination with surgery, antimicrobials and hyperbaric oxygen, although the wide 95% CI do not exclude a clinically meaningful harm or benefit
+Despite a number of weaknesses, this trial provides valuable data to inform future studies on NSTI’s
+Further studies should concentrate on identifying and treating subgroups of NSTI’s, particularly with streptococcal and staphylococcal infections
+External Links
+[article]
+Immunoglobulin G for patients with necrotising soft tissue infection: a randomised, blinded, placebo-controlled trial
+[Editorial]
+Therapeutic targets in necrotizing soft tissue infections
+[further reading]
+Darenberg. Intravenous immunoglobulin G therapy in streptococcal toxic shock syndrome: a European randomized, double-blind, placebo-controlled trial. 2003
+Metadata
+Summary author:
+Ben Harris
+Summary date: 24th May 2017
+Peer-review editor:
+Steve Mathieu

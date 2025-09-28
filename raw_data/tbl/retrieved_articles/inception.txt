@@ -1,0 +1,210 @@
+# Metadata
+- Source: The Bottom Line
+- Title: INCEPTION
+- Original URL: https://www.thebottomline.org.uk/summaries/inception/
+- Scrape Date: 2025-07-17
+- Summary Date: AUTO_FILL_IF_AVAILABLE
+
+Early Extracorporeal CPR for Refractory Out-Of-Hospital Cardiac Arrest: The INCEPTION Trial
+Suverein et al | NEJM | January 2023 |DOI: 10.1056/NEJMoa2204511
+Clinical Question
+In patients with refractory out-of-hospital cardiac arrest (OHCA) and an initial ventricular arrhythmia, does extracorporeal cardiopulmonary resuscitation (ECPR), as compared with conventional CPR (CCPR), improve survival with a favourable neurologic outcome
+Background
+Out of hospital cardiac arrest (OHCA) remains a major public health problem with an extremely high mortality rate
+Refractory cardiac arrest is defined as a cardiac arrest that lasts >15 minutes despite attempts at resuscitation
+Conventional CPR (including high quality chest compressions and defibrillation) is generally ineffective after 20-30 minutes duration
+Extracorporeal CPR (ECPR) can restore perfusion and limit hypoxic brain injury in selected patients
+However the evidence from the two randomised trials is limited:
+The ARREST trial (Lancet 2020) included 30 patients with VT/VF as the initial rhythm. Survival to hospital discharge was improved with ECPR: 6/14 (43%) vs 1/15 (7%) (with a posterior probably of benefit 0.98%), although it was stopped early due to benefit, was single centre, and had small numbers
+The PRAGUE OHCA trial (JAMA 2022) included 260 patients, with VT/VF and PEA. A hyperinvasive approach, including earlier transport from the scene and higher rates of ECMO, resulted in numerically but not significantly increased improvement in a good neurological outcome at day 180 (32% vs 22% P=0.09). This trial was also stopped early due to futility, was single centre, and had a 7.5% crossover rate
+Thus, the evidence for ECPR in OHCA is limited, being limited to single centres with low numbers, and there is concern about the generalisability of these findings to other systems.
+Design
+The INCEPTION trial was a multicentre, randomised, unblinded, parallel-group, investigator-initiated clinical trial
+Setting
+10 cardiosurgical centres and 12 emergency medical services in the Netherlands
+Mixture of higher volume (2x>30 total cases) and lower volume (8x<15cases) centres
+Recruitment was from May 2017 through to February 2021
+Two pauses of the trial occurred during the coronavirus outbreak in 2020 and 2021 but resumed immediately afterwards (Figure S1 in supplement)
+No specific trial protocol – rather existing local emergency services (EMS) and hospital ECPR protocols were used
+Location of ECPR initiation was mixed (ED, angiography lab) and cannulators (surgeons, interventional cardiologists, and intensivists)
+Population
+Inclusion
+:
+Out of hospital cardiac arrest patients
+18-70 years old
+Witnessed
+Shockable initial rhythm (VF or VT diagnosed by EMS, or shockable rhythm on AED)
+Refractory (Cardiac arrest persisting despite >15 minutes advanced life support)
+Exclusion
+:
+Return of spontaneous circulation with sustained HD recovery within 15 minutes
+Severe pulmonary disease (grade III or IV on the Chronic Obstructive Pulmonary Disease Global Initiative for Obstructive Lung Disease criteria)
+Disseminated oncologic disease
+Obvious or suspected pregnancy
+Bilateral femoral bypass surgery
+Known contraindications for extracorporeal CPR
+Known advance health-care directive prohibiting resus-
+citation or invasive ventilation
+Expected time interval of more than 60 minutes between
+the initial cardiac arrest to the initiation of the
+cannulation procedure
+Known Cerebral Performance Category score of 3 or 4 (indicating severe neurologic disability or persistent vegetative state)
+before cardiac arrest
+Multi-injury trauma (Injury Severity Score >15 on a scale of 0 to 75, with higher scores indicating more severe injury
+Terminal heart failure (NYHA class III or IV)
+Enrolment, Randomisation and Blinding
+Enrolment and randomisation occurred either during EMS transport (after patient information was relayed to the receiving hospital) or once arrived at the hospital
+EMS teams were blinded en route (but not at the hospital)
+Randomization occurred in a 1:1 ratio with
+Permuted-blocks (in block sizes of 2, 4, and 6)
+Stratified according to center
+Smartphone application (Randomizer, Medical University of Graz, Aus-trial)
+Randomised patients were again assessed upon arrival at the hospital and could be excluded (ie post randomisation) following a review of the eligibility criteria (these patients were still included in the ITT analysis according to that arm)
+Patients >60 minutes on arrival could still be included (despite it being an exclusion criteria at the time of randomisation)
+Patients with return of spontaneous circulation (ROSC) did not undergo ECPR, but were still included in ITT analysis
+Screening
+2107 were screened in 5/10 sites that kept a screening log
+113 included (after removing 1994 or 95%)
+Most exclusions were due to being out of age criteria or initial non shockable rhythm
+44 pateints were not included for logistical reasons (team not available or misinterpretation of selection criteria)
+A further 47 patients were added from the 5/10 sites that didn’t keep a screening log
+160 patients were randomised
+26 were excluded post randomisation in ED
+9 unwitnessed, 5 were >70 years old, 5 had non shockable rhythm
+70 assigned to receive extracorporeal CPR
+52 received the intervention (13 had ROSC prior, 3 had “logistic failure”)
+46 had successful cannulation
+Thus only 46/70 (66%) of the group randomised to ECPR actually successfully received the therapy
+64 assigned to conventional CPR
+52 received conventional CPR (9 had ROSC prior, 3 crossovers received ECPR – all died)
+52/64 (81%) received the therapy
+Comparing baseline characteristics of
+Extracorporeal CPR (n=70) vs Conventional CPR (n=64) groups – o
+verall reasonably well balanced (below are the means or percentages)
+Mean age: 54 vs 57
+Male: 90% vs 89%
+Cardiac arrest details
+Primary shockable Rhythm: 99 vs 98%
+Witnessed 97% vs 98%
+CPR <5 minutes post arrest: 99% vs 95%
+Total number of defibrillations: 8 vs 9
+Transport distance 17km vs 16km
+Cause of arrest
+AMI 73% vs 81%
+Secondary arrhythmia 16% vs 17%
+Pulmonary embolus 1% vs 0
+Medical history
+Acute coronary syndrome 10/61 (16%) vs 10/55 (18%)
+Coronary artery disease: 7/61 (12%) vs 6/53 (11%)
+PCI: 5/62 (8%) vs 5/53 (9%)
+Chronic heart failure: 6/62 (6%) vs 2/52 (4%)
+CVA: 3/61 (5%) vs 9/54 (17%)
+Diabetes: 10/62 (16%) vs 6/54 (11%)
+Current smoker 20/35 (57%) vs 18/33 (55%)
+Primary Outcome and Power Calculation
+The primary outcome: survival with a favourable neurologic outcome, defined as a Cerebral Performance Category score of 1 or 2 (normal or disabled but independent) at 30 days
+This assessment was performed via an independent neurologist who was unaware of the trial group assignments and completed by telephone or in person.
+Power calculation:
+Initially 49 patients in each group would give an 80% power to detect an improvement from 8% to 30% in the primary outcome. This was inflated by 10% to 55 per group to account for discontinuation.
+Following an interim analysis at 70 patients, it was noted that 6/27 (22%) of those assigned to ECPR did not receive it due gaining ROSC prior to ECPR initiation.
+DSMC recalculated the sample size to ensure there would 49 patients in the ECPR group, for a new total of 134 (which was met).
+Intervention
+Extracorporeal CPR
+Initiated by qualified physician via bifemoral approach
+No prespecified protocol for initiation, maintenance or weaning, rather all done according to local hospital protocol
+Control
+Conventional CPR
+This was continued until ROSC or declaration of death.
+Management common to both groups
+Post resuscitation care, including targeted temperature management, was delivered according to 2015 ESR guidelines and institutional protocols
+Neurological assessment and withdrawal of care
+Conducted according to international guidelines, including neurological evaluation and when indicated, SSEP, CT or EEG
+Appear to have been done by unblinded clinical teams (although this was not clearly specified)
+Extracorporeal CPR vs conventional CPR Time Intervals
+Start of arrest to EMS arrival: 8±4 vs 8±4 minutes
+Start of arrest to EMS transport to hospital: 21±9 vs 25±9 minutes
+Start of arrest to randomisation: 32±10 vs 34±12 minutes
+Start of arrest to arrival at ED: 36±12 vs 38±11 minutes
+Start of arrest to start of cannulation: 58 ±13 minutes
+Hospital arrival to start of cannulation: 16 (11-22) minutes
+Cannulation time: 20 (11-25) minutes
+Start of arrest until ECLS flow (“low flow”): 74 (63-87) minutes
+46/52 (88%) had successful cannulation and circulation
+Outcome
+Primary outcome
+:
+No significant difference in survival with a favourable neurologic outcome, defined as a Cerebral Performance Category score of 1 or 2 (normal or disabled but independent) at 30 days
+Extracorporeal CPR vs Conventional CPR 14/70 (20%) vs 10/62 (16%), OR 1.4; 95% CI, 0.5 to 3.5; P = 0.52
+Secondary outcomes
+:
+3-month survival with favourable neurological outcome
+6-month survival with favourable neurologic outcome
+No significant difference
+Admission to ICU more common: 57 (81%) vs 23 (36%)
+Discontinuation of treatment
+Neurological unfavourable 24/56 (43%) vs 4/51 (8%)
+Multiple organ failure 15/56 (27%) vs 7/51 (14%)
+No more treatment options: 5/56 (9%) vs 40/51 (78%)
+Adverse events
+Extracorporeal CPR vs Conventional CPR
+Major bleeding 11/70 (16%) vs 2 (3%)
+Post anoxic encephalopathy 24/70 (34%) vs 3 (5%)
+Limb Ischaemia 4 (6%) vs 0 (0)
+ECMO circulation failure 9 (13%) vs 0 (0)
+Authors’ Conclusions
+In this multicentre, pragmatic, randomized, trial, extracorporeal CPR and conventional CPR had similar effects on survival with a favourable neurologic outcome at 30 days in patients with refractory out-of-hospital cardiac arrest caused by an initial ventricular arrhythmia
+Strengths
+Internal validity:
+Web based randomisation
+Baseline factors reasonably well balanced
+Minimal loss to follow up
+Prepublished statistical analysis plan, with adjustment of the primary outcome due to site
+Intention to treat analysis
+Tests the effect of an ECPR strategy and is therefore more “real world” than a per protocol analysis
+Sponsorship was independent
+DSMC oversight of trial
+Relatively fast recruitment over the 4 years – so likely little practice change during the trial
+External generalisability:
+Multicentre, covering a broad range of metropolitan sites
+Enrolled the actual population that they set out to investigate, including the younger, witnessed, VF/VT and refractory CA population
+Weaknesses
+Internal validity
+Intervention
+Only 46/70 (66%) of the group allocated to receive ECPR actually received it – potentially reducing any treatment effect
+Underpowered
+Control arm survival was double than planned in the power calculation (16% vs 8%)
+Final numbers with the primary outcome were small: 14 vs 10 CPC 1 or 2, increasing the risk of type 2 error (false negative)
+Lack of blinding
+Receiving teams in ED were not blinded to their allocation (and they could withdraw patients).
+Decisions about discontinuation of treatment and neuroassessments were not blinded
+Median ICU stay in the ECPR group was 1 (1-4) day vs 4 (1-9) days in conventional CPR group. This is a much shorter shorter interval than in other trials and may point towards a detection bias.
+Trial protocol was not specified
+Possible significant variability in how the intervention and control were delivered across prehospital, ECPR and hospital settings
+External validity
+The ECPR centres had highly variable experience
+Many sites had low ECPR numbers and were therefore potentially less experienced and with less developed systems of ECPR delivery. This may have been important as previous studies have suggested an important volume outcome relationship in ECMO which is a complex and systems wide intervention
+The time from hospital arrival to start of cannulation (16 minutes) is prolonged compared to other similar studies
+Low flow time was prolonged: median 74 (IQR 63-87) minutes
+This compares to 59 minutes low flow time in the ARREST trial and 58 minutes in the PRAGUE study
+Therefore the “Early” in the title of INCEPTION would not be consistent with the other two RCTs on this topic
+Survival in those that actually received ECPR was 5/52 (9.6%). This is significantly lower than the other previously conducted RCTs (ARREST trial 46%, PRAGUE study 31.5% and current ELSO data 20-30%)
+Thus the findings of this study may not be generalisable to other higher volume centres
+Very fast EMS times from arrest to hospital
+36 and 38 minutes respectively has not been reproduced in many other systems
+Possibility contributed to the higher than expected control arm survival
+The Bottom Line
+Extracorporeal CPR for OHCA with prolonged low flow times did not significantly improve neurologically favourable outcomes in this trial
+However, Extracorporeal CPR is a complex system-based intervention, where many factors beyond the ECMO itself drive outcomes for patients. Of note, this trial included lower volume centers that likely had less developed ECPR systems
+The two previous trials on this topic, with potentially more mature EPCR systems and shorter low flow times, suggest a potential benefit from ECPR
+Therefore the potential benefit of ECPR in these different settings has not been disproven by this study
+Future research needs define the optimal systems that can deliver effective ECPR, whether these findings are reproducible, and whether ECPR is a cost effective intervention
+External Links
+Article: Early Extracorporeal CPR for Refractory Out-of-Hospital Cardiac Arrest
+Article:
+Advanced reperfusion strategies for patients with out-of-hospital cardiac arrest and refractory ventricular fibrillation (ARREST): a phase 2, single centre, open-label, randomised controlled trial
+Article:
+Effect of Intra-arrest Transport, Extracorporeal Cardiopulmonary Resuscitation, and Immediate Invasive Assessment and Treatment on Functional Neurologic Outcome in Refractory Out-of-Hospital Cardiac Arrest
+Metadata
+Summary author: Aidan Burrell @aidanburrell
+Summary date: 23/02/203
+Peer-review editor: Chris Nickson @precordialthump

@@ -1,0 +1,168 @@
+---
+url: https://thesgem.com/2017/09/sgem186-apneic-and-the-o-o-o2-for-rapid-sequence-intubation/
+title: "SGEM#186: Apneic and the O, O, O2 for Rapid Sequence Intubation"
+date: 2017-09-03
+audio_url: https://media.blubrry.com/thesgem/content.blubrry.com/thesgem/SGEM186.mp3
+download_date: 2025-08-11
+---
+
+
+**Reference:**[Caputo et al](http://onlinelibrary.wiley.com/doi/10.1111/acem.13274/abstract). EmergeNcy Department use of Apneic Oxygenation versus usual care during rapid sequence intubation: A randomized controlled trial (The ENDAO Trial). AEM 2017.
+
+**Guest Skeptic:**Dr. Rory Spiegel is a clinical instructor at University of Maryland and a recent graduate of Stony Brook’s Resuscitation Fellowship. He writes an excellent blog called [EM Nerd](http://emcrit.org/category/emnerd/), which he describes as nihilistic ramblings.
+
+**Case:** A 68-year-old female presents with shortness of breath. She has experienced fever, chills and a productive cough worsening over the past five days. Chest X-ray demonstrated bilateral infiltrates consistent with multifocal pneumonia.
+
+Over her emergency department course the patients starts to decompensate despite high-flow nasal cannula and broad-spectrum antibiotics.  The decision is made to intubate the patient. The question arises whether apneic oxygenation should be used during the rapid sequence intubation.
+
+**Background:** Much has been written regarding the benefits of apneic oxygenation (1,2). Its physiological underpinnings are sound and its logistical and resource based costs are minimal.
+
+As such it has enjoyed widespread adoption throughout the Emergency Medicine and Critical Care world. Despite its popularity the evidence supporting its use has been less inspirational.
+
+There have been some studies in various clinical settings (operating room, critical care and pre-hospital) that have demonstration benefit of apneic oxygenation. There are two observational studies from the emergency department showing an association between apneic oxygenation and an increased first pass success without hypoxemia and reduction in the incidence of hypoxemia during the rapid sequence intubation of patients with intracranial hemorrhage (3, 4)
+
+The [FELLOW](https://www.ncbi.nlm.nih.gov/pubmed/26426458) (Facilitating EndotracheaL intubation by Laryngoscopy technique and apneic Oxygenation Within the intensive care unit) Trial was a randomized controlled trial demonstrating no difference in desaturation rates with apneic oxygenation vs. usual care.
+
+However, this study was performed in the intensive care unit and not in the emergency department setting (5).
+
+---
+
+### **Clinical Question:** Does the use of apneic oxygenation in emergency department during rapid sequence intubation decreases the rate of clinically important desaturation, leading to a decrease in peri-intubation complications and death?
+
+---
+
+**Reference:** Caputo et al. EmergeNcy Department use of Apneic Oxygenation versus usual care during rapid sequence intubation: A randomized controlled trial (The ENDAO Trial). [AEM 2017](http://onlinelibrary.wiley.com/doi/10.1111/acem.13274/abstract).
+
+* **Population:** Emergency department patients greater than 18 years old requiring rapid sequence intubation.
+  + **Exclusions:** Patients in cardiac or traumatic arrest or if pre-oxygenation was not performed.
+* **Intervention:** Apneic oxygenation group received standard pre-oxygenation plus 15 L/min of flow using a standard nasal cannula as well as a ETCO2 nasal cannula set at 15 L/min, both of which were started during the pre-oxygenation phase and continued throughout the apneic phase.
+* **Comparison:** No apneic oxygenation but standard pre-oxygenation (either flush-rate oxygen via an non-rebreather-mask, a bag valve mask with PEEP valve, or a BiPAP circuit with an FiO2 of 100%)
+* **Outcome:**
+  + **Primary:**The mean lowest oxygenation saturation between the two groups
+  + **Secondary:** Rate of first pass success, desaturation below SpO2 90%, desaturation below SpO2 80% and average time to desaturation between the two groups
+
+**Authors’ Conclusions: “***There was no difference in lowest mean oxygen saturation between the two groups. The* *application of AO during RSI did not prevent desaturation of patients in this study population.”*
+
+**![checklist](https://i0.wp.com/thesgem.com/wp-content/uploads/2014/04/checklist-cartoon-150x150.gif?resize=150%2C150)Quality Checklist for Randomized Clinical Trials:**
+
+1. The study population included or focused on those in the emergency department. Yes
+2. The patients were adequately randomized. Yes
+3. The randomization process was concealed. Yes
+4. The patients were analyzed in the groups to which they were randomized. Yes
+5. The study patients were recruited consecutively (i.e. no selection bias). Yes
+6. The patients in both groups were similar with respect to prognostic factors. Yes
+7. All participants (patients, clinicians, outcome assessors) were unaware of group allocation. No
+8. All groups were treated equally except for the intervention. Yes
+9. Follow-up was complete (i.e. at least 80% for both groups). Yes
+10. All patient-important outcomes were considered. **Unsure**
+11. The treatment effect was large enough and precise enough to be clinically significant. No
+
+**Key Results:** They screened 262 patients and included a total of 200. The mean age was mid 50’s with the most common indication for intubation being pulmonary issues.
+
+---
+
+### **Primary Outcome:** No difference between mean lowest oxygenation saturation between the two groups (92% vs 93% p=0.08).
+
+---
+
+* **Secondary Outcomes** (apneic oxygenation vs. usual care):
+  + Desaturation <90%: no difference (17% vs. 15%)
+  + Desaturation <80%: no difference (3% vs. 4%)
+  + Total Mortality: no difference (14/100 vs. 16/100)
+  + Mortality within 24hrs: no difference (4/100 vs. 2/100)
+  + First pass success rate 89%: no difference
+  + Average time to desaturation: no difference
+
+**![Screen Shot 2015-04-25 at 3.11.12 PM](https://i0.wp.com/thesgem.com/wp-content/uploads/2015/04/Screen-Shot-2015-04-25-at-3.11.12-PM.png?resize=889%2C162)**
+
+Overall this was a very well-done trial. The authors went to great length to ensure proper randomization and that proper pre-oxygenation techniques were utilized is both groups. However, we are going to go through five things that threaten the validity of the results.
+
+**1) Statistical Validity:** The lowest arterial oxygen saturation during intubation is a continuous variable, in contrast to a discrete variable such as rate of clinically significant desaturations (<80%).The major advantage of continuous parametric testing is the statistical power it provides, allowing researchers to demonstrate statistical significant results with even small sample sizes.
+
+Typical we use a standard t-test to analyze continuous variables. This is basically a comparison of the two groups mean values.  In order for such testing to be valid, a number of assumptions must be met. The data surrounding a sample’s mean must fall in a symmetrical distribution. It is not uncommon, especially in cohorts with an undersized sample size, that the resultant sample will not exhibit a normal distribution.
+
+This is especially true when looking at variables like SO2 were the majority of results cluster around one tail. In cases where the resulting data is asymmetrically distributed, a comparison of means may fail to accurately describe the differences between the two populations of interest. You can imagine to populations where the mean values are fairly similar but in one group the values cluster fairly close to the mean and another where there is much more variation around this mean value. These two groups are obviously very different populations but their means appear quite similar.
+
+In such instances, non-parametric testing is required. Non-parametric testing eliminates the need for symmetric distribution by listing each data point in rank order. As such, the quantitative differences between measurements become inconsequential. This allows for the performance of statistical analyses without the assumption of normal distribution.
+
+Despite these advantages with this type of statistical manipulation, the ability to quantify the specific magnitude of each data point is lost. Rather non-parametric testing is only capable of locating the position of each data point as it relates to the remainder of the cohort. With this loss of granularity comes a significant reduction in the statistical power.
+
+And so, when you power your study to assess the lowest mean SO2 and power it to assume a normal distribution and then perform and analysis using non-parametric methodology you have statistical limited your ability to find a difference.
+
+**2) Clinical Validity:** Is the lowest oxygen saturation observed during intubation truly a clinically important measurement?
+
+Such an endpoint inherently places value on higher oxygen saturation levels, making the assumption that oxygen saturation of 52% is clinically preferable to a saturation of 35%. We know the accuracy of waveform pulse oximetry suffers once the oxygenation saturation drops below 90%.
+
+In these cases, the value of the patient’s true PaO2 can vary wildly from what is recorded on the monitor. As such it is hard to place a hierarchical value to the pulse oximetry at levels less than 90%.
+
+To say that an oxygen saturation of 53% holds a greater clinical value than a value of 35% is inaccurate. To then further distill these data points into a rank order renders this data unusable.
+
+A more clinically meaningful endpoint would be the rate of oxygen desaturation below a specific threshold that is associated with an increased likelihood of negative sequelae. Take for example the incidence of oxygen saturation less than 80% or 90%. In this case a continuous scale, oxygen saturation, is converted into a discrete dichotomous outcome. The entirety of the data can now only fall above or below a specified cutoff.
+
+And while likely more clinically meaningful this divide leads to a significant loss of granularity, as the value of an oxygen saturation of 75% becomes no different than one of 32%, as both fall below the 80% threshold. The conversion of a continuous variable to discrete data comes at the cost of statistical power. And so once again because the study was powered to demonstrate a difference in a continuous outcome it is now incapable of detecting a difference dichotomous variables of importance. So, we have an inherently underpowered study.
+
+**3) Patient Oriented Outcome:** I do not think the patient really cares about what their SpO2 was while they were being intubated. A patient has never asked me for this number and it is a disease oriented outcome.
+
+Mortality is a much more patient oriented outcome and very easy to measure and define. In this study, the mortality was not different at 24hrs or for total mortality.
+
+However, we do not know about the neurologic function of the survivors. This would be the most patient oriented outcome. How many patients survived neurologically intact?
+
+**4) External Validity:** This study was conducted in a single urban centre teaching hospital. They had a highly effective protocol for pre-oxygenation and demonstrated a high level of competency. Most of their patients were intubated in less than 60 seconds. As such there was minimal opportunity for patients to experience desaturation. In fact, only 16% of patients desaturated below 90% and only 3% desaturated below 80%.
+
+Greater than 80% of patients were pre-oxygenated with bag valve mask. There was about 50/50 split between direct and video laryngoscopy. More than 95% of the patients were intubated by residents and less than 5% by attendings. So how will this apply to your community or rural hospital with the intubation being done by a respiratory therapist, non-board-certified emergency physician or physician assistant?
+
+We have reasonable evidence that apneic oxygen works on a physiological level. So are we not seeing benefit in this study because it doesn’t work or because we tested it on a whole bunch of patients that were going to do just fine no matter what we did.
+
+This is where we each have to decide whether the evidence for or against apneic oxygenation is strong enough to incorporate it into our rapid sequence intubation strategy. And balance this with the cost of a nasal cannula and the logistical complexity its use adds to your rapid sequence intubation.
+
+**5) Burden of Proof**: The scientific method puts the burden of proof on those making the positive claim. In this situation, the positive claim would be that apneic oxygenation provides a patient oriented benefit in undifferentiated emergency department patients requiring rapid sequence intubation. This study does not provide evidence to reject the null hypothesis.
+
+Absence of evidence is not the same as absence of benefit. In this case to find a difference when so few events happen a far more statistically robust study is required.
+
+**Comment on Authors’ Conclusion Compared to SGEM Conclusion****:** The authors conclusions are reasonable, the use of apneic oxygenation is likely to add little to the majority of rapid sequence intubations in an unselected emergency department population.
+
+---
+
+### **SGEM Bottom Line:** Apneic oxygenation may still have a role during rapid sequence intubation of emergency department patients but it likely adds little when proper pre-oxygenation strategies are used.
+
+---
+
+**Clinical Application****:** If we were guaranteed successful endotracheal intubation with minimal delay in all our patients, then the majority of our preparation would be rendered superfluous. However, we have an undifferentiated cohort presenting to the emergency department.  As with much of our preparation, apneic oxygenation is employed universally in the event of the rare case of unexpected difficulty. And while its utility in these patients is unknown, an underpowered trial, in which so few patients experienced the outcome in question, does not disprove the potential benefits of apneic oxygenation.
+
+![Dr. Rory Spiegel](https://i0.wp.com/thesgem.com/wp-content/uploads/2015/11/Screen-Shot-2015-11-21-at-9.20.27-AM-150x150.png?resize=150%2C150)
+
+Dr. Rory Spiegel
+
+**Case Resolution (Rory):** The patient was pre-oxygenated using a nasal cannula underneath a BiPAP circuit and the cannula at 15 L/min was maintained during the apneic period. The patient was intubated on first pass without hypoxia and was resuscitated and transferred to the intensive care unit.
+
+**Case Resolution (Ken):** The patient was pre-oxygenated using a bag valve mask and was successfully intubated on first pass without hypoxia and was resuscitated and transferred to the intensive care unit.
+
+**What do you tell the Patient’s Family?** Your mother has a severe pneumonia and has already got antibiotics. She also needed extra oxygen to help with her breathing. Despite all this treatment her oxygen levels were falling and we needed to put a tube down her throat to deliver more oxygen. Everything went well and she is doing better now. We will transfer your mother to the intensive care unit to continue her treatment.
+
+**Keener Kontest:** Who is credited with discovering oxygen in 1774? If you think you know the answer then send an email to [TheSGEM@gmail.com](mailto:TheSGEM@gmail.com) with Keener in the subject line. The first correct answer will receive a cool skeptical prize.
+
+**![FOAM logo](https://i0.wp.com/thesgem.com/wp-content/uploads/2015/10/Screen-Shot-2012-12-29-at-6.08.14-PM-150x150.png?resize=150%2C150)Other FOAMed:**
+
+* [EM Nerd](https://emcrit.org/emnerd/em-nerd-case-elemental-truancy/)-The Case of the Elemental Truancy
+* [EMCrit Podcast 206](https://emcrit.org/emcrit/apox-preox-update/): ApOx, ENDAO, & PreOx Update
+* [REBEL EM](http://rebelem.com/apneic-oxygenation-apox-review-evidence-critical-care-emergency-medicine/): Apneic Oxygenation (ApOx) –  A Review of the Evidence in Critical Care & Emergency Medicine
+* [St. Emlyns JC](http://stemlynsblog.org/jc-apnoeic-oxygenation-again-st-emlyns/): Apnoeic Oxygenation (again)
+* [EMBlog Mayo Clinic:](http://emblog.mayo.edu/2017/07/15/apneic-oxygenation-actually-works-for-some-things/) Apneic Oxygenation actually works (for some things)
+
+**References:**
+
+1. [Weingart SD](https://www.ncbi.nlm.nih.gov/pubmed/20378297). Preoxygenation, reoxygenation, and delayed sequence intubation in the emergency department. J Emerg Med. 2011 Jun;40(6):661-7.
+2. [Weingart SD](https://www.ncbi.nlm.nih.gov/pubmed/22050948), Levitan RM. Preoxygenation and prevention of desaturation during emergency airway management. Ann. Emerg. Med. 2012;59(3):165-175.e1.
+3. [Sakles JC](https://www.ncbi.nlm.nih.gov/pubmed/26836712), Mosier JM, Patanwala AE, et al. First Pass Success Without Hypoxemia Is Increased With the Use of Apneic Oxygenation During Rapid Sequence Intubation in the Emergency Department. Acad Emerg Med. 2016 Jun;23(6):703-10.
+4. [Sakles JC](https://www.ncbi.nlm.nih.gov/pubmed/26846234), Mosier JM, Patanwala AE, et al. Apneic oxygenation is associated with a reduction in the incidence of hypoxemia during the RSI of patients with intracranial hemorrhage in the emergency department. Intern Emerg Med. 2016 Oct;11(7):983-92.
+5. [Semler MW](https://www.ncbi.nlm.nih.gov/pubmed/26426458) et al. Randomized Trial of Apneic Oxygenation During Endotracheal Intubation of the Critically Ill. Am J Respir Crit Care Med 2015
+
+---
+
+### Remember to be skeptical of anything you learn, even if you heard it on the Skeptics’ Guide to Emergency Medicine
+
+---
+
+[![Screen Shot 2017-08-05 at 5.07.50 PM](https://i0.wp.com/thesgem.com/wp-content/uploads/2017/08/Screen-Shot-2017-08-05-at-5.07.50-PM-300x188.png?resize=300%2C188)](https://beem.ca/events/)
+
+[![Boot Camp](https://i0.wp.com/thesgem.com/wp-content/uploads/2017/08/Boot-Camp-300x204.png?resize=300%2C204)](https://courses.ccme.org/course/advancedbootcamp)

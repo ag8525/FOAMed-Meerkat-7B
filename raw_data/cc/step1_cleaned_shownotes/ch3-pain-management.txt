@@ -1,0 +1,386 @@
+# Metadata
+- topic: 1.1 - Critical Management Principles - 3 Pain Management
+- source_folder: 1.1 - Critical Management Principles
+- original_file: Ch.3 Pain Management.pdf
+
+Crack Cast Show Notes – Pain 
+www.crackcast.org 
+ 
+ 
+                              
+ 
+ Welcome back!  
+ 
+This is chapter 3.  
+ 
+On pain management: Which is super important:  
+• 
+unrelieved pain leads to numerous: 
+o 
+increases sympathetic outflow and PVR 
+o 
+^ myocardial oxygen demand & ^ C02 production 
+o 
+^ coagulability 
+o 
+decreases gastric motility and immune function 
+ 
+These are the questions we’ll be answering for this chapter:  
+ 
+1. Describe the steps in the afferent pain pathway? 
+2. Differentiate between acute and chronic pain? 
+3. List options for pain management at various steps in pain perception? 
+4. Describe the different methods of assessing pain for all ages? 
+5. List 4 side effects of NSAIDS, what factors increase risk of GI bleeding? 
+6. What is the mechanism of action of local anesthetics? What are the two classes? 
+7. What is the toxic dose of Lidocaine and bupivacaine?  What are expected 
+toxicities?   How are they treated? 
+8. List 6 techniques for reducing pain of injection of local anesthetic. 
+9. List one topical anesthetic for intact skin, mucous membranes, and open skin 
+10. What is the dose of sucrose in a neonate for anesthesia? 
+ 
+1. Describe the steps in the afferent pain pathway 
+ 
+§ 
+a sensory input enters the dorsal root ganglion (visceral, muscle, 
+bone, cutaneous) and CROSSES over before ascending the 
+brainstem at which point it enters the thalamus and is interpreted by 
+the cortex 
+• 
+remember that position and vibration sensation remain 
+IPSILATERAL 
+§ 
+pain modulation involves: 
+• 
+nociceptors,  
+• 
+inflammatory mediators (substance P)  
+• 
+AND can lead to chronic central and cognitive sensitization  
+• 
+which is affected by opiates at the Mu receptors and 
+norepinephrine 
+o 
+as well as  
+o 
+emotions,  
+o 
+experience,  
+o 
+past exposure to pain,  
+o 
+and mood! 
+§ 
+the endorphin system modulates responses to pain and stress by 
+producing three types of opioids (Mu, delta, KAppa) that have 
+analgesic effects and modulate against stress : this is diminished by 
+chronic pain and supplementary opiates  
+o 
+BOTTOM line:  the pain pathway is complex 
+ 
+                              
+ 
+Crack Cast Show Notes – Pain 
+www.crackcast.org 
+ 
+ 
+                              
+ 
+2. 
+Differentiate between acute and chronic pain 
+ 
+o 
+“prolonged pain that lasts beyond the ordinary duration of time that an insult 
+or injury to the body needs to heal” 
+o 
+definitions range from: > 3 - 6 months of persistent pain not directly related to 
+malignancy  
+ 
+chronic pain leads to a prolonged stress response which negatively affects the rest of the 
+body.  
+a. 
+limits the activities that may improve healing 
+b. 
+psychological effects are profound 
+ 
+3. 
+Describe your pain assessment tool for all ages from neonates to geriatrics 
+• 
+infant: FLACC scale 
+o 
+face legs activity cry and consolability score 0-10 
+• 
+infant - preschool 
+o 
+FACES scale 
+• 
+verbal children - up to 11 yrs 
+o 
+visual analog 
+• 
+> 11 yrs  
+o 
+numerical rating scale 
+o 
+descriptive scale 
+• 
+adults 
+o 
+NRS-numerical rating scale 
+• 
+elderly - or non verbal children 
+o 
+behaviour observation scales 
+§ 
+Non verbal cues 
+§ 
+vocalizations 
+§ 
+movement 
+§ 
+atypical features 
+ 
+4. 
+List 8 options for pain management at various steps in pain 
+perception 
+ 
+• 
+See Figure 3-6 
+o We need to treat pain in multiple different points:  
+o try to visualize the path of a painful stimulus through the nervous system,  
+o there are at least four points that we can address when treating pain: 
+§ 
+1) Pain detection 
+• 
+local anesthetics/nerve blocks, topical NSAIDS - which 
+decrease nociceptor stimulation  
+§ 
+2) Pain transmission 
+• 
+opiates, tylenol, gabapentin, TCA 
+§ 
+3) Pain expression 
+• 
+narcotics, benzo’s, antisychotics,  
+• 
+sedatives, NO,  
+§ 
+4) pain modulation 
+• 
+TENS 
+• 
+Massage,  
+• 
+acupuncture 
+• 
+distraction 
+Crack Cast Show Notes – Pain 
+www.crackcast.org 
+ 
+ 
+                              
+ 
+• 
+hypnosis 
+ 
+ 
+ 
+9) List 4 side effects of NSAIDS, what factors increase risk of GI bleeding + RF? 
+• 
+GI bleeding, renal failure, anaphylaxis/TENS/SJS, platelet dysfunction 
+• 
+people at highest risk for NSAID-associated reactions/complications: 
+o 
+dehydration, hypovolemia, impaired renal fxn 
+o 
+Liver disease, renal disease, on ACEI or ARBs, 
+o 
+elders,  
+o 
+Asthmatics 
+o 
+women in the 3rd trimester (closure of ductus arteriosus) 
+o 
+people with hx of PUD or GI bleeding 
+o 
+those taking warfarin 
+ 
+ 
+11) What is the mechanism of action of local anesthetics?  
+ 
+mech. of action 
+• 
+more effective in unmyelinated fibers 
+o 
+therefore block sensory neurons, without affecting motor neurons 
+• 
+reversibly block Na channels of the lipid membrane thereby blocking depolarization 
+• 
+the ionized form is what penetrates the lipid axon membrane (this is limited in acidic 
+environments such as abscesses) 
+ 
+What are the two classes? 
+classes of local anesthetics 
+• 
+Esters 
+o 
+procaine, tetracaine 
+o 
+unstable in solution 
+o 
+destroyed by plasma enzymes 
+• 
+Amides 
+o 
+lidocaine, mepivacaine, bupivacaine, etc.  
+o 
+destroyed by enzymes in the liver 
+ 
+ 
+*12) What is the toxic dose of Lidocaine and bupivacaine?   
+• 
+toxic doses: 
+o 
+Lidocaine: 3-5 mg/kg /  with epi: 7 mg/kg (double safe dose) 
+o 
+Mepivicaine: 8 mg/kg  / with epi: 7 mg/kg (same as safe dose ?no clue why?) 
+o 
+Bupivacaine: 1.5 mg/kg / with epi: 3 mg/kg 
+§ 
+not recommended in kids <12 yrs, or for intravenous analgesia 
+§ 
+MORE cardiotoxic 
+ 
+What are expected toxicities?    
+local toxicity 
+• 
+mostly due to the added local vasoconstrictor added to the local anesthetic 
+Crack Cast Show Notes – Pain 
+www.crackcast.org 
+ 
+ 
+                              
+ 
+• 
+epi mantra : avoid in penis, nose, fingers, toes......not a lot of evidence for this 
+systemic toxicity 
+• 
+occurs when enough exists in the body to produce sodium channel blockade in the 
+brain and heart 
+• 
+progressive symptoms:  
+o 
+think  
+o 
+“lippster talks so much your headache rings in your ears and you go crazy, 
+confused, start seizing and die” 
+o 
+circumoral paresthesias /> dysarthria /> lightheadedness /> headache /> 
+tinnitus /> decreased level of consciousness > confusion > seizures > coma > 
+cardiac arrest/collapse 
+ 
+How are they treated? 
+ 
+• 
+local toxicity 
+o 
+Therapy for extravasation (eg, warm compresses, phentolamine, nitroglycerin cream) 
+should be initiated for localized vascular toxicity. 
+o 
+usually just wait it out 
+• 
+systemic toxicity: 
+o 
+benzo's for seizures 
+o 
+ACLS guidelines 
+§ 
+at high risk for cardiac arrest  
+o 
+maybe lipid emulsion 
+§ 
+Lipid emulsion therapy is performed with a 20% solution.[7] First, administer a 
+bolus of 1.5 mL/kg over 1 minute.[26, 6, 27, 1] Then convert to an infusion at a rate of 
+0.25 mL/kg/min for 20 minutes,[6] 30-60 minutes,[26] or until hemodynamic stability 
+is restored.[27] Once the patient attains hemodynamic stability, the infusion should 
+be continued for at least 10 minutes longer.[1] 
+• 
+from: http://emedicine.medscape.com/article/1844551-treatment#d12 
+ 
+13) List 6 techniques for reducing pain of injection of local  
+anesthetic. 
+o 
+buffering 1 ml of bicarbonate to 10 ml of lidocaine (1:10) 
+o 
+slowly injecting the anesthetic 
+o 
+injection through the edges of the laceration 
+o 
+warming the anesthetic 
+o 
+application of topical anesthetic first 
+o 
+counter irritation with pinching or distraction 
+ 
+*14) List one topical anesthetic for intact skin, mucous membra 
+nes, and open skin 
+• 
+Intact: EMLA patch 
+o contains 2 amide-type anesthetics for numbing a small area, lidocaine 
+and prilocaine. It is used on normal, unbroken skin to prevent pain 
+before certain procedures such as inserting a needle for injections or 
+drawing blood.  
+• 
+MM: 2-4% lidocaine  
+• 
+Open skin: LAT or LET 
+o then don’t contain any anesthetics that cause methemoglobinemia  
+15) What is the dose of sucrose in a neonate for anesthesia? 
+Crack Cast Show Notes – Pain 
+www.crackcast.org 
+ 
+ 
+                              
+ 
+ 
+2-10 ml of 24% solution  
+ 
+Wise cracks corner:  
+• 
+NSAID ceiling effect discussion 
+o 
+no benefit to increasing doses of ketorolac or ibuprofen for PAIN (there is a 
+second higher anti-inflammatory ceiling effect).  
+o 
+NSAIDS at risk for severe GI side effects 
+§ 
+ketorolac (24) >>> indomethacin (~3) >  naproxen (2) > diclofenac > 
+ibuprofen 
+§ 
+60 mg of ketorolac IM is not superior to 800 mg PO ibuprofen!!! 
+§ 
+400 mg ibuprofen = 800 mg ibuprofen!! 
+§ 
+15 mg ketorolac = 30 mg ketorolac 
+• 
+Make sure kids get prescribed the proper dose (many kids are underdosed on their 
+analgesics) - or try topical lido. for acute OM 
+• 
+Don’t forget about the many intranasal options. which can be looked up: 
+o 
+e.g. IN fentanyl at 1.5-2 mcg/kg  
+• 
+***a reported allergy to anesthetics is usually to the Preservatives used.***  
+o 
+true allergy is VERY rare 
+o 
+PEARL: in true allergies to amides, diphenhydramine may be used as a local 
+nerve block 
+o 
+50 mg/ml diluted to 5-10 ml 
+• 
+Check out Rob Orman’s podcast on Chronic pain: http://blog.ercast.org/chronic-pain/ 
+• 
+Check out my rounds talk on Kids in pain that we can post on our website.  
+ 
+ 

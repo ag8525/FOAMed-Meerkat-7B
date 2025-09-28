@@ -1,0 +1,121 @@
+# Metadata
+- Source: The Bottom Line
+- Title: DEFUSE 3
+- Original URL: https://www.thebottomline.org.uk/summaries/em/defuse-3/
+- Scrape Date: 2025-07-17
+- Summary author: Anthony Hackett @EM_Ahackett
+- Summary Date: 21 March 2018
+- Peer-review Editor: @davidslessor
+
+# Title
+Thrombectomy for Stroke at 6 to 16 Hours with Selection by Perfusion Imaging (DEFUSE 3)  
+**Albers et al.**  
+N Engl J Med 2018; 378:708-718. doi:10.1056/NEJMoa1713973
+
+# Clinical Question
+In patients with proximal internal carotid (ICA) or middle cerebral artery (MCA) occlusion with likely salvageable ischemic brain tissue, does thrombectomy at 6-16 hours post-ischemic stroke, in addition to medical therapy, improve functional outcome at 90 days compared to medical therapy alone?
+
+# Background
+- Ischemic stroke is a leading cause of death and disability worldwide.
+- Current therapies include thrombolytics up to 4.5 hours post-onset in select patients.
+- Previous trials showed mixed results for late stroke care with thrombolytics.
+- Recent trials (e.g., MR CLEAN) demonstrated benefits of endovascular therapy (ET) up to 6 hours post-stroke.
+- DEFUSE 3 examines the 6-16 hour window using CT perfusion to select candidates.
+
+# Design
+- Randomized, open-label, multi-centre trial
+- 1:1 randomization with web-based software ensuring allocation concealment
+- Stratified by age, infarct size, time from onset, NIHSS, and trial site
+- Un-blinded due to the invasive nature of the intervention
+- Blinded outcome assessment
+- Intention-to-treat analysis
+- Adaptive enrichment design
+
+# Setting
+- 38 hospitals in the US
+- Data collected from May 2016 to May 2017
+
+# Population
+
+**Inclusion Criteria:**
+- Age 18-90 years
+- NIHSS ≥ 6
+- Likely salvageable ischemic brain tissue
+- Occlusion of proximal MCA-M1 or ICA on CT/MR angiography
+- Infarct volume < 70 ml
+- Ischemic tissue:infarct volume ratio ≥ 1.8
+- Absolute volume of potentially reversible ischemia (penumbra) ≥ 15 ml
+- Able to initiate endovascular therapy between 6-16 hours after last known well
+- Minimal pre-existing disability (mRS 0-2)
+
+**Exclusion Criteria:**
+- Pregnancy
+- Pre-existing terminal or debilitating illness
+- tPA given >4.5 hours after onset
+- Seizure preventing NIHSS determination
+- Blood glucose < 50 mg/dl or > 400 mg/dl
+- Platelets < 50,000, INR > 3
+- Sustained hypertension not treatable with medications
+- Neuroimaging: ASPECTS score < 6, intracranial tumor, acute intracranial hemorrhage, occlusions in multiple vascular territories
+
+**Enrollment:**
+- 182 patients randomized, 3 lost to follow-up
+
+# Intervention
+- Thrombectomy plus medical therapy
+- Devices: Trevo, Solitaire, and Penumbra
+- Angioplasty +/- stenting allowed
+- Femoral puncture within 90 minutes of qualifying imaging
+- Medical therapy as per control group
+
+# Control
+- Medical therapy:
+  - Aspirin 325 mg on day 1, then 81-325 mg on days 2-5
+  - Standard DVT prophylaxis
+  - No dual antiplatelet therapy unless stented or clear indication
+  - No IV anticoagulants unless otherwise indicated
+  - Subsequent anticoagulation therapy determined by attending physician
+
+# Outcomes
+
+## Primary Outcome
+- Modified Rankin Scale (mRS) at 90 days: significantly reduced in the endovascular group
+  - Median mRS: 3 (IQR 1-4) vs. 4 (IQR 3-6)
+  - Unadjusted OR 2.77 (95% CI: 1.63-4.7), p < 0.001
+  - Adjusted OR 3.36 (95% CI: 1.96-5.77), p < 0.001
+
+## Secondary Outcomes
+- Functional independence (mRS 0-2) at 90 days: significantly increased with endovascular therapy
+  - 45% vs 17%, OR 2.67 (95% CI: 1.6-4.48), p < 0.001
+  - NNT 4
+- Death at 90 days: no significant difference
+  - 14% vs 26%, OR 0.55 (95% CI: 0.3-1.02), p = 0.05
+- Symptomatic intracranial hemorrhage: no significant difference
+  - 7% vs 4%, p = 0.75
+
+# Authors’ Conclusions
+Endovascular therapy plus medical therapy results in lower rates of disability and improved 90-day functional outcomes on the mRS compared to medical therapy alone in patients with large vessel occlusion and favorable prognostic perfusion imaging.
+
+# Strengths
+- Effective randomization and allocation concealment
+- Well-designed inclusion/exclusion criteria
+- Adaptive enrichment design
+- Blinded outcome assessment
+
+# Weaknesses
+- Small sub-group of patients selected
+- Unclear generalizability to community centers
+- Non-blinded
+- Trial terminated early
+- Subgroup analysis underpowered
+
+# Bottom Line
+In patients with large vessel strokes and favorable ischemic core to penumbra ratios, endovascular therapy at 6-16 hours post-stroke onset, in addition to medical therapy, improved functional neurological outcomes at 90 days compared to medical therapy alone. The results are promising but may not be broadly applicable in clinical practice.
+
+# External Links
+- **Original article**: [Thrombectomy for Stroke at 6 to 16 Hours with Selection by Perfusion Imaging](https://www.nejm.org/doi/full/10.1056/NEJMoa1713973)
+- **Further reading**:
+  - NEJM: Adaptive Designs for Clinical Trials
+  - EMLitOfNote: DEFUSE-3 is DAWN All Over Again
+  - Blogging Stroke: Author Interview: Dr. Greg Albers on DEFUSE 3
+  - REBELEM: Endovascular Therapy for Acute Ischemic Stroke

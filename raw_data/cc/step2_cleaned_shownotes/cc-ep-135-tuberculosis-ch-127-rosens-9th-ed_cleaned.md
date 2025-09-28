@@ -1,0 +1,501 @@
+```yaml
+title: "CrackCast Episode 135: Tuberculosis"
+url: "https://canadiem.org/crackcast/"
+date: 2017-01
+source: "CanadiEM – CrackCast"
+original_file: "CC-EP-135-Tuberculosis-Ch.-127-Rosens-9th-Ed..pdf"
+summary: "Will be added later"
+```
+
+## Overview
+
+### Key Concepts
+
+- Early recognition of patients with risk for TB should begin at ED triage. Patients thought to have active pulmonary TB should be placed in respiratory isolation as soon as possible.
+- TB should be considered in the differential diagnosis of patients who present with fever, cough, and weight loss.
+- Risk factors for TB include HIV infection, immunosuppression, age older than 60 years, foreign-born, homeless, and close contact with known cases.
+- Beyond pulmonary manifestations, a variety of extrapulmonary manifestations may occur, including involvement of lymph nodes, pleura, bones or joints, CNS, genitourinary, and gastrointestinal systems.
+- Therapy should be determined based on consultation. The most commonly used agents are INH, RIF, PZA, and EMB. Resistant strains, including MDR-TB and XDR, have been increasing in frequency.
+
+### Rosens in Perspective
+
+- This is a huge worldwide killer!
+- Mycobacterium tuberculosis (MTB) is an airborne pathogen and easily spreads through talking, coughing, and any close indoor contact.
+- Think of:
+  - Primary TB infection - often subclinical
+  - Reactivation of TB - post-primary infection
+
+Think about this infection in anyone with constitutional symptoms!!!
+
+- Cough
+- Weight loss
+- Fatigue
+- Fever
+- Night sweats
+- Vague systemic disorder
+- Fever of unknown origin
+- Failure to thrive
+
+Add this onto your DDX of hemoptysis.
+
+## Core Questions
+
+### 1. Describe the 4 phases of TB infection
+
+According to LITFL…
+
+“Following TB exposure there are various potential outcomes:
+
+- No infection (70-90%) (immediate clearance)
+- Infection (10-30%)
+  - Active TB (10%, half of these developing within 5 years)
+    - 98% cured if treated
+    - 50% die within 2 years if untreated
+  - Latent infection (90%)
+- Reactivation of latent infection”
+
+Acute infection is very often asymptomatic or, at most, vague. Exogenous reinfection looks just like primary or reactivation TB. Most clinical TB is from reactivation of dormant foci. Many ED patients with active pulmonary TB have no pulmonary symptoms.
+
+- Stage 1: Alveolar macrophage phagocytosis of an inhaled bacillus; if the host’s macrophage is able to destroy the MTB bacillus, the infection doesn’t progress.
+- Stage 2: Bacilli replication and tubercle formation; this can progress to lymphohematogenous dissemination throughout the body (lymph nodes, kidney, bones, meninges, lungs).
+- Stage 3: (2-3 weeks) Immune response (requires CD4+ helper cells) and granuloma formation and disease is arrested (walled off).
+  - May have a mild primary infectious illness during this stage.
+- Stage 4: (months to years post the initial infection) Cavity formation and spilling of contents causing broncho-pneumonia.
+  - Decreased cell immunity and reactivation of dormant MTB.
+  - “Post-primary TB” - in a previously infected patient.
+
+The stages 1-3 represent primary TB in immunocompetent patients.
+
+- Clinically active TB can show up in 8-10% of otherwise healthy people.
+- With HIV, primary TB progresses in >30% of people by 6 months.
+
+### 2. For how long is a patient with active TB considered infectious? What isolation strategies are there?
+
+Infection control and the hospital environment:
+
+Hospitalization of TB patients is not mandatory unless these factors dictate otherwise:
+
+- Social conditions,
+- Coexisting medical conditions, or
+- Illness severity
+
+Isolation practices for known or suspected TB patients:
+
+- When a patient needs to be transported or managed outside an isolation room, they should wear surgical masks to cover their mouth and nose during transport.
+- Aerosol isolation + standard contact isolation.
+- Isolation room (Class N room):
+  - Private (e.g., private bathroom)
+  - Door kept closed
+  - Negative pressure (12 air changes/h (ACH); 30 Pa if air lock, 15 Pa if no airlock)
+  - Warning signs on doors
+  - Air exhausted to outside environment (unless HEPA filter prior to recirculation to hospital environment)
+  - Minimize number of health care workers and visitors entering the room
+
+Cough-inducing and aerosol-generating procedures:
+
+- Cough-inducing procedures include:
+  - Endotracheal intubation and suction
+  - Diagnostic sputum induction
+  - Aerosol treatments (for example, pentamidine therapy)
+  - Bronchoscopy
+- Procedures that may generate infectious aerosols include:
+  - Irrigation of tuberculous abscesses
+  - Laboratory techniques such as homogenizing or lyophilizing of TB infected tissue
+- Precautions:
+  - Only perform procedures if necessary
+  - Staff should wear masks and gloves
+  - Perform in isolation room
+  - Allow enough time for sufficient removal of airborne contaminants afterward (e.g., 35 min for a room with 12 ACH)
+  - If intubated:
+    - Bacterial filter and closed suction on circuit
+  - Bronchoscopy:
+    - Minimize aerosols (paralyze, consider apnoeic ventilation during procedure)
+  - Sputum specimens in biohazard bags
+
+Staff:
+
+- Use high filtration mask (N95 or N100)
+- Education for staff on symptoms
+- Staff screening: CXR, Mantoux (baseline and 2 months)
+- Early ID involvement in staff exposed
+
+No restriction on the movement of patients with non-pulmonary disease.
+
+For circumstances in which a diagnosis of TB is established, airborne precautions (including use of aII room and masks) may be discontinued after antituberculous therapy has been administered for at least two weeks (with evidence of clinical improvement) and three subsequent negative sputum AFB smears.
+
+### 3. List 8 population groups at risk for TB
+
+Refer to box 127.1 in Rosen’s 9th edition for the population groups with increased risk for tuberculosis.
+
+Populations with increased risk for tuberculosis:
+
+- Close contacts of known case
+- Persons with HIV infection
+- Foreign-born (Asia, Africa, Latin America)
+- Medically underserved, low-income populations
+- Older adults
+- Residents of long-term care facilities (nursing homes, correctional facilities, etc.)
+- Injection drug users
+- Groups identified locally (homeless, migrant farm workers, etc.)
+- Persons who have occupational exposure
+
+Additionally:
+
+- HIV with CD4 < 500 cells/mcL
+- Children and infants are at a higher risk of acquiring TB than adults
+- Patients on immunosuppressants - steroids, antiarthritics
+- Hx of anti-TB medications and no clinical response
+- Chronic lung disease, CF
+- Mining, warm climates, male gender
+
+Any of these groups who present with nonspecific symptoms with/without a fever should prompt you to think of TB!
+
+### 4. List 6 RFs for development of active TB in a previously infected patient
+
+Reactivation:
+
+Use the generic immunosuppression list: TRASH CLIP’D
+
+- Transplant
+- Renal Failure
+- Alcoholic / Malnourished
+- Steroids
+- HIV
+- Chemotherapy
+- Liver Failure
+- Immunosuppressed
+- PVD
+- DM
+
+### 5. List 6 complications of pulmonary TB
+
+1. Hemoptysis
+   - Usually minor due to destroyed lung parenchyma in acute infection; can become massive if it erodes into the pulmonary arteries.
+2. Superinfection of cavities with other organisms or Superinfection with fungi
+   - Aspergillus fumigatus - fungus ball or aspergilloma
+   - These are the erosions that are at high risk for massive / fatal hemoptysis.
+3. Tumour development and erosion into bronchopulmonary vessels → BLEEDING
+4. Pneumothorax - may be due to a cavitation rupturing and leading to a bronchopleural fistula
+   - Risk for complications if tube thoracostomy is attempted
+5. Pleural effusion (exudative)
+6. Empyema - rare, late complication
+   - Can progress to a pleurocutaneous fistula or extension to adjacent areas
+7. Airway tuberculosis
+   - Due to a pocket of TB spontaneously draining - this pus spreads throughout the bronchial tree and causes endobronchial TB. Progresses to bronchial stenosis, bronchiectasis, lymphatic dissemination, lobar collapse, obstructive pneumonia. Can lead to tracheal and laryngeal TB.
+8. Primary tuberculosis pericarditis
+   - Due to direct spread of infection from any infected structure - lungs, bone, lymph nodes
+   - Can occur due to hematogenous spread or miliary TB
+   - Common in HIV infected patients
+   - At risk for progression and tamponade
+
+Or put another way:
+
+- Hemoptysis
+- Pneumothorax
+- Bronchiectasis
+- Broncholithiasis
+- Extensive pulmonary destruction
+- Septic shock
+- Malignancy
+- Venous thromboembolism
+- Chronic pulmonary aspergillosis
+
+### 6. Describe the role of the Mantoux test in screening for TB. Who needs to be screened? Who is positive at 5, 10, 15 mm induration?
+
+Tuberculin skin test = Mantoux
+
+- Looking for an allergic reaction to TB antigens in infected persons
+- Done by injecting 0.1 ml of PPD (TB antigen preparation) under the skin
+- Palpable induration read 48-72hrs later
+- 3-8 weeks for PPD to become positive after infection
+
+>5mm - Immunocompromised or very high risk
+
+- HIV +ve
+- Close contacts of active infected patients
+
+>10mm - Immunocompetent people with TB risk factors
+
+- Healthcare workers
+- IVDU
+- Immigrants (Asia, Africa, Latin America)
+- Long-term care facility
+- Local at-risk groups (i.e., homeless)
+- Low-income SES
+
+>15mm - No risk factors or immunocompromised
+
+### 7. Describe a strategy for diagnosing active pulmonary TB
+
+Taken verbatim from LITFL…
+
+INVESTIGATIONS
+
+Early diagnosis of TB is important as delays in starting anti-tuberculosis therapy are associated with worse survival.
+
+- All patients suspected of pulmonary TB should have at least 2 sputum samples sent for investigation.
+
+Laboratory:
+
+- Culture of the bacillus (e.g., sputum, blood, CSF, pleural fluid, gastric lavage, bronchial washings, drainage of collections)
+  - Takes a long time (2-4 weeks)
+  - Provides drug susceptibility information
+  - Gold standard Dx test!
+- Identification of acid-fast bacilli (e.g., sputum, blood, CSF, pleural fluid, gastric lavage, bronchial washings, drainage of collections)
+  - Ziehl-Neelsen stain
+  - Sputum induction increases rates of TB detection (but puts HCP at risk!)
+  - It appears to be as good as BAL
+  - Also can ask for Direct microscopy for AFB – can yield rapid results (in <24 hrs) assuming there is a high sputum bacilli count
+- Pleural fluid for:
+  - Total protein, glucose, WCC and differential, pH, adenosine deminase (if > 70U/L à highly suggestive of Tb)
+- CSF (lumbar puncture)
+  - High protein, low glucose and predominately lymphocytic CSF (TB meningitis)
+- Nucleic acid amplification (NAA) (e.g., PCR of sputum, CSF, pleural fluid)
+  - Rapidly available
+  - High specificity
+  - Useful in ruling in rather than ruling out TB
+  - If clinical suspicion is high, a negative NAA does not exclude TB
+  - NAA results may remain positive for months
+- Interferon-γ release assays (IGRAs) such as the quantiferon test
+  - Confirms TB exposure
+  - Cannot discriminate between latent and active TB
+  - Negative result does not exclude TB
+  - Positive result does not give drug sensitivities
+  - However, a normal study does not completely exclude TB; therefore, cultures should be sent when person thought to have TB has a negative QuantiFERON-TB Gold test result.
+
+Imaging:
+
+- CXR
+  - Patchy/nodular shadowing in upper zones, cavitation, calcification, hilar or mediastinal lymphadenopathy,
+  - Diffuse miliary shadowing
+  - May be normal in extra-pulmonary TB
+
+Chest radiographic manifestations of primary disease in adults often are not recognized as TB. Primary tuberculous infiltrates can occur in any lobe. In any age group, a pneumonic infiltrate with enlarged hilar or mediastinal nodes should strongly suggest the diagnosis. The infiltrate usually is homogeneous and most commonly involves a single lobe. Thus, primary TB may appear radiographically identical to a bacterial pneumonia, with associated lymphadenopathy, if present, being the only distinguishing feature.
+
+- CT or MRI Brain
+  - Thickening and enhancement of meninges in basilar region (TB meningitis)
+  - Cerebral tuberculomas
+- Other
+  - Histological identification of caseating granulomas (e.g., biopsy of lymph nodes, pleura or other affected tissue)
+
+### 8. Describe the CXR findings of primary TB and post-primary TB
+
+Classic = Infiltrate / consolidation upper lobes (usually right upper)
+
+CXR for Primary TB:
+
+- Infiltrate/consolidations upper lobes
+- Cavitary lesions
+- Hilar lymphadenopathy (typically unilateral)
+- Tuberculoma (nodular lesions from healed primary TB)
+- Ghon focus (calcified scar from previous tuberculoma) - may contain latent TB
+- Ranke focus (calcified hilar lymph nodes)
+- Miliary TB (multiple 1-3mm nodules)
+- Pleural effusion
+
+Post-primary TB:
+
+- Upper lung infiltrate or consolidation, with or without cavitation. The lesion may be small or extensive and usually is located in the apical or posterior segment of the upper lobe, but may appear in the superior segment of the lower lobe.
+- Bilateral infiltrates
+- Bronchogenic spread
+- Fibrosis
+- Cavitation (suggests high levels of infectivity)
+- Hilar displacement due to scarring
+- Miliary TB
+
+### 9. List 6 DDx for pulmonary TB with their clinical findings
+
+1. Bacterial pneumonia
+   - More profound symptoms of systemic toxicity with acute onset, including WBC and quick response to antibiotics
+2. Fungal infections
+   - Histoplasmosis, coccidioidomycosis, blastomycosis
+3. Non-TB mycobacterial infections
+   - MAC, and mycobacterium kansasii
+4. Pneumonias in patients with HIV infection
+   - Upper lobe bacterial pneumonias Ddx:
+     - PJP, NOCARDIA, RHODOCOCCUS
+5. Cavitary lesions
+   - Klebsiella pneumoniae
+   - Staph. Pyogenes
+   - Aspiration pneumonia
+   - Bronchogenic carcinoma - SCC forms cavitations (with or without TB!)
+   - MAC infections in HIV -ve pts.
+   - Pulmonary infarction – PE
+   - Wegener’s granulomatosis
+   - Upper lobe bullous disease – neurofibromatosis
+6. Mediastinal lymphadenopathy
+   - Lymphoma (bulky lymph nodes), Sarcoidosis (usually bilateral, symmetric and asymptomatic lymphadenopathy)
+
+### 10. List 6 extra-pulmonary manifestations of TB – list the most common
+
+Think about this in a patient population unable to contain infections well - extremes of age and immunocompromised.
+
+1. Most Common: Lymphadenitis (scrofula - painless firm node in neck)
+   - Differential diagnosis includes lymphoma, metastatic cancer, fungal disease, cat-scratch disease, sarcoid, toxoplasmosis, reactive adenitis, and bacterial adenitis.
+2. Bone & Joint (Pott’s disease or spinal TB)
+   - Skeletal TB presumably develops from reactivation of dormant tubercles originally seeded during stage 2 of the primary infection or, in the case of spinal TB, from contiguous spread from paravertebral lymph nodes to the vertebrae.
+3. Pleura & Pericardium
+4. Gastrointestinal TB:
+   - In any gastrointestinal location from the mouth to the anus,
+   - At risk for illeocecal granuloma formation - abscess and progression to FTT/V/D
+   - Fallopian tube involvement
+5. TB meningitis (high risk in peds)
+6. Intracranial tuberculoma
+   - At risk for infarctions/aneurysms
+7. Renal Disease
+   - Granulomas, scarring, and obstruction → HTN, autonephrectomy
+8. Peritoneal Disease / Genitourinary spread in men and women with subsequent local destruction
+9. Miliary TB (see below!)
+
+The term acute disseminated tuberculosis refers to active hematogenous spread of MTB to several organs in the body. The term miliary tuberculosis was first used to describe the pathologic lesions, which resemble small millet seeds. This is now used as a clinical term referring to the massive dissemination that leads to systemic illness. Miliary TB occurs when the host is unable to contain a recently acquired or dormant TB infection.
+
+### 11. Describe the management of massive hemoptysis in TB
+
+- This is the MOST emergent presentation of TB!
+- Definition:
+  - Exact definition is controversial
+  - Uptodate states 500 mL of blood in 24 hrs or >100ml/hr
+- Death is caused by asphyxiation from aspirated blood
+
+Management:
+
+- Intubation with large bore ETT
+- Position with bleeding side down
+- Ideally selective main bronchus intubation with selective ventilation of the unaffected lung (hence why we want a size 8 ETT)
+- Consider advanced measures:
+  - Reversal anticoagulation
+  - Vitamin K
+  - TXA
+  - Bronchoscopy
+  - Surgical resection
+  - Angiography with embolization
+
+### 12. Describe an initial treatment strategy for active TB. How does this change in children? Pregnancy? Extra-pulmonary TB?
+
+Emergency clinicians generally will not initiate treatment prior to consulting public health and infectious diseases specialists. To be successful, treatment must be continuous, ongoing, and monitored closely. A one-time dose of medications is fruitless in a patient who could be lost to follow-up.
+
+Rare situations where ED treatment may be needed:
+
+- TB sepsis
+- Miliary TB
+- Critically ill HIV patients with TB
+- Life-threatening conditions
+
+1st Line Tx:
+
+RIPE for TB treatment otherwise the infection will spread to others!
+
+- Rifampin (bactericidal)
+  - Hepatitis
+  - Thrombocytopenia
+  - Orange urine
+- Isoniazid (bactericidal)
+  - Hepatitis
+  - Peripheral neuropathy
+  - Seizures
+- Pyrazinamide
+  - Hepatitis
+  - Polyarthritis
+  - Avoid in severe liver disease, gout, or pregnancy
+- Ethambutol
+  - Hepatitis
+  - Optic neuritis
+  - Blindness
+
+Second line:
+
+- Streptomycin
+  - Amikacin, kanamycin, and capreomycin are also injectable agents used for drug-resistant TB.
+- Moxifloxacin
+- Levofloxacin
+
+For active TB patients, management plan is usually RIPE x 8 weeks, then just RI for 18 weeks.
+
+- Direct observed treatment daily helps maximize compliance and completion
+- Ensure respiratory isolation until stabilized on Tx
+- Report to public health or your local CDC
+- Test and treat all possible contacts
+
+The CDC strongly recommends corticosteroids for MTB pericardial or CNS infections.
+
+Peds:
+
+- Don’t give ethambutol – difficult to monitor visual loss
+- Consider early addition to corticosteroids
+- BCG vaccine is currently recommended in the United States only for tuberculin-negative infants and children who cannot take INH and have ongoing exposure to a persistently untreated or inadequately treated patient with active TB, who are continuously exposed to persons with INH- and RIF-resistant TB, or who belong to groups with rates of new MTB infection
+
+Pregnancy:
+
+- Don’t give pyrazinamide, replace w/ pyridoxine
+
+Latent TB:
+
+- INH daily for 9 months
+
+### 13. List indications for admission of the active TB patient
+
+- Social conditions (unable to ensure compliance / outpatient follow-up)
+- Coexisting medical conditions that put patient at risk for deterioration
+  - E.g., failure to thrive, wasting
+- Illness severity
+  - Hemoptysis
+
+Clincher: patient able to comply with DOTS (directly observed therapy)
+
+Rosen’s List:
+
+- Acute Illness
+- Elderly
+- Requiring parental therapy
+- HIV infection
+- Concurrent medications with potential interactions
+- Active or suspected MDR TB
+- Homelessness
+- Cohabitation with children / immunocompromised individuals
+- Suspected poor compliance with DOTS - risk for spread of MDR-TB! (may need involuntary hospitalization)
+
+### 14. Describe the management of accidental exposure to TB
+
+Ideally, we prevent exposures!!
+
+- Immediate respiratory isolation should be considered for patients with high-risk chief complaints, such as the HIV-positive patient with cough, the person with hemoptysis, or the patient with a history of TB presenting with cough or fever.
+
+But commonly we don’t think about it or it’s too late.
+
+1. Assess for symptoms suggestive of active tuberculosis (e.g., fever, weight loss, hemoptysis); if present, chest radiography and sputum acid-fast bacilli smear/culture.
+2. If no symptoms of active tuberculosis, order a tuberculin skin test or an interferon gamma release assay at baseline and again 8-12 weeks post-exposure.
+
+“Tuberculin skin testing or IGRA blood testing usually is performed within days following exposure to establish whether the health care worker was previously infected with MTB. If the baseline test result is negative, a follow-up is performed 3 months later to determine whether conversion has occurred. The CDC has developed guidelines for the treatment of exposed personnel, which can be found on the CDC website.”
+
+[CDC TB Education Materials](https://www.cdc.gov/tb/education/provider_edmaterials.htm)
+
+## Wisecracks
+
+### Risk factors for Multi-Drug Resistant TB
+
+Also worry about: Extensively Drug-Resistant Tuberculosis!
+
+- HIV
+- IVDU
+- Close contact with known case
+- Immigrant
+- Previous MDR TB infection
+- Previous treatment
+- Inappropriate initial therapy
+- Failure to respond to initial treatment
+
+Refer to box 127.2 in Rosen’s 9th edition for a list of the risk factors for drug-resistant Mycobacterium tuberculosis infection:
+
+- Previous unsuccessful antituberculosis treatment
+- Failure to respond or adhere to a good treatment regimen
+- HIV infection
+- Injection drug abuse
+- Close contact with source cases
+- Recent immigration from area with a high prevalence of drug resistance
+- Cavitary lung disease
+- Homelessness
+- Imprisonment
+- Drug malabsorption due to gastrectomy or ileal bypass surgery
+
+Plus: think about returning travelers from Africa or Asia
+```

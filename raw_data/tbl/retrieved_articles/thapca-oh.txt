@@ -1,0 +1,106 @@
+# Metadata
+- Source: The Bottom Line
+- Title: THAPCA-OH
+- Original URL: https://www.thebottomline.org.uk/summaries/icm/thapca-oh/
+- Scrape Date: 2025-07-17
+- Summary Date: AUTO_FILL_IF_AVAILABLE
+
+Therapeutic hypothermia after out-of-hospital cardiac arrest in children
+Moler. NEJM 2015; 372:1898-1908. doi:10.1056/NEJMoa1411480
+Clinical Question
+In children suffering an out-of-hospital cardiac arrest, does hypothermia compared to normothermia increase survival with a good neurobehavioural outcome?
+Design
+Randomised, controlled trial
+1:1 ratio allocated by permuted blocks stratified according to clinical centre and age group (<2 years, 2 to 12 years and >12 years)
+Randomised by telephone-based system with internet-based and sealed envelope backup system
+Study design, protocol, statistical plan and pilot trial published
+a priori
+including a pre-specified modified intention-to-treat analysis
+Powered at 85% to detect an absolute treatment effect of 20% with 276 patients, based upon an estimated baseline outcome rate of 15 to 35% in the normothermia group.
+Non-blinded clinicians; blinded centralised outcome assessors
+Setting
+38 sites across the USA and Canada
+September 2009 to December 2012
+Population
+Inclusion:
+Children aged between 48 hours and 18 years
+Cardiac arrest requiring at least 2 minutes of cardiopulmonary resuscitation (CPR)
+Remained dependent on mechanical ventilation once return of spontaneous circulation (ROSC)
+Exclusion:
+Inability to randomise within 6 hours; a motor score of 5 or 6 on the Glasgow Coma Scale (GCS)
+Decision to withhold aggressive treatment
+Major trauma associated with cardiac arrest
+1355 met inclusion criteria, 475 eligible, 295 randomised, 260 were included in the modified intention-to-treat analysis
+Baseline characteristics were similar (hypothermia vs normothermia group):
+Age categories
+Under 2 years: 49% vs 52%
+2 to 12 years: 31% vs 32%
+Over 12 years: 20% vs 16%
+Presence of co-morbidities: 52% vs 51%
+Cause of cardiac arrest
+Respiratory: 72% vs 73%
+Cardiovascular: 9% vs 13%
+Other or unknown: 19% vs 14%
+Witnessed arrest: 40% vs 38%
+Bystander CPR: 68% vs 63%
+Intervention
+Therapeutic hypothermia
+Core temperature targeted at 33.0ºC (range 32.0 to 34.0) for 48 hours
+Rewarmed over at least 16 hours to 36.8ºC (range 36.0 to 37.5)
+Normothermia maintained until completion of 120-hour intervention period
+Control
+Therapeutic normothermia
+Core temperature targeted at 36.8ºC (range 36.0 to 37.5) for entire 120-hour intervention period
+Managing common to both groups
+Pharmacologically sedated (recommended midazolam and fentanyl) and paralysed if required (recommended vecuronium)
+Surface cooling applied
+Dual central temperature monitoring with closed loop system
+Oesophageal probe was primary
+Bladder or rectal probe was secondary
+Outcome
+Primary outcome:
+There was no statistically significant difference in survival to 12 months with good neurobehavioural outcome (age-corrected standard score of 70 or higher on the Vineland Adaptive Behaviour Scale 2nd ed. [VABS-II])
+Hypothermia group: 20%
+Normothermia group: 12%
+Absolute risk difference: 7.3% (95% CI -1.5 to 16.1)
+Relative likelihood: 1.54 (95% CI 0.86 to 2.76, p-value=0.14)
+Secondary outcome:
+Survival to 12 months was not different
+Survival over time was significantly longer with therapeutic hypothermia (p-value = 0.04 by log-rank test)
+Hypothermia group: mean survival was 149±14 days
+Normothermia group: mean survival was 119±14 days
+Change in neurobehavioural function was not different between the two groups
+Tertiary safety data:
+Adverse events (infection, bleeding, dysrhythmias) occurred similarly between the two groups
+Hypokalaemia and thrombocytopenia occurred more frequently in the hypothermia group
+Renal-replacement therapy was required more frequently in the normothermia group
+Authors’ Conclusions
+Therapeutic hypothermia in children who have return of spontaneous circulation after an out-of-hospital cardiac arrest does not improve survival with good function at 1 year compared with therapeutic normothermia
+Strengths
+Well constructed trial with
+a priori
+publication of pilot data and methodology
+Inclusion of all ages of children, with block randomisation to minimise potential uneven distribution of ages
+Included shockable and non-shockable presentation rhythms
+Weaknesses
+A clinically relevant difference may exist but the trial may have been too small (under-powered) to demonstrate it, resulting in a false negative conclusion
+The modified intention-to-treat analysis for the primary outcome only included 88% of those randomised (12% loss) due to poor baseline function, unknown status or incomplete data
+Given the primary outcome rate was 12% and 20%, this loss may have significantly altered the outcome
+However, sensitivity analyses by per-protocol and imputation of results did not alter the outcome
+The Bottom Line
+Therapeutic hypothermia after out-of-hospital cardiac arrest in children cannot be recommended based on the results of this trial
+Although this trial demonstrated no difference between normothermia and hypothermia, a false negative conclusion is possible and the confidence intervals are wide
+The longer survival over time observed with hypothermia may indicate that children treated with therapeutic hypothermia are at similar risk of death but it is delayed due to alterations in the pathophysiology
+External Links
+[article]
+Therapeutic Hypothermia after Out-of-Hospital Cardiac Arrest in Children
+[further reading]
+TTM Trial summary by TBL
+[further reading]
+Should children who have a cardiac arrest be treated with therapeutic hypothermia?
+Metadata
+Summary author:
+@DuncanChambler
+Summary date: 27 August 2015
+Peer-review editor:
+@DavidSlessor

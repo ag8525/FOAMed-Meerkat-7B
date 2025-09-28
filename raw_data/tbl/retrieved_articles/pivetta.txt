@@ -1,0 +1,98 @@
+# Metadata
+- Source: The Bottom Line
+- Title: Pivetta
+- Original URL: https://www.thebottomline.org.uk/summaries/icm/pivetta/
+- Scrape Date: 2025-07-17
+- Summary Date: AUTO_FILL_IF_AVAILABLE
+
+Lung ultrasound integrated with clinical assessment for the diagnosis of acute decompensated heart failure in the emergency department: a randomized controlled trial
+Pivetta et al. Eur J Heart Failure 2019, doi:10.1002/ejhf.1379
+Clinical Question
+In patients who presented to the Emergency Department (ED) with acute dyspnoea, does the addition of lung ultrasound examination compared to standard approach, improve the diagnostic accuracy for acute decompensated heart failure (ADHF)?
+Background
+Point-of-care ultrasound, including lung ultrasound, has become increasingly part of the armament of healthcare professionals assessing the critically unwell patient, despite the lack of evidence showing mortality benefit (
+link
+)
+Early studies have focussed on the accuracy of lung ultrasound compared to more traditional imaging modalities, such as chest radiographs (
+link
+), in identifying pathology
+There has not been any randomised controlled trial comparing the use of lung ultrasound in the diagnosis of acute heart failure compared to standard clinical approach
+Design
+Randomised, multicentre, parallel group
+Computer permuted block randomisation
+Patient randomised after initial clinical evaluation and the physician had categorised the working diagnosis as either ADHF or non-ADHF
+1:1 to lung ultrasound group (LUS) or chest radiograph and NT-proBNP levels (CXR/NT-proBNP)
+Following this, this initial integrated diagnosis was recorded
+All patients in the LUS group would still undergo a CXR and NT-proBNP
+Similarly the CXR/NT-proBNP group could undergo LUS at the request of the physician
+The results of these subsequent tests could have potentially changed the physician’s final diagnosis and management
+After hospital discharge or death, 2 experts blinded to LUS results, reviewed all notes and investigations and adjudicated diagnosis of ADHF based on 2012 guidelines from European Society of Cardiology
+258 patients needed in each arm to detect 10% difference in sensitivity
+80% power and a 5% alpha error
+Setting
+2 Italian academic centres
+Enrolment occurred between January 2014 to March 2015
+Population
+Inclusion
+:
+Adult patients (> 18 years)
+Presented to the ED with acute dyspnoea (sudden onset of shortness of breath or increase in the severity of chronic dyspnoea in the previous 48 hours)
+Presence of emergency physician with expertise in lung ultrasonography
+Exclusion
+:
+Already commenced on positive pressure ventilation (invasive and non-invasive)
+Acute dyspnoea in the context of trauma
+532 eligible, 518 enrolled (411 from a single centre)
+12 no consent, 2 didn’t have dyspnoea as main symptom
+Median age 79; 53% men
+25.5% of patients admitted to ICU after ED evaluation
+LUS group
+LUS performed by a certified practitioner
+Curvilinear probe, standard 8 zone protocol
+Presence of B lines and pleural effusions recorded
+CXR/NT-proBNP
+CXR and NT-proBNP performed after initial clinical evaluation
+LUS could be performed at the request of the physician but only after the CXR/NT-proBNP-implemented diagnosis was recorded
+Management common to both groups
+Clinical evaluation [including past medical history, history of present illness, physical examination, arterial blood gas analysis (ABG) and ECG]
+The physician was responsible for therapeutic decisions
+Outcome
+Primary outcome
+: LUS group had greater accuracy in the diagnosis of ADHF compared to CXR/NT-proBNP group
+224 patients (43.2%) identified with ADHF by experts (Kappa agreement between 2 experts 0.84; 95%CI 0.79-0.88); ADHF incidence of 48.1% in LUS and 38.5% in CXR/NT-proBNP
+AUC LUS vs clinical evaluation alone: 94.5 vs 88 (p<0.01)
+AUC CXR/NT-proBNP vs clinical evaluation alone: 87.2 vs 85 (p>0.05)
+Sensitivity: LUS 93.5, CXR/NT-proBNP 85
+Specificity: LUS 95.5, CXR/NT-proBNP 89.4
+Positive predictive value: LUS 95.1, CXR/NT-proBNP 83.3
+Negative predictive value: LUS 94.1, CXR/NT-proBNP 90.5
+Authors’ Conclusions
+Integration of LUS with clinical assessment for the diagnosis of ADHF in the emergency department seems to be more accurate than the current diagnostic approach based on CXR and NT-proBNP
+Strengths
+Multicentre
+Appropriately powered
+Actual sensitivity of LUS in diagnosing ADHF in trial was as used for power calculation
+Clinical evaluation in study design is reflective of real life practice
+Weaknesses
+A single centre recruited nearly 80% of total subjects
+25% of patients in study admitted to ICU; such a sick population may not be generalisable
+The gold standard for the diagnosis of ADHF in this study is based on judgement by individual experts
+Greater incidence of ADHF in the LUS group- this is commented on by the authors in their discussion; it is difficult to tell whether this was a clinically relevant finding, a demonstration of the increased sensitivity of LUS, or due to chance
+Both ADHF and non-ADHF causes of dyspnoea could co-exist in the same patient; physicians were asked (and subsequent analysis was based on) single main diagnosis
+Convenience sampling as recruitment required the presence of a physician who could perform LUS
+No echocardiography examination data was included in the analysis; presumably zone 2 of LUS would have some view of the heart
+The Bottom Line
+The addition of LUS to clinical evaluation improved the diagnostic accuracy of ADHF whereas the addition of CXR and NT-proBNP did not. NT-proBNP is not routinely used in my practice and this paper would support this. My current practice is to evaluate patients who present with acute dyspnoea with ultrasound examination of the lung AND heart – I will continue to do so.
+External Links
+[article]
+Lung ultrasound integrated with clinical assessment for the diagnosis of acute decompensated heart failure in the emergency department: a randomized controlled trial
+[further reading]
+Lung ultrasound in the critically ill
+[further reading]
+Pulmonary Ultrasound in Patients with Heart Failure – Systematic Review
+Metadata
+Summary author:
+Adrian Wong
+Summary date: 7th February 2019
+Peer-review editor:
+Segun Olusanya

@@ -1,0 +1,76 @@
+---
+url: https://thesgem.com/2022/09/sgem375-only-one-versus-two-dose-dexamethasone-for-mild-to-moderate-pediatric-asthma-exacerbations/
+title: "SGEM#375: Only One versus Two-Dose Dexamethasone for Mild to Moderate Pediatric Asthma Exacerbations"
+date: 2022-09-10
+audio_url: https://media.blubrry.com/thesgem/content.blubrry.com/thesgem/SGEM_375.mp3
+download_date: 2025-08-11
+---
+
+**Case:** A 7-year-old female with asthma presents to the emergency department (ED) with difficulty breathing in the setting of 1-2 days of cough and runny nose. She reports that her albuterol helped her feel better yesterday, but it is providing no relief today. On exam, she has diffuse expiratory wheezing but good aeration to bilateral lung bases with a respiratory rate of 22. She has some intercostal retractions. SpO2 97% on room air. She can speak in full sentences. You diagnose her with a mild asthma exacerbation and begin treating her with albuterol/ipratropium and a dose of dexamethasone. After you explain the plan to the family, her mother says to you, “last time she was here, we got another dose of that steroid medication to take the next day. Do you think she needs it? She doesn’t like taking it, and it makes it hard for her to get to sleep.”
+
+**Background:** Asthma affects around 9% of children in the United States and asthma exacerbations are a common cause for ED visits. Corticosteroids are commonly use for treatment of acute asthma exacerbations.
+
+Previous research has compared the efficacy of a multi-day course of prednisone/prednisolone to single dose or two doses of dexamethasone. *“A single dose of dexamethasone is non-inferior to a three-day course of oral prednisolone in the treatment of children with acute asthma exacerbation presenting to the emergency department.”*
+
+Studies had compared prednisone/prednisolone with one or two-dose dexamethasone. However, no prospective clinical trial has directly compared single dose dexamethasone to two doses.
+
+
+ **Clinical Question:** Is a single dose of dexamethasone non-inferior to two doses of dexamethasone in the treatment of mild to moderate pediatric asthma exacerbations?
+
+**Reference:** Martin et al. Single-dose dexamethasone is not inferior to 2 doses in mild to moderate pediatric asthma exacerbations in the emergency department. Pediatr Emerg Care. 2022
+
+* **Population:** Children aged 2 to 20 years with known history of asthma who presented to the ED between April 2015 and March 2018 with an acute mild (PAS 5-7) or moderate (PAS 8-11) asthma exacerbation. *“History of asthma”* defined as at least one prior episode of wheezing responsive to beta agonists. Pediatric Asthma Score (PAS)
+
+ 
+* + **Exclusion:** Severe exacerbation (PAS >=12), systemic steroid use in the last two weeks, chronic lung disease (ie cystic fibrosis), or vomiting of two doses oral steroids in the ED
+* **Intervention:** Two-dose dexamethasone
+* **Comparison:** Single-dose dexamethasone
+* **Outcome:** 
+  + **Primary Outcome:** Return visits to either the primary care physician/ED/urgent care for persistent asthma symptoms
+  + **Secondary Outcomes****:** Length of time symptoms persisted, missed school days, vomiting, adverse events (appetite changes, insomnia, mood swings)
+* **Trial:** Prospective, randomized, single-center, unblinded, parallel-group randomized clinical trial
+
+**Authors’ Conclusions:** ***“****In this single-center, unblinded randomized trial of children and adolescents with mild to moderate acute exacerbations of asthma, there was no difference in the rate of return visits for continued or worsened symptoms between patients randomized to 1 or 2 doses of dexamethasone.”*
+
+
+**Results:** 308 children were randomized into two groups of 154. Ultimately, 141 were enrolled in group 1 (single dose), 143 were enrolled and in group 2 (two doses). The mean age was 7.5 years and 60% male.
+**Key Result:**There were no statistical differences between groups with regards to return visits, days to symptom resolution, missed school days, or vomiting.
+
+* **Primary Outcome:** No statistically significant difference in return visits for persistent asthma symptoms between groups.
+
+ 
+* **Secondary Outcomes:**No statistically different difference in days to symptom resolution, missed school, vomiting, or adverse effects.
+Note that the two groups had a different breakdown of asthma severity with a larger proportion of patients with mild exacerbations included in the group receiving 2 doses of dexamethasone (77% compared to 62%).
+
+**Commenatry: **
+
+**1) Outcomes:**Authors chose their primary outcome to be a return visit to primary care physician, urgent care, or emergency department for persistent asthma symptoms. The authors report that 26 (11%) of all patients had a return visit for asthma. Of the 26, 11 returned to the ED. One patient was admitted, who was in the single-dose group.
+
+Are those all equivalent? A return visit to the emergency department could mean that this child’s symptoms were more severe compared to the child that presented to their primary care physician? Or maybe the symptoms were mild but the primary care physician’s office was closed. We do not know that information.
+
+The authors initially report that there was no difference in the number of school days missed per group. However, they report a binary *“school missed or not”* result in their tables. But what about the actual number of missed school days? Is missing one day of school vs. two or three or even longer a significant outcome. It might be for a parent or caregiver who may have to miss work or find alternative childcare.
+
+It is unclear how resolution of symptoms is defined. Does the family consider “resolution” to be the day of no albuterol requirement? when they are able to resume regular activity on q4-6 albuterol? When cough ends or when wheeze ends?
+
+**2) Unblinded:**In this study, families and research assistants were not blinded to the intervention. They both knew at some point in the study whether the patient received one or two doses of dexamethasone. The authors acknowledge this and state it was due to lack of funding. We hope future studies will be blinded and use a placebo.
+
+**3) Missing Data:** Out of the 284 patients randomized and included in the trial 52 were lost to follow-up (25 in single dose and 27 in two dose). That represents over 18% of the total cohort. When loss to follow-up (18%) exceeds the a priori established non-inferiority margin (11%) we get more uncertain of the results.
+
+**4) Did They Really Get Two Doses?** Adherence to the prescribed regimen was reported by the families. The researchers worked with pharmacy to dispense a second dose of dexamethasone but did not confirm with the pharmacy whether the family picked up the second dose.
+
+Of the patients in the 2-dose group, only 81% reported that they took the prescribed second dose. Could this number possibly be lower due to reporting bias? We know that generally, reported adherence is higher than actual adherence. As such, we need to weigh any possible benefit of an additional dose with the suboptimal adherence of 81% – at what point does it become not worth it?
+
+**5) Generalizability:**Asthma is a heterogenous disease process that can be impacted by hereditary, environmental, geographical, and socioeconomic factors [5-6]. This was a single site study and majority of patients (64%) were scored as having a mild asthma exacerbation based on PAS and there were more mild exacerbations in the group receiving two doses of dexamethasone. These findings may not be generalizable to your population or to patients with more moderate to severe exacerbations. We hope there are multi-center, blinded trials conducted in the future.
+
+**Comment on Authors’ Conclusion Compared to SGEM Conclusion:** This study suggests that a single dose of dexamethasone **may** be non-inferior to two-doses of dexamethasone in treating mild to moderate asthma exacerbations, but there are many limitations to consider.
+
+ **SGEM Bottom Line:**For pediatric patients presenting to the ED for mild to moderate asthma exacerbations, you may consider a single dose or two doses of dexamethasone.
+
+
+**Case Resolution:** You discuss with the risks and benefits of single versus two-dose dexamethasone treatment with the family and acknowledge that there is still some uncertainty surrounding if any regimen is better compared to the other. After some shared decision-making, you and the family feel comfortable having the patient take just one dose of dexamethasone given that this is a mild asthma exacerbation and with the goal of limiting any side effects of the corticosteroid.
+
+**Clinical Application:** A single dose of dexamethasone may be non-inferior to two doses of dexamethasone for treatment of mild to moderate pediatric asthma exacerbations. We look forward to more blinded, multicenter, randomized control trials on this topic.
+
+**What Do I Tell the Parents?** Thank you for telling me about your concerns regarding your child’s previous experience with taking dexamethasone. I think we share the same goal of wanting to get your child feeling better while minimizing any side effects of medication. There is some data to suggest that a single dose of dexamethasone may be appropriate. Please make sure to follow-up with your pediatrician to make sure that your child’s symptoms are resolving. If you believe their symptoms are getting worse, please return to the emergency department.
+
+

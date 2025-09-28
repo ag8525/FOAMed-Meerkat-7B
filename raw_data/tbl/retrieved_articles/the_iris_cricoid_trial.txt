@@ -1,0 +1,100 @@
+# Metadata
+- Source: The Bottom Line
+- Title: The IRIS Cricoid Trial
+- Original URL: https://www.thebottomline.org.uk/summaries/the-iris-cricoid-trial/
+- Scrape Date: 2025-07-17
+- Summary Date: AUTO_FILL_IF_AVAILABLE
+
+Effect of
+Cricoid
+Pressure Compared With a Sham Procedure in the Rapid Sequence Induction of Anesthesia. The IRIS Cricoid Trial
+Aurélie Birenbaum. JAMA Surg 2018, published online October 17
+th
+2018 doi:10.1001/jamasurg.2018.3577
+Clinical Question
+In patients undergoing rapid sequence anaesthesia induction, does the use of cricoid pressure vs. a sham procedure, prevent pulmonary aspiration?
+Background
+Cricoid pressure refers to digital pressure against the cricoid cartilage, pushing it backwards with the intention of oesophageal compression to prevent aspiration of gastric contents
+First described by Sellick in 1961
+Sellick 1961 Paper
+Frequently described as a ‘standard of care’ in rapid sequence anaesthesia, however this is largely based on physiological reasoning rather than good quality evidence
+Several studies have challenged the efficacy of cricoid pressure in reducing aspiration
+Neilipovitz 2007,
+Ellis 2007
+In some studies cricoid pressure has been shown to worsen laryngeal view during intubation and even completely obstruct the airway
+Design
+Randomised, double blinded, non-inferiority trial
+Patients were allocated in a 1:1 ration to the Sellick group or the Sham group by a computer generated randomisation list
+Patients undergoing any surgery requiring general anaesthesia with RSI were eligible
+Follow up was up to 28 days or until hospital discharge
+Difficulty of intubation was calculated from BMI, Mallampati score, mouth opening and thyromental distance
+The anaesthesia and intubation procedures were standardised following French guidelines
+Anaesthesia was induced with a rapid acting hypnotic (propofol, thiopental, etomidate or ketamine) plus succucinylcholine. Rocuronium was not permitted. The choice of hypnotic was left to the anaesthesiologists
+The decision to remove already present NG tubes or to administer anatacid or opioids was also left to the anaesthesiologist
+Time to intubation was measured
+To maintain blinding, an opaque cover was applied in both groups masking if the investigator applied pressure. The investigator who applied cricoid pressure could not replace the intubator
+Registered in ClinicalTrials.gov
+Setting
+Conducted across 10 urban education centres in France
+Enrollment occurred between February 2014 until February 2017
+Population
+Inclusion
+: Patients undergoing anaesthesia with RSI
+>18 years old with a full stomach (<6 hours fasting), or the presence of at least 1 risk factor for pulmonary aspiration (emergency conditions, BMI >30, previous gastric surgery, ileus, early postpartum, diabetic gastroparesia, gastrooesophageal reflux, hiatus hernia, pre operative nausea/vomiting and pain)
+Exclusion
+: Refusal, age <18 years, pregnancy, contraindication to cricoid pressure or use of Suxemethonium, pneumonia, pulmonary contusions or respiratory tract abnormalities, patients requiring alternative technique to laryngoscopy
+3472 patients were enrolled
+Mean age (SD) was 51 and 1777 (51%) were men
+1 patient excluded after he withdrew consent. 12 minor protocol violations occurred, including 8 uses of rocuronium. 2 patients had pre-existing pneumonia/predisturbed consciousness. 1 patient did not have surgery, and 2 patients later also withdrew consent
+61% of patients had abdominal surgery, 14% endoscopy, 13% orthopaedic surgery, 4% head and neck and 2% cardiothoracic surgery
+Intervention
+Sham cricoid pressure in place of cricoid pressure
+Control
+Cricoid pressure
+An expected pressure of 30 N was applied with 3 fingers on the cricoid cartilage
+Operators were trained prior to the commencement and monthly with models
+Management common to both groups
+The anaesthesia and intubation procedures were standardised following French guidelines
+Patients were intubated with macintosh metallic blades
+All intubators had more than one year of training
+Outcome
+Primary outcome
+: No difference in incidence of pulmonary aspiration demonstrated
+0.6% with cricoid pressure and 0.5% without
+Non-inferiority was not demonstrated as wide confidence intervals due to smaller number of aspirations compared to that predicted
+Secondary outcome
+:
+Incidence of difficult intubation was higher in cricoid group but did not reach statistical significance
+Increased C+L grade (grade 3 and 4) and time to intubation in cricoid group suggesting increased difficulty
+No difference was observed in all other secondary outcomes- pneumonia, difficulty in aspiration and traumatic complications
+The same results were obtained in patients without nasogastric tube and those requiring emergency surgery
+Authors’ Conclusions
+This study failed to demonstrate non-inferiority of the sham procedure in preventing pulmonary aspiration
+Strengths
+Large, randomised, double blinded trial
+Anaesthesia, tracheal intubation and cricoid pressures all standardised
+Operators repeatedly trained in providing cricoid pressure with the aim of eliminating poor technique
+Weaknesses
+Pregnant women and children excluded
+Pulmonary aspiration remains significant cause of maternal mortality
+Conducted in a controlled theatre environment – may not apply to emergency conditions outside operating theatre where intubating conditions are worse or pulmonary aspiration may have occurred pre-intubation
+Populations contained heterogeneous risks for aspiration but no weighting given to these factors
+Conducted in France, in urban education centres which may not be generalisable to the British or Australasian population
+Wide confidence intervals due to the infrequency of the primary outcome
+The Bottom Line
+In patients undergoing general anaesthesia with RSI, this RCT failed to demonstrate the non-inferiority of a sham procedure compared with cricoid pressure at preventing pulmonary aspiration. However, the negative outcome may be more attributable to the study design
+Should the question have been ‘Is cricoid pressure beneficial, given the known harms?’ using a superiority design
+This study highlights that the benefits of cricoid remain unproven, however it reinforces concerns about harms of cricoid pressure through interference with intubation
+It is unclear if this is applicable to patients in ICU or ED
+Further studies need to be undertaken which include pregnant women
+External Links
+Original Paper:
+IRIS Cricoid Trial
+Further reading:
+Rebel EM Review
+Further reading:
+St Emlyn’s Review
+Metadata
+Summary author: Laura Chapman
+Summary date: 31/01/2019
+Peer-review editor: Fraser Magee & David Slessor

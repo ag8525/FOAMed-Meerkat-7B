@@ -1,0 +1,149 @@
+# Metadata
+- Source: The Bottom Line
+- Title: TRACT Transfusion Volume
+- Original URL: https://www.thebottomline.org.uk/summaries/icm/tract-transfusion-volume/
+- Scrape Date: 2025-07-17
+- Summary Date: AUTO_FILL_IF_AVAILABLE
+
+Transfusion Volume for Children with Severe Anaemia in Africa
+K.Maitland. New England Journal of Medicine August 1st 2019; 381:5; 420-431. doi:
+10.1056/NEJMoa1900100
+Clinical Question
+In African children presenting to hospital with severe anaemia, is a blood transfusion volume of 30 ml/kg superior to 20 ml/kg in reducing 28 day mortality?
+Background
+Severe anaemia is a major cause of death and morbidity in sub-Saharan African children
+Blood products are a scarce resource in most African countries
+World Health Organisation guidelines recommend a 20 ml/kg blood transfusion for children with profound anaemia (<4g/dL) or life-threatening severe anaemia (4 to 6 g/dL)
+This may under estimate transfusion requirements
+It is possible that a higher transfusion volume may reduce the need for further transfusions, and the associated risk of transfusions from multiple donors
+This is the first prospective study to investigate whether a 30 ml/kg blood transfusion is superior to a 20 ml/kg transfusion
+Immediate versus delayed transfusion was also investigated as part of this study
+TRACT study immediate vs. delayed transfusion
+Design
+Open-label, multi-centre, factorial, randomised trial
+Children were stratified by centre and according to illness severity
+Children with profound anaemia (< 4 g/dL and/or severity features) were randomised to 30 ml/kg or 20 ml/kg
+In children with a haemoglobin level of 4-6 g/dL and no severity features,
+randomisation to immediate or delayed transfusion groups took place initially
+, as part of the factorial design
+Only those children randomised to the immediate transfusion arm were included in this part of the study
+Groups were analysed on an intention to treat basis
+Power calculation performed to detect a 30% relative difference in 28-day mortality (13.7% in 20ml/kg group and 9.6% in 30 ml/kg group) with 80% power and alpha significance of 0.013 (0.05 ÷ 4 for multiple testing of four interventions), assuming 6% lost to follow-up
+10 subgroup analysis were pre-specified in the study protocol
+The factorial study design also investigated
+three other randomised analyses
+: immediate compared with no immediate transfusion, administration of post-discharge micronutrients, and post-discharge prophylaxis with trimethoprim–sulfamethoxazole
+Setting
+Three hospitals in Uganda and one in Malawi
+September 2014 to May 2017
+Population
+Inclusion
+: Children aged between 2 months and 12 years of age admitted to hospital with complicated, severe anaemia and uncomplicated, severe anaemia after randomisation to immediate or delayed transfusion as part of factorial study design
+Complicated, severe anaemia
+defined as a haemoglobin level of < 4 g/dL
+OR
+< 6 g/dL
+AND
+reduced consciousness, respiratory distress, acute haemoglobinuria, sickle cell disease or a combination of these features
+Uncomplicated severe anaemia
+defined as a haemoglobin level of 4-6 g/dL without signs of severity
+Exclusion
+:
+Chronic disease (kidney or liver failure, malignant conditions, heart failure, congenital heart disease)
+Children admitted with burns, trauma or surgery
+Children who had already received a transfusion during the primary hospitalisation
+Infants exclusively breastfed
+3,199 children
+were randomised
+3 children
+had consent refused
+7 children died
+before the start of transfusion and 1 child had a lost health form
+2,418 (75.7%) children
+had a haemoglobin level of < 4 g/dL
+1,137 (35.6%) had
+two or more severity features
+64.1% of children had
+malaria
+Almost 40% of children
+had a temperature of greater than 37.5 degrees at baseline
+Intervention
+30 ml per kilogram of whole blood equivalent (15 ml per kilogram of packed red cells)
+Control
+20 ml per kilogram of whole blood equivalent (10 ml per kilogram of packed red cells)
+Management common to both groups
+Whole-blood cells transfused over a period of 3-4 hours
+Packed cells transfused over 2-3 hours
+Enrollment was suspended if blood was unavailable
+Additional transfusions permitted for new or persistent haemoglobin levels of < 4 g/dL or severity features if the haemoglobin level remained below 6g/dL
+Second transfusions followed the initial randomised volume
+Outcome
+Primary outcome
+: No difference in 28-day mortality between the two groups
+30 ml/kg: 55 children out of 1,592 (3.4%) died by day 28
+20 ml/kg: 72 children out of 1,596 (4.5%) died by day 28
+Hazard ratio: 0.76 (95% CI 0.54–1.08; p=0.12)
+Secondary outcomes
+:
+No difference in death
+at 48 hours (2.0% vs. 2.1%), 90 days (5.8% vs. 7.1%), or 180 days (8.4% vs. 9.6%; overall p value 0.12)
+Time until hospital discharge
+shorter in the intervention arm than the control arm (HR 1.12; 95% CI 1.04 to 1.20)
+Correction of anaemia (a haemoglobin level of > 9 g/dL)
+during the primary hospitalisation was higher in the intervention arm, when compared with the control arm (42.4% vs. 21.8%)
+Repeat transfusions
+were lower in the 30 ml/kg group (12.4% vs. 18.8%; 95% CI for the absolute difference: 3.9-8.9)
+Hospital readmission
+within 180 days occurred in 301 children (18.8%) in the higher-volume group and in 278 children (17.4%) in the lower-volume group (HR 1.08; 95% CI 0.92 to 1.27)
+No difference in
+adverse events
+Minimal
+cost difference
+in economic analysis ($80.62 in higher-volume group and $81.97 in lower-volume group)
+Of the ten pre-specified subgroups analyses, only
+body temperature
+showed significant heterogeneity between the intervention and control groups
+In 1943 children (60.8%) with
+a body temperature of 37.5°C or less
+at screening, 24 of 963 (2.5%) in the higher-volume group and 56 of 980 (5.7%) in the lower-volume group died by 28 days (hazard ratio, 0.43; 95% CI, 0.27 to 0.69)
+In contrast, in 1253 children (39.2%)
+with fever at screening
+, 31 of 635 (4.9%) in the higher-volume group and 16 of 618 (2.6%) in the lower-volume group died by 28 days (hazard ratio, 1.91; 95% CI, 1.04 to 3.49)
+Authors’ Conclusions
+“In this large, multi-centre trial involving children with severe anaemia, we observed no overall evidence of differences in mortality at 48 hours, 28 days, or 180 days between those receiving a transfusion volume approximately one third higher than recommended (30 ml per kilogram) and those receiving the recommended volume (20 ml per kilogram)”.
+Strengths
+Large multi-centre randomised controlled trial assessing an important clinical question
+Minimal loss to follow-up despite the resource-poor setting (over 95% follow-up rate)
+Groups were well-matched at baseline
+Intention to treat analysis used
+Primary outcome was patient-centred
+Appropriate power calculation performed
+The subgroup analysis of heterogeneity of outcomes with respect to the presence or absence of fever may be hypothesis-generating for a future study
+Weaknesses
+Expected mortality was over-estimated and this resulted in an under-powered study
+Between group separation may not have been sufficient to detect a meaningful difference
+The open-label nature of the study may have introduced bias
+This is unlikely to have affected the primary outcome but may have influenced secondary endpoints such as discharge decisions
+Children with chronic medical conditions were excluded from the study, as were children who were breastfed
+Children requiring an urgent transfusion prior to randomisation were not included in the study
+It is unclear how closely management in the study population represents usual care, particularly in view of the lower than expected mortality
+The median time to transfusion of 1.2 hours may have been faster than usual care, particularly in the children who were less severely ill, as this group had been randomised to the immediate-intervention arm as part of the factorial study design
+Study results have limited external validity to the developed world setting
+The Bottom Line
+A blood volume one-third higher than the WHO recommendation did not result in lower 28-day mortality in sub-Saharan African children hospitalised with anaemia, so a change from current practice cannot be justified from this data
+The interaction with temperature may be an interesting area for future research
+External Links
+[Original article]
+NEJM
+[editorial]
+NEJM Editorial
+[further reading]
+Appraisal by 2MinuteMedicine
+[further reading]
+TRACT Immediate vs Delayed
+Metadata
+Summary author:
+Fraser Magee
+Summary date: 23rd August 2019
+Peer-review editor:
+Duncan Chambler

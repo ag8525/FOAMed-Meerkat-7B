@@ -1,0 +1,123 @@
+# Metadata
+- Source: The Bottom Line
+- Title: SUBCLAVIAN LINES
+- Original URL: https://www.thebottomline.org.uk/summaries/icm/subclavian-lines/
+- Scrape Date: 2025-07-17
+- Summary Date: AUTO_FILL_IF_AVAILABLE
+
+Supraclavicular versus infraclavicular approach for ultrasound-guided right subclavian venous catheterisation: a randomised controlled non-inferiority trial
+Kim. Anaesthesia 2022,77(1)59-65; doi.org/10.1111/anae.15525
+Clinical Question
+In patients undergoing elective neurosurgery, is a supraclavicular in-plane ultrasound guided approach, compared with an infra-clavicular out-of-plane ultrasound guided approach, non-inferior for catheterisation-related complication?
+Background
+The internal jugular, femoral and subclavian veins are commonly used for central venous lines
+The use of subclavian lines is associated with a lower risk of infection but a higher risk of pneumothoraces
+Subclavian lines can be placed either supra or infra-clavicular. Previous single operator RCTs (
+1
+,
+2
+) have demonstrated that for a single operator ,ultrasound guided supraclavicular approach was quicker, with similar success rates and fewer complications, compared with an infraclavicular approach
+When an infra-clavicular approach is used the use of the short axis out-of-plane ultrasound has been
+reported
+to have significant advantages over the use of long axis in-place ultrasound
+Design
+Randomised controlled trial
+Non-inferiority trial
+Computer generated random allocation sequence, 1:1 ratio
+Use of sealed opaque envelopes to maintain allocation concealment
+Sample size calculation: 416 patients. With a false positive rate set at 5%, false negative rate set at 20%, and non-inferiority margin set at 5.9%, 416 patients required assuming a drop-out rate of 5%
+Setting
+Single centre, Seoul National University Hospital
+September 2018 – May 2020
+Population
+Inclusion
+:
+Age 20-79
+Required central venous catheterisation
+Undergoing elective general anaesthetic for neurosurgery
+Exclusion
+:
+Infection or medical device at the puncture site
+Right subclavian venous thrombosis
+Haemostatic disorders or receiving anticoagulant
+Previous history of surgery that might distort the anatomy of the right subclavian vein
+416 patients randomised. 8 patients excluded as not appropriately allocated, 4 withdrew consent, and 3 did not meet inclusion criteria, leaving 401 patients included in analysis
+Comparing baseline characteristics of intervention vs. control group
+Male: 45% vs 49%
+Age: 53 vs 51 years
+BMI: 24 vs 25
+ASA 1/2: 79% vs 80%
+ASA 3: 17% vs 18%
+ASA 4: 4% vs 2%
+Intervention
+Supra-clavicular approach
+Long-axis in-plane ultrasound
+Control
+Infra-clavicular approach
+short-axis out-of-plane ultrasound
+Management common to both groups
+All other peri-operative management was the same
+Central line inserted after induction of general anaesthesia. Bed in flat position, with pillow removed and head, neck and arms in a neutral position
+VscanTM portable ultrasound machine
+One of four anaesthetists who all had at least 10 successful cannulations with both approaches
+Mechanical ventilation stopped prior to venous puncture, and re-started after successful catheterisation
+Outcome
+Primary outcome
+: proportion of patients with catheterisation-related complications, including catheter misplacement and mechanical complications (arterial puncture, haematoma formation, pneumothorax and haemothorax)
+3% in supra-clavicular vs 13.4% in infra-clavicular group
+Mean difference -10.4% (95% CI -15.7 to -5.1%), OR 0.20 (95% CI 0.8-0.49), p<0.001
+Secondary outcomes
+:
+Comparing intervention vs. control group
+No significant difference in
+Overall success
+99.5% vs 99.5%
+Success at 1st attempt for catheterisation
+87% vs 88%
+Time required for catheterisation
+79 vs 78 seconds
+Incidence of mechanical complications
+2% vs 3%
+Arterial puncture
+2% vs 1.5%
+Pneumothorax
+0% vs 1%
+Rescue ventilation
+14.5% vs 12.4%
+Significantly less in supra-clavicular group
+Catheterisation related complication
+3% vs 13.4%
+Mean difference -10.4 (95% CI -15.7 to -5.1%), OR 0.2 (0.08-0.49), p<0.001
+Catheter misplacements
+1% vs 10.4%
+Mean difference -9.4 (95% CI -13.9 to -5), OR 0.09 (0.02-0.37), p<0.001
+Catheter misplacement into ipsilateral internal jugular vein 0.5% vs 8%
+Mean difference -7.5 (95% CI -11.4 to -3.6%), OR 0.06 (0.01-0.44), p<0.001
+Time required for venous puncture
+9 vs 13 seconds
+Authors’ Conclusions
+The supraclavicular approach seems to be a better approach for ultrasound-guided right subclavian venous catheterisation
+Strengths
+Randomised controlled trial
+Multi-operator, all operators were experienced with both techniques
+Allocation concealment maintained
+Weaknesses
+The supraclavicular approach used an inplane ultrasound where as the infaclavicular approach used out-of plane ultrasound. Although i understand the reasons for this, this may be a confounding variable
+This was a non-inferiority study and and was not designed to address superiority
+Single centre study in South Korea
+Only included patients who were mechanically ventilated and having elective neurosurgery. Results may not be generalisable to other settings
+Blinding of those inserting lines not possible
+3.6% of patients randomised not included in analysis
+The Bottom Line
+In elective patients undergoing subclavian central line insertion, the use of a supra-clavicular approach with in-plane ultrasound was non-inferior to an infra-clavicular approach with out-of-plane ultrasound.
+The success rates were similar for both approaches where as the rate of catheter related complications was significantly less with the supra-clavicular approach. This was predominately due to a reduction in catheter misplacement
+External Links
+[article]
+Supraclavicular versus infraclavicular approach for ultrasound-guided right subclavian venous catheterisation: a randomised controlled non-inferiority trial
+[further watching]
+How To: Supraclavicular Approach to Subclavian Vein Cannulation – SonoSite Ultrasound
+Metadata
+Summary author: @davidslessor
+Summary date: 14th Jan 2022
+Peer-review editor: @avkwong
+Picture by: [author/site]

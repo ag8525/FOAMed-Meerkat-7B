@@ -1,0 +1,160 @@
+# Metadata
+- Source: The Bottom Line
+- Title: FAKT
+- Original URL: https://www.thebottomline.org.uk/summaries/fakt/
+- Scrape Date: 2025-07-17
+- Summary Date: AUTO_FILL_IF_AVAILABLE
+
+Fentanyl versus placebo with ketamine and rocuronium for patients undergoing rapid sequence intubation in the emergency department: The FAKT study—A randomized clinical trial
+Ferguson I Academic Emergency Medicine, 2021; DOI: 10.1111/acem.14446
+Clinical Question
+In patients requiring rapid sequence intubation (RSI) in the emergency department does the addition of fentanyl to ketamine and rocuronium reduce the frequency of patients having a systolic blood pressure (SBP) outside of a target range of 100-150mmHg?
+Background
+The
+INTUBE study
+showed high rates (42%) of cardiovascular instability in patients undergoing tracheal intubation in ICU, ED and the wards
+Ketamine has become a commonly used drug for RSI in both pre-hospital and emergency department settings, due to its’ perceived preferable haemodynamic profile
+Fentanyl may prevent the pressor response to laryngoscopy and prevent episodes of hypertension which may be harmful in some patient groups
+It is unclear whether the use of Fentanyl as a co-induction agent increases the risk of hypotension when compared with placebo
+Design
+Multi-centre, double blind placebo-controlled randomised controlled trial
+Randomised 1:1 to treatment or intervention
+Active and placebo drug prepared by Baxter pharmaceutical and then labelled with study ID by unblinded pharmacist
+Blinding maintained until manuscript written
+Intention-to-treat analysis
+Observations were recorded every 2 minutes by a nominated member of the clinical team for 10 minutes
+Type of laryngoscope, airway grade, use of adjuncts, number of attempts and immediate complications (e.g. oesophageal intubation) were recorded contemporaneously
+Study powered to detect a 20% decrease in the primary outcome (Systolic BP outside of the range 100-150) or a change of ≥ 10% if the (SBP) was already outside of this range at baseline
+If SBP ≥ 151 mmHg then primary outcome met if postinduction SBP rose by ≥ 10% or fell outside the lower limit (i.e. 100 mmHg)
+If SBP ≤ 99 mmHg then primary outcome met if postinduction SBP fell by ≥ 10% or rose above the upper limit (i.e. 150 mmHg)
+Ethical approval gained and registered with Australian and New Zealand Clinical Trial Registry
+Setting
+5 ED in New South Wales, Australia, mixture of tertiary and secondary hospitals.
+August 2018-December 2020
+Population
+Inclusion
+:
+Adult patients requiring RSI in the emergency department
+Exclusion
+:
+Allergy to study drugs
+Paralysis only or no drug intubation
+Clinician believed another regimen to be necessary
+Emergency department overwhelmed
+No specialist trained in the protocol available
+476 patients assessed for eligibility
+174 excluded
+Need for alternative induction regimen (n=82)
+No staff trained in study protocol (n=54)
+302 randomised
+149 Fentanyl group –> 142 analysed
+153 Placebo group –> 148 analysed
+Comparing baseline characteristics of fentanyl vs placebo group
+Very similar between the two groups
+Median age: 55 vs 54
+Male: 65% vs 53%
+Estimated Weight: 80kg vs 77.5kg
+Baseline Vital Signs
+Median SBP: 132 vs 135
+Baseline SBP ≤ 99mmHg: 7% vs 7%
+Baseline SBP ≥ 151 mmHg: 24% vs 30%
+Median SpO2: 100% vs 100%
+Co-morbidities
+Hypertension: 29% vs 28%
+Indication for Intubation
+Medical: 90% vs 86%
+Stroke/ICH: 12% vs 13%
+Trauma: 10% vs 14%
+Vasopressor use at time of intubation: 12% vs 12%
+Median drug doses:
+Ketamine: 1.4mg/kg vs 1.25 mg/kg
+Rocuronium: 1.55mg/kg vs 1.55 mg/kg
+Study Drug: 0.14mg/kg vs 0.13 mg/kg
+Intervention
+Fentanyl
+10mcg/ml in a 20ml syringe administered in volume equal to dose of Ketamine 10mg/ml administered as induction drug (e.g. if administering 100mg Ketamine would administer 100mcg Fentanyl)
+Control
+0.9% Saline
+In a 20ml syringe administered in volume equal to dose of Ketamine 10mg/ml administered as induction drug (e.g. if administering 100mg Ketamine would administer 10ml 0.9% Saline)
+Management common to both groups
+All patients received standardised dose of ketamine and rocuronium
+Ketamine standard dose (1-2mg/kg)
+Ketamine reduced dose (0.5-1mg/kg)
+Rocuronium 1.5mg/kg
+Drugs administered in the same order: study drug, then ketamine and then rocuronium
+Preparation for intubation standardised including:
+Monitoring NIBP every 2 minutes, ECG, SpO
+2
+and ETCO
+2
+Resuscitation with optimisation of preoxygenation and haemodynamic state
+Position optimised
+Airway checklist
+All intubation performed by emergency physicians trained in study protocol
+Laryngoscopy 60 seconds post rocuronium administration
+Additional sedatives in the 10 minutes post induction discouraged
+Outcome
+Primary outcome
+:
+Proportion of patients with SBP outside 100 mmHg – 150 mmHg, (or > 10% change if outside this range) within 10 minutes of induction
+Fentanyl: 66% vs Placebo: 65%
+Difference 1% (95% CI – 10 – 12, p=0.86)
+Secondary outcomes
+:
+Comparing fentanyl vs placebo
+Physiology within 10 minutes of induction:
+Significantly greater in fentanyl group:
+Hypotension (SBP < 100): 29% vs 16% Difference 13% (95% CI 3-23)
+Significantly greater in placebo group:
+Hypertension (SBP > 150): 55% vs 69% Difference 14% (95% CI 3-24)
+Tachycardia (HR ≥ 120): 48% vs 61% Difference 13% (95% CI 2-25)
+No significant difference in:
+Hypoxia (SpO
+2
+< 93): 19% vs 13% Difference 6% (95% CI -2 to 15)
+Cardiac arrest: 1.4% vs 0.7% Difference 1% (95% CI -1 – 3)
+Intubation Characteristics:
+No significant difference in any of the below
+Laryngoscopy view
+Grade I: 61% vs 62%
+Grade II: 29% vs 29%
+First pass intubation success
+92% vs 92%
+Use of supraglottic airway devices: 0% vs 1%
+Need for surgical airway: 0% vs 0%
+Clinical Outcomes: No difference in any of the below
+Ventilator free days at day 30: 28 vs 28
+Mortality at day 30: 19% vs 24%
+Subgroup Analyses
+Pre planned subgroup analysis of patients receiving reduced dose ketamine (<1mg/kg, 39% of fentanyl and 33% of placebo groups)
+No difference in proportion of participants meeting primary end point
+Authors’ Conclusions
+In a mixed population of adults requiring RSI in the ED the addition of fentanyl to rocuronium and ED did not reduce the incidence of an SBP outside of a target range on 100-150
+However there was an increased incidence of hypotension and reduced incidence of hypertension in the fentanyl group. Clinicians should consider postinduction haemodynamic targets before the decision to use fentanyl as a co-induction agent with ketamine
+Strengths
+Well-designed double-blinded study performed in the emergency setting
+Primary outcome data available for 96% of those randomised
+Sensitivity analyses reveal no change in primary outcome if the missing data was imputed as either meeting or not meeting the primary outcome
+Included hospitals of different sizes
+Standardised pre-intubation optimisation
+Good separation between groups in a manner that is biologically plausible
+Weaknesses
+Non-patient centred outcome that was designed by the study authors
+The authors allude to a lack of a consistent approach in the literature around a pragmatic primary outcome
+The long term clinical significance of transient haemodynamic changes is not clear
+Fixed ratio of fentanyl to ketamine may not reflect clinician’s practice
+Additional sedation discouraged in the 10 minutes post induction – this may not be reflective of treating post-operative hypertension with further sedation doses
+Large number of patients excluded due to clinician preference for alternate induction regimen which may suggest lack of equipoise
+Inability to regularly recruit overnight may introduce a selection bias
+Hospitals all from one region which may limit generalisability
+The Bottom Line
+Fentanyl, when given in a fixed ratio with ketamine, may increase the risk of peri-intubation hypotension
+I will continue to individually select the doses of induction agents based on patient characteristics and the co-induction agent used
+External Links
+Article:
+Fentanyl versus placebo with ketamine and rocuronium for patients undergoing rapid sequence intubation in the emergency department: The FAKT study—A randomized clinical trial
+Metadata
+Summary author: Alastair Brown – @alastairbrown21
+Summary date: 15th May 2022
+Peer-review editor: George Walker
+Picture by: Pexels / Karoline Grabowska

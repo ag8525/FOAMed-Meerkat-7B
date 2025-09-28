@@ -1,0 +1,120 @@
+# Metadata
+- Source: The Bottom Line
+- Title: Seymour
+- Original URL: https://www.thebottomline.org.uk/summaries/icm/seymour/
+- Scrape Date: 2025-07-17
+- Summary Date: AUTO_FILL_IF_AVAILABLE
+
+Time to treatment and Mortality During Mandated Emergency Care for Sepsis
+Seymour CW. NEJM 2017; 376: 2235-2244
+Clinical Question
+In patients with severe sepsis or septic shock, does a faster time to completion of a 3 hour bundle of care, compared with a slower time, affect in hospital mortality?
+Background
+Sepsis is a life threatening condition with high mortality
+Sepsis “bundles” combining high impact interventions have been popularised since the 2000s, with the most notable being the Early Goal Directed Therapy (EGDT) approach which became part of the Surviving Sepsis Campaign (SSC)
+These bundles usually include early antibiotics, source control, and rapid haemodynamic resuscitation
+New York City made their sepsis bundle mandatory in 2013
+Design
+Retrospective observational study using the New York Department of Health Database
+Risk adjustment model for in-hospital mortality designed using confounding variables
+Age
+Ethnicity
+Source of funding
+Co-morbidities
+Site of infection
+Admission source
+Measures of illness severity (shock, lactate, platelet count, mechanical ventilation)
+90% of cohort used to develop model
+Accuracy of model tested on remaining 10% – AUROC 0.77
+Other models created:
+Excluding patients who had element of 3 hour bundle given before protocol activated
+Excluding Patients discharge to hospice care and classified “dead” on discharge
+Setting
+185 Hospitals in New York State Department of Health database
+April 2014 – June 2016
+Population
+Inclusion:
+Age >17 years
+Severe sepsis or septic shock as defined by 2001 International Sepsis Definitions Conference (Sepsis-2)
+Exclusion:
+Completion of 3 hour bundle >12 hours after initiating protocol
+Bundle contraindicated
+Advanced directives limiting treatment
+Patient declined intervention
+Patient already in another clinical trial
+36 Hospitals excluded as they saw <50 cases of sepsis
+111,816 patients screened, 49,337 eligible
+Comparing intervention vs control, there were some significant differences between groups:
+Median age: 73 vs 71
+Female sex: 47.1% vs 51.8%
+White race: 67.8% vs 63.3%
+Black race: 15.9% vs 20.6%
+Asian race: 4.4% vs 4.6%
+Other race: 11.9% vs 11.5%
+Chronic respiratory disease: 11.4% vs 12.5%
+Congestive heart failure: 20.4% vs 20.6%
+End stage renal disease: 10.1 vs 12.7%
+Admitted from home: 67.1% vs 71.3%
+Admitted from skilled nursing facility: 27.6% vs 23%
+Urinary infection: 26.9% vs 28.7%
+Respiratory infection: 41.3% vs 35.4%
+Gastrointestinal infection:8.8% vs 12.4%
+Other infection: 23.0% vs 23.8%
+Positive blood cultures: 30.3% vs 26.1%
+Median lactate: 2.8 vs 2.5
+Septic shock: 45.2% vs 45.7%
+Teaching facility: 19.0% vs 84.5%
+In hospital death: 22.6% vs 23.6%
+Intervention
+3 hour bundle:
+Blood cultures before antibiotics
+Measurement of lactate
+Administration of broad spectrum antibiotics
+6 hour bundle:
+30ml/kg fluid bolus in patients with hypotension or a lactate >4meq/l
+Vasopressors for refractory hypotension
+Re-measurement of lactate within 6 hours of starting protocol
+If any element of the 3 hour bundle was performed before the “official start” of the sepsis protocol, the patient was considered to have adhered to the protocol with regard to that element within the first hour
+Control
+Did not have 3 hour bundle completed within the time set
+Outcome
+Primary outcome: In hospital mortality
+Odds ratio of dying increased by 1.04 per hour delay of completing bundle (CI 1.03 to 1.06; P=<0.001)
+Secondary outcome:
+Giving antibiotics through hours 3-12: Odds ratio of dying 1.14, compared to administering within hours 0.3 (CI 1.06 to 1.22, P=<0.001)
+Delaying fluid bolus: Odds ratio per hour of delay 1.01 (CI 0.99 to 1.02, P=0.21)
+Delaying blood cultures: odds ratio per hour of delay 1.04 (CI 1.02 to 1.06, P=<0.001)
+Multiple sensitivity analyses performed:
+reclassifying patients by time to arrival to ED – no difference
+Reclassifying discharge as death – no difference
+Excluding patients with parts of the bundle started before inclusion – no difference
+Authors’ Conclusions
+More rapid completion of a 3-hour bundle of sepsis care and rapid administration of antibiotics, but not rapid completion of an initial bolus of intravenous fluids, were associated with lower risk-adjusted in-hospital mortality
+Strengths
+Important clinical question
+Large data set
+Multiple centres
+Real world “pragmatic” data
+Multiple statistical analyses performed to minimise confounders
+Weaknesses
+This is observational data and thus can only describe associations
+Large confounders remain, particularly the “Hawthorne effect” – units with better compliance with the bundle may function better overall, rather than the bundle itself being effective
+This is suggested by the fact that taking blood cultures early was associated with reduced mortality, and taking blood cultures is not a treatment
+The Bottom Line
+This study demonstrates an association between a delay in administering a 3 hour bundle of care and increased mortality in a large cohort of patients in New York
+This does not change my current practice of delivering high impact interventions in sepsis as early as possible
+External Links
+[article] Seymour CW et al.
+Time to treatment and Mortality During Mandated Emergency Care for Sepsis
+[blog commentary]. Rory Spiegel.
+The Case of the Tardy Delegate
+[blog commentary] Em Lit of Note.
+Blood Cultures Save Lives and Other Peadls of Wisdom
+[online Q&A] NEJM forum.
+Ask the Experts: Time to Treatment and Mortality During Mandated Emergency Care for Sepsis
+Metadata
+Summary author:
+Segun Olusanya
+Summary date: July 12th 2017
+Peer-review editor:
+Steve Mathieu

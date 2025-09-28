@@ -1,0 +1,128 @@
+# Metadata
+- Source: The Bottom Line
+- Title: Talan
+- Original URL: https://www.thebottomline.org.uk/summaries/em/trimethoprim-sulfamethoxazole-versus-placebo-for-uncomplicated-skin-abscess/
+- Scrape Date: 2025-07-17
+- Summary Date: AUTO_FILL_IF_AVAILABLE
+
+Trimethoprim-Sulfamethoxazole versus Placebo for Uncomplicated Skin Abscess
+Talan. NEJM 2016;374(9):823-832
+Clinical Question
+In patients with drained cutaneous abscesses does trimethoprim-sulfamethoxazole compared with placebo increase clinical cure rates?
+Design
+Randomised controlled trial
+Web based randomisation
+Randomly generated blocks
+Double blind
+Superiority trial
+Primary outcome assessed as per-protocol analysis
+Included patients who took >=75% of study drug and had in-person follow up at 14-21 days
+Two modified intention to treat analyses also performed
+Included all patients treated with study drug
+Excluded patients lost to follow up – either in-person or with telephone interview
+Standardised follow up completed at day 3/4, day 8-10, day 14-21 and day 49-63
+Standardised criteria developed for assessing primary outcome
+Powered at 90% to detect a 7.5% improvement with intervention vs. control assuming a 90% cure rate in the intervention arm.
+Planned interim analysis revealed lower cure rate and sample size increased to 1256 patients to maintain 90% power with alpha level of 0.05
+Setting
+5 US Emergency Departments
+Data collected: April 2009-April 2012
+Population
+Inclusion criteria:
+Age >12 years
+Cutaneous abscess
+>2cm diameter
+Present for <1 week
+Purulent material on surgical exploration
+Clinician intended to treat as an outpatient
+Exclusion criteria: Indwelling devices; suspected osteomyelitis/septic arthritis; diabetic foot; immunodeficiency; foreign bodies; intravenous drug use and fever; underlying skin conditions, longterm care/institutionalised; Creatinine clearance <50mL/min; immunodeficiency; allergy; pregnancy
+1265 patients randomised, 1057 patients included in primary outcome
+Comparing baseline characteristics of patients treated with study drug in Trimethoprim-Sulfamethoxazole vs. placebo group
+Age: 35 vs. 35
+Days with symptoms: 4 vs. 4
+Diabetes: 11% vs. 11%
+Abscess length: 2.5cm vs. 2.5cm
+Erythema length: 7cm vs. 6.5cm
+MRSA on wound culture: 44% vs. 47%
+Intervention
+Trimethoprim-Sulfamethoxazole (TMP-SMX)
+80mg/400mg twice daily for 7 days
+Control
+Placebo
+Twice daily for 7 days
+Management common to both intervention + control groups
+Clinicians received standardised training on incision & drainage
+All abscessed were packed
+Outcome
+Primary outcome:
+Clinical cure of abscess at day 14-21 – significantly increased in TMP-SMX group (per-protocol analysis n=1057)
+92.9% vs. 85.7% (Absolute difference 7.2%, 95% C.I. 3.2-11.7), p<0.001
+Number needed to treat (NNT) = 14
+Fragility index = 20 patients
+Secondary outcomes:
+Clinical cure of abscess at day 14-21
+Modified intention to treat analysis 1 (Included all patients who were treated with study drug, n=1247)
+Significantly increased cure rate in TMP-SMX group
+80.5% vs. 73.6% (Absolute difference 6.9%, 95% C.I. 2.1-11.7), p=0.005
+NNT =15
+Fragility Index = 14 patients
+Modified intention to treat analysis 2 (Included patients who were treated with study drug and not lost to follow up, n=1213)
+Significantly increased cure rate in TMP-SMX group
+92.7% vs. 86.7% (Absolute difference 6.1%, 95% C.I. 2.5-9.7), p<0.001
+NNT = 17
+Fragility index = 17 patients
+Secondary outcomes in per-protocol population
+Additional surgical drainage – Significantly reduced in TMP-SMX group
+3.4% vs. 8.6% (Absolute difference -5.2%, 95% C.I. -8.2% to -2.2%)
+Recurrent skin infection at original site – no significant difference
+2.1% vs. 3.0%
+New skin infection at a different site – Significantly reduced in TMP-SMX group
+3.1% vs. 10.3% (Absolute difference -7.2%, 95% C.I. -10.4% to -4.1%)
+Similar infection in household member – Significantly reduced in TMP-SMX group
+1.7% vs. 4.1% (Absolute difference -2.4%, 95% C.I. -4.6% to -0.2%)
+Hospitilisation – no significant difference
+3.6% vs. 6.4%
+Adverse events
+Serious – no significant difference
+Death
+0.2% vs. 0.2% – neither determined to be related to treatment
+Invasive infection
+0.4% (unrelated to original abscess) vs. 0.4% (related to original abscess)
+Minor
+Gastro-intestinal disorders – Significantly increased in TMP-SMX group
+42.7% vs. 36.1%
+0 cases of Clostridium Difficile occurred in either group
+Authors’ Conclusions
+Use of TMP-SMX in addition to drainage for cutaneous abscess was more effective at achieving clinical cure and preventing recurrent drainage or infection when compared to incision and drainage alone
+Strengths
+Outcome was particularly relevant for EM and primary care providers
+Clinicians trained on standard incision and drainage technique
+Randomization method was effective and done by an outside source
+Blinding was adequate
+Interim analysis was conducted and the power modified to account for treatment effect
+Multi-centre
+Registered on clinicaltrials.gov
+Weaknesses
+Abscesses were irrigated and packed which may make the results less applicable to clinicians that do not do this.
+The median erythema length was ~7cm compared with a median abscess length of 2.5cm. This suggests that there was surrounding infection and therefore these results may not apply to patients that do not have surrounding infection.
+The dose of TMP-SMX used is higher than recommended.
+There was a high rate of MRSA. It is unclear if these results apply to a population with lower rates of MRSA.
+The fragility index is less than the number of patients lost to follow up
+The Bottom Line
+In patients with drained cutaneous abscesses TMP-SMX resulted in a significantly improved clinical cure rate compared with placebo.  TMP-SMX had a benign safety profile. The average size of erythema surrounding these abscesses was in the range that may have been expected to benefit from antibiotics, so clinicians should continue to use clinical judgement, particularly in abscesses that have minimal surrounding erythema.
+External Links
+[article]
+Trimethoprim-sulfamethoxazole vs. Placebo foruncomplicated skin abscess
+[further reading]
+CoreEM Review
+[further reading]
+RebelEM review
+[further reading]
+EMnerd review
+[further listening]
+SGEM: Cuts Like a Knife – But you Might Also Need Antibiotics for Uncomplicated Skin Abscesses
+Metadata
+Summary author: Antony Hackett
+Summary date: 29th November 2016
+Peer-review editor:
+@davidslessor

@@ -1,0 +1,121 @@
+```yaml
+source: The Bottom Line
+title: SUPERNOVA
+original_url: https://www.thebottomline.org.uk/summaries/icm/supernova-2/
+scrape_date: 2025-07-17
+summary_author: James M. Walter
+summary_date: 2019-03-19
+peer_review_editor: Steve Mathieu
+summary: "Will be added later"
+---
+
+# Feasibility and Safety of Extracorporeal CO₂ Removal to Enhance Protective Ventilation in Acute Respiratory Distress Syndrome: The SUPERNOVA Study
+
+## Clinical Question
+Can extracorporeal carbon dioxide removal (ECCO₂R) safely facilitate ultra-low tidal volume ventilation in patients with moderate acute respiratory distress syndrome (ARDS)?
+
+## Background
+- ARDS management often involves low tidal volume ventilation (4-6 mL/kg PBW) and low inspiratory pressures (plateau pressure < 30 cmH₂O).
+- Ultra-low tidal volume ventilation (3-4 mL/kg PBW) may offer additional protection but is limited by severe respiratory acidosis.
+- ECCO₂R is proposed to facilitate ultra-low tidal volume ventilation, but its safety and feasibility are not well studied.
+
+## Design
+- Multicenter prospective phase 2 single-arm study
+- No blinding due to the nature of the intervention
+- Power calculation based on PaCO₂ levels with different tidal volumes
+- Target enrollment: 100 patients (to account for a 3% dropout rate)
+- Data analysis by an independent researcher
+- Severe adverse events (SAEs) monitored by an independent safety board
+
+## Setting
+- 23 hospitals across Europe and Canada
+- Study period: October 2015 to June 2017
+
+## Population
+
+**Inclusion Criteria:**
+- Age ≥ 18 years
+- Moderate ARDS (PaO₂/FiO₂ 100–200 mmHg on PEEP ≥ 5 cmH₂O)
+- Anticipated mechanical ventilation > 24 hours
+
+**Exclusion Criteria:**
+- Decompensated heart failure, acute coronary syndrome
+- Severe COPD, major respiratory acidosis (PaCO₂ > 60 mmHg)
+- Acute brain injury, severe liver insufficiency (Child-Pugh > 7)
+- Fulminant hepatic failure, heparin-induced thrombocytopenia
+- Contraindication to systemic anticoagulation, platelet < 50 G/L
+- Moribund, decision to limit therapeutic interventions
+- Inability to access femoral or jugular vein, pneumothorax
+
+**Enrollment:**
+- 95 patients enrolled (median of 3 patients per center)
+- No patients lost to follow-up
+
+## Intervention
+- Three ECCO₂R systems used, each site used one device type:
+  - Hemolung Respiratory Assist System (ALung Technologies)
+  - iLA active (Novalung)
+  - Cardiohelp HLS 5.0 (Getinge Cardiopulmonary Care)
+- Protocol:
+  - Sedation and neuromuscular blockade for ≥ 24 hours post-enrollment
+  - Initial tidal volume: 6 mL/kg PBW, PEEP adjusted to maintain Pₚₗₜ 28–30 cmH₂O
+  - ECCO₂R catheter in internal jugular or femoral vein
+  - Unfractionated heparin to achieve aPTT 35–80 seconds
+  - Tidal volume reduced to 4 mL/kg PBW, PEEP titrated to Pₚₗₜ 23-25 cmH₂O
+  - Sweep gas and blood flow adjusted to maintain PaCO₂ 80–120% of baseline
+  - Tidal volume increased if PaCO₂ > 75 mmHg or pH < 7.30 despite RR 35/min
+
+## Outcomes
+
+### Primary Outcome
+- Achieving tidal volume of 4 mL/kg PBW with PaCO₂ not increasing > 20% from baseline and arterial pH > 7.30:
+  - 8 hours: 78% (95% CI: 68–89%)
+  - 24 hours: 82% (95% CI: 76–88%)
+
+### Secondary Outcomes
+- Duration of ECCO₂R: 5 days [3–8]
+- Duration of invasive mechanical ventilation: 17 days [11–29]
+- Alive at day 28: 69 (73%)
+- Physiologic variables at 24 hours:
+  - Tidal volume: 4.16 ± 0.46 mL/kg PBW
+  - Pₚₗₜ: 23.5 ± 3.9 cmH₂O
+  - PEEP: 13.8 ± 3.9 cmH₂O
+  - Driving pressure: 9.9 ± 4.3 cmH₂O
+
+**Adverse Events:**
+- Severe adverse events: 6 total (including brain bleed and pneumothorax attributed to ECCO₂R)
+- 39% of patients experienced an adverse event
+- 27% experienced an adverse event in the first 24 hours
+- Membrane lung clotting: 14%
+- Pump malfunction: 3%
+- Catheter displacement: 2%
+- Hemolysis: 12%
+- Significant bleeding: 6%
+- Infectious complications: 2%
+- Thrombocytopenia: 13%
+
+## Authors’ Conclusions
+ECCO₂R can facilitate ultra-low tidal volume ventilation. A randomized trial is needed to determine its use in ARDS patients.
+
+## Strengths and Weaknesses
+- **Strengths**
+  - Largest safety and feasibility study of ECCO₂R
+  - International cohort increases generalizability
+  - No patients lost to follow-up
+- **Weaknesses**
+  - Three different ECCO₂R systems used; efficacy/safety differences unclear
+  - CO₂ clearance not quantified
+  - Study halted short of enrollment goal due to equipment shortage
+  - Not clearly powered for safety outcomes
+  - Primary outcome not patient-centered
+
+## Bottom Line
+ECCO₂R can facilitate ultra-low tidal volume ventilation in moderate ARDS, but the high number of adverse events and unclear benefit argue against its use outside clinical trials. This study is a prelude to the ongoing REST trial.
+
+## External Links
+- **Article**: [Feasibility and Safety of Extracorporeal CO₂ Removal to Enhance Protective Ventilation in Acute Respiratory Distress Syndrome: The SUPERNOVA Study](https://www.thebottomline.org.uk/summaries/icm/supernova-2/)
+- **Further reading**:
+  - ATS/ESICM/SCCM Clinical Practice Guideline: Mechanical Ventilation in ARDS
+  - Ultra-protective tidal volume: how low should we go?
+  - REST trial: Protective Ventilation with Veno-venous Lung Assist in Respiratory Failure
+```

@@ -1,0 +1,134 @@
+# Metadata
+- Source: The Bottom Line
+- Title: Grissa
+- Original URL: https://www.thebottomline.org.uk/summaries/em/grissa/
+- Scrape Date: 2025-07-17
+- Summary Date: AUTO_FILL_IF_AVAILABLE
+
+Acupuncture vs intravenous morphine in the management of acute pain in the ED
+Grissa. American Journal of Emergency Medicine, 2016 published on-line 1st, doi:10.1016/j.ajem.2016.07.028
+Clinical Question
+In patients with acute pain in the Emergency Department, is acupuncture compared with intravenous morphine, more likely to reduce pain by ≥50%?
+Design
+Randomised controlled trial
+Computerised random number generation system with sealed envelopes
+Non-blinded
+Convenience sample
+Standardised data collection form
+Sample size calculation: 300 patients required to detect an absolute difference of 13% with a false negative rate of 10% and a false positive rate of 5%
+Setting
+Single Emergency Department in a University Hospital, Tunisia
+Date collected: April 2012 – March 2013
+Population
+Inclusion criteria:
+Adult patients
+Acute pain (<72 hours)
+Moderate-severe pain
+Pain intensity >=40 (range of 0-100)
+Using a Visual Analogue Scale [VAS] or Numerical Rating Scale [NRS] if patient had difficulty understanding VAS
+Pain from any of the following:
+Musculoskeletal pain (with no evidence of fracture or dislocation)
+Including ankle/knee sprains without ligament rupture/laxity; shoulder/elbow tendinitis, lower back pain without neurological deficit
+Abdominal pain (not requiring urgent surgical intervention)
+Including renal colic + dysmenorrhoea
+Headache
+Primary headache as defined by the International Headache Society
+Presented between 08:00 – 19:00, Monday to Friday
+Exclusion criteria:
+Required any resuscitation measures or specific procedures other than the treatment of the painful condition
+Temp >37.5
+Condition that would impair the use of acupuncture: anticoagulant, skin affections
+Judged unable to participate at the discretion of the treating physician
+Had received analgesia in previous 6 hours
+Presented to the ED in previous 24 hours with same complaint
+Pregnancy
+300 patients randomised
+Comparing morphine vs. acupuncture group
+Age (mean): 42 vs. 42
+Male (%): 57 vs. 47
+Pain localisation (%)
+Abdominal pain: 53 vs. 40, p=0.04
+Limb pain: 19 v. 24
+Low back pain:  18 vs. 29, p=0.01
+Headache: 5 vs. 5
+Other: 5 vs. 2
+Vital signs at admission (mean)
+Heart rate: 80 vs. 79
+Systolic BP: 132 vs. 129
+Pain score, range 0-100 (mean)
+79 vs. 80
+Intervention
+Acupuncture
+Performed by single ED doctor with medical acupuncture qualification and 10 years experience
+Treatment protocol for each condition
+Acupuncture points selected from pool of pre-determined points
+Additional points, such as ashi points used at discretion of acupuncturist
+Average time to place needles: 5 minutes
+Duration of acupuncture: 20-30 minutes
+Control
+Intravenous morphine
+Initial dose 0.1mg/kg, with repeat dosing of 0.05mg/kg every 5 minutes until reaching objective
+Maximum dose 15mg
+Mean total dose administered 0.17mg/kg
+If VAS did not decrease by at least 50% within 30 minutes the treatment was suspended. Patients allowed to receive other treatments judged necessary. Non-pharmacological measures such as rest, ice, elevation, compression were allowed
+Outcome
+Primary outcome: Reduction in Pain score by at least 50% at 1st hour – significantly higher in acupuncture group
+78% vs. 92%, p<0.01
+Number needed to treat 8
+Fragility index of 9 patients
+Mean difference 14% (95% C.I. 8.2-19.8)
+Adjusted mean difference 13.2% (95% C.I. 5.2-21.3)
+Secondary outcomes:
+Time to pain resolution (mean) – significantly lower in acupuncture group
+28 min vs. 16 min, p<0.01
+Mean difference 12 min (95% C.I. 9.2-14.9)
+Adjusted mean difference 12.8 min (95% C.I. 9.9-15.8)
+Pain score reduction (mean) from 0-60 minutes – significantly higher in acupuncture group
+56 vs. 64
+Mean difference 7.7 (95% C.I. 2.6-12.7)
+Adjusted mean difference 9.6 (95% C.I. 4.5-14.6)
+The authors state this difference is less then the minimal clinically significant difference of 13 reported by
+Todd
+Side effects
+Minor – significantly higher in morphine group
+29% vs. 3%, p<0.001
+Major – no patients had major side effects in either group
+Post-hoc analysis, comparing morphine to acupuncture
+Pain reduction >=50% from time point zero (Difference, 95%C.I.)
+5 min: 1.3% vs. 13.3%; (-12%, 95% C.I. -17.8 to -6.2)
+10 min: 8% vs. 31.3% (-23.3%, 95% C.I. -32 to -14.7)
+15 min: 38% vs. 37.3% (0.7%, 95% C.I. -10.4 to 11.7)
+20 min: 20% vs. 12% (8%, 95% C.I. -0.3 to 16.3)
+30 min: 8% vs. 2% (6%, 95% C.I. 1.1 to 10.9)
+60 min: 10% vs. 0% (10%, 95% C.I. 5.2 to 14.8)
+Authors’ Conclusions
+Acupuncture has a potential role in the treatment of acute pain in the Emergency Department
+Strengths
+Randomised controlled trial with use of computerised random number generator
+Registered at
+clinicaltrials.gov
+Weaknesses
+Non-blinded
+Did not state method to ensure that sealed envelopes had not been tampered with
+Study conducted in country where acupuncture is a culturally accepted practice, which may have augmented any placebo effect
+Single centre with single acupuncturist
+Change in primary outcome. Registered primary outcome was a reduction in pain intensity to less than 30
+Did not state if patients in acupuncture group were allowed any other treatments
+In the morphine group the treatment was suspended if the VAS had not reduced by 50% in 30 minutes. However, the primary outcome was measured at 60 minutes
+In the post-hoc analysis the total number of patients who had a reduction in pain of ≥50% by 60 minutes was different to the total number recorded in the primary outcome
+Did not state what results adjusted for. Adjusted results were not mentioned when the trial was registered
+The Bottom Line
+This non-blinded single centre randomised controlled trial found that accupuncture was quicker and more effective that intravenous morphine at reducing acute pain in the ED. The number of methodological weaknesses mean that further blinded multi-centre international trials are required before this treatment is widely adopted.
+External Links
+[article]
+Acupuncture vs. intravenous morphine in the management of acute pain in the ED
+[further reading]
+EmLitofNote: Dawn of the Stat Acupuncture Consult
+[further reading]
+Science-Based Medicine: on the pointlessness of acupuncture in the ED
+Metadata
+Summary author:
+David Slessor
+Summary date: 21st September 2016
+Peer-review editor:
+Duncan Chambler

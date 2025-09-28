@@ -1,0 +1,165 @@
+# Metadata
+- Source: The Bottom Line
+- Title: DanGer Shock – Microaxial Flow Pump in Infarct-Related Cardiogenic Shock
+- Original URL: https://www.thebottomline.org.uk/summaries/danger-shock-microaxial-flow-pump-in-infarct-related-cardiogenic-shock/
+- Scrape Date: 2025-07-17
+- Summary Date: AUTO_FILL_IF_AVAILABLE
+
+Microaxial Flow Pump or Standard Care in Infarct-Related Cardiogenic Shock
+Møller JE et al. 2024. NEJM.
+DOI: 10.1056/NEJMoa2312572
+Clinical Question
+In adults presenting with STEMI and cardiogenic shock does the use of a microaxial flow pump (Impella CP) compared to standard care reduce death from any cause at day 180?
+Background
+Cardiogenic shock is a frequent complication of STEMI and is associated with significant morbidity and mortality
+Microaxial flow pumps (MAFP) are percutaneously inserted devices that pump blood out from the left ventricle into the ascending aorta
+Prior RCTs have been small and not shown any benefit with a signal towards some harm (bleeding) in registry studies
+Design
+International, multi-center RCT
+Open label
+Randomised via web-based system and stratified by localization of STEMI and timing relative to revascularisation
+Randomisation occurred in the catheter laboratory either before or after revascularisation (could occur up to 12 hours after leaving) depending on when cardiogenic shock was recognised
+Sample size calculation
+360 patients required to detect a reduction from 60% to 42% in 180 day mortality with 80% power at an alpha of 0.05
+Pre-defined subgroups
+Registered with
+clinicaltrials.gov
+Setting
+14 centers in Denmark (4 centers), Germany (9) and UK (1)
+January 2013 to July 2023
+Population
+Inclusion
+:
+≥ 18 years old
+STEMI
+STEMI equivalent also allowed
+Cardiogenic Shock
+SBP < 100mmHg +/- need for ongoing vasopressor support AND lactate > 2.5 mmol AND LV Ejection Fraction < 45%
+Exclusion
+:
+Resuscitated from out-of-hospital cardiac arrest who remained comatose (GCS < 8)
+Severe right ventricular failure (RV larger than LV, TAPSE < 1cm or septal shift)
+Shock duration > 24 hours
+Other causes of shock or shock due to mechanical complication of MI
+Severe aortic regurgitation or stenosis
+Severe arterial disease precluding placement
+1211 screened → 360 enrolled
+851 excluded or which only 39 were eligible and not randomised
+5 excluded following randomisation as consent unable to be obtained
+Comparing baseline characteristics of MAFP vs. standard care group
+Well balanced
+Age: 67 vs 69
+Male: 79 vs 79%
+SBP: 84 vs 82 mmHg
+Lactate: 4.6 vs 4.5 mmol/L
+LVEF: 25 vs 25%
+Resuscitation prior to randomisation: 22 vs 19%
+Anterior MI: 70 vs 73%
+SCAI
+C: 56 vs 55%
+D: 29 vs 28%
+E: 16 vs 17%
+Number of disease vessels on angiography:
+1: 29 vs 27%
+2: 39 vs 36%
+3: 31 vs 37%
+Time from symptom onset to randomisation: 4.8 vs 3.8 hours
+Randomised prior to revascularisation: 55 vs 58%
+In-hospital management of cardiogenic shock largely similar:
+PCI: 96 vs 98%
+Time from admission to balloon inflation: 58 vs 45 mins
+Placement of Impella CP: 95 vs 2%
+Median duration of mechanical ventilation: 5 vs 3 days
+Vasoactive use:
+Noradrenaline: 87 vs 81%
+Dopamine: 29 vs 23%
+Adrenaline: 37 vs 38%
+Dobutamine: 35 vs 34%
+Milrinone: 35 vs 33%
+Levosimendan: 22 vs 22%
+Median duration of ICU admission: 6 vs 3 days
+Median duration of hospital admission: 12 vs 7 days
+Intervention
+Insertion of MAFP
+Inserted immediately after randomisation
+Run at the highest performance level for 48 hours unless complications occurred
+Criteria and guidance for weaning provided
+Median duration of MAFP support: 59 hours
+8 did not receive a MAFP
+Control
+Standard Care – no use of a MAFP
+3 crossed over to MAFP
+Management common to both groups
+All participants underwent a revascularisation procedure as needed
+In event of haemodynamic instability treatment could be escalated
+In microaxial group this was Impella 5.0 or Impella RP or ECMO
+In control group ECMO was recommended but Impella 5.0 allowed
+If an Impella was used in this manner this was defined as a protocol violation
+This occurred in 16% in microaxial pump group and 21% in standard care group (largely to VA ECMO)
+Outcome
+Primary outcome
+: Death from any cause at 180 days
+45.8 (microaxial flow pump) vs 58.5% (standard care)
+HR 0.74 (95% CI 0.55 to 0.99)
+NNT = 8
+Secondary outcomes
+:
+Composite cardiac end point (escalation to additional mechanical support, heart transplantation or death)
+53 vs 64%; HR 0.72 (95% CI 0.55 to 0.95)
+Number of days alive and out of hospital at day 180:
+82 vs 73; Mean difference 8 (95% CI -8 to 25)
+Safety Outcomes:
+Composite safety end point (severe bleeding, limb ischaemia, haemolysis, worsening aortic regurgitation, device failure)
+24 vs 6%; RR 4.74 (95% CI 2.36 – 9.55)
+RRT
+42 vs 27%; RR 1.98 (95% CI 1.27 – 3.09)
+Subgroups
+The following had 95% CI in favour of micro-axial flow pump
+Male: HR 0.66 (95% CI 0.47 – 0.93)
+Mean Arterial Pressure < 64 mmHg: HR 0.61 (95% CI 0.41 – 0.92)
+≥2 disease vessels: HR 0.68 (95% CI 0.49 – 0.94)
+Authors’ Conclusions
+Routine use of a microaxial flow pump in the treatment of patients with STEMI related cardiogenic shock led to a lower risk of death at 180 days. The incidence of adverse events was higher
+Strengths
+Excellently conducted RCT with high internal validity
+Rapid placement of device following randomisation (14 minutes) with short door to balloon times
+A seemingly sick cohort with a median SBP in the 80s and lactate of 4.5, with well-balanced baseline characteristics
+Similar use of other ICU supports between groups
+Minimal protocol violations
+Minimal loss to follow up
+Clear guidelines on weaning of Impella support
+Excellent data on safety outcomes with clear definitions of what constitutes an adverse event
+Weaknesses
+Unblinded
+When as-treated populations analysed confidence intervals lose significance (HR 0.77, 95% CI 0.57 – 1.03) (Figure S4)
+Single centre in UK may limit external validity
+Figure S2 shows the heterogeneity of treatment effect across enrollment countries (Denmark vs Germany and UK) favours Denmark (not adjusted for multiplicity)
+It is important to understand how long these devices have been used in each country to understand how and if volume of practice affects outcomes
+Slow enrollment – 10 years to complete recruitment
+No obvious difference in subgroup analysis
+Data on safety outcomes doesn’t account for competing risk (e.g. if you die you can’t have RRT)
+Does running on the highest support for 48 hours affect the risk of haemolysis?
+This might increase AKI and need for RRT as hypothesised by the authors
+It might be that the patients needed less support (lower setting) than the maximal settings to achieve adequate organ support, which may result in lower rates of haemolysis
+However, within the settings of a clinical trial it is understandable to protocolise these settings
+May be hard to directly compare with other trials looking at mechanical cardiac supports (e.g.
+ECLS Shock
+)
+This trial didn’t include those comatose post cardiac arrest
+Given this population will have a higher rate of neurological injury and therefore withdrawal of life sustaining therapies mortality rates may be different
+Low rates of neurological causes of death (6 patients total, Table S3) were demonstrated in this trial
+Guidelines for other ICU support provided in protocol but no data provided on adherence (e.g. anticoagulation)
+Some industry involvement and support (Abiomed)
+The Bottom Line
+It is hard to ignore this trial.  Whilst acknowledging the increased rates of adverse events, the mortality benefit is striking
+This trial should promote multi-disciplinary discussions around the potential benefit for MAFP use within local healthcare settings
+External Links
+article
+Microaxial Flow Pump or Standard Care in Infarct-Related Cardiogenic Shock
+editorial
+Mechanical Circulatory Support in Cardiogenic Shock — Persistence and Progress
+Metadata
+Summary author: George Walker @hgmwalker89
+Summary date: 12th April 2024
+Peer-review editor: @davidslessor
+Picture by: AI Generation Microsoft Co-Pilot

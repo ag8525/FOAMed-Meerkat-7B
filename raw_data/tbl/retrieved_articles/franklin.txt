@@ -1,0 +1,137 @@
+# Metadata
+- Source: The Bottom Line
+- Title: Franklin
+- Original URL: https://www.thebottomline.org.uk/summaries/icm/franklin/
+- Scrape Date: 2025-07-17
+- Summary Date: AUTO_FILL_IF_AVAILABLE
+
+A Randomised Trial of High-Flow Oxygen Therapy in Infants with Bronchiolitis
+Franklin D et al; New England Journal of Medicine 2018,
+378:
+1121-1131. DOI: 10.1956/NEJMoa1714855
+Clinical Question
+In infants (<12 months) with bronchiolitis and hypoxaemia (saturations <92%) in the emergency department or general paediatric ward, does early treatment with high flow therapy versus standard oxygen therapy result in fewer infants having treatment failure that leads to escalation of care?
+Background
+Bronchiolitis is the most common reason for non-elective hospital admissions in infants with an associated population based increase in admissions to the intensive care unit (17.1% on non elective PICU admission in Australia in 2013)
+There are currently no disease modifying therapies for the management of bronchiolitis
+A 2017 study suggested that high flow nasal prong (HFNP) did not reduce time on oxygen when compared with standard therapy (
+Kepreotes et al; Lancet 2017
+)
+The clinical effectiveness of high flow therapy in decreasing intensive care admissions and/or the need for intubation has only been reported in non-experimental observational studies
+Design
+A non-blinded, multicentre randomised controlled trial
+Consent was written and either prospective or deferred (except in one centre where deferred consent was not approved)
+Randomisation was performed via a computer generated randomisation sequence in blocks of 10, with stratification according to the participating centre
+Sequentially numbered, sealed opaque envelopes (in a 1:1 ratio) were opened when the eligibility criteria were met
+All investigators remained unaware of the trial outcome until all data was locked at the end of trial in December 2016
+Sample size required: 582 participants per group, assuming a baseline treatment failure rate of 10% (based on a pilot in 2011) and a 50% relative reduction to 5% with power of 90% and type 1 error of 0.05. This meant that the chance of a type II error was 10%
+Setting
+17 Hospitals: 6 tertiary and 11 regional/metropolitan in Australia and New Zealand
+8 hospitals have onsite intensive care services for children <12 months.
+October 2013 – August 2016
+Population
+Inclusion:
+Patients <12 months (corrected) with clinical signs of bronchiolitis and the need for supplemental oxygen
+Supplemental oxygen was required to keep saturations in the range of:
+92-98% in tertiary hospitals (6)
+94-98% in regional hospitals (10) and 1 tertiary level
+Exclusion:
+Immediate need for respiratory support and ICU admission
+Infants with cyanotic heart disease
+Infants with base of skull fracture
+Infants with upper airway obstruction
+Infants with craniofacial malformations
+Infants receiving supplemental oxygen therapy at home
+20795 infants <12 months of age with respiratory disease screened
+18578 excluded
+11081 bronchiolitis but no oxygen requirement
+156 direct admission to intensive care
+7341 other respiratory illness
+2217 infants eligible for inclusion
+44 declined immediate consent
+535 missed opportunity for enrolment
+1638 (74%) underwent randomisation
+166 declined deferred consent
+1472 infants included in analyses
+Intervention
+High flow oxygen therapy
+Flow of 2l/kg/min to a maximum of 25l/min (ideal body weight)
+Weaning of therapy:
+Cease if able to maintain saturations in target range for > 4hours with FIO2 0.21
+Feeding in High flow therapy group: nasogastric inserted and vented every 4 hours, no oral feeding was allowed unless in stable weaning phase
+Control
+Standard therapy
+Supplemental oxygen to a maximum of 2l/min to maintain saturations 92-98% (94-98%)
+May or may not be humidified
+Weaning of therapy:
+Cease if able to maintain saturations in target range for >4hours on air
+Feeding as per clinician
+Management common to both groups
+The remainder of medical treatment was at the discretion of clinicians i.e. use of steroids, antibiotics, antipyretics, bronchodilators and hypertonic saline
+Outcome
+Primary outcome:
+treatment failure occurred in:
+Standard oxygen therapy: 167 out of 733 (23%)
+High flow therapy: 87 out of 739 (12%)
+Risk difference -11 percentage points; (95% confidence interval (CI) -15 to -7; p < 0.001)
+Number needed to treat to prevent one treatment failure = 9
+Fragility Index = 51
+Escalation of care due to treatment failure was defined as meeting ≥ 3 of the following 4 clinical criteria: 1) Heart rate remains unchanged or has increased 2) Respiratory rate remains unchanged or has increased 3) Oxygen required ≥ 49% in high flow therapy arm or >2l/min in standard oxygen therapy arm to maintain saturations in target range 4) Medical review triggered by hospital early-warning tool or clinical judgement can override protocol if decision is made to escalate care
+Secondary outcomes (Standard therapy vs. high flow oxygen)
+:
+No significant difference in:
+Number of admissions/transfers to ICU
+9% vs. 12% (OR 1.37; 95% CI 0.96 to 1.95; p 0.08)
+Duration of stay in ICU
+2.72 vs. 2.63 days (Mean Difference -0.09; 95% CI -0.74 to 0.55; p = 0.78)
+Duration of hospital stay
+2.94 vs. 3.12 days (OR 0.18; 95% CI -0.09 to 0.44; p =0.19)
+Duration of oxygen therapy
+1.87 vs. 1.81 days (Mean difference -0.06; 95% CI -0.28 to 0.16; p = 0.61)
+Intubation rate
+1% vs. 1% (OR 1.99; 95% CI 0.6 to 6.65; p = 0.39)
+Adverse Events
+No differences between standard therapy and high flow therapy
+Apnoeas: 3 in each group
+Pneumothorax: 1 in each group
+Authors’ Conclusions
+Among infants with bronchiolitis who were treated outside of an ICU, those who received high-flow oxygen therapy had significantly lower rates of escalation of care due to treatment failure than those in the group that received standard therapy
+Strengths
+This study attempted to answer an important clinical question to a common paediatric problem.
+This was a large, multicentre RCT that was adequately powered to detect an absolute reduction in treatment failure of 5%
+The blocked randomization process meant that the intervention and control arms were well-balanced at baseline
+Treatment failure was based on objective measurements of clinical deterioration in over 60% of patients
+The secondary endpoints included patient-centred outcomes, such as ICU admission and hospital length of stay
+The study incorporated a pragmatic study design that reflected current clinical practice
+Investigators were blinded to the trial outcome until the final data analysis was complete
+Prespecified subgroup analysis was performed for premature infants, those with previous hospital admissions and with congenital heart disease. In addition, hospitals with and without an ICU were analysed separately
+Weaknesses
+This was an unblinded study as the intervention could not be masked
+The primary outcome was a composite outcome that may be of limited clinical relevance
+There was a risk of selection bias, with 533 of 2217 potential participants missing the  opportunity for enrolment
+It was unclear what happened to the HFNP therapy group after treatment failure and ICU admission
+Clinicians could escalate if they were clinically concerned, even if patients did not meet the four predefined clinical criteria. This occurred in 34% of cases; 52 (31%) in standard oxygen group vs 34 (39%) in high flow therapy group. As a result, detection bias cannot be excluded
+High flow therapy is standard practice in Australia/NZ for more severe bronchiolitis – preconception can effect decision making a demonstrated by all patients in the standard therapy group who experienced treatment failure being escalated to high flow oxygen therapy
+There was a higher respiratory rate in the high flow oxygen therapy group at the time of escalation. This may have indicated a lower threshold for physicians to declare treatment failure in the standard oxygen arm
+There was a difference between regional/metropolitan and tertiary centres regarding the percentage of infants requiring escalation of therapy. In addition, there was a difference in escalation rates between hospitals that had an ICU versus hospitals with no ICU. This again raises the suspicion of differing thresholds for management escalation between clinicians and institutions
+There was no control on the other therapies employed that may affect escalation of therapy. For example, sedation was used in 35 (standard oxygen therapy) and 49 (high flow therapy). In addition, feeding was not protocolised or described in the standard oxygen therapy group
+There was possibly an underestimation of adverse events, As part of the study participating centres received large amounts of education and supervision regarding high flow therapy. This may have resulted in an underestimate of adverse events and may limit the external validity of the study
+The Bottom Line
+This study shows that the majority (77%) of children with hypoxia and bronchiolitis treated with standard oxygen therapy will not require any escalation of therapy. In those that do require escalation, more than half of these patients will only require escalation to high flow therapy
+Rescue high flow therapy, following clinical deterioration with standard therapy, is beneficial
+In this study High flow therapy did not have more adverse events and therefore may be suitable for ward use with appropriate education and support
+My current practice is to use high flow therapy only as rescue therapy in the hypoxic infant with bronchiolitis and I will not change my practice based on this study
+External Links
+[article]
+A Randomized Trial of High-Flow Oxygen Therapy in Infants with Bronchiolitis. NEJM 2018
+[further reading]
+Letter to NEJM
+[further reading]
+Don’t Forget the Bubbles review
+[further reading]
+REBEL EM review
+Metadata
+Summary author: Alyssia Haling
+Summary date: 13th July 2018
+Peer-review editor:
+Fraser Magee

@@ -1,0 +1,1049 @@
+# Metadata
+- topic: 3.7 - Neurology - CrackCast-Shownotes-Episode-103-Headache-Disorders
+- source_folder: 3.7 - Neurology
+- original_file: CrackCast-Shownotes-Episode-103-Headache-Disorders.pdf
+
+CrackCast Show Notes – Headache Disorders – August 2017 
+www.canadiem.org/crackcast 
+ 
+ 
+Chapter 103 – Headache Disorders 
+ 
+Episode Overview: 
+ 
+1. Classify headache based on the IHSC (international headache society classification).   
+2. What are the IHSC for migraine without aura (common migraine) and migraine with 
+aura (classic migraine)  
+3. Describe the pathophysiology of migraine  
+4. Outline a stepwise approach to treating acute migraine attacks? List 8 therapy 
+options for Migraine.  
+5. List five migraine variants. 
+6. What can be done to prevent migraine headache recurrence? List 8 common 
+precipitants.  
+7. What are the clinical features of a cluster headache? How are they treated? Tension 
+headache?  
+8. List 6 causes and 6 risk factors for SAH.  
+9. Describe a clinical grading scale for cerebral aneurysms and SAH and how it relates 
+to prognosis. 
+10. Describe a diagnostic strategy for SAH. 
+11. List 6 components of management for SAH. 
+12. What are features of a HA from CNS malignancy? What primary cancers spread to 
+CNS? What are two components of management of a new CNS malignancy? 
+13. Describe clinical features and treatment of carotid and vertebral artery dissection 
+14. List 8 common clinical features for patients with giant cell arteritis; and its Dx and Rx. 
+15. What are the criteria to diagnose idiopathic intracranial hypertension? How is it 
+managed? 
+ 
+Wisecracks 
+ 
+1. How do migraines differ between children and adults? 
+2. Describe four unique presentations of migraine headache. 
+3. What is the pathophysiology of idiopathic intracranial hypertension? Describe the 
+typical patient.  
+4. List 3 LP factors that reduce the incidence of post-LP HA; and describe the 
+management of post-LP HA.  
+5. Describe post-traumatic headache & hypertensive headache.  
+6. What is reversible cranial vasoconstriction syndrome?  
+7. List 10 HA Red Flags.  
+ 
+Rosen's in Perspective 
+ 
+Hey! Check out https://canadiem.org/crackcast-e020-headaches/ 
+For a basic approach to headaches, red flags, ddx and the fundamentals!  
+ 
+ 
+ 
+CrackCast Show Notes – Headache Disorders – August 2017 
+www.canadiem.org/crackcast 
+ 
+ 
+1) Classify headache based on the IHSC (international headache society 
+classification) 
+ 
+Primary 
+Secondary 
+“Organic, identifiable, 
+distinct pathologic process”  
+Others: 
+ 
+1. Migraine 
+2. Cluster 
+3. Tension  
+ 
+1. H/A attributed to 
+trauma or injury to 
+the head or neck 
+2. Cranial or cervical 
+vascular disorder 
+3. Nonvascular 
+intracranial disorder 
+4. A substance or its 
+withdrawal 
+5. Infection 
+6. Disorder of 
+homeostasis 
+7. Headache or facial 
+pain attributed to 
+disorder of cranium, 
+neck, 
+8. Eyes, ears, nose, 
+sinuses, teeth, 
+mouth, or other facial 
+or cranial structures 
+ 
+PAINFUL CRANIAL 
+NEUROPATHIES,  
+ 
+OTHER FACIAL PAINS, 
+ 
+AND OTHER HEADACHES 
+ 
+Other benign primary 
+headaches 
+9. Headache attributed 
+to psychiatric 
+disorder 
+ 
+ 
+2) What are the IHSC for migraine without aura (common migraine) and 
+migraine with aura (classic migraine)  
+ 
+● 80% of migraines are without an aura.  
+● Migraine with aura is primarily characterized by the transient focal neurological 
+symptoms that usually precede or sometimes accompany the headache. Some 
+patients also experience a premonitory phase, occurring hours or days before the 
+headache, and a headache resolution phase. Premonitory and resolution symptoms 
+include hyperactivity, hypoactivity, depression, cravings for particular foods, repetitive 
+yawning, fatigue and neck stiffness and/or pain. - From ichd-3.org 
+ 
+Here are the classifications: Copied from https://www.ichd-3.org/1-migraine/1-2-migraine-
+with-aura/ 
+ 
+ 
+CrackCast Show Notes – Headache Disorders – August 2017 
+www.canadiem.org/crackcast 
+ 
+ 
+1.1 Migraine without aura 
+Previously used terms: 
+Common migraine; hemicrania simplex. 
+Description: 
+Recurrent headache disorder manifesting in 
+attacks lasting 4-72 hours. Typical 
+characteristics of the headache are unilateral 
+location, pulsating quality, moderate or severe 
+intensity, aggravation by routine physical 
+activity and association with nausea and/or 
+photophobia and phonophobia. 
+Diagnostic criteria: 
+A. At least five attacks1 fulfilling criteria B-D 
+B. Headache attacks lasting 4-72 hr 
+(untreated or unsuccessfully treated)2;3 
+C. Headache has at least two of the following 
+four characteristics: 
+● 
+1. unilateral location 
+● 
+2. pulsating quality 
+● 
+3. moderate or severe pain intensity 
+ 
+4. aggravation by or causing avoidance of 
+routine physical activity (eg, walking or 
+climbing stairs) 
+D. During headache at least one of the 
+following: 
+● 
+1. Nausea and/or vomiting 
+● 
+2. Photophobia and phonophobia 
+ 
+E. Not better accounted for by another ICHD-
+3 diagnosis. 
+ 
+1.2 Migraine with aura 
+Previously used terms: 
+Classic or classical migraine; ophthalmic, 
+hemiparaesthetic, hemiplegic or aphasic 
+migraine; migraine accompagnée; 
+complicated migraine. 
+Description: 
+Recurrent attacks, lasting minutes, of 
+unilateral fully-reversible visual, sensory or 
+other central nervous system symptoms that 
+usually develop gradually and are usually 
+followed by headache and associated 
+migraine symptoms. 
+Diagnostic criteria: 
+A.  
+At least two attacks fulfilling criteria B and C 
+B. One or more of the following fully reversible 
+aura symptoms: 
+● 
+1. Visual 
+“scintillating scotomas (bright rim around an 
+area of visual loss), teichopsia (subjective 
+visual image perceived with eyes open or 
+closed), fortification spectra (zigzagged lines 
+that slowly drift across the visual field), 
+photopsias (poorly formed brief flashes or 
+sparks of light), and blurred vision.” 
+● 
+2. Sensory 
+● 
+3. Speech and/or language 
+● 
+4. Motor 
+● 
+5. Brainstem 
+● 
+6. Retinal 
+ 
+C. At least two of the following four 
+characteristics: 
+● 
+1. at least one aura symptom spreads 
+gradually over ≥5 min, and/or two or 
+more symptoms occur in succession 
+● 
+2. each individual aura symptom lasts 
+5-60 min 
+● 
+3. at least one aura symptom is 
+CrackCast Show Notes – Headache Disorders – August 2017 
+www.canadiem.org/crackcast 
+ 
+ 
+unilateral 
+4. the aura is accompanied, or followed within 
+60 min, by headache 
+D. Not better accounted for by another ICHD-
+3 diagnosis, and transient ischaemic attack 
+has been excluded. 
+Notes: When for example three symptoms 
+occur during an aura, the acceptable maximal 
+duration is 3×60 minutes. Motor symptoms 
+may last up to 72 hours. 
+Aphasia is always regarded as a unilateral 
+symptom; dysarthria may or may not be. 
+ 
+ 
+3) Describe the pathophysiology of migraine  
+ 
+● No longer thought to be vascular in origin.  
+○ This hypothesis has been disproven 
+● Now vascular changes are thought to be an “epiphenomenon” of what is a primary 
+neurologic event triggered by abnormal trigeminal nerve activation.  
+○ cortical spreading depression or, less likely, 
+○ a sterile neuropeptide-induced inflammatory process, leads to pain and 
+sensitization of higher order neurons in the brainstem and thalamus. 
+Descending modulation is likely to be compromised as well. It is not yet 
+known what initiates the pathophysiologic process that leads to a migraine 
+attack. 
+ 
+4) Outline a stepwise approach to treating acute migraine attacks? List 8 
+therapy options for Migraine.  
+ 
+There are many ways to approach migraine treament. Most of the ER therapies are abortive 
+with the goal of limiting the intensity and duration of the attack. We want to relieve pain, 
+minimize recurrence, decrease side effects, and “street em”.  
+ 
+We need to consider:  
+● Patient's previous response to medications 
+● Pt. comorbidities 
+● Presence of N/V 
+● And know that gastric stasis is a common problem in an acute migraine attack (PO 
+meds probably won’t help much) 
+ 
+Here’s a starting approach: 
+1. 
+Acetaminophen or NSAIDs 
+2. 
+First line agents for moderate-severe attacks: 
+CrackCast Show Notes – Headache Disorders – August 2017 
+www.canadiem.org/crackcast 
+ 
+ 
+2.1. 
+DHE 
+2.2. 
+Triptans 
+2.2.1. 
+Sumatriptan 
+2.3. 
+Prochlorperazine 
+2.4. 
+Metoclopramide 
+2.5. 
+Droperidol 
+2.6. 
+Ketorolac  
+ 
+3. 
+Second line agents:  
+3.1. 
+Morphine 
+3.1.1. 
+Hydromorphone less effective 
+3.2. 
+Magnesium 
+3.3. 
+Valproic Acid 
+ 
+More details:  
+ 
+MILD TO MODERATE 
+Acetaminophen 500–1000 mg PO 
+Ibuprofen 600–800 mg PO Gastrointestinal upset 
+Naproxen sodium 275–550 mg PO Gastrointestinal upset 
+ 
+MODERATE TO SEVERE 
+ 
+First-Line Agents: 
+ 
+Dihydroergotamine (DHE) 1 mg IV or IM; may be repeated in 1 hour Nausea (pretreat with 
+antiemetic), not safe in pregnancy.  
+Caution in inhibitors of enzyme CYP450 3A4 
+ 
+Triptans 
+Sumatriptan 6 mg SC Chest pain, throat tightness, flushing 
+Contraindicated with hypertension, coronary artery disease, peripheral vascular disease, and 
+pregnancy.  
+Cannot be used within 24 hours of ergot use 
+ 
+Prochlorperazine 10 mg IV Sedation and dystonic reaction 
+Metoclopramide 10 mg IV Dystonic reaction 
+Droperidol 2.5 mg IV QT prolongation; dystonic reaction 
+Ketorolac 30 mg IV or 30 to 60 mg IM Gastrointestinal upset; avoid this medication in elderly 
+and in patients with renal insufficiency 
+ 
+Second Line Agents: 
+ 
+Morphine 4 to 8 mg IM or IV Opioids less efficacious than other treatment modalities 
+Magnesium 2 g IV More efficacious in migraine with aura 
+Valproic acid 1 g IV Contraindicated in pregnancy 
+ 
+CrackCast Show Notes – Headache Disorders – August 2017 
+www.canadiem.org/crackcast 
+ 
+ 
+5) List four migraine variants. 
+ 
+Neuroimaging should be considered for older or immunocompromised patients with 
+new-onset headaches, headaches associated with unexplained neurologic abnor- 
+malities, and headaches with an abrupt onset. 
+ 
+Don’t forget to think about worst first in every patient:  
+● SAH 
+● TIA /  stroke 
+● Brain mass 
+● Idiopathic intracranial hypertension!  
+● Retinal migraine 
+○ rare syndrome consisting of recurrent attacks of monocular visual 
+dysfunction, including positive features (such as, scintillations) or negative 
+features (such as, blindness). As with aura, these symptoms are completely 
+reversible. 
+● Hemiplegic migraine 
+○ motor aura consisting of hemiparesis or hemiplegia. The progression of the 
+motor deficit is gradual and in most cases is accompanied by a visual, 
+○ sensory, or speech disturbance. The neurologic symptoms last 
+○ up to 60 minutes, followed by headache. Rarely, the motor 
+○ deficit is persistent, resulting from a true migrainous stroke. A 
+○ familial version of hemiplegic migraine is associated with genetic 
+○ channelopathies. 
+● Migraine with brainstem aura 
+○ an aura referable to 
+○ the brainstem. Common neurologic findings include dysarthria, 
+○ tinnitus, vertigo, diplopia, and altered level of consciousness. 
+● Status migrainosus  
+○ Severe, unremitting migraine headache persisting unabated for more than 72 
+hrs 
+ 
+6) What can be done to prevent migraine headache recurrence? List 8 
+common precipitants.  
+ 
+To Prevent Headache Recurrence After Emergency Department Discharge: 
+ 
+Steroids Various regimens. Commonly used: dexamethasone 10 mg IV  
+Risks: Gastrointestinal bleeding, infection, cataracts, aseptic necrosis, memory disturbances 
+ 
+Other options:  
+● Naproxen 500 mg 
+● Sumatriptan 100 mg 
+ 
+Prophylaxis:  
+● Beta blockers 
+● TCAs 
+CrackCast Show Notes – Headache Disorders – August 2017 
+www.canadiem.org/crackcast 
+ 
+ 
+● Antiepileptic drugs  
+Precipitants:  
+● Sleep deprivation 
+● Stress 
+● Hunger 
+● Hormonal changes (menstruation)  
+● Drugs:  
+○ OCPs 
+○ Nitroglycerin  
+● Chocolate 
+● Caffeine  
+● Tyramine rich foods 
+● MSG 
+● Nitrates 
+● Strong glare - odour - loud noises - weather changes  
+ 
+7) What are the clinical features of a cluster headache? How are they 
+treated? Tension headache?  
+ 
+Tension h/a = most common ha disorder in the USA.  
+Cluster headache 
+Tension headache 
+Young, middle aged men who smoke  
+Multiple clusters of headaches in a day in a 
+week/month period 
+ 
+Precipitated by stress, etoh, climate change 
+ 
+Thought to be related to trigeminal nerve 
+activation  
+Common in women in the 4th decade 
+Last 30 mins to 7 days 
+Unknown pathophysiology, may be similar to 
+migraine etio.  
+ 
+Tight, band, pulsating, dull ache. Usually non-
+debilitating, and no associated symptoms.  
+ 
+ 
+Sudden onset, lasting 15 mins to 3 hrs 
+Unilateral, sharp, stabbing pain in the eye, 
+awakens from sleep 
+ 
+Agitated, anxious, rocking, rubbing the head, 
+pacing.  
+ 
+Often ipsilateral ptosis, miosis, sweating, 
+lacrimation, rhinorrhea. Injected eye. Nasal 
+congestion. 
+Normal neuro exam.  Normal vital signs.  
+ 
+The most common disorders mimicking tension 
+headache are migraine, IIH, oromandibular 
+dysfunction, cervical spondylosis, sinus or eye 
+disease, and intracranial masses. Subtle 
+indolent infections (such as, cryptococcal 
+meningitis) should be considered in the 
+immunocompromised. 
+ 
+Treatment:  
+● 
+High flow O2 via NRB at 12 L/min 
+○ 
+Most resolve in 15 mins 
+● 
+Sumatriptan 6 mg 
+● 
+Octreotide 100 mcg SC 
+Prventative therapy:  
+● 
+Prednisone 100 mg po daily x 5, then 12 
+day taper 
+● 
+Verapamil 120 mg po tid 
+Treatment:  
+● 
+NSAIDs 
+● 
+Acetaminophen 
+● 
+Metoclopramide 
+● 
+Acupuncture  
+Don’t forget to rule out carotid artery dissection with any first, or atypical presentation!  
+CrackCast Show Notes – Headache Disorders – August 2017 
+www.canadiem.org/crackcast 
+ 
+ 
+8) List 6 causes and 6 risk factors for SAH.  
+ 
+SAH refers to extravasated blood in the subarachnoid space. Presence of the blood 
+activates meningeal nociceptors, leading to diffuse occipital pain along with signs of 
+meningismus. SAH accounts for up to 10% of all strokes and is the most common cause of 
+sudden death from a stroke. 
+ 
+Approximately 80% of patients with nontraumatic SAH have ruptured saccular aneurysms. 
+Other causes include arteriovenous malformations, cavernous angiomas, mycotic 
+aneurysms, neoplasms, and blood dyscrasias. SAH may be caused secondarily by an 
+intraparenchymal hematoma that dissects its way into the sub-arachnoid space. 
+ 
+Risk fx:  
+● Age > 40 
+● HTN 
+● Smoking 
+● Excessive ETOH 
+● Sympathomimetic drug use 
+● Familial cerebral aneurysm disorders 
+○ Autosomal dominant polycystic kidney disease 
+○ Coarctation of the aorta  
+○ Marfan syndrome 
+○ Ehler-Danlos syndrome 
+ 
+Don’t forget about other things:  
+ 
+Cervical artery dissection (CAD), cerebral venous thrombosis (CVT), reversible cerebral 
+vasoconstriction syndrome, hemorrhagic or ischemic stroke, and primary headache 
+disorders, including migraine and cluster headaches, CNS infections.  
+ 
+9) Describe a clinical grading scale for cerebral aneurysms and SAH and 
+how it relates to prognosis. 
+ 
+Table 93.2 – Hunt & Hess Clinical Grading Scale for Cerebral Aneurysms and SAH 
+ 
+Grade 0 = Unruputured aneurysm 
+ 
+Grade 1 = Asymptomatic or minimal headache and slight nuchal rigidity 
+ 
+Grade 2 = Moderate or severe headache, nuchal rigidity, no neurologic deficit other than 
+cranial nerve palsy 
+ 
+Grade 3 = Drowsiness, confusion, or mild focal deficit 
+ 
+Grade 4 = Stupor, moderate to severe hemiparesis 
+ 
+Grade 5 = Deep coma, decerebrate posturing, moribund appearance 
+CrackCast Show Notes – Headache Disorders – August 2017 
+www.canadiem.org/crackcast 
+ 
+ 
+Prognosis 
+○ 1-2 = good px 
+○ 3 = risk for rapid deterioration  
+○ 4-5 = poor px 
+ 
+10) Describe a diagnostic strategy for SAH 
+ 
+Coles notes version:  
+1. Think about the dx 
+2. Get a non-contrast CT head 
+a. Do an LP in CT negative patients if SAH is still suspected.  
+b. If > 100 RBCs in tube 4 get a CT angiogram to hunt for any aneurysms.  
+ 
+Now for more detail…. 
+ 
+Clinical features:  
+ 
+● Thunderclap h/a, kaboom, WHOML - 80% of people 
+● Exertional onset h/a - 20%  
+○ Valsalva 
+○ Sex 
+○ Non-strenuous physical activity  
+● *peaking intensity in seconds to minutes* - pearl 
+● Associated symptoms:  
+○ N/V 
+○ Syncope 
+○ Neck stiffness 
+○ Photophobia 
+○ Seizures  
+● Physical exam:  
+○ Meningismus - 50% 
+○ Focal neuro abnormalities - 20% 
+○ May have fundoscopic findings 
+○ 3rd, 6th nerve palsies  
+○ Mydriasis (expanding PCOM aneurysm) 
+○ *restlessness, altered LOC* 
+○ Preceding sentinel headache days to weeks before.  
+ 
+Imaging findings 
+ 
+● CT head - non contrast is the golden ticket here 
+○ 90% sensitivity for hemorrhage < 24 hrs old 
+○ 50% sensitive for hemorrhage up to a week old 
+○ If you get the CT within 6 hours of headache onset - CT has been shown to 
+be 100% sensitive and 100% specific for SAH 
+○ But according to Rosen’s:  
+CrackCast Show Notes – Headache Disorders – August 2017 
+www.canadiem.org/crackcast 
+ 
+ 
+■ “However, current guidelines still recommend follow up lumbar 
+puncture (LP) when CT is nondiagnostic. Until additional studies are 
+performed, we recommend a LP be performed in CT negative patients 
+suspected of having a SAH.” 
+ 
+● Other debates:  
+ 
+○ When to order the CTA? At the same time?  
+■ “In lieu of a non-contrast CT followed by LP, the emergency clinician 
+can order a non–contrast-enhanced head CT scan followed by 
+computed tomography angiography (CTA); this is reasonably sensitive 
+and may be appropriate for patients considered to be at lower risk of 
+disease, patients refusing a LP, and patients in whom a LP cannot be 
+performed. Concerns of additional radiation exposure and contrast 
+agent toxicity need to be weighed against the risks of a LP.  
+ 
+A normal non–contrast-enhanced head CT scan followed by a normal spinal fluid analysis 
+definitively rules out SAH and does not need to be followed with angiography, even in 
+patients at high risk of disease. 
+ 
+However, this strategy does not rule out other causes of thunderclap headache that may be 
+in the differential diagnosis, such as carotid artery dissection, cerebral venous sinus 
+thrombosis, and reversible cerebral vasoconstriction syndrome.” From Rosen’s 9th.  
+ 
+Lab findings 
+ 
+● Often have abnormal ECG findings including arrhythmias, ST-T wave changes, U 
+waves, QT prolongation. 
+● LP CSF studies to look for: 
+○ Xanthochromia (takes up to 12 hrs to occur after hemoglobin has been 
+metabolized; poorly supported prospectively)  
+○ RBC count of < 100 in tube 4 makes SAH unlikely  
+ 
+11) List 6 components of management for SAH 
+ 
+● Treat acute medical and neurologic complications (supportive care)  
+○ Consider early intubation of patients with HH Class 3 SAH (drowsy, confused)  
+○ Analgesics 
+○ Antiemetics  
+○ Bed rest in a quiet and dark environment  
+○ Pneumatic compression stockings 
+○ Reverse any anticoagulation on board 
+○ Treat seizures with anticonvulsants  
+○ Comprehensive brain resuscitation  
+■ Normal ICP 
+■ Normal MAP 
+■ Avoid anemia 
+CrackCast Show Notes – Headache Disorders – August 2017 
+www.canadiem.org/crackcast 
+ 
+ 
+■ Avoid hyperthermia 
+■ Euglycemia  
+■ Normoxia  
+■ Normal electrolytes and euvolemia  
+ 
+● Prevent recurrent hemorrhage 
+○ Aminocaproic acid (antifibrinolytics) or TXA to reduce rebleeding.  
+○ Blood pressure control (based on neurosx opinion) 
+■ But ideally: SYSTOLIC BP < 160 mmHg or MAP < 130 mmHg unless 
+in vasospasm.  
+ 
+● Stalling vasospasm  
+○ Start Nimodipine ASAP (one of the only evidence-based treatments)  
+■ 60 mp Po/NG q 4hrs 
+ 
+12) What are features of a HA from CNS malignancy? What primary 
+cancers spread to CNS? What are two components of management of a 
+new CNS malignancy? 
+ 
+● Headaches - most common sxt of brain tumour in the young. Usually due to traction 
+on pain-sensitive structures: the meninges and/or blood vessels  
+○ Less common symptom in the older adult 
+○ Clinical features:  
+■ Depend on size, location, etc.  
+■ *essentially the pain can be anywhere and doesn’t correlate with 
+location of the tumour* 
+■ Classic symptoms:  
+● Worsening headache for weeks to months 
+● Was initially present only on awakening and is now continuous 
+● Vomiting not preceded by nausea 
+● Symptoms of increased ICP: 
+○ Bilateral h/a worse with coughing, sneezing, bending, 
+defecation, sexual intercourse  
+○ Seizures 
+○ Personality changes or cognitive difficulties  
+■ Classic” triad: rarely seen 
+● Brain tumour headache:  
+○ Sleep disturbances 
+○ Severe pain 
+○ Nausea and vomiting  
+○  
+● Can be primary brain malignancy, or secondary 
+○ Most common metastatic sources: lung > breast > melanoma > GI cancer 
+ 
+● Dx with CT, MRI or CT with contrast - which helps improve the identification of 
+underlying mass lesions from abscess, hematoma, vascular malformation.  
+ 
+CrackCast Show Notes – Headache Disorders – August 2017 
+www.canadiem.org/crackcast 
+ 
+ 
+Management:  
+ 
+● Urgent referral to neurosx 
+ 
+● For those with signs of increased ICP (h/a, N/V, confusion, weakness)  
+○ Treat with corticosteroids for ICP reduction and symptom relief +/- analgesia 
+○ Dexamethasone 8-16 mg po daily 
+○ In the ER: can give 10 mg Po/iv then 4 mg q6hrs  
+ 
+● Anyone with a seizure:  
+○ Should receive an AED 
+■ Phenytoin, carbamazepine, valproate 
+○ Don’t give AED prophylactically if no seizure has occurred.  
+ 
+13) Describe clinical features and treatment of carotid and vertebral 
+artery dissection 
+ 
+This is the most common cause of ischemic stroke in the < 50 yr old (10-25% of cases!)  
+● Often people have minimal symptoms and the dx is missed!  
+● Usually caused by sudden neck movement or trauma or manipulation  
+○ Huge list! Coughing, chiro, lifting, sports, MVCs, etc.! 
+○ Delay from symptom onset to diagnosis can be several days!  
+● The lesion is a hemorrhage into the media of the arterial wall  
+○ This creates an intra-arterial HEMATOMA 
+○ A thrombus forms and clots can them embolise 
+● **the timing is variable and the ischemia can appear years later** 
+● Symptoms:  
+○ Sudden onset neck/head pain 
+ 
+Carotid artery dissection (CAD) 
+Vertebral artery dissection 
+● “Triad”: 
+○ Unilateral h/a or neck pain 
+○ Ipsilateral horner’s syndrome 
+○ Blindness OR contralateral 
+motor deficits  
+● **acute, severe retro-orbital pain 
+in a previously healthy person 
+with no hx of cluster h/a is 
+suggestive of CAD 
+● Less common 
+● “Young person with sudden, severe, 
+unilateral, posterior headache.” 
+● Rapidly progressive neuro deficit 
+and 
+○ Vertigo, severe vomiting 
+○ Ataxia 
+○ Diplopia 
+○ Hemiparesis 
+○ Unilateral facial weakness 
+○ Tinnitus  
+ 
+DDX for unilateral h/a or neck pain with horner’s syndrome:  
+● Migraine  
+● Cluster h/a  
+● SAH 
+● CAD 
+CrackCast Show Notes – Headache Disorders – August 2017 
+www.canadiem.org/crackcast 
+ 
+ 
+Dx:  CT angio or MRI 
+ 
+Management:  
+● If acute ischemic stroke symptoms ⇒ tPa candidates 
+● Current evidence and systematic reviews show: 
+○ Antiplatelets and anticoagulation show similar outcomes (3 month recurrent 
+stroke incidence is rare)  
+ 
+Cerebral venous thrombosis 
+ 
+● Thrombosis of intracranial veins and sinuses are rare 
+● Think about this in the YOUNG patient without standard risk factors 
+○ Venous stasis 
+■ Neurosurgical procedures  
+○ Hypercoagulable state 
+■ Genetic 
+● Antithrombin III, protein C and S deficiencies  
+● Factor V leiden mutation  
+■ Acquired 
+● pregnancy 
+● Malignancy 
+● Exogenous estrogen 
+● Vasculitis 
+● IBD 
+● Connective tissue disease  
+○ Endothelial injury 
+■ Head trauma 
+■ Surgery 
+■ Parameningeal infections  
+● Presentation:  
+○ Increased ICP due to impaired venous drainage 
+■ Diffuse, increasing h/a over days-weeks.  
+■ Seizures  
+■ Papiledema  
+○ **Key symptoms:  
+■ Ocular findings of pain and proptosis and paralysis of EOMs 
+○ Focal brain injury due to ischemia, infarction, hemorrhage 
+■ Rarely present with a classic stroke syndrome 
+ 
+● Dx (from rosen’s 9th ed) 
+  
+“Routine blood work including a complete blood count (CBC), chemistry panel, ESR, and 
+clotting studies, including a prothrombin time (PT) and partial thromboplastin time (PTT) 
+should be obtained in all patients with suspected CVT. These studies are helpful in 
+determining the presence of an underlying hypercoagulable state, an infectious process, or 
+an inflammatory disorder contributing to the development of CVT. A normal D-dimer is 
+helpful for patients with a low probability of CVT and, along with the clinical findings, 
+CrackCast Show Notes – Headache Disorders – August 2017 
+www.canadiem.org/crackcast 
+ 
+ 
+can be used to exclude the diagnosis in individual patients at low risk of disease. The 
+definitive diagnosis of CVT is based on neuroimaging of the area of thrombosis. Noncontrast 
+CT by itself is an insensitive test, but it may reveal nonspecific late lesions, such as an 
+infarct, hemorrhage, or edema. Occasionally, hyperdensity of a cortical vein or sinus may be 
+seen. The key to diagnosis is to image the venous system itself. This is best accomplished 
+by a combination of MRI to visualize the thrombosed vessel and magnetic resonance 
+venography (MRV) to detect nonvisualization of the same vessel. CTA and CTV may also be 
+used to visualize the cerebral venous system, especially in patients who have a 
+contraindication to MRI.”  
+ 
+● Treatment 
+○ Full dose heparin or LMWH anticoag.  
+○ Consider thrombolysis or thrombectomy with IR 
+ 
+14) List 8 common clinical features for patients with giant cell arteritis; 
+and its Dx and Rx. 
+ 
+GCA = inflammatory vasculopathy of med-lg arteries. Causes an inflammatory infiltrate into 
+the wall → intimal hyperplasia, stenosis, and occlusion → ISCHEMIA 
+● Why we worry about vision loss - ischemic optic neuropathy  
+Involves:  
+● Aorta 
+● Temporal (MOST common) and occipital arteries 
+● Can also involve: ophthalmic, vertebral, distal subclavian, and thoracic aorta.  
+ 
+Risk factors: 
+● Age > 50  
+● Women >  men 
+ 
+Clinical features (Box 93.4)  
+● Attributed to ISCHEMIA and SYSTEMIC INFLAMMATION  
+○ Headache - 70% OF PTS. usually chronic for 2-3 months. 
+○ Can be anywhwere on the head 
+○ 40% of pts develop symptoms of PMR 
+● Risk for: 
+○ TIA’s of the eye, peripheral neuropathies, strokes.  
+● On exam:  
+○ Temporal artery: Findings include tenderness, reduced or absent pulsations, 
+erythema, and nodularity or swelling.  
+○ Visual acuity, visual field testing, and thorough funduscopic examination 
+should be performed. The presence of a relative afferent pupillary defect 
+(Marcus-Gunn pupil) should increase the suspicion for GCA, although these 
+patients usually will also have a visual loss or a visual field defect. 
+ 
+ 
+ 
+CrackCast Show Notes – Headache Disorders – August 2017 
+www.canadiem.org/crackcast 
+ 
+ 
+Common Clinical Features in Patients With Giant Cell Arteritis 
+ 
+● Age older than 50 years old 
+● Female more than male 
+● Headache -  
+● Visual symptoms: 
+● Amaurosis fugax 
+● Visual loss 
+● Diplopia 
+● Jaw claudication 
+● Temporal artery tenderness 
+● Systemic symptoms: 
+○ Fever  
+○ Weight loss 
+○ Fatigue 
+Dx:  
+● Think about Ddx:  
+○ Takayasu’s arteritis affecting younger patients with visual loss 
+○ Stroke causing h/a and visual loss 
+○ Polyarteritis nodosa  
+● Testing:  
+○ Guided by clinical suspicion 
+○ Labs:  
+■ ESR > 50-100 
+■ CRP elevated 
+● These tests have a 85% sens, and only 35% spec.  
+● 4% of people with GCA can have anormal CRP  
+■ Thrombocytosis 
+■ Anemia  
+○ Imaging is not yet validated - MRI - U/S 
+○ Gold standard: Temporal / artery biopsy (but because this is a skip lesion 
+disease, some patches may be missed!  
+ 
+Treatment: involve neuro, optho, rheumatology  
+1. IF amaurosis fugax or diplopia = treat with steroids emergently 
+a. Methylprednisolone 1000 mg daily for 3 days!  
+2. Without visual symptoms:  
+a. Prednisone 40-60 mg PO daily  
+ 
+15) What are the criteria to diagnose idiopathic intracranial 
+hypertension? How is it managed? 
+ 
+● Young, obese, women of childbearing age 
+○ CSF prod/absorp. Imbalance. Poorly understood 
+○ Often have signs of increased ICP, and may have temporary visual 
+obscurations related to postural changes; pulsatile tinnitus, n/v, dizziness.  
+ 
+CrackCast Show Notes – Headache Disorders – August 2017 
+www.canadiem.org/crackcast 
+ 
+ 
+● Criteria for Diagnosis of Idiopathic Intracranial Hypertension 
+○ Headache that remits with normalization of CSF pressure 
+○ Papilledema 
+○ Nonfocal neurologic examination 
+○ May have CN VI palsy 
+○ Increased CSF opening pressure 
+■ >250 mm (>25 cmH20) in adults  
+■ >280 mm in children 
+○ Normal CSF diagnostic studies 
+○ Normal neuroimaging studies 
+○ No other cause of increased ICP identified 
+● Dx: MRI with MR venography ideally performed before LP (lateral decubitus position)  
+ 
+● Management:  
+○ With visual field loss:  
+■ Lower ICP with acetazolamide, lasix, steroids 
+■ If no response may be candidates for VP / LP shunts 
+○ Without visual field loss: symptomatic large volume CSF drainage - 20 mL 
+ 
+Wisecracks 
+ 
+1) How do migraines differ between children and adults? 
+ 
+“In children and adolescents (aged under 18 years), attacks may last 2-72 hours.  
+Migraine headache in children and adolescents (aged under 18 years) is more often bilateral 
+than is the case in adults; unilateral pain usually emerges in late adolescence or early adult life. 
+Migraine headache is usually frontotemporal. Occipital headache in children is rare and calls 
+for diagnostic caution. A subset of otherwise typical patients have facial location of pain, which 
+is called “facial migraine” in the literature; there is no evidence that these patients form a 
+separate subgroup of migraine patients. In young children, photophobia and phonophobia may 
+be inferred from their behaviour. Migraine attacks can be associated with cranial autonomic 
+symptoms and symptoms of cutaneous allodynia.” from ICHD-3.org 
+2) Describe four unique presentations of migraine headache 
+ 
+a. Retinal migraine 
+b. Hemiplegic migraine 
+c. Brainstem migraine 
+d. Status migrainosus!  
+ 
+See above for information!  
+ 
+ 
+ 
+CrackCast Show Notes – Headache Disorders – August 2017 
+www.canadiem.org/crackcast 
+ 
+ 
+3) What is the pathophysiology of idiopathic intracranial hypertension? 
+Describe the typical patient.  
+ 
+● Young, obese, women of childbearing age 
+○ CSF prod/absorp. Imbalance. Poorly understood 
+ 
+“PATHOGENESIS — Although many theories for IIH have been proposed, the precise 
+pathogenesis of IIH remains unknown. Any theory must account for the high incidence of IIH 
+in obese women of the childbearing years. Proposed etiologies include cerebral venous 
+outflow abnormalities (eg, venous stenoses and venous hypertension); increased 
+cerebrospinal fluid (CSF) outflow resistance at either the level of the arachnoid granulations 
+or CSF lymphatic drainage sites; obesity-related increased abdominal and intracranial 
+venous pressure; altered sodium and water retention mechanisms; and abnormalities of 
+vitamin A metabolism” - From uptodate 2017  
+ 
+4) List 3 LP factors that reduce the incidence of post-LP HA; and 
+describe the management of post-LP HA.  
+ 
+● NOT affected by the amount of time in a recumbent position post LP 
+● Things that due decrease risk of PDPH: 
+○ Small diameter needles 20-22 ga cutting needles  
+○ Inserted with the needle bevel up 
+○ Atraumatic needle (whitaker or sprotte needle)  
+ 
+Management:  
+● Most resolve spontaneously in 5-7 days post 
+○ Supportive care:  
+■ Bed rest,  
+■ Hydration 
+■ Mild analgesia 
+○ Unproven therapy: 
+■ Caffeine 
+○ Epidural blood patch is the definitive treatment for non-responders to 
+conservative treatment (15-30 ml of autologous blood).  
+ 
+5) Describe post-traumatic headache & hypertensive headache.  
+ 
+PTH: 
+● Common post concussion or TBI 
+○ Often the person has both anatomic and functional symptoms consistent with 
+post-concussive syndromes 
+○ Normal neuro exam, imaging normal  
+ 
+HH: 
+● Meet criteria when BP > 180/120 mmHg and h/a → then resolves when the blood 
+pressure is normalized 
+CrackCast Show Notes – Headache Disorders – August 2017 
+www.canadiem.org/crackcast 
+ 
+ 
+●  Be sure to inquire about pregnancy or post-partum status (up to 8 weeks 
+post!) 
+● No objective end-organ damage identified on labs or exam.  
+● First treat with antidopaminergic and NSAIDs, reserve blood pressure medications 
+for people with evidence of end organ damage. 
+ 
+6) What is reversible cranial vasoconstriction syndrome?  
+ 
+“A cerebral arteriopathy characterized by segmental areas of vasoconstriction within large- 
+and medium-sized vessels. It is the same disease as postpartum angiopathy or migrainous 
+vasospasm. RCVS causes recurrent thunderclap headache in susceptible patients and may 
+cause ischemic or hemorrhagic stroke.” - Rosen’s 9th Ed.  
+ 
+● Diagnosed more frequently now given non-invasive neurovasc. Imaging 
+● Some data suggests this may be the common cause of thunderclap h/a 
+● Symptoms:  
+○ Thunderclap h/a, severe, throbbing, n/v 
+○ Photophobia  
+● Dx: by excluding the other emergent causes of H/A (Ct +/- LP)  
+○ “RCVS = Recurrent thunderclap h/a’s in a discrete time frame” 
+○ Different diagnosis than “primary headache associated with sexual activity”  
+● Treatment: 
+○ No known optimal treatment  
+○ Some people use CCB’s  
+○ Discharge with neuro f/u  
+ 
+7) List 10 HA Red Flags 
+ 
+1. Onset > age 50 
+2. Onset in immunocompromised patients 
+3. Hx of malignancy or “b” symptoms.  
+4. First ever headache / symptom 
+5. Febrile, with no explanation  
+6. Thunderclap headache 
+7. Post-traumatic with no imaging 
+8. Onset with exertion  
+9. Focal deficits  
+10. Signs of increased ICP 
+ 
+Remember: 
+ 
+First 
+Febrile 
+Forceful 
+Forty  
+Focal  
+ 
+CrackCast Show Notes – Headache Disorders – August 2017 
+www.canadiem.org/crackcast 
+ 
+ 
+Or:  
+ 
+“The mnemonic SNOOP is a reminder of the danger signs ("red flags") for the presence of 
+serious underlying disorders that can cause acute or subacute headache [11,12]: 
+ 
+● Systemic symptoms, illness, or condition (eg, fever, weight loss, cancer, pregnancy, 
+immunocompromised state including HIV) 
+● Neurologic symptoms or abnormal signs (eg, confusion, impaired alertness or 
+consciousness, papilledema, focal neurologic symptoms or signs, meningismus, or 
+seizures) 
+● Onset is new (particularly for age >40 years) or sudden (eg, "thunderclap") 
+● Other associated conditions or features (eg, head trauma, illicit drug use, or toxic 
+exposure; headache awakens from sleep, is worse with Valsalva maneuvers, or is 
+precipitated by cough, exertion, or sexual activity) 
+● Previous headache history with headache progression or change in attack frequency, 
+severity, or clinical features” - From UptoDate 2017  
+ 

@@ -1,0 +1,491 @@
+```yaml
+title: "CrackCast Episode 51: Wrist and Forearm"
+url: "https://canadiem.org/crackcast/"
+date: 2016-11
+source: "CanadiEM – CrackCast"
+original_file: "CC.Ep51.WristandForearm-1.pdf"
+summary: "Will be added later"
+```
+
+## Overview
+
+### Rosens in Perspective
+
+- **What is the wrist?**
+  - Distal radius/ulna → CMC junctions
+  - 8 carpal bones in two rows of four
+  - Bones: SLTPTTCH
+  - The Radius has three articular surfaces:
+    - Radiocarpal joint, Distal radial ulnar joint (DRUJ), and the triangular fibrocartilage complex (TFCC).
+    - Only the radius actually interfaces with the carpi - scaphoid and lunate
+  - The ulna is separated from the carpals by the TFCC - which binds the radius, ulna, lunate, and triquetrum together
+  - The DRUJ is a “synovial pivot” where the distal radius articulates and rotates on the fixed ulna. This movement is stabilized by the TFCC
+  - All the carpals (except pisiform which is embedded in FCU) are contained in a synovial capsule.
+    - Their movement is passive based on what the metacarpals, radius, and ulna do
+  - Wrist ligaments:
+    - Intrinsic ligaments - connect the carpal bones
+      - E.g. scapholunate & lunotriquetral ligaments
+    - Extrinsic ligaments - link the carpal bones to the distal radius, ulna, and metacarpals
+      - E.g. the volar proximal and distal arcades
+      - E.g. the dorsal extrinsics
+  - Vascular supply
+    - Radial and ulnar arteries
+    - **The intrinsic blood supply of the carpal bones enters distally to proximally in most cases**
+      - Especially: scaphoid, capitate, lunate:
+        - Each of these have a single distal vessel giving them their blood supply
+  - Nerves:
+    - Radial and ulnar nerves have dorsal branches which cross the dorsum of the wrist at each respective styloid
+    - The Median nerve is all volarly located: crosses radial and deep to the palmaris longus tendon
+    - The ulnar nerve lies within Guyon’s canal - between the pisiform and the hook of the hamate.
+
+- **Why is the wrist important?**
+  - Many movements, including circumduction
+
+- **How to examine the hand?**
+  - See Table 51-1 or listen to episode 50
+
+- **Clinical features:**
+  - History
+    - Mechanism of injury!
+    - Full detailed hx
+  - Physical Exam
+    - Compare to the normal wrist
+    - Find the point of maximal pain
+      - Dorsal structures:
+        - Describe it in relation to known landmarks: ulnar styloid, radial styloid, snuff box, lister’s tubercle (on the radius) - proximal to scapholunate - and a point for wrist arthrocentesis.
+        - Also where the lunate shows up with volar flexion
+        - Ulnar to this is the DRUJ and the triquetrum
+      - Volar structures:
+        - Scaphoid tubercle is distal to the radial styloid
+        - Pisiform is distal to the ulnar styloid (by the hypothenars)
+        - Distal and radial to the pisiform is the hook of the hamate
+    - Nerve and vascular exam
+
+## Core Questions
+
+### 1) Describe normal radiographic relationships:
+
+- **Should get these views:**
+  - PA, lateral, oblique
+    - Anatomy to identify: the ulnar styloid, the extensor carpi ulnaris groove
+  - There are TONS of other views
+    - E.g. clenched fist view, scaphoid views, carpal tunnel views, reverse supinated view
+    - See table 51-2 for more details
+
+#### a. Radial length measurement
+
+- The radial styloid process should extend beyond the end of the articular surface of the ulna by 9 - 12 mm on a PA radiograph
+- There may be some degree of ulnar variance that affects this distance on the PA view due to wrist rotation/flex/ext/variation/injury
+  - Positive ulnar variance:
+    - Ulnar articulation is more distal (+ve) = the ulna is moved distally. As in ulnar impaction/abutment syndrome. Found in TFCC injury
+  - Neutral = 9-12mm = NORMAL
+  - Negative ulnar variance:
+    - The ulna has moved “away” (-ve) from the carpals or proximally. E.g. Kienboch’s disease of the lunate.
+
+#### b. Radial inclination
+
+- Aka: ulnar slant
+- The articular surface of the radius on a PA view angle normally is 15-25 degrees - sloping towards the ulna
+
+#### c. Volar Tilt
+
+- The distal radius on a lateral view X-ray should have 10-25 degrees of volar tilt.
+- To make sure it is an adequate lateral view:
+  - The distal radius should line up with the lunate, capitate, and the 3rd metacarpal
+  - Forming three C-shapes, and the convexity of the distal capitate < 10 degrees
+  - Finally, the scapholunate angle should be 30-60 degrees and the capitolunate angle should be 0-30 degrees
+
+- If any of these 3 measurements are off consider carpal ligament injuries and carpal instability (see below about DISI and VISI)
+
+#### d. Scapholunate angle
+
+- Longitudinal axis of the scaphoid and lunate
+
+#### e. Capitolunate angle
+
+- Intersection of the capitate and lunate central axes.
+
+#### f. Wrist arcs
+
+1. Carpal bones on the PA view should only have 1-2 mm between each of them. With parallelism
+2. On the PA radiograph smooth lines (Gilula’s lines or carpal lines) can drawn like arcs along the articular surfaces.
+3. Disruption = ligament/instability/#
+
+- Take home: memory aids: 22 volar tilt - 22 radial inclination - 11 radial length - 1-2 mm carpal bone spacing.
+  - Just remembers 1”s and 2”s in some combination.
+
+### 2) Describe X-Ray findings and management of:
+
+#### a. Scaphoid fracture
+
+- Most commonly #’d carpal bone (15-40 yr. Olds with a FOOSH), high complication rate
+  - (5-40%) of AVN/non-union
+- Anatomy:
+  - 1) tuberosity and distal pole
+  - 2) waist
+  - 3) proximal pole
+
+- Physical exam:
+  - Dorsal wrist pain - distal to radius
+  - Limited ROM of wrist and thumb
+  - Snuffbox tenderness and swelling
+    - Detection may increase with radial OR ulnar deviation
+  - Watson’s scaphoid shift test
+  - Axial compression of the 1st MC
+  - Pain on thumb/index finger pinch
+  - Palpation of the scaphoid tubercle volarly
+
+- X-ray findings:
+  - 15% of plain radiographs immediately after the fall miss the injury
+  - Need to get scaphoid views to increase sensitivity
+  - Findings:
+    - Fracture lucency, obliteration of the scaphoid fat pad
+
+- Optimal imaging?
+  - “Still controversial”, but definitely not bone scans
+  - CT: 93% sensitive for occult fracture identification acutely
+  - MRI: “100%” sensitive
+
+- Treatment:
+  - Anyone with the suspicion of scaphoid #’s needs immobilization, and repeat imaging in 7-10 days
+  - Uncomplicated, non-displaced #s
+    - Immobilization in thumb spica cast for 6-12 weeks
+      - If short arm casting: wrist in 10 deg. Flexion, mild radial deviation, thumb IP free
+      - **Some people put a long arm cast for the first 1-2 weeks**
+      - **The more proximal the fracture the higher the risk of AVN and non-union**
+        - Because blood flows distal to proximal through the scaphoid tuberosity
+  - “Urgent” referral for surgical fixation in cases:
+    - “Unstable”, displaced > 1mm, other associated #s. Increased S-L/C-L angles
+
+#### b. Lunate fracture
+
+- Rare
+  - Common in people with congenitally short ulna
+- FOOSH injury with extreme dorsiflexion
+- Px: dorsal wrist pain, pain with axial loading of long finger, tenderness distal to Lister’s tubercle.
+- Risks of carpal instability, AVN, nonunion, Kienbock’s disease
+
+- Imaging & management:
+  - Difficult to see on plain films, should any suspected fracture should be managed as a scaphoid # with a thumb spica cast with follow up in 7-10 days
+  - Any displaced fracture should be reduced, then with ortho referral
+    - All need hand surgeon expert for long term management and complications
+
+#### c. Triquetral fracture
+
+- Second highest risk of # after the scaphoid.
+- FOOSH injuries or blow to the hand
+- Associated with perilunate and lunate dislocations
+- Physical exam shows pain distal to the ulnar styloid
+- LOOK for minimally displaced triquetral avulsion fractures or dorsal chip fractures on the lateral view
+- Body fractures may be seen on the AP view
+
+- Treatment:
+  - Short arm splint or ulnar gutter with f/u in 1-2 weeks
+    - The definitively treated in short arm cast 4-6 weeks
+
+- DID: If pain persists → immobilize in a thumb spica with follow-up.
+  - Many argue for CT and/or MRI imaging sooner than later, especially for scaphoid #’s.
+
+### 3) Describe Mayfield’s stages of carpal instability
+
+- These occur in people with FOOSH injuries
+  - Dorsal swelling and wrist pain
+  - Limited wrist ROM
+- Physical exam shows:
+  - Dorsal wrist pain - at the scapholunate ligament
+    - Watson’s scaphoid shift test producing clunks or snaps when moving the wrist from ulnar to radially
+      - Not useful acutely!
+  - Typically stages 2-4 have visible wrist deformities and median nerve sensory loss
+
+- The LUNATE is the centre of attention
+  - The sequential stages of carpal instability - shows an intercarpal ligament injury proceeding from the scapholunate inter-space then distally to the capitate then to the triquetral then to the radio-carpal space.
+  - Each stage may be associated with an adjacent carpal bone #
+- Caused by carpal hyperextension, ulnar deviation and inter-carpal supination.
+
+- **Stage 1: scapholunate dissociation**
+  - PA view showing the “terry thomas sign” - front teeth gap
+    - Aka: Maddona sign, David letterman
+    - Due to scaphoid rotary subluxation
+  - Also may show the “signet ring sign” where the scaphoid is seen end on
+  - ****Scapholunate dissociation may NOT be seen on routine radiographs, despite clinical suspicion
+    - So stress views (clenched fist in ulnar deviation) may show pathologic > 3 mm scapholunate gap
+
+- **Stage 2: Perilunate dislocation**
+  - On the lateral view the lunate articulates with the distal radius, but the capitate is dorsally dislocated
+  - The PA view shows overlap of the distal and proximal carpal rows (abnormal carpal arcs!)
+  - **Don’t miss associated scaphoid, radial styloid, capitate #’s**
+  - Key on the lateral radiograph = the lunate maintains its articular connection and alignment with the radius
+
+- **Stage 3: perilunate dislocation WITH triquetrum dislocation**
+  - Same as stage 2, except the triquetrum is dislocated
+  - Need the PA view to see it - to see carpal overlap of the triquetrum with the lunate/hamate
+  - May also have volar lunate #
+
+- **Stage 4: lunate dislocation**
+  - “Triangular lunate” and no articulation with the radius
+    - Aka: “piece of pie sign”
+    - “Spilled tea-cup sign on the lateral view” - where the lunate has been dislocated volarly
+    - The capitate shifts posterior to the lunate and may contact the distal radius
+
+- Complications:
+  - Median nerve injury, chronic instability → arthritis
+- Diagnosis:
+  - MRI
+    - Only 63% sens, and 86% sensitivity for scapholunate injury
+  - Arthroscopy = gold standard
+
+- ALL need urgent orthopedic/plastics consultation for reduction/pinning/repair
+
+### 4) Describe DISI and VISI
+
+- These refer to carpal ligament instability - leading to altered wrist kinematics. Broad types of wrist ligament injuries include: “midcarpal instability” (MCI), dorsal intercalated instability (DISI), or volar intercalated instability (VISI), and radiocarpal instability.
+- They usually present with people complaining of chronic wrist pain, weakness, limited ROM, and wrist clicking.
+
+- **DISI**
+  - The lunate is tilted dorsally
+    - An increase in scapholunate and capitolunate angles
+  - More common than VISI
+  - May occur in any peri lunate or scaphoid pathology
+
+- **VISI**
+  - The lunate is tilted volarly
+    - A decrease in the scapholunate angles, and an INCREASE capitolunate angle.
+  - Rarer. Occurs after lunotriquetral or triquetrohamate joint injury
+
+- Diagnosis:
+  - X-Ray (lateral views), CT, MRI, video-wrist fluoroscopy
+- Treatment: complicated, controversial surgical approaches
+
+### 5) Describe x-ray findings and management of:
+
+- The distal radius and ulna injuries are very common!
+  - Women > 50 yrs have a 15% lifetime risk of these injuries!
+
+#### a. Colles’
+
+- Most common wrist #
+  - Transverse # of the distal radial metaphysis, with dorsal displacement and angulation.
+    - May have associated extension, comminution, intra-articular extension, and up to 60% have an ulnar styloid #
+  - Causes the “dinner fork deformity” on physical exam
+  - Xrays show:
+    - Potential extension into the DRUJ, dorsal displacement and angulation, loss of normal volar tilt.
+
+- Treatment:
+  - An early anatomic reduction with restoration of radial length, correction of dorsal angulation to normal volar tilt (or at least neutral).
+  - Reasons for emergent reduction:
+    - Neurovascular compromise, soft tissue tension.
+  - Urgent reduction:
+    - Loss of volar tilt on lateral view (>10 deg dorsal angulation)
+    - Radial shortening or +ve ulnar variance > 2mm
+  - Inadequate reduction is common in cases of:
+    - Intra-articular fragments, radial inclination <15 deg,
+  - Immediate ortho referral for:
+    - Unsuccessful closed reduction, neurovasc. Compromise, compartment syndrome, open #s.
+  - Complications:
+    - Loss of function, median nerve injury, cast complications, acute carpal tunnel syndrome.
+
+#### b. Smith’s
+
+- “Transverse # of the metaphysis of the distal radius with volar displacement and angulation.”
+  - May extend in any direction
+- Mechanism:
+  - Blow to dorsal wrist, fall onto dorsum of hand (extreme plamar flexion), fall backwards (FBOOSH) in supination
+- Lateral view on x-ray is key
+
+- Treatment: reduction to normal radial anatomy, immobilization. MORE likely to need operative fixation due to instability. MORE likely to have associated neurovascular compromise of median nerve than the Colles fracture. Ortho f/u
+
+- Finger trap technique for distal radius #s: patient supine, with the elbow at 90 degrees of flexion and 10 pounds of weight for ten minutes before a reduction attempt.
+
+#### c. Barton’s
+
+- Oblique intra-articular fracture of the rim of the radius (look at the lateral view) with carpus dislocation
+- The dorsal or volar rim can be displaced
+- Rare, high velocity injuries
+- Urgent ortho consultation for reduction/stabilization (unstable!)
+
+#### d. Hutchinson’s / Chauffer’s
+
+- Intra-articular fracture of the radial styloid
+  - Look on the PA view for a transverse fracture of the radial metaphysis with extension through the radial styloid into the radiocarpal joint
+- Needs reduction → CRUCIAL to have perfect reduction given the location of all the wrist ligaments on the radius such as the scapholunate ligaments
+- Sugar-tong splint → short arm cast
+
+#### e. DRUJ Disruption
+
+1. Can occur isolated or with any radius injury (see below)
+2. Difficult to diagnose, especially if it is in isolation, with most radiographs being falsely normal
+   - And clinical findings may be the only clue
+3. Usually FOOSH mechanism, or rapid twist due to machinery (with TFCC injury)
+4. Px:
+   - Crepitus/pain of DRUJ on pronation and supination
+   - Compare both sides and look for changes in the ulnar styloid position
+5. Dx:
+   - Lateral view of ulna with >20 degrees of angulation
+   - Fracture of ulnar styloid base
+   - Must rule out the essex-lopresti syndrome!
+   - PA view may show > 2mm of widening or overlap
+   - CT much more accurate
+6. Treatment:
+   - Ortho
+   - Closed reduction with long arm cast and wrist in supination
+   - May need operative ORIF or CRIF
+
+### 6) Describe management of pediatric
+
+- Pediatric distal radius #s:
+  - Two main types:
+    - Involving the growth plate
+      - Involve BOTH cortices of bone, use SALTER system to classify
+      - Usually need reduction, but are often unstable and at risk for compartment syndrome
+      - Need ortho follow up and investigation for other injuries
+      - Short arm splint
+    - Involving the radial metaphysis:
+      - Greenstick
+      - Torus
+      - Complete fractures
+
+#### a. Forearm fractures
+
+- More than ½ of all pediatric #s
+- Three types:
+  - 1. Greenstick
+    - One cortex is disrupted
+  - 2. Complete
+    - Need reduction, ortho consultation, and follow-up in a long arm cast
+  - 3. Plastic deformation
+    - Traumatic bowing without any break in the cortex
+    - Usually need ortho consultation and advice
+    - Rules of thumb:
+      - “10 degrees of angulation, in a child < 10 yrs, is ok” - the bone should remodel well without reduction
+
+#### b. Torus fractures
+
+- Most common.
+- Buckle of the radial cortex
+- No actual widening of the cortex
+- Treatment:
+  - Short arm splint and ortho follow-up in 2-3 weeks
+- All heal and remodel well
+
+#### c. Greenstick fractures
+
+- Incomplete metaphyseal fractures outside the growth plate
+  - Disruption of the cortex on one side and angulation and bowing of the opposite side
+- Usually need reduction if angulation is > 10 degrees
+- Treated with short arm splint with ortho follow-up
+
+### 7) List 8 RFs for Carpal Tunnel Syndrome + Describe 2 tests for CTS
+
+- Let’s review some anatomy of the carpal tunnel:
+  - All the flexors of the digits (9), median nerve slide under the flexor retinaculum (which is an arch - transverse carpal ligament - that goes from the scaphoid to the pisiform)
+  - The flexor carpi radialis lies outside the carpal tunnel.
+- CTS is the most common entrapment
+  - Median nerve
+- Don’t forget about ACUTE CTS
+  - Usually traumatic, hemorrhagic, infectious, related to carpal dislocations, etc.
+
+- Risk factors
+  - Female - pregnancy or menopause
+  - RA
+  - Hypothyroidism
+  - Connective tissue disease / collagen vascular disease
+  - Diabetes
+  - Renal failure
+  - CHF
+  - Distal radius #
+  - Repetitive hand flexion activities
+
+- Physical exam:
+  - Must do a chest, neck exam to detect referred symptoms
+  - Phalen’s
+    - 76% sensitivity, and 80% spec.
+    - Flex wrists with forearms horizontal for 60 seconds,
+      - +ve if paresthesias or numbness develops in the median nerve distribution
+  - Tinel’s sign
+    - Sens 42-85%
+    - Tapping on the median nerve with symptoms
+  - Durkans test
+    - Sensitivity 87%, spec 80%
+    - Direct median nerve compression
+
+- Gold standard: nerve conduction studies (85-90% sens)
+
+### 8) Describe the Monteggia and Galeazzi’s fracture patterns
+
+- Essential to include wrist and elbow views!
+
+- **Monteggia**
+  - “A fracture dislocation: the #’d ulnar diaphysis, with anterior dislocation of the radial head”
+  - MURG
+
+- At high risk for posterior interosseous nerve injury (paralysis or weakness of finger and thumb extension)
+  - ***Don’t miss the subtle radial head subluxation!!***
+    - Draw the radiocapitellar line to be sure (on all views)
+
+- Adults need ORIF
+- Kids can usually have a long arm cast with the arm in supination
+
+- **Galeazzi’s**
+  1. “A fracture dislocation: the #’d distal ⅓ of the radius, with a dislocation of the DRUJ”
+  2. GRUM
+
+- From FOOSH or MVC
+  - Key is not to miss the DRUJ injury - because it may not be seen on x-ray and only subtly present on physical exam
+    - > 2mm space between radius and ulna, with possible radial shortening = concerning!
+
+- All adults need surgical fixation, because this is an unstable injury even if successfully reduced. Kids can usually get away with a long arm cast
+
+## Wisecracks
+
+- **What is the pronator quadratus fat pad?**
+  - A normal fat stripe on the lateral wrist view, which if obliterated, absent or displaced can herald wrist disease (SSTI’s, inflammatory conditions, hematomas, or occult #s)
+  - Poor sensitivity
+
+- **Extra fractures not covered in the podcast:**
+  - **Hamate #s**
+    - Can be palpated 1 cm distal and radial to the pisiform volarly
+    - Fractures are rare, but usually involve the hook of the hamate
+    - X-rays are poorly sensitive even with special views
+      - CT!
+    - Hook fractures can lead to little finger flexor tendon rupture, neuropraxia, or vascular compromise
+    - Should be casted in a thumb spica with f/u
+    - Many may need ORIF/excision
+  - **Pisiform #s**
+    - Lies in the FCU tendon, and rarely fractured
+    - Carry high risk of ulnar nerve injury and vascular compromise
+    - Need special x-ray views or CT/MRI
+    - Good prognosis with short arm cast x 4 weeks.
+  - **Trapezium #s**
+    - Rare
+    - Poorly visualized with xrays
+    - Thumb spica
+    - May need ORIF for displacement of CMC involvement
+  - **Capitate #s**
+    - Rare
+    - Risk of AVN
+    - Most seen on x-ray
+    - Thumb spica and follow-up
+  - **Trapezoid #s**
+    - Rare, usually with other carpal injuries
+    - Need special oblique views for better visualization
+    - Thumb spica and follow up
+  - **Essex-Lopresti lesion**
+    - Longitudinal radio-ulnar disassociation
+      - Triad of: disruption of the forearm interosseous membrane, radial head injury/#, and DRUJ violation
+    - Very elusive diagnosis, with some non-stress x-rays being normal
+    - MRI and/or ultrasound needed to make the diagnosis
+
+- **Ulna fractures:**
+  - Carefully look for open! Fractures
+  - Look for associated PRUJ or DRUJ injuries
+  - At very high risk for being unstable
+  - Compartment syndrome
+  - Common in forearm fractures
+    - Diagnosis:
+      - > 30 mmHg compartment pressure
+      - Within 20 mmHg of the diastolic pressure
+    - Can affect one of the three compartments - volar, mobile (lateral to the radius), dorsal.
+    - Adults - distal radius fracture highest risk
+    - Children - supracondylar fractures highest risk
+      - Resulting in Volkmann's ischemic contracture of the hand and wrist.
+```

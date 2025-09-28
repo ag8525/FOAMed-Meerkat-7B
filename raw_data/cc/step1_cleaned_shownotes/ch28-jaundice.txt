@@ -1,0 +1,239 @@
+# Metadata
+- topic: 1.2 - Cardinal Presentations - 28 Jaundice
+- source_folder: 1.2 - Cardinal Presentations
+- original_file: Ch.28 Jaundice.pdf
+
+Crack Cast Show Notes – Jaundice – June 2016 
+www.crackcast.org 
+ 
+ 
+CrackCast Episode 28 – Jaundice 
+ 
+Episode overview:  
+ 
+1) Describe heme metabolism 
+2) List common pre-hepatic/hepatic/post-hepatic causes of jaundice 
+ 
+Wisecracks:  
+ 
+1) What are clinical signs of liver disease? 
+2) What laboratory tests can be useful in a jaundiced patient? 
+3) List the triad of acute hepatic failure 
+4) List and describe 6 critical causes of jaundice 
+5) What are 3 causes of jaundice in pregnancy? 
+ 
+1) Describe heme metabolism 
+ 
+Jaundice = elevated serum bilirubin  
+ 
+Normal bilirubin metabolism:  
+ 
+• 
+heme products (red blood cells) breaking down → bilirubin 
+o very small portion of bilirubin comes from myoglobin (muscles) or maturing 
+erythroid cells  
+• 
+heme products are oxidied into biliverdin → bilirubin 
+• 
+bilirubin binds to albumin, then is glucuronidated into the conjugated form in 
+hepatocytes 
+• 
+conjugated bilirubin is excreted into the biliary system and emptied in the gut 
+• 
+colonic bacteria metabolize most conjugated bilirubin to urobilogen and stercobilin 
+o stercobilin is excreted into the stool 
+o urobilinogen is reabsorbed and is excreted into the urine 
+• 
+remaining conjugated bilirubin is de-conjugated and re-enters the portal circulation to be 
+taken up again by hepatocytes 
+o this completes the entero-hepatic circulation of bilirubin  
+ 
+Conjugated bilirubin =  direct bilirubin 
+Unconjugated bilirubin = indirect bilirubin (can cross blood brain barrier) – does not bind albumin 
+Total bilirubin = direct + indirect  
+ 
+Crack Cast Show Notes – Jaundice – June 2016 
+www.crackcast.org 
+ 
+Abnormal Bilirubin Metabolism 
+Jaundice - usually not obvious until >25 mg/L 
+• 
+seen in tissues with high albumin concentrations 
+o skin, eyes,  
+o absent in tears, saliva  
+ 
+Three pathologic processes leading to elevated bilirubin:  
+1. Overproduction - high levels of heme production  
+a. hemolysis  
+b. hypoalbuminemia  
+c. acidemia  
+d. drugs  (bind competitively to albumin )  
+2. Failure of conjugation - hepatocytes unable to take up, conjugate and excrete bilirubin  
+a. hepatocellular dysfunction  
+3. Decreased clearance   
+a. biliary excretion problem  
+ 
+● unconjugated levels of bilirubin that is not bound to albumin is able to cross the blood-
+brain barrier  and leads to adverse neurologic effects  
+○ developmental abnormalities, encephalopathy, death  
+○ is exacerbated by any condition that leads to increased heme production or a 
+process that competitively decreases albumin/binds to albumin (e.g. drugs or 
+cirrhosis)  
+● conjugated bilirubin in contrast is non-toxic  
+ 
+ 
+2) List common pre-hepatic/hepatic/post-hepatic causes of jaundice 
+ 
+Three pathologic processes leading to elevated bilirubin:  
+1. Overproduction - high levels of heme production  
+a. hemolysis  
+b. hypoalbuminemia  
+c. acidemia  
+d. drugs  (bind competitively to albumin )  
+ 
+2. Failure of conjugation - hepatocytes unable to take up, conjugate and excrete bilirubin  
+a. hepatocellular dysfunction  
+i. 
+Toxins 
+1. Tylenol, ETOH 
+ii. 
+Vascular:  
+2. Budd-Chiari  
+iii. 
+Inflammatory/infectious 
+Crack Cast Show Notes – Jaundice – June 2016 
+www.crackcast.org 
+ 
+3. Virus - hepatitis, autoimmune  
+iv. 
+Pregnancy related: HELLP /  acute fatty liver  
+ 
+3. Decreased clearance  -  
+a. biliary excretion problem  
+i. 
+Gallstone disease : CBD stone, ascending cholangitis  
+ 
+Wisecracks:  
+ 
+1) What are clinical signs of liver disease? 
+ 
+Abnormalities in bilirubin metabolism:  
+● Jaundice - usually not obvious until >25 mg/L 
+○ seen in tissues with high albumin concentrations:  
+■ skin, eyes,  
+■ absent in tears, saliva  
+Symptoms:  
+● May be asymptomatic or have: 
+○ pruritus, malaise, nausea  
+● Jaundice with abdominal pain = biliary obstruction or hepatic inflammation  
+● Jaundice WITHOUT abdominal pain = pancreatic neoplasm  
+● Ask about fit of clothing (ascites) or personality changes  
+ 
+Signs:  
+● Skin  
+○ Sublingual or conjunctival jaundice 
+● Signs of liver disease: 
+○ angiomas, excoriations, caput medusae, ascites, liver borders and texture, 
+splenomegaly, neurologic examination, asterixis 
+● Stages of encephalopathy – see table in Rosen’s  
+ 
+2) What laboratory tests can be useful in a jaundiced patient? 
+ 
+● GGT = confirms a hepatic source of ALP if ALP is up  
+○ ALP can also be elevated from bone or placental sources  
+● An elevated reticulocyte count can suggest hemolysis  
+● Acetaminophen level*** (AST is first to rise) 
+● Glucose level 
+● Ammonia level - is of limited use and does NOT correlate with degrees of hepatic 
+encephalopathy  
+● Ascitic fluid - for analysis  
+● Blood cultures - for fever 
+Crack Cast Show Notes – Jaundice – June 2016 
+www.crackcast.org 
+ 
+● INR , PTT 
+● AST, ALT 
+ 
+3) List the triad of acute hepatic failure 
+ 
+• 
+Jaundice 
+• 
+Encephalopathy 
+• 
+Coagulopathy (INR > 1.5) 
+ 
+4) List and describe 6 critical causes of jaundice 
+ 
+1) Hepatic 
+a) Fulminant hepatic failure  
+b) Toxin 
+c) Virus 
+d) Alcohol 
+e) Ischemic insult  
+f) Reye’s syndrome  
+2) Biliary 
+a) Cholangitis (ascending infectious)  
+3) Systemic  
+a) Sepsis 
+b) Heatstroke 
+4) Cardiovascular  
+a) Obstructing AAA 
+b) Budd-Chiari syndrome  
+c) Severe congestive heart failure  
+5) Heme-oncologic  
+a) Transfusion reaction (hemolysis)  
+6) Reproductive  
+a) Pre-eclampsia or HELLP syndrome  
+b)  Acute fatty liver of pregnancy 
+ 
+Empirical management  
+● Depends on the cause of jaundice and problem: 
+○ Bleeding (in the context of coagulopathy) 
+■ Transfuse PRBC’s and FFP 
+○ Spontaneous bacterial peritonitis  
+■ >250 PMN’s per cm3 of ascitic fluid  
+● IV ceftriaxone  
+○ Acetaminophen toxicity: 
+Crack Cast Show Notes – Jaundice – June 2016 
+www.crackcast.org 
+ 
+■ N-acetylcysteine  
+○ Ascending cholangitis  
+■ Antibiotics  
+■ ***need acute biliary drainage in 24-48 hrs because most antibiotics are 
+excreted*** 
+○ Choledocolithiasis or strictures 
+■ Need for ERCP  
+■ ***neither CT or U/S is 100% sensitive for choledocolithasis, but a dilated 
+CBD highly suggests obstruction*** 
+○ Immune-mediated hemolytic anemia:  
+■ Transfuse only if unable to oxygenate and in discussion with hematology  
+■ Remove any potential offending drugs in the case of G6PD 
+ 
+ 
+5) What are 3 causes of jaundice in pregnancy? 
+ 
+● Pregnancy and jaundice = pathology  
+○ Potential causes:  
+○ 1) hyperemesis gravidarum  
+■ In the first trimester - ?poor nutrition and impaired bilirubin excretion  
+■ Can have VERY high transaminases (20x ULN)  
+■ Trxt: fluids and antiemetics and admission if biochemically deranged  
+○ 2) acute fatty liver of pregnancy 
+■ In the 3rd trimester  
+■ Due to microvascular fat accumulation in the liver 
+■ S+s: 
+● Nausea, vomiting, anorexia, jaundice 
+■ May progress to fulminant hepatic failure 
+■ Trxt: delivery, patients may need liver transplant! 
+○ 3) intrahepatic cholestasis of pregnancy  
+■ Idiopathic cause of jaundice in 2-3rd trimester  
+■ S+s: 
+● Pruritis - trunk, extremities, palms, soles.  
+● Acholic stools and dark urine  
+■ Increased risk of preterm labour or early fetal demise intra-uterine.  
+■ Trxt:  
+● Ursodiol, cholestyramine 
+● Vitamin K 
+ 

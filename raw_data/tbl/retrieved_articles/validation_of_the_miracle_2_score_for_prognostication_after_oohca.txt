@@ -1,0 +1,138 @@
+# Metadata
+- Source: The Bottom Line
+- Title: Validation of the MIRACLE 2 Score for Prognostication After OOHCA
+- Original URL: https://www.thebottomline.org.uk/summaries/validation-of-the-miracle-2-score-for-prognostication-after-oohca/
+- Scrape Date: 2025-07-17
+- Summary Date: AUTO_FILL_IF_AVAILABLE
+
+Validation of the MIRACLE2 Score for Prognostication After Out-of-Hospital Cardiac Arrest
+Sunderland.
+@Nicksunderland5
+2023. Interventional Cardiology; 18:e29. doi.org/10.15420/icr.2023.08
+Clinical Question
+In patients with out-of-hospital cardiac arrest (OOHCA), how does the MIRACLE2 score compare with previously reporting scoring systems, for predicting poor neurological outcome at hospital discharge?
+Background
+Out-of-hospital cardiac arrest has an ~8% survival to hospital discharge
+In those patients admitted to intensive care following an OOHCA ~50% survive, with the leading cause of death being hypoxic brain injury
+Current guidelines
+recommend prognostication after 72 hours following a cardiac arrest
+The
+MIRACLE2
+score was developed to provide early prediction of neurological outcomes
+This study aimed to externally validate the MIRACLE2 score and compare it with other scoring systems
+Design
+Retrospective cohort study
+Single centre
+All admissions screened for cardiac arrest ICD-10 codes
+Records were then manually reviewed
+No sample size calculation
+Setting
+Single tertiary cardiac centre, UK, with 24 hour access to coronary angiography cardiac surgery and specialist intensive care services
+Dates of data collection: January 2019 – July 202
+Population
+Inclusion
+:
+Adult patients
+Out-of-hospital cardiac arrest of presumed cardiac origin who had return of spontaneous circulation
+Exclusion
+:
+Died before hospital arrival
+Evidence of non-cardiac cause of arrest (respiratory arrest, suicide, trauma, drowning, substance overdose)
+Confirmed intra-cerebral haemorrhage
+Baseline neurological disability with Cerebral Performance Category (CPC) 3 or 4
+Co-morbidity leading to life expectancy <6 months
+Data from 682 patients analysed
+Exclusions
+Did not relate to new presentation of OHCA (n=321)
+Obvious non-cardiac cause for arrest (n=40)
+Dead on arrival (n=2)
+Paediatric (n=33)
+Life expectancy <6 months or significant prior neurological disability (n=11)
+Did not initially present to study centre ie. transferred in (n=28)
+No medical information available (n=35)
+After exclusions 219 patients included in validation cohort
+Complete data for calculating MIRACLE2 score available for 77% of patients. Missing data for pupillary response in 18% and initial pH in 6%
+Comparing baseline characteristics of patients that had good (CPC 0-2) and poor neurological outcome (CPC 3-5) at hospital discharge
+Age: 60 vs. 71
+Male: 83% vs. 70%
+hs-cT (ng/l): 173 vs. 264
+ST elevation: 39% vs. 23%
+LV EF: 50% vs. 45%
+Witnessed arrest: 88% vs. 81%
+Zero-flow time (min), median (range): 0 (0-7.5) vs. 0 (0-20)
+Low-flow time (min), median (range): 17 (9-26) vs. 32 (20-45)
+Shockable rhythm: 96% vs. 57%
+Changing rhythms: 11% vs. 55%
+Any adrenaline dose: 32% vs. 92%
+Initial pH: 7.20 vs. 7.26
+Reactive pupils: 94% vs. 64
+Lactate 3.9 vs. 6.1mmol/l
+GCS motor score of 1: 57% vs. 93%
+Test of Interest
+MIRACLE2 score – 7 variables with maximum score of 10 points
+Unwitnessed cardiac arrest (1 point)
+Non-shockable initial rhythm (1point)
+Changing rhythm (any 2 of VF, PEA, or asytole): 1 point
+Any adrenaline dose: 2 points
+No pupil reactivity at ROSC: 1 point
+Initial blood pH <7.2: 1 point
+Age
+≤60 years: 0 points
+61-80 years: 1 point
+>80 years: 2 points (in this paper it states that age >80 years gives a score of 2 points. This may be an error as the maximum total score would be 9 if given 2 points for age >80; and in the original derivation study age >80 was given a score of 3 points.)
+Control Tests
+Cardiac Arrest Hospital Prognosis (CAHP) score
+Out-of-Hospital Cardiac Arrest (OHCA) score
+Target Temperature Management (TTM) score
+Outcome
+Primary outcome
+: poor neurological recovery, defined as CPC 3-5 (severe disability to death) at hospital discharge
+Area under receiver operating curve for predicting poor neurological outcome at discharge
+MIRACLE 2: 0.93
+CAHP: 0.92
+OHCA: 0.83
+TTM: 0.94
+Good vs poor neurological outcome
+Low MIRACLE 2 score: ≤2, (n=89): 94% vs 6%
+Intermediate MIRACLE 2 score: 3-4 (n=66): 53% vs 47%
+High MIRACLE 2 score: ≥5 (n=64): 5% vs 95%
+MIRACLE2 score ≥5 predicted poor neurological outcome with a
+Specificity 97.5% (95% CI 93-99.5%)
+Sensitivity 62.3%
++ve Likelihood Ratio 25.6 (95% CI 8.3-79)
+-ve Likelihood Raio 0.38
+MIRACLE2 score ≥3 predicted poor neurological outcome with a
+Specificity 68.9%
+Sensitivity 94.9% (95% CI 88.4-98.3%)
++ve Likelihood Ratio 3.05
+-ve Likelihood Ratio 0.07 (95% CI 0.03-0.18)
+Secondary outcomes
+:
+Area under curve for predicting poor neurological outcome at 6 months
+MIRACLE 2: 0.93
+CAHP: 0.92
+OHCA: 0.86
+TTM: 0.94
+Authors’ Conclusions
+“The MIRACLE2 score demonstrates good prognostic performance and is easily applicable to cardiac-origin OHCA presentation at the hospital front door. Prognostic scoring may assist decision-making regarding early angiographic assessment.”
+Strengths
+Screening of all admissions
+Compared with 3 other scoring systems
+Weaknesses
+Only 64 patients included with MIRACLE2 score ≥5
+Single centre
+Retrospective
+Number of patients had missing data
+The Bottom Line
+The MIRACLE2 score reported high accuracy for determining neurological prognostication at admission. However due to this being a single centre retrospective validation cohort with only small numbers of patients that had a high MIRACLE 2 score,  and >20% of patients having missing data, decisions regarding treatment or escalation should not currently be made solely on the MIRACLE 2 score at admission
+External Links
+article
+Validation of the MIRACLE2 Score for Prognostication After Out-of-hospital Cardiac Arrest
+further reading
+https://rebelem.com/miracle2-risk-score-for-early-prediction-of-neurologic-outcome-in-out-of-hospital-cardiac-arrest/
+Metadata
+Summary author: @davidslessor
+Summary date: 11/03/24
+Peer-review editor: Jonarthan Thevanayagam
+Photo by Milad Fakurian on
+Unsplash

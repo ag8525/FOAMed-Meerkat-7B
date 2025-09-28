@@ -1,0 +1,148 @@
+---
+url: https://thesgem.com/2020/02/sgem283-can-you-be-absolutely-right-in-diagnosing-a-sah-using-a-clinical-decision-instrument/
+title: "SGEM#283: Can You Be Absolutely Right in Diagnosing a SAH Using a Clinical Decision Instrument?"
+date: 2020-02-08
+audio_url: https://media.blubrry.com/thesgem/content.blubrry.com/thesgem/SGEM283.mp3
+download_date: 2025-08-11
+---
+
+**Reference:**Perry et al. Prospective Implementation of the Ottawa Subarachnoid Hemorrhage Rule and 6-Hour Computed Tomography Rule. [Stroke 2019](https://www.ahajournals.org/doi/10.1161/STROKEAHA.119.026969)
+
+**Guest Skeptic:**Dr. Rory Spiegel is an EM/CC doctor who splits his time in the Emergency Department and Critical Care department. He also has this amazing #FOAMed blog called [EM Nerd](https://emcrit.org/category/emnerd/).
+
+**Case:** A 48-year-old male presents to your emergency department with a sudden onset headache, which started about one-hour prior to arrival. The headache is severe is quality and the patient does not have a history of similar headaches in the past. It is associated with nausea, vomiting and photophobia.
+
+**Background:** Headaches are a common complaint presenting to the emergency department.  Subarachnoid hemorrhage represents one of the most serious underlying causes of headaches and we have covered it a number of times on the SGEM:
+
+* [SGEM#48](http://thesgem.com/2013/10/sgem48-thunderstruck-sah/): Thunderstruck – Subarachnoid Hemorrhage
+* [SGEM#134](http://thesgem.com/2015/11/sgem134-listen-to-what-the-british-doctors-say-about-lps-post-ct-for-sah/): Listen, to what the British Doctors Say about LPs post CT for SAH
+* [SGEM#140](http://thesgem.com/2015/12/sgem140-ct-scans-to-rule-out-subarachnoid-hemorrhages-in-a-non-academic-setting/): CT Scans to Rule Out Subarachnoid Hemorrhages in A Non-Academic Setting
+* [SGEM#201](http://thesgem.com/2018/01/sgem201-its-in-the-way-that-you-use-it-ottawa-sah-tool/): It’s in the Way That You Use It – Ottawa SAH Tool
+
+In patients who present neurologically intact making the diagnosis early is key to preventing subsequent more life-threatening bleeding. A number of controversies surround the diagnosis of SAH in the emergency department. Two of the more provocative are the use of the [Ottawa SAH Rule](https://www.mdcalc.com/ottawa-subarachnoid-hemorrhage-sah-rule-headache-evaluation) and whether a lumbar puncture (LP) is required following a negative CT if the scan is performed within 6-hours of symptom onset.
+
+![](https://i0.wp.com/thesgem.com/wp-content/uploads/2017/12/Ottawa-SAH-Rule.png?resize=988%2C1196)
+
+The Ottawa SAH Rule (tool) was covered on [SGEM#201](http://thesgem.com/2018/01/sgem201-its-in-the-way-that-you-use-it-ottawa-sah-tool/). The bottom line from that study was that the clinical decision instrument needed external validation, a meaningful impact analysis performed and patient acceptability of incorporating this rule into a shared decision-making instrument before being widely adopted.
+
+We were surprised that in their background/introduction material they did not include the excellent SRMA on this topic by [Carpenter et al. AEM 2016](https://www.ncbi.nlm.nih.gov/pubmed/27306497).
+
+---
+
+### **Clinical Question:** What is the clinical impact of the Ottawa SAH Rule and the 6-hour CT Rule compared to standard care when implemented in six emergency departments across Canada?
+
+---
+
+**Reference:**Perry et al. Prospective Implementation of the Ottawa Subarachnoid Hemorrhage Rule and 6-Hour Computed Tomography Rule. [Stroke 2019](https://www.ahajournals.org/doi/10.1161/STROKEAHA.119.026969)
+
+The senior author on this publication was the legend of emergency medicine, [Dr. Ian Stiell](http://thesgem.com/2017/08/sgem-xtra-ian-stiell-legend-of-emergency-medicine/) from Ottawa.
+
+* **Population:**Neurologically intact adult presenting to the ED with a chief complaint of a nontraumatic, acute headache, or syncope associated with a headache.
+  + **Exclusions:**Patients with any of the following:
+    - 3 or more previous similar headaches (ie, same intensity/character as their current headache) over a period of >6 months (eg, established migraines)
+    - confirmed SAH before arrival at study ED
+    - previously investigated with CT and LP for the same headache
+    - papilledema
+    - new focal neurological deficit
+    - previous diagnosis of intracranial aneurysm or SAH
+    - known brain neoplasm
+    - cerebroventricular shunt
+    - headache within 72 hours following a LP
+    - headache described as gradual or peak intensity beyond 1 hour.
+* **Intervention:** Physicians were actively encouraged to use the Ottawa SAH Rule and the 6-hour-CT Ruleto determine when to undergoing diagnostic workups for SAH and when a CT alone with an appropriate workup. Clinicians had the option to override the proposed rules.
+* **Comparison:**The control phase was standard care. Clinicians were encouraged to not use any clinical decision instrument and make the decision to pursue diagnostic studies based on their own clinical discretion.
+* **Outcome:** The primary outcome was the clinical impact of the Ottawa SAH Rule and 6-hr CT Rule for making the diagnosis of a SAH compared to usual care. SAH was defined as:
+  1. Subarachnoid blood on CT
+  2. Xanthochromia in the cerebrospinal fluid
+  3. Red blood cells in the final tube of cerebrospinal fluid with an aneurysm demonstrated on cerebral angiography, CTA, or magnetic resonance imaging angiography.
+
+> ![](https://i0.wp.com/thesgem.com/wp-content/uploads/2018/01/profile_20140820-132422-150x150.jpg?resize=150%2C150)
+>
+> Dr. Jeff Perry
+>
+> **Authors’ Conclusions:** *“This implementation study validates the accuracy of the Ottawa SAH rule and 6-hour-CT rule for SAH. Both the Ottawa SAH rule and the 6-hour-CT rule are now fully validated and ready to use clinically. Using the Ottawa SAH rule did not increase or decrease the number of investigations performed. The 6-hour-CT rule resulted in a modest decrease in testing following a normal early CT. Utilizing the Ottawa SAH rule and the 6-hour-CT rule allows clinicians in ED to safely standardize care for alert, patients with acute headache.”*
+
+**![](https://i0.wp.com/thesgem.com/wp-content/uploads/2020/01/checklist-2077023_1920-150x150.jpg?resize=150%2C150)Quality Checklist for A Diagnostic Study:**
+
+1. The clinical problem is well defined. Yes
+2. The study population represents the target population that would normally be tested for the condition (ie no spectrum bias). Yes
+3. The study population included or focused on those in the emergency department. Yes
+4. The study patients were recruited consecutively (ie no selection bias). Yes
+5. The diagnostic evaluation was sufficiently comprehensive and applied equally to all patients (ie no evidence of verification bias). No
+6. All diagnostic criteria were explicit, valid and reproducible (ie no incorporation bias) No
+7. The reference standard was appropriate (ie no imperfect gold-standard bias). No
+8. All undiagnosed patients underwent sufficiently long and comprehensive follow-up (ie no double gold-standard bias). **Unsure**
+9. The likelihood ratio(s) of the test(s) in question is presented or can be calculated from the information provided. Yes
+10. The precision of the measure of diagnostic performance is satisfactory. Yes
+
+**Key Results:** They had 3,672 patient that met inclusion criteria. There were 1,743 patients in the control phase of the study and 1,929 patients in the implementation phase of the study when. The mean age was 45 years and 60% were female. They identified 188 (5.1%) of patients had a SAH.
+
+![](https://i0.wp.com/thesgem.com/wp-content/uploads/2020/02/283-table.png?resize=808%2C206)
+
+* **Ottawa SAH Rule:**
+  + Sensitivity 100% (95% CI 98.1% to 100%)
+  + Specificity 12.7% (95% CI: 11.7% to 13.9%)
+* **6hr CT Rule:**
+  + Sensitivity 95% (95% CI 89.8% to 98.5%)
+  + Specificity 100% (95% CI: 99.7% to 100%)
+
+![](https://i0.wp.com/thesgem.com/wp-content/uploads/2015/04/Screen-Shot-2015-04-25-at-3.11.12-PM.png?resize=889%2C162)
+
+**1. Patient Population:**This was a pretty wide group of patients which were considered for this study. A rule like Ottawa SAH Rule where the specificity is so low you would ideally like to apply it in a population at high risk for the disease state. So, in patients in whom I am already considering a workup for SAH and if the Ottawa SAH Rule is negative, I can stop the work up. This would be similar to the PERC rule. Applying the Ottawa SAH Rule in a more generalized group of patients may lead to an increase in downstream testing.
+
+In contrast this may have helped the 6-hr CT Rule as not a lot of these patients (5%) ended up having a SAH. Now it did go up to 9% when only the subset of patients presenting within 6-hrs of symptom onset where included.
+
+**2. Gold Standard:**The gold standard here is a bit complicated. Ideally what you would like is a measure the accurately diagnoses SAH and it would be preferable if the investigators used this same measure on all patients included in the study. But that is not always practical in real world studies. So, in this case you would ideally like if everyone received an LP and then some form of angiography to assess for aneurysm if the LP was positive. Obviously, it’s impractical and ethically questionable to perform an LP and angiography on all the patients in this study so the authors had to use different gold standards depending on what was found on the initial CT scan. This can lead to a number if forms of bias.
+
+Incorporation bias occurs when results of the test under study are actually used to make the final diagnosis. This makes the test appear more powerful by falsely raising the sensitivity and specificity.
+
+In this case, subarachnoid blood seen on the CT scan was included in the gold standard definition of SAH. Obviously, this will make the specificity of the CT scan appear really good and, in this case, it was 100%
+
+Partial verification bias is a type of measurement bias in which the results of a diagnostic test affect whether the gold standardprocedure is used to verify the test result. This type of bias is also known as *“work-up bias”*or *“referral bias”.*
+
+In this case, patients with a negative CT did not always undergo an LP. Since not all patients underwent the gold standard testing this can influence the diagnostic accurate of the test in question. In this case the 6-hr CT may appear more accurate than it is reality because if some SAH are missed on CT and having not undergone the LP there is the potential they will be counted as a true negative result.
+
+**3. Proxy Outcome Measure:**In cases when a consistent gold standard cannot be used on all subjects a proxy measure can be used in its place. In this case the authors used the proxy outcome of alive and well at 6-months as a surrogate as not having an SAH. This seems like a reasonable surrogate. If you had a headache and did not receive any intervention for an aneurysm and did not have a SAH the likelihood that your initial headache was a herald bleed is minimal.
+
+This is known as differential verification bias (double gold standard).  This occurs when the test results influence the choice of the reference standard. So, a positive index test gets an immediate/gold standard test whereas the patients with a negative index test get clinical follow-up for disease. This can raise or lower sensitivity/specificity.
+
+The question is what is an adequate definition of not having a SAH on 6-month follow up? The authors used a review the medical records of the hospital which they initially presented as well as every hospital with neurosurgical capacity in the same city as the index ED visit. Is this adequate follow up? In previous studies the authors also performed telephone follow-up to further exclude a subsequent SAH, but in that case it had a yield of zero. So, because of resource issues they chose not to include it as a part of the proxy outcome in this study. Could they have included death records at 6-month as well to ensure no patients had died in their follow up period?
+
+**4. Majority of Both Groups Used the Ottawa SAH Rule**: In the control period clinicians followed the Ottawa SAH Rule 78% of the time. Compared to 86% of the time in the intervention period. The difference in utilization of the rule was minimal. So, was this study really comparing standard care vs. the Ottawa SAH Rule? This could be considered contamination bias and has the potential of making the two groups appear more similar then reality.
+
+One other point about those clinicians in the study. These were staff physicians certified in emergency medicine or supervised residents. Does this have external validly for others using the tool in a community or rural setting. The majority of emergency medicine in Canada is not provided by board certified emergency physicians. It would be nice to see this tool validated in those environments.
+
+**5. Sensitivity of the 6-hour CT Rule:**The sensitivity of the 6-hour-CT rule was only 95% for subarachnoid hemorrhage. This is lower than the 100% initially reported in the original Perry et al study ([JAMA 2013](https://jamanetwork.com/journals/jama/fullarticle/1741823)).
+
+The confidence intervals were wide. The lower end of the 95% CI was 89.8% suggesting up to 10% of SAH could be missed. This may not be acceptable in some medical legal environments.
+
+There were five patients with an early CT scan that had SAH with the CT reported as normal: Two unruptured aneurysms on CTA and presumed traumatic LP (as deemed by the treating neurosurgeon); One missed by the radiologist on the initial interpretation; one dural vein fistula (ie, non-aneurysmal); and one patient with sickle cell anemia with profound anemia (Hgb, 63 g/L) with a 3 mm aneurysm.
+
+If you exclude two out of the five patients with traumatic LPs than the sensitivity is 97%. Certainly not perfect and still may not be good enough for some zero miss cultures.
+
+We talked a lot about diagnostic biases in this nerdy section. If you want to know more about these issues an outstanding paper is by Kohn et al Understanding the Direction of Bias in Studies of Diagnostic Test Accuracy ([AEM 2013](https://www.ncbi.nlm.nih.gov/pubmed/24238322)).
+
+**Comment on Authors’ Conclusion Compared to SGEM Conclusion:** We think the authors’ conclusions are for the most part reasonable. Given the extent the Ottawa SAH Rule was used by clinicians in the control period I don’t think we can confidently conclude that the Ottawa SAH Rule has been compared to standard care or that it does not increase downstream testing.
+
+As far as the 6-hr CT Rule it is no surprise it decreased downstream LPs. It is important to know that it increased the rate of CTA by a lesser extent. Whether this decrease in overall testing is appropriate it’s hard to tell from this data as the authors did not publish any of the clinical outcomes of the patients.
+
+---
+
+### **SGEM Bottom Line:** The Ottawa SAH Rule is highly sensitive but has a very poor specificity. It is unclear how it performs against unstructured clinical judgement or in non-urban tertiary care teaching hospitals. While the 6-hr CT Rule has a high sensitivity, it is not 100%.
+
+---
+
+**Case Resolution:**The patient underwent a non-contrast head CT was negative for a SAH. The patient presented with 6-hrs of symptom onset and in this case the non-contrast CT is highly sensitive but not perfect for ruling out SAH.
+
+A shared decision-making discussion was had with the patient and his wife and it was determined given the high-risk nature of his symptoms he would undergo an LP. The LP was negative for red blood cells or xanthochromia, ruling out a SAH as the cause of his headache.
+
+**Clinical Application:** The Ottawa SAH Rule and 6-hr CT Rule can be incorporated into the current diagnostic pathways for the workup of SAH as long as their respective weakness are well understood and taken into account when utilizing them.
+
+![](https://i0.wp.com/thesgem.com/wp-content/uploads/2015/11/Screen-Shot-2015-11-21-at-9.20.27-AM-150x150.png?resize=150%2C150)
+
+Dr. Rory Spiegel
+
+**What Do I Tell My Patient?** We were concerned your headache could have been from a bleed in your brain. This is called a subarachnoid hemorrhage. It can be due to an aneurysm from a weakness in an artery. The scan of your head and the spinal tap showed no evidence of a bleed. The risk that your headache is due to an aneurysm in your brain is essentially zero. We will make sure you have adequate pain control and then send you home to follow up with your primary care physician.
+
+[**Canadian Medical Protection Agency (CMPA)**](https://www.cmpa-acpm.ca/en/advice-publications/browse-articles/2019/recognizing-subarachnoid-hemorrhage-the-role-of-situational-awareness-in-preventing-serious-patient-harm): Recognizing subarachnoid hemorrhage – The role of situational awareness in preventing serious patient harm
+

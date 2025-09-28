@@ -1,0 +1,1099 @@
+# Metadata
+- topic: 3.6 - GU and Gyne - CC-Ep099-Select-Urologic-Disorders-Ch-89-Rosens-9th-Ed.-1-1
+- source_folder: 3.6 - GU and Gyne
+- original_file: CC-Ep099-Select-Urologic-Disorders-Ch-89-Rosens-9th-Ed.-1-1.pdf
+
+Crack Cast Show Notes – Urological Disorders – August 2017 
+www.crackcast.org 
+ 
+ 
+                              
+Chapter 99 – Urological Disorders 
+Episode Overview 
+Urinary Tract Infections in Adults 
+1. Differentiate between the three major causes of dysuria in women? (ddx of dysuria)  
+2.  List 3 common UTI pathogens, and list 3 additional pathogens in complicated UTIs 
+3. Define uncomplicated UTI and antibiotic options  
+4. Define complicated UTI and antibiotic options  
+5. List two antibiotic options for uncomplicated and complicated pyelonephritis.  
+6. How is pyelonephritis managed in pregnancy? What are safe antibiotic options for 
+bacteriuria in pregnancy?  
+ 
+Prostatitis 
+1. Describe the diagnosis and management of prostatitis  
+ 
+Renal Calculi 
+1. Name the areas of narrowing in the ureter  
+2. Name 6 risk factors for urolithiasis  
+3. List 8 alternative diagnoses (other than renal colic) for pain associated with 
+urolithiasis 
+4. What are indications for hospitalization of patients with urolithiasis  
+ 
+Bladder (Vesical) Calculi  
+1. Describe this condition and its management  
+Acute Scrotal Pain 
+1. List causes of acute scrotal swelling by age groups (infant, child, adolescent, adult) 
+2. Describe the physiology, diagnosis and management of testicular torsion  
+3. Describe the treatment for sexually vs. non-sexually acquired epididymitis  
+ 
+Acute Urinary Retention  
+1. Describe the physiology of urination  
+2. List 10 causes of acute urinary retention in adults  
+3. List 6 causes of urinary retention in women  
+ 
+Hematuria  
+1. List causes of red-coloured urine without hematuria  
+2. List risk factors for urinary tract malignancy  
+ 
+ 
+Wisecracks: 
+1. When is a urine culture indicated (box 89.1)  
+2. What is a CAUTI and how is it managed?  
+3. What are two medication classes of drugs for prostatic enlargement?  
+4. Describe the testicular salvage rates (Fig. 89.9)  
+5. Differentiate between testicular torsion, appendicular torsion, and epididymitis (Table 
+89.9)  
+6. What are the causes of different urine colour pigmentation? 
+ 
+Crack Cast Show Notes – Urological Disorders – August 2017 
+www.crackcast.org 
+ 
+ 
+                              
+ 
+Rosen’s in Perspective  
+Here’s what we’re covering in this episode! A huge range of topics - very clinically relevant 
+for every-day practice! We’ll cover some salient Rosen’s in Perspective for each topic as we 
+get to it!  
+ 
+• 
+UTI’s in Adults 
+• 
+Prostatitis 
+• 
+Renal Calculi 
+• 
+Bladder (Vesical) Calculi  
+• 
+Acute Scrotal Pain 
+• 
+Acute Urinary Retention  
+• 
+Hematuria  
+ 
+ 
+UTI’s in Adults 
+ 
+● Most frequent bacterial infection in adults, one of the most common causes of sepsis 
+● Diagnosis is made by:  
+○ Urinary specific symptoms (dysuria, frequency, urgency, hematuria, 
+suprapubic/CVA discomfort) 
+○ Bacteriuria (note this alone does not equal UTI! - unless patient Is pregnant or 
+immunocompromised)  
+○ No other source of infection  
+● Classified as: 
+○ Lower (bladder only) vs. upper (ureters and kidney) 
+○ Uncomplicated or complicated  
+● How is UTI diagnosed? What are the typical laboratory criteria for the various types 
+of samples? 
+○ A clean catch midstream urine (unlike the first-void we do for NAAT’s in STIs) 
+○ Epithelial cells = contamination  
+○ Diagnostic tests on dipstick suggestive of UTI:  
+■ Leukocyte esterase = enzyme found in neutrophils 
+■ Nitrites = produced from gram negative bacteria  
+● **so gram positive uropathogens such as S. saprophyticus and 
+enterococcus will be nitrite negative!** 
+■ Microscopic hematuria  
+○ We cannot “rule out a UTI” even with a negative dipstick, unless you have a 
+low pretest probability  
+○ Urine microscopy helps identify pyuria = > 10 WBC WBC/mm3 or bacteria in 
+the urine  
+○ IDSA says a positive urine culture is: > 105 CFUs/ml = 95% likelihood of 
+infection assuming the patient is symptomatic  
+ 
+ 
+ 
+ 
+Crack Cast Show Notes – Urological Disorders – August 2017 
+www.crackcast.org 
+ 
+ 
+                              
+1. Differentiate between the three major causes of dysuria? (ddx of dysuria)  
+ 
+ 
+Cause 
+Urethritis / UTI 
+Vaginitis  
+STIs 
+Gonorrhea, 
+chalmydia, 
+trichomonas, HSV, 
+NGU 
+Mechanical 
+trauma 
+Irritation  
+Clinical 
+features  
+Presence of pyuria 
+Presence of 
+hematuria (50% of 
+patients) 
+ 
+ 
+Vaginal 
+discharge 
+Vaginal odor 
+Pruritus 
+ 
+Men with urinary 
+complaints  
+ 
+ 
+Vaginal discharge 
+ 
+ 
+Med Hx 
+Internal dysuria 
+Frequency, urgency, 
+voiding small volumes 
+Abrupt onset 
+Suprapubic pain 
+Often associated with 
+diaphragm use 
+ 
+External 
+dysuria 
+Gradual onset 
+Internal dysuria 
+Occasional history 
+of frequency, 
+urgency, 
+voiding small 
+volumes 
+Gradual onset 
+ 
+Multiple partners 
+Recent change in 
+partners  
+Partner with 
+discharge or 
+dysuria  
+Calculi 
+Chemical or radiation  
+Psychogenic / sexual 
+instrumentation  
+ 
+Neoplasm  
+Topical 
+creams, 
+lotions, 
+underwear  
+ 
+ 
+ 
+ 
+2. List 3 common UTI pathogens, and list 3 additional pathogens in complicated 
+UTIs 
+ 
+Common causes  
+● E. Coli  - 75% or more  
+● Staph. Saprophyticus 
+● Klebsiella pneumonia 
+● Proteus mirabilis  
+ 
+Complicated, unusual causes:  
+● ESBLs (extended-spectrum β-lactamases)  
+○ E. coli 
+○ Klebsiella  
+● Pseudomonas 
+● Serratia  
+● Citrobacter 
+● Salmonella / Shigella 
+● Mycobacterium tuberculosis  
+ 
+ 
+3. Define uncomplicated UTI and antibiotic options  
+ 
+● Nonpregnant patient, with a structurally and functionally normal urinary tract 
+Crack Cast Show Notes – Urological Disorders – August 2017 
+www.crackcast.org 
+ 
+ 
+                              
+● Antibiotics:  
+○ Septra 160/800 mg BID for three days 
+○ Nitrofurantoin 100 mg BID for 5 days 
+○ Fosfomycin 3 g po x 1 dose 
+● Avoiding agents with >20% local resistance to antibiotics  
+ 
+If you’re unsure if a patient has a UTI or an STI you can treat both with:  
+● Levofloxacin 500 mg po daily for 7 days 
+● Ceftriaxone 250 mg IM x 1  
+ 
+4. Define complicated UTI and antibiotic options  
+ 
+● A heterogenous term that includes any of the following:  
+○ Any structural or functional abnormality of the urinary tract 
+○ History of urinary instrumentation or organ transplant 
+○ Systemic disease (diabetes, renal insufficiency, immunodeficiency)  
+○ Men (due to high risk for urologic abnormality)  
+● Lippism: “Anatomy, instrumentation, transplant  
+○ S, P, E, C, I , A , L  
+■ Systemic disease  
+■ Pregnancy  
+■ Elderly  
+■ Compromised renal function or immune function  
+■ Instrumentation  
+■ Anatomy  
+■ Long urethra (males)  
+● These require a longer course of abx (similar to uncomplicated pyelonephritis)  
+○ Patients with complicated cystitis who can tolerate oral therapy: 
+■ oral fluoroquinolone such as ciprofloxacin (500 mg orally twice daily or 
+1000 mg extended release once daily) or levofloxacin (750 mg orally 
+once daily) for five to seven days.  
+■ Trimethoprim-sulfamethoxazole 160/800 mg bid 10–14 days  
+● Nausea, vomiting, anorexia, hypersensitivity reactions 
+● Should consider whether these folks need imaging (US vs. CT - most sensitive):  
+○ Imaging is reserved for: 
+■ Suspected urolithiasis, abscess, emphysematous pyelonephritis, 
+severe or worsening symptoms despite >48 hrs of treatment  
+ 
+5. List two antibiotic options for uncomplicated and complicated pyelonephritis.  
+ 
+● Pyelonephritis = UTI involving the renal collecting system or parenchyma  
+○ Fever, chills, flank pain, CVA tenderness, N/V, +/- cystitis  
+○ In the elderly: altered mental status, lethargy, abdominal pain, generalized 
+weakness    
+Uncomplicated (same treatment as complicated UTI)  
+● Ciprofloxacin 500 mg bid 7 days  
+○ GI disturbance, headache, dizziness, tremors, restlessness, confusion, rash, 
+Candida infections 
+Crack Cast Show Notes – Urological Disorders – August 2017 
+www.crackcast.org 
+ 
+ 
+                              
+● Levofloxacin 750 mg once daily 5 days  
+○ Same as for ciprofloxacin 
+● Trimethoprim-sulfamethoxazole 160/800 mg bid 10–14 days  
+○ Nausea, vomiting, anorexia, hypersensitivity reactions 
+● In places with >10% fluoroquinolone resistance: give 1 g ceftriaxone followed by 10-
+14 days of an oral cephalosporin  
+Complicated  
+● Cefepime 1–2 g every 12 hours  
+○ Abdominal pain, muscle cramps, nausea, vomiting 
+● Ceftriaxone 1 g every 24 hours  
+○ Fever, cough, sore throat, fatigue 
+● Piperacillin-tazobactam 3.375 g every 6 hours  
+○ Diarrhea, nausea, vomiting, rash 
+● Aztreonam 1 g every 8–12 hours  
+○ Cough, abdominal pain, nausea, vomiting 
+● Ciprofloxacin 400 mg every 12 hours  
+○ GI disturbance, headache, dizziness, tremors, restlessness, confusion, rash, 
+Candida infections 
+● Levofloxacin 500 mg every 24 hours  
+○ Same as for ciprofloxacin 
+ 
+6.  What are safe antibiotic options for bacteriuria in pregnancy? How is 
+pyelonephritis managed in pregnancy? 
+ 
+A couple key points about the pregnant patient with a UTI:  
+● Bacteriuria in pregnancy - gets treated even if the patient is asymptomatic  
+● If the patient is in the third trimester, they need hospitalization according to Rosen’s.  
+● If the patient has pyelonephritis, they may need hospitalization (we can’t use our 
+standard PO outpatient drugs)  
+● NO fluoroquinolones  
+● CAREFUL when prescribing nitrofurantoin and tmp-sulfa 
+ 
+Bacteriuria:  
+● Amoxicillin-clavulanate 500 mg tid 3–7 days 
+● Cefpodoxime 100 mg bid 3–7 days 
+● Nitrofurantoin 100 mg bid 5–7 days  
+○ Contraindicated First trimester and 38 weeks to delivery 
+● Fosfomycin 3 g as a single dose 
+● Trimethoprim-sulfamethoxazole 160/800 mg bid 3 days  
+○ Contraindicated: First trimester and term 
+Pyelonephritis:  
+● Ceftriaxone 1 g every 24 hours 
+● Cefepime 1 g every 12 hours 
+● Piperacillin-tazobactam 3.375 g every 6 hours 
+● Aztreonam 1 gram every 8–12 hours 
+ 
+ 
+ 
+Crack Cast Show Notes – Urological Disorders – August 2017 
+www.crackcast.org 
+ 
+ 
+                              
+Prostatitis 
+ 
+● More than 90% of men with febrile UTI’s have prostate involvement  
+● Prostatitis is a catch-all term that includes: 
+○ Acute bacterial prostatitis  
+■ Men 20-40;>60 yrs. Due to reflux of infected urine 
+○ Chronic bacterial prostatitis 
+■ Infection > 3 months 
+■ Develops in 10% of people with ABP 
+○ Chronic pelvic pain syndrome 
+■ Complex pain syndrome with urinary symptoms and sexual 
+dysfunction and no organic etiology  
+○ Asymptomatic inflammatory prostatitis  
+ 
+1. Describe the diagnosis and management of prostatitis  
+ 
+● Acute bacterial prostatitis: clinical diagnosis  
+○ UTI symptoms, fevers, chills, dysuria, frequency, urgency, perineal or low 
+back pain 
+○ Tender and swollen prostate on rectal exam 
+○ Urine culture, blood cultures if febrile, and STI testing  
+○ At risk for urinary retention and prostatic abscess  
+○ Management:  
+■ Bed rest  
+■ Analgesia  
+■ Hydration 
+■ Stool softeners  
+■ Alpha blockers - if there are obstructive voiding sxt 
+■ Antibiotics 
+● Fluoroquinolones are some of the few abx that actually 
+penetrate the prostate - they are the mainstay of treatment 
+○ Cipro 
+○ Levoflx 
+● Septra and ceftriaxone are alternatives where resistance exists 
+● Duration: 4-6 weeks 
+● Chronic bacterial prostatitis 
+○ Similar hx symptoms, often normal exam, with positive urine cultures (require 
+a special protocol)  
+○ Treatment with: 
+■ Alpha-adrenergic blockers 
+■ Cipro or Levofloxacin for up to 12 weeks.  
+ 
+ 
+ 
+ 
+ 
+Crack Cast Show Notes – Urological Disorders – August 2017 
+www.crackcast.org 
+ 
+ 
+                              
+Renal Calculi 
+ 
+● Stones are a common problem with a 50% recurrence rate 
+● The composition is: 
+○ Calcium (75% of stones)  
+■ **hypersecretion of calcium is a major contributor to stone formation** 
+■ Note hyperparathyroidism, hypercalcemia of malignancy, sarcoidosis, 
+ingestion or absorption from the gut  
+■ Calcium oxalate stones:  
+● Hyperoxaluria 
+○ Small bowel disease, bariatric sx, crohn’s disease, UC, 
+radiation enteritis  
+○ Struvite stones (Magnesium, ammonium, phosphate) - 15% 
+■ Occur exclusively in patients with UTIs because they require bacteria 
+to split urea into precipitates   
+○ Uric acid stones - 10% 
+■ Occur in people with gout  
+● 20% of patients with urolithiasis have NO microscopic hematuria  
+● Imaging with CT KUB vs. U/S is recommended only if:  
+○ First presentation of disease 
+○ Do not improve with initial treatment 
+○ Have a urinalysis suspicious for infection  
+○ Have a solitary/transplanted kidney 
+○ Diagnostic uncertainty  
+● Complete ureteric obstruction leads to irreversible damage after 1-2 weeks and risk 
+for pyelonephritis, perinephric abscess, and gram -ve sepsis.  
+ 
+ 
+ 
+1. Name the areas of narrowing in the ureter  
+ 
+Stone passage and need for surgical intervention depends on:  
+[1] Calculus size 
+ 
+Stone size 
+Pass rate (%) by 4 wks  
+< 5mm  
+90% 
+5-8 mm 
+15% 
+> 8 mm  
+5% 
+ 
+ 
+[2] Location  
+There are five areas of narrowing along the ureter - fig 89.4 
+1. Calyx of the kidney 
+2. Ureteropelvic junction (UPJ)  
+3. Uretero-pelvic brim (ureter arches over iliac vessels posteriorly into the true pelvis)  
+Crack Cast Show Notes – Urological Disorders – August 2017 
+www.crackcast.org 
+ 
+ 
+                              
+4. Ureterovesicular junction (UVJ) this is the most common site of obstruction. This is 
+where the ureter enters the muscular coat of the bladder  
+5. Vescial orfice  
+ 
+Degree of patient pain  
+● This factor usually determines whether a patient can tolerate 
+outpatient treatment options, pain control and remain hydrated.  
+ 
+ 
+2. Name 6 risk factors for urolithiasis  
+ 
+See box 89-2  
+ 
+Metabolic disease or disturbance 
+Crohn’s disease 
+Milk-alkali syndrome 
+Primary hyperparathyroidism 
+Hypernatriuria 
+Hyperuricosuria 
+Sarcoidosis 
+Recurrent UTI 
+Renal tubular acidosis (type I) 
+Gout 
+Laxative abuse 
+Positive family history 
+Hot arid climates (southeast United States) 
+Male gender (white men affected more commonly than black men) 
+Previous kidney stone 
+Dehydration 
+ 
+Any tricks for remember this list?  
+ 
+DRY ROCKS 
+● Dehydration / hot climates / acidosis  
+● Recurrent UTI 
+● Y chromosome  
+● Relatives with stones 
+● Odd habits (milk-alkali, laxative abuse, calcium ingestion)  
+● Calcium diseases (primary hyperparathyroidism, malignancy, sarcoid)  
+● Kidney stones  
+● Small bowel diseases (Crohns)  
+ 
+3. List 8 alternative diagnoses (other than renal colic) for pain associated with 
+urolithiasis 
+ 
+Random list 
+1. AAA rupture / dissection 
+2. Ectopic pregnancy 
+Crack Cast Show Notes – Urological Disorders – August 2017 
+www.crackcast.org 
+ 
+ 
+                              
+a. Ovarian cyst 
+3. Bowel obstruction  
+4. Incarcerated inguinal hernia 
+5. Pancreatitis  
+6. Cholecystitis  
+7. Renal infarction, thrombosis, malignancy  
+8. PE 
+9. Appendicitis  
+ 
+Organized list, but not in order of life threats:  
+1. Urologic disease 
+a. Upper urinary tract 
+i. 
+Renal infarct 
+ii. 
+Renal tumour 
+iii. 
+Pyelonephritis  
+b. Ureter 
+i. 
+Tumor  
+ii. 
+Stricture / hemorrhage  
+c. Lower urinary tract 
+i. 
+Tumour 
+ii. 
+Urinary retention  
+2. Non-urologic disease  
+a. Intraabdominal  
+i. 
+Peritonitis  
+ii. 
+Biliary colic 
+iii. 
+Bowel obstruction  
+b. Vascular 
+i. 
+AAA 
+ii. 
+SMA occlusion  
+c. Retroperitoneal  
+i. 
+Tumour 
+ii. 
+Pancreatitis  
+iii. 
+Fibrosis  
+d. Gynecologic 
+i. 
+Ectopic pregnancy  
+ii. 
+Ovarian torsion  
+iii. 
+Ovarian cyst 
+iv. 
+Cerv. cancer, endometriosis, ovarian vein syndrome 
+e. MSK 
+i. 
+Strain / fracture  
+ 
+4. What are indications for hospitalization of patients with urolithiasis  
+ 
+The key stones of management:  
+● NSAIDS (decrease pain, decrease ureterospasm, and renal capsular pressure by 
+dropping GRF to the obstructed kidney)  
+● Fentanyl prn 
+● ondansetron prn  
+Crack Cast Show Notes – Urological Disorders – August 2017 
+www.crackcast.org 
+ 
+ 
+                              
+● Fluids (although no evidence for this)  
+ 
+What is medical expulsive therapy? When can it be used? 
+● Useful for distal ureteral stones less than 10 mm.  
+○ Alpha1-antagonists 
+■ Tamsulosin 0.4 mg po daily  
+■ OR 
+○ Calcium channel blockers 
+■ Nifedipine xr 30 mg po daily 
+● Thought to facilitate distal stone expulsion, decrease time to stone passage, and 
+block ureteral smooth muscle contraction  
+● More evidence for alpha blockers, but there are notable side effects 
+● Alpha blockers recommended by EUA and AUA.  
+ 
+Indications for hospitalization:  
+● Stone factors 
+○ Urolithiasis with suspicion for UTI or sepsis  
+● Patient factors 
+○ Dehydration, recalcitrant pain, vomiting 
+● Blowup factors 
+○ Urinary extravasation  
+○ Hypercalcemic crisis  
+ 
+Copied from Rosen’s box 89.4 
+Indications for Hospitalization of Patients 
+With Urolithiasis 
+ABSOLUTE 
+• 
+Obstructing stone with signs of urinary infection 
+• 
+Intractable nausea or vomiting 
+• 
+Severe pain requiring parenteral analgesics 
+• 
+Urinary extravasation 
+• 
+Hypercalcemic crisis 
+ 
+ 
+RELATIVE 
+• 
+Significant comorbid illness complicating outpatient management 
+• 
+High-grade obstruction 
+• 
+Leukocytosis 
+• 
+Solitary kidney or intrinsic renal disease 
+• 
+Psychosocial factors adversely affecting home management 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Crack Cast Show Notes – Urological Disorders – August 2017 
+www.crackcast.org 
+ 
+ 
+                              
+Bladder (Vesical) Calculi  
+1. Describe this condition and its management  
+ 
+● <5% of calculi  
+● Usually in older men with infected residual bladder urine with urea splitting organisms 
+(Struvite stones!)  
+● Causes:  
+○ Indwelling catheter 
+○ BPH 
+○ Neurogenic bladder 
+○ Irradiation  
+○ Schistosomiasis  
+● Urinary symptoms, with sudden obstruction of the bladder outlet 
+● Usually need surgical removal after U/S or CT dx 
+ 
+Acute Scrotal Pain 
+ 
+● Know your anatomy 
+ 
+● Know that the left testi normally sits lower than the right 
+● They normally sit in the vertical axis  
+● “The epididymis is located posterolateral to the testis and is normally nontender and 
+soft. The cremasteric reflex is elicited by stroking or pinching the inner aspect of the 
+thigh; more than 0.5 cm of elevation of the ipsilateral testicle is considered evidence 
+of a normal reflex. This reflex normally is absent in 50% of male infants younger 
+than 30 months.” 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Crack Cast Show Notes – Urological Disorders – August 2017 
+www.crackcast.org 
+ 
+ 
+                              
+1. List causes of acute scrotal swelling by age groups (infant, child, adolescent, 
+adult) 
+ 
+Infant 
+Child 
+Adolescent  
+Adult 
+ 
+Hernia 
+Hydrocele 
+ 
+ 
+Hernia 
+Torsion 
+Epididymitis 
+ 
+ 
+Epididymitis 
+Torsion 
+Trauma 
+ 
+ 
+Epididymitis 
+Hernia 
+Trauma 
+Tumor 
+Torsion 
+Fournier’s gangrene 
+ 
+ 
+2. Describe the physiology, diagnosis and management of testicular torsion  
+ 
+● Bimodal onset: <1 yr and at puberty  
+● 40% of cases occur in adults  
+● More often occurring in the winter when the cold temperature induces contraction of 
+the cremasteric muscles  
+● Torsion occurs where there is a congenital defect of the testis → predisposing to 
+testicular rotation when the cremaster muscle contracts. → then the spermatic cord 
+twists cutting off blood flow. Usually there is the bell clapper deformity.  
+● Dx: 
+○ History: unreliable!  
+■ Sudden onset - during sleep or post activity  
+● In one study ¾ of patients presented more than 12 hrs after 
+the onset of pain  
+■ Often N/V or abdominal pain  
+■ 10% may have no stated scrotal pain  
+○ Physical:  
+■ Absent cremasteric reflex favours testicular torsion (but its presence 
+can’t rule out torsion)  
+■ Tender, firm testicle 
+■ Shortening of the spermatic cord  
+■ Transverse lying position, with the epididymis off the posterior axis  
+■ ***these findings may be absent after 24 hrs of sxt*** 
+○ U/S: ask for color doppler duplex ultrasound of both testicles and spermatic 
+cords 
+■ Findings of TT: 
+● Enlarged, hypoechoic testicle 
+■ False negatives with: 
+● Early in the course of the disease, intermittent torsion  
+■ Think about the ddx 
+● Torsion of the testicular appendage 
+● Epididymitis  
+● Management:  
+○ Consult urology ASAP (even if U/S is negative if you have a high pre-test 
+probability for TT)  
+Crack Cast Show Notes – Urological Disorders – August 2017 
+www.crackcast.org 
+ 
+ 
+                              
+○ Attempt manual detorsion if no immediate urologist available  
+○ Analgesia and antiemetics  
+ 
+3. Describe the treatment for sexually vs. non-sexually acquired epididymitis  
+ 
+Epididymitis:  Think STI vs. urinary tract abnormality 
+● Most common intrascrotal inflammatory disease, usually occurs with orchitis.  
+● Infection usually extends from urethra (STIs) or from bladder (UTI)  
+● All men are at risk for this disease, but commonly it is from Chlamydia and 
+Gonorrhoeae especially in men < 35 
+○ < 10% of these patients have associated urethritis or urethral discharge 
+● Insertive anal sex also puts men at risk for enteric organisms  
+● Older men are at risk for UTI pathogens with abnormal urinary tracts (SPECIAL) and 
+BPH 
+● Both groups usually present with gradual onset lower abdominal pain then scrotal 
+pain progressing to scrotal edema, erythema, tenderness.  
+● No clinical way to differentiate epididymitis from testicular torsion (get that ultrasound 
+and ask them to rule out “spermatic cord twisting”  
+ 
+Management 
+● STI related 
+○ Ceftriaxone 250 mg IM x 1 
+○ Doxycycline 100 mg po bid x 10-14 days 
+● Enteric organism related 
+○ Levofloxacin 500 mg po daily for 10 days 
+● Pre-puberty 
+○ Supportive care, wait for positive urine culture before administering abx 
+● Supportive care:  
+○ Bed rest,  
+○ Scrotal elevation  
+○ Analgesia 
+○ Ice packs 
+ 
+Things we didn’t have time to cover:  
+● Orchitis (mumps: parotitis→ orchitis)  
+● Testicular tumours 
+● Testicular trauma including rupture 
+● Hydroceles, varicoceles, spermatoceles  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Crack Cast Show Notes – Urological Disorders – August 2017 
+www.crackcast.org 
+ 
+ 
+                              
+Acute Urinary Retention  
+ 
+● Risk of AUR increases with age 
+ 
+1. Describe the physiology of urination  
+ 
+● Coordinated contraction of the detrusor muscle (parasympathetic innervation and 
+Beta adrenergic inhibition) and relaxation of the bladder neck and internal sphincter 
+by alpha adrenergic inhibition.  
+● AUR:  
+○ “AUR results from a disruption of this coordinated physiology caused by 
+○ an increased resistance to flow via mechanical (eg, urethral stric- 
+○ ture, clot retention) or dynamic means (eg, increased α-adrenergic 
+○ activity, prostatic inflammation) or decreased neurogenic control 
+○ of the detrusor muscle (eg, drugs inhibiting bladder contractility, 
+○ diabetes cystopathy).” 
+ 
+2. List 10 causes of acute urinary retention in adults  
+ 
+Ok, we’re typically talking about male anatomy causing problems with this one:  
+1. BPH (by far the most common cause) 
+2. Urethral strictures (post trauma, infection, radiation, surgery) 
+3. Prostate cancer /  penis cancer 
+4. Phimosis /  paraphimosis 
+5. Acute prostatitis / urethritis  
+6. Pharmacology  
+a. Anticholinergics, sympathomimetics, CCBs, NSAIDS, TCAs, antihistamines 
+7. Neurogenic causes: 
+a. MS 
+b. Parkinson’s 
+c. Diabetic peripheral neuropathy 
+d. Spinal trauma / shock 
+e. Strokes 
+f. 
+Epidural abscess  
+g. Disk herniation  
+8. Infectious/inflammatory 
+a. Genital herpes 
+b. Herpes zoster 
+ 
+PROSTATE: 
+● Pharmacology that blocks the parasympathetics  or increase alpha adrenergic tone 
+● Recent instrumentation  
+● O 
+● Strictures  
+● Tumours along the way 
+● Angry tissues (UTI’s, urethritis)  
+● Trauma to the tract 
+Crack Cast Show Notes – Urological Disorders – August 2017 
+www.crackcast.org 
+ 
+ 
+                              
+● Epidural disease (neurogenic causes)  
+ 
+In the kids: 
+● Congenital posterior urethral valves 
+● UTI’s 
+ 
+Usually leave an ED catheter in place for 3-7 days due to the 70% recurrence rate of AUR if 
+it’s immediately removed.  
+ 
+3. List 6 causes of urinary retention in women  
+ 
+1. Atonic bladder 
+2. Inflammation post-partum or herpes simplex virus  
+3. Bartholin’s abscess  
+4. Acute urethritis or Vulvovaginitis  
+5. Pelvic masses  
+6. Pelvic organ prolapse (bladder, rectum, anus)  
+ 
+Hematuria  
+1. List causes of red-coloured urine without hematuria  
+ 
+Causes of Red-Colored Urine Without Hematuria 
+ 
+Phenazopyridine 
+Nitrofurantoin 
+Rifampin 
+Chloroquine 
+Hydroxychloroquine 
+Iodine 
+Bromide 
+Food coloring 
+Beets 
+Berries 
+Rhubarb 
+ 
+ 
+2. List risk factors for urinary tract malignancy  
+ 
+Risk Factors for Urinary Tract Malignancy 
+ 
+● Age > 35 yr 
+● Past or current cigarette smoking 
+● Occupational exposure (chemicals or dyes) 
+● Analgesic abuse 
+● Chronic indwelling foreign body 
+● Chronic urinary tract infection 
+● Exposure to known carcinogenic or chemotherapeutic agent 
+Crack Cast Show Notes – Urological Disorders – August 2017 
+www.crackcast.org 
+ 
+ 
+                              
+● Gross hematuria 
+● Irritative voiding symptoms 
+● Pelvic irradiation 
+● Urologic disorder or disease 
+ 
+ 
+ 
+Wisecracks: 
+1. When is a urine culture indicated (box 89.1)  
+ 
+● Pt. hx strongly suspicious for UTI, with a negative urine dipstick  
+● Pt. with treatment failure or symptoms lasting >4 days  
+● Recurrent UTI 
+● Complicated infection (see the SPECIAL mnemonic)  
+○ Systemic illness: Diabetes, sickle cell disease, cancer,  
+○ Pregnancy 
+○ Elderly at risk for bacteremia  
+○ ImmunoCompromised - alcoholism  
+○ Instrumentation - cystoscopy, catheter 
+○ Anatomic urologic anomalies or obstructions (stones/BPH)  
+○ Men 
+● Children  
+● Ill appearance suggestive of bacteremia or pyelonephritis  
+● Recent exposure to abx or on abx 
+● Recently hospitalized  
+● Hx of multi-drug resistant organisms  
+ 
+2. What is a CAUTI? 
+ 
+Catheter-associated urinary tract infections (UTIs) are a common healthcare-associated 
+infection.  
+ 
+Bacteriuria occurs at a rate of approximately 3 to 10 percent per day of catheterization.  
+ 
+Defined as symptoms new onset or worsening: fever, rigors, AMS, malaise, lethargy, with no 
+other identified cause; flank pain, costovertebral angle tenderness, acute hematuria; or 
+pelvic discomfort) and more than 1000 CFU/mL of one or more bacterial species. Screening 
+for or treating asymptomatic bacteriuria in patients with indwelling catheters is not indicated. 
+ 
+Treatment:  
+1. Remove the catheter - this usually spontaneously clears the 
+bacteriuria 
+2. If it needs to stay in: 
+a. Urine culture and sensitivity 
+b. Treatment based on the C+S 
+c. Replacement of the catheter  
+  
+Crack Cast Show Notes – Urological Disorders – August 2017 
+www.crackcast.org 
+ 
+ 
+                              
+ 
+3. What are two medication classes of drugs for prostatic enlargement?  
+ 
+ALPHA-ADRENERGIC RECEPTOR ANTAGONIST 
+Alfuzosin 10 mg once daily 
+Doxazosin 1 mg once daily 
+Tamsulosin 0.4 mg once daily 
+Terazosin 1 mg once daily or at bedtime 
+ 
+5-ALPHA-REDUCTASE INHIBITORS 
+Dutasteride 0.5 mg once daily 
+Finasteride 5 mg once daily 
+ 
+ 
+4. Describe the testicular salvage rates (Fig. 89.9)  
+ 
+Any delay beyond 6 hrs is associated with testicular loss and infertility (>60% after 6 hrs).  
+ 
+By 24 hrs there is a 50% salvage rate, and 50% of those salvaged have subsequent atrophy 
+despite salvage!  
+ 
+5. Differentiate between testicular torsion, appendiceal torsion, and epididymitis (Table 
+89.9)  
+ 
+This is some space repetition! 
+ 
+Directly from Table 89.9 in Rosens 9th Edition 
+Differentiation Among Common Causes of the Acute Scrotum 
+ 
+ 
+PARAMETER  
+ 
+TESTICULAR 
+TORSION  
+APPENDIX 
+TORSION  
+EPIDIDYMITIS 
+Age puberty  
+<1 yr, puberty 
+7–14 yr 
+Adult 
+Onset  
+Hours 
+1–2 days 
+Days to weeks 
+Location of pain  
+Entire testicle 
+Upper pole 
+Epididymis 
+Testicle position  
+ 
+High-riding testicle 
+Transverse 
+alignment 
+Normal position 
+Vertical alignment 
+Normal position 
+Vertical alignment 
+Systemic symptoms  
+Nausea, vomiting 
+None 
+Possibly fever 
+Cremasteric reflex 
+No 
+Intact 
+Intact 
+Pyuria 
+Rare 
+No 
+Yes 
+Crack Cast Show Notes – Urological Disorders – August 2017 
+www.crackcast.org 
+ 
+ 
+                              
+ 
+Ultrasound findings 
+Diffusely hypoechoic 
+Asymmetric testicles 
+Normal or decreased 
+flow 
+Spermatic cord twist 
+ 
+Focally hypoechoic 
+Symmetrical 
+testicles 
+Normal flow 
+ 
+Hypoechoic 
+epididymis 
+Symmetric testicles 
+Increased flow 
+ 
+Treatment 
+Surgery 
+Supportive  
+Antibiotics; 
+prepubescent—
+supportive only 
+ 
+ 
+ 
+ 
+Wisecracks 6 
+ 
+What are the causes of different urine colour pigmentation? 
+ 
+Straight from Life in the fast lane here 
+ 
+ 
+Green 
+Drugs: Cimetidine, Promethazine, Amitriptyline, Flutamide, Indomethacin, 
+Methocarbamol, Methylene blue, Mitoxantrone, Propofol, Phenylbutazone, 
+Triamterene 
+Condition: Hartnup Disease, Indicanemia, Indicanuria 
+Infection: Pseudomonas Infection 
+Dyes: Carbolic Acid, Flavine derivatives, Indigo Blue, Methylene Blue, Resorcinol 
+Other: Clorets, Listerine, Magnesium Salicylate, Asparagus 
+Orange 
+Drugs: Idarubicin, Ferrioxamine, Oxamniquine, Phenazopyridine, Rifampicin, 
+Sulfasalazine, Warfarin 
+Food/supplements: Carotenes, B-complex vitamins, Senna, Rhubarb, Beets and 
+blackberries  
+Condition (hypercarotenemia): Diabetes mellitus, hyperlipidemia, hypothyroidism, 
+porphyria 
+Crack Cast Show Notes – Urological Disorders – August 2017 
+www.crackcast.org 
+ 
+ 
+                              
+Red 
+Stones: (calculi in the renal pelvis, ureter or bladder) 
+Malignancy— TCC, RCC, Wilms 
+Trauma—blunt or penetrating trauma to the abdomen or pelvis; a catheter will 
+commonly cause haematuria. BPH is a common cause of intermittent gross 
+haematuria 
+Renal: Primary renal disease (e.g. glomerulonephritis; including IgA-related, 
+membranous, mesangiocapillary, focal and minimal change). Renal disease 
+associated with / due to / secondary to systemic vasculitis (e.g. SLE, polyarteritis 
+nodosa), Papillary necrosis secondary to analgesic nephropathy or diabetic 
+nephrosclerosis. Hereditary (e.g. Alport’s syndrome). 
+Infection: Pyelonephritis, UTI, pyonephrosis, cystitis, prostatitis, TB, 
+schistosomiasis 
+Coagulopathy: Anticoagulation, Inherited defect (e.g. haemophilia, Von 
+Willebrand’s), Acquired defect (e.g. DIC, thrombocytopenia). 
+Red-Brown 
+Drugs: Levadopa, nitrofurantoin, metronidazole 
+Condition: Rhabdomyolosis (myoglobinuria), bile pigment 
+Other: Fava beans 
+Purple 
+Infection: Bacteria such as Providencia stuartii, Klebsiella pneumoniae, P. 
+aeruginosa, Escherichia coli, and enterococcus species. 
+Condition: Hartnup Disease, Indicanemia, Indicanuria 
+Black 
+Drugs: Stimulant laxatives (e.g. cascara, senna) 
+Condition: Alkaptonuria, methemoglobinuria 
+Other: Melanin 
+ 
+ 

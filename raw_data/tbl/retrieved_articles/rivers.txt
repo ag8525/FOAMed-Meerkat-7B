@@ -1,0 +1,125 @@
+# Metadata
+- Source: The Bottom Line
+- Title: Rivers
+- Original URL: https://www.thebottomline.org.uk/summaries/icm/rivers/
+- Scrape Date: 2025-07-17
+- Summary Date: AUTO_FILL_IF_AVAILABLE
+
+Early goal-directed therapy in the treatment of severe sepsis and septic shock
+Rivers. NEJM 2001; 345:1368-1377. doi:10.1056/NEJMoa010307
+Clinical Question
+In adults with severe sepsis or septic shock, does the use of early goal-directed therapy (EGDT) reduce the mortality?
+Design
+Randomised controlled trial
+Computer-generated blocks of 2 to 8
+Concealed allocation
+No blinding of clinicians, study personnel or patients
+Power calculation: sample size of 260 required with 80% power and 0.05 alpha error rate to detect absolute reduction in mortality of 15% (expected baseline not specified)
+Intention-to-treat analysis
+Setting
+Single academic tertiary hospital in Detroit, USA
+March 1997 to March 2000
+Population
+Inclusion: Severe sepsis or septic shock
+≥ 2 SIRS features, and
+either
+systolic BP ≤ 90 mmHg after crystalloid fluid of 20 to 30 ml/kg over 30 minutes,
+or
+blood lactate ≥ 4 mmol/l
+Exclusion: age under 18 years; pregnancy; other acute neurological, cardiac, gastrointestinal or respiratory pathology; contraindications to central catheterisation; uncured cancer; immunosupression; limitations defined for active care
+268 randomised with 236 completing study
+Intervention
+Early goal-directed therapy for 6 hours
+Remained in ED for 6 hours and protocolised therapy managed by an emergency physician, two residents and three nurses
+Oxygen ± intubation and mechanical ventilation
+Central venous and arterial catheterisation
+Central venous catheter (Edwards Lifesciences) capable of measuring continuous ScvO
+2
+500 ml fluid boluses until CVP 8–12 mmHg
+Vasopressors or vasodilators until MAP 65–90 mmHg
+If ScvO
+2
+< 70%
+Transfused red cells until haematocrit ≥ 30%
+If still ScvO
+2
+< 70%
+Dobutamine 2.5–20 µg/kg/min until ScvO
+2
+> 70%
+Dobutamine limited or reduced if MAP < 65 mmHg or pulse > 120 /min
+Control
+Usual care for 6 hours without protocol
+Treatment at the discretion of the clinician and patient admitted to ICU as soon as possible after consult and lines inserted
+Oxygen ± intubation and mechanical ventilation
+Central venous and arterial catheterisation
+Targets defined but without treatment algorithm:
+CVP ≥ 8–12 mmHg
+MAP ≥ 65 mmHg
+Urine output ≥ 0.5 ml/kg/hr
+Outcome
+Primary outcome: in-hospital mortality was statistically and clinically significantly better in the EGDT intervention group compared to the usual care control group.
+30.5% vs 46.5% p = 0.009
+Secondary outcome: subgroup analyses all favoured EDGT
+severity of sepsis
+28-day and 60-day mortality
+cause of in-hospital death (sudden cardiovascular collapse and multi-organ failure)
+Tertiary data collection:
+The EGDT group received more fluid over the early 6-hour period but there was no difference in total fluid over 72 hours
+More red-cell transfusions were given to the EGDT group
+Early inotropic use was more prevalent in the EGDT group (not statistically different over complete 72-hour period)
+Vasopressor use was more prevalent in the usual care group
+Intubation and ventilation was more prevalent in the usual care group
+Primary Outcome
+Measure
+EGDT
+Usual Care
+ARR
+95% CI
+p
+NNT
+In-hospital mortality
+29.2%
+44.4%
+15.13%
+3.62 to 26.64%
+0.0150
+7
+ARR = absolute risk reduction; CI = confidence interval; p = p value; NNT = number needed-to-treat
+Fishers’ exact test performed on reported in-hopsital mortality. This is different to Kaplan-Meier survival estimates reported in the orginal paper.
+Authors’ Conclusions
+“goal-directed therapy provided at the earliest stages of severe sepsis and septic shock… has significant short-term and long-term benefits.”
+Strengths
+Adequate trial design for the clinical question
+90% completed the study – a drop-out / lost-follow-up rate that is well below the primary outcome rate
+Weaknesses
+Single centre study
+Intervention was a bundle of care, and individual components cannot be investigated separately
+Usual care control group had a higher than average mortality rate
+In-hospital mortality as an outcome measure has its limitations, as some patients will go to institutions or home to die soon after
+Lead author is a paid consultant for manufacturer of ScvO
+2
+-measuring central catheter, and has registered “early goal-directed therapy” and “EGDT” as his trademarks!
+The Bottom Line
+Until ProCESS, ARISE and ProMISe, Rivers’ trial represented the best evidence for EGDT and demonstrated a strong benefit.
+Concerns and criticism by clinicians has led to modified but widespread adoption of the ‘bundle’ of care in severe sepsis and septic shock.
+Until individual elements are tested, the specific goals are not unreasonable goals to target, although the algorithm is perhaps less robust.
+External Links
+[article pdf]
+Early goal-directed therapy in the treatment of severe sepsis and septic shock by Rivers et al
+[podcast]
+Early Goal Directed Therapy
+by
+@EmCrit
+[further reading]
+Infographical comparison of Rivers vs ProCESS by Cheetah Medical
+(commercial manufacturer of haemodynamic monitors)
+[further reading]
+A brief history of goal directed therapy by Otero
+(Am Col Em Physicians)
+Metadata
+Summary author:
+@DuncanChambler
+Summary date: 3 October 2014
+Peer-review editor:
+@stevemathieu75

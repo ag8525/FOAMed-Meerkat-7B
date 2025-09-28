@@ -1,0 +1,111 @@
+# Metadata
+- Source: The Bottom Line
+- Title: POLAR
+- Original URL: https://www.thebottomline.org.uk/summaries/icm/polar/
+- Scrape Date: 2025-07-17
+- Summary Date: AUTO_FILL_IF_AVAILABLE
+
+Prophylactic hypothermia for severe Traumatic Brain Injury: POLAR RCT
+Cooper J, Nichol A:JAMA October 2018 online first
+Clinical Question
+In patients with severe blunt traumatic brain injury (TBI) does early and sustained cooling compared with standard care improve neurological outcomes at 6 months?
+Background
+TBI is a leading cause of death and disability. In Europe 37% of all injury-related mortality is caused by or associated with TBI
+Of those who have a severe TBI (GCS < 8 on presentation), almost half will have an unfavourable outcome (death, vegetative state or severe disability)
+Hypothermia has been touted as a treatment to reduce secondary injury following TBI as there is scientific rationale and experimental evidence that neuronal damage at the cellular and molecular level is highly temperature sensitive and that hypothermia is neuroprotective.
+Several studies have been conducted with mixed results. A RCT of 392 patients with severe TBI treated with hypothermia, with the body temperature reaching 33 degrees C within eight hours after injury, showed no improvement in outcomes. There was concern that the induction of hypothermia was not rapid enough to be neuroprotective in this
+study
+A meta-analysis of the highest quality clinical trials of hypothermia in severe TBI was conducted by the Brain Trauma Foundation (BTF) which reported a significant increase in long term favourable neurological outcomes (Relative Risk (RR) 1.46, 95% confidence interval (95% CI) 1.12 to 1.92, p=0.006
+EUROtherm
+3235 looked at TBI patients with elevated ICP. This demonstrated a greater risk of death and worse neurological outcomes in survivors managed with therapeutic hypothermia compared to standard therapy
+The POLAR RCT was designed to rapidly induce hypothermia at the pre-hospital/early hospital stage with the idea that early and sustained cooling may offer benefit to these patients
+Design
+Multicentre, partially-blinded, randomised-controlled trial, block randomisation, allocation concealment with sealed envelopes
+1:1 assignment to the control arm:cooling arm
+Randomisation occurred by paramedics (pre-hospital) or emergency department staff. There was stratification to ensure equal allocation of randomisation site (PH or ED) between control and cooling arms
+Stratification was also based on geographical location
+Outcome assessors were blinded but bedside clinical staff were not
+The study had an 82% power to detect an Absolute Risk Increase of 15% of favourable neurological outcome (2-sided p=0.05)
+Based on this, 364 patients would be needed
+However, the study sample size aim was increased to 510 to account for expected loss to follow-up, cessation of hypothermia due to complications and incorrect paramedic diagnosis
+Setting
+14 institutes in 6 countries (Australia, France, Saudi Arabia, Qatar, Switzerland, New Zealand)
+Recruitment commenced in 2010 and ended in November 2017 with final patient follow-up in May 2018
+Population
+Inclusion
+: blunt trauma with clinical diagnosis of severe TBI and GCS<9, age 18-60 (as best estimated if unknown), intubated patient (or imminent intubation)
+Exclusion
+: >3hrs since injury, >2.5hrs transport to hospital, SBP<90mmHg, HR>120/min, cardiac arrest at scene, GCS 3 + fixed pupils, clinically significant bleeding, pregnancy
+510 patients
+Excellent balance of baseline characteristics; Marshal score, GCS, Probability of unfavourable outcome [IMPACT-TBI score; validated score that takes account of CT findings, age, motor score, pupil response, hypoxia and hypotension]
+Baseline: 80% were men, 45% of patients had high blood alcohol levels, GCS mean = 6, Mean age = 35.
+Intervention
+Cooling Arm
+260 patients (47% pre-hospital)
+IV infusion of 4°C 0.9% saline to achieve a target temp of 35°C (volume administered 1-2L at 100ml/min depending on intubation status) – delivered in pre-hospital or ED depending on site of randomisation
+Maintenance of low core temperature achieved using a temperature control console and surface temperature control vests/leg wraps/blankets applied to approximately 40% of the body and titrated to achieve a core temperature of 33°C
+Temperature was maintained for 3 days (up to 7 days)
+Rewarming individualised according to ICP – performed slowly to avoid instability
+The time from injury to the initial temperature target of 35°C was a median of 2.5 hours, and for 186 patients (71.5%), the time to reach the final temperature target of 33°C was a median of 10.1 hours
+Clear and significant separation in temperatures achieved between cooling and control arm
+Control
+Normothermia Arm
+240 patients (42% pre-hospital)
+Temperature of 36.5-37.5°C will be targeted with paracetamol or cooling vests applied if the temperature exceeds 38°C
+Management common to both groups
+All other management was in keeping with local practice
+80% had ICP monitors
+Similar use of osmotic agents
+Noradrenaline dose much greater in the hypothermia group
+Bradycardia 18.8% (hypothermia) vs 4.2% (normothermia)
+20-25% patients had craniotomy, only 3% had decompressive craniotomy
+No difference in fluid balance
+ICP; no significant difference between the 2 groups
+ICP problems did not occur in rewarming phase in the hypothermia group
+Outcome
+Primary outcome
+:
+The proportion of favourable neurological outcomes (Glasgow Outcome Score Extended: GOSE 5 to 8) at six months following injury
+48.8% (hypothermia group) vs 49.1% (normothermia group)
+Secondary outcome:
+GOSE at 6 months using proportional odds model… no difference
+GOSE at 6 months using ‘sliding dichotomy’ method… no difference
+As treated analysis… similar to intention to treat analysis
+Mortality at hospital discharge and 6 months .. no difference
+Adverse events; bleeding (no difference), infection (pneumonia in per-protocol analysis 70% vs 57%)
+No evidence of harm to skin from the cooling vests
+Surgically removed haematoma patients; no difference
+Mean mechanical ventilation days: one day longer in hypothermia group
+Authors’ Conclusions
+There is absolutely no sign in this trial that early and sustained prophylactic hypothermia improves neurological outcome
+This trial puts hypothermia to bed!
+Strengths
+Multi-centre, RCT, allocation concealment, follow-up, intention to treat analysis, low loss to follow-up
+Hypothermia induced rapidly meaning that the impact on secondary injury was optimised
+Blinding of outcome assessors
+This is the largest and best conducted trial addressing this question
+Weaknesses
+Not blinded at the bedside, but outcome assessors blinded
+A high proportion of patients randomised to hypothermia did not reach target temperature:
+19% were assessed not to be suitable and withdrawn
+13% did not reach 33°C
+The Bottom Line
+I will aim for normothermia in my patients with TBI
+Significantly: hypothermia did not improve 6 month outcome, but increased pneumonia, ventilation days, bradycardia and noradrenaline use
+Hypothermia did not reduce ICP
+External Links
+[article]
+POLAR
+[further reading]
+Brain Trauma Foundation Guidelines
+[further reading]
+POLAR trial protocol
+Twitter: search “
+#LIVES2018 POLAR
+“
+Metadata
+Summary author:
+@celiabradford
+Summary date: October 25 7pm
+Peer-review editor:
+Dave Slessor

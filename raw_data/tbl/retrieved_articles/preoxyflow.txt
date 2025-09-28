@@ -1,0 +1,134 @@
+# Metadata
+- Source: The Bottom Line
+- Title: PREOXYFLOW
+- Original URL: https://www.thebottomline.org.uk/summaries/icm/preoxyflow/
+- Scrape Date: 2025-07-17
+- Summary Date: AUTO_FILL_IF_AVAILABLE
+
+PREOXYFLOW: High-flow nasal cannula oxygen during endotracheal intubation in hypoxemic patients: a randomised controlled clinical trial
+Vourc’h M. Intensive Care Medicine 2015; published online first April 2015. doi:10.1007/s00134-015-3796-z
+Clinical Question
+Does High-flow therapy by nasal cannula (HFNC) improve the efficiency of preoxygenation before intubation compared with a high fraction-inspired oxygen facial mask (HFFM)
+Design
+Multicenter, randomised controlled trial
+Open-labelled and parallel
+Intention to treat analysis
+Randomisation was computer-generated using fixed blocks of four patients (1:1 ratio) and stratified by centre
+Designed to detect a 6% increase in SpO
+2
+with HFNC preoxygenation compared with HFFM. With 80% power, 124 patients were required
+Setting
+6 French ICU’s (3 medical, 2 medical-surgical and one surgical)
+December 2012 – August 2013
+Population
+Inclusion:
+18 years or older
+Acute hypoxaemic respiratory failure requiring intubation in ICU
+Defined by:
+respiratory rate > 30 per minute and a FiO
+2
+requirement of ≥ 50% to obtain SpO
+2
+≥  90% AND
+estimated PaO
+2
+/FiO
+2
+ratio ≤ 300mmHg
+any point in the the 4 hours before inclusion
+Exclusion: contraindications to orotracheal intubation; intubation without anaesthetic rapid sequence induction; requirement for intubation because of cardiac arrest or asphyxia; nasopharyngeal difficulties; grade 4 Cormack-Lehane view; pregnancy
+119 patients
+Baseline characteristics:
+Similar for age, sex, BMI, aetiology for respiratory failure (around half due to pneumonia) and arterial blood gas oxygenation (mean PaO
+2
+/FiO
+2
+ratio 120mmHg)
+Higher SAPS II score in HFNC group: mean 54.5 vs. 51.3
+NIV used  in the hour prior to inclusion higher in HFNC group (18%) compared with HFFM group (14%)
+HFNC used  in the hour prior to inclusion higher in HFNC group (16%) compared with HFFM group (5%)
+Intervention:
+High Flow Nasal Cannula (HFNC)
+Preoxygenation of the patient with high-flow nasal cannula (Optiflow TM) occurred for 4 minutes
+60L/min of humidified oxygen flow (FiO
+2
+100%)
+Nasal cannula were maintained in place throughout the endotracheal intubation
+Control:
+High fraction-inspired oxygen facial mask (HFFM)
+Preoxygenation of the patient with high FiO
+2
+facial mask occurred for 4 minutes
+15l/min oxygen flow
+Facemask was removed after rapid sequence induction to enable laryngoscopy
+In both groups:
+Patients receiving non-invasive ventilation, HFNC or HFFM at the time of randomisation were switched to their randomly assigned device at the beginning of the preoxygenation procedure
+Anticipated airway difficulty was predicted by the presence of 2 or more of the following
+medical history of difficult intubation; mouth opening < 3cm; restricted neck movement, thymomental distance < 65mm, Mallampati III or IV
+69.4 % of HFNC group and 57.9% of the HFNC met this criteria
+Junior doctors (residents) were responsible for most of the intubations: HFNC (82%) and HFFM (72%)
+Etomidate was used as the induction agent in over 50% of cases
+Suxamethonium was used as the neuromuscular blocking agent in 2/3rds of cases (next most frequent was rocuronium)
+Outcome
+Primary outcome: Lowest SpO
+2
+during the endotracheal intubation (ETI) procedure
+ETI = the beginning of laryngoscopy to patient connection to the mechanical ventilator
+HFNC 91.5 [80-96] vs HFFM 89.5% [81–95] p = 0.44.
+Secondary outcomes: No statistical difference between any of the outcomes apart from duration of mechanical ventilation
+4 broad categories:
+preoxygenation
+endotracheal intubation (ETI) procedure
+respiratory outcome
+morbidity in ICU
+Adverse events during intubation and the following hour: No statistical difference
+At least one severe complication (death; cardiac arrest; desaturation <80%; systolic blood pressure < 80mmHg or requirement for vasopressors)
+Overall: HFNC 58.1% vs HFFM 66.6%
+Desaturation < 80% HFNC 25.8% vs HFFM 22.8%
+Cardio-vascular collapse HFNC 38.7% vs HFFM 52.6%
+One patient in the HFFM had a cardiac arrest
+Authors’ Conclusions
+Compared to HFFM, HFNC as a preoxygenation device did not reduce the lowest level of desaturation.
+Strengths
+An external observer and the nurse in charge of the patient concurrently assessed the period
+between the beginning of laryngoscopy to patient connection to the mechanical ventilator
+Weaknesses
+The 6% hypothesised improvement in SpO
+2
+between the HFFM and HNNC group was based on a previous single study comparing NIV to HFFM. This study may therefore have been underpowered to detect any difference
+This is a small study with only 119 patients
+The choice of statistical analysis is unclear. Van Elteren analsysis is typically used where stratification according to a confounding covariate is needed to allow greater statistical power at demonstrating an association between two variables. This has been used to stratify according to medical centres. Why would the results vary between medical centres unless the expertise of medical personnel and protocols are widely varied?
+The authors do not specify exactly which high FiO
+2
+facial mask was used. The assumption is that this is a hudson mask with a reservoir bag rather than a tight fitting mask with Ambu reservoir or a Water’s circuit
+Nearly a 1/5th of patients were requiring non-invasive ventilation in the hour preceding randomisation. Removing NIV and changing to facemask would have resulted in derecruitment. Whilst high flow nasal may provide some additional PEEP, this would be insignificant compared with NIV.
+The secondary outcomes are mostly dependent on operator variability. There should be no reason why the presence of HFNC should impact on ability to perform successful intubation. If this study was looking at effectiveness of an adequate face-mask seal during apnoeic oxygenation, this would be far more informative
+Large difference between the urgency of the intubation. 12 patients (20%) of the HFNC required intubation without delay compared with 16 (51%) in the HFFC group
+No specific mention of airway being kept patent after induction and before intubation. This would effect the success of apnoeic oxygenation with HFNC
+Arterial oxygen measurement would have been more reliable than SpO
+2
+. The authors state that arterial access seemed ‘unthinkable due to the severity of the hypoxaemia and level of endotracheal intubation emergency’. However in 2/3rd of cases, it was concluded that intubation could wait up to one or more hours.
+No doses of muscle relaxant recorded. This may have influenced the difficulty and time to successful intubation
+The Bottom Line
+In this study, using high-flow nasal cannula, without discontinuation during an apnoeic period, was not any more effective
+than using a high FiO
+2
+facemask at 15 l/min for preventing desaturation during RSI. Given the methodological and statistical concerns, this cannot be concluded with certainty, and if the question is still of interest then a larger RCT is needed.
+External Links
+[article abstract]
+High-flow nasal cannula oxygen during endotracheal intubation in hypoxemic patients: a randomized controlled clinical trial
+[further reading]
+PulmCrit:
+Apneic oxygenation and high-flow nasal cannula don’t prevent desaturation during intubation?
+[further reading]
+Weingart S and Levitan R: Preoxygenation and Prevention of Desaturation During Emergency Airway Management
+[podcast]
+Weingart S. EMCrit Podcast 40 – Delayed Sequence Intubation (DSI)
+[further reading]
+Chrimes N. Rise of the Mapleson: comparison of O2 delivery devices for PreOx & ReOx
+Metadata
+Summary author:
+@stevemathieu75
+Summary date: 1st May 2015
+Peer-review editor:
+@DuncanChambler

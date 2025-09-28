@@ -1,0 +1,438 @@
+# Metadata
+- topic: 6.1 - Emergency Medical Services and Disaster Preparedness - Ep.-189-Air-Medical-Transport--191-Rosens-9th-Ed.-
+- source_folder: 6.1 - Emergency Medical Services and Disaster Preparedness
+- original_file: Ep.-189-Air-Medical-Transport-Ch.-191-Rosens-9th-Ed.-.pdf
+
+ 
+ 
+ 
+ 
+ 
+CrackCast Show Notes – Air Medical Transport – June 2017  
+www.canadiem.org/crackcast 
+ 
+ 
+Chapter 191 – Air Medical Transport 
+Key concepts 
+• 
+Boyle’s law and Dalton’s law have the greatest impact and explain the development 
+of hypoxia and most common altitude-related symptoms. Other stresses of flight that 
+can affect the patient or crew include temperature fluctuations, dehydration, noise, 
+and vibration. 
+ 
+• 
+Although most flight programs do both primary (scene flights) and secondary 
+(interfacility) response, ground ambulance remains the primary means of out-of-
+hospital and interfacility patient transport. 
+ 
+• 
+The helicopter offers several advantages over other transport vehicles, including 
+reducing travel time by up to 75%, ability to avoid common ground delays (traffic, 
+obstacles,), and ability to fly into locations that may be inaccessible to other modes of 
+travel. 
+ 
+• 
+All air medical services require involvement of a medical director responsible for 
+supervising, evaluating, and ensuring the quality of medical care. 
+ 
+• 
+As a general rule, helicopters are less useful in urban settings because of the 
+proximity of health care facilities and a lack of open and safe landing zones. 
+ 
+• 
+Helicopter emergency medical service (HEMS) represents the only modality by which 
+nearly 28% of American residents have timely (within 1 hour) access to level I or 
+level II trauma centers, and the research supports an improvement in trauma survival 
+rates compared to ground transport. 
+ 
+• 
+HEMS may benefit in other time-critical situations, including ST-elevation myocardial 
+infarction (STEMI) patients going to a catheterization laboratory and acute stroke 
+patients going to regional stroke centers. 
+ 
+• 
+Safety is the predominant concern of air medical operations. The practice of a 
+requesting EMS agency or hospital calling numerous HEMS programs after other 
+programs have declined the flight because of bad weather, must be avoided. 
+ 
+• 
+Essential considerations for landing zone safety are as follows: vehicles and 
+personnel should be kept at least 100 ft from the landing zone; spectators should be 
+kept at least 200 ft from the landing zone; helicopters should only be approached 
+when signalled to do so by the pilot or an onboard crew member; never approach or 
+depart from the rear of the helicopter; and if the aircraft is parked on a slope, 
+approach and depart on the downhill side (greatest clearance under the blades). 
+ 
+Core questions 
+1. List 6 criteria for air medical transport 
+a. When should/could helicopter EMS transport be beneficial?  
+2. List advantages and disadvantages of rotor-wing aircraft and fixed-wing aircraft,  
+relating to each other and land-transfer. 
+3. What are 6 principles of landing zone safety?  
+ 
+Wisecracks 
+1. What are the most common in-flight emergencies on commercial flights? 
+2. What are some practical implications of providing in-flight emergency care? 
+ 
+ 
+ 
+ 
+ 
+CrackCast Show Notes – Air Medical Transport – June 2017  
+www.canadiem.org/crackcast 
+ 
+ 
+Rosen’s In Perspective 
+Let’s quickly recap a few gas laws. Because they are easy to forget and second, they apply 
+to air medical transport!  
+GAS 
+LAW  
+PRINCIPLE  
+CLINICAL IMPLICATION  
+Boyle's 
+law  
+The volume of a unit of gas is 
+inversely proportional to its 
+pressure.  
+ 
+As altitude increases and 
+atmospheric pressure 
+decreases, the molecules of 
+gas grow apart, and the 
+volume of gas expands.  
+ 
+With descent (increasing 
+atmospheric pressure), the 
+molecules are condensed, 
+and gas volumes contract.  
+ 
+The result is the expansion 
+and contraction of gases 
+within the closed spaces of 
+the body.  
+Squeeze injuries from contraction of air and associated 
+soft tissues can occur on descent, resulting in barotitis, 
+barosinusitis, and toothache.  
+ 
+Reverse squeeze injuries occur on ascent, leading to an 
+increased volume of the air trapped within the space. 
+Examples include the conversion of a simple 
+pneumothorax into a tension pneumothorax and rupture 
+of a hollow viscus.  
+ 
+Medical equipment containing closed air spaces, such 
+as IV tubing and pumps, air splints, ventilators, and 
+endotracheal tube and laryngeal airway cuffs, may also 
+be affected by altitude.  
+ 
+Responsible in part for hypoxia at altitude due to fewer 
+molecules of oxygen present per volume of inhaled gas.  
+Charles' 
+law  
+As the volume of a unit of gas 
+rises, the temperature of that 
+volume falls.  
+Explains why the ambient temperature decreases with 
+increased altitude.  
+Dalton's 
+law  
+The total barometric pressure 
+at any given altitude equals 
+the sum of the partial 
+pressures of gases in the 
+mixture.  
+ 
+Oxygen still constitutes 21% 
+of the atmospheric pressure 
+at altitude.  
+A decrease in arterial oxygen tension with increasing 
+altitude, resulting in hypoxia. Initial physiologic 
+responses to hypoxia include tachypnea and 
+tachycardia.  
+ 
+Initial physiologic responses to hypoxia include 
+tachypnea and tachycardia.  
+ 
+With prolonged exposure, cerebral hypoxia causes 
+headache, nausea, drowsiness, fatigue, 
+unconsciousness, and death.  
+Henry's 
+law  
+The mass of gas absorbed by 
+a liquid is directly proportional 
+to the partial pressure of the 
+gas above the liquid.  
+Sudden decompression at altitude may result in 
+dysbaric injuries.  
+In scuba diving, rapid ascent can result in gas to come 
+out of solution within the bloodstream, resulting in 
+decompression sickness.  
+From Rosen’s table 191.1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CrackCast Show Notes – Air Medical Transport – June 2017  
+www.canadiem.org/crackcast 
+ 
+ 
+What are four potential body cavities affected by Boyle’s law? 
+This law has to do with the effects of gases in an enclosed space.  
+● Middle and inner ear 
+● Sinuses 
+● Teeth 
+● Alveoli or blebs  
+● Bowels  
+ 
+Let’s jump into the facts for today! (If you want the historical perspective and current trends 
+check out the chapter!)  
+ 
+Core questions 
+1) List 6 criteria for air medical transport 
+• 
+Although virtually all types of patients have been transported by air medical 
+services, available data do not allow prospective, identification of which patients 
+will benefit from flight. 
+ 
+• 
+The data is controversial and limited; but here are a few situations where flight 
+may make a difference:  
+o an estimated 20% to 35% improvement in survival rates compared to ground 
+transport, or the saving of three to six lives (fewer for pediatric patients) per 
+100 air medical trauma flights. 
+o Based on time savings alone then, a conservative estimate suggests that 
+properly used HEMS can save one to two lives per 100 STEMI missions. 
+o Possibly patients with stroke who are candidates for reperfusion 
+o Transportation of critically ill neonates and children  
+ 
+Box 191.3 Criteria for Air Medical Transport 
+• 
+Distance to the closest appropriate facility is too great for safe and timely 
+transport by ground ambulance.  
+• 
+Patient's clinical condition requires that the time spent in transport be as 
+short as possible.  
+• 
+Patient's condition is time critical, requiring specific or timely treatment not 
+available at the referring hospital.  
+• 
+Potential for transport delay associated with ground transport is likely to 
+worsen the patient's clinical condition.  
+• 
+Patient requires critical care life support during transport that was not 
+available from the local ground ambulance service.  
+• 
+Patient is located in an area inaccessible to regular ground traffic, impeding 
+ambulance egress or access.  
+• 
+Local ground units are not available for long-distance transport.  
+• 
+Use of local ground transport services would leave the local area without 
+adequate EMS coverage.  
+• 
+For interfacility medical transport, the requesting physician based on 
+his/her best medical judgment and information available at that time of 
+transport determined the need for AMT.  
+• 
+For scene medical transport, the requesting authorized out-of-hospital 
+provider based on applicable policy, his/her best medical judgment and 
+information available at that time of transport determined the need for AMT. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CrackCast Show Notes – Air Medical Transport – June 2017  
+www.canadiem.org/crackcast 
+ 
+ 
+a. When should/could helicopter EMS transport be beneficial?  
+• 
+Distance 
+• 
+Access 
+• 
+Condition 
+• 
+Critical Care or specialized 
+• 
+Inter-facility Needs 
+ 
+2) List advantages and disadvantages of rotor-wing aircraft and fixed-wing 
+aircraft, relating to each other and land-transfer. 
+ 
+3) What are 6 principles of landing zone safety?  
+“Helicopter landing zones are inherently dangerous places. The most obvious risk of injury is 
+impact with rotor blades. This danger is heightened during ground operations, because the 
+blades dip lowest to the ground at the slower rotor speeds associated with engine start-up 
+and shutdown. Injuries also may occur as a result of debris being propelled through the air 
+by “rotor wash,” increased noise levels and an inability to hear warnings, and slippery 
+surfaces found on exposed landing sites.” 
+ 
+           - Rosen’s 9th edition, ch 191 
+● Landing area 
+○ 100 x 100 ft 
+○ Landing personnel > 100ft from landing zone 
+○ FLAT terrain  
+○ Free of debris 
+○ Well lit  
+● Hazards 
+○ Watch for buildings, powerlines, trees 
+○ Remove the area from any loose debris  
+○ No smoking within 50 ft of landing zone 
+● Approach  
+○ Path should point into the wind and be free of obstruction to an altitude of 500 
+ft above the surface. 
+○ Path should not pass over command posts, treatment areas, or operationally 
+congested areas on the ground. 
+○ Clear indicator of wind direction 
+● Communication  
+○ Via radio or hand signals  
+Advantages of fixed wing 
+Advantages of rotary wing 
+● Faster for distances > 250 km 
+● Greater distance range 
+● Less noise  
+● Climate controlled 
+● Pressurized cabin  
+● More room for procedures 
+● Low flight ceiling  
+● On scene landing 
+● Hospital landing 
+● Rapid transport over short 
+distances (able to avoid traffic 
+or geographic obstacles) 
+● Less expensive  
+● Greater weight capacity 
+● Greater physical space for 
+equipment, multiple personnel  
+● Noise 
+● Vibration 
+● Thermal variances 
+● Stressors on patients and crew 
+● Weather 
+● Limited space 
+ 
+ 
+ 
+ 
+ 
+CrackCast Show Notes – Air Medical Transport – June 2017  
+www.canadiem.org/crackcast 
+ 
+ 
+Wisecracks 
+1) What are the most common in-flight emergencies on commercial flights? 
+The aircraft cabin is an environment with hypobaric hypoxia (pressurized to 1500-2500 m) 
+and decreased air pressure.  
+ 
+People with fragile cardiopulmonary disease may develop health problems as their oxygen 
+saturation levels decline (due to the steep oxyhemoglobin desaturation curve) - classic 
+scenario is the patient with angina due to cardiac ischemia.  
+ 
+When it comes to the pressure changes, as you remember from Boyle’s law people with air 
+cavities in their body that can’t be equalized may notice an up to 30% increase in gas 
+volume at altitude. This is an issue in situations such as: pneumothoraces, inflated medical 
+devices, etc. 
+ 
+Most diversions are caused by cardiac (e.g. cardiac ischemia), neurologic (seizures, or 
+pulmonary (e.g. asthma or COPD exacerbation) emergencies. Exact incidence rates vary 
+based on the studies, but here are a few estimates (from Dr. Moore, 2017): 
+ 
+● Syncope 10-35% 
+● Cardiac emergencies 16-23% 
+● GI symptoms 13-30% 
+● Respiratory emergencies 9-10% 
+● Trauma 4-13% 
+● Anxiety 5% 
+● Seizures 3% 
+● ENT 1-9% 
+● Allergies 1% 
+● Other 10% 
+ 
+Triggers 
+● Hypobaric hypoxia 
+● Pressure changes 
+● Exertion, dehydration of travel 
+● Prolonged sitting 
+● Medication nonadherence due to circadian rhythm disruption  
+● Unable to access medications in check bags 
+● ETOH use 
+ 
+● Want to learn more about this? Check out: 
+○ https://www.iata.org/publications/Documents/medical-manual.pdf 
+○ Uptodate: “Management of inflight medical events on commercial airlines” 
+ 
+2) What are some practical implications of providing in-flight emergency care? 
+Some of these implications vary based on the country you are in. For example, 
+USA/Canada/UK have similar laws; whereas many countries in the European Union impose 
+an obligation on physicians to render aid.  
+ 
+a. Physician’s ethical duty to care 
+i. 
+Ethical duty (not necessarily legal)  
+b. Medico-legal implications 
+c. Good Samaritan legislation  
+ 
+ 
+ 
+ 
+ 
+CrackCast Show Notes – Air Medical Transport – June 2017  
+www.canadiem.org/crackcast 
+ 
+ 
+d. The Samaritan is protected against malpractice litigation, if the following 
+conditions are met: 
+• 
+The Samaritan is medically qualified to perform the service 
+• 
+The Samaritan acts voluntarily 
+• 
+The Samaritan acts in good faith 
+• 
+The Samaritan does not engage in gross negligence or willful 
+misconduct 
+• 
+The Samaritan receives no monetary compensation (seat upgrades 
+and travel vouchers do not count as compensation) 
+ 
+A few general recommendations from Uptodate:  
+• 
+Obtain passenger consent whenever possible. 
+• 
+Use an interpreter if necessary and available. 
+• 
+Ask whether ground-based medical support is available to help you, particularly if 
+the situation falls beyond your medical specialty or skill set. 
+• 
+Recommend diversion to the closest appropriate airport for any serious condition 
+(remember that the captain is not obligated to follow your recommendation). 
+• 
+Document the following in writing: history, examination, impression, treatment, 
+and communication with crew and ground medical support. 
+• 
+Be cautious with unfamiliar interventions. 
+• 
+Do not accept or request financial compensation for any medical assistance 
+provided. Some airlines will offer a token of gratitude, such as travel vouchers, 
+seat upgrades, or credit for travel miles, and these may be accepted as a gift, but 
+not as compensation. 
+• 
+If you have ingested any alcohol or medications that may impair your alertness or 
+judgement, it is best not to care for a sick or injured patient. An intoxicated or 
+impaired medical provider is at risk of being categorized as engaging in "gross 
+negligence and willful misconduct." As such, not only might you harm the patient, 
+but you would not be covered under the AMAA Good Samaritan Law. 
+• 
+Good Samaritan laws apply to in-flight medical emergencies. They do not apply 
+to non-emergency medical advice that you may provide. 
+ 
+From Uptodate  

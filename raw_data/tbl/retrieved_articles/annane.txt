@@ -1,0 +1,116 @@
+# Metadata
+- Source: The Bottom Line
+- Title: Annane
+- Original URL: https://www.thebottomline.org.uk/summaries/icm/annane/
+- Scrape Date: 2025-07-17
+- Summary Date: AUTO_FILL_IF_AVAILABLE
+
+Effect of Treatment With Low Doses of Hydrocortisone and Fludrocortisone on Mortality in Patients With Septic Shock
+Annane et al. JAMA 2002; 288:862-871. doi:10.1001/jama.288.7.862
+Clinical Question
+In patients with septic shock and relative adrenal deficiency does low dose corticosteroids improve 28 day mortality?
+Design
+Randomised controlled trial
+Double blind
+Parallel group
+Block randomisation stratified by centre
+Intention to treat analysis
+Sample size of 270 patients required to detect a a 20% difference on the 28 day mortality rate between the 2 groups, assuming a mortality rate of 95% in the non responder placebo subgroup, and a frequency of non responders of 40% in the study population
+false positive rate of 5%
+false negative rate of 10%
+Setting
+19 ICUs in France
+November 1995 to February 1999
+Population
+Inclusion: adult patients with acute septic shock as defined by the presence of all of the following criteria
+documented or strong suspicion of infection as evidenced by any of the following
+polymorphs in normally sterile body fluid (except blood)
++ve Culture or Gram stain
+clinical focus of infection e.g. fecal peritonitis, wound with purulent discharge, pneumonia
+temp >38.3C or < 35.6C
+HR >90
+BP <90 for 1hr+ despite adequate fluid replacement and >5ug/kg dopamine or current treatment with epinephrine/norepineprine
+urinary output <0.5ml/kg for >1hr or PaO2/FiO2 ratio <280mmHg
+arterial lactate >2mmol/l (amended on 18.07.1996. and added as option to 5th criterion as opposed to stand alone criteria
+need for mechanical ventilation
+within 3 hours of onset of shock (amended to 8hrs on 18.07.1996.)
+Exclusion: pregnant, acute myocardial infarction, pulmonary embolism, advanced cancer, AIDS, contraindication to steroids
+amended on 19.06.1997. to exclude patients who had received etomidate in 6hrs prior to randomisation
+300 patients randomised
+all had short corticotropin test performed
+relative adrenal sufficiency (i.e. nonresponders) defined by response of ≤9μg/dL
+Intervention
+hydrocortsone and fludrocortisone
+hydrocortisone 50mg IV every 6 hours for 1 week
+fludrocortisone 50μg once daily for 1 week
+Control
+Placebo
+Outcome
+Primary outcome: 28 day survival distribution from randomisation in nonresponders to the short corticotrophin test – significant improvement in steroid group
+median time to death 12 days vs 24 days, mortality rates as per secondary outcomes
+hazard ratio 0.67; 95% C.I. 0.47-0.95, P=0.02, NNT 7 (95% C.I. 4-49)
+Secondary outcomes:
+28 day survival distribution from randomisation in responders to the short corticotrophin test – no significant difference
+median time to death 14 vs 16.5 days, mortality rates as below
+P=0.81
+comparing placebo to steroid
+28 day mortality
+in non-responders to ACTH test – when adjusted for baseline characteristics significantly higher in placebo group
+73 (63%) vs. 60 (53%), P=0.04
+in responders to ACTH test – no significant difference
+18 (53%) vs. 22 (61%), P=0.96
+in all patients – no significant difference
+91 (61%) vs. 82 (55%)
+median time to vasopressor withdrawal
+in non-responders – significantly longer in placebo group
+10 days vs. 7 days, P=0.001
+in responders – no significant difference
+7 days vs. 9 days, P=0.49
+Post-hoc analysis
+by day 28 vasopressor had been withdrawn
+in non-responders – significantly higher in steroid group
+40% in placebo vs.  57% in steroid group, P=0.01
+in responders – no significant difference
+53% in placebo and 50% in steroid group, P=0.81
+No significant difference in rates of infection or gastro-intestinal bleeding
+Authors’ Conclusions
+Low dose hydrocortisone and fludrocortisone reduced the risk of death in patients with septic shock and relative adrenal insufficiency without increasing adverse events
+Strengths
+Randomised
+Double blinded
+Multi-centre
+93% of patients treated with appropriate antibiotics, similar in both groups
+Weaknesses
+Primary outcome was survival distribution. This is not particularly helpful as demonstrating that a patient survives for a few more days will not convince me that the treatment is beneficial. It would have much better if the primary outcome had been 28 day mortality.
+The results for 28 day-mortality were only statistically significant when adjusted for baseline characteristics. When the raw data is used the results are no longer significant and this is despite the fact that the baseline characteristics were similar between the 2 groups.
+24% of patients received etomidate that inhibits adrenal corticosteroid synthesis
+Time to antibiotics was delayed, compared to current standards (mean 6hrs in placebo vs. 7.1hrs in steroid group)
+Only 300 patients randomised from 1326 screened. This limits the external validity.
+Differences Between Annane and Corticus Trials
+This study found that patients with septic shock, and relative adrenal deficiency, who were treated with low dose steroids had a significantly improved mortality. This is in contrast to the CORTICUS study which found no improvement in mortality. However, CORTICUS was only powered at 35% to detect a 20% relative reduction of death (ref:
+Finfer editorial
+)
+CORTICUS reported a reduction in time to reversal of shock in all patients treated with steroids whereas this study only found this benefit in patients with relative adrenal deficiency.
+This study included a sicker population than CORTICUS as evidenced by a higher SAPS II Score and mortality.
+The Bottom Line
+The two biggest studies regarding the use of steroids for septic shock have found conflicting results. On the basis of these studies I will not use steroids as routine for patients with septic shock due to the potential side effects. However in patients that are not responding to treatment and are at high risk of death, I will continue to use steroids as some benefits have been reported. I will not base my decision on the corticotrophin result as other
+studies
+have reported a number of limitations with using this test in critically ill patients. I eagerly await the results of the ADRENAL study which will hopefully allow a more evidenced based decision to be made.
+External Links
+[Article full text]
+Effect of Treatment With Low Doses of Hydrocortisone and Fludrocortisone on Mortality in Patients With Septic Shock by Annanne
+[Further reading]
+Survival Distribution Statistics by Prof Madigan of Columbia Uni
+[Further listening]
+Steroids in Sepsis by Jeremy Cohen via ICN/SMACC
+[Further reading]
+Steroids and Septic Shock Literature Summaries by LITFL
+[Further reading]
+The ADRENAL study protocol: adjunctive corticosteroid treatment in critically ill patients with septic shock by Venkatesh et al.
+A trial of corticosteroids in patients with sepsis, aiming to recruit 3,800 patients to answer this same clinical question
+Metadata
+Summary author:
+@davidslessor
+Summary date: 3 August 2014
+Peer-review editor:
+@DuncanChambler

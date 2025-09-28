@@ -1,0 +1,233 @@
+# Metadata
+- Source: The Bottom Line
+- Title: RENOVATE – High-Flow vs NIV
+- Original URL: https://www.thebottomline.org.uk/summaries/icm/renovate-high-flow-vs-niv/
+- Scrape Date: 2025-07-17
+- Summary Date: AUTO_FILL_IF_AVAILABLE
+
+High-Flow Nasal Oxygen vs Noninvasive Ventilation in Patients with Acute Respiratory Failure
+RENOVATE and BRICNet Authors. JAMA 2024. doi: 10.1001/jama.2024.26244
+Clinical Question
+In adult patients with acute respiratory failure does the use of
+high-flow nasal oxygen compared to
+noninvasive ventilation reduce the
+rate of endotracheal intubation or death at 7 days?
+Background
+Both high-flow nasal oxygen (HFNO) and noninvasive ventilation (NIV) have been used to treat acute respiratory failure (ARF) due to various causes
+Patients may have poor tolerance for NIV due to discomfort
+HFNO has advantages over NIV when it comes to patient comfort and ease of use
+HFNO offers certain physiological benefits including improved gas exchange  alongside humidification and enhancing secretion clearance
+However, HFNO may be less effective than NIV in reducing the work of breathing in ARF
+Previous trials include:
+FLORALI
+In patients with acute hypoxaemic respiratory failure without hypercapnia, there was no significant difference in intubation rates between groups treated with standard face mask oxygen, HFNO or NIV
+There was a significant difference in favour of HFNO in 90-day mortality
+HERNADEZ et al
+HFNO was non-inferior to NIV in preventing reintubation in high-risk post extubation patients
+Patients on HFNO reported greater comfort and fewer complications.
+Considerable uncertainty remains when comparing the effectiveness of HFNO vs NIV
+Design
+Prospective, randomised controlled trial
+Multi-centre
+Patients divided into groups with pre-specified definitions:
+Non-immunocompromised
+Immunocompromised
+COPD with respiratory acidosis
+Acute cardiogenic pulmonary oedema (ACPO)
+Hypoxemic COVID-19 (added later)
+COVID-19 patients initially entered in the initial 4 groups, until interim analysis in March 2023. The decision to separate COVID-19 patients were based on a potentially significantly different intubation rates
+Bayesian adaptive trial design
+Different weakly informative prior used for each of 5 different conditions (given in supplemental material)
+The primary outcome was analysed using bayesian hierarchical modelling with
+dynamic borrowing
+across the 5 patient groups
+One concern about integrating a Bayesian prior with new data to form a posterior probability is the assumption that the new and prior data sets are “exchangeable”. Dynamic borrowing attempts to ameliorate these concerns by using more or less information depending on how well the prior information and new data sets match
+Non-inferiority trial
+The non-inferiority margin (OR 1.55) was based on a meta-analysis demonstrating a 36% absolute effect of NIV compared with low flow oxygen on rates of endotracheal intubation → a
+n absolute difference of 10% for a non-inferiority margin was chosen → this was converted to an OR based on a 30% event rate
+Noninferiority was declared if the noninferiority posterior probability > 0.992
+If non-inferiority was demonstrated, then superiority was declared if the superiority posterior probability was also higher than 0.992 for an OR < 1
+Frequent interim analyses used to allow for the stopping of individual patient groups based on futility, non-inferiority or superiority
+Enrolment stopped in April 2021 for futility in the immunocompromised group
+Enrolment stopped in March 2023 for non-inferiority in COVID-19 and in Oct 2023 for the nonimmunocompromised group and ACPO group
+Enrolment continued as planned until the final analysis for COPD patients
+Randomisation
+Electronic 1:1 randomisation with permuted block sizes that were unknown to the investigators
+Stratified by centre and ARF patient groups
+Pre-published trial protocols and statistical analysis plan
+Consent sought after enrolment due to the urgency of clinical decision making
+Setting
+33 Brazilian hospitals
+November 2019 to November 2023
+Population
+Inclusion Criteria:
+Aged ≥18 years admitted to ICU/ED or hospital wards with ARF
+Spo2 <90% or PaO2 <60mmHg on room air AND signs of increased respiratory effort or tachypnoea (>25bpm)
+Main Exclusion Criteria:
+Patients who had an urgent need for endotracheal intubation
+Prolonged respiratory pauses
+Cardiorespiratory arrest
+Glasgow coma scale score ≤ 12
+Heart rate < 50 beats/min with decreased level of consciousness
+Arterial blood pH < 7.15 irrespective of the cause
+Haemodynamic instability
+Contraindication to NIV (vomiting, secretions, GCS < 12, pneumothorax)
+Do not intubate order
+NIV use in ACPO group prior to randomisation
+2731 patients with ARF
+→
+1800 randomised
+Of those excluded, ~5% were eligible but not randomised
+HFNO vs NIV: 883 vs 883
+Nonimmunocompromised (eFigure 2)
+1978 assessed →
+670 HFNO and 663 NIV → after moving patients to COVID-19 group → 249 HFNO and 236 NIV included in primary analysis
+Median duration: 2 vs 1 days
+9.2% (HFNO) vs 2.1% (NIV) crossed over
+Dexmedetomidine within 7 days: 12.9% vs 18.6%
+Immunocompromised (eFigure 3)
+98 assessed → 44 HFNO and 42 NIV → after moving patients to COVID-19 group → 28 HFNO and 22 NIV included in primary analysis
+Median duration: 3 vs 2 days
+3.6% (HFNO) vs 0% (NIV) crossed over
+Dexmedetomidine within 7 days: 10.7% vs 18.2%
+ACPO (eFigure 4)
+469 assessed →
+146 HFNO and 148 NIV
+→ after moving patients to COVID-19 group → 136 HFNO and 136 NIV included in primary analysis
+Median duration: 1 vs 1 days
+5.1% (HFNO) vs 0% (NIV) crossed over
+Dexmedetomidine within 7 days: 9.6% vs 8.1%
+COPD (eFigure 5)
+186 assessed → 40 HFNO and 47 NIV → after moving patients to COVID-19 group → 35 HFNO and 42 NIV included in primary analysis
+Median duration: 1 vs 1.5 days
+22.9% (HFNO) vs 0% (NIV) crossed over
+Dexmedetomidine within 7 days: 11.4% vs 21.4%
+COVID 19
+895 included
+→ 435 HFNO and 447 NIV included in primary analysis
+Median duration: 3 vs 2 days
+9.0% (HFNO) vs 7.6% (NIV) crossed over
+Dexmedetomidine within 7 days: 13.1% vs 26.2%
+Baseline characteristics:
+Comparing HFNO vs NIV:
+Mean age: 64 vs 64
+Female Sex: 39 vs 41%
+Randomised in ICU: 61 vs 60%
+SAPS3: 57 vs 57
+Time from diagnosis of ARF to randomisation: 1 vs 1 hr
+Pre-randomisation use of NIV: 26 vs 26%
+Median P/F ratio: 172 vs 180
+Patients were well matched in baseline characteristics with respect to physiological parameters and comorbidities
+Intervention
+HFNO
+Received by 93.3% of patients
+Continuous delivery
+Airvo-2, Fisher & Paykel Healthcare
+Settings
+Flow rate
+Different starting flow rate for various patient groups
+COPD: 30L/min
+Other groups: 45L/min
+Titrated up to 60L/min as tolerated
+FiO2
+Started at 50%
+COPD: titrated for SpO2 88-92%
+Other groups: 92-98%
+NIV rescue therapy was allowed for COPD and cardiogenic APO groups
+Control
+NIV through a face mask
+Received by 91.5% of patients
+Settings
+Pressure
+COPD: IPAP 12-16cmH2O, EPAP 4cmH2O
+Other groups: IPAP 12-14cmH2O, EPAP 8cmH2O
+Pressure setting could be increased independently by 1 or 2 cmH2O until
+Maximum IPAP of 20cmH2O and maximum EPAP of 12cmH2O, or
+Patient tolerability and signs of clinical improvement
+Tidal volume
+6-9ml/Kg of ideal body weight
+FiO2
+The same targets as HFNO group
+24hr use of NIV was encouraged
+There was a lower duration of therapy use within the first 48hrs
+Management common to both groups
+Allowed to wean from intervention or control after 24hrs
+Both HFNO and NIV had clear weaning strategies
+HFNO considered weaned when FiO2 ≤ 0.3 and flow rate ≤ 30L/min with SpO2 in target range
+NIV considered weaned when FiO2 ≤ 0.3 and pressure support ≤ 6 cmH20 with SpO2 in target range
+Pre-defined endotracheal intubation criteria
+The final decision about endotracheal intubation was made by the attending physician
+Outcome
+Primary outcome
+:
+Endotracheal intubation or death within 7 days of randomisation
+HFNO 39% (344/883) vs NIV 38.1% (336/883)
+Non-inferiority reached in patient groups of nonimmunocompromised, COPD, ACPO and COVID-19
+Secondary outcomes
+: none were significantly different for all 5 groups:
+28-day mortality
+90-day mortality
+Mechanical ventilation-free days at 28 days
+ICU-free days at 28 days
+Tertiary outcomes
+: comfort was superior with HFNO (eTable 8), otherwise none were different for all 5 groups:
+Hospital LOS within 90 days
+ICU LOS within 90 days
+Vasopressor-free days within 28 days
+The proportion of patients who received a do-not-intubate order within 7 days after randomisation
+Authors’ Conclusions
+Compared with noninvasive ventilation, high-flow nasal oxygen met pre-specified criteria for non-inferiority for the primary outcome of endotracheal intubation or death within 7 days in 4 of the 5 patient groups with acute respiratory failure
+Further studies warranted for patients with COPD, immunocompromised patients and patients with ACPO
+Strengths
+Large multicentre trial
+Randomised with well-matched baseline characteristics.
+A pragmatic trial that analysed patients with diverse ARF aetiologies, allowing for subgroup analyses
+This improves the generalisability of the trial
+Well written and detailed protocol for setting, titration and weaning of intervention and control alongside clear parameters for intubation
+Largely low rates of crossover for a trial of this magnitude
+Adaptive bayesian design allowed dynamic borrowing of information across patient groups
+This potentially avoided loss of information and systematic overestimation of the variability of treatment effects across patient groups
+Intention to treat analysis
+Blinded steering committee
+Protocol amendment to separate patients with COVID-19 was necessary and provided useful, practical data. This amendment was made by a blinded steering committee.
+Examined wide range of short-term and long-term outcomes
+Importantly assessed outcomes such as comfort score which are important for tolerance of an intervention
+Weaknesses
+Unblinded to both patients and clinicians (impractical to blind)
+This introduces potential bias, especially given the final decision to intubate was at the discretion of the treating physician
+High rates of intubation however in COPD groups suggest this might not be the case however
+Patients with COVID-19 were not classified into a separate group until March 2023
+Composite outcomes of intubation and death within 7 days vary in clinical importance.
+The primary outcome was changed at the fifth version of the protocol to include death
+A 10% absolute difference (correlating to an OR of 1.55) for the non-inferiority margin is high especially when mortality is considered as a component of the composite
+Initial calculations were based on event rates for intubation only
+Some concerns around internal validity:
+Small sample sizes in COPD and immunocompromised patient groups result in wide credible intervals
+Further studies in these groups are needed
+23% cross over in COPD HFNO group for rescue NIV
+Adherence to HFNO was good, however there was more support interruption in the NIV group, presumably due to poor patient tolerance
+A median of 10-13 hours of NIV across the groups was provided on day 1 despite 24 hours of NIV being encouraged
+Enrolment in immunocompromised group was stopped after only first interim analysis and as such the stopping criteria for futility might have been set too high; a lower threshold may have resulted in different results
+Some concerns around external validity / generalisability:
+Single country
+Large numbers excluded after meeting exclusion criteria:
+Several ARF subgroups such as post-surgical respiratory failure
+Patients ACPO who received NIV prior to randomisation were excluded
+A post hoc sensitivity analysis without borrowing showed significantly different results, especially in the COPD and immunocompromised groups
+Further work to understand the utility of dynamic borrowing in critical care trials is warranted
+The Bottom Line
+This trial demonstrates that HFNO is non-inferior to NIV in preventing intubation and mortality at 7 days in certain patient subgroups
+HFNC’s simpler setup and improved tolerability make it a compelling first-line option in selected ARF scenarios, especially when patient co-operation with NIV is challenging and whilst a patient’s trajectory is established
+External Links
+article
+High-Flow Nasal Oxygen vs Noninvasive Ventilation in Patients With Acute Respiratory Failure The RENOVATE Randomized Clinical Trial
+editorial
+Is High-Flow Oxygen the Standard for All Patients With Acute Respiratory Failure?
+editorial
+Reevaluating Respiratory Support in Acute Respiratory Failure—Insights From the RENOVATE Trial and Implications for Practice
+CCR Down Under Day 2
+Metadata
+Summary author: Zoe Guo
+Summary date: 14th December 2024
+Peer-review editor: George Walker
+Picture by: Cassidy Muir / Pexels

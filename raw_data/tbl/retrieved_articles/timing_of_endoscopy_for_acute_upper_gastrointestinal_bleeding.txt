@@ -1,0 +1,147 @@
+# Metadata
+- Source: The Bottom Line
+- Title: Timing of Endoscopy for Acute Upper Gastrointestinal Bleeding
+- Original URL: https://www.thebottomline.org.uk/summaries/em/timing-of-endoscopy-for-acute-upper-gastrointestinal-bleeding/
+- Scrape Date: 2025-07-17
+- Summary Date: AUTO_FILL_IF_AVAILABLE
+
+Timing of Endoscopy for Acute Upper Gastrointestinal Bleeding
+Lau, J.Y.W et al. NEJM 2020; 382:1299 – 1308. doi:10.1056/NEJMoa1912484
+Clinical Question
+In patients with acute upper GI (UGI) bleeding and a Glasgow-Blatchford score ≥ 12, does endoscopy performed within 6 hours of gastroenterological consultation, compared with endoscopy performed within 6 – 24 hours have a lower 30 day mortality?
+Background
+Endoscopy for acute UGI bleed is recommended within 24 hours by an
+International Consensus Group
+The optimal timing within the first 24 hours is unclear
+Prior work has looked at immediately following admission vs. 1-2 days and 6 hours vs 48 hours
+No differences in mortality or re-bleeding were found
+The Glasgow-Blatchford score (GBS) assesses whether a patient with an acute UGI bleed will require a medical intervention
+Scoring is based on a range of clinical and biochemical parameters including:
+urea and haemoglobin levels, systolic BP, HR, presentation with melaena or syncope, co-morbid cardiac failure or hepatic disease
+Typically a score ≤ 1 has minimal risk of needing an intervention (so outpatient follow-up can be instigated), where as a score ≥ 7 has the greatest need of an intervention
+Design
+Patients randomly assigned (1:1) using a computer generated sequence
+Screened by gastroenterology team in ED or on admission to a medical ward
+Written informed consent from all patients
+Analysed on an intention to treat basis
+Power calculations determined a sample size of 258 in each arm would provide 80% power to detect an 8% absolute difference in 30 day mortality
+Preliminary work revealed that 21% of patients had a GBS of ≥ 12 and these patients had a 16% 30 day mortality
+Pre-specified secondary outcomes included endoscopic intervention during first endoscopy, further bleeding episodes or requirement for endoscopic treatment, hospital and ICU length of stay, emergency surgery or angiography, blood transfusion and adverse events within 30 days
+Local ethics granted and registered with clincaltrials.gov
+Setting
+Hong Kong
+July 2012 – October 2018
+Population
+Inclusion
+> 18 years old
+Overt signs UGI bleeding (haematemesis, malaena or both)
+GBS ≥ 12
+Exclusion
+:
+< 18 years old
+Unable to provide written consent
+Pregnant
+Moribund from terminal illness
+Those in shock or whose condition did not stabilise after initial resuscitation
+4715 screened → 598 had a GBS of ≥ 12 → 516 enrolled (258 in each arm)
+Comparing urgent vs. early groups, baseline demographics (age, sex, co-morbidities, risk factors for UGI bleeding, vital signs and endoscopic findings) were similar:
+Age: 70 vs 71
+Systolic BP: 110 vs. 108
+Glasgow-Blatchford score: 13.7 vs. 13.7
+Time from presentation to gastroenterologic consultation: 7.4 vs. 8.0 hours
+Peptic ulcer: 61.2% vs. 61.6%
+Slight variations between groups included:
+60.9% vs. 65.1% were male
+29.8% vs. 25.2% used aspirin
+9.7% vs. 7.4% had varices
+Intervention
+Urgent endoscopy (n=258)
+within 6 hours of gastroenterology consultation (mean time of 2.5 hours post gastroenterology consultation, and 9.9 hours after initial presentation)
+Control
+Early endoscopy (n=258)
+between 6 – 24 hours of gastroenterology consultation (mean time of 16.8 hours post gastroenterology consultation and 24.7 hours after initial presentation)
+if seen between 0000 and 0800 would have endoscopy during morning endoscopy list with > 6 hours between consult and endoscopy.
+if seen between 0800 and 2359 would undergo endoscopy the next morning.
+Management common to both groups
+Pre-endoscopy:
+Both groups received IV PPI infusion (80mg bolus + 8mg/hr) on admission
+If suspected variceal bleeding a vasoactive drug and antibiotics were given
+During endoscopy:
+ulcers with bleeding or visible vessel treated with haemoclips or contact thermocoagulation +/- preinjection of diluted adrenaline
+varices treated with band ligation and injection of cyanoacrylate
+Post endoscopy:
+72 hours of PPI infusion
+Outcome
+Primary outcome
+:
+All cause mortality at 30 days – no significant difference
+8.9% in urgent group vs. 6.6% in early group
+Difference 2.3% (95% C.I. -2.3 to 6.9)
+Hazard ratio 1.35 (95% C.I. 0.72-2.54, p=0.34)
+Secondary outcomes
+:
+Endoscopic treatment during initial endoscopy – significantly greater in urgent group
+60.1% vs. 48.4% (HR 1.24, 95% C.I. 1.06-1.46)
+No significant difference in:
+Further bleeding within 30 days
+10.9% vs. 7.8% (HR 1.46, 95% C.I. 0.83-2.58)
+Median duration of hospitalisation post randomisation
+5 vs. 5 days
+Red cell transfusion
+90% vs. 91%
+Post-hoc analysis
+Among patients who had peptic ulcers: ulcers with active bleeding or visible vessels – significantly greater in urgent group
+66.4% vs. 47.8%
+Deaths from upper GI bleeding – no significant difference
+1.9% in urgent group vs. 0.8% in early group
+Authors’ Conclusions
+Endoscopy performed within 6 hours of gastroenterology consultation rather than 6 – 24 hours did not reduce 30 day mortality
+Strengths
+Designed to answer a question with limited evidence, which is commonly asked of the gastroenterology teams by acute inpatient teams
+Outcome measure is easy to assess (there is no subjective requirement of the trial team to discern whether the mortality is related to the UGI bleeding or intervention)
+This makes the results more robust and reproducible
+For example, a hospital acquired pneumonia could in part have been partially caused by aspiration during the sedation required for an endoscopy. This may not have been recorded if deaths only related to GI bleeding were the primary outcome
+Randomised trial
+Well balanced baseline characteristics
+Analysed on an intention to treat basis
+Weaknesses
+The timings are from gastroenterology consultation not presentation
+The authors defend this in a letter by saying that “access to specialist care is dependent on referrals”
+This is an acceptable argument in principle, but the mean time from presentation to consultation was 7.4 hours in the urgent group and 8.0 hours in the early group
+If the time from presentation to endoscopy is analysed then:
+In the urgent group 183/254 (72%) had an endoscopy > 6 hours from presentation.
+of these 114/255 (44.7%) were from 6 – 12 hours from presentation
+In the early endoscopy group 142/253 (55%) had an endoscopy > 24 hours from presentation
+This makes it difficult to compare this work with other work, or necessarily apply it widely if times to consultation times (a locally dependent variable) differ
+These findings can not be applied to unwell patients with UGI bleeding:
+The authors do acknowledge this, but it limits its wider applicability in critical care
+This is evidenced by:
+Mean Systolic BP 109.6 mmHg (urgent) vs 107.8 mmHg (early) in each group
+HR > 100 bpm 32.9% (urgent) and 35.7% (early)
+ICU admission only required in 4 (urgent) and 3 (early) groups
+82 patients had a GBS 12 or greater but were not randomised – 32 of these were admitted with shock and underwent emergency endoscopy
+20 in the early endoscopy arm underwent emergency endoscopy – 15 of which occurred < 6 hours (this cross-over reduces internal validity)
+The preliminary study’s results which were used for the power calculations expected a 30d mortality of 16%.
+In this study the 30d mortality was 7.8% (across both arms, of which a majority died from “cancer related deaths”)
+Additionally power calculations were based on a 50% relative reduction in mortality which seems unrealistic, especially given the more unwell patients are excluded and all patients should have received an endoscopy within 24 hours of consultation
+Study conducted in Hong Kong only, which limits external validity
+The Bottom Line
+In patients with high risk upper GI bleeding, who were treated with pre-endoscopy PPI and were not in persistent shock, an endoscopy performed at a median of 10 hours vs. a median of 25 hours post presentation did not reduce 30 day mortality
+Personally, given the fact that the patients were relatively stable I will not be using this study to inform my management of critical care patients admitted with acute UGI bleeds, or let this trial be used as an argument to delay endoscopy for an unwell patient
+It’s utility (within the confines of its weaknesses) would be for those patients in ED or on the acute medical take
+The reduction in endoscopic interventions in the early group is interesting and warrants further research
+External Links
+[abstract]
+Timing of Endoscopy for Acute Upper Gastrointestinal Bleeding
+[further reading & podcast]
+REBEL CAST: Timing of endoscopy for UGIB
+[further reading]
+Comparison of risk scoring systems for patients presenting with upper gastrointestinal bleeding: international multicentre prospective study
+[further reading]
+Optimal timing of endoscopy in patients with acute upper gastrointestinal bleeding
+Metadata
+Summary author:
+George Walker
+(@hgmwalker89)
+Summary date: 4th August 2020
+Peer-review editor: @davidslessor

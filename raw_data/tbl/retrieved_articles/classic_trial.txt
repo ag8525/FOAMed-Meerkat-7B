@@ -1,0 +1,155 @@
+# Metadata
+- Source: The Bottom Line
+- Title: Classic Trial
+- Original URL: https://www.thebottomline.org.uk/summaries/icm/classic-trial/
+- Scrape Date: 2025-07-17
+- Summary Date: AUTO_FILL_IF_AVAILABLE
+
+Restriction of Intravenous Fluid in ICU Patients with Septic Shock
+Meyhoff T. NEJM 2022; DOI: 10.1056/NEJMoa2202707
+Clinical Question
+In adult patients in ICU with septic shock, does a restrictive approach to fluid therapy compared to a standard care result in fewer deaths at day 90?
+Background
+Fluid therapy in the critically unwell has been widely studied across many patient populations
+Higher volumes of fluid in patients with sepsis and septic shock has been associated with harm, although a
+meta-analysis
+showed that the quality of evidence was very low
+The
+ANDROMEDA SHOCK
+trial demonstrated in those with septic shock, that by 2 hours only ~25% of patients were deemed to still be fluid responsive
+The
+CLASSIC
+pilot study showed that a restrictive fluid strategy was feasible and showed significantly less fluid was used in the first 5 ICU days in the restrictive group
+Mortality at day 90 was an exploratory outcome and this was reduced in the restrictive group, although not significantly
+Design
+Stratified, parallel-group, open-label, international, randomised controlled trial
+Randomised 1:1 using a central web based system
+Block sizes of 6 or 8
+Stratified according to site and presence/absence of metastatic or haematological malignancy
+Treatment group assignments not masked for clinicians, patients or investigators
+Those on data safety monitoring committee, statisticians assessing the outcomes, and the management committee writing the abstract draft were blinded
+Received assigned intervention from randomisation until ICU discharge (for a maximum of 90 days)
+If re-admitted within 90 days then treatment assignment continued
+Data collected from medical records and registries
+Patients or relatives contacted if further information needed
+Pre-specified subgroups included need for respiratory support, AKI, Lactate > 4 mmol/L, weight > 76kg, > 30mls/kg of fluids administered in 24 hours prior to randomisation
+Power calculation
+1554 patients needed to show a 7% absolute reduction in 90 day mortality from a baseline of 45%
+Type I and II error rates of 5% and 20% respectively
+Based on pilot study, prior RCTs and systematic reviews
+Registered with
+clinicaltrials.gov
+Setting
+31 ICUs in Europe
+November 2018 to November 2021
+Population
+Inclusion
+:
+Age ≥ 18
+Septic Shock according to Sepsis-3
+Suspected or confirmed infection, plasma lactate > 2mmol/L and vasopressor requirement
+1L of fluid administered in the prior 24 hours
+Within 12 hours of screening
+Exclusion
+:
+Septic shock > 12 hours
+Life threatening bleeding
+Burns > 10% TBSA
+Known Pregnancy
+2223 screened –> 1554 randomised
+770 to restrictive group
+784 to standard group
+Comparing baseline characteristics of restrictive vs. standard group
+Age (yrs): 71 vs 70
+Male (%): 59.9 vs 58.2
+Median time from ICU admission to randomisation (hrs): 3 vs 3
+Median predicted mortality (%): 40 vs 40
+Source of admission (%)
+ED: 39.3 vs 38.5
+Wards: 34.2 vs 38.7
+Source of infection (%):
+GI: 36.8 vs 38.3
+Respiratory: 27.7 vs 26.5
+Urinary: 15.8 vs 17.1
+Median highest lactate (mmol/L): 3.8 vs 3.9
+Median highest dose of noradrenaline (μg/kg/min): 0.25 vs 0.23
+Median volume of IV fluids in prior 24 hours (L): 3.2 vs 3.0
+Systemic glucocorticoid use (%): 28.6 vs 29.1
+Use of respiratory support (NIV, IMV): 52.6 vs 48.6
+Intervention
+Restrictive Group
+Fluids could be given for:
+Severe hypoperfusion:
+Lactate > 4 mmol/L
+MAP < 50 mmHg (with or without vasopressors/inotrope)
+Mottling beyond kneecap
+Urine Output < 0.1ml/kg (only within first 2 hours post randomisation)
+If met any of these criteria then 250-500mls bolus of crystalloid could be given followed by re-evaluation
+Overt losses (e.g. D+V) but only to correct for loss and not more
+If oral or enteral route contraindicated for water or electrolyte solutions then IV fluids could be given to correct electrolyte derangements and to ensure a 1L/24hrs total intake
+Fluids with medications and nutrition count as input
+Fluids for medications should be reduced to lowest possible volume
+Control
+Standard Care
+No upper limit for use of fluids
+IV fluids should be given based on SSC guidelines in case of circulatory impairment
+IV fluids should be given to replace observed or expected losses to correct dehydration or electrolyte derangements
+IV fluids should be given as maintenance in places with protocols that recommend this
+Management common to both groups
+Isotonic crystalloids used
+Albumin only allowed following abdominal paracentesis
+Concomitant interventions for septic shock detailed in trial protocol (appropriate antibiotics, noradrenaline as a vasopressor, source control and RRT for routine indications)
+All other treatment including diuretic use at discretion of treating clinicians
+Outcome
+Primary outcome
+:
+Death by day 90
+Restrictive 42.3% vs Standard 42.1%
+Adjusted absolute difference 0.1 (95% CI -4.7 to 4.9), p = 0.96
+Secondary outcomes
+:
+No significant difference in:
+Number of Serious Adverse Events
+Number of days alive without life support
+Number of days alive and out of the hospital
+Authors’ Conclusions
+In adult ICU patients with septic shock, IV fluid restriction did not result in fewer deaths at 90 days compared to standard IV fluid therapy
+Strengths
+Randomised
+Multi-centre trial involving 31 ICUs across 8 European countries increases external validity
+Pre-published
+statistical analysis plan
+Intention to treat analysis
+Minimal loss to follow up (0.6%)
+Balanced baseline characteristics
+Unwell patient cohort
+Achieved a separation in fluids administered via trial protocol
+Weaknesses
+Unblinded
+The most common infection source was GI – this may have necessitated large volumes of replacement fluid if diarrhoea or vomiting were prominent features
+Powered for a 7% reduction in mortality
+Large volumes of fluid given outside of the trial protocol
+Nearly 3L of fluid given to each group in 24 hours prior to randomisation
+The total difference in fluids administered by day 5 was only ~2L (8.8L vs 10.8L), with a difference of only ~800mls in the cumulative day 5 fluid balance
+These similarities between the groups may result if the standard care delivered in ICUs is already a relatively restrictive (e.g. no maintenance) fluid strategy
+This potentially biases the results towards the null
+Large numbers of protocol violations (% patients with at least one violation)
+21.5% in restrictive group vs 13.0% in standard group
+In restrictive group 64% of violations were for fluid bolus use without criteria being met
+Violations resulted in median of 97ml fluid administered/day
+In standard group 100% of violations were for no IV fluid being given on any single day in ICU
+This was 13% of all patients in the standard group
+However, there was no difference in outcome when violations removed in per-protocol analysis
+The Bottom Line
+This study did not confirm my pre-existing biases, in that a restrictive fluid strategy was not shown to be superior, with respect to 90 day mortality, to standard fluid management currently being practiced in European ICUs
+However, the 5 day cumulative fluid balance in the standard group was not much greater than the restrictive group. Therefore care is still required to ensure that every patient in ICU has a vigilant and considered fluid management strategy. This includes the de-escalation or evacuation phase of fluid therapy.
+External Links
+article
+Restriction of Intravenous Fluids in ICU patients with Septic Shock
+further reading
+editorial
+Metadata
+Summary author: George Walker @hgmwalker
+Summary date: 17th June 2022
+Peer-review editor: @davidslessor
+Picture by: Pixabay/Pexels

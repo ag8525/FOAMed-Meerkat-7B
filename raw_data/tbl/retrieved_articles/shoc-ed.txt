@@ -1,0 +1,127 @@
+# Metadata
+- Source: The Bottom Line
+- Title: SHoC-ED
+- Original URL: https://www.thebottomline.org.uk/summaries/em/shoc-ed/
+- Scrape Date: 2025-07-17
+- Summary Date: AUTO_FILL_IF_AVAILABLE
+
+Does Point-of-Care Ultrasonography Improve Clinical Outcomes in Emergency Department Patients With Undifferentiated Hypotension? An International Randomized Controlled Trial From the SHoC-ED Investigators
+Atkinson RP. Ann Em Med (Ahead of print). DOI: https://doi.org/10.1016/j.annemergmed.2018.04.002
+Clinical Question
+In selected non-trauma patients presenting to the Emergency Department (ED) with undifferentiated hypotension, does a standardised point-of-care ultrasound protocol, compared with usual care, improve 30 day or hospital survival?
+Background
+Patients with undifferentiated shock are a diagnostic challenge in the emergency department, with an increased mortality
+Point-of-care ultrasound (POCUS) is currently being used to diagnose numerous pathologies in the emergency department
+Single centre studies and case series incorporating POCUS into the management of shock have shown an improvement in both diagnostic accuracy and mortality, with ultrasound directing changes in management in up to 50% of patients (such as
+this trial by Volpicelli
+)
+There have been no multicentre prospective randomised control trials of POCUS in shock in the emergency department
+Design
+Multicentre randomised control trial
+Non-blinded
+All centres had accredited EM physicians and active POCUS programmes
+Scans performed either by physicians who had demonstrated training and competence in POCUS, or by residents supervised by those physicians
+Competencies required for scanning agreed by investigators before initiation of study
+Physicians from North America visited the South African sites to ensure comparable competency standards and vice versa
+Patient selection was a convenience sample of eligible patients when appropriately trained staff were available in ED
+Randomised convenience-sampling blocks performed by site, using computer-generated randomisation into 100 sealed envelopes- 50 POCUS, 50 control
+Sealed envelopes ensured allocation concealment
+Randomisation secured by having pre-randomised sequentially numbered envelopes, matched for size and weight
+To provide 80% power to detect a 10% difference in primary outcome at alpha= 0.05, sample size of 400 required
+assuming baseline mortality of 30% in group
+Setting
+6 Centres
+3 in North America (all tertiary referral/treatment centres)
+3 in South Africa (1 tertiary centre, one large regional hospital, one large district hospital)
+September 2012-December 2016
+Population
+Inclusion:
+Age 19 or over
+Sustained systolic BP <100mmHg OR
+Shock index (systolic BP/HR) of >1.0 (with systolic BP <120)
+Exclusion:
+Pregnancy
+Necessity of CPR before screening or enrolment
+History of significant trauma in last 24 hours
+12 lead ECG diagnostic of myocardial infarction
+Clear evident mechanism for shock identifiable by clinician
+Previously known diagnosis from another hospital
+Vagal episode
+Non-pathological low blood pressure
+347 patients assessed, 273 patients enrolled (138 POCUS, 135 Control)
+terminated at interim analysis due to slow recruitment and futility
+3 patients lost to follow up
+Similar baseline characteristics, with a slight male preponderance in the POCUS group (73% vs 65%)
+There were significant differences in final diagnoses in the North American and South African cohorts:
+Much more sepsis in South African than in North American group (71% vs 42%)
+More severe dehydration in North America vs South Africa( 20% vs 3%)
+Intervention
+POCUS protocol, combining core elements of Abdominal and Cardiothoracic Evaluation with Sonography in Shock (ACES) and Rapid Ultrasound in Shock and Hypotension (RUSH) protocols
+Performed within 60 minutes of patient visit, after normal physician clinical assessment
+Documented on standardised form
+Views:
+Cardiac views: PLAX, PSAX, Apical and Subcostal to assess LV/RV function, size and presence of pericardial effusion
+Lung views: Base of lung thoracic scans looking for lung sliding and pleural effusions
+Abdominal views: RUQ, LUQ, and pelvic views for free fluid and bladder size; Abdominal aorta for AAA; IVC for size and collapsibility
+Control
+Normal physician clinical assessment
+Management common to both groups
+Secondary clinical assessment performed by physician 60 minutes after primary assessment
+Outcome
+Primary outcome: no significant difference in either 30 day or hospital discharge survival
+POCUS: 104/136= 76.5% (95% CI 68.4%-83.3%)
+Control: 102/134= 76.1% (95% CI 68.0- 83.1%)
+Difference = 0.35%, 95% CI= -10.2 -11.1%
+Analysis by site showed a higher mortality in South African sites but still no significant benefit from POCUS
+Secondary outcomes: no significant differences seen between POCUS and control in:
+Median volumes of fluid administered (median= 1609ml vs 1683 ml)
+Hospital admission rates (81% vs 83%)
+Rates of inotrope administration (12% vs 9%)
+Rates of CT scanning (26% vs 24%)
+ICU admission rates  (18% vs 14%)
+ICU length of stay (median LOS 7.16 vs 5.14 days; 95% CI for difference -0.85 to 4.63 days)
+The lack of significant differences in any outcomes persisted when the North American and South African cohorts were analysed separately
+Authors’ Conclusions
+In ED patients with undifferentiated hypotension, the addition of a point of care ultrasound protocol did not translate to additional benefit
+Strengths
+Randomised
+Good allocation concealment
+Registered with clinicaltrials.gov
+Very few patients lost to follow up
+POCUS protocol standardised, limiting inter-observer bias
+A pragmatic approach to an important research question – the rapid adoption of POCUS calls into question the appropriateness of its use
+Weaknesses
+POCUS is a diagnostic test – expecting a diagnostic test to have a mortality benefit may be a cognitive fallacy; thus 30 day mortality may have been an inappropriate outcome measure
+Convenience sampling would have led to many patients not being included in the study, and slowed down the rate of recruitment
+Patients with a “high suspicion” of certain diagnoses, in particular ruptured AAA and ectopic pregnancy, were excluded from enrolment; this would have biased in favour of the control group
+Study terminated early, reducing its statistical power (although interim analysis did suggest no difference)
+Some patients had incomplete POCUS studies
+There is no suggestion in the protocols that the POCUS findings resulted in an alteration in management. This is the whole point of the test, and would have biased outcomes in favour of the control group
+The majority of patients were diagnosed with “occult sepsis”- the RUSH/ACES protocol do not include certain views that would have allowed increased diagnostic accuracy:
+Cardiac – colour doppler for valvular abnormalities
+Lung – anterior pneumothorax, interstitial syndrome, consolidation
+Abdomen – hydronephrosis, appendix, biliary, intestinal
+Those diagnoses would be missed in this trial and would further bias in favour of the control group
+There was no image storage and independent review of POCUS scans- diagnoses may have been missed
+The Bottom Line
+In this trial of selected ED patients with undifferentiated shock, the use of a POCUS protocol did not affect 30 day or in hospital mortality
+Using this limited protocol of POCUS, in a limited subset of patients, without acting on the results of the scans is not representative of my practice in this group
+I will continue to use appropriate targeted POCUS to both diagnose and manage patients with shock, and await further trials on the efficacy and effectiveness of POCUS in the critically unwell patient
+External Links
+[article]
+Atkinson RP. Does Point-of-Care Ultrasonography Improve Clinical Outcomes in Emergency Department Patients With Undifferentiated Hypotension? An International Randomized Controlled Trial From the SHoC-ED Investigators
+[further reading] Emcrit.
+The Rapid Ultrasound in Shock and Hypotension examination.
+[further reading] RCEM e-learning.
+Abdominal and Cardiac Evaluation with Sonography in Shock.
+[further reading] Feng M.
+Transthoracic echocardiography and mortality in sepsis.
+[further reading] Kanji HD.
+Limited echocardiography-guided therapy in subacute shock is associated with change in management and improved outcome
+s.
+Metadata
+Summary author:
+Segun Olusanya
+Summary date: 27/6/2018
+Peer-review editor:
+Adrian Wong

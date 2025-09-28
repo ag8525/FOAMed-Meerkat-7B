@@ -1,0 +1,70 @@
+# Metadata
+- Source: The Bottom Line
+- Title: MAPPETT 3
+- Original URL: https://www.thebottomline.org.uk/summaries/icm/mappett-3/
+- Scrape Date: 2025-07-17
+- Summary Date: AUTO_FILL_IF_AVAILABLE
+
+Heparin plus alteplase compared with heparin alone in patients with submassive pulmonary embolism
+Konstantinides. NEJM 2002:347(15);1143-1150.
+Clinical Question
+In patients with sub-massive PE, does the use of thrombolysis + heparin, compared to heparin alone, reduce the composite outcome of mortality or clinical deterioration?
+Design
+Randomised, double blind, placebo-controlled trial
+Powered at 80% to detect 13% absolute reduction from baseline incidence of 39%, with alpha level of 5%, if 434 patients are randomised
+Setting
+49 Centres in Germany
+September 1997 – August 2001
+Population
+Inclusion: Patients with acute PE and right ventricular (RV) dysfunction or pulmonary hypertension
+PE diagnosed on V/Q, spiral CT or pulmonary angiography
+RV dysfunction defined by ECHO (31%) or ECG changes (complete or incomplete RBBB, S wave in lead I combined with Q waves in lead III, or inverted T waves in precordial leads V1, V2 and V3)
+Pulmonary hypertension defined by ECHO or catheterisation of the right side of the heart
+Exclusion: age >80, haemodynamic instability (BP<90), onset of symptoms >4 days previously, contraindication to thrombolysis
+256 patients randomised
+Intervention
+100mg alteplase + heparin
+Alteplase: 10mg bolus followed by 90mg infusion over 2 hours
+Control
+Placebo and Heparin
+Management common to both groups
+All patients had 5000 units heparin bolus, followed by infusion started at rate of 1000 units/hr, with target APTR 2-2.5
+Outcome
+Primary outcome: In-hospital death or clinical deterioration requiring escalation of treatment (need for catecholamines, rescue thrombolysis, intubation, CPR or emergency surgical embolectomy or thrombus fragmentation)
+11% in thrombolysis group vs. 24.6% in control, P=0.006, NNT 7.5
+Secondary outcome:
+Mortality
+3.4% vs. 2.2%, P=0.71
+Escalation of treatment
+10.2% vs. 24.6%, P=0.004, NNT 7.5
+This was predominately due to secondary thrombolysis
+7.6% vs. 23.2%, P=0.001
+Major bleeding (fatal bleed, intra-cranial haemorrhage, drop in Hb of 4g/dl)
+0.8% vs. 3.6%, P=0.29
+Authors’ Conclusions
+The addition of alteplase can improve the clinical course for patients with submassive PE and can prevent clinical deterioration
+Strengths
+Randomised
+Double-blinded
+Clearly defined definitions of RV dysfunction and pulmonary hypertension
+Weaknesses
+Composite outcome that included a number of variables that were not patient-orientated outcomes. The decision to give rescue thrombolysis appeared to be at the discretion of the blinded physician as oppose to strict criteria. Indications for rescue thrombolysis included dyspnoea or persistent RV dysfunction. At the time of the study these were not standard indications for thrombolysis.
+Under-powered. Trial was stopped early following an interim analysis which found a statistically significant improvement. Stopping at an interim analysis for a positive outcome will tend to exaggerate the effect size due to normal statistical variation
+Conflicts of interest: Boehringer gave statistical advice
+The Bottom Line
+Thrombolysis for sub-massive PE decreased the requirement for rescue thrombolysis but did not affect mortality or adverse events. i.e giving thrombolysis early meant that you were less likely to need to give it later.
+Further evidence is required before this treatment can be recommended.
+Links
+Full text pdf
+/
+abstract
+/ doi: 10.1056/NEJMMoa021274
+Editorial, Commentaries or Blogs
+Life in the fast lane
+RAGE podcast
+Metadata
+Summary author:
+@DavidSlessor
+Summary date: 25 June 2014
+Peer-review editor:
+@DuncanChambler

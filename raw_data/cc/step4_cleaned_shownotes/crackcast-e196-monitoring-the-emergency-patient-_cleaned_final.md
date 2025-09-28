@@ -1,0 +1,154 @@
+---
+title: "CrackCast Episode 196: Monitoring the Emergency Patient"
+url: "https://canadiem.org/crackcast"
+date: 2018-12
+source: "CanadiEM – CrackCast"
+original_file: "CRACKCast-E196-Monitoring-the-Emergency-Patient-.pdf"
+summary: |
+  The document focuses on the critical aspects of monitoring emergency patients, emphasizing the importance of various monitoring modalities in assessing patient status and guiding treatment. Key topics include blood pressure measurement, where non-invasive monitors are standard but may require manual verification in cases of rapid fluctuations. Pulse oximetry is highlighted for its utility in screening but is cautioned against in hypoxic patients and those with dyshemoglobinemias, where it may give falsely elevated readings. Capnography is underscored for its role in evaluating ventilation and perfusion, particularly in metabolic derangements and during procedural sedation. The document also discusses the pitfalls of pulse oximetry, such as interference from movement and low perfusion states, and the significance of ETCO2 monitoring in various clinical scenarios, including its relationship with PaCO2 and its use in detecting respiratory and metabolic issues.
+
+---
+
+## Overview
+
+### Key Concepts
+
+1. Monitoring modalities, when used appropriately, help identify the effectiveness of interventions, predict deterioration, track the patient’s clinical course, and inform clinical decision-making.
+2. Non-invasive blood pressure monitors remain the standard for ongoing measurement of dynamic change. A single episode of hypotension is predictive of subsequent hemodynamic compromise. Despite generally high accuracy and dependability of blood pressure monitoring devices, manual blood pressure may be required at times to verify sudden changes in blood pressure measurements or when readings fluctuate rapidly, suggesting inaccuracy of the automated device.
+3. Due to the non-linear relationship of the oxyhemoglobin dissociation curve, pulse oximeters are helpful for screening and monitoring patients but are not an accurate measure of PaO2 in hypoxic patients and thus should be used with caution.
+4. In the setting of MetHb or COHb exposure, the pulse oximeter may read falsely elevated, so a CO oximeter is necessary to distinguish oxygenated and deoxygenated blood from other dyshemoglobinemias.
+5. Capnography is also useful in spontaneously breathing patients. It can be a good indicator of perfusion, ventilatory response to therapy in the patient with respiratory distress, adequacy of ventilation during procedural sedation, and rapid assessment and response to therapy in patients with metabolic derangements.
+
+### Rosens in Perspective
+
+Monitoring is something we do often, but think about rarely. This basically provides us real-time information about various physiologic parameters we can use to guide patient care. While this is not a long chapter, there are a few key points to know about the modalities that we use - BP measurement, pulse oximetry, ventilation monitoring, and use of ETCO2.
+
+Understanding this content will be invaluable to you. Having a good grasp of these metrics will allow you to better assess patients, judge the efficacy of your treatment modalities, and allow you to make decisions about the acutely deteriorating patient. Basics are foundational for a reason, so sit back, strap in, and listen.
+
+## Core Questions
+
+### 1. List modalities for measurement of BP and note which modalities are likely to over and underestimate blood pressure.
+
+Modalities include:
+
+1. Doppler
+2. Palpation (only allows for SBP determination)
+3. Auscultation
+   - Generally underestimates the systolic blood pressure and overestimates the diastolic pressure.
+4. Oscillometric (automatic)
+   - What we use every day in the ED.
+   - Measures oscillations in the pressure during deflation of the cuff; the maximal point of oscillation represents the mean arterial pressure.
+   - Generally overestimates compared with auscultative measurements.
+
+### 2. What is pulse pressure and how does it relate to stroke volume?
+
+- PP closely resembles SV when accounting for arterial compliance and resistance.
+- At a given arterial compliance (C), stroke volume (SV) is associated with corresponding changes in pulse pressure: C = SV/PP
+
+### 3. List 4 indications for an arterial line.
+
+1. Persistent or recurrent hemodynamic instability
+2. Monitoring of conditions or treatments that result in large fluid or blood pressure shifts
+3. Frequent arterial blood sampling
+4. Expected inaccuracies in noninvasive blood pressure management (e.g., because of obesity or dysrhythmias)
+
+### 4. What is the Beer-Lambert Law and how does it allow us to measure pulse oximetry?
+
+- Rosen’s trivia at its finest. The concentration of an absorbing substance can be determined if the characteristic wavelength of that substance, intensity of the light transmitted through the substance, and distance of transmission are known (Beer-Lambert Law).
+- Pulse oximetry devices use two LEDs that give off light at wavelengths characteristic of oxyhemoglobin and deoxyhemoglobin (660 and 940 nm).
+- These wavelengths are absorbed at different rates, which the pulse oximeter measures.
+- So what does the pulse ox actually measure? Arterial hemoglobin that is in the oxyhemoglobin state.
+
+### 5. How do dyshemoglobinemias affect your measured SpO2?
+
+- Pulse oximetry only measures 2 wavelengths (unless you have a special multi-wavelength machine)
+- They cannot distinguish oxyhemoglobin and deoxyhemoglobin from other dyshemoglobinemias (methemoglobin and carboxyhemoglobin) In setting of significant MetHb
+- Thus, SpO2 will be falsely elevated in the setting of dyshemoglobinemias.
+
+### 6. What are the 4 phases of the ETCO2 waveform?
+
+- Phase 1-2: CO2-free section of the ETCO2 respiratory cycle. In the physiologically normal patient, this denotes inspiration, but can also represent apnea or disconnection of the measuring device. If you are seeing elevated ETCO2 in the part of the respiratory cycle, the patient is rebreathing CO2, either indicating increased dead space in the circuit or sensor contamination.
+- Phase 2-3: Rapid increase in the amount of expired CO2. Denotes beginning of expiration with mixing of gas from the alveoli and dead space. If this phase is prolonged, suspect that there is obstruction to gas outflow in expiration (e.g., bronchospasm, COPD, etc.) or that there are leaks in the breathing system.
+- Phase 3-4: Plateau phase where CO2-rich gas from the alveoli is being expired. Usually, you see a gentle upstroke because of unequal emptying of the alveoli. ETCO2 is found at the peak of the plateau. If you see an increased sloping of the plateau phase, consider obstructive lung pathology or pregnancy. If you see a dip in the plateau, consider spontaneous respiratory effort in the patient who is mechanically ventilated, potentially indicating the presence of hypoxia, hypercarbia, or insufficient anesthesia.
+- Phase 4-5: Diminishing CO2 due to inspiration. If there is an ETT cuff leak, you can see this area blending in with the expiratory phase (Phase 1-2).
+
+### 7. List 5 uses for ETCO2.
+
+- Uses for ETCO2 monitoring include, but are not limited to:
+  - Rapid assessment of critically-ill patients
+    - Just like you learned in medical school, every critically ill patient needs to have their ABC’s evaluated. A normal ETCO2 reading and capnogram denotes:
+      - Patent airway
+      - Spontaneous breathing
+      - Sufficient ventilation
+      - Sufficient perfusion
+    - Can also be used reliably in seizing patients, giving you information regarding respiratory status, breathing effort, and ventilatory insufficiency
+    - Can also detect CNS, airway, and respiratory system complications secondary to chemical terrorism (e.g., laryngospasm, bronchospasm, respiratory failure)
+  - Assessment and measurement of response to treatment in patients with acute respiratory distress
+    - ETCO2 monitoring can allow you to continually assess your COPD, asthma, CHF, CF, and ARDS patients for dynamic changes.
+    - ETCO2 measurements and capnography can provide you with information regarding resolution of obstructive pathologies after therapies are initiated and correlate well with spirometric measurements like FEV1.
+    - Capnography be used to distinguish between restrictive and obstructive lung pathologies.
+  - Monitoring during procedural sedation and analgesia
+    - We spoke to the benefits of ETCO2 monitoring in our last podcast, but in short, you can:
+      - Detect apnea in a more timely manner, diminishing incidents of hypoxia and allowing you to launch airway interventions sooner
+  - Rapid assessment of patients with severe illness
+    - In patients with metabolic derangements (e.g., sepsis, DKA), can be used to assess changes in pH and HCO3
+    - There is a linear relationship that exists between ETCO2 and HCO3 levels (specifically in cases of DKA and gastroenteritis)
+      - In the patient with metabolic acidosis, the patient will be attempting to compensate by increasing minute ventilation
+      - Thus, in the patient with metabolic acidosis, the measured ETCO2 will be lower
+      - The lower the ETCO2, the worse the metabolic acidosis is, and vice versa
+  - Rapid assessment of obtunded or unconscious patients
+    - Long-and-short, ETCO2 monitoring will allow you to determine which obtunded or unconscious patients have sufficient respiratory effort and effective ventilation and those that do not
+    - May allow you to intervene sooner in the patient requiring urgent airway intervention for persistent respiratory depression or failure.
+
+## Wisecracks
+
+### 1. List the pitfalls of pulse oximetry.
+
+- Pulse oximetry is limited by:
+  - Artifact (movement)
+  - Low perfusion states
+  - Increased ambient light
+  - Deep skin pigmentation
+  - Nail polish
+  - Methylene blue
+
+### 2. Describe colorimetric ETCO2 monitoring and cite the ranges at which you would expect to see the following colours:
+
+- Purple denotes a CO2 of <4 mmHg
+- Tan denotes a CO2 from 4-15 mmHg
+- Yellow denotes a CO2 >20 mmHg
+
+If memorizing the exact ranges and corresponding colours is bewildering, just remember: Yellow is mellow, purple is a problem.
+
+### 3. How are ETCO2 values related to PaCO2?
+
+While ETCO2 values reliably correlate with PaCO2 levels in the blood, it is important to note that there is typically a 2-5 mmHg difference between the two. ETCO2 is typically lower than PaCO2 by the aforementioned margin because the CO2-rich gas exiting the lower airways mixes with the relatively hypocarbic gas held within the physiologic dead space.
+
+### 4. What are causes of elevated ETCO2?
+
+- Elevated ETCO2 can be caused by:
+  - Hypoventilation
+    - Typically from sedative-hypnotic or opioid overdose. The patient retains CO2 due to poor ventilation, thus increasing the ETCO2.
+    - Usually only occurs as the sedation lessens
+  - Rebreathing
+    - Caused by either inadequate gas flow through respiratory circuits or faulty respiratory circuits
+  - Increased CO2 production
+    - Causes include, but are not limited to:
+      - Fever
+      - Sepsis
+      - Malignant Hyperthermia
+      - Thyroid Storm
+  - Increased dead space
+    - This is caused by an increased physiologic dead space
+    - Seen in obstructive pathologies
+
+### 5. What does MOVIE stand for (aka - how to rock your oral exam resuscitation questions)?
+
+- This is your starting line to any oral exam question. You will never go wrong by using this mnemonic to start off your response. KNOW THIS COLD.
+  - Monitored bed
+  - Oxygen
+  - Vital signs
+  - Intravenous access
+  - EKG
+- Your spiel will sound like this: “First, I would like to put this patient in a monitored bed and place them on supplemental oxygen, if needed. I would like a new set of vital signs, an urgent EKG, and IV access obtained.
+- Boom. You are now a master. Royal College Examination = PASSED!

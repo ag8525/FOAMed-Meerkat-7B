@@ -1,0 +1,122 @@
+---
+url: https://thesgem.com/2021/04/sgem326-the-salsa-study-hypertonic-saline-to-treat-hyponatremia/
+title: "SGEM#326: The SALSA Study: Hypertonic Saline to Treat Hyponatremia"
+date: 2021-04-10
+audio_url: https://media.blubrry.com/thesgem/content.blubrry.com/thesgem/SGEM326.mp3
+download_date: 2025-08-11
+---
+
+**Guest Skeptic:**Dr. Casey Parker is a Rural Generalist from the NW of Australia. He is a GP by training but works in Emergency Department, Anaesthesia, Internal Medicine and Paediatrics. Dr. Parker is currently studying to become a Sonologist. He has a wonderful #FOAMed blog and podcast called Broomedocs and also work with me on the Primary Care RAP team.
+
+**Reference:** Risk of Overcorrection in Rapid Intermittent Bolus vs Slow Continuous Infusion Therapies of Hypertonic Saline for Patients With Symptomatic Hyponatremia: The SALSA Randomized Clinical Trial. JAMA Intern Med 2021
+
+**Case:** A60-year-old man presents to the emergency department (ED) after his wife found him to be drowsy and confused at home. He had been vomiting that morning. He had a background of hypertension treated with a thiazide diuretic. His wife reports that he had experienced diarrhoea in the week prior to this presentation.  On arrival to the ED his vitals are normal aside from a decreased level of consciousness and he is found to have a serum sodium concentration of 118 mmol/L.  You are unsure as to the best way to correct his sodium and are aware that rapid overcorrection may lead to an osmotic demyelination syndrome.  However, he is also at risk of a seizure and further harm at this level.
+
+**Background:** The most common electrolyte abnormality in clinical practice is a low sodium level (hyponatremia). This imbalance occurs in 14% to 42% of admitted patients. There is a high mortality associated with hyponatremia [1-3]. 
+
+Symptomatic hyponatremia has traditionally been treated with a careful slow continuous infusion of hypertonic saline.This has been to prevent the horrible adverse event called osmotic demyelination syndrome (ODS)**.** ODS includes both central pontine myelinolysis and extrapontine myelinolysis**. I**n recent times several expert consensus guidelines have recommended the use of rapid, intermittent boluses of hypertonic saline  instead of a slow continuous infusion [3,4].  
+
+There is very little randomized data to prove the superiority of either strategy prior to the SALSA trial.  Most of the trials were done in marathon and ultra-marathon runners whom we do not see very often in the ED [5-7].
+
+Using a fixed bolus has a number of potential benefits [8-9]: 
+
+1. 1. **Efficacy:** Ability to reach rapid partial correction hyponatremia
+   2. **Safety:** It can limit the risk of overcorrection that can commonly occur with continuous infusion of hypertonic saline
+   3. **No Math:** It omits need for calculations
+
+---
+
+### **Clinical Question:** When treating symptomatic hyponatremia what are the risks of overcorrection in patients using either a slow continuous infusion vs. a rapid intermittent bolus of hypertonic saline strategy**?**
+
+---
+
+**Reference:** Risk of Overcorrection in Rapid Intermittent Bolus vs Slow Continuous Infusion Therapies of Hypertonic Saline for Patients With Symptomatic Hyponatremia: The SALSA Randomized Clinical Trial. JAMA Intern Med 2021
+
+* **Population:** Patients 18 years of age and older with moderate or severe symptomatic hyponatremia (corrected serum sodium [sNa] of 125 mmol/l or less). Moderate symptoms include nausea, headache, drowsiness, general weakness and malaise. Severe symptoms include vomiting, stupor, seizure, and coma (Glasgow Coma Scale [GCS] score ≤8). 
+  + **Exclusions:** Primary polydipsia; pregnant or breastfeeding; anuria, arterial hypotension, liver disease, uncontrolled diabetes mellitus; or had a history of cardiac surgery, acute myocardial infarction, sustained ventricular tachycardia, ventricular fibrillation, acute coronary syndrome, cerebral trauma, and increased intracranial pressure within 3 months prior to randomization.
+* **Intervention:** Rapid intermittent bolus (RIB) groupsreceived 2ml/kg of 3% saline over 20 minutes. Patients were dichotomized into moderate or severe hyponatremia. The severely symptomatic patients had 2 separate boluses delivered initially. The 2ml/kg bolus was repeated every 6 hours until the target sNa was achieved and symptoms were relieved.
+* **Comparison:** Slow continuous infusion (SCI) group received 0.5 ml/ kg/hr in the moderate group and 1ml/kg/hr in the severe group.  There was a complicated titration of the infusion rate determined by the monitored sNa changes at each sample point.
+* **Outcome:**
+  + **Primary Outcome:** Incidence of overcorrection of serum sodium at any given period up to 48 hours.  Over correction was defined as an increase in sNa by >12 mmol/L within 24 hours or an increase in sNa by >18 mmol/L within 48 hours
+  + **Secondary Outcomes:** There were nine secondary outcomes measured including: Rapid improvement in symptoms by 24 hours; change in GCS at various time points; a number of laboratory targets; and osmotic demyelination syndrome (ODS)
+
+**Authors’ Conclusions:** *“This randomized clinical trial found that both RIB and SIC therapies of hypertonic saline for treating hyponatremia were effective and safe, with no difference in the overcorrection risk. However, RIB had a lower incidence of therapeutic relowering treatment and tended to have a better efficacy in achieving sNa within 1 hour than SCI. RIB could be suggested as the preferred treatment of symptomatic hyponatremia, which is consistent with the current consensus guidelines.”*
+
+** ****Quality Checklist for Randomized Clinical Trials:**
+
+1. The study population included or focused on those in the emergency department. Yes
+2. The patients were adequately randomized. Yes
+3. The randomization process was concealed. Yes
+4. The patients were analyzed in the groups to which they were randomized. Yes
+5. The study patients were recruited consecutively (i.e. no selection bias). **Unsure**
+6. The patients in both groups were similar with respect to prognostic factors. Yes
+7. All participants (patients, clinicians, outcome assessors) were unaware of group allocation. No
+8. All groups were treated equally except for the intervention. **Unsure**
+9. Follow-up was complete (i.e. at least 80% for both groups). Yes
+10. All patient-important outcomes were considered. Yes
+11. The treatment effect was large enough and precise enough to be clinically significant. No
+
+**Results:** There were 178 patients randomized in this trial. The mean age was 73 years, 45% were male and the mean sNA was 118 mmol/L. Hyponatremia was determined to be cause by thiazide diuretics (30%), SIADH (29%), adrenal insufficiency (16%), decreased extracellular cellular fluid volume due to non renal sodium loss (14.0%), and increased extracellular fluid volume (11%). 
+
+---
+
+### **Key Result:** No statistical difference in overcorrection between the rapid intermittent bolus group and slow continuous infusion group.
+
+---
+
+* **Primary Outcome:** Overcorrection
+  + 17.2% in the RIB group and 24.2% in the SCI group
+  + 6.9% absolute difference (95% CI; −18.8% to 4.9%) p=0.26
+
+* **Secondary Outcomes:**There was generally no difference between groups with the exception that the RIB group achieved target serum concentrations more often at the 1-hour mark which is not really surprising as they received a lot more 3% saline as an initial bolus.
+
+The SCI group did receive significantly more *“relowering therapies”* 41% vs 57%.  As such more subsequent interventions were needed in the SCI group. That is to say about 15% more patients in the SCI group needed to have a subsequent intervention to prevent too rapid sodium correction.
+
+There were very few adverse events reported with no statistical difference between groups: incidence of ODS (0), pulmonary edema (1), phlebitis (2) oliguria (1) and mortality (7 RIB vs 2 SCI)
+
+ 
+**1. Population:** We answered “*yes*” that the study population included or focused on those in the ED. The patients were recruited from three South Korean General Hospitals, for the first two years of recruitment they were all ED patients. However, this was expanded to include inpatients after that time to accomplish a sufficient study population. Approximately three-quarters of the final cohort of patients were enrolled in the ED.
+
+**2. Blinding:** This is an unblinded trial of an intervention that requires a lot of clinician judgement and subjective assessment.  As such there is a large potential for bias.  If you were a strong believer in either strategy and the patient in front of you was not doing so well – there is a big incentive to either change strategy or add additional therapy.  
+
+The fact that there was a difference in *“relowering therapy”* between the groups could in fact be capturing this bias in the act. So how do we overcome this limitation of blinding?
+
+One possible solution would be to have a computer algorithm monitor the sNa level and adjust things accordingly on some kind of pump. The machine could be giving a sham placebo, 3% saline or relowering therapy all without the treating clinician knowing. There could be safety protocols to override the system on parameters determined a priori.
+
+**3. Comparison Group:** This RCT was designed with an active comparison group rather than a placebo group. It would have been unlikely to get ethics approval for a placebo controlled trial. A basic premise for ethics approval is that equipoise must exist. Hyponatremia can be a life threatening condition and it would not be appropriate to withhold treatment in a moderate to severely symptomatic population. 
+
+It is widely agreed upon that comparison to placebo is acceptable only when no proven intervention exists (Millum and Grady 2013). In contrast, placebo comparison is not considered acceptable in life-threatening conditions if there is an available treatment.
+
+The argument against the use of placebos in these circumstances is guided by the Declaration of Helsinki. This documents state: *“In any medical study, every patient — including those of a control group, if any — should be assured of the best proven diagnostic and therapeutic methods.”*Thus, if an effective treatment exists, it should be prescribed to patients (Simon 2000).
+
+This reality represented a real challenge to the authors. Perhaps a more pragmatic trial design with block randomization at the institutional level with a cross over phase could have minimized this limitation. It would be interesting to see what experts like Dr. Andrew Althouse from EpiTwitter would suggest.
+
+**4. Primary Outcome:** The primary outcome that was chosen by the SALSA authors was *“incidence of overcorrection of serum sodium”.* This is a LOO (lab-oriented outcome) not really a POO (patient-oriented outcome), although it is likely associated with patient-important outcomes such as disability or death.  
+
+The authors do explain that the incidence of osmotic demyelination syndrome is the most critically important outcome.  Unfortunately (or fortunately) ODS is so rare that it would require a sample size of many thousands of patients to achieve an adequately powered calculation to show a difference in this rare but important outcome.
+
+**5. Drop-Out Rate:** The drop-out rate in this trial was quite high for a trial that involved a single intervention where the endpoint was completely studied within the first 48 hours of the admission.  As such we would anticipate nearly a perfect follow-up of such a “*trapped*” population.
+
+A quality indicator we typically use for follow-up is less than a 20% loss. In this study 33/178 enrolled (19%) were excluded for a variety of reasons. Almost three-quarters (24/33) due to violation of protocol (simple errors of performance or nonadherence due to unfamiliarity). This was discussed by the authors as a failure of training which is disappointing and illustrates the difficulty of doing good clinical trials in the acute care setting.
+
+**Comment on Authors’ Conclusion Compared to SGEM Conclusion:** The authors concluded that: Both RIB and SIC strategies of hypertonic saline for treating hyponatremia were effective and safe, with no difference in the overcorrection risk. 
+
+The authors also concluded that the rapid intermittent bolus strategy therapy had a lower incidence of therapeutic relowering of sNa and tended to have a better efficacy in achieving sNa within one hour than SCI.  They suggest that the RIB strategy be preferred in guidelines.
+
+We agree that this study shows that there is no difference between the strategies in terms of the risk of overcorrection.  However, it is not proven that the RIB strategy is superior as the secondary outcomes cannot be conclusive in this trial.
+
+---
+
+### **SGEM Bottom Line:** Both rapid intermittent boluses of hypertonic saline and slow continuous infusions appear efficacious strategies with no statistical difference in safety.
+
+---
+
+**Case Resolution:** Our patient is admitted to the high dependency area and receives a 2 ml/kg bolus of 3% saline over 20 minutes.  He feels much better and is monitored closely.  A second bolus at 6 hours relieves his symptoms.  His thiazide diuretic is ceased and he is monitored on the ward.
+
+ 
+Dr. Casey Parker
+
+**Clinical Application:** This trial demonstrates the efficacy and apparent safety of two strategies to correct hyponatremia. Hospitals can use this data to develop their own protocols to manage these patients. Although this is a negative trial it does give us a lot of important data to guide our care.
+
+**What Do I Tell My Patient?** We are going to give you a dose salty water in your cannula (IV) over 20 minutes. It should fix the salt imbalance in your blood. We will monitor you closely and give you another dose if needed. We hope to relieve your symptoms as soon as we can safely.
+

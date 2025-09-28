@@ -1,0 +1,120 @@
+# Metadata
+- Source: The Bottom Line
+- Title: Boulware
+- Original URL: https://www.thebottomline.org.uk/summaries/icm/boulware/
+- Scrape Date: 2025-07-17
+- Summary Date: AUTO_FILL_IF_AVAILABLE
+
+A Randomised Trial of Hydroxychloroquine as Postexposure Prophylaxis for COVID-19
+Boulware et al. NEJM; June 3 2020. doi:10.1056/NEJMoa2016638
+Clinical Question
+In people who have high-risk or moderate-risk exposure to someone with confirmed COVID-19 infection, does taking hydroxychloroquine following the exposure compared to placebo reduce the incidence of a new illness compatible with COVID-19?
+Background
+In December 2019 the Wuhan province in China became the epicentre of a devastating, highly contagious viral infection, SARS-CoV-2, a novel coronavirus that causes COVID-19 illness
+By March 2020, the World Health Organisation announced they were deeply concerned by the alarming levels of spread and severity of the disease and characterised COVID-19 as a pandemic
+Health Care Workers (HCWs) are particularly vulnerable to infection due to occupational exposure to infected patients
+Data is incomplete, but large numbers of HCWs have contracted the illness or died. In the UK, May 23, The Guardian reported 49 HCWs had died; in China, June 4, NEJM reported the death of 23 HCWs; in the USA, May 28, the CDC report 62690 HCW infections with COVID-19 and 294 deaths (although obituary data suggests 530 HCW COVID-19 deaths); in Italy, June 9, The Federation of Surgeons and Dentists, reported 167 Italian doctors have died of COVID-19
+The prevention of infection in HCWs relies on personal protective equipment, quarantine of exposed workers, tracking and tracing close contacts
+Hydroxychloroquine (HCQ), a medication traditionally used to manage rheumatoid arthritis and malaria has gained interest as a potential pharmacological agent to prevent the entry and endocytosis of SARS-CoV-2 into the host cell, by impairing the terminal glycosylation of the angiotensin-converting-enzyme-2 (ACE2) receptor
+Some in vitro studies suggest that HCQ suppresses the activity of SARS-CoV-2
+In patients with confirmed COVID-19, there have been several observational studies and small RCTs reporting benefit of HCQ therapy- however, these studies were low quality studies, with small sample sizes, often had non-critically ill patients, did not have clinically meaningful outcomes and had short or incomplete follow-up
+The authors of the
+RECOVERY
+trial have interrupted randomising into the hydroxychloroquine arm as there was no significant difference in the primary endpoint of 28-day mortality in 3132 hospitalised COVID-19 patients
+The prophylactic role of HCQ is explored in this study
+Design
+Randomised, double-blind, placebo-controlled trial
+1:1 assignment to either HCQ or placebo
+Participants enrolled themselves through an online platform
+Variable sized permuted-blocks and stratification to country
+The participants understanding of the trial design was assessed and if deemed adequate, consent was sought with an electronic signature indicating informed consent
+HCQ or placebo was shipped overnight to the participant by courier
+The placebo tablet (folate tablets) had an appearance very similar to the HCQ tablet
+Participants and investigators were unaware of the treatment allocation
+An email survey was sent to assess outcomes on Day 1,5,10 and 14
+Another survey was sent at 4-6 weeks to assess illness, hospitalisation and testing
+Originally, an estimated 621 persons per group were needed assuming 10% infection of close contact and a 50% relative effect size to reduce new symptomatic infection, a two-sided alpha of 0.05 and 90% power
+Due to the internet-based, self-referral recruitment, it was planned that there would be a 20% attrition of participants, so this increased the persons needed to 750/group (total 1500)
+A protocol re-estimation of sample size was prespecified to allow for adjustment after the second interim analysis and the recalculation reduced the sample size to 956 (478/group)
+Setting
+Participants were enrolled across the USA and 3 Canadian provinces (Quebec, Alberta, and Manitoba) from March 17 to May 6th, 2020
+The trial was halted after a third interim analysis deemed futility in continuing
+Population
+Inclusion
+: Participants self-selected and had a household or occupational exposure to a person with confirmed COVID-19 at a distance of <6 feet for >10 minutes whilst wearing neither a mask or goggles (high-risk exposure) or a mask and no goggles (moderate-risk exposure)
+Participants were eligible to enrol within 3 days of exposure: initially due to poor access to prompt testing, enrolment was on the basis of exposure to patients with pending test results. However, after March 23, the exposure had to be to a patient with confirmed PCR positive for SARS-CoV-2
+Exclusion
+:
+<18 years
+Already taking hydroxychloroquine or chloroquine
+Already taking cardiac medicines: flecainide; amiodarone; digoxin; procainamide; or sotalol
+Already taking QT prolonging medicines
+hydroxychloroquine allergy
+Retinal eye disease
+G6PD deficiency
+CKD 4 or 5 or receiving dialysis
+Porphyria
+Weight <40kg
+Receiving chemotherapy
+In Canada, additional exclusions:
+Pregnant and/or breastfeeding
+Severe diarrhoea or vomiting
+Known cirrhosis with encephalopathy or ascites
+Known prolonged QT interval
+Ventricular arrhythmia or history of sudden cardiac death
+QT prolonging medicines
+821 participants were recruited
+245 had a household exposure, 545 were exposed as a HCW, 31 had other occupational exposure
+Baseline characteristics were similar between groups:
+Median age was 40 years, 27.4% had chronic health conditions, 51.6% were women
+In the case of HCWs, 77% had a patient exposure, 20% were exposed to an ill coworker
+Intervention
+Hydroxychloroquine
+414 Participants received HCQ via courier
+19 x 200mg tablets were delivered: they took 4 tablets on Day 1, then 3 tablets 8 hours later, then 3 tablets each day for 4 days
+Control
+Placebo
+407 Participants received the Placebo tablets via courier
+19 tablets: they took 4 immediately, then 3 tablets 8 hours later, then 3 each day for 4 days
+Outcome
+Study stopped at 3rd interim analysis, after 821 patients recruited, for futility
+Primary outcome
+:
+Symptomatic illness confirmed by a positive assay test or if testing unavailable, COVID-19 symptoms based on the US Epidemiological criteria (the presence of cough, SOB, dyspnoea, or 2 of fever, chills, rigors, myalgia, headache, sore throat, new olfactory or taste disturbance)
+There was no significant difference: HCQ 49/414 = 11.8%, Placebo 58/407 = 14.3% (95% CI -7 to 2.2; p=0.35)
+Secondary outcome
+: HCQ vs Placebo
+Hospitalisation (0.2% vs 0.2%)
+Death (0 vs 0%)
+PCR-confirmed SARS-CoV-2 (2.7% vs 2.2%; p =0.82)
+COVID-19 symptoms (11.6% vs 13.5%; p=0.46)
+100% adherence to trial intervention (75.4% vs 82.6%; p=0.01)
+Side effects of intervention (40.1% vs 16.8%; p<0.001) -most commonly nausea and GI symptoms
+Authors’ Conclusions
+This randomised trial did not demonstrate a significant benefit of hydroxychloroquine as post-exposure prophylaxis for COVID-19
+Strengths
+Allocation concealment
+Blinding of outcome assessors
+Clinically meaningful outcomes
+The participants were from geographically broad areas improving external validity
+The trial was implemented in a timely fashion keeping investigators safe and providing information about a potential prophylactic intervention in the middle of a devastating pandemic
+The group tested were relatively young, however, it is likely that the results can be extrapolated to a broader population as the infection rate is similar in young and old, although older people get more severe disease
+Weaknesses
+Trial stopped early thus is technically underpowered for primary outcome
+Numbers lost in each group at Day 14: 46 in HCQ vs 42 in placebo group
+A sensitivity analysis did not suggest that these lost to follow-up would alter the overall result (and was factored in to the original sample size calculation)
+The trial does not exclude a benefit from pre-exposure prophylaxis
+57% of participants did not take the intervention until 3-4 days after exposure, which may be too late
+PCR testing was not available in all participants with the presumptive diagnosis based on symptoms likely less sensitive
+The Bottom Line
+If I had a high-risk exposure to a patient with COVID-19 I would not take hydroxychloroquine prophylaxis based on this trial
+As well as showing no benefit there is a high incidence of adverse side effects with hydroxychloroquine and it is poorly tolerated
+External Links
+A Randomized Trial of Hydroxychloroquine as Postexposure Prophylaxis for COVID-19
+Hydroxychloroquine, a less toxic derivative of chloroquine, is effective in inhibiting SARS-CoV-2 infection in vitro
+Metadata
+Summary author:
+Celia Bradford
+Summary date: 10th June 2020
+Peer-review editor:
+Segun Olusanya

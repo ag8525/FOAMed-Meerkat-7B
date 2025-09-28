@@ -1,0 +1,98 @@
+# Metadata
+- Source: The Bottom Line
+- Title: DETO2X-AMI
+- Original URL: https://www.thebottomline.org.uk/summaries/icm/deto2x-ami/
+- Scrape Date: 2025-07-17
+- Summary Date: AUTO_FILL_IF_AVAILABLE
+
+Oxygen Therapy in Suspected Acute Myocardial Infarction
+Hofmann. NEJM. 2017.
+DOI: 10.1056/NEJMoa1706222
+Clinical Question
+In patients with suspected myocardial infarction with no baseline hypoxia, does
+oxygen therapy or room air improve all-cause mortality at 1 year?
+Background
+Supplemental oxygen given during AMI is a common intervention and is recommended in current guidelines. The rationale is that oxygen improves oxygen delivery to ischaemic myocardium, causing a reduction in infarct size and complications. However studies for many years have suggested oxygen may be harmful. Supernormal oxygen has been shown to increase coronary vasoconstriction and production of oxygen free radicals
+The AVOID trial recently showed that in patients with STEMI, oxygen compared to air caused an increase in CK and myocardial infarct size at 6 months. Thus the authors in this study investigated whether supplemental oxygen in normoxic patients with suspected AMI improves outcomes
+Design
+Investigator initiated, m
+ulticenter, open label, parallel-group, r
+andomised
+controlled trial
+Enrolment and data collection including mortality data were facilitated through the SWEDEHEART registry (Swedish National Inpatient and Outpatient Registries)
+1:1 unrestricted computer generated randomisation
+Treating physicians and patients not blinded
+Assessors blinded
+Sample size calculation: Baseline mortality of AMI group was 14.4%. Assuming a significance level of 0.05, and a power of 0.90, a total of 2856 patients in each group was needed to detect a 20% fall in mortality from any cause at 1 year from the delivery of oxygen. This was inflated to 3300 to account for cross over, making final total of 6600 patients
+Pre published design and statistical plan
+Modified intention to treat analysis
+Kaplan-Meier, Cox proportional-hazards models analysis
+Setting
+35 out of a possible 69 Swedish hospitals participated
+Patents enrolled April 2013 to December 2015
+Population
+Inclusion:
+Adult patients >30 years old presenting to an ambulance, ED, or the cath lab with symptoms suspicious for AMI with o
+xygen saturation of 90% or higher on pulse oximetry
+Suspicious for AMI was defined as any chest pain or shortness of breath for less than 6 hours
+and either electrocardiographic changes indicating ischemia or elevated cardiac troponin T or I levels on admission
+Exclusion:
+Patients already receiving oxygen ≥20minutes, post cardiac arrest, or those not consenting
+Baseline demographics were similar between oxygen and air groups:
+Median time of symptom onset to randomisation was 245 vs 250mins
+Proportion admitted with chest pain similar- 3123 (94%) vs 3120 (94%)
+Final diagnosis of STEMI similar 43.2% vs 45.8%
+Impact of intervention
+Median duration oxygen therapy was 11.6 hours.
+Median saturations at the end of the time period were 99% for oxygen group and 97% for ambient air
+Intervention
+Supplemental oxygen (6L/min via for 6-12 hours)
+delivered through an open face mask
+Control
+Room air (no face mask)
+Management common to both groups
+If either group developed hypoxia with sats <90%, additional supplemental oxygen was provided
+All other treatments left to the discretion of the clinicians
+Outcome
+Primary outcome:
+No difference in all cause mortality at one year 166/3311 (5.0%) vs 168/3318 (5.1%) (
+hazard ratio, 0.97; 95% confidence interval [CI], 0.79 to 1.21; P=0.80)
+No difference in a per protocol population either
+4.7% (141/3014) and 5.1% (163/3212), respectively (hazard ratio, 0.91; 95% CI, 0.72 to 1.14; P=0.40)
+Secondary outcomes:
+No difference in rehospitalisation at one year
+126 patients (3.8%) vs
+111 patients (3.3%). Hazard ratio:
+1.13; 95% CI, 0.88 to 1.46; P=0.33
+No difference in median troponin peak (946ng vs 983ng)
+Oxygen patients were less likely to have inotropes commenced 46 (1.4%) vs 70 (2.1%)
+Oxygen patents had less episodes of hypoxia 62 patients (1.9%) vs  254 (7.7%)
+Authors’ Conclusions
+Routine use of supplemental oxygen in patients with suspected myocardial infarction who did not have hypoxemia was not found to reduce 1-year all-cause mortality
+Strengths
+Largest trial to date investigating oxygen therapy in suspected AMI patients
+Good design to minimise bias (multicenter, randomised controlled design)
+Patient centered outcome (mortality and rehospitalization)
+Novel design with RCT embedded into a registry
+Weaknesses
+There was little separation between the two arms of the study (i.e. sats were 97% vs 99%), and therefore a beneficial or negative effect of oxygen is still be possible
+The intervention included a face mask as well as oxygen, compared to no mask and air, which may have introduced confounding
+The patients and clinicians were not blinded risking significant bias
+The pragmatic design enrolling all patients with suspected AMI may have missed important differences in sicker subpopulations – such as in the AVOID study which only enrolled STEMI patients
+The baseline mortality rate of 14.4% for the power calculation was significantly overestimated compared to the actual mortality rate of  5%. Thus there was a potential for type II (false negative) error
+Limited follow-up data only (mortality and re-hospitalisation at 1 year only) compared with other studies e.g. infarct size on MRI, or other functional outcomes
+The Bottom Line
+This large MCRCT shows that supplemental oxygen does not make any difference to outcomes in normoxic patients with suspected AMI
+This result combined with other recent studies that have suggested potential harm from oxygen, plus the fact oxygen is not free, suggests that oxygen therapy in this population is no warranted
+We await more up to date guidelines that will reflect this
+External Links
+[abstract]
+Oxygen Therapy in Suspected Acute Myocardial Infarction. NEJM 2017
+[further reading]
+TBL: Air Versus Oxygen in ST-Segment Elevation Myocardial Infarction (AVOID). JAMA 2015
+Metadata
+Summary author:
+Aidan Burrell
+Summary date: 22.09.17.
+Peer-review editor:
+Segun Olusanya

@@ -1,0 +1,135 @@
+# Metadata
+- Source: The Bottom Line
+- Title: PReVENT
+- Original URL: https://www.thebottomline.org.uk/summaries/icm/prevent/
+- Scrape Date: 2025-07-17
+- Summary Date: AUTO_FILL_IF_AVAILABLE
+
+Effect of a Low vs Intermediate Tidal Volume Strategy on Ventilator-Free Days in Intensive Care Unit Patients Without ARDS. The PReVENT Trial
+Simonis et al. JAMA 2018. Published online October 24, 2018. doi:10.1001/jama.2018.14280
+Clinical Question
+In mechanically ventilated patients without acute respiratory distress syndrome (ARDS), does a low tidal volume ventilation strategy (6mL/Kg), compared to intermediate tidal volume strategy (10mL/Kg), reduce the number of ventilator-free and alive days at day 28?
+Background
+Current international guidelines recommend using low tidal volumes (<6-8 mLs/Kg) during mechanical ventilation of patients
+with
+ARDS (1)
+It is less certain whether tidal volume restriction benefits patients
+without
+ARDS
+This population of ventilated non ARDS patients is important to study (2) as:
+It is many times larger than ARDS patients
+It has been excluded from ARDS trials
+Two previous studies have suggested benefit of a lower tidal volume strategy in non ARDS patients, and an individual patient data meta-analysis (3) suggests that a lower tidal volume may shorten the time spent on the ventilator and duration ICU stay
+However lower tidal volumes could also lead to greater patient- ventilator dysnchrony, higher sedation requirements, and prolonged duration of mechanical ventilation
+Design
+A phase 3, randomised, clinical trial
+Patients were randomised to a low or intermediate tidal volume strategy in a 1:1 ratio, via an automated, web based system, with concealed allocation
+Randomization was done in random block sizes of 2-6 patients, and stratified for center and intubation location (inside or outside of ICU)
+For 80% statistical power to detect a difference of 1 ventilator-free day at day 28 (with an estimated SD of 5 days), a sample size of 952 patients was required (476 per group)
+Primary outcome: ventilator-free days and alive at day 28, defined as the number of days that a patient was alive and free from invasive ventilation at day 28 post randomisation
+Setting
+6 university and non university intensive care units in the Netherlands
+September 2014-August 2017
+Population
+Inclusion
+: Adult ICU patients (over 18 years of age), who received invasive ventilation shortly before or after admission to the ICU and who were expected not to be extubated within 24 hours of randomization. They were randomized within 1 hour of initiation of ventilation in the ICU
+Exclusion
+: The presence of ARDS (according to the criteria of the Berlin definition), age younger than 18 years; pregnancy; ventilation lasting longer than 12 hours before admission to the ICU; increased and uncontrollable intracranial pressure; history of pulmonary disease; new pulmonary thromboembolism; and previously randomized in this trial
+3695 patients were screened. 2734 were not enrolled
+961 (35.1%) ineligible (met exclusion criteria)
+1773 (64.9%) eligible but not enrolled
+705 missed
+348 Enrolled in other study
+296 No written deferred consent obtained
+961 met criteria for randomisation
+Baseline characteristics were similar between low and intermediate tidal volume strategy
+Median age 68 vs 67 years old
+SOFA score 8 (6-11) vs 8 (6-10)
+Medical reason for admission 82.7% vs 83.6%
+Reason for intubation
+Cardiac arrest 23.1% vs 24.8%
+Post-operative ventilation 17.2% vs 16.3%
+Pneumonia 16.1% vs 15.9%
+Sepsis 10.5% vs 9.5%
+Median time between start of ventilation in ICU and randomization was 0.57 hours (0.23-1.00)
+Low Tidal Volume Strategy
+Patients were initiated with tidal volume of 6ml/Kg predicted body weight
+Either volume controlled or pressure support modes
+If volume controlled, tidal volume was decreased by 1mL/Kg every hour to a minimum of 4mL/Kg
+If pressure support, the minimum pressure was 5cm H
+2
+O
+If tidal volume increased to >8mL/Kg PBW despite 5cm H
+2
+O , this was accepted
+In cases of severe dyspnea, increasing levels of discomfort with or without the need for more sedation, a respiratory rate higher than 35/min, uncontrollable acidosis, or patient-ventilator asynchrony, tidal volume could be increased in increments of 1 mL/kg PBW per hour in patients receiving volume-controlled or pressure support ventilation
+Intermediate Tidal Volume Strategy
+Patients were initiated with a tidal volume of 10mL/Kg PBW
+In volume controlled mode, if plateau pressure >25ch H
+2
+O, tidal volume was decreased by 1mL/Kg PBW per hour
+In pressure support mode, pressure support level was adjusted to reach the target tidal volume while keeping the maximum airway pressure less than 25 cm H2O
+Management common to both groups
+Use of analgosedation or muscle relaxants, with the purpose of allowing the assigned ventilation strategy, was not permitted
+PBW was calculated using the following equations: 50 + 0.91 × (height [cm] −4) for men and 45.5 + 0.91 × (height [cm] − 152.4) for women
+The assigned ventilation strategies were continued for a maximum of 28 days
+Outcomes
+Separation between low vs intermediate groups in first 3 days:
+Day 0: 5.9 vs 9.1 mLKg p<0.001
+Day 1: 6.6 vs 9.3 mLKg p<0.001
+Day 2:  7.4 vs 9.1mL/Kg p<0.001
+Majority of patients managed in volume controlled mode day 1, but then most changed over to pressure support by day 2
+Primary outcome
+: No statistical difference primary outcome:
+21 ventilator-free days at day 28 in both groups (IQR, 0-26) (mean difference, –0.27 [95% CI −1.74 to 1.19];
+P
+= .71
+Secondary outcome
+: No statistical difference in:
+Median length of ICU and hospital stay
+ICU and hospital mortality rates
+Mortality at day 28 and 90 days
+Lower tidal volume had increased day 1 CO
+2
+43 vs 36mmHg p<0.001
+Safety:
+No statistical difference in:
+ARDS, pneumonia, severe atelectasis, pneumothorax, need for or duration of sedatives, analgesics or neuromuscular blockage agents, delirium, fluid balance, transfusions of blood products, use of recruitment maneuvers or other rescue therapies
+Authors’ Conclusions
+In this trial of adult patients in the ICU without ARDS who received invasive ventilation and were expected to not be extubated within 24 hours of randomization, a ventilation strategy using low tidal volume was not more effective than a strategy using intermediate tidal volume with respect to the number of ventilator-free days and alive at day 28
+Strengths
+This was a large, multicenter study, including 6 ICUs, improving its external validity
+Randomized study design minimised bias
+Important understudied clinical question that applies to many patients worldwide
+Well defined protocol reduced variability of interventions
+Pre published statistical plan with intention to treat analysis
+Intermediate tidal volume group (10mL/Kg) a closer reflection of current practice than previous trials which have included 12mL/Kg PBW
+Weaknesses
+Inadequate overall separation between the low vs intermediate ventilation strategies after day 1 means this study was likely underpowered to detect any true difference (i.e. false negative trial)
+Patients managed with pressure support ventilation particularly had minimal separation as a result of the protocol, and many in both groups had volumes greater than trial targets (supplement)
+A large number of eligible patients missed entry into the trial (704/2734 or 26%), and many patients or their representatives, refused consent (304/2734 11%). As a result, selection bias was likely to be an issue in the randomised cohort
+Tidal volume, although important, may not be most important target for preventing ventilator associated lung injury (Eg driving pressure, mechanical power)
+Significant heterogeneity of patient population means any benefit in sub groups may be not been detected
+Patients with chronic pulmonary disease excluded and therefore results cannot be applied to this population
+Lack of blinding of clinicians may have led to other non measured changes in management biasing the result
+The primary outcome was a composite end point, and 1 day of ventilator free and alive days at day 28 is of questionable patient centered and clinical significance
+Generalisability to other settings may be limited due to differences in ventilation strategies, sedation, and weaning
+The Bottom Line
+Current practice aiming to avoid higher tidal volumes is based on previous ARDS and non ARDS trials which suggest higher volumes may cause harm
+In this study, no clear difference was found between lower vs higher tidal volumes strategies
+Therefore, clinicians will most likely continue with the current practice to target lower (6-8mL/Kg) tidal volumes in patients without ARDS until further evidence challenges this practice
+External Links
+(1) Fan E, Del Sorbo L, Goligher EC, et al. An Official American Thoracic Society/European Society of Intensive Care Medicine/Society of Critical Care Medicine Clinical Practice Guideline: Mechanical Ventilation in Adult Patients with Acute Respiratory Distress Syndrome. American Journal of Respiratory and Critical Care Medicine. 2017;195(9):1253–63.
+(2) Writing Group for the PReVENT Investigators, Simonis FD, Serpa Neto A, et al. Effect of a Low vs Intermediate Tidal Volume Strategy on Ventilator-Free Days in Intensive Care Unit Patients Without ARDS: A Randomized Clinical Trial. JAMA 2018;320(18):1872–80.
+(3) Rubenfeld GD, Shankar-Hari M. Lessons From ARDS for Non-ARDS Research: Remembrance of Trials Past. JAMA 2018;320(18):1863–5.
+Futier E, Constantin J-M, Paugam-Burtz C, et al. A Trial of Intraoperative Low-Tidal-Volume Ventilation in Abdominal Surgery. N Engl J Med 2013;369(5):428–37.
+(4) Serpa Neto A, Simonis FD, Barbas CSV, et al. Association between tidal volume size, duration of ventilation, and sedation needs in patients without acute respiratory distress syndrome: an individual patient data meta-analysis. Intensive Care Med 2014;40(7):950–7.
+(5) Amato MBP, Meade MO, Slutsky AS, et al. Driving pressure and survival in the acute respiratory distress syndrome. N Engl J Med 2015;372(8):747–55.
+(6)
+EMCrit Podcast Vent & PreVENT – an update
+Metadata
+Summary author:
+Aidan Burrell
+Summary date: 22 November 2018
+Peer-review editor:
+Duncan Chambler

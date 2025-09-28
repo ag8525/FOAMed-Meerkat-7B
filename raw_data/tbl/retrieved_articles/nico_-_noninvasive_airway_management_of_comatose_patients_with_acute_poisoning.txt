@@ -1,0 +1,136 @@
+# Metadata
+- Source: The Bottom Line
+- Title: NICO – Noninvasive Airway Management of Comatose Patients with Acute Poisoning
+- Original URL: https://www.thebottomline.org.uk/summaries/icm/nico-noninvasive-airway-management-of-comatose-patients-with-acute-poisoning/
+- Scrape Date: 2025-07-17
+- Summary Date: AUTO_FILL_IF_AVAILABLE
+
+Effect of Noninvasive Airway Management of Comatose Patients with Acute Poisoning: A Randomized Clinical Trial
+Freund Y. JAMA. 2023. DOI: 10.1001/jama.2023.24391
+Clinical Question
+In adults with a decreased conscious level from suspected acute poisoning, does withholding intubation versus routine practice reduce in-hospital death, and length of ICU stay and hospital stays?
+Background
+The decision to intubate a poisoned patient with GCS < 9 is widely
+debated
+The risks of not intubating include aspiration. However, these risks need to be balanced with the risk of the intubation itself
+There is no high-level evidence assessing which strategy is optimal
+Design
+Multi-centre, open label, randomized controlled trial
+Investigator-initiated
+Unblinded trial due to nature of intervention
+Randomisation in a 1:1 ratio using sealed envelopes and stratified by hospital and block balanced
+Randomisation occurred in an ambulance or in the Emergency Department
+The
+Win Ratio
+(WR) was used to assess primary outcome
+This is a hierarchical composite end point that compares the number of wins against the number of losses across all possible pairs (between intervention and control groups) for each component of the composite end point
+A win is recorded when a more favourable event occurs e.g. survival, shorter length of stay (LOS)
+A tie occurs if the event is the same in both groups e.g. both survive
+WR = Total Wins / Total Losses
+A WR of 1.2 implies there are 20% more wins in the intervention group
+240 patients required based on sample size calculation
+98% power to detect a difference at an alpha of 0.05
+3% mortality with a difference of 1 day in ICU LOS (0 v 1) and 2 days in hospital LOS (2 v 4)
+Allowed for 10% loss to follow up and 10% refusal of consent
+Delayed written informed consent obtained
+Registered at
+clinicaltrials.gov
+Setting
+20 Emergency Departments and 1 ICU in France.
+May 2021 to April 2023
+Population
+Inclusion
+:
+Age ≥ 18 years
+Clinical suspicion of acute poisoning (either alcohol, drug or medication)
+GCS ≤ 8
+Exclusion
+:
+These included:
+Immediate need for intubation
+Respiratory failure (SpO2 < 90% with oxygen provided by nasal cannula (≤ 4 l/min), clinical signs of respiratory distress)
+Shock: sustained SBP < 90 mmHg despite 1L fluid resuscitation
+Suspicion of brain injury (witnessed seizure or acute cerebral aggression)
+Suspected Cardiotropic drugs poisoning (beta blockers, calcium channel blockers, ACE inhibitors)
+Suspected sole intoxication with toxic for which there is an antidote
+237 patients randomised
+225 in primary analysis population
+8 patients withdrew and 4 patients were withdrawn as had protected measures in place
+Baseline characteristics were generally well balanced (restricted intubation vs. control group):
+Age: 33 vs 34
+Female: 40 vs 36%
+Randomised in ED: 63 vs 61%
+SBP: 114 vs 118 mmHg
+Respiratory Rate: 17 vs 17 bpm
+Peripheral SpO2: 97 vs 97%
+GCS: 6 vs 6
+BMI: 25 vs 24
+Toxins (several may have been involved):
+EtoH: 68 vs 65%
+Benzodiazepines: 39 vs 40%
+GHB/GBL: 12 vs 10%
+Intervention
+Intubation withheld unless emergency criteria for intubation evolved
+Reasons included presence of regurgitation, seizure, shock, or sign of respiratory distress
+Assessment of GCS every 30 minutes until GCS > 8
+18% intubated
+Control
+Intubation decision at discretion of treating physician
+60% intubated
+Management common to both groups
+All intubations performed following the guidelines of the French society of intensive care medicine for rapid sequence intubation
+Pre-oxygenation aiming at maintaining a 100% SpO2 for 2 minutes
+Choice of direct or video laryngoscopy was left to the discretion of the physician
+Post-intubation measurement of CO2 with capnography was recommended
+After 4 hours intervention was complete and standard treatment was continued
+Outcome
+Primary outcome
+:
+The hierarchical composite end point of in-hospital death, ICU and hospital LOS was improved in the restricted intubation group
+Win Ratio: 1.85 (95% CI 1.33 – 2.58, p < 0.001)
+No patients died in either group
+Intervention group lower median length of ICU stay:
+0 hours vs 24 hours; RR: 0.39 (95% CI 0.24 to 0.66).
+Intervention median length of hospital stay:
+22 hours compared to 37 hours; RR: 0.74 (0.53 to 1.03)
+18% intubated in restricted arm vs. 60% in control arm
+Absolute risk difference -42.5% (95% CI -54.1 to -30.9)
+Secondary outcomes
+:
+No increased rates of pneumonia: 7 vs 15%
+OR 0.43 (95% CI 0.18 – 1.05)
+Lower percentage of intervention group admitted to ICU: 40% vs 66%
+OR 0.23 (95% CI 0.12 – 0.44)
+In those who were intubated there was no difference in intubation adverse effects and median ICU / hospital LOS
+Pre-specified subgroups:
+GCS < 7: Win Ratio 1.70 (95% CI 1.10 – 2.64)
+EtOH, Benzodiazepines, GHB/GBL: Win Ratio 1.42 (95% CI 0.88 – 2.32)
+Authors’ Conclusions
+Withholding intubation in comatose patients with suspected acute poisoning was associated with greater clinical benefit for the composite end point of in-hospital death, length of ICU stay, and length of hospital stay
+Strengths
+Specifically assessed patient centered outcomes (mortality, ICU and hospital LOS) as compared to aspiration pneumonia which had been reported in prior studies
+The use of a hierarchical composite endpoint is appropriate given differences in the patient importance of the different components of the composite endpoint
+Pragmatic as study design allowed flexibility in what was defined as standard management
+Noted that 40% of control group were not intubated
+Study powered appropriately for primary outcome
+Weaknesses
+Unblinded
+May have influenced decisions around intubation
+Primary hierarchical outcome driven mostly by length of ICU stay outcome
+1 in 5 patients were not admitted to ICU, and no deaths in the study groups
+This is important given the potential difference in disposition for those intubated compared to those who are not (especially in France where the ambulance service brings intubated patients directly to the ICU)
+Wide ranging exclusion criteria limit generalisability to all patients with suspected poisoning
+No documentation around seniority of who was intubating patients or devices / adjuncts used
+First pass failure of ~13% in control group
+The Bottom Line
+In patients with a GCS <8 due to simple acute poisoning with no other adverse features, close monitoring and delaying intubation for up to 4 hours reduces ICU admissions and ICU LOS
+External Links
+Effect of Noninvasive Airway Management of Comatose Patients With Acute Poisoning A Randomized Clinical Trial
+Safety of withholding intubation in gamma hydroxybutyrate and gamma-butyrolactone-intoxicated coma patients in the emergency department paper
+Endotracheal intubation to reduce aspiration events in acutely comatose patients: a systematic review
+The win ratio approach for composite endpoints: practical guidance based on previous experience
+Metadata
+Summary author: Thomas Judd @drtomjudd
+Summary date: 12th April 2024
+Peer-review editor: George Walker
+Picture by: frolicsomepl/Pixabay

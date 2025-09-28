@@ -1,0 +1,106 @@
+```yaml
+source: The Bottom Line
+title: LOTUS China
+original_url: https://www.thebottomline.org.uk/summaries/lotus-china/
+scrape_date: 2025-07-17
+summary_author: Daniel Hu, PharmD, BCCCP
+summary_date: 2020-03-19
+peer_review_editor: Dave Slessor
+summary: |
+  The LOTUS China trial evaluated the efficacy and safety of lopinavir-ritonavir in adults hospitalized with severe COVID-19. This randomized, controlled, open-label trial conducted at Jin Yin-Tan Hospital in Wuhan, China, involved 199 patients, with 99 receiving lopinavir-ritonavir and 100 receiving standard care. The primary outcome, time to clinical improvement, showed no significant difference between the groups, with a median of 16 days for both. Secondary outcomes indicated some improvements in ICU stay duration and hospitalization length among survivors in the treatment group, but no significant differences in mortality or viral RNA detection were observed. The study concluded that lopinavir-ritonavir did not significantly enhance clinical outcomes in severe COVID-19 cases, highlighting the need for further research on earlier treatment interventions.
+---
+
+# A Trial of Lopinavir–Ritonavir in Adults Hospitalized with Severe Covid-19
+
+## Clinical Question
+In patients infected with SARS-CoV-2, what is the efficacy and safety of oral lopinavir–ritonavir?
+
+## Background
+Lopinavir has shown in-vitro activity against SARS-CoV and MERS-CoV. With the SARS-CoV-2/COVID-19 pandemic, evaluating medications for safety and efficacy is crucial. Previous case series showed variable results with lopinavir-ritonavir.
+
+## Design
+- Randomised, controlled, open-label trial
+- Web-based randomisation
+- Block randomisation stratified by respiratory support
+- No placebo due to the emergent nature of the trial
+- Primary efficacy analysis on an intention-to-treat basis
+- Primary outcome assessed up to day 28
+- Original sample size of 160 for 80% power to detect an 8-day difference in median time to clinical improvement
+
+## Setting
+- Jin Yin-Tan Hospital, Wuhan, Hubei Province, China
+- Data collected: 18 January 2020 to 3 February 2020
+
+## Population
+
+**Inclusion Criteria:**
+- Male and non-pregnant female patients ≥18 years
+- Positive RT-PCR for SARS-CoV-2
+- Pneumonia confirmed by chest imaging
+- Oxygen saturation ≤94% on ambient air or PaO₂/FiO₂ ≤300 mm Hg
+
+**Exclusion Criteria:**
+- Physician decision against trial participation
+- Conditions preventing protocol adherence
+- Known allergy to lopinavir–ritonavir
+- Severe liver disease
+- Contraindicated medications
+- Pregnancy or breastfeeding
+- Known HIV infection
+
+**Enrollment:**
+- 199 patients randomised: 99 to lopinavir–ritonavir, 100 to standard care
+
+## Intervention
+- Lopinavir–ritonavir 400mg/100mg orally or via nasogastric tube plus standard care for 14 days
+- 5 patients in the treatment group did not receive the intervention
+
+## Control
+- Standard care alone for 14 days
+- Standard care included supplemental oxygen, ventilation, antibiotics, vasopressors, renal-replacement therapy, and ECMO as needed
+
+## Outcomes
+
+### Primary Outcome
+- Time to clinical improvement or live discharge from hospital: no significant difference
+  - Median: 16 days vs. 16 days
+  - Hazard ratio for clinical improvement: 1.31 (95% CI: 0.95–1.85); p = 0.09
+
+### Secondary Outcomes
+- Significant improvements in the intervention group:
+  - Duration of ICU stay: median 6 days vs. 11 days
+  - Duration of hospitalization in survivors: median 12 days vs. 14 days
+  - Clinical improvement at day 14: 45% vs. 30%
+  - Clinical improvement at day 28: 79% vs. 70%
+- No significant difference in:
+  - Clinical improvement at day 7
+  - Mortality at day 28
+  - Duration of mechanical ventilation
+  - Time from treatment initiation to death
+  - Viral RNA detection over time
+
+## Authors’ Conclusions
+Lopinavir–ritonavir treatment did not significantly accelerate clinical improvement, reduce mortality, or diminish throat viral RNA detectability in patients with severe Covid-19.
+
+## Strengths and Weaknesses
+- **Strengths**
+  - Quick response to the pandemic
+  - Informed consent obtained
+  - Registered on Chinese trial registry
+  - Allocation concealment through web randomisation
+- **Weaknesses**
+  - Open-label design could introduce bias
+  - No long-term data available
+  - Median time to treatment was 13 days, possibly too late for effectiveness
+  - 14% of the lopinavir-ritonavir group did not complete treatment due to side effects
+  - Study potentially underpowered despite increased enrollment
+
+## Bottom Line
+In this single-centre, non-blinded RCT, lopinavir-ritonavir did not demonstrate efficacy in reducing mortality or viral loads in severe Covid-19 patients. Further studies are needed to assess earlier treatment efficacy.
+
+## External Links
+- **Original article:** [A Trial of Lopinavir–Ritonavir in Adults Hospitalized with Severe Covid-19](https://www.nejm.org/doi/full/10.1056/NEJMoa2001282)
+- **PulmCrit:** Is Lopinavir/Ritonavir down and out?
+- **REBEL EM:** Lopinavir-Ritonavir in Hospitalized Patients with Severe COVID-19
+- **INTENSIVE Blog review**
+```

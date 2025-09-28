@@ -1,0 +1,64 @@
+# Metadata
+- Source: The Bottom Line
+- Title: Olasveengen
+- Original URL: https://www.thebottomline.org.uk/summaries/em/olasveengen/
+- Scrape Date: 2025-07-17
+- Summary Date: AUTO_FILL_IF_AVAILABLE
+
+Intravenous drug administration during out-of-hospital cardiac arrest
+Olasveengen, JAMA. 2009, 302(20):2222-2229
+Clinical Question
+In patients with an out-of-hospital cardiac arrest does removing the use of intravenous medications improve survival?
+Design
+Randomised controlled trial
+Use of sealed envelopes to ensure allocation concealment
+Non-blinded
+Setting
+Pre-hospital, Oslo, Norway
+01.05.2003. – 28.08.2008.
+Population
+Inclusion: adult patients with out-of-hospital (OOH) cardiac arrests
+Exclusion: traumatic cardiac arrest; arrest secondary to asthma/anaphylaxis; arrest witnessed by ambulance staff
+851 patients included out of 1183 patients for whom resuscitation attempted
+Intervention
+Use of intravenous drug administration together with Advanced Cardiac Life Support (ACLS)
+according to standard guidelines (administered adrenaline, atropine, amiodarone as per guidelines at that time)
+Control
+Did not attempt intravenous drug administration with ACLS
+Outcome
+Primary outcome: survival to hospital discharge – No significant difference
+Comparing IV with ‘No IV group’: 10.5% vs. 9.2% (Odds ratio 1.16, 95% C.I. 0.74-1.82, P=0.61)
+Secondary outcomes:
+Return Of Spontaneous Circulation (ROSC) – overall significant improvement in IV group
+40% vs. 25% (OR 1.99, 95% C.I. 1.48-2.67, P<0.001)
+ROSC in patients presenting with VF/VT – no significant difference
+59% vs. 53%, P=0.35
+ROSC in patients presenting with PEA/asytole – significant improvement in IV group
+29% vs. 11%, P<0.001
+Survival with good neurological outcome – no significant difference
+9.8% vs. 8.1%  (OR 1.24, 95% C.I. 0.77-1.98, P=0.45)
+Authors’ Conclusions
+Patients in OOH cardiac arrest had increased rates of ROSC, but no statistically significant improvement in survival to discharge.
+Strengths
+Randomised
+Quality of chest compressions assessed
+All patients treated with post-resuscitation protocols including therapeutic hypothermia
+Intention to treat analysis
+Weaknesses
+May have been under-powered, as power calculation determined on basis of doubling survival rate. For the observed differences to be statistically significant a sample size of 14,000 patients would be needed
+In IV group only 79% received adrenaline
+The Bottom Line
+The use of intravenous resuscitation medications to patients with OOH cardiac arrest led to an increased rate of ROSC only in patients presenting in PEA/asystole. There was no improvement in survival to discharge or neurological outcome in either the shockable or non-shockable rhythm groups. A larger trial is required to determine if there is any benefit from this ‘standard treatment.’ This is even more important to do when other trials have found an association between the use of adrenaline and a poor neurological outcome.
+Links
+Full text pdf
+/
+abstract
+/ doi: 10.1001/jama2009.1729
+Editorial, Commentaries or Blogs
+None
+Metadata
+Summary author:
+@davidslessor
+Summary date: 16 May 2014
+Peer-review editor:
+@stevemathieu75

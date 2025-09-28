@@ -1,0 +1,185 @@
+# Metadata
+- Source: The Bottom Line
+- Title: PAMPer
+- Original URL: https://www.thebottomline.org.uk/summaries/em/pamper/
+- Scrape Date: 2025-07-17
+- Summary Date: AUTO_FILL_IF_AVAILABLE
+
+Prehospital Plasma during Air Medical Transport in Trauma Patients at Risk for Hemorrhagic Shock
+Sperry et al. NEJM. Published 26
+th
+July, 2018. N Engl J Med 2018;379:315-26. DOI: 10.1056/NEJMoa1802345
+Clinical Question
+In severely injured patients at risk for haemorrhagic shock, does prehospital plasma resuscitation, compared with standard-care resuscitation (not including plasma administration), reduce 30-day mortality?
+Background
+Bleeding trauma patients have traditionally been managed with the prehospital infusion of crystalloids, and with component transfusion (RBCs, plasma, platelets) started once the patient arrives in hospital.
+Recent evidence that suggests the early institution of blood components that more closely resembles whole blood may help prevent trauma coagulopathy, downstream traumatic shock, and improve outcomes (“AKA haemostatic transfusion”)
+The PROPPR trial (2015) was a multicenter RCT of in hospital patients at level 1 trauma centers comparing massive transfusion protocols based on plasma, platelets and RBCs ratios of 1:1:1 vs 1:1:2. There was no statistically significant mortality difference on the primary 30 day mortality outcome
+However death from exsanguination was reduced (9.2% vs 14.6% in 1:1:2 group; difference, −5.4% [95% CI, −10.4% to −0.5%];
+P
+= .03
+The majority of studies have focussed on in hospital patients, with few focussing on the pre hospital management
+One exception is the COMBAT trial, published in July 2018. This was a single centre, placebo controlled, RCT of patients with haemorrhagic shock, which compared the prehospital infusion of plasma to a normal saline placebo. There was no difference in day 28 day mortality between plasma and crystalloid 15% vs 10% P=NS.
+This study was blinded, however transport times were very rapid 16-19 mins, and it was only a single centre with smaller numbers
+Therefore the efficacy and safety of prehospital initiation of plasma resuscitation in bleeding trauma patients in a large multicentre trial is not well defined.
+Design
+Pragmatic, phase 3, multicentre, cluster-randomized trial
+Team in ambulances screened and enrolled patients
+Randomisation was of air medical services (2 to 6 bases or helicopters per service), and not individual patients.
+These were block randomized and assigned to the plasma arm or standard care (control) arm for 1 month at a time.
+The block scheme was varied randomly between 2, 4, and 6 month block sizes over the period of enrollment for the trial at each participating center.
+Delayed consent approach after community consultation
+No blinding of prehospital and hospital staff, but trial assessors were blinded
+No commercial support for trial
+Power calculation
+Assuming a 1:1 randomization of 32 clusters or 16 patients each, 530 patients (504 eligible patients with complete data) would provide the trial with 88% power to detect a difference of 14 percent age points (8.0% vs. 22.0%) in 30-day mortality
+The sample size was increased to 564 patients after 2 years and 8 months owing to a higher rate of ineligible patients in the prehospital setting than was initially estimated.
+Statistical significance for the primary analysis (P<0.038) was adjusted for two interim analyses by the external data safety monitoring board
+Setting
+27 pre hospital air medical transport services that transport patients to 9 participating level 1 trauma centers
+All centers in the United States
+Enrolment from 2014 to October 2017
+Population
+Inclusion:
+Blunt or penetrating trauma patients, and
+Transported from a scene of their injury or from an outside referral ED to a participating trauma centre, and
+At risk of haemorrhagic shock, as defined by at least one episode of:
+Hypotension (systolic blood pressure <90mmHg) and tachycardia (HR>108/min)
+Severe hypotension (systolic blood pressure <70mmHg)
+Exclusion:
+>90 years old or <18 years old
+Unable to establish IV or IO access
+Isolated fall from standing
+Documented cervical cord injury
+Known to be a prisoner
+Pregnant
+Traumatic cardiac arrest >5 minutes
+Penetrating brain injury
+Isolated drowning or hanging
+>20% TBSA burns
+Admitted to an outside referral hospital
+Patient or family member objected to participation in the trial at the scene
+A total of 501 patients were enrolled
+390 enrolled directly at scene, while 111 transferred from a non-trauma centre emergency department
+72.7% were men
+Median age 45 years old
+82.4% had blunt trauma
+High risk trauma population
+Median injury severity score 22 (13-30)
+Median MAP 70 Median HR 116
+Prehospital intubation in 51.1%
+34.7% received prehospital red blood cells
+58.4% had urgent operations in initial 24hours
+Overall mortality 29.6%
+Assigned treatment given in 496/501 (99.0%) patients
+A total of 42 patients were lost to follow-up (19 of plasma vs 23 crystalloid)
+Similar baseline demographics, prehospital vital signs, and injury scores in all areas except
+Prehospital crystalloid was lower in plasma group median 500mls (0-1250) vs 900mls (0-1500)
+Prehospital RBC transfusion was lower in plasma group 26.1% vs 42.1%
+Intervention
+Air medical bases randomized to the intervention were provided with 2 units of thawed plasma stored in coolers with a temperature between 1 to 10 degrees
+Plasma was either group AB (“universal donor”) or group A with a low anti-B antibody titre (<1:100)
+Plasma was initiated in prehospital setting by air transport team before other resuscitative fluids were given
+The infusion was required to be completed once started
+The infusion was not previously part of standard care in any of the participating sites
+Following completion of the plasma, goal directed resuscitation as described below continued until arrival at trauma centre, including the infusion of crystalloids and or RBCs
+Control
+Goal-directed, crystalloid-based resuscitation targeting a systolic blood pressure of ≥90mmHg
+This was not standardised, but was guided by local  air ambulance protocols
+Management common to both groups
+In addition to above crystalloid resuscitation, 13/27 air transport teams also carried 2 units of universal donor red cells
+RBC transfusion was indicated if after 1L of crystalloid there was ongoing
+Hypotension with systolic blood pressure <90mmHg
+Changes in mental status
+Tachycardia with heart rate >120 beats per minute
+Capillary refill >2 seconds
+This was done in the intervention group only after the plasma infusions was complete
+Outcome
+Primary outcome:
+30 day mortality was significantly lower in the plasma group compared to control (23% vs. 33.0%; difference−9.8%, 95% CI −18.6 to −1.0; P=0.03)
+Number needed to treat to prevent one death at 30 days was 10
+Multiple sensitivity analyses performed to account for missing data and significant differences remained
+An analysis that controlled for differences in volume of crystalloid and prehospital red-cell transfusion demonstrated that administration of prehospital plasma was still associated with a reduced risk of death within 30 days after randomization (adjusted odds ratio, 0.61; 95% CI, 0.40 to 0.91; P = 0.02).
+Kaplan– Meier survival curves showed an early separation of the two groups that began 3 hours after randomization and remained until 30 days after randomization (log-rank chi-square test, 5.70; P=0.02)
+Subgroup analysis of primary outcome revealed lower mortality at 30 days in most prespecified subgroups, however after adjusting for multiple comparisons, no significant interactions were found.
+Secondary trial outcomes
+The plasma group, compared to standard care, had the following outcomes
+24 hour mortality 13.9% vs 22.1% P=NS
+In-hospital mortality 22.2 % vs 32.5% P=NS
+Median 24 hour volume of RBCs 3 (0-7) vs 4 (1-9) P=NS
+Median 24 hour volume of crystalloid 4388 (2225-6320) vs 4500 (3000-6800) P=NS
+Vasopressors received in first 24hours 45.2% vs 50.9% P=NS
+Multiorgan failure 63.0% vs 57.6% P=NS
+Median initial INR lower 1.2 (1.1-1.4) vs 1.3 (1.1-1.6)
+P<0.001
+Allergic reaction or transfusion related reaction higher 2.2 vs 0.4% P=NS
+These were classified as minor and were considered “possibly related” to the trial treatment
+Authors’ Conclusions
+In patients at risk for hemorrhagic shock, the administration of thawed plasma during prehospital air medical transport was safe and resulted in lower 30-day mortality and a lower median prothrombin-time ratio than standard-care resuscitation.
+Strengths
+Multi centre, randomized controlled trial
+Important relevant question as majority of trauma related deaths due to haemorrhage occur early, so prehospital interventions are important to research
+Primary analysis was adjusted to account for prehospital crystalloid and RBC transfusion differences, therefore reducing any confounding these may have had on the results.
+Population identified was relevant to the study question, with a high proportion having haemorrhage that required transfusion and surgery.
+Intervention was relatively simple to deliver and would be reproducible in systems already with capacity to deliver blood products
+Early separation of the KM effect makes its treatment effect more plausible
+Weaknesses
+Imbalances of prehospital crystalloid and RBC transfusion complicate interpretation
+Plasma group had less crystalloid and RBC transfusions compared to standard care
+Probably as a result of the volume that was also given in plasma (300ml plasma x 2 = 600mls)
+However when a multivariate regression model was used to adjust for these factors, it did not effect the overall result – adjusted odds ratio 0.61; 95% CI, 0.40 to 0.91; P = 0.02
+No blinding of prehospital and hospital clinicians increased the risk they changed their behaviours and biased the results
+Questionable biological plausibility
+A 10% drop in mortality is a very large reduction for a single intervention of 600mls of plasma
+Unclear mechanism of action
+The large mortality benefit appears to have occurred very early (see KM curves) and a 8.2% mortality difference by 24hours
+The difference in INR (1.2 vs 1.3), although statistically significant, is unlikely to account for all of this mortality difference.
+Other potential mechanisms (?less crystalloid, less RBCs, anti-inflammatory effects) not clarified
+The total volume given prehospital was not reported, but was probably similar in both groups, and blood pressure and heart rates very similar
+Allocation
+Crystalloid (mls)
+Plasma (mls)
+RBC (% transfused)
+Prehospital total (mls)
+Plasma
+500
+600
+26%
+?Similar
+Crystalloid
+900
+0
+42%
+?Similar
+Resuscitation protocols were not standardized, but instead were dictated by local protocols, which may have resulted in  variation in delivered treatments
+Generalisability to other air medical transport systems is not clear
+Currently many air transport services do have the capacity to carry blood products (14/27 did not the trial)
+Results may not be generalisable to other system with longer or shorter transport times (i.e. > or < 41 minutes)
+AB plasma is a rare resource (only accounts for 3-4% of the blood donor pool), and is therefore may be difficult to access in different systems
+Many centres do not use group A with low antibody titres, making availability of the plasma potentially more difficult
+Majority of patients had blunt trauma, so results not generalisable to penetrating trauma
+No mention of the use of prehospital tranexamic acid
+Economic analysis not performed
+Although plasma is relatively inexpensive in most systems (for example, AU$280/unit), it requires a lot of resources and logistics to make it work safely in prehospital setting.
+The Bottom Line
+The early (prehospital) initiation of plasma results in a significant fall in mortality in patients at high risk of bleeding without a significant increase in harm.
+Further blinded studies are needed to confirm this benefit, and to test its applicability in different trauma systems.
+External Links
+[original article]
+Sperry JL, Guyette FX, Brown JB, et al. Prehospital Plasma during Air Medical Transport in Trauma Patients at Risk for Hemorrhagic Shock. N Engl J Med 2018;379(4):315–26
+.
+[further reading]
+NEMJ Editorial
+by Jeremy W. Cannon
+[further reading]
+Plasma-first resuscitation to treat haemorrhagic shock during emergency ground transportation in an urban area: a randomised trial
+by Moore et al
+[further reading]
+PROPPR trial
+summarised by TBL
+Metadata
+Summary author:
+Aidan Burrell
+Summary date: 01 August 2018
+Peer-review editor:
+Duncan Chambler

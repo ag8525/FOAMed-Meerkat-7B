@@ -1,0 +1,144 @@
+# Metadata
+- Source: The Bottom Line
+- Title: NAVIGATE: Early noninvasive ventilation in general wards for acute respiratory failure
+- Original URL: https://www.thebottomline.org.uk/summaries/navigate/
+- Scrape Date: 2025-07-17
+- Summary Date: AUTO_FILL_IF_AVAILABLE
+
+NAVIGATE: Early noninvasive ventilation in general wards for acute respiratory failure
+Monti et al. for the NAVIGATE Study Group, BJA Feb 2025. doi:10.1016/j.bja.2024.11.023
+Clinical Question
+In adult patients with mild acute respiratory failure (ARF), does a regime of 2-hour cycles of noninvasive ventilation (NIV), delivered on general wards every 8 hours, reduce the progression to severe acute respiratory failure (defined as non-intubated P:F ratio <200, hypercapnoeic acidaemia, or clinical signs of severe respiratory distress)?
+Background
+ARF comprises a high proportion of ICU referrals and admissions and has high morbidity and mortality
+The UK has fewer critical care beds per capita than most comparable countries, so preventing severe acute respiratory failure requiring intensive care admission has immediate patient and public benefits
+There is some physiological rationale for the benefits of NIV in maintaining alveolar recruitment, reducing work of breathing, reducing left ventricular afterload, and increasing minute volume. Conversely, it can worsen shunt and secretion clearance, can be poorly tolerated, may mask deterioration requiring intubation, and may increase the risk of patient self-inflicted lung injury (P-SILI) due to high and poorly controlled transpulmonary pressures
+Continuous NIV (including CPAP and BIPAP) is part of the standard management of COPD and cardiogenic pulmonary oedema, and is likely beneficial in COVID pneumonitis
+Classical teaching is to avoid NIV in community acquired pneumonia and asthma.
+For these and other causes of acute respiratory failure, recent guidelines have instead recommended high-flow nasal oxygen (HFNO), to reduce the risk of subsequent intubation
+Design
+Multicentre, international, investigator-initiated, open-label, randomised controlled trial with pre-published trial protocol and statistical analysis plan
+1:1 randomisation, computer-generated permuted-block randomisation list stratified by centre
+Intention-to-treat analysis
+Sample size calculation: 520 patients (with 10% dropout rate) would give 90% power to detect their estimated reduction in primary outcome from 22% to 11% with a 5% false positive rate.
+Midway through the trial the authors added an inclusion for patients undergoing elective thoracoabdominal aortic aneurysm repair. The supplementary material makes reference to these patients, who had different inclusion criteria and clinical settings (as they were admitted to ICU postoperatively), but their data were analysed and published separately and were not included in the numbers for this trial
+Setting
+11 hospitals in Italy (455 patients in 9 centres), Greece (30 patients in 1 centre), and Kazakhstan (38 patients in 1 centre)
+Recruitment from May 2012 to July 2023
+Population
+Inclusion: Patients >= 18 years old admitted to non-ICU wards with “mild acute respiratory failure” (ARF)
+“Mild ARF” was defined by
+at least one
+of:
+Radiological evidence of new pulmonary consolidation or atelectasis
+Hypoxaemia; defined as peripheral saturations <92% on room air OR PaO2/FiO2 ratio <300
+Mild decompensated hypercapnoea (PaCO2>6 with pH<7.35)
+Clinical signs of respiratory distress while on room air (dyspnoea, utilisation of accessory muscles, or paradoxical movements of thoracoabdominal wall)
+Exclusions:
+ARF due to acute exacerbation of COPD
+Severe
+hypoxaemia (PaO2/FiO2 ratio <200),
+Severe
+hypercapnoeic acidaemia (PaCO2 >6 with pH <7.30)
+Immediate need for mechanical ventilation or intensive care admission
+Invasive or non-invasive mechanical ventilation earlier in hospital admission, extremely poor prognosis, refusal of consent, or standard contraindications to NIV such as inability to fit mask, hypotensive shock, vomiting, or undrained pneumothorax
+Over 11-year period: 1317 screened; 524 randomised; 523 in primary analysis and 472 in per-protocol analysis
+148 excluded for previous mechanical ventilation during the hospital admission, 116 as severe hypoxaemia, 99 had COPD, 92 required ICU admission or mechanical ventilation, 89 refused consent.
+Baseline characteristics (early NIV v usual care):
+Female 45% v 45%, age 74 v 73, BMI 26 v 26, w
+hite 90% v 93%
+Comorbidites included:
+COPD 20% v 16%
+Chronic heart failure 25% v 26%
+Respiratory failure caused by
+pneumonia in
+39% v 46%
+cardiogenic pulmonary oedema 17% v 17%
+postoperative respiratory failure 20% v 19%
+Admitted with COVID 19% v 20%
+FiO2 at randomisation was a median of 0.30 v 0.28;
+28% v 33% were on room air
+Randomisation was a median of 3 (1-5) v 2 (1-6) days after admission
+Most filled multiple of the “mild ARF” categories above;
+Hypoxia 97% v 95%
+Radiological evidence
+52% v 61%
+Clinical signs of respiratory distress on room air 30% v 30%
+Mild decompensated hypercapnoea 2.3% v 2.3%
+Intervention
+Early NIV
+2 hour cycles of noninvasive ventilation every 8 hours, depending on tolerance
+Ventilatory settings and interface was not prescribed and could include CPAP (recommended at 5 – 8cmH2O and titrated) or BIPAP (recommended if hypercapnic)
+Ultimately, 90% of patients received CPAP with a median PEEP of 7, 85% via a oro-nasal mask
+Targets were peripheral oxygen saturations of >92% and PaCO2 of <6
+Cycles of NIV were continued for at least 24 hours and a maximum of 12 days; discontinuation criteria were assessed every 8 hours and included resolution of the mild ARF or deterioration
+Patients were treated for an average of 3 (2-5) days
+Use of high-flow nasal cannulae was rare and considered a protocol violation
+Control
+Usual care
+Standard care given at the discretion of the treating physician, including low-flow oxygen, diuretics, antibiotics, etc
+The control group could not be given NIV therapy unless the primary endpoint was reached
+Management common to both groups
+Target peripheral oxygen saturations of 92-95%
+Clinical re-evaluation by a member of the anaesthetic or critical care team daily
+Most participating centres had several years of prior experience of NIV outside ICU, with management of NIV according to local protocols. In more than half the centres, nurse:patient ratio was between 1:11-1:15 in the day, and lower than 1:15 at night. There were no respiratory therapists used
+Outcomes
+Primary outcome was progression to “severe respiratory failure” during the index hospitalisation
+This occurred
+significantly less often
+in the early NIV group
+18.5% of the early NIV group and 28.3% of the usual care group (RR 0.65, 95% CI 0.48 to 0.90, AR -9.8%, 95% CI -17% to -2.6%, p = 0.08, NNT = 11)
+“Severe respiratory failure” was defined as any of (early NIV vs usual):
+Severe hypoxaemia (PaO2/FiO2 <200); 12.5% v 21.3%;
+7% v 9% had severe hypoxaemia at randomisation and these were counted as an “enrollment violation”. These patients were only counted as meeting the primary outcome endpoint if they were intubated, admitted to ICU, or died due to respiratory failure
+Clinical signs of severe respiratory distress whilst on oxygen (persistent marked dyspnoea, use of accessory respiratory muscles, paradoxical movements of thoracoabdominal wall); 15% v 24%
+Severe hypercapnoeic acidaemia (PaCO2 >6 and pH <7.30); 3% v 1.9%
+Some patients met several simultaneously:
+There was
+no difference
+in the defined secondary outcomes, including:
+Length of hospital stay (10d v 9d)
+All-cause 28d mortality (11% v 11%)
+There were also no differences in other exploratory outcomes, including
+90-day mortality (9.1% v 9.7%)
+ICU admission (8.3% v 7.0%)
+Treatment with invasive mechanical ventilation (6.8% v 6.2%) nor intubation for respiratory distress (4.9% vs 4.3%)
+11% of the early NIV group and 23% of the usual care group (p<0.001) were treated with “prolonged NIV”, defined as NIV for at least 12 hours per day resulting from clinical signs of severe respiratory distress occurring after the primary endpoint was reached
+NIV was well-tolerated without a difference in the incidence of a range of other respiratory complications
+Authors Conclusions
+“In patients with mild acute respiratory failure treated in nonintensive care wards, early NIV reduced the progression to severe acute respiratory failure.”
+Strengths
+Multicentre, investigator-initiated, transparently reported trial
+Pragmatic inclusion of wide range of acute respiratory failure subgroups; effect consistently seen across pre-specified subgroups
+Excellent 90-day completeness of follow-up for primary and secondary outcomes, and low rate of crossover
+Important and relevant clinical question proposing a management strategy that may be applicable to a wide range of UK hospital patients
+An impressive and commendable feat to run a trial on this scale essentially without funding
+Weaknesses
+Composite primary outcome effect was driven mainly by a reduction in rate of clinical signs of “respiratory distress”, a judgement that is subjective and risks bias
+This is particularly important given 30% of each group had signs of respiratory distress before being started on NIV
+Additionally, clinicians were free to initiate noninvasive ventilation in the usual care group only after declaring the primary outcome was met. NIV has already been shown to improve outcomes in COPD (a comorbidity in some 18% of patients in this trial), cardiogenic pulmonary oedema (the cause of respiratory failure in 17% of participants), and COVID-pneumonitis (20%) – so clinicians whose practice would usually be to use NIV in these patients may have consciously or subconsciously seen eg. increased accessory muscle use to justify meeting the primary outcome to permit use of NIV
+The line for “severe hypoxaemia” was defined as a (non-intubated) P:F ratio of <200. More than 95% of these patients had some degree of mild hypoxia at inclusion, and I do not know if in this context crossing over to <200 is particularly relevant to patients or clinicians
+It is surprising that despite a large reduction in their primary outcome, there was no difference in rates of intubation, length of stay, or mortality
+Trial designed prior to widespread use of high-flow nasal oxygen, and this has become part of routine care for many of these patients today and is recommended by ESICM and BTS guidelines
+Non-standardised patient monitoring makes translation to non-intensive critical care units more difficult, especially given the 11-year recruitment period
+How trained were the nurses in titrating NIV settings or responding to issues? Did the patients have arterial lines or regular blood gases? How effective was their physiotherapy, mobilisation, etc on the general medical ward?
+Given this, it is difficult to predict  how expensive the intervention would be (consumables, machines, nurse and physiotherapy training, etc)
+The Bottom Line
+Delivering 2-hour episodes of NIV on medical wards to patients with mild (average FiO2 0.3, approximately 1/3 of patients on room air) respiratory failure may be safe and effective in reducing their progression to more severe respiratory failure. This intervention can be delivered with low nurse:patient ratios on general medical wards
+However, given the subjectivity of the composite primary outcome, and lack of effect in harder and more patient-centred outcomes, I remain unconvinced of the cost effectiveness of the intervention these patients
+I will continue to use low- or high-flow oxygen as first-line in most of these patients
+External Links
+Original Article
+ESICM guidelines
+on ARDS, including recommendations on HFNO and NIV
+Presentation and discussion at last year’s CCR24 in Belfast:
+vimeo link
+Metadata
+Summary author: Hrishee Vaidya –
+bsky
+/
+twitter
+Summary date: 16/02/2025
+Peer-review editor: David Slessor
+Picture by: Karolina Grabowska /
+Pexels

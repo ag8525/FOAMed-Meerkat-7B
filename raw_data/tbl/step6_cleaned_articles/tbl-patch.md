@@ -1,0 +1,115 @@
+---
+source: The Bottom Line
+title: PATCH (Platelet Transfusion versus Standard Care after Acute Stroke due to Spontaneous Cerebral Haemorrhage Associated with Antiplatelet Therapy)
+original_url: https://www.thebottomline.org.uk/summaries/icm/patch/
+scrape_date: 2025-07-17
+summary_author: @davidslessor
+summary_date: 2016-06-21
+peer_review_editor: @duncanchambler
+summary: |
+  The PATCH trial investigated whether platelet transfusion improves outcomes in patients with acute intracerebral hemorrhage (ICH) on antiplatelet therapy compared to standard care. Conducted across 41 European hospitals, the study found that platelet transfusion was associated with worse functional outcomes at 3 months, with higher odds of death or dependence (adjusted OR 2.05, p=0.01). Secondary outcomes showed no significant survival benefit and a trend towards increased complications. Despite being a randomized controlled trial with robust design elements, limitations included non-blinding and baseline group differences. The authors concluded that platelet transfusions should not be recommended for these patients outside clinical trials.
+
+---
+
+# Platelet Transfusion versus Standard Care after Acute Stroke due to Spontaneous Cerebral Haemorrhage Associated with Antiplatelet Therapy (PATCH Trial)
+
+## Clinical Point
+In patients with acute intracerebral haemorrhage (ICH) associated with antiplatelet therapy, does platelet transfusion compared with standard care reduce death or dependence?
+
+## Design
+- Randomised controlled trial
+- Web-based randomisation system
+- Biased coin randomisation
+- Non-blinded clinicians and patients
+- Primary outcome assessed by blinded neurologist or research nurse
+- Intention-to-treat analysis
+- 91% power to detect a common odds ratio of 0.43 in ordinal logistic regression for all pairs of modified Rankin Scores (mRS) categories
+
+## Setting
+- 41 hospitals in Europe (Netherlands, UK, France)
+- Study period: February 2009 to October 2015
+
+## Population
+
+**Inclusion Criteria:**
+- Adult patients with non-traumatic supratentorial ICH confirmed by brain imaging
+- GCS 8-15
+- Platelet transfusion initiated within 6 hours of symptom onset and within 90 minutes of brain imaging
+- On antiplatelet therapy for at least 7 days prior to ICH
+- Baseline mRS of 0 or 1
+
+**Exclusion Criteria:**
+- Blood on imaging suggestive of epidural or subdural haematoma
+- Underlying aneurysm or AV malformation
+- Planned surgical evacuation of ICH within 24 hours
+- Intraventricular blood more than sedimentation in posterior horns
+- Previous adverse reaction to platelet transfusions
+- Use of Vitamin K antagonist unless INR ≤1.3
+- History of coagulopathy or platelet <100
+- Imminent death
+
+**Enrollment:**
+- 190 patients randomised
+
+## Intervention
+
+**Platelet Transfusion Group:**
+- Leucocyte-depleted platelet transfusion
+- 5 units if on COX inhibitor, 10 units if on ADP receptor inhibitor
+- n=97, 4 did not receive transfusion
+
+## Control
+- Standard care (not defined)
+- n=93, 2 received platelet transfusion
+
+## Outcomes
+
+### Primary Outcome
+- Functional outcome at 3 months (mRS)
+  - Odds of shift towards death or dependence higher in intervention group
+  - Unadjusted OR 1.84 (95% CI: 1.1–3.08), p=0.02
+  - Adjusted OR 2.05 (95% CI: 1.18–3.56), p=0.01
+
+### Secondary Outcomes
+- Alive at 3 months: 68% vs. 77%, OR 0.62 (95% CI: 0.33–1.19), p=0.15
+- mRS score 4-6 at 3 months: 72% vs. 56%, OR 2.04 (95% CI: 1.12–3.74), p=0.02
+- mRS score 3-6 at 3 months: 89% vs. 82%, OR 1.75 (95% CI: 0.77–3.97), p=0.18
+- Median ICH growth at 24 hr: 2.01 ml vs. 1.16 ml, p=0.81
+- No significant difference in serious adverse events: 42% vs. 29%, OR 1.79 (95% CI: 0.98–3.27)
+- Thromboembolism: 4% vs. 1%, OR 3.96 (95% CI: 0.43–36.08)
+- Complication of ICH: 25% vs. 14%, OR 2.02 (95% CI: 0.96–4.27)
+
+**Pre-specified Sub-group Analysis:**
+- Haematoma volume:
+  - <7 ml: OR 2.46 (95% CI: 1.02–5.94)
+  - 7-30 ml: OR 1.4 (95% CI: 0.58–3.39)
+  - >30 ml: OR 0.87 (95% CI: 0.27–2.76)
+
+**Post-hoc Analysis:**
+- Primary outcome unchanged when excluding 36 patients with exclusion criteria: adjusted OR 2.22 (95% CI: 1.2–4.09), p=0.01
+
+## Authors’ Conclusions
+Platelet transfusions cannot be recommended for the treatment of acute ICH in patients on antiplatelet therapy.
+
+## Strengths and Weaknesses
+- **Strengths**
+  - Randomised controlled trial
+  - No patients lost to follow-up at 3 months
+  - Blinding of primary outcome assessors
+  - Allocation concealment through web-based randomisation
+- **Weaknesses**
+  - Primary outcome changed during trial
+  - Baseline differences between groups
+  - Large number of patients with exclusion criteria
+  - Non-blinding of clinicians and patients
+  - Small sample size
+
+## Bottom Line
+This trial suggests worse neurological outcomes at 3 months for ICH patients on antiplatelet agents treated with platelet transfusion compared to standard care. Despite weaknesses, this is the best evidence available, and platelet transfusions should not be used outside clinical trials for these patients.
+
+## External Links
+- **Original article:** [Platelet transfusion versus standard care after acute stroke due to spontaneous cerebral haemorrhage associated with antiplatelet therapy (PATCH)](https://www.thebottomline.org.uk/summaries/icm/patch/)
+- **Further reading:** St Emlyn’s Journal Club
+- **Further reading:** REBEL EM The PATCH Trial
+- **Further reading:** EMLit of Note: Put the Platelets Away in ICH
+- **Further trial awaited:** Platelet Transfusion in Acute Intracerebral Hemorrhage

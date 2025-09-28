@@ -1,0 +1,88 @@
+# Metadata
+- Source: The Bottom Line
+- Title: PEITHO
+- Original URL: https://www.thebottomline.org.uk/summaries/icm/peitho/
+- Scrape Date: 2025-07-17
+- Summary Date: AUTO_FILL_IF_AVAILABLE
+
+PEITHO: Fibrinolysis for Patients with Intermediate Risk Pulmonary Embolism
+Meyer, NEJM, 2014;370;1402-11
+Clinical Question
+In patients with intermediate-risk/sub-massive pulmonary embolism (PE), does the addition of tenecteplase, compared with heparin alone improve the composite outcome of death and haemodynamic decompensation?
+Design
+Randomised controlled trial, stratified by centre
+Double-blinded
+Setting
+76 sites in 13 countries
+November 2007 – July 2012
+Population
+Inclusion criteria: adult patients with PE, Right Ventricular (RV) dysfunction and a raised Troponin T/I
+PE confirmed by V/Q, CT or pulmonary angiogram
+RV dysfunction confirmed by ECHO or CT
+Raised Troponin I/T
+Exclusion criteria:
+Onset of symptoms >15 days previously
+Contraindication to thrombolysis
+Haemodynamic decompensation
+need for CPR
+BP <90mmHg for >15min
+Drop of systolic BP >40mmHg for >15min with signs of end-organ hypoperfusion
+Need for catecholamine infusion
+1006 patients randomised
+Intervention
+Tenecteplase + heparin
+Tenecteplase 30-50mg bolus according to body weight (full dose)
+Control
+Placebo + heparin
+In both groups unfractionated heparin was given as a bolus followed by infusion. The bolus of heparin was
+not
+given if the patient had a) already received one b) received therapeutic LMWH (heparin infusion also delayed until 12 hours after last injection) or c) fondaparinux (heparin infusion also delayed until 24 hours after the last injection). APTR target of 2-2.5
+Outcome
+Primary outcome: Death or haemodynamic decompensation within 7 days – Significantly lower in thrombolysis group
+2.6% in thrombolysis group vs. 5.6% in placebo group (OR 0.44, 95% C.I 0.23-0.87, P=0.02, NNT 34)
+definition of haemodynamic decompensation as per definition in exclusion criteria
+Secondary outcomes:
+Mortality at 7 days and 30 days – No significant difference
+7 days: 1.2% vs. 1.8% (OR 0.65, 95% C.I. 0.23-1.85, P=0.42)
+30 days: 2.4% vs. 3.2% (OR 0.73, 95% C.I. 0.34-1.57, P=0.42)
+Haemodynamic decompensation – Significantly lower in thrombolysis group
+1.6% vs. 5% (OR 0.3, 95% C.I. 0.14-0.68, P=0.002, NNT 30)
+= 1 or more of: need for CPR; BP <90mmHg for >15min; drop of systolic BP >40mmHg for >15min with signs of end-organ hypoperfusion; need for catecholamine infusion (excluding dopamine at <5mcg/kg/min)
+Major extracranial bleeding – Significantly higher in thrombolysis group
+6.3% vs. 1.2% (OR 5.55, 95% C.I. 2.3-13.39, P<0.001, NNH 19)
+Haemorrhagic stroke – Significantly higher in thrombolysis group
+2% vs 0.2% (P=0.003, NNH 55)
+In patients who were treated with thrombolysis
+Patients who were >75 years had a non-significant increase in the rate of major extra-cranial bleeding compared with patients who were
+≤
+75 years
+11.1% vs. 4.1% (P=0.09)
+Authors’ Conclusions
+In patients with intermediate-risk PE thrombolysis prevented haemodynamic decompensation but increased the risk of major bleeding and stroke
+Strengths
+Randomised
+Double-blinded
+Multi-centre
+Large number of patients
+Appropriate sample size calculation
+Weaknesses
+Composite outcome of death and haemodynamic decompensation is not helpful. Clinicians (and patients!) do not consider death and haemodynamic decompensation equal. An appropriately powered study which determines mortality or morbidity (chronic pulmonary hypertension) is what is needed.
+Haemodynamic decompensation or collapse was recorded in 26 (2.58%) of the 1005 patients. Only 17 (1.58%) of the 1005 patients required catecholamine support. Whilst this reached statisitical significance, it is questionable as to how clinically relevant ‘haemodynamic decompensation’ is as an outcome when a) over a 1/3 of these patients did not require catecholamines at any point during the 7 days post randomisation b) the incidence is so low in both groups (albeit higher in the placebo arm) c) there was no apparent difference in mortality d) evidence of persistent organ dysfunction or time to resolution was not recorded
+Not powered to determine mortality benefit
+The inclusion criteria of up to 15 days for randomisation is long and perhaps the risk of using tenecteplase would outweigh any potential benefits at this stage
+There was a higher rate of pre-randomisation use of LMWH/fondaparinux in the tenectaplase group
+Boehringer helped fund trial. However, they had no role in the design, conduct, analysis or reporting of the trial
+The Bottom Line
+In patients with sub-massive PE, the administration of a bolus of tenecteplase results in only a modest haemodynamic benefit and no reduction in 30 day mortality. Furthermore, it’s use is associated with a 10-fold increase in intracranial haemorrhage (2% vs. 0.2%) and a 5-fold increase in major haemorrhage (6.3% vs. 1.2%). This study does not support the use of thrombolysis in submassive PE.
+Links
+abstract
+/ doi: 10.1056/NEJMoa1302097
+MayEditorial, Commentaries or Blogs
+Life in the fast lane
+Academic life in EM
+Metadata
+Summary author:
+@DavidSlessor
+Summary date: 21 June 2014
+Peer-review editor:
+@stevemathieu75

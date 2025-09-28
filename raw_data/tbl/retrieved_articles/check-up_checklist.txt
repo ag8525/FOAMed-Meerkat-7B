@@ -1,0 +1,112 @@
+# Metadata
+- Source: The Bottom Line
+- Title: CHECK-UP Checklist
+- Original URL: https://www.thebottomline.org.uk/summaries/icm/check-up-checklist/
+- Scrape Date: 2025-07-17
+- Summary Date: AUTO_FILL_IF_AVAILABLE
+
+A Multicenter Randomized Trial of a Checklist for Endotracheal Intubation of Critically Ill Adults
+Jane. Chest 2017; Published first online. doi:10.1016/j.chest.2017.08.1163
+Clinical Question
+In critically ill patients undergoing intubation, does the use of a pre-intubation checklist compared to no checklist prevent oxygen desaturation or systolic hypotension?
+Background
+Complications occur in up to one-third of critically ill patients undergoing airway intubation, with hypoxaemia and hypotension being the most common event
+Operator inexperience and inadequate preparation are associated with increased incidence of complications
+A checklist is a cheap intervention that can improve non-technical “human” factors during times of stress and high-intensity mental activity
+Design
+2 x 2 factorial design
+Other side of the study assessed the effect of the ramped position vs the sniffing position for intubation of the critically ill adults:
+CHECK-UP-position
+Randomised, multicentre pragmatic trial
+Patients randomised in a 1:1 ratio using a computer and permuted blocks
+Data collected by an independent observer, with quality/accuracy assurance carried out on 11% of the cases
+248 patients required to power the study at 80% to detect a difference between the two groups in lowest recorded saturation of 5%
+5% chosen based on previous similar studies
+Initial power calculations required only 170 patients
+After assessment of the standard deviations (SD) of the primary outcome for the whole study population at 6 months, the SD was larger than anticipated so a new power calculation was performed
+Group assignments remained concealed
+With respect to the lowest systolic blood pressure (SBP), 260 patients gave a 76.4% power to detect a 10mmHG difference in SBP between groups
+Setting
+Five tertiary ICUs in the United States
+Three of which were part of the factorial design with CHECK-UP-position, whilst the other two only randomised for CHECK-UP-checklist
+July 2015 to July 2016
+Population
+Inclusion
+: Patients over the age of 18 undergoing endotracheal intubation by critical care fellows or pulmonary fellows or anaesthetic residents in the ICU
+Exclusion
+:
+If awake intubation planned
+If intubation was so urgent that the clinician felt the randomisation envelope could not be obtained in time
+Or if the clinician felt a specific checklist was required based on clinical need
+318 patients eligible, 51 excluded, 267 randomised, 262 analysed
+5 were excluded after randomisation
+Intervention
+Pre-intubation checklist
+A printed checklist was read aloud by a team member with a verbal acknowledgement of each item by the person performing the intubation
+The checklist contained 10 items focusing on the set up and non-technical skills
+It did not dictate technique, medications or method for pre-oxygenation
+The checklist had to be performed prior to the administration of the procedural medications
+Operators could abort the checklist at any point if they thought the clinical situation required so
+Checklist used for CHECK-UP-checklist trial. Copied from the supplementary datasheet at http://journal.chestnet.org/cms/attachment/2113566199/2084333848/mmc1.pdf
+Control
+Usual care
+No structured, verbalised checklist was used
+Management common to both groups
+All aspects of the intubation procedure were at the discretion of the clinical team
+Measurement of primary outcomes took place from the moment the procedural medications were administered until two minutes after successful intubation
+Outcome
+Primary outcome
+:
+There was no significant difference in the co-primary outcomes of the lowest median saturation recorded and the lowest SBP
+Lowest median saturation
+Checklist 92% [IQR 79-98] vs Usual Care 93% [IQR 84-100] (P = 0.34)
+Lowest SBP
+Checklist 112 mmHg [IQR 94-133] vs Usual Care 108 mmHg [IQR 90-132] (P = 0.61)
+This still held true after adjusting for cofounders including BMI, APACHE II score and operator experience
+Secondary outcome
+:
+Use of the checklist did not decrease number of attempts, shorten time to intubation or improve the Cormack-Lehane view
+No statistically significant difference in life-threatening complications such as cardiac arrest or severe hypotension
+Tertiary data, subgroup or post-hoc analyses
+:
+No statistically significant difference in tertiary outcomes of ventilator free days, ICU days or in-hospital mortality
+Authors’ Conclusions
+The use of a verbally performed pre-intubation checklist was not associated with a reduction in complications or an improvement in clinical outcomes
+Strengths
+Prospective, multicentre, randomised study with large numbers
+Sensibly focussed on trainees only as they are more likely to benefit from an intubation checklist and will often be the first line operator
+Although they did not include truly ‘novice’ trainees, as the least experienced trainee had performed 32 intubations prior to the study
+Pragmatic and transparent approach to the design of the checklist
+Independent observer collected data to limit bias from unblinded methodology
+Quality assurance took place to check accuracy of data collection
+Weaknesses
+Factorialised design
+Although there was no interaction between the patient position and the use of a checklist (p=0.94), they both assessed the same primary outcome
+Only some patients were part of factorial intervention
+This complex methodology may have reduced the power to detect a true benefit from either one intervention
+19% of intubations assigned to the checklist arm did not complete the full checklist
+Only 2 were due to increasing urgency of the intubation
+No reason documented for the other 22 cases
+The study was impossible to blind
+Group allocation may have influenced the unblinded intubating clinician behaviour
+This was analysed post-hoc and showed no difference in the primary outcomes
+The checklist items were largely performed in the intubations carried out without the checklist, suggesting there was penetration of the intervention into the usual care group
+This would tend to reduce any difference and bias towards the null hypothesis
+The Bottom Line
+This study suggests that the use of a pre-intubation checklist does not reduce any peri-procedural complications and may even delay the intubation
+The use of checklists should not be discouraged based on this trial alone, as there may be other benefits that have not been measured in this trial
+External Links
+[article]
+A multicenter randomized trial of a checklist for endotracheal intubation of critically ill adults
+[further reading]
+NAP4 Report regarding complications of airway management
+by Royal College of Anaesthetists (UK)
+[further reading]
+RSI Checklists and Action Plans
+from LITFL
+Metadata
+Summary author:
+Alex Smith
+Summary date: 02 November 2017
+Peer-review editor:
+Duncan Chambler

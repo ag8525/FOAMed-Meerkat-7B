@@ -1,0 +1,589 @@
+```yaml
+title: "CrackCast Episode 130: Viral Illness"
+url: "https://canadiem.org/category/crackcast/"
+date: 2023-10
+source: "CanadiEM – CrackCast"
+original_file: "CC-EP-130-Viral-Illness-Ch-122-Rosens-9th-ed.pdf"
+summary: |
+  The document provides a comprehensive overview of viral illnesses, emphasizing the resurgence of vaccine-preventable diseases due to unvaccinated populations and travel to endemic areas. Key conditions discussed include herpes simplex encephalitis, which requires prompt IV acyclovir treatment, and primary varicella, which poses risks to specific populations and also necessitates acyclovir. The document highlights the importance of early antiviral treatment for influenza to reduce illness duration and complications, especially in hospitalized patients. Emerging viral infections like SARS-CoV, MERS-CoV, and Ebola are noted for their potential severity, necessitating isolation and public health notification upon suspicion. The document also covers the clinical presentations and management of various viral infections, including those with neurologic and hemorrhagic manifestations, and outlines the indications for antiviral therapy in influenza, stressing the importance of early intervention.
+```
+
+## Overview
+
+### Key Concepts
+
+Recent outbreaks of vaccine-preventable childhood infections secondary to unvaccinated individuals and travel to areas where disease is still endemic demonstrate that these rare diseases are on the rise! Look out for them!
+
+- Herpes simplex encephalitis is a severe disease that is fatal if left untreated. Clinicians should suspect this diagnosis when evaluating severely ill patients for suspected meningitis or encephalitis, and promptly institute empirical therapy with IV acyclovir while awaiting diagnostic results.
+- Primary varicella can be dangerous in select populations, including older children, adults, and pregnant patients. These patients require treatment with acyclovir.
+- Zoster patients should be treated with acyclovir if they present within 72 hours of symptoms onset or if they are immunocompromised regardless of duration of illness. Disseminated zoster should be treated with IV acyclovir.
+- In generally healthy patients with influenza infection, the duration of illness can be shortened by almost 1 day if antiviral treatment is administered within 48 hours of symptom onset. Hospitalized patients with influenza infection should be treated with antiviral medication regardless of duration of symptoms, because it may decrease mortality and influenza complications.
+- There are many emerging viral infections including SARS-CoV, MERS-CoV, and Ebola that should be considered in febrile patients. It is important to identify patients at risk by determining travel history and exposure history to individuals with confirmed infection. Once a patient is deemed at risk, the patient should be promptly isolated according to established guidelines while further investigation occurs. It is also important to immediately inform the hospital infection control program and public health agencies.
+
+### Rosens in Perspective
+
+This chapter is all about a few categories of viral infections. I like how Rosen’s breaks it down for us because it is quite clinical! Oh, and it’s massive….
+
+- Vaccine preventable illnesses (of Childhood)
+  - Smallpox
+  - Polio
+  - Measles
+  - Mumps
+  - Rubella
+  - Hepatitis A
+  - Hepatitis B
+  - Influenza A and B
+  - Rabies
+  - Yellow fever
+  - Rota virus
+  - Varicella
+  - Zoster
+- Viral illnesses presenting with VESICULAR rashes
+  - HSV 1
+  - HSV 2
+  - Varicella zoster virus
+- Viruses associated with RESPIRATORY illness
+  - Influenza
+  - Coronavirus
+    - SARS CoV
+    - MERS
+  - Parainfluenza (4 types)
+  - Adenoviruses
+  - Rhinoviruses
+  - Respiratory syncytial virus
+  - Echoviruses
+  - Coxsackie Viruses
+- Viral illnesses presenting with NONSPECIFIC febrile illness
+  - CMV
+  - EBV
+  - Enteroviruses: poliovirus, Coxsackie virus A and B, echovirus, and enterovirus.
+    - Polio virus
+      - Asymmetric paralytic poliomyelitis
+    - Non-polio viruses
+      - Enterovirus
+      - Coxsackie viruses
+- Viruses presenting with DIARRHEAL ILLNESS
+  - Norovirus
+    - Norovirus is very stable in the environment and is resistant to most disinfectants, including alcohol hand wash.
+  - Rotavirus
+- Viral illnesses presenting with NEUROLOGIC SYMPTOMS
+  - West Nile virus
+  - Eastern equine encephalitis virus
+  - St. Louis encephalitis virus
+- Viral illnesses presenting with HEMORRHAGIC STATES
+  - Dengue virus
+  - Chikungunya virus
+  - Yellow fever virus
+  - Ebola
+  - Marburg
+  - Lassa fever
+
+## Core Questions
+
+### [1] List 5 live viral vaccines
+
+- Smallpox - rarely given anymore unless exposure anticipated
+- Polio - but usually the inactivated form is given
+- Measles
+- Mumps
+- Rubella
+
+A few more:
+
+- Yellow fever
+- Rota virus
+- Varicella
+- Zoster
+
+### [2] Describe mumps and its treatment
+
+- Mumps causes a febrile illness with swelling and tenderness of the parotid gland
+- Generally eradicated due to vaccination, but recent outbreaks have occurred
+- Mumps is spread via infected respiratory secretions that enter a susceptible respiratory tract.
+  - The incubation period is 16 to 18 days, ranging from 12 to 25 days. Infected patients are most contagious 1 to 2 days before onset of disease but can be contagious as early as 7 days before symptoms and up to 9 days after symptoms start.
+- Clinical features:
+  - ⅓ of patients can be asymptomatic
+  - Common symptoms: preceding fevers, chills, malaise, headache.
+  - Parotitis, either unilateral or bilateral, is the hallmark of this infection, occurring in over 95% of symptomatic patients
+  - Some patients may have orchitis
+- DDx:
+  - Parotitis = (Epstein-Barr virus [EBV], parainfluenza, influenza A virus, coxsackievirus, adenovirus, parvovirus B19, lymphocytic choriomeningitis virus, and human immunodeficiency virus [HIV]), bacterial infections, facial cellulitis, and tumor
+- Diagnosis
+  - Buccal or oral swab specimen for virus isolation and blood sample for serologic testing (Mumps virus IgM). Collecting samples early improves yield as virus isolation greatly diminishes beyond the first week of symptoms.
+- Management:
+  - The mainstay of treatment is supportive care with antipyretics and analgesics. There is no specific antiviral treatment. Most cases have a benign, self-resolving course and will not require admission to the hospital.
+  - Those that are admitted = need droplet precautions, isolated for 5 days after the onset of parotid swelling.
+  - Immunization updates are important!
+
+### [3] Compare Rubella, Measles, Roseola AND Fifth Disease (Erythema infectiosum).
+
+How confusing!!! Rubeola, Rubella, Roseola!
+
+“The B’s are BAD” and the “s” is “Sixth dz, post Seizure, or just a Skin Sign”
+
+More serious →
+
+| Rash                  | Roseola infantum | “Sixth disease” | Erythema infectiosum | “Fifth disease” | MEASLES | Aka: rubeola | GERMAN MEASLES | Aka: Rubella |
+|-----------------------|------------------|-----------------|----------------------|-----------------|---------|--------------|----------------|--------------|
+| Transmx & Severity    | Benign; spread by saliva Due to herpes virus 6 | Mild Parvovirus B19 | Mild Viral illness, droplet spread. Airborne isolation if in hospital; home quarantine preferred. Can be life threatening; worry about Subacute sclerosing panencephalitis (SSPE) | Viral, droplet spread Should be isolated at home Can be life threatening Worry about congenital rubella* In pregnant patients, the virus spreads to the placenta with subsequent infection of fetal organs. |
+| Clinical presentation | Fever and a skin eruption. Well children 6 months to 3 years old. May occur post febrile seizure The rash typically appears with defervescence. The lesions are discrete pink or rose-colored macules or maculopapules 2 or 3 mm in diameter that blanch on pressure and rarely coalesce | Fever in 10% to 15% of patients, and a characteristic rash. Arthralgia and arthritis occur commonly in adults but rarely in children. The rash is intensely red on the face and gives a “slapped-cheek” appearance with circumoral pallor. A reticular maculopapular eruption, which may be noted on the arms, moves caudally to the trunk, buttocks, and thighs. The rash may recur with changes in temperature and exposure to sunlight. The incubation period is usually between 4 and 14 days. The infection is benign and requires supportive care only. | Contagious from 5 days prior to onset of symptoms until 5 to 6 days after the onset of dermatologic Involvement. Maculopapular erythematous lesions involve the forehead and upper neck and then spread to involve the face, trunk, arms, and finally the legs and feet. Koplik spots begin to disappear coincident with the appearance of the rash. Complications may include otitis media, encephalitis, and pneumonitis. Otitis media is the most common complication. Encephalitis occurs in approximately 1 in 1000 cases of measles and carries 15% mortality. Measles pneumonia may also be life-threatening. | Fever, skin eruption, lymphadenopathy. Rash appears post 5 days of maximal infectivity. The major complications of rubella include encephalitis, arthritis, and thrombocytopenia. The most severe complication is fetal damage. No treatment is required in most cases of rubella. Antipyretics are usually adequate for the treatment of headache, arthralgias, and painful lymphadenopathy |
+
+Treatment: supportive, Vitamin A supplements
+
+| Dx | Clinical | Clinical | Dx: Serologic testing for measles specific IgM antibody and detection of measles RNA by RT-PCR. For surveillance purposes, nasopharyngeal and urine samples can be obtained for virus isolation. | Detection of IgM antibodies or fourfold increase in IgG antibody titer between acute and convalescent specimen. Virus culture and RT-PCR can also be isolated from blood or the nasopharynx. |
+
+Key clinical pearls
+
+- Post-sudden onset high fever in a well child. Trunk. Age 6 mo - 3 yrs. Don’t worry too much about this rash.
+- Slapped cheek, with maculopapular trunk rash Benign and self-limited Supportive care.
+- Fever-malaise-cough, coryza-conjunctivitis. (3C’s in the first 3 days) then... Koplik spots then….. Rash starts on head, then progresses down the body Care about this because of complications: otitis media, laryngitis, tracheobronchitis, bronchiolitis, pneumonitis, severe diarrhea, and acute encephalitis and SSPE (3) Or bacterial superinfection
+- Mild febrile illness associated with a diffuse maculopapular rash, malaise, headache, and arthritis. Rash pink/red maculopapular lasts 5 days: face→ neck, trunk, extremities. Care about this because of maternal-fetal complications Also, risk of encephalitis and thrombocytopenia
+
+Trxt
+
+- Supportive
+- Supportive
+- Admit complications **appropriate populations may need PEP**
+- Admit complications
+
+Pathognomonic for measles:
+
+Measles PEP: Post-exposure prophylaxis consists of either the measles, mumps, and rubella (MMR) vaccine within 72 hours, or immunoglobulin within 6 days.
+
+Healthy infants should receive 0.25 mL/kg of immunoglobulin intramuscularly, and immunocompromised children should be given 0.5 mL/kg intramuscularly, up to 15 mL.
+
+### [4] List 5 complications of measles
+
+The populations that are at high risk for severe disease (children < than 5 years old, adults older than 20 years old, pregnant women, and the immunocompromised.)
+
+Complications:
+
+- Bacterial superinfection
+- SSPE
+  - Subacute sclerosing panencephalitis (SSPE) is a rare but fatal complication of measles. SSPE is a slow progressive infection of the central nervous systems (CNS) that results from a prior measles infection. It is thought to be due to continual measles infection of the CNS. The mean time of onset of SSPE is 7 years after measles infection. Symptoms include behavior change, decreased intellect, ataxia, and myoclonic seizures followed by progressive neurologic deterioration and death.
+- Otitis media, laryngitis, tracheobronchitis, bronchiolitis, pneumonitis, severe diarrhea
+
+### [5] What are the herpes viruses?
+
+The Herpes viridae are DNA viruses that cause specific clinical presentations:
+
+- HSV-1, HSV-2
+  - Mucocutaneous ulcers, herpes encephalitis {1}
+- CMV
+  - Pneumonitis in immunocompromised patients
+- VZV
+  - Chickenpox; shingles
+- HHV 6
+  - Roseola infantum
+- EBV
+  - Mononucleosis
+- Kaposi’s sarcoma herpesvirus
+  - Kaposi’s sarcoma
+
+[1] HSV-1 is a common cause of infectious encephalitis; it causes necrotizing hemorrhagic encephalitis, typically involving the temporal lobes. Herpes simplex encephalitis is characterized by acute onset of symptoms, including fever, headache, altered mental status, seizures, and focal neurologic deficits resulting from frontal and temporal lobe necrosis. If left untreated, mortality is greater than 70%.
+
+HSV encephalitis: Administer IV acyclovir 10 mg/kg every 8 hours for 14 to 21 days. Given the high mortality associated with this condition, antiviral therapy should be started as soon as the diagnosis is suspected. We recommend empirically treating all patients that are being ruled out for bacterial meningitis as well, because there is such overlap with the clinical presentation.
+
+### [6] Differentiate between smallpox and chickenpox (primary varicella)
+
+Smallpox:
+
+- Eradicated in 1977
+- Prior to eradication, smallpox was a consideration, presenting with lesions in the same stage of development.
+- Lesions first in the throat or mouth, preceded by SEVERE illness
+- Lesions are concentrated on the HANDS, FACE, and FEET
+
+Primary varicella:
+
+- Chickenpox is a febrile illness characterized by malaise and rash. The rash begins first on the scalp and face and then spreads to the trunk and extremities. (rarely involves the hands and feet)
+  - The lesions start as maculopapular, and progress to fluid-filled vesicles that eventually crust over and form scabs. The lesions occur as crops at various stages of development. Patients are contagious until all lesions are scabbed over, which can typically take 1 to 2 weeks. For the most part, this disease has a benign course.
+  - Adults have a more severe course than children.
+- The most common complication is a secondary bacterial infection of the skin lesions. VZV has been associated with invasive group A streptococcal infections and necrotizing fasciitis.
+- Immunocompromised patients are at risk for disseminated disease and visceral organ involvement. Pregnant patients are also at risk for severe disease. Varicella pneumonia accounts for most of the morbidity related to this disease. Neurologic complications are rare but can include encephalitis, aseptic meningitis, transverse myelitis, and Reye syndrome (the association of aspirin use with Reye syndrome, a progressive encephalopathy).
+
+### [7] Describe clinical presentations of CMV infections and treatment
+
+The spectrum of illness caused by CMV ranges from asymptomatic to severe disseminated disease in the immunocompromised patient. CMV is particularly harmful in pregnant patients, because it can lead to congenital infection, causing profound neurologic defects and permanent hearing loss.
+
+CMV is present in breast milk, saliva, feces, urine, semen, cervical secretions, and blood. The virus spreads via prolonged exposure to these body fluids. After primary infection, CMV establishes a lifelong latent infection.
+
+Clinical presentation:
+
+- Primary infection = usually subclinical
+  - Some will develop a mononucleosis-like syndrome. The illness can last from 2 to 6 weeks and is characterized by fever, fatigue, malaise, myalgia, and headache.
+- Secondary infections (once you have it, you have it for LIFE!)
+  - Rarely, immunocompetent patients will develop CMV colitis or CMV myelitis/encephalitis/meningitis
+  - Congenital CMV infection causes a number of delayed illnesses:
+    - Premature birth, intrauterine growth retardation, microcephaly, seizures, thrombocytopenia, hepatosplenomegaly, or pneumonitis. Sequelae of congenital CMV infection can present up to 2 years after birth. Frequent complications that occur are hearing loss, neurologic impairment, and ocular disturbances.
+  - Most severe infections occur in immunocompromised people:
+    - Post solid organ transplant
+    - HIV with CD4 < 100/mcL
+    - CMV manifests initially as fever, malaise, and myalgias.
+    - The infection can then progress to cause leukopenia, pneumonia, esophagitis/gastritis, hepatitis, colitis, encephalitis, polyradiculopathy, and retinitis.
+
+Dx: *PCR, viral culture, or antibody testing.
+
+Treatment:
+
+- Immunocompetent patients: supportive care (as for EBV) unless life-threatening infection
+- Immunocompromised: ganciclovir
+  - Ganciclovir is an IV agent that is used to treat CMV infections. The treatment for CMV retinitis is induction therapy: 5 mg/kg/dose every 12 hours for 14 to 21 days followed by 5 mg/kg/dose once daily maintenance therapy for a prolonged course. Fever, diarrhea, and thrombocytopenia are common adverse reactions.
+
+### [8] List 5 complications of EBV
+
+Remember that ddx! EBV causes 90% of infectious mononucleosis; the remaining is caused by cytomegalovirus (CMV). Acute HIV infection, streptococcal pharyngitis, toxoplasmosis, and other causes of viral pharyngitis should all be considered in potential mononucleosis patients.
+
+- Splenomegaly (50% of patients) - with subsequent risk of rupture (<0.5%)
+  - Advise patients to avoid contact sports for at least 3 weeks to avoid the feared complication of splenic rupture. Abdominal ultrasound for assessment of spleen size may have a role in determining when it is safe to return to sports.
+- Airway obstruction in children - <5%
+- Iatrogenic rash - post amoxicillin
+  - Patients treated with amoxicillin or ampicillin for presumed streptococcal pharyngitis develop a nonallergic maculopapular rash.
+- Neurologic complications:
+  - Encephalitis, aseptic meningitis, transverse myelitis, Guillain-Barré syndrome, retrobulbar neuritis, and peripheral neuropathies.
+
+### [9] Describe 2 severe complications of parvovirus infectious
+
+Parvovirus - especially parvovirus B19:
+
+- Tiny, non-enveloped virus
+  - Directly toxic to the progenitor cells of the blood and bone marrow
+- Clinical sx:
+  - Fever, h/a, sore throat, pruritis, cough, N/V/D, coryza, arthritis
+  - Healthy people with new infection can often be asymptomatic
+- Transmitted via:
+  - Saliva and resp. Secretions
+  - Vertical transx (mom→ child)
+  - Via blood products
+
+Complications:
+
+- Aplastic anemia
+- Transient aplastic crisis (in those patients with chronic hemolytic disorders: thalassemia, sickle cell disease, hereditary spherocytosis)
+- Fetal infection (Mat-Fet. Transx during 1st trimester): rare, low risk but can lead to non-immune hydrops fetalis, intrauterine fetal death, miscarriage
+- Brachial plexus neuropathy
+- Hemophagocytic syndrome
+- Serositis of any organ
+
+Less severe complications:
+
+- Rash = slapped cheek - associated with Parvovirus B19 - erythema infectiosum/fifth disease
+  - Reticulated blanching erythematous rash in children
+- Gloves and socks syndrome:
+  - Papular-purpuric rash in hands and feet
+- Arthropathy/arthritis
+
+Treatment:
+
+- Prevention! Hand washing!
+- Treat severe anemia with blood + IVIG
+
+### [10] List indications for antiviral therapy in influenza
+
+The management of influenza centers on symptom control with antipyretics, analgesics, and hydration. There are several antiviral agents that are available to treat influenza, but there is some controversy surrounding treatment with these agents.
+
+Oseltamivir, zanamivir, and peramivir are the currently available neuraminidase inhibitors. They work by inhibiting the release of viral progeny from infected cells. These drugs are active against both influenza A and B.
+
+Amantadine and rimantadine are the currently available adamantane antivirals. - they are NOT recommended because influenza strains are 90% resistant to them.
+
+Start them ASAP (don’t wait for testing) - ideally within 48 hrs of onset.
+
+From Uptodate: “Adults with mild illness without high-risk conditions who are younger than 65 years of age do not require testing or treatment [2]. If such individuals present within the first 48 hours of illness, antiviral treatment can be considered in order to reduce the duration of illness, but those who present >48 hours after illness onset should not be treated with antivirals since they are unlikely to benefit.”
+
+Indications:
+
+- The Centers for Disease Control and Prevention (CDC) recommendations are to treat all patients as early as possible who are:
+  - Hospitalized,
+  - Have severe illness,
+  - At risk for influenza-related complications. [see table in Rosen’s]
+
+See for more: [CDC Antiviral Use in Influenza](https://www.cdc.gov/flu/professionals/antivirals/antiviral-use-influenza.htm)
+
+DOSING: The recommended dose of zanamivir is 10 mg (two inhalations) twice daily; the recommended dose of oseltamivir is 75 mg orally twice daily; the recommended dose of peramivir is 600 mg IV as a single dose. Dosing of oseltamivir and peramivir must be modified in the setting of renal insufficiency. The recommended duration of therapy for zanamivir or oseltamivir is five days.
+
+The controversy:
+
+- The most recent Cochrane review found that oseltamivir reduced symptom duration by 16.8 hours in those treated within 48 hours of symptom onset, but it had no effect on hospitalization or reduction of severe influenza complications.
+- However, another recent meta-analysis found that treatment with oseltamivir was associated with accelerated symptom improvement, reduction of risk in lower respiratory tract complications, and decreased admission to hospital.
+- Investigations have also found that treatment of hospitalized patients with NIs is associated with reduction in mortality. The greatest benefit is in very early treatment (within 6 hours of symptoms onset), but some studies have demonstrated benefit up to 5 days after symptoms onset in hospitalized patients.
+
+SEE BOX 122.1 in Rosens for Conditions that increase risk for severe influenza and influenza-related complications
+
+### [11] List and summarize key points for viral infections with predominantly neurologic manifestations
+
+Arboviruses are a group of viruses that are transmitted via arthropod vectors, generally mosquitoes and ticks. Encephalitis is a common manifestation of arboviral infection.
+
+There are other viruses (e.g. Japanese encephalitis, western EEV)
+
+| West Nile virus | Eastern equine encephalitis virus | St. Louis encephalitis virus |
+|-----------------|----------------------------------|------------------------------|
+| Clinical        | Range: asymptomatic to severe. Febrile, malaise, rash on trunk, 1% of cases progress to neuroinvasive disease → 10% mortality usually in the elderly or immunocompromised. | Gulf/Atlantic coast. Fever, chills, h/a, myalgias, A small portion of patients will go on to develop encephalitis with headache, nausea, vomiting, altered mental status, and focal neurologic deficits. Approximately 2% to 6% of infected patients develop rapidly deteriorating severe encephalitis that results in coma. | Most cases asymptomatic. Higher risk for severe infection if older. Fever, myalgias, headache. Patients older than 60 frequently present with encephalitis, with mental status ranging from lethargy to coma. Acute flaccid paralysis occurs in approximately 6% of patients with encephalitis. |
+| Treatment       | Symptomatic. There is no specific antiviral therapy or immunoglobulin treatment with proven benefit. In patients that develop cerebral edema, the therapies focus on preventing secondary brain injury and treatment of cerebral edema by maintaining adequate cerebral perfusion pressure, treating seizures, and avoiding hypoxemia, high fever, and hypoglycemia or hyperglycemia. | “” | “” |
+| Keys            | Summer months, Mosquito → bird hosts Most dangerous - 30% mortality if becomes neuroinvasive. | Summer months Mosquito vector |
+
+Keep a broad ddx!!
+
+Other arboviral infections, other viral causes of encephalitis, bacterial meningitis, HSV encephalitis, leptospirosis, Lyme disease, and brain abscess.
+
+### [12] List and describe viral hemorrhagic febrile illnesses:
+
+- Dengue
+- Chikungunya
+- Yellow fever
+- Ebola
+- Marburg
+- Lassa fever
+
+a. Dengue
+
+- Found all over the world: top consideration for FITRT
+  - SE Asia, Pacific, warm Americas
+  - Mosquito transmitted
+- Asymptomatic → dengue hemorrhagic fever → dengue shock syndrome
+  - Dengue fever is a self-limited illness characterized by fever, headache, retroorbital pain, severe myalgias, and arthralgias. Symptoms can last up to 1 week. Dengue hemorrhagic fever (DHF), a more severe syndrome, occurs when the following four criteria are present: (1) increased vascular permeability (pleural effusion, ascites, hemoconcentration), (2) thrombocytopenia, (3) fever lasting 2 to 7 days, and (4) hemorrhagic tendency or spontaneous bleeding. Dengue shock syndrome (DSS), the most severe presentation of dengue infection, is present when DHF occurs with circulatory shock.
+- Ddx:
+  - Measles
+  - Malaria, chikungunya, rickettsial infections, leptospirosis, and other viral hemorrhagic fevers, including Ebola, Marburg, yellow fever, or bunyaviruses.
+- Dx: IgM assay or viral RNA with RT-PCR.
+  - CBC, LFTS, and coags to screen for DHF
+- Supportive care, avoid NSAIDS and ASA for pts with bleeding risk
+
+b. Chikungunya
+
+- Asia, Europe, India, Africa, Americas
+- Mosquito transmitted
+- Fever, myalgias, polyarthralgias (similar to dengue).
+  - Can have SEVERE joint pain that limits ambulation
+  - Maculopapular rash can be present
+  - High mortality rate with age and Combx.
+- Broad DDx:
+  - Including viral, tick-borne, bacterial infections; adult Still’s disease and rheum disorders
+- Dx:
+  - ELISA antibody testing, PCR for viral.
+  - Screening CBC and LFTs recommended
+- Trxt:
+  - Supportive; many can be treated at home - IV fluids and observation may be needed.
+
+c. Yellow fever
+
+- Tropical Africa and South America
+- Mosquito transmission
+- 3-6 day incubation. Hallmark = jaundice and hemorrhagic fever.
+  - Acute febrile illness accompanied by chills, malaise, headache, myalgias, nausea, and dizziness. Patients can have a much lower heart rate than expected in reference to the high fever that is present. This acute febrile phase of the illness can last between 3 to 6 days. Patients then experience a short period of remission, lasting up to 24 hours; some patients recover completely, whereas others go on to have a more severe recurrence of illness with fever, vomiting, jaundice, acute liver injury, acute renal failure, and hemorrhagic manifestations.
+- Ddx:
+  - Leptospirosis, relapsing fever, viral hepatitis, malaria, viral hemorrhagic fevers, dengue
+- Dx:
+  - IgM in serum; elevated ALT, AST, bilirubin. Screen for DIC
+- Trxt:
+  - Supportive,
+  - Can be prevented with vaccination
+
+d. Ebola
+
+- Outbreaks in West Africa in 2014-2015
+  - 25-90% mortality rate
+  - 2-21 day incubation
+- Spread via direct contact with blood/body fluids; not contagious if not symptomatic
+- Viral hemorrhagic fever progressing to MODS
+  - High fever, headache, myalgias, malaise, sore throat, and profuse vomiting and diarrhea. After 5 to 7 days, patients can progress to develop the hemorrhagic manifestations, which include spontaneous bleeding, ecchymosis, and petechiae. It is also common for patients to not develop any hemorrhagic complications. An erythematous maculopapular rash can occur during that time that eventually desquamates. Patients can become hypovolemic and develop severe metabolic derangements secondary to fluid losses via the gastrointestinal tract.
+- Ddx:
+  - Malaria, typhoid fever, other viral hemorrhagic fevers (ie, Marburg, bunyaviruses), meningococcemia, leptospirosis, or other bacterial illnesses.
+- Dx: see box 122.2
+  - RT-PCR assay
+  - Lab findings: thrombocytopenia, anemia, coagulopathy, renal & liver dysfunction,
+  - 10% of people can have malaria co-infection
+- Treatment:
+  - Treat other potential causes of illness (e.g. malaria)
+  - Supportive care
+  - GOOD isolation!!
+
+e. Marburg
+
+- Central Africa (or person who has contacted an African source)
+- Transmission via: blood/body fluids. Current host - African fruit bat.
+- 3-9 day incubation period.
+- Clinical features:
+  - Illness similar to Ebola
+    - Fever, headache, malaise, and myalgias. After the 3rd to 5th day, severe abdominal pain, cramping, vomiting, and diarrhea occurs. Around the same time, a maculopapular rash may develop. Half of the patients will also develop hemorrhagic manifestations during this time. Hematemesis, diarrhea, oropharyngeal bleeding, and bleeding from venipuncture sites can all occur. Death usually occurs because of acute blood loss and septic shock.
+- Ddx: same ddx as ebola
+- Dx: RT-PCR, ELISA, antigen detection tests, serum neutralization tests, and viral culture.
+- Treatment:
+  - Isolation, supportive care, ICU management
+
+f. Lassa fever
+
+- African rodent Mastomys natalensis. Humans contract the disease by exposure to urine or feces of Mastomys natalensis.
+  - Human-human contact via infected person’s blood/body fluids
+- Most infections are asymptomatic. 2% fatality rate
+- Fever and malaise. Headache, myalgias, sore throat, cough, chest pain, abdominal pain, nausea, vomiting, diarrhea can all occur after a few days. Patients can also develop facial edema, pleural effusion, myocarditis, and encephalitis. Less than 20% of symptomatic patients progress to develop hemorrhagic manifestations.
+- Diagnosis can be made via RT-PCR, ELISA, antigen detection tests, and viral culture.
+
+### [13] List and summarize key points for the emerging viral infections
+
+With increased international travel occurring, emergency clinicians must be familiar with emerging infections that are spreading beyond their endemic origins. Most emerging viruses originate in animals and are vector-borne or zoonotic diseases.
+
+Newer infections are avian influenza (won’t be covered here), Middle East respiratory syndrome (MERS), enterovirus D68 (EV-D68) - outbreak in 2014 -, and Zika virus.
+
+Other diseases continue to emerge - which we don’t have time to cover - such as: Heartland virus, Bourbon virus, variegated squirrel bornavirus, and Oropouche virus.
+
+We’ll briefly touch on SARS, MERS and ZIKA.
+
+- SARS - not an “emerging” viral infection anymore- Severe acute respiratory syndrome–coronavirus (SARS-CoV) is a particularly virulent coronavirus that first appeared in China in November 2002. SARS-CoV caused the severe acute respiratory syndrome (SARS). SARS affected at least 8,098 individuals in 29 countries across Asia, Europe, and North and South America. Most of the cases were from China and Hong Kong, with a mortality rate near 10%. Since 2004, there have not been any reported cases of SARS.
+
+- MERS: Middle East respiratory syndrome coronavirus (MERS-CoV). All reported cases have been associated with direct or indirect exposure to travel or residence in the following countries: Saudi Arabia, the United Arab Emirates, Qatar, Jordan, Oman, Kuwait, Yemen, Lebanon, and Iran.
+  - This virus has a high mortality rate and shares many features with SARS-CoV. The mode of transmission has not fully been elucidated yet, but the most likely route is via direct aerosol transmission.
+    - It is unclear how contagious MERS-CoV is. There have been case reports of transmission in the health care setting via a less than 10-minute encounter, maintaining 3 feet distance, but without any personal protective equipment (PPE). On the other hand, investigations have also revealed no transmission among close contacts.
+    - The reported incubation time for MERS-CoV is between 5 to 14 days.
+  - Causes an acute respiratory illness with fever, cough, dyspnea, sore throat, myalgias, and up to a third have gastrointestinal symptoms as well.
+  - MERS can rapidly deteriorate to acute respiratory failure. Close to half of the patients will require ICU admission and median time to ICU admission from symptoms onset is 2 days.
+  - Similar to SARS, age, diabetes mellitus, ischemic heart disease, and other chronic health problems are risk factors for poor prognosis
+  - Treatment =
+    - Supportive!
+    - The diagnosis won’t be known immediately, so given how sick these patients are most will get empiric Abx.
+
+- Zika virus
+  - Zika virus is an arthropod-borne flavivirus transmitted by mosquitoes. The virus is related to other flaviviruses including dengue virus, yellow fever virus, and West Nile virus. Clinical manifestations of Zika virus infection occur in approximately 20 percent of patients and include acute onset of low-grade fever with maculopapular pruritic rash, arthralgia (notably small joints of hands and feet), or conjunctivitis (nonpurulent).
+  - Clinical manifestations of Zika virus infection include acute onset of low-grade fever with maculopapular pruritic rash, arthralgia (notably small joints of hands and feet), or conjunctivitis (nonpurulent); clinical illness is consistent with Zika virus disease if two or more of these symptoms are present. Zika virus infection has also been associated with congenital microcephaly, fetal loss, and Guillain-Barré syndrome.
+  - Source: UptoDate.
+
+## Wisecracks
+
+### [1] What is the clinical presentation of Hantavirus and what is a risk factor for contracting it?
+
+- These are rodent-borne viral infections
+- Two major forms of disease:
+  - Hemorrhagic fever with renal syndrome (HFRS) OLD world hantavirus
+    - Fever, hemorrhage, hypotension, shock, AKI (nephritic)
+    - Supportive care
+  - Hantavirus cardiopulmonary syndrome (HCPS / HPS) NEW world hantavirus
+    - 3 week non-specific prodrome
+    - Fevers, chills, myalgias
+    - Sudden onset (over 24-48 hrs) of non-cardiogenic pulmonary edema and shock
+    - Thrombocytopenia, leukocytosis, left shift, elevated LDH
+    - Trxt: supportive care, pressors, ECMO.
+- Need IgM and IgG antibodies to confirm the rare diagnosis.
+
+Contracted via:
+
+- Airborne route -
+  - Patients become infected via aerosolized rodent (deer mice, field mice, rats, voles, etc) excreta in closed, poorly ventilated buildings or during renovations
+
+### [2] Describe the management of monkey bite (review)
+
+Check out: [Mammalian Bites](https://canadiem.org/crackcast-e061-mammalian-bites/)
+
+We worry about the macaque monkey transmitting the monkey B virus via a bite or mucosal/open skin splash. Highly virulent virus
+
+- Herpes virus simiae
+- Case fatality of 70% without antiviral therapy
+
+Treatment:
+
+- Mechanical debridement and vigorous irrigation immediately for 15 minutes
+- Prophylaxis with:
+  - Valacyclovir: 1g orally PO q8h x 14 days or
+  - Acyclovir 800mg PO q5 times daily x 14 days
+- Add amox-clav for bacterial infection, specifically covering for S. aureus and Bacteroides
+
+### [3] What is the prophylaxis for smallpox?
+
+Firstly, this disease has been eradicated due to successful vaccination. It remains a potential bioterrorist threat.
+
+- Prophylaxis is available through the CDC:
+  - Vaccination with vaccinia virus via scarification (not your average vaccination!)
+
+Vaccination carries multiple risks, so it is not routinely performed unless high-risk exposure is likely or expected.
+
+### [4] Differentiate between molluscum contagiosum and condylomata acuminata.
+
+MC:
+
+- Poxvirus
+- Skin-skin contact in adults and commonly in children
+- Flesh-colored papules with central umbilication
+- Self-resolving
+- Treatment options if needed:
+  - Cryotherapy (RISK of pigment change to skin), curettage, cantharidin
+- DOES not require children be kept from school/preschool
+  - Lesions just need to be covered.
+
+CA:
+
+- Condylomata acuminata - aka anogenital warts
+  - Human papillomavirus infection HPV - 6 and 11
+  - STI
+  - Can have many clinical forms: flat, dome-shaped, cauliflower, and MANY others.
+  - Colour ranges from white to brown
+  - Usually ano-genital
+  - Malignant transformation is rare (unless immunosuppressed)
+  - Multiple topical, injection and surgical options available.
+    - 40% may resolve on their own
+
+### [5] Differentiate between herpes gingivostomatitis and coxsackie virus oral lesions (herpangina)
+
+Both common in children
+
+Herpes gingivostomatitis: (primary HSV-1)
+
+- Ulcerative lesions of gingiva and mucous membranes
+  - Often have perioral lesions, and may become disseminated to the head/face
+- Lesions BLEED
+  - Red, edematous marginal gingivae in clusters
+- 4 day prodrome of fever, irritability, malaise
+- Heal in 2-3 weeks
+- CAN also lead to dehydration and anorexia
+
+Can be reactivated by sunlight, cold, trauma, stress, immunosuppression
+
+Herpangina is caused by coxsackievirus A and presents with fever, sore throat, odynophagia, and vesiculopapular lesions on the cheeks and soft palate.
+
+- Lesions don’t bleed
+- Very acute onset
+- Shorter duration
+- Summer - early fall
+
+### [6] How do you treat herpes zoster?
+
+1 week: acyclovir 800 mg five times a day, famciclovir 500 mg three times a day, or valacyclovir 1 g three times a day.
+
+Antiviral treatment should be initiated within 72 hours of onset of rash, because the efficacy beyond 72 hours is unclear. Immunocompromised patients should be treated regardless of time of onset of rash. Zoster involving more than one dermatome or disseminated zoster should be treated with IV acyclovir.
+
+An immunocompetent localized zoster patient only requires standard precautions, whereas an immunocompromised or disseminated zoster patient is treated like a patient with varicella, requiring contact and airborne precautions.
+
+Treatment of HSV
+
+Inoculation begins in childhood, and then HSV spreads to the nervous system, where it lays latent in the sensory nerve ganglia. Any stressor such as emotional stress, trauma, intense sunlight, or fever can trigger reactivation of the virus.
+
+Treatment depends on the location!
+
+- Labialis/gingivostomatitis vs. genital vs. keratitis vs. herpetic whitlow
+
+In general:
+
+- Acyclovir 200 mg (x5/day) or 400 mg TID for 1-10 days depending on the location and whether it is a primary infection or recurrence (1-2 days if recurrent)
+- Valacyclovir 1-2 g BID is an alternative
+
+### [7] Which patients with chickenpox should receive treatment with acyclovir?
+
+Antiviral therapy with acyclovir has been shown to decrease duration of fever and total number of lesions in healthy children but not reduce the number of varicella-related complications.
+
+Therefore, we do not recommend treatment of otherwise healthy children with varicella.
+
+We recommend treating groups at high risk for varicella complications with acyclovir, including:
+
+- Those older than 12 years old
+- Adults
+- Pregnant patients
+- Persons with chronic cutaneous or pulmonary disorders
+- Persons on long-term salicylate therapy
+- Persons on aerosolized corticosteroids
+- Immunocompromised patients.
+
+The treatment should be initiated within 24 hours after the rash appears for the most benefit.
+
+The dose of acyclovir for VZV treatment is higher than that of HSV, 800 mg orally four times a day for 5 days. If the patient is immunocompromised and has severe disease, IV acyclovir should be administered.
+
+## References
+
+- [CDC Antiviral Use in Influenza](https://www.cdc.gov/flu/professionals/antivirals/antiviral-use-influenza.htm)
+- [Mammalian Bites](https://canadiem.org/crackcast-e061-mammalian-bites/)
+```

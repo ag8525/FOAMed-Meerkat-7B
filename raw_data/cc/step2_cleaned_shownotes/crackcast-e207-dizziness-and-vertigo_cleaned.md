@@ -1,0 +1,287 @@
+```yaml
+title: "CrackCast Episode 207: Dizziness and Vertigo"
+url: "https://canadiem.org/crackcast"
+date: 2019-11
+source: "CanadiEM – CrackCast"
+original_file: "CRACKCast-E207-Dizziness-and-Vertigo.pdf"
+summary: "Will be added later"
+```
+
+## Overview
+
+### Key Concepts
+
+1. Associated neurological complaints, such as imbalance, dysarthria, or numbness, raise the likelihood of TIA or stroke as the cause of the patient’s dizziness/vertigo.
+2. Benign paroxysmal positional vertigo (BPPV) requires head movements to elicit symptoms. Consequently, the Hallpike test should not be performed if the patient is actively symptomatic during history taking (and the patient’s head has not recently been moved) because such a history is inconsistent with BPPV.
+3. When performing the Hallpike test, the head should be turned to the side 45 degrees prior to laying the patient back into the head-hanging position.
+4. A positive Hallpike test should elicit up-beating nystagmus.
+5. The Epley maneuver is used to treat posterior semicircular canal BPPV, which is the most common subtype of BPPV.
+6. Central causes of nystagmus are more likely when the pattern is purely vertical, down-beating (fast phase beating toward the nose), non-fatigable, direction changing with gaze, or spontaneous pure torsional.
+7. The presence of auditory symptoms suggests a peripheral cause of the vertigo.
+8. Acute vestibular syndrome is diagnosed when dizziness develops acutely; is constant; is accompanied by nausea and vomiting, unsteady gait, nystagmus, and intolerance to head motion; and persists for longer than a day.
+9. Neck injury can cause vertigo from vertebral artery dissection, resulting in posterior circulation ischemia.
+10. Abnormal nystagmus is the cardinal sign of inner ear disease and the principal objective evidence of abnormal vestibular function.
+11. HINTS (Head Impulse, Nystagmus, Test of Skew) is a bedside oculomotor examination test that has been proposed as a way to differentiate central from peripheral vertigo in patients with a first-ever onset of constant vertigo from acute vestibular syndrome.
+12. Meclizine (Antivert) has a time of onset of approximately 1 hour.
+13. Do not prescribe benzodiazepines to patients with vestibular neuritis or labyrinthitis who are discharged home. Such medications can interfere with the process of vestibular rehabilitation.
+
+### Rosens in Perspective
+
+We are back at it again in Saskatchewan, serving up a tasty teaching session on Rosen’s 9th Edition Chapter 16 - Dizziness. As we have done previously, we will put you in the right mindset for the podcast with another anxiety-provoking case.
+
+### Case
+
+You are cruising the ED on a bright and sunny autumn day when one of the nurses from triage comes to get you. They have just placed a 35-year-old female with complaints of dizziness and a headache in bed 4. While her vital signs are within normal limits, the nurse seems very uneasy about her. When you ask why, she says that she has seen endless numbers of young women with migraines come into the ED in her career, but all of them could walk. The nurse tells you that when she went to place the patient in bed, the patient took three steps, veered off to the right, and fell to the ground. Additionally, the nurse tells you that this patient is acutely dysarthric, and that her eyes seem to be “twitching” spontaneously. You put that $14.00 pumpkin spice latte down and make your way to see her. En route, you start to lament about all of the possible causes of this patient’s presentation, and then you walk in the room. If this case makes your head spin, do not fret. Your friendly neighborhood hosts from CrackCast will take you by the hand and make the topic of dizziness a little less vomit-inducing. You will likely see multiple cases of dizziness every week in the ED. It is an exceedingly common presenting complaint in ED patients. While many causes of dizziness are benign, there are monsters that lurk in the shadows that can cause your patients serious harm, so having a solid grasp of the material presented today is key. Of particular concern in the acutely dizzy patient is vascular pathologies. One study found that in patients who had recently been discharged from the ED with a diagnosis of dizziness or vertigo had a 2x increase in risk for a vascular event in the 3 years after being seen. Yikes.
+
+To arm you with all of the knowledge you need to steward the care of these patients, this episode will first give you a solid understanding of dizziness and the pathologies that cause it. We will review the neurological circuits that can contribute to your patient’s dizziness, and then review ways in which to diagnose and treat them. We will focus in on vertigo and break down the central and peripheral causes and outline history and physical exam findings that you can use to decide whether or not our friends in Neurology need to get involved. As always, we will end with a couple of quick snappers and banter and then let the credits roll. So, sit back, slurp that PSL, and listen up!
+
+## Core Questions
+
+### 1. What is dizziness and what pathologies can cause it?
+
+Dizziness, arghhh. We have all had shifts when the weak-and-dizzy patients fill up the “waiting to be seen” column of our computer screens. Discerning what is truly the cause of your patients’ complaints is often times difficult, so having an operational definition and a tight list of the most likely etiologies of your patient’s dizziness is important.
+
+As per Rosen’s 9th Edition, “dizziness” is defined as “an extremely common yet complex neurologic symptom that reflects a disturbance of normal balance perception and spatial orientation.” Patients often use this as a catch-all term for a sensation of motion, weakness, lightheadedness, unsteadiness, emotional upset, and depression. There are a few broad categories Rosen’s gives us that help elucidate the potential etiology of this complaint. These are:
+
+- Vertigo
+  - Vertigo is the illusion of motion, often described as the room spinning
+- Near-syncope
+  - Feeling faint or lightheaded
+- Disequilibrium
+  - Sense of unsteadiness of gait
+- Non-specific dizziness
+  - Often related to polysensory disorder with a component of anxiety
+
+### 2. Define vertigo and acute vestibular syndrome
+
+As we said above, vertigo is the illusion of motion. Often times, the patient will describe the room as spinning. Asking if the room is spinning is good, but remember, it is any sensation of motion when the patient is stationary; so, rephrasing how you are asking your patient about vertigo on your next ED shift should change. Anecdotally, some practitioners have found success with asking more generalized questions about this perception that either the patient or objects around them are shifting, moving, etc., to better catch the acutely vertiginous patient.
+
+Acute vestibular syndrome includes vertigo in its diagnostic criteria but is more completely defined as the following:
+
+- A clinical condition in which dizziness develops ACUTELY, is CONSTANT, and persists longer than 24 HOURS.
+- Acute vestibular syndrome is, by definition, accompanied by nausea, vomiting, unsteady gait, nystagmus, and intolerance to head motion.
+
+To summarize:  
+Vertigo = sensation of movement without motion of patient and not all patients with vertigo are suffering from an acute vestibular syndrome.
+
+### 3. What three systems are involved in the maintenance of equilibrium and how many of these systems must be affected to cause vertigo?
+
+I want you all to put on your overalls and tool belt, because we are about to transform into electricians for this question. Thinking of yourself as a redseal tradesman when you are dealing with all things neurological is important, as it helps simplify things. Neurologic issues can, at least semi-reliably, be traced to a lesion somewhere in the neuronal circuit. So, much like an electrician traces a line to see the short, a physician dealing with a patient with vertigo must trace the circuit to discern where the pathology lies.
+
+In general, there are four systems/structures involved in maintaining equilibrium:
+
+1. Vision
+2. Vestibular System
+3. Proprioceptive System
+4. Cerebellum
+
+A loss or mismatch of any (2) of these can cause the perception of vertigo.
+
+Now that you know generally what systems/structures are involved in maintaining balance and equilibrium, you are one step further to finishing your apprenticeship.
+
+### 4. Trace the neuronal impulse from the vestibular apparatus to the muscle endplate
+
+Now that we have the basics of the neuronal circuit involved in maintaining equilibrium down, let’s move onto your next year of apprenticeship training. We are going to turn up the heat and now trace an action potential as it travels from the vestibular apparatus to the muscle endplate.
+
+- Vestibular apparatus
+- Cranial Nerve VIII
+- Brainstem
+  - Below the pons and anterior to the cerebellum
+- Cerebellum
+- Vestibular Brainstem Nuclei
+  - (4) exist
+- Medial longitudinal fasciculus and vestibulospinal tract
+- Motor neurons
+- Synapse
+- Muscle end-plate
+
+### 5. Define nystagmus
+
+This is a quick one. Nystagmus is defined as the following:
+
+- Rhythmic beating of the eyes caused by asymmetrical stimulation of the extraocular muscles
+
+It is important to note that there are multiple variants of nystagmus, and that the character, fatigability, and direction of the nystagmus can help you discern whether or not it is being caused by a central or peripheral aetiology. The following are the typical variants of nystagmus:
+
+1. Upbeat
+2. Downbeat
+3. Horizontal
+4. Torsional
+5. Mixed
+
+### 6. List five peripheral causes of vertigo (see Table 16.2)
+
+Please see Rosen’s 9th Edition, Table 16.2 for a formal listing of peripheral causes of vertigo
+
+Peripheral Causes of Vertigo:
+
+- BPPV
+- Vestibular neuritis
+- Labrynthitis
+- Foreign body in ear canal
+- Acute otitis media
+- Perilymphatic fistula
+- Trauma (labyrinth concussion)
+- Motion sickness
+- Acoustic neuroma
+- Meniere’s
+
+### 7. List five central causes of vertigo (see Table 16.2)
+
+Please see Rosen’s 9th Edition, Table 16.2 for a formal listing of central causes of vertigo
+
+Central Causes of Vertigo:
+
+- Vertebrobasilar artery insufficiency
+- Cerebellar hemorrhage or infarction
+- Tumor
+- Migrainous vertigo
+- MS
+- Post-traumatic injury (temporal bone fracture, post-concussive syndrome)
+- Infection
+  - Encephalitis
+  - Meningitis
+  - Brain abscess
+- Temporal lobe epilepsy
+- Subclavian steal syndrome
+
+### 8. Differentiate between central and peripheral vertigo based on history and clinical exam findings
+
+Please see Rosen’s 9th Edition, Table 16.3 for a more comprehensive and detailed table
+
+| Characteristic                | Peripheral                                                                 | Central                                                                 |
+|-------------------------------|----------------------------------------------------------------------------|-------------------------------------------------------------------------|
+| Onset                         | Sudden                                                                     | Gradual or Sudden                                                       |
+| Intensity                     | Severe initially, often decreasing over time                               | Mild in most cases, but can be severe in stroke and MS                  |
+| Duration                      | Intermittent episodes lasting seconds to less than one minute for BPPV; continuous and lasting for hours to days for vestibular neuritis | Usually weeks, months (continuous), but can be minutes with vascular causes, such as with posterior circulation TIA |
+| Direction of Nystagmus        | Usually torsional and upbeat (fast phase beating toward forehead) in classic posterior canal BPPV; horizontal canal BPPV will be horizontal vertigo; horizontal torsional with vestibular neuritis and labyrinthitis | Purely vertical, spontaneous, purely torsional, direction-changing on lateral gaze, down beating (fast phase beats towards the nose) |
+| Effect of Head on Position    | Induces vertigo with BPPV; worsens vertigo with vestibular neuritis        | Usually little change but can worsen with head position change          |
+| Associated Neurologic Findings| None                                                                       | Usually present                                                         |
+| Associated Auditory Findings  | May be present, tinnitus with Meniere’s Disease) and hearing loss (labrynthitis) | Rarely                                                                  |
+
+### 9. Describe the Dix Hallpike Test
+
+- Used to confirm Dx of posterior canal BPPV
+- Should be used with caution in patients with acute vestibular syndrome (may lead to nonspecific worsening in these pts). If pt is experiencing constant vertigo this does not fit with BPPV, which is elicited by head movements.
+- Steps:
+  - Prepare for procedure - lie the patient down so their head is just off the edge of the gurney
+  - Then sit them up.
+  - Turn head 45º to one side
+  - Lay patient down quickly with head overhanging edge of gurney
+  - Ask about symptoms and look for nystagmus +/- wipe vomit off your shoes
+  - Bring patient back upright
+  - Then repeat on other side.
+- Positive test, ie confirmatory of BPPV = latent onset of vertigo and nystagmus (10-30 seconds)
+- nystagmus (up beating and ipsilateral torsional/top pole beats to downward ear.
+- If you have never done this before, just watch a few videos to get the hang of it!
+
+### 10. Outline your approach to the HINTS exam
+
+- HINTS stands for “Head Impulse, Nystagmus, Test of Skew”
+- It is designed to differentiate between central and peripheral causes of the acute vestibular syndrome, i.e. CONSTANT VERTIGO >24h (in most cases, vestibular neuritis vs. posterior stroke are the main differentials)
+
+Components of Exam
+
+- Head impulse Test - rapid, passive rotation of head while patient fixates on nose of examiner.
+  - Central - no findings (no saccade)
+  - Peripheral - catchup saccade present
+- Nystagmus
+  - Central = bilateral, direction changing horizontal nystagmus or vertical nystagmus
+  - Peripheral = unilateral, horizontal nystagmus
+- Test of Skew = cover/uncover test of each eye while patient fixates on nose
+  - Central - refixation present after uncover
+  - Peripheral = no refixation
+- PERIPHERAL HINTS = unilateral positive HIT plus unilateral horizontal nystagmus, absent skew deviation
+- CENTRAL HINTS = negative HIT, bidirectional horizontal/vertical nystagmus, positive test of skew
+- INFARCT (impulse normal, fast phase alternating, refixation on cover test)
+
+How good is HINTS?
+
+- If you’re a neuro ophthalmologist…. Really good
+  - Reported sensitivity of 96-100% and 85-98% specificity for identifying posterior stroke
+  - This outperforms MRI
+  - However, ED clinicians are not neuro-ophthalmologists (my understanding is that this is some hybrid supernerd of the two specialties that is rarely seen out in the wild)
+  - Consider taking a slow-motion video with your smartphone to look for the subtle eye movements
+
+In general - vertigo PLUS (ataxia, cerebellar findings, central nystagmus, etc) should raise your concern for a central etiology. Posterior strokes can be very subtle. Gait assessment and meticulous examination for cerebellar/brainstem findings is key. Be cautious about overreliance on the HINTS exam.
+
+### 11. What is the Epley maneuver and what pathology does it treat?
+
+This is the money for BPPV. Epley is also known as the canalith repositioning maneuver.
+
+- Used to treat posterior semicircular canal BPPV
+- To treat the affected side - head turns to that side and then the sequence is performed
+- Practically, I run through it with them once so they know how to do it and provide a handout.
+- There is no limit to the number of times the Epley maneuver can be performed - however UTD notes that it is effective the first time in ~85% and only 2% require more than three treatments.
+- Side note - don’t forget about vestibular physiotherapy referral if available where you practice
+
+### 12. Describe the Barbecue Roll Test and what pathology does it treat?
+
+Sounds delicious. This maneuver treats the horizontal canal variant of BPPV
+
+Head turns 90º to affected side. Then rotated in 45 degree intervals away from the involved side. Each position is held until the nystagmus and vertigo resolves, approximately 30 seconds. The maneuver is complete when the head is back in the original starting position.
+
+### 13. Outline your approach to managing the vertiginous patient
+
+There are two main branches here - identification and treatment of specific etiologies with disease specific therapy, and symptomatic treatment with vestibular suppressants and antiemetics.
+
+Incidences where disease specific treatment has a role:
+
+- Vestibular neuritis (steroids, no evidence for antivirals)
+- Vestibular migraine (?consideration for migraine prophylactic meds if indicated)
+- BPPV (canalith repositioning maneuvers and vestibular physio)
+- Meniere’s disease (salt restriction, vasodilators, diuretics, avoidance of caffeine and nicotine)
+- MS (disease-specific therapy)
+- Vertebrobasillar ischemia (standard stroke treatments/secondary prevention)
+- Ramsay Hunt Syndrome (antivirals, steroids)
+  - Triad - ipsilateral facial paralysis, ear pain, and vesicles in the auditory canal or on the auricle
+- Acoustic neuroma (surgery/radiation)
+- Plus some others…
+
+Symptomatic therapy
+
+3 major classes:
+
+- Antihistamines (meclizine, dimenhydrinate, diphenhydramine)
+- Benzodiazepines (diazepam, lorazepam, midazolam etc)
+- Antiemetics (ondansetron, prochlorperazine, promethazine, metoclopromide)
+
+## Wisecracks
+
+### 1. What diagnoses cause both vertigo and hearing loss?
+
+This is a pretty tight list. If you think about it, the vast majority of people with hearing loss will have peripheral aetiologies of vertigo. Central causes can rarely result in hearing loss, but if your patient is newly deaf unilaterally, think peripheral causes of vertigo.
+
+Causes of peripheral vertigo:
+
+1. Meniere’s Disease
+2. Labyrinthitis
+3. Acute Otitis Media
+4. Acoustic Neuroma
+5. Foreign Body in Ear Canal
+
+### 2. What features of nystagmus suggest a central pathology?
+
+Can you smell it? Yes, it is another list. However, this is one of Rosen’s secret lists that are hidden within the text. Luckily, we have another DDL (Dillan’s Distilled List) to make sure you can easily reference and remember what features of nystagmus suggest a central cause of vertigo.
+
+Nystagmus Features Suggestive of Central Pathologies:
+
+1. Purely vertical nystagmus
+2. Down-beating nystagmus (with fast phase toward the nose)
+3. Non-fatigable nystagmus
+4. Direction-changing nystagmus with changes in gaze
+5. Spontaneous pure torsional nystagmus
+
+### 3. What is truncal ataxia and what typically causes it?
+
+Truncal ataxia is something that is not commonly encountered in clinical practice, but when you see it, you’ll never forget it. In essence, truncal ataxia is characterized by midline torso instability. While these patients can have a grossly ataxic gait, you often see truncal ataxia when the patient is sitting. The patient is often unable to sit upright without stabilizing their midsection with their arms on either side. Additionally, the patient with truncal ataxia can be seen to have abnormal swaying movements of the head and trunk.
+
+Truncal ataxia, if found in isolation, is typically the result of midline cerebellar lesions and dysfunction.
+
+Also called “titubation”
+
+## References
+
+- Rosen’s Emergency Medicine 9th Ed.
+- [CanadiEM – CrackCast](https://canadiem.org/crackcast)
+```

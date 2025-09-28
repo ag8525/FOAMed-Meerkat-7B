@@ -1,0 +1,523 @@
+# Metadata
+- topic: 4.1 - Environment - CC-E139Frostbite
+- source_folder: 4.1 - Environment
+- original_file: CC-E139Frostbite.pdf
+
+ 
+ 
+CrackCast Show Notes – Frostbite – December 2017 
+www.canadiem.org/crackcast 
+CRACKCast E139 (Rosen’s Ch 131) – Frostbite  
+ 
+Key concepts:  
+ 
+Frostbite  
+ 
+• 
+Premature termination of thawing in 37° C to 39° C (98.6° F–102.2° F) water is a 
+common error. Reperfusion of completely frozen tissue may be painful and may 
+require parenteral analgesia. 
+• 
+The early formation of clear blebs is more favorable than delayed formation of 
+hemorrhagic blebs, which reflect damage to the subdermal vascular plexi. 
+• 
+The patient should be advised that accurate prediction of  eventual tissue loss is not 
+always possible at presentation, despite imaging. 
+• 
+Thrombolytic agents may restore some flow to severely frostbitten limbs if 
+administered within 24 hours of thawing. 
+ 
+Nonfreezing Cold Injuries  
+ 
+• 
+Immersion injuries should be rewarmed slowly and not above 30° C (86° F).  
+• 
+Cooling of nonfreezing cold injuries may be helpful to relieve pain and edema.  
+• 
+Pernio can be treated by drying and gentle massage. The skin should not be warmed 
+above 30° C (86° F). 
+ 
+ 
+Signposts 
+ 
+1) Describe the pathophysiology of frostbite (the freezing injury cascade). 
+2) What are the types of cold injuries?  
+3) Describe the clinical differentiation between each of the following: 
+a) Frostnip 
+b) Frostbite 
+c) Trenchfoot 
+d) Chilblains 
+4) List 10 predisposing factors for frostbite 
+5) Describe the pre-hospital and ED management of frostbite 
+6) List 8 sequelae of frostbite. 
+a) Describe the early and late complications of frostbite. 
+ 
+ 
+Rosen’s in Perspective 
+ 
+Humans are “physiologically tropical” - so we need to adapt our behaviour to survive in cold.  
+ 
+• 
+What is frostbite?  
+o 
+Tissue freezing with the formation of ice crystals  
+• 
+NON-freezing injuries include:  
+o 
+Immersion injuries - aka trench foot = exposure to wet cold 
+o 
+Pernio - chilblains - exposure to dry cold  
+• 
+We talk a lot about the dx and management of frostbite but let’s quickly emphasize 
+that the best prevention is YOU!  
+o 
+Behavioural responses - clothing and shelter are key  
+ 
+ 
+CrackCast Show Notes – Frostbite – December 2017 
+www.canadiem.org/crackcast 
+o 
+Unless you are an adapted Inuit or true northern person you’re not really 
+adapted with cold-induced vasodilation  
+ 
+Core Questions 
+[1] Describe the pathophysiology of frostbite (the freezing injury 
+cascade).  
+ 
+• 
+Frostbite only occurs when the tissue gets below 0ºC. (Usually more likely -4º to -10º 
+C)  
+• 
+The tissues become injured due to ice crystal formation, microvascular thrombosis 
+and stasis.  
+• 
+Here we walk about the “Freezing Injury Cascade”  
+o 
+Pre-freeze stage:  
+§ 
+Temps below 10 deg 
+§ 
+CUTANEOUS SENSATION LOST 
+§ 
+Microvascular changes (see below)  
+o 
+Freeze thaw phase 
+§ 
+Ice crystals form outside the cell  
+• 
+Then inside the cell 
+§ 
+Cells die  
+§ 
+Blood flow stops 
+§ 
+As the tissue becomes thawed the next stage starts 
+o 
+Vascular stasis and ischemia stage 
+§ 
+Coagulation in microcirculation  
+§ 
+Damage tissue releases toxic mediators  
+§ 
+Tissues become ischemic as the coagulation system is activated  
+§ 
+Tissue edema for 48-72 hrs as tissue is thawed  
+§ 
+Necrosis appears as the edema resolves  
+§ 
+Dry gangrene appears  
+ 
+ 
+Advanced imaging may help delineate which tissue is viable before July rolls 
+around…. (referencing the frostbite in January amputate in July adage)  
+ 
+See Box 131.1: Freezing Injury Cascade  
+ 
+ 
+ 
+*Extremely rapid cooling produces more initial intracellular than extracellular ice 
+crystallization. 
+ 
+ 
+[2] What are the major types of cold injuries?  
+ 
+Freezing and NON-freezing!  
+ 
+These injuries can occur together, especially in climates that hover around 0 degrees.  
+ 
+ 
+ 
+ 
+CrackCast Show Notes – Frostbite – December 2017 
+www.canadiem.org/crackcast 
+[3] Describe the clinical differentiation between frostnip, frostbite, 
+trenchfoot, and perino: 
+ 
+[1] Frostnip 
+• 
+Superficial freezing injury = transient numbness and tingling that resolves after 
+rewarming  
+o 
+NO tissue destruction  
+ 
+[2] Frostbite 
+ 
+• 
+This is the big one for this episode! Frozen tissue!  
+• 
+#1 presenting symptom = numbness = loss of pain, temperature and light touch 
+sensation  
+o 
+Any of the commonly exposed areas  
+o 
+Also:  
+§ 
+Clumsiness  
+§ 
+“Block of wood” sensation  
+o 
+The initial presentation of frostbite is usually deceptively benign  
+o 
+(Assuming the person doesn’t have an obviously frozen hand)  
+§ 
+Violaceous, waxy, white, pale yellow  
+§ 
+Unable to move the skin over bony tissues  
+o 
+Rapid warming usually causes hyperemia - even in severe cases of frostbite  
+• 
+Post rewarming:  
+o 
+Good prognosis =  
+§ 
+Normal sensation, warmth and colour  
+o 
+Concerning prognosis:  
+§ 
+Bleb formation  
+§ 
+Residual violaceous hue  
+§ 
+Hemorrhagic vesicles  
+§ 
+Lack of edema formation  
+§ 
+Eschar and mummification  
+• 
+There are at least three different tissue classification models  
+o 
+Superficial vs deep injury (based on whether tissue is lost)  
+o 
+1st through 4th degree (not recommended because it is inaccurate and may 
+mislead management) 
+o 
+Grade 1–4: based on response to rapid rewarming (see below)  
+ 
+From uptodate:  
+A more useful clinical prediction tool has been developed for frostbite of the hands and feet, 
+based on the level at which skin lesions are noted after rapid rewarming in warm water. The 
+categories are as follow: 
+ 
+• 
+Grade 1 frostbite is characterized by no cyanosis on the extremity. This predicts no 
+amputation and no sequelae. 
+• 
+Grade 2 involves cyanosis isolated to the distal phalanx. This predicts only soft 
+tissue amputation and fingernail or toenail sequelae. 
+• 
+Grade 3 frostbite is characterized by intermediate and proximal phalangeal cyanosis. 
+This predicts bone amputation of the digit and functional sequelae. 
+• 
+Grade 4 frostbite involves cyanosis over the carpal or tarsal bones. This predicts 
+bone amputation of the limb with functional sequelae. PMID: 
+https://www.ncbi.nlm.nih.gov/pubmed?term=11769921 
+ 
+ 
+ 
+CrackCast Show Notes – Frostbite – December 2017 
+www.canadiem.org/crackcast 
+[3] Trenchfoot  (immersion injury)  
+ 
+• 
+Injury occurs due to immersion or damp conditions over days (wet socks on a long hike 
+for days or weeks)  
+• 
+Neurovascular damage, blistering and tissue loss can occur   
+ 
+Stages:  
+ 
+1. Cold exposure - numbness 
+• 
+Red to pale to white tissue 
+• 
+Lasts until out of the cold 
+ 
+2. Rewarming - mottling, pale blue  
+• 
+Cold and numb and progresses to pain and edema  
+• 
+Can last days 
+3. Hyperemia:  
+• 
+Hot, red and prolonged cap refill  
+• 
+Vasomotor paralysis  
+• 
+Severe pain, hyperalgesia  
+• 
+Edema and bullae formation  
+• 
+Can last weeks to months  
+4. Post-hyperemia  
+• 
+Normal appearance unless tissue lost 
+• 
+May have chronic pain  
+ 
+[4] Chilblains (Perino)  
+ 
+• 
+Due to repetitive exposure to cold conditions or in someone with underlying disease  
+• 
+Look like cold sores that appear within 24 hrs after exposure to cold  
+o Face, hands, feet, tibia  
+• 
+Risk groups: Young women, Raynaud's / SLE / APLAb pts.  
+• 
+Symptoms: burning, pruritus, erythema, edema.  
+• 
+Resolves in 1-2 weeks.  
+• 
+Analgesia; consider nifedipine  
+ 
+[4] List 10 predisposing factors for frostbite 
+ 
+a. 
+All you outdoor adventurers!  
+b. 
+Homeless or displaced persons 
+c. 
+Military or service people in the outdoors 
+d. 
+Any Canadian, Alaskan or northern American!  
+ 
+See Box 131.2 in Rosen’s for a Comprehensive List  
+ 
+Physiologic, Mechanical, Environmental, and Psychological Factors 
+Physiologic 
+1. Genetic 
+2. Core temperature 
+3. Previous cold injury 
+4. Acclimatization 
+5. Dehydration 
+ 
+ 
+CrackCast Show Notes – Frostbite – December 2017 
+www.canadiem.org/crackcast 
+6. Overexertion 
+7. Trauma—multisystem, extremity 
+8. Dermatologic disease 
+9. Physical conditioning 
+10. Diaphoresis, hyperhidrosis 
+11. Hypoxia 
+Mechanical 
+1. Constricting or wet clothing 
+2. Tight boots 
+3. Vapor barrier, Aveolite liners 
+4. Inadequate insulation 
+5. Immobility or cramped positioning 
+Psychological 
+1. Mental status 
+2. Fear, panic 
+3. Attitude 
+4. Peer pressure 
+5. Fatigue 
+6. Intense concentration on tasks 
+7. Hunger, malnutrition 
+8. Intoxicants 
+Environmental 
+1. Ambient temperature 
+2. Humidity 
+3. Duration of exposure 
+4. Wind chill factor 
+5. Altitude and associated conditions 
+6. Quantity of exposed surface area 
+7. Heat loss—conductive, evaporative 
+8. Aerosol propellants 
+9. Cardiovascular 
+10. Hypotension 
+11. Atherosclerosis 
+12. Arteritis 
+13. Raynaud’s syndrome 
+14. Cold-induced vasodilation 
+15. Anemia 
+16. Sickle cell disease 
+17. Diabetes 
+18. Vasoconstrictors, vasodilators 
+[5] Describe the pre-hospital and ED management of frostbite 
+ 
+Priorities  
+1. Prevent re-freeze injury & thaw  
+2. Analgesia  
+3. Wound care  
+4. Tetanus prophylaxis  
+5. Consider if there is a role for thrombolytic therapy (IV or IA)  
+6. Post-thaw wound care and follow-up  
+ 
+ 
+ 
+CrackCast Show Notes – Frostbite – December 2017 
+www.canadiem.org/crackcast 
+ 
+Prehospital:  
+ 
+DO:  
+• 
+Remove from the cold environment  
+• 
+Prevent any thaw-refreeze cycles  
+• 
+Remove constricting and wet clothing 
+• 
+Insulate and immobilize the affected areas (unless you need to walk out on frozen 
+feet)  
+• 
+If unable to evacuate thaw in 37-39 degree water  
+ 
+DON’T 
+• 
+Use dry heat sources  
+• 
+Rub the tissue vigorously  
+• 
+Use heat forced air  
+• 
+Use fire  
+ 
+ED management (Box 131.4)  
+Prethaw 
+Assess Doppler pulses and appearance. 
+1. Protect part—no friction massage. 
+2. Stabilize core temperature. 
+3. Address medical and surgical conditions. 
+4. Administer volume replacement as indicated. 
+Thaw 
+Provide parenteral opiate analgesia as needed. 
+1. Administer ibuprofen 400–600  mg (or aspirin, 325  mg). 
+2. Immerse part in circulating water at 37°  C–39°  C (98.6°  F–102.2°  F), monitored by 
+thermometer. 
+3. Encourage gentle motion, but do not massage. 
+Postthaw 
+Dry and elevate. 
+1. Aspirate or débride clear vesicles. 
+2. Débride broken vesicles and apply topical antibiotic or sterile aloe vera ointment every 6 
+hours. 
+3. Leave hemorrhagic vesicles intact. 
+4. Administer tetanus prophylaxis if indicated. 
+5. Provide streptococcal prophylaxis if high risk. 
+6. Consider phenoxybenzamine in severe cases. 
+7. Perform imaging, including angiography, if thrombolysis may be indicated. 
+8. Carry out thrombolysis, if indicated and available. 
+9. Obtain admission photographs. 
+ 
+A couple keys:  
+• 
+Water warmer than 39 degrees causes more pain, and no significant benefit 
+ 
+ 
+CrackCast Show Notes – Frostbite – December 2017 
+www.canadiem.org/crackcast 
+• 
+Thermal injury occurs if the water temperature is > 42 degrees  
+• 
+Usually 30 mins of immersion is needed - if in doubt keep it in longer (until distal 
+erythema is noted) 
+• 
+Don’t massage the tissue, but encourage gentle active movement  
+• 
+Have IV access available and note the risk for core temperature afterdrop and VF! 
+• 
+Elevate the affected extremity post thaw to prevent edema  
+• 
+Consider thrombolysis  
+o 
+IV tPa or intra-arterial tPa (both with heparin)  
+o 
+Given within 24 hours of thawing (you have time!!)  
+• 
+Indications for thrombolysis:  
+o 
+No contraindication to tPa 
+o 
+Risk for significant tissue loss (e.g. extending to proximal phalanx)  
+• 
+Other “unproven therapies”  
+o 
+LMWH  
+o 
+Hyperbaric O2 
+o 
+Iloprost (prostacyclin)  
+ 
+[6] List 8 sequelae of frostbite.  
+ 
+Box 131.3 
+ 
+Categories = Neuropathic, MSK, Dermatologic, Miscellaneous  
+Neuropathic 
+1. Pain 
+1. Phantom pain 
+2. Complex regional pain syndrome 
+3. Chronic pain 
+2. Sensation 
+1. Hypesthesia 
+2. Dysesthesia 
+3. Paresthesia 
+4. Anesthesia 
+3. Thermal sensitivity 
+1. Heat 
+2. Cold 
+4. Autonomic dysfunction 
+1. Hyperhidrosis 
+2. Raynaud’s syndrome 
+Musculoskeletal 
+1. Atrophy 
+2. Compartment syndrome 
+3. Rhabdomyolysis 
+4. Tenosynovitis 
+5. Stricture 
+6. Epiphyseal fusion 
+7. Osteoarthritis 
+8. Osteolytic lesions 
+9. Subchondral cysts 
+10. Necrosis 
+11. Amputation 
+ 
+ 
+CrackCast Show Notes – Frostbite – December 2017 
+www.canadiem.org/crackcast 
+Dermatologic 
+1. Edema 
+2. Lymphedema 
+3. Chronic or recurrent ulcers 
+4. Epidermoid or squamous cell carcinoma 
+5. Hair or nail deformities 
+Miscellaneous 
+1. Core temperature afterdrop 
+2. Acute tubular necrosis 
+3. Electrolyte fluxes 
+4. Psychological stress 
+5. Gangrene 
+6. Sepsis 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

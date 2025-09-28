@@ -1,0 +1,93 @@
+# Metadata
+- Source: The Bottom Line
+- Title: TOPCOAT
+- Original URL: https://www.thebottomline.org.uk/summaries/icm/topcoat/
+- Scrape Date: 2025-07-17
+- Summary Date: AUTO_FILL_IF_AVAILABLE
+
+TOPCOAT: Treatment of submassive pulmonary embolism with tenecteplase or placebo: cardiopulmonary outcomes at 3 months: multicenter, double-blind, placebo controlled, randomized trial
+Kline, 2014. Journal of Thrombosis and Haemostasis, 12:459-468
+Clinical Question
+In patients with submassive PE, does the use of tenecteplase + heparin, compared to heparin alone, improve patient orientated outcomes?
+Design
+Randomised controlled trial
+Double-blinded
+Placebo-controlled
+Setting
+8 centres in the USA
+August 2008 – October 2012
+Population
+Inclusion: adult patients with submassive PE
+PE diagnosed on CT-PA
+Normal systolic BP
+Right ventricular strain (any of the following)
+hypokinesis on echocardiography
+elevated Troponin I or T
+BNP >90pg/ml or NT proBNP >900pg/ml
+Exclusion: BP<90mmHg, contraindications to thrombolysis
+83 patients randomised
+Intervention
+tenecteplase + heparin
+tenecteplase: weight tiered dose in accordance with TNKase insert
+Control
+placebo + heparin
+In both groups patients treated with 1mg/kg enoxaparin or 200units/kg dalteparin. This was administered subcutaneously prior to the tenecteplase or placebo.
+Outcome
+Primary outcome:
+composite adverse outcome
+within 5 days – PE related or treatment related
+PE related
+death
+hypotension requiring vasopressor infusion
+intubation
+Treatment related
+death from haemorrhage
+major bleeding (intracranial or intraspinal haemorrhage, active bleeding with >2g/dL drop in haemoglobin within 24hrs requiring transfusion; bleeding that required surgery, endoscopic or intravascular treatment)
+within 90 days
+recurrent PE
+poor functional capacity
+Right ventricular hypokinesis or dilatation or RV systolic pressure >45mmHg
+Exercise intolerance or dyspnoea at rest
+inability to walk 330m using 6 minute walk test
+severe dyspnoea defined by NYHA functional class 3/4, assessed by questionnaire
+Poor physical  health related quality of life outcome
+SF36 Physical Component Summary (PCS) score <30
+VEINES QOL survey <40 (Impact of post-thrombotic syndrome)
+Significant improvement in tenecteplase group vs. placebo
+15% vs. 37% had at least 1 adverse outcome, (Difference =22%, 95% C.I for the difference 3.2-40, P=0.017, NNT 5)
+Secondary outcomes at 90 day follow up (tenecteplase vs. placebo):
+NYHA class 3/4: 5.4% vs 20.5%, P=0.051,
+6 minute walk distance: 407 vs. 403m, P=0.9
+6 minute walk distance <330m: 16% vs. 28%, P=0.19
+Self assessment of overall health (1-10, 1 worst, 10 best): 3.3 vs. 2.4, P=0.036
+This was the only individual outcome that had a significant improvement
+Authors’ Conclusions
+Treatment with tenectaplase was associated with increased probability of a favourable outcome
+Strengths
+Randomised
+Double-blinded
+CONSORT diagram
+Use of patient orientated outcomes
+Weaknesses
+Under-powered. Trial terminated early due to lead author relocating to a new institution that led to insurmountable legal and administrative barriers. Is this a first?
+Composite outcome that included many variables. Some of these variable are things that would be important to me if I was the patient where as some would not concern me e.g. need for vasopressors. With so many variables included it is difficult to determine what the exact benefits are. Due to the difficulties in recruiting enough patients to determine a mortality difference, future studies will need to utilise similar outcomes. I would prefer these studies to use a simpler approach, have a primary outcome of functional assessment at 3 months and secondary outcomes of mortality and major haemorrhage. This would still require more patients than the present study recruited
+Most of the patients (>70%) had heart rates of < 110 & SBP’s > 100mmHg. 50% were troponin or BNP negative. 35% did not even get an echo. Whilst the authors’ have been explicit about their definition of submassive PE, this group is perhaps at a lower risk and does not represent the patients we truly wish to capture
+The study was financially supported by Genetech who make tenecteplase. They were not involved in the study design or data analysis
+The Bottom Line
+In patients with submassive PE, the use of tenecteplase resulted in a reduction in adverse outcomes based on a complicated composite outcome. However, the
+only
+independent variable that reached statistical significance was related to a self assessment of overall health at 90 days. This was simply the patients’ response to being asked ‘how would you rate your overall health?’ (mean was 2.4 vs. 3.3 out of 10). The study was small, under powered and incomplete, which limits any conclusions that can be made. I would not be persuaded to thrombolyse a patient with submassive PE based on this study.
+Links
+abstract
+/ doi: 10.1111/jth.12521
+Editorial, Commentaries or Blogs
+Life in the fast lane
+RAGE podcast
+pulmccm.org
+EMCrit Blog: Fibrinolysis in Pulmonary Embolism
+Metadata
+Summary author:
+@DavidSlessor
+Summary date: 21 June 2014
+Peer-review editor:
+@stevemathieu75

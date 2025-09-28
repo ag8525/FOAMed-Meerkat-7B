@@ -1,0 +1,165 @@
+# Metadata
+- Source: The Bottom Line
+- Title: DEFUSE 3
+- Original URL: https://www.thebottomline.org.uk/summaries/em/defuse-3/
+- Scrape Date: 2025-07-17
+- Summary Date: AUTO_FILL_IF_AVAILABLE
+
+Thrombectomy for Stroke at 6 to 16 Hours with Selection by Perfusion Imaging
+Albers et Al, N Engl J Med 2018; 378:708-718 DOI: 10.1056/NEJMoa1713973
+Clinical Question
+In patients with proximal internal carotid (ICA) or middle cerebral artery (MCA) occlusion with likely salvageable ischaemic brain tissue,  does thrombectomy, at 6-16 hours post ischaemic stroke, in addition to medical therapy, compared to medical therapy alone, improve functional outcome at 90 days?
+Background
+Ischaemic stroke is the second most common cause of death worldwide as well as the third highest cause of disability
+Current therapies for stroke consist of thrombolytics up to 3 or 4.5 hours following onset in select patients
+Lytic therapy, while used frequently is based on conflicting data in which few trials showed actual benefit. Additionally, administration of lytics within a 3 hour window still carries approximately a 6% ICH rate
+The ECASS-3 trial extended the window for certain subgroups to 4.5 hours
+Six studies looking at time points greater than 3-4 hours showed either no difference (IST-3, DIAS-2) or harm when lytics were administered (ATLANTIS-A and B, ASK, MAST-EU and MAST-I) leaving the future of late stroke care bleak
+With the emergence of interventional neuroradiology, multiple trials between 2000 and 2013 demonstrated no benefit (but also no harm) when mechanical clot removal or intra-arterial tPA was used in comparison to systemic lytics
+Recent evidence has since reversed the thinking on endovascular therapy beginning with the MR CLEAN trial in 2015 showing improved functional outcomes with endovascular therapy (ET) performed up to 6 hours post stroke
+Four additional recent trials (EXTEND1A, ESCAPE, SWIFT-PRIME and REVASCAT) showed similar efficacy when ET was used between 4.5 and 12 hours • All of these trials enrolled only large proximal vessel occlusions and only one trial (EXTEND1A) used CT perfusion imaging
+The current DEFUSE 3 trial examines the window between 6 and 16 hours using CT perfusion to select candidates which may select the sub population likely to gain the most
+Design
+Randomized, open-label multi-centre trial
+1:1 randomisation
+Web based randomisation software, that maintained allocation concealment
+Stratified by age, infarct size, time from onset, NIHSS and trial site
+Un-blinded due to invasive nature of experimental group
+Blinded outcome assessment
+Outcomes assessed in person, or by telephone if in-person visit was not feasible
+Intention to treat analysis
+Study included a pre-determined analysis of those eligible for the DAWN trial
+All patients received CT perfusion or MRI with diffusion imaging
+Perfusion/diffusion imaging measuring infarct and ischemic size were calculated using RAPID software
+Utilised an adaptive enrichment design
+Allows modification of the protocol as it progresses. This particular design is based on prior observations that endovascular therapy is modified by both infarct size and time-to-treatment
+If an effect is seen at a pre-specified interim analysis, then future patients may be selected from that subgroup without succumbing to bias
+Power:
+To achieve a 90% power at an alpha of 5% a total of 476 patients were to be enrolled to detect a standardised effect of 0.36 for the reduction in modified Rankin scale
+Terminated early due to efficacy following an unplanned interim analysis following publication of the DAWN study
+Setting
+38 hospitals in the US
+Data collected: May 2016-May2017
+Population
+Inclusion criteria:
+Age 18-90 years
+NIHSS >=6
+Likely salvageable ischaemic brain tissue
+Occlusion of proximal MCA-M1 or ICA on CT/MR angiography
+Infarct volume < 70 ml on imaging
+Ischaemic tissue:Infarct volume ratio >= 1.8
+Absolute volume of potentially reversible ischaemia (penumbra) >=15 ml
+Able to initiate endovascular therapy between 6-16 hours after time that last known to be well
+Minimal pre-existing disability (Modified Rankin Scale, mRS, 0-2)
+Exclusion criteria:
+Pregnancy
+Pre-existing terminal or debilitating illness
+tPA given >4.5 hrs after onset
+Seizure preventing NIHSS determination
+Blood glucose < 50mg/dl (<2.78mmol) or > 400mg/dl (>22.2mmol)
+Platelets <50,000, INR >3
+Sustained hypertension (systolic BP >185mmHg or diastolic BP >110mmHg) not treatable with medications
+Neuroimaging: ASPECTS scrore <6 on non-contrast CT, intracranial tumour, acute intracranial haemorrhage, occlusions in multiple vascular territories
+182 patients randomised, 3 patients lost to follow up
+Groups were comparable at baseline (endovascular vs medical)
+Age: 70 vs 71
+Sex (F): 50% vs 51%
+Median NIHSS: 16 vs 16
+Witnessed stroke: 34% vs 39%
+Wake-up stroke: 53% vs 47%
+Pre-treated with tPA: 11% vs 9%
+Ischaemic volume (ml): 9.4 vs 10.1
+Volume of perfusion lesion (ml): 114.7 vs 116.1
+Occlusion sites
+ICA: 35% vs 40%
+MCA: 65% vs 60%
+Median time from stroke onset to qualifying imaging: 10:29hrs vs. 9:55hrs
+Intervention
+Thrombectomy plus medical therapy
+Three devices approved for intervention: Trevo, Solitaire, and Penumbra devices
+Angioplasty +/- stenting allowed as required
+Femoral puncture to occur within 90 minutes of qualifying imaging (median time 59 min)
+Intra-arterial tPA not allowed
+Medical therapy as per control group
+Control
+Medical therapy:
+Aspirin 325 mg on day 1, then 81-325mg mg on days 2-5
+If tPA given prior to enrolement as per AHA guidelines (up to 4.5 hours post stroke onset) then sites post tPA pathway followed for medical treatment
+Management common to both groups
+Standard DVT prophylaxis
+May not use dual anti-platelet therapy unless stented or clear indication
+May not use IV anticoagulants unless otherwise indicated
+At day 5 or discharge subsequent anticoagulation therapy determined by attending physician
+Outcome
+Primary outcome: modified Rankin scale – significantly reduced in endovascular group
+Median mRs at 90 days: 3 (IQR 1-4) vs. 4 (IQR 3-6)
+Unadjusted OR 2.77 (95% C.I.1.63-4.7), p<0.001
+Adjusted OR 3.36 (95% C.I. 1.96-5.77), p<0.001
+Secondary outcomes
+Functional independence (Modified Rankin 0-2) at 90 days – significantly increased with endovascular therapy
+45% vs 17%, OR 2.67 (95% C.I. 1.6-4.48), p<0.001
+Number needed to treat (NNT) 4
+Fragility index 13
+Death at 90 days – no significant difference
+14% vs. 26%, OR 0.55 (95% C.I. 0.3-1.02), p=0.05
+Symptomatic intracranial haemorrhage – no significant difference
+7% vs. 4%, p=0.75
+Imaging outcomes, comparing endovascular vs. control group
+No significant difference in:
+Infarct volume at 24 hrs
+35ml vs. 41ml, p=0.19
+Infarct growth at 24 hours
+23ml vs. 33ml, p=0.08
+Significant increase in:
+Re-perfusion >90% at 24 hrs in endovascular group
+79% vs. 18%, p<0.001, NNT 2
+Complete recanulasiation at 24 hrs in endovascular group
+78% vs. 18%, p<0.001, NNT 2
+Adverse events
+Serious adverse events – no significant difference
+43% vs. 53%, p=0.18
+Thrombectomy related complications occurred in 2 patients
+Vessel perforation leading to haemorrhage and 3 point increase in NIHSS score
+Device related vasospasm that did not lead to neurologic worsening
+Subgroups
+No differences in any of the pre-specified 13 subgroups
+Authors’ Conclusions
+Endovascular therapy plus medical therapy results in lower rates of disability and improved 90 day functional outcomes on the mRS in comparison to medical therapy alone in patients who have large vessel occlusion and favourable prognostic perfusion imaging
+Strengths
+Effective randomisation and allocation concealment
+Well designed allocation and inclusion/exclusion criteria
+Similar to other trials (SWIFT-PRIME and EXTEND-IA) a set ratio of infarct to penumbra seems to be a reasonable surrogate for salvageable strokes and it bears out in this literature
+Allowed several different endovascular devices/interventions
+Adaptive enrichment design allows for trial modification to target those who would benefit most
+This design is specifically aimed at pre-targeting sub-population differences rather than applying a treatment to a group as a whole and then analysing the sub-population
+Although similar to the recently published DAWN trial it differs in that it had broader inclusion criteria and was not industry sponsored
+Blinded outcome assessment
+Weaknesses
+This study selected a small sub-group of patients with large vessel strokes and favourable ischaemic core to penumbra ratios. It is unclear what fraction of the stroke population this represents
+Unclear what proportion of patients arriving at the stroke centres were actually eligible for enrollment or screened to enter the trial
+The adaptive design assumptions were based on preliminary observation and may not adequately reflect real world patients. However, it should be noted that the study never crossed the interim analysis threshold and adaptive design was never employed in reference to the trial as a whole
+Non-blinded
+Trial terminated early prior to primary interim analysis point
+Subgroup analysis was underpowered
+Conducted at major StrokeNet centres with copious experience, specific imaging and software and the results may not be generalisable to community centres
+The modified Rankin scale is an ordinal scale and the differences between single point groups correlates to vastly different clinical outcomes as the scale increases
+The Bottom Line
+In patients with large vessel strokes with favourable ischaemic core to penumbra ratios, endovascular therapy at 6-16 hours post stroke onset in addition to medical therapy, improved functional neurological outcome at 90 days, compared with medical therapy alone
+These are promising results but given the specific selection criteria, and the need for advanced imaging and intervention it is unclear how broad the actual benefit in clinical practice will extend.
+External Links
+[article]
+Thrombectomy for Stroke at 6 to 16 Hours with Selection by Perfusion Imaging
+[further reading]
+NEJM: Adaptive Designs for Clinical Trials
+[further reading]
+EMLitOfNote: DEFUSE-3 is DAWN All Over Again
+[further reading]
+Blogging stroke: Author Interview: Dr. Greg Albers, on DEFUSE 3 and its Implications for Systems of Stroke Care in the U.S.
+[further reading]
+REBELEM: Endovascular Therapy for Acute Ischemic Stroke
+Metadata
+Summary author:
+Anthony Hackett @EM_Ahackett
+Summary date: 21th March 2018
+Peer-review editor:
+@davidslessor

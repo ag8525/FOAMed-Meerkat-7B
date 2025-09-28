@@ -1,0 +1,72 @@
+# Metadata
+- Source: The Bottom Line
+- Title: HACA
+- Original URL: https://www.thebottomline.org.uk/summaries/icm/haca/
+- Scrape Date: 2025-07-17
+- Summary Date: AUTO_FILL_IF_AVAILABLE
+
+HACA: Mild Therapeutic Hypothermia to Improve the Neurologic Outcome after Cardiac Arrest
+The HACA Study Group. N Engl J Med 2000; 346:549-556
+Clinical Question
+In adults who suffer cardiac arrest due to ventricular fibrillation, does mild hypothermia compared with standard normothermia improve neurological outcome at 6 months?
+Design
+Randomised, controlled trial
+Blinded assessment of the outcome
+Computer generated ‘sealed envelope’ randomisation in blocks of 10, stratified by medical centre
+Setting
+Nine centres in five European countries
+March 1996 to January 2001
+Stopped before full recruitment due to lower than expected enrollment rate and funding shortage
+Population
+Inclusion: 18 – 75 year olds; witnessed cardiac arrest; pulseless VT or VF as initial rhythm.
+Exclusion: longer than 15 minutes before advanced life support; longer than 60 minutes before ROSC; responsive after ROSC; prolonged hypotension after ROSC (30 minutes at MAP < 60 mmHg); hypoxaemia for more than 15 minutes after ROSC; cardiac arrest after medical support already present
+3551 assessed of which 275 randomised
+Intervention
+137 patients
+Induced hypothermia targeting 32–34°C using surface cooling (cold air blanket or ice packs) for 24 hours, followed by passive re-warming
+Sedation and shiver-management was protocolised: midazolam, fentanyl and pancuronium
+Median time from ROSC to initiation of cooling was 105 minutes [IQR 61–192]
+Median time from ROSC to target temperature was 8 hours [IQR 4–16]
+12% failed to reach target temperature
+Control
+128 patients
+Standard hospital bed with no temperature management
+Sedation protocol as per intervention arm
+Diagrammatic data suggests median temperature was 37.5°C or higher from ~12 hours onward
+Outcome
+Primary outcome: more patients in the hypothermia group were left with good neurological outcomes at six months
+Good neurological outcome assessed as Pittsburgh Cerebral Performance Categories 1 [no disability] or 2 [mild disability]
+Bad neurological outcome assessed as P-CPC 3 [severe disability], 4 [persistent vegetative state] or 5 [death]
+75 (55%) versus 54 (39%) had favourable neurological outcomes, favouring hypothermia
+Risk ratio for death in normothermia group was 1.40 (95% CI 1.08–1.81).
+Number-needed-to-treat was 6 (95% CI 4–25)
+Secondary outcome: a difference in mortality favoured the hypothermia group
+Authors’ Conclusions
+Among patients in whom spontaneous circulation has been restored after cardiac arrest due to ventricular fibrillation, systemic cooling to a bladder temperature of 32–34°C for 24 hours increases the chance of a favourable neurological outcome, as compared to standard normothermic life support
+Strengths
+Randomised trial with blinded assessment.
+First clinical trial testing theory drawn from cohort and animal studies.
+Weaknesses
+Narrow inclusion criteria limit generalisability
+Minor baseline differences between groups, but no change in risk ratio after statistical correction
+Attending physician not blinded, which may bias toward a positive outcome
+Blinding of assessing physician not verified, but relatively objective outcome assessment should limit impact of any accidental un-blinding
+Only 8% of screened patients were included; selection bias cannot be excluded
+Control group became hyperthermic, which may be harmful. Difference observed could be due to harm of conventional therapy rather than benefit of hypothermic therapy
+The Bottom Line
+In patients who suffer out-of-hospital cardiac arrest due to VT or VF, and where resuscitation efforts are quickly commenced, and when ROSC has been achieved within 1 hour, therapeutic hypothermia targeting 32–34°C will improve the chance of a favourable outcome and should be implemented. The results of this trial now need to be reviewed in light of TTM.
+Links
+Full text pdf
+/
+abstract
+/ doi: 10.1056/NEJMoa012689
+Editorial, Commentaries or Blogs
+Safar:
+Therapeutic hypothermia after cardiac arrest.
+NEJM 2002;346:612-3.
+Metadata
+Summary author:
+@DuncanChambler
+Summary date: May 2014
+Peer-review editor:
+@stevemathieu75

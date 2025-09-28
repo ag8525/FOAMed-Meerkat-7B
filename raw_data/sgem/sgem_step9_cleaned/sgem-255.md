@@ -1,0 +1,56 @@
+---
+url: https://thesgem.com/2019/05/sgem255-it-dont-matter-now-fluid-type-and-infusion-rate-in-paediatric-dka/
+title: "SGEM#255: It Don’t Matter Now – Fluid Type and Infusion Rate in Paediatric DKA"
+date: 2019-05-04
+audio_url: https://media.blubrry.com/thesgem/content.blubrry.com/thesgem/SGEM_255.mp3
+download_date: 2025-08-11
+summary: |
+  The document discusses the management of diabetic ketoacidosis (DKA) in children, focusing on the impact of intravenous fluid administration rates and sodium chloride content on neurologic outcomes. A study by Kuppermann et al. in the NEJM evaluated whether fast or slow rehydration with either 0.45% or 0.9% NaCl affects the risk of brain injuries in pediatric DKA patients. The study concluded that neither the rate of fluid administration nor the sodium chloride concentration significantly influenced neurologic outcomes, challenging the traditional concern that rapid rehydration could cause cerebral edema. The study involved 1,389 DKA episodes and found no significant difference in primary or secondary outcomes, including neurologic status decline and brain injury. The findings suggest that current protocols may need revision, as rapid fluid administration does not appear to increase the risk of cerebral edema, and clinicians should feel less concerned about fluid bolus administration in DKA management.
+---
+
+**Case:** 6-year-old Caroline is brought to the emergency department by her parents. She is known to have diabetes and has had diarrhea and vomiting for the last 24 hours. In spite of using her sick day regime of insulin, she still has “high” blood glucose readings and cannot tolerate oral fluids. On her blood gas, her pH is 7.1 and her glucose is 35 mmol/l (630mg/dl). You confirm her bedside ketones to be 6 and have secured a cannula (intravenous) ready to reverse her dehydration – but what fluids should you use and at what rate?
+
+**Background:** The study we are going to talk about today comes from PECARN (Pediatric Emergency Care Applied Research Network). They are a fantastic group that conducts high-quality, clinically relevant research in the management and prevention of acute injuries and illnesses in children. There is a similar group in the UK and Ireland called PERUKI (Paediatric Emergency Research in UK and Ireland). Canada has something similar to PECARN called Pediatric Emergency Research Canada (PERC). They are “dedicated to improving care in pediatric emergency medicine through multi-centre research.” Each country has their own pediatric research groups. These different groups often come up with different clinical decision instruments, for example, to decide when to get neuroimaging in pediatric head trauma. There is the PECARN from the USA, CATCH Tool from Canada, and the CHALLICE Tool from the UK. A study by Easter et al (Ann Emerg Med 2014) concluded that PECARN seemed to be the best of the three tools. But we are not talking about TBIs today; we are talking about diabetic ketoacidosis (DKA). Almost 1% of children presenting with an episode of DKA exhibit clinically apparent brain injuries. These injuries are associated with morbidity and mortality. It has been historically thought that the cerebral edema from rapid rehydration with IV fluids could be causing these injuries. As such, protocols recommend slow administration of IV fluids in children with DKA.
+
+**Clinical Question:** Does rate or sodium chloride content of intravenous fluids contribute to brain injuries in children with DKA?
+
+**Reference:** Kuppermann et al. Clinical Trial of Fluid Infusion Rates for Pediatric Diabetic Ketoacidosis. NEJM June 2018
+
+- **Population**: Children 0-18 years of age with a diagnosis of DKA (blood glucose > 16.7 mmol/l or > 300 mg/dl, and either pH < 7.25 or a serum bicarbonate level of < 15 mmol/l)
+  - **Key Exclusions**: “Underlying disorders that could affect mental status testing or neurocognitive evaluation; concurrent alcohol or narcotics use, head trauma or other conditions that could affect neurologic function; diabetic ketoacidosis for which the patient had already received substantial treatment; known pregnancy; or factors for which treating physicians determined that a specific fluid and electrolyte therapy was necessary. Children who presented with a Glasgow Coma Scale score of 11 or lower (on a scale ranging from 3 to 15, with lower scores indicating worse mental status) were excluded after year 2 because many participating clinicians believed that fluid regimens for such children should not be determined on the basis of randomization.”
+- **Intervention**: Fast rehydration (20ml/kg bolus) with either 0.45% or 0.9% NaCl (assumed 10% deficit with half being replaced in first 12 hours with the rest in the next 24hrs plus maintenance fluid). Insulin 0.1u/kg/hr IV
+- **Comparison**: Slow rehydration (10ml/kg bolus) with 0.45% or 0.9% NaCl (assumed 5% deficit replaced evenly over 48hrs plus maintenance fluid). Insulin 0.1u/kg/hr IV
+- **Outcome**: 
+  - **Primary Outcome**: Decline in neurologic status. This was defined by two consecutive Glasgow Coma Scale (GCS) of < 14 during an hour within the first 24hrs of treatment.
+  - **Secondary Outcome**: Clinically apparent brain injury (defined as a deterioration in neurologic status leading to initiation of hyperosmolar therapy or endotracheal intubation or death), short-term memory during treatment (measure by forward and backward digit-span recall); and short-term memory, contextual memory and IQ test two to six months after their treatment for DKA.
+
+**Authors’ Conclusions:** “Neither the rate of administration nor the sodium chloride content of the intravenous fluids significantly influenced neurologic outcomes in children with DKA.”
+
+**Key Results:** They recruited a total of 1,389 DKA episodes in 1,255 patients. The mean age was about 12 years old with slightly less males than females in the study. Just over half of the patients presenting with DKA had a previous diagnosis of diabetes. More than 90% had a GSC score of 15 at randomization. There was no difference demonstrated in the primary outcome based on how fast or what type of intravenous solution was used.
+- **Primary Outcome**: Decline in neurologic status
+  - 98% of children had a GCS 14-15 and were included in their analyses
+  - Only 3.5% had a decline to a GCS of less than 14
+  - **Fast vs. Slow**: Relative risk reduction of decline in GCS of 0.76 (95% CI 0.44-1.33) p=0.34
+  - **45% NaCl vs. 0.9% NaCl**: Relative risk reduction of decline in GCS of 0.8 (95% CI 0.46-1.40) p= 0.43
+- **Secondary Outcomes**:
+  - No difference in any of the secondary outcomes
+  - **Brain Injury (fast vs. slow)**: Relative risk reduction of 0.49 (95% CI 0.15-1.64) p=0.24
+  - **Brain Injury (0.45% vs 0.9%)**: Relative risk reduction of 1.43 (95% CI 0.46-4.40) p=0.53
+  - Most interestingly, the closest p value to significance was in favor of fast administration for the digit span recall test with p=0.06
+
+**Commentary:**
+1. **Hats Off:** This is such a massive study, over approximately five years in 13 hospitals. It represents a huge feat and must have come across many challenges especially because it went against dogma. Hats off to the authors and PECARN.
+2. **External Validity:** The population included in this study is somewhat different from those in the UK (and fluid management ideas cannot be translated across populations – if there was something we learned from the FEAST trial – this was it). In the UK we use BSPED guidance which uses different criteria to define DKA – our cut off pH is 7.3 and bicarb 18 (higher than those used in the study) – so the trial patients were potentially sicker.
+3. **Exclusion Criteria:** We just listed the key exclusions but there were many in total. Most of them seemed reasonable except for one that said: “factors for which treating physicians determined that a specific electrolyte or fluid therapy was necessary.” This means subjectively anyone could be excluded and that has the potential to introduce selection bias.
+4. **Excluding GCS less than 12:** They decided to exclude the sickest children with a GCS <12 starting in year two because clinicians didn’t want them randomized. This is disappointing, not only because it will skew the data, but this is the patient cohort you worry the most about cerebral edema with.
+5. **Patient Oriented Outcome:** Clinicians and patients might be more interested in the secondary outcomes of brain injury, IQ, and death rather than a decline in neurologic status during the first 24hrs of the trial. However, it would have needed to be a much bigger trial to look at some of these outcomes because of the rare events. There was one death and twelve clinically apparent brain injuries.
+
+**Comment on Authors’ Conclusion Compared to SGEM Conclusion:** We generally agree with the authors’ conclusions.
+
+SGEM Bottom Line: Don’t worry about causing cerebral edema by giving a child with DKA intravenous fluids (0.45% NaCl or 0.9% NaCl) too fast or too slow as it does not appear to make a clinically important difference.
+
+**Case Resolution:** In this case, I would probably still use my local protocol, as the rate of administration has not been proven to be better for patient outcomes. However, if the patient needs a fluid bolus for rehydration, I would feel less paranoid about giving it.
+
+**Clinical Application:** This paper fails to support the previously held notion that rapid fluid administration caused brain edema in children with DKA. We should review our own hospital DKA protocols and update them based on this new high-quality trial. Researchers should also be looking for the true cause of this serious complication.
+
+**What Do I Tell My Patient?** “We will start to make you better by placing a magic straw in your arm that gives you superpowers by letting your body drink through there too. We used to think that this would also make your brain big and puffy, but we were wrong.”

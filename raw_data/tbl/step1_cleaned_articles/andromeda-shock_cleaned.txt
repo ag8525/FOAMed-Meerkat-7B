@@ -1,0 +1,107 @@
+# Metadata
+- Source: The Bottom Line
+- Title: ANDROMEDA-SHOCK
+- Original URL: https://www.thebottomline.org.uk/summaries/icm/andromeda-shock/
+- Scrape Date: 2025-07-17
+- Summary author: Aidan Burrell
+- Summary Date: 13 March 2019
+- Peer-review Editor: Steve Mathieu
+
+# Title
+Effect of a Resuscitation Strategy Targeting Peripheral Perfusion Status vs Serum Lactate Levels on 28-Day Mortality Among Patients With Septic Shock (ANDROMEDA-SHOCK)  
+**Hernandez et al.**  
+JAMA 2019; 321(7):654-664. doi:10.1001/jama.2019.0071
+
+# Clinical Question
+In adult patients with early septic shock, does peripheral perfusion-targeted resuscitation, compared to lactate level-targeted resuscitation, improve all-cause mortality at 28 days?
+
+# Background
+- The Surviving Sepsis Campaign recommends lactate normalization during resuscitation.
+- Issues with lactate as a target include non-hypoperfusion causes, delayed normalization, and limited availability.
+- Capillary refill time (CRT) is a potential alternative, offering rapid response, ease of use, and independence from resources.
+
+# Design
+- Multicenter, randomized controlled, superiority trial
+- Random allocation with central concealment
+- Randomization by permutated blocks of 8 (1:1 allocation)
+- Clinicians non-blinded
+- Power calculation: 420 patients for 90% power to detect a 15% absolute risk reduction (alpha 0.05)
+- Intention-to-treat analysis
+
+# Setting
+- 28 hospitals in 5 South and Central American countries (Argentina, Chile, Colombia, Ecuador, Uruguay)
+
+# Population
+
+**Inclusion Criteria:**
+- ≥18 years old with early (<4 hours) septic shock
+- Septic shock defined by Sepsis-3: suspected/confirmed infection, lactate ≥2 mmol/L, vasopressors to maintain MAP ≥65 mmHg after 20 ml/kg fluid over 60 minutes
+
+**Exclusion Criteria:**
+- Bleeding, severe ARDS, dialysis, do-not-resuscitate status
+
+**Enrollment:**
+- 1,327 assessed, 424 randomized (212 CRT target, 212 lactate target)
+- Baseline characteristics similar between groups (mean age 63 years, APACHE score 22, SOFA score 9.65)
+
+# Intervention
+
+**CRT Group:**
+- CRT measured every 30 mins, then hourly after normalization for 8 hours
+- CRT measured by applying a glass slide to the right index finger until blanching, maintained for 10 seconds
+- Abnormal CRT defined as >3 seconds; goal to normalize CRT <3 seconds
+
+# Control
+
+**Lactate Group:**
+- Lactate measured every 2 hours for 8 hours
+- Goal to normalize or decrease lactate by 20% every 2 hours
+
+# Management Common to Both Groups
+- Protocol for unmet goals (CRT <3 seconds or lactate fall <20% every 2 hours):
+  - Step 1: Fluid responsiveness assessment (e.g., pulse pressure variation)
+  - Step 2: Vasopressor test for chronic hypertensive patients
+  - Step 3: Inodilator test (dobutamine or milrinone)
+- Adherence to Surviving Sepsis Guidelines
+
+# Outcomes
+
+## Primary Outcome
+- 28-day mortality: 92 (43.4%) in lactate group vs. 74 (34.9%) in CRT group
+  - Hazard ratio: 0.75 (95% CI: 0.55–1.02); p = 0.06
+  - Risk difference: −8.5% (95% CI: −18.2% to 1.2%)
+
+## Secondary Outcomes
+- CRT group received 408 ml less fluid in first 8 hours
+- Less adrenaline use (9.9% vs. 16.5%, p=0.01)
+- Lower lactate at 48 and 72 hours
+- Lower SOFA score at 72 hours in CRT group: −1.00 (95% CI: −1.97 to −0.02); p = 0.045
+- No significant differences in mechanical ventilation, RRT, vasopressor-free days, ICU/hospital length of stay
+
+# Authors’ Conclusions
+Among patients with septic shock, a resuscitation strategy targeting CRT normalization did not significantly reduce 28-day mortality compared to lactate-targeted resuscitation.
+
+# Strengths
+- Multinational RCT with allocation concealment
+- Early intervention (1.4 hours from eligibility to randomization)
+- Standardized CRT assessment
+- Reflects contemporary practices
+
+# Weaknesses
+- Underpowered to detect the pre-specified mortality difference
+- Non-blinding of clinicians may introduce bias
+- CRT group required additional staff education
+- Complex intervention with parts lacking strong evidence base
+- Day 28 mortality as a primary outcome is unstable
+
+# Bottom Line
+CRT is a potential alternative to lactate as a resuscitation target in sepsis, especially in resource-limited settings. Further studies are needed to validate CRT as an exclusive target.
+
+# External Links
+- **Original article:** [Effect of a Resuscitation Strategy Targeting Peripheral Perfusion Status vs Serum Lactate Levels on 28-Day Mortality Among Patients With Septic Shock](https://www.thebottomline.org.uk/summaries/icm/andromeda-shock/)
+- **Further reading:**
+  - How Best to Resuscitate Patients With Septic Shock? Editorial. Derek Angus
+  - ANDROMEDA-SHOCK: Peripheral Perfusion vs Serum Lactate in Septic Shock. REBEL-EM
+  - Lactate is Dead! Long Live Lactate?
+  - EM Nerd-The Case of the Deceitful Lantern
+- **Podcast:** EMCrit Podcast 241 – Sepsis Update 2019

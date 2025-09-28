@@ -1,0 +1,59 @@
+---
+url: https://thesgem.com/2020/10/sgem306-fire-brigade-and-the-staying-alive-app-for-ohcas-in-paris/
+title: "SGEM#306: Fire Brigade and the Staying Alive App for OHCAs in Paris"
+date: 2020-10-24
+audio_url: https://media.blubrry.com/thesgem/content.blubrry.com/thesgem/SGEM_306.mp3
+download_date: 2025-08-11
+---
+**Case:** You are waiting in line for coffee, discussing the latest SGEM Hot Off the Press episode on Twitter, when an alert pops up on your phone. It says that someone in the grocery store next door has suffered a cardiac arrest and needs your help. You remember installing this app at a conference last year, but this is the first time you have seen an alert. You abandon your coffee order and quickly head next-door, where you are able to start cardiopulmonary resuscitation (CPR) and direct a bystander to find the store’s automated external defibrillator (AED) while waiting for emergency medical services (EMS) to arrive. After the paramedics take over, you wonder about the evidence for this seemingly miraculous intervention.
+
+**Background:** Out of hospital cardiac arrest (OHCA) is something that we have covered many times on the SGEM. The American Heart Association promotes the "Chain-of-Survival". There are five steps in the Chain-of-Survival for OHCA:
+- Step One – Recognition and activation of the emergency response system
+- Step Two – Immediate high-quality cardiopulmonary resuscitation
+- Step Three – Rapid defibrillation
+- Step Four – Basic and advanced emergency medical services
+- Step Five – Advanced life support and post arrest care
+Bystander CPR and early defibrillation are key components of the out of hospital cardiac arrest chain of survival. Unfortunately, most patients don’t receive these crucial interventions.
+Many people are trained in CPR but never use their skills, because it is unlikely that they will happen to be in exactly the right place at the right time. They may be willing and able to help, but if the patient in need is one block over, they may never know about it.
+The advent of the smartphone with GPS capability means that we should be better able to direct individuals trained in basic life support (BLS) to those in need around them. We should also be able to use smartphones to more easily identify the closest AEDs. Over the last decade, numerous apps have been developed to do exactly that, but the impact of those apps on clinical outcomes is still unclear.
+
+**Clinical Question:** Is the use of a smartphone app that can match trained responders to cardiac arrest victims and indicate the closest available AEDs associated with better clinical outcomes?
+
+**Reference:** Derkenne et al. Mobile Smartphone Technology Is Associated With Out-of-hospital Cardiac Arrest Survival Improvement: The First Year “Greater Paris Fire Brigade” Experience. AEM Oct 2020.
+
+- **Population:** Cardiac arrests from a single emergency medical service (EMS) agency in Paris, France that were called through the central dispatch center and occurred while the chief dispatcher was available to participate, occurred in a public area, and in which there was not obvious environmental danger.
+- **Intervention:** Alerts were sent through the Staying Alive app to volunteers trained in BLS who were within 500 meters of the reported cardiac arrest. The intervention group is the group of patients for whom someone responded to the alert and provided BLS treatment.
+- **Comparison:** The control group consisted of patients in whom no volunteer was within 500 meters at the time of the arrest, for whom no volunteer responded to the alert, or for whom the volunteer responded to the alert but did not perform BLS.
+- **Outcomes:** Return of spontaneous circulation (ROSC) upon hospital admission, survival outcomes upon hospital discharge and impact of first responders (commonly referred to as "Bons Samaritains" [BS]) on survival outcomes.
+
+**Authors’ Conclusions:** "We report for the that mobile smartphone technology was associated with OHCA survival through accelerated initiation of efficient cardiopulmonary resuscitation by first responders in a large urban area."
+
+**Key Results:** They recorded 4,107 OHCA in 2018. The mean age was in the mid 50’s, ~75% were male, 91% were medical cardiac arrests and most arrests took place outside the home. The Staying Alive app was activated 366 times (9.8% of the total arrests).
+There were 46 patents in the intervention group (24 received CPR only, 18 AED only and 4 both) and 320 in the control group (97 cases where no volunteer responded to the notification, and 226 who responded to the notification but either couldn’t locate the patient or failed to start BLS).
+Getting treatment as a result of the Staying Alive App was associated with more ROSC and more survival to hospital discharge.
+- **ROSC:** 48% SA vs. 23% control, p<0.001
+- **Survival to Hospital Discharge:** 35% SA vs 16% control, p=0.004
+  + Adjusted Odds Ratio = 5.9 (95% CI; 2.1 to 16.5), p < 0.001
+
+**Commentary:** 
+- **External Validity:** This study looked at the large urban area of Paris, France. It is unclear if this would translate to smaller urban centres or rural communities.
+- **Control Group:** In the conclusion for this paper, the authors say that smartphone technology is associated with out of hospital cardiac arrest survival. However, they didn’t compare a group of patients who had smartphone technology available to a group of patients who didn’t have such technology. What they actually compared is a group of patients who got treatment – CPR or and AEDs – to a group of patients who didn’t get treatment, even though the app was activated. I think this data only shows us that there is an association between CPR and AED use and survival – but we already knew that. In order to see an association with the app, we need a control group who didn’t have the app available – maybe a different city that isn’t using an app, or maybe a different time period, like historical controls in a before and after study. But as it stands, I don’t think control group tells us anything about the app itself.
+- **Excluded Patients**: More than 90% (3,737/4,107) of the OHCA patients were not included in this study. There were many differences between those included and those not included. It would be interesting to know what the outcomes were for this group and compare them to the intervention and control groups.
+- **Primary Outcome:** When critically appraising studies, it is very important to know the primary outcome in order to interpret the reported statistics. The authors’ looked at a number of very important outcomes, but we didn’t see a primary outcome explicitly reported in the manuscript.
+- **All-Patient Oriented Outcomes:** We have seen many studies that have a primary outcome of ROSC, admission to hospital, or survival to hospital discharge. A better patient-oriented outcome (POO) is survival to hospital discharge with good neurologic function.
+- **Generalizability and Cost Effectiveness:** Out of 4,107 arrests, only 46 patients received treatment through the app. This very small number could result in selection bias that would affect the generalizability of these results. Further, the fact that the app only resulted in treatment for a small number of cases may indicate that the costs of the app and training might overshadow its benefits.
+- **Confounders:** This is observational data, so we are limited to finding associations. There were many differences between patients with OHCA where the app was activated and the patients with OHCA while the app was not activated. There was another dichotomy between when a volunteer responded and when they did not respond. We wonder what various factors might have influenced whether a patient ended up in the control or intervention group? For example, people might be less likely to respond to an arrest in a poorer area of town, but patients in a poorer area might have worse outcomes, confounding these results.
+- **Harms and Unintended Consequences:** These apps make a lot of intrinsic sense. However, nothing in life is free. If the app is going to be used at scale, there will be some cost in development, advertising, and training. The use of an app could also take attention away from other important interventions, such as the dispatcher instructing the caller in performing high quality CPR. While there is potential benefit to these apps there could also be potential harms.
+- **Differences in Care:** Of the 44 volunteer responders who provided CPR, 41 took over CPR from a bystander who was already providing CPR. In other words, the vast majority of patients were already receiving CPR when the Staying Alive responders arrived. However, a large difference in survival is reported. This huge change in survival seems too good to true, considering what seems like a relatively small change in care, if the patients were already getting bystander CPR.
+They are reporting a 20% absolute increase in survival here. We don’t have anything that increases survival from cardiac arrest that much. Do we really think an app that only led to minimal changes in care can possibly make that big a difference?
+- **Machine Learning and Propensity Matching**: We don’t think we have ever seen a study that used machine learning as part of the propensity matching. It would have been awesome to have the author available to run us through the nerdy reasons to use such an analysis. I will raise one concern that always comes up with AI though – these systems are generally black boxes. We can’t tell why they make the choices they do, and black boxes are a little concerning from a science standpoint, as they can’t be easily replicated.
+
+**Comment on Authors’ Conclusion Compared to SGEM Conclusion:** We agree that there was an association between patients receiving BLS care through the Staying Alive app and ROSC and survival to hospital discharge, but caution that the results might be because of unseen confounders. More importantly, these results really don’t tell us if the app helped – they just reinforce that bystander CPR and access to AEDs is essential for out of hospital cardiac arrest survival.
+
+**SGEM Bottom Line:** Smartphone apps that match trained responders to nearby cardiac arrest victims are an intuitive and creative intervention. However, their impact on clinical outcomes and overall cost effectiveness remain unproven.
+
+**Case Resolution:** You return to Twitter to discuss your experience with this app. You are excited about its potential, and post a number of optimistic tweets, but your inner skeptic is very glad to see that there is an ongoing randomized control trial, and you decide to withhold your final judgement until you see stronger data.
+
+**Clinical Application:** Smartphone apps may be a valuable way to improve response times in out of hospital cardiac arrest, but their exact role remains unclear.
+
+**What Do I Tell My Patient?** Thankfully, your patient had return of spontaneous circulation as care was being taken over by EMS, but you won’t be able to see them again for a discussion. Although you remain skeptical, you decide to tell some of your friends about your experience with the app and encourage them to try it for themselves.

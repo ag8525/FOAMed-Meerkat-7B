@@ -1,0 +1,928 @@
+# Metadata
+- topic: 3.7 - Neurology - CC.-Ep107-Peripheral-Nerve-Disorders-1
+- source_folder: 3.7 - Neurology
+- original_file: CC.-Ep107-Peripheral-Nerve-Disorders-1.pdf
+
+CrackCast Show Notes – Foreign Bodies – January 2017 
+www.canadiem.org/crackcast 
+ 
+ 
+ 
+ 
+Chapter 107 – Peripheral Nerve Disorders 
+ 
+Episode overview 
+ 
+THIS IS GOING TO BE A BEAST!!!! 
+1. Describe a neuropathy classification system (7 total) and list the prototypical condition 
+for each 
+2. List 8 causes of acute emergent weakness and possible respiratory compromise 
+3. List 4 demyelinating polyneuropathies 
+4. Describe the pathophysiology of GBS, and list common precipitating organisms 
+5. What is Miller-Fisher Syndrome? 
+6. Describe the clinical presentation of GBS, diagnostic tests, and management 
+7. List 6 distal symmetric polyneuropathies 
+8. Describe the clinical progression of Diabetic polyneuropathy 
+9. List 5 causes of an isolated mono neuropathy and 5 causes of a plexopathy  
+10. What are two other names of a radial mononeuropathy? How does it present? 
+11. Describe the motor and sensory innervation of the ulnar nerve. How can you discern 
+between a ulnar nerve lesion at the elbow or at the wrist? 
+12. Describe the motor and sensory innervation of the medial nerve. 
+13. List 3 physical findings of carpal tunnel syndrome. What are 6 RFs? 
+14. What are the findings in a lateral femoral cutaneous mononeuropathy? 
+15. What are the findings of a common peroneal mononeuropathy? 
+16. List 3 causes of a mononeuropathy multiplex 
+17. What are the characteristics of Amyotrophic Lateral Sclerosis 
+18. What is a Ganglionopathy? 
+ 
+No wisecracks: just way too much in this chapter already!!! 
+ 
+ 
+Rosen’s In Perspective 
+ 
+Nervous System = Central Nervous System + Peripheral Nervous System 
+PNS divided into  
+❏ 12 cranial nerves  
+❏ (Remember episode 105?) 
+❏ 31 spinal nerves   
+❏ (8 cervical, 12 thoracic, 5 lumbar, 5 sacral, and 1 coccygeal).  
+❏ Almost all of these nerves have Sensory, Motor and autonomic function 
+ 
+Anatomically / functionally speaking the autonomic nervous system is divided into: 
+1. Sympathetic (thoracolumbar) component 
+2. Parasympathetic (craniosacral) component.  
+CrackCast Show Notes – Foreign Bodies – January 2017 
+www.canadiem.org/crackcast 
+ 
+ 
+ 
+ 
+Note: Autonomic dysfunction may cause systemic abnormalities (e.g., Orthostasis), or a local 
+issue, e.g., atrophic, dry skin. 
+ 
+Refer to figure 97.2 in Rosen’s 9th Edition for schematic representation of the anatomy of 
+the peripheral nervous system and its interface with the central nervous system 
+ 
+When something goes wrong with the PNS, 1 of 3 issues may develop:  
+1. Myelinopathies, in which the primary site of involvement is limited to the myelin sheath 
+surrounding the axon; 
+2. Axonopathies, in which the primary site of involvement is the axon, with or without 
+secondary demyelination 
+3. Neuronopathies, in which the cell body of the neuron itself is the primary site of 
+involvement, ultimately affecting the entire peripheral nerve.  
+ 
+Note: “Although overlap occurs, each of these prototypes has a distinctive clinical presentation, 
+electrophysiologic profile, and microscopic appearance.” 
+ 
+8% of the population over 50 years of age have a peripheral neuropathy. The most common 
+etiology is Diabetes. Like the CNS, the basic approach is to ask yourself: focal or nonfocal? 
+ 
+Focal is then broken down into: 
+❏ Single lesion = simple mononeuropathies 
+versus  
+❏ Multiple lesions = multiple mononeuropathies = mononeuropathy multiplex 
+ 
+Nonfocal = Polyneuropathies  
+ 
+Refer to figure 97.1 in Rosen’s 9th Edition for the cardinal 7 categories of peripheral 
+neuropathies 
+ 
+***Focus your History and physical to answer the following 3 questions:*** 
+ 
+1. Are the sensorimotor signs and symptoms symmetrical or asymmetrical? 
+2. Are the sensorimotor signs and symptoms distal or both proximal and distal? 
+3. Is the modality involved exclusively motor, sensory, or mixed sensorimotor? 
+ 
+How do you workup suspected polyneuropathies? 
+ 
+See box 97.2 in Rosen’s 9th Edition for ancillary diagnostic testing in suspected 
+peripheral neuropathy 
+ 
+*** See questions 2 for the emergent causes of polyneuropathies with resp failure that WE 
+NEED TO KNOW*** 
+CrackCast Show Notes – Foreign Bodies – January 2017 
+www.canadiem.org/crackcast 
+ 
+ 
+ 
+ 
+ 
+ 
+[1] Describe a neuropathy classification system and list the prototypical 
+condition for each 
+ 
+Remember the RIP!!! Again, let us review… 
+ 
+Refer once again to figure 97.1 as well as to box 97.1 in Rosen’s 9th Edition for an 
+approach to peripheral neuropathy, and for the patterns and prototypes of peripheral 
+neuropathies, respectively 
+ 
+Patterns and Prototypes of Peripheral Neuropathies: 
+ 
+Type 
+Pattern Distribution 
+Prototypical disease modalities 
+1 
+Proximal and distal, 
+symmetrical, sensorimotor 
+polyneuropathy 
+Proximal and distal 
+Motor > sensory 
+GBS 
+ 
+ 
+Symmetrical 
+2 
+Distal, symmetrical, 
+sensorimotor polyneuropathy 
+Distal 
+Sensory > motor 
+Diabetic DSPN 
+ 
+Symmetrical 
+3 
+Proximal and distal, 
+asymmetrical, sensorimotor 
+neuropathy 
+Proximal and distal 
+Sensory and motor 
+Brachial plexopathy 
+ 
+Asymmetrical 
+4 
+Distal, asymmetrical, 
+sensorimotor mononeuropathy 
+Distal 
+Sensory and motor 
+CTS (median mononeuropathy) 
+ 
+Asymmetrical 
+5 
+Distal, asymmetrical, 
+sensorimotor mononeuropathy 
+multiplex 
+Distal 
+Sensory and motor 
+Vasculitic mononeuropathy 
+multiplex 
+ 
+ 
+Asymmetrical 
+6 
+Distal, asymmetrical, pure 
+motor neuropathy 
+Distal 
+Motor 
+ALS 
+ 
+Asymmetrical 
+7 
+Distal, asymmetrical, pure sensory 
+neuronopathy 
+Distal 
+Sensory 
+Pyridoxine toxicity 
+ 
+Asymmetrical 
+ 
+ 
+CrackCast Show Notes – Foreign Bodies – January 2017 
+www.canadiem.org/crackcast 
+ 
+ 
+ 
+ 
+[2] List 8 causes of acute emergent weakness and possible respiratory 
+compromise 
+ 
+See box 97.1 in Rosen’s 9th Edition for causes of acute, emergent weakness and possible 
+respiratory compromise 
+• 
+Autoimmune 
+o Demyelinating 
+§ 
+Guillain-Barré syndrome (GBS) 
+§ 
+Chronic inflammatory demyelinating polyneuropathy 
+o Myasthenia gravis 
+• 
+Toxic 
+o Botulism 
+o Buckthorn 
+o Seafood 
+§ 
+Paralytic shellfish toxin 
+§ 
+Tetrodotoxin (puffer fish, newts) 
+o Tick paralysis 
+o Metals 
+o Arsenic 
+o Thallium 
+• 
+Metabolic 
+o Dyskalemic syndromes 
+§ 
+Acquired (especially with thyrotoxicosis) 
+§ 
+Familial 
+o Hypophosphatemia 
+o Hypermagnesemia 
+o Porphyria 
+• 
+Infectious 
+o Poliomyelitis 
+o Diphtheria 
+ 
+[3] List 4 demyelinating polyneuropathies 
+ 
+See box 97.3 in Rosen’s 9th Edition for a list of demyelinating polyneuropathies 
+ 
+Demyelinating polyneuropathies: 
+• 
+Guillain-Barré syndrome (GBS) 
+o Acute inflammatory demyelinating polyradiculoneuropathy 
+o Acute motor axonal neuropathy 
+o Acute motor and sensory axonal neuropathy 
+o Miller Fisher syndrome 
+• 
+Chronic inflammatory demyelinating polyradiculoplexoneuropathy 
+CrackCast Show Notes – Foreign Bodies – January 2017 
+www.canadiem.org/crackcast 
+ 
+ 
+ 
+ 
+• 
+Malignant disease 
+• 
+Human immunodeficiency virus (HIV) infection 
+• 
+Hepatitis B 
+• 
+Buckthorn 
+• 
+Diphtheria 
+ 
+[4] Describe the pathophysiology of GBS, and list common precipitating 
+organisms 
+ 
+According to UpToDate: “GBS is thought to result from an immune response to a preceding 
+infection that cross-reacts with peripheral nerve components because of molecular mimicry. The 
+immune response can be directed towards the myelin or the axon of peripheral nerve, resulting 
+in demyelinating and axonal forms of GBS.” 
+ 
+“The pattern of symmetrical weakness, usually worse distally, accompanied by variable sensory  
+endings is characteristic of acute Guillain-Barré syndrome (GBS).” - Rosen’s 
+ 
+Broken down into  
+❏ Acute inflammatory demyelinating polyradiculoneuropathy 
+❏ Acute motor axonal neuropathy 
+❏ Acute motor and sensory axonal neuropathy 
+❏ Miller fisher syndrome 
+❏ Bickerstaff encephalitis 
+❏ Pharyngeal-cervical-brachial weakness 
+❏ Paraparesis 
+❏ Others 
+ 
+“Areflexic paralysis with albuminocytologic dissociation, with marked variation in latency 
+between antecedent infection and symptom onset. Up to 20% of patients remain disabled from 
+this disease process, and about 5% will die despite therapy.” 
+Most common form of GBS = acute inflammatory demyelinating polyneuropathy (90% of the 
+cases seen in North America).  
+ 
+Risk factors:  
+❏ Asian descent  
+❏ Increasing age 
+❏ Male > Female 
+ 
+Most commonly associated infectious agents:  
+❏ Campylobacter jejuni (up to 30% of cases) 
+❏ Cytomegalovirus (CMV) 
+❏ Epstein-Barr virus (EBV) 
+❏ Mycoplasma pneumonia  
+CrackCast Show Notes – Foreign Bodies – January 2017 
+www.canadiem.org/crackcast 
+ 
+ 
+ 
+ 
+[5] What is Miller-Fisher Syndrome? 
+ 
+Miller Fisher Syndrome (MFS) is a rare form of GBS…  
+ 
+Characterized by the triad of  
+❏ Ophthalmoplegia  
+❏ Ataxia  
+❏ Areflexia 
+ 
+1/4 of patients who present with MFS get extremity weakness 
+ 
+Incomplete forms include: 
+❏ Acute ophthalmoplegia without ataxia 
+❏ Acute ataxic neuropathy without ophthalmoplegia 
+ 
+Note: Some patients with MFS develop fixed, dilated pupils !!! 
+ 
+[6] Describe the clinical presentation of GBS, diagnostic tests, and 
+management 
+ 
+Usually present post-infectious illness (URTI or GI), upper respiratory or gastrointestinal illness, 
+with progressive, symmetrical, distal (and usually to a lesser extent proximal) weakness.  
+ 
+❏ Symptoms can progress over ~28 days 
+❏ Lower extremities >> Upper extremity weakness  
+❏ Decreased or loss of DTRs 
+❏ Variable sensory findings 
+❏ Sparing of the anal sphincter 
+ 
+According to Uptodate:  
+ 
+❏ Weakness usually starts in the legs, but it begins in the arms or facial muscles in about 
+10% of patients 
+❏ Severe respiratory muscle weakness requiring ventilatory support develops in 10% - 
+30% 
+❏ Facial nerve palsies occur in more than 50%, and oropharyngeal weakness eventually in 
+50% 
+❏ Oculomotor weakness occurs in about 15% 
+❏ Decreased or absent reflexes in affected arms or legs are found in approximately 90% of 
+patients at presentation and in all patients with disease progression 
+❏ Paresthesias in the hands and feet accompany the weakness in more than 80% of 
+patients, but sensory abnormalities on examination are frequently mild. 
+CrackCast Show Notes – Foreign Bodies – January 2017 
+www.canadiem.org/crackcast 
+ 
+ 
+ 
+ 
+❏ Pain due to nerve root inflammation, typically located in the back and extremities, can be 
+a presenting feature and is reported during the acute phase by two-thirds of patients with 
+all forms of GBS 
+❏ Dysautonomia occurs in approximately 70% of patients  
+❏ Diarrhea/constipation  
+❏ Hyponatremia 
+❏ Bradycardia 
+❏ Urinary retention  
+❏ Tachycardia  
+❏ Reversible cardiomyopathy 
+❏ Horner syndrome 
+❏ SIADH 
+ 
+Pearls:  
+1. The presence of distal paresthesias increases the likelihood of GBS  
+2. Tongue weakness is associated with the development of respiratory compromise and 
+the need for mechanical ventilation 
+3. Compared with adults, children have neuropathic pain more often but require 
+mechanical ventilation less often 
+4. Progression for more than eight weeks is consistent with the diagnosis of chronic 
+inflammatory demyelinating polyradiculoneuropathy (CIDP) 
+5. GBS and PRES (posterior reversible encephalopathy syndrome) are associated - likely 
+related to acute hypertension from dysautonomia  
+ 
+The following should make you reconsider your diagnosis (from UpToDate)!!! 
+ 
+❏ Sensory level (decrement or loss of sensation below a spinal cord root level as 
+determined by neurologic examination) 
+❏ Marked, persistent asymmetry of weakness 
+❏ Bowel and bladder dysfunction at onset 
+❏ Severe and persistent bowel and bladder dysfunction 
+❏ Severe pulmonary dysfunction with little or no limb weakness at onset 
+❏ Severe sensory signs with little or no weakness at onset 
+❏ Fever at onset 
+❏ CSF pleocytosis with a white cell count >50/mm3 
+ 
+Diagnostics: 
+❏ Imaging - MRI spine (can add brain if mixed picture) 
+❏ EMG 
+❏ CSF: may be normal, or classically they will have Albuminocytologic dissociation = 
+markedly elevated protein with only a mild pleocytosis  
+ 
+ 
+CrackCast Show Notes – Foreign Bodies – January 2017 
+www.canadiem.org/crackcast 
+ 
+ 
+ 
+ 
+Management: 
+ 
+AIRWAY and BREATHING should be your #1 priority!!!  
+Clinical diagnosis here, but a FVC <15cc/kg, or Negative Inspiratory force (NIF) of <20-30% 
+should make you drop the tube. 
+ 
+Other options, with consultation of neurology:  
+❏ Plasma exchange 
+❏ Intravenous immune globulin (IVIG) 400 mg/kg per day for 5 days 
+❏ Corticosteroids are not recommended; oral steroids have been shown to delay 
+recovery, and intravenous steroids alone have shown no benefit 
+ 
+Note: The combination of intravenous steroids and IVIG appears to decrease recovery time but 
+no clinical improvement of long term outcomes 
+ 
+[7] List 6 distal symmetric polyneuropathies 
+ 
+Refer to box 97.4 in Rosen’s 9th Edition for an extensive list of distal sensorimotor 
+polyneuropathies 
+ 
+Broad categories of distal sensorimotor polyneuropathies include: 
+• 
+Diabetes mellitus 
+• 
+Alcoholism 
+• 
+Neoplastic or paraneoplastic 
+• 
+Hereditary motor and sensory neuropathies (Charcot-Marie-Tooth) 
+• 
+Cryptogenic sensorimotor polyneuropathies 
+• 
+HIV infection 
+• 
+Toxins 
+• 
+Nutritional 
+• 
+End-organ dysfunction 
+• 
+Paraproteinemias 
+• 
+Porphyria 
+ 
+[8] Describe the clinical progression of Diabetic Polyneuropathy 
+ 
+First up, although this is the most common cause of distal symmetric peripheral polyneuropathy 
+(DSPN), don’t forget the differential diagnosis here!  
+❏ Diabetes 
+❏ Alcoholism 
+❏ HIV 
+❏ Toxic metabolic  
+These are the most common. Many more as stated in question 7. 
+CrackCast Show Notes – Foreign Bodies – January 2017 
+www.canadiem.org/crackcast 
+ 
+ 
+ 
+ 
+As with most DSPN, diabetic neuropathy presents as: 
+❏ Pattern of distal, symmetrical sensorimotor findings 
+❏ LE > UE  
+❏ stocking-glove distribution of sensory abnormalities that gradually diminishes as one 
+moves proximally 
+❏ Early sensory complaints like burning or tingling 
+❏ Motor weakness and loss of DTRs (lag behind the sensory features) 
+❏ Loss of big toe dorsiflexion usually first motor sign 
+❏ “Steppage gait,” in which footdrop causes the toes to point downward and scrape 
+the ground while walking, requiring the patient to lift the leg higher than normal 
+when walking. 
+❏ Eventual ataxia 
+❏ Diabetic foot ulcers ranging from 2% to 10% of the population.  
+❏ Mechanism: Unperceived trauma 
+ 
+[9] List 5 causes of a plexopathy & 5 causes of an isolated 
+mononeuropathy 
+ 
+So here we are talking about category 3: asymmetric proximal and distal peripheral 
+neuropathies aka radiculopathies and plexopathies, and category 4: isolated mononeuropathies 
+ 
+Refer to boxes 97.5 and 97.6 in Rosen’s 9th Edition for asymmetrical proximal and distal 
+peripheral neuropathies, and isolated mononeuropathies, respectively 
+ 
+Asymmetrical proximal and distal peripheral neuropathies: 
+• 
+Brachial plexopathy 
+o Open 
+§ 
+Direct plexus injury (knife or gunshot wound) 
+§ 
+Neurovascular (plexus ischemia) 
+§ 
+Iatrogenic (central line insertion) 
+o Closed 
+§ 
+Traction injuries 
+• 
+“Stingers” 
+• 
+Traction neurapraxia 
+• 
+Partial or complete nerve root avulsion 
+§ 
+Radiation 
+§ 
+Neoplastic 
+§ 
+Idiopathic brachial plexitis 
+§ 
+Thoracic outlet 
+• 
+Lumbosacral plexopathies 
+o Open 
+o Closed 
+CrackCast Show Notes – Foreign Bodies – January 2017 
+www.canadiem.org/crackcast 
+ 
+ 
+ 
+ 
+§ 
+Traction injuries 
+• 
+Pelvic double vertical shearing fracture 
+• 
+Posterior hip dislocation 
+• 
+Retroperitoneal hemorrhage 
+§ 
+Vasospastic (deep buttock injection) 
+§ 
+Neoplastic 
+§ 
+Radiation 
+§ 
+Idiopathic lumbosacral plexitis 
+§ 
+Infectious 
+• 
+Herpesvirus (sacrococygeal) 
+• 
+Herpes simplex 2 
+• 
+Herpes zoster 
+• 
+Cytomegalovirus polyradiculopathy (HIV infection) 
+ 
+Isolated mononeuropathies (broad categories): 
+• 
+Upper extremity 
+o Radial nerve 
+o Ulnar nerve 
+o Median nerve 
+• 
+Lower extremity 
+o Sciatic nerve 
+o Femoral nerve 
+o Lateral femoral cutaneous (meralgia paresthetica) 
+o Peroneal nerve 
+o Tibial nerve 
+o Sural nerve 
+o Plantar nerve 
+o Obturator mononeuropathy 
+ 
+[10] What are two other names of a radial mononeuropathy? How does it 
+present? 
+ 
+Remember your anatomy? Yeah… that is what we thought: 
+❏ Rises from the C5 to T1 nerve roots.  
+❏ “After exiting the brachial plexus, it passes behind the proximal humerus in the spiral 
+groove and takes a lateral (radial) course down the upper arm (Fig. 97.3). At about the 
+level of the antecubital fossa, it bifurcates into the posterior interosseous (pure motor) 
+and superficial radial (pure sensory) nerves.” – Steward JD 3rd Edition 
+ 
+Motor: extension of fingers/thumb/wrist/elbow (triceps). All motor function = extrinsic muscles of 
+hand (unlike median and ulnar) 
+CrackCast Show Notes – Foreign Bodies – January 2017 
+www.canadiem.org/crackcast 
+ 
+ 
+ 
+ 
+Sensory: cutaneous dorsal area overlying the first dorsal interosseous muscle (sometimes 
+extending part of the way up the dorsa of the thumb, index, and long fingers) 
+ 
+Refer to figure 97.3 in Focal Peripheral Neuropathies, by Steward JD 3rd Edition, for an 
+anatomical diagram of the radial nerve and its major branches 
+ 
+“Saturday night palsies” = radial mononeuropathy, secondary to compressive neuropathy. 
+• 
+Caused when the radial nerve is trapped between the humeral shaft and some hard 
+surface, as seen in deep drunk sleep.  
+ 
+“Bridegroom’s palsy” = radial nerve may be compressed by the bride’s head resting on the 
+groom’s arm during sleep 
+ 
+Rare: Radial neuropathy secondary to improper crutch use causing compressive neuropathy at 
+the level of the axilla! 
+• 
+Look for wrist +/-  finger drop. Also seen is paresthesia of dorsum of 1st digit space. 
+ 
+[11] Describe the motor and sensory innervation of the ulnar nerve. How 
+can you discern between an ulnar nerve lesion at the elbow or at the wrist? 
+ 
+Anatomy: C7 to T1 roots - passes through the brachial plexus to descend medially, without 
+branching, to the ulnar (medial) condylar groove at the elbow. Then goes from cubital canal, it 
+branches to the ulnar wrist  flexor and the deep flexors of the fourth and fifth digits. At the wrist it 
+enters Guyon’s Canal between the pisiform and hook of the hamate, after which it bifurcates 
+into the superficial terminal sensory branch and the deep motor branch. 
+ 
+Refer to figure 97.4 in Focal Peripheral Neuropathies, by Steward JD 3rd Edition, for an 
+anatomical diagram of the ulnar nerve and its major branches 
+ 
+Motor: The deep motor nerve supplies  
+❏ Hypothenar muscles 
+❏ Ulnar intrinsics (e.g., abduction of index finger: all interossei and the ulnar lumbricals of 
+the fourth and fifth digits) 
+ 
+Sensory: The superficial sensory nerve supplies ulnar sensation to the palmar side of the fifth 
+and half of the fourth digit  
+ 
+Localizing lesion: Some compressive lesions just proximal to the elbow can be brought out by 
+prolonged flexion of the elbow, or repetitive flexion-extension. However, the localization gold 
+standard involves electrophysiologic studies. 
+ 
+Wrist vs elbow: Is there sensory splitting of the 4th and 5th digit? 
+ 
+CrackCast Show Notes – Foreign Bodies – January 2017 
+www.canadiem.org/crackcast 
+ 
+ 
+ 
+ 
+“Although it is difficult to distinguish a condylar from a cubital ulnar mononeuropathy, it is usually 
+possible to localize the problem to the region of the elbow or the wrist. In addition to prior 
+probability heavily favoring the elbow, the presence of sensory abnormalities in an ulnar 
+distribution in the hand and fingers (i.e., usually including the fifth digit and “splitting” the fourth 
+digit) strongly suggests that the lesion is at the level of the elbow rather than the wrist. The ulnar 
+cutaneous innervation to the hand branches off from the main trunk proximal to the nerve 
+entering Guyon’s Canal. Thus a lesion at the wrist should not produce sensory abnormalities, 
+whereas one at the elbow would be expected to do so.” -Rosen’s 9th edition 
+ 
+[12] Describe the motor and sensory innervation of the medial nerve. 
+ 
+Anatomy: C5 to T1 spinal nerve roots and exits the brachial plexus through the lower trunk.  
+Usually diagnosed as carpal tunnel syndrome (CTS) = most common entrapment neuropathies 
+ 
+Refer to figure 97.6 in Focal Peripheral Neuropathies, by Steward JD 3rd Edition, for an 
+anatomical diagram of the median nerve and its major branches 
+ 
+Motor = Thenar contraction with opposition 
+Sensory = Index finger sensation 
+ 
+[13] List 3 physical findings of carpal tunnel syndrome. What are 6 risk 
+factors? 
+ 
+Motor dysfunction = median intrinsic involvement = Test the LOAF muscles: “lumbricals ( flexion 
+of the metacarpophalangeal joints) and subserve thumb opposition, abduction, and flexion, 
+known as the LOAF muscles.” 
+ 
+*The most sensitive finding is abnormal sensation of the distal palmar tip of the index finger* 
+Physical exam (classically taught but not satisfactory sensitive or specific): 
+1. Tinel’s sign (percussion of the median nerve at the wrist) 
+2. Phalen’s sign (maximal palmar extension at the wrist) have been classically taught as 
+provocative tests to reproduce the sensory symptoms of CTS  
+3. Dropping of objects is indicative of severe CTS!!!  
+4. The best way to examine patients for sensory findings = touch the distal palmar tips very 
+lightly, asking the patient whether the sensation feels “abnormal.” 
+ 
+Refer to box 97.7 in Rosen’s 9th Edition for conditions associated with CTS 
+Conditions associated with Carpal Tunnel Syndrome: 
+• 
+Acromegaly 
+• 
+Amyloid 
+• 
+Diabetes mellitus 
+• 
+Hypothyroidism 
+CrackCast Show Notes – Foreign Bodies – January 2017 
+www.canadiem.org/crackcast 
+ 
+ 
+ 
+ 
+• 
+Obesity 
+• 
+Pregnancy 
+• 
+Renal failure 
+• 
+Rheumatoid arthritis 
+ 
+[14] What are the findings in a lateral femoral cutaneous mononeuropathy? 
+ 
+Lateral femoral cutaneous mononeuropathy = meralgia paresthetica  
+ 
+Pure sensory nerve injury usually at level of inguinal ligament (belt, tight pants, post-surgery, 
+HIV) 
+ 
+O/E = Numbness and dysesthesia over the skin of the upper lateral thigh 
+ 
+[15] What are the findings of a common peroneal mononeuropathy? 
+ 
+Anatomy = continuation of one trunk of the sciatic nerve. Most vulnerable at the fibular neck  
+ 
+Refer to figures 97.7 and 97.8 in Focal Peripheral Neuropathies, by Steward JD 3rd 
+Edition, for an anatomical diagram of the Sciatic and Common Peroneal nerves and their 
+major branches 
+ 
+Motor: Ankle Dorsiflexion, foot eversion 
+Sensory: (superficial peroneal = lateral dorsal foot, deep peroneal = Dorsal 1st webspace) 
+ 
+O/E  
+❏ Foot drop 
+❏ Weak foot eversion 
+❏ BUT INVERSION SHOULD BE INTACT, if not, think about sciatic mononeuropathy 
+ 
+[16] List 3 causes of a mononeuropathy multiplex 
+ 
+Refer to box 97.8 in Rosen’s 9th Edition for a list of etiologies of mononeuropathy 
+multiplex 
+ 
+Mononeuropathy multiplex etiologies: 
+• 
+Vasculitis 
+o Systemic vasculitis 
+§ 
+Polyarteritis nodosa 
+§ 
+Rheumatoid arthritis 
+§ 
+Systemic lupus erythematosus 
+§ 
+Sjörgen’s syndrome (keratoconjunctivitis sicca) 
+CrackCast Show Notes – Foreign Bodies – January 2017 
+www.canadiem.org/crackcast 
+ 
+ 
+ 
+ 
+o Nonsystemic vasculitis 
+• 
+Diabetes mellitus 
+• 
+Neoplastic 
+o Paraneoplastic 
+o Direct infiltration 
+• 
+Infectious 
+o Lyme disease 
+o HIV infection 
+• 
+Sarcoid 
+• 
+Toxic (lead) 
+• 
+Transiet (polycythemia vera) 
+• 
+Cryoglobulinemia (hepatitis C) 
+ 
+[17] What are the characteristics of Amyotrophic Lateral Sclerosis 
+ 
+Refer to box 97.9 in Rosen’s 9th Edition for clinical findings of ALS 
+Objective clinical findings consistent with Amyotrophic Lateral Sclerosis: 
+• 
+Upper motor neuron signs 
+o Hyperreflexia 
+§ 
+Sustained clonus, especially at ankle 
+§ 
+Finger flexors and jaw jerk 
+o Spasticity, especially of gait 
+o Presence of Babinski’s sign 
+• 
+Lower motor neuron signs 
+o Positive motor phenomena 
+§ 
+Fasciculations 
+§ 
+Cramps 
+o Negative motor phenomena 
+§ 
+Asymmetrical distal weakness 
+§ 
+Atrophy 
+• 
+Combined upper and lower motor neuron signs 
+o Dysarthria 
+o Dysphagia 
+o Respiratory compromise 
+ 
+[18] What is a Ganglionopathy? 
+ 
+Last thing to note: The 7th type of peripheral neuropathy (Sensory Neuronopathy, aka 
+Ganglionopathy) can be characterized by a selective/predominant involvement of the dorsal root 
+ganglion. This results in producing a pure sensory syndrome analogous to the pure motor 
+syndrome of ALS.  
+ 
+CrackCast Show Notes – Foreign Bodies – January 2017 
+www.canadiem.org/crackcast 
+ 
+ 
+ 
+ 
+Clinical features 
+❏ Proprioception is profoundly altered = sensory ataxia 
+❏ Loss of DTRs without weakness 
+❏ Asymmetrical and distal at the outset, severe can progress to symmetrical 
+ 
+Diagnostic Testing: 
+MRI of the spinal cord and surrounding areas  
+❏ Dorsal root ganglion disease localisation 
+ 
+Causes seen here: 
+Refer to box 97.10 in Rosen’s 9th Edition for list of sensory neuronopathies 
+Sensory neuronopathies (Ganglionopathies): 
+• 
+Herpes 
+o Herpes simplex 1 and 2 
+o Varicella-zoster (shingles) 
+• 
+Inflammatory sensory polyganglionopathy 
+• 
+Paraneoplastic 
+• 
+Primary biliary cirrhosis 
+• 
+Sjörgen’s syndrome (keratoconjunctivitis sicca) 
+• 
+Toxin induced 
+o Pyridoxine (vitamin B6) overdose 
+o Metals 
+§ 
+Platinum (cisplatin) 
+§ 
+Methyl mercury 
+• 
+Vitamin E deficiency 
+ 
+ 
+ 
+CrackCast Show Notes – Foreign Bodies – January 2017 
+www.canadiem.org/crackcast 
+ 
+ 
+ 
+ 
+AND JUST FOR SPACED REPETITION BEFORE YOU GO: 
+ 
+Refer once again to box 97.1 in Rosen’s 9th Edition for the patterns and prototypes of 
+peripheral neuropathies 
+ 
+Patterns and Prototypes of Peripheral Neuropathies: 
+ 
+Type 
+Pattern Distribution 
+Prototypical disease modalities 
+1 
+Proximal and distal, 
+symmetrical, sensorimotor 
+polyneuropathy 
+Proximal and distal 
+Motor > sensory 
+GBS 
+ 
+ 
+Symmetrical 
+2 
+Distal, symmetrical, 
+sensorimotor polyneuropathy 
+Distal 
+Sensory > motor 
+ 
+Diabetic DSPN 
+ 
+Symmetrical 
+3 
+Proximal and distal, 
+asymmetrical, sensorimotor 
+neuropathy 
+Proximal and distal 
+Sensory and motor 
+Brachial plexopathy 
+ 
+Asymmetrical 
+4 
+Distal, asymmetrical, 
+sensorimotor mononeuropathy 
+Distal 
+Sensory and motor 
+CTS (median mononeuropathy) 
+ 
+Asymmetrical 
+5 
+Distal, asymmetrical, 
+sensorimotor mononeuropathy 
+multiplex 
+Distal 
+Sensory and motor 
+Vasculitic mononeuropathy 
+multiplex 
+ 
+ 
+Asymmetrical 
+6 
+Distal, asymmetrical, pure 
+motor neuropathy 
+Distal 
+Motor 
+ALS 
+ 
+Asymmetrical 
+7 
+Distal, asymmetrical, pure sensory 
+neuronopathy 
+Distal 
+Sensory 
+Pyridoxine toxicity 
+ 
+Asymmetrical 
+ 

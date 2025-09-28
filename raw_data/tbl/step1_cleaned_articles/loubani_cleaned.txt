@@ -1,0 +1,108 @@
+# Metadata
+- Source: The Bottom Line
+- Title: Loubani
+- Original URL: https://www.thebottomline.org.uk/summaries/icm/loubani/
+- Scrape Date: 2025-07-17
+- Summary author: @DuncanChambler
+- Summary Date: 25 June 2015
+- Peer-review Editor: @DavidSlessor
+
+# Title
+A Systematic Review of Extravasation and Local Tissue Injury from Administration of Vasopressors through Peripheral Intravenous Catheters and Central Venous Catheters  
+**Loubani.**  
+Journal of Critical Care 2015; 30(3):654. doi:10.1016/j.jcrc.2015.01.014
+
+# Clinical Question
+In patients administered vasopressor medication intravenously, what are the published reports on local tissue injury and extravasation?
+
+# Design
+- Systematic, narrative review
+- Two authors conducted the review
+- Initial screening by one author, full review by both with consensus resolution
+
+# Search Strategy
+- Databases: Medline, Embase, Cochrane Library
+- Search performed in January 2014, covering literature back to 1946
+- No language restrictions
+- Limited to human subjects
+- Backward reference mapping performed
+
+# Population
+
+**Inclusion Criteria:**
+- Age over 18 years
+
+**Exclusion Criteria:**
+- Not cases of cardiac arrest
+
+**Selection:**
+- 78,671 abstracts screened
+- 598 full-text articles reviewed
+- 85 papers included
+
+# Intervention
+- Administration of IV vasopressors via peripheral or central venous line
+- Drugs included: dopamine, epinephrine/adrenaline, norepinephrine/noradrenaline, vasopressin, terlipressin, phenylephrine, ephedrine
+
+# Outcomes
+
+## Complications
+- Events categorized into:
+  - **Extravasation:** Escape of drug into surrounding tissues, with or without injury
+  - **Local Tissue Injury:** Evidence of tissue injury associated with vasopressor administration
+- 64% of events caused local tissue injury
+- 98% of these injuries were associated with peripheral venous catheters
+- Tissue injuries included skin necrosis, tissue necrosis, or gangrene
+
+## Drugs
+- Data collected on specific drugs:
+  - Norad/Norepi: 219 events (217 peripheral, 3 central)
+  - Dopamine: 36 events (all peripheral)
+  - Adren/Epineph: 18 events (17 peripheral, 1 central)
+  - Vasopressin: 16 events (14 peripheral, 2 central)
+  - Terlipressin: 4 events (3 peripheral, 1 central)
+  - Phenylephrine: 6 events (all peripheral)
+  - Ephedrine: 2 events (all peripheral)
+
+## Location
+- 62% of events associated with peripherally placed catheters
+- Distal to antecubital fossa (ACF) or knee: 213 events
+- At ACF or more proximal: 133 events
+
+## Duration
+- Described in 80% of cases
+- Median duration: 24 hours for peripheral, 22 hours for central venous catheters
+- Most injuries occurred after 6+ hours of infusion
+
+## Gauge of Peripheral Venous Catheter
+- Extravasation most commonly associated with 22-gauge lines
+- Catheter gauge rarely reported
+
+## Long-term Sequelae
+- Simple extravasation infrequently associated with harm
+- Tissue injury associated with long-term disability in 25% of events, death in 2%
+
+# Authors’ Conclusions
+Administration of vasopressors via peripheral IV lines for short term (<2 hours) and placed at or more proximal than the ACF is unlikely to lead to extravasation or local tissue injury. This should be a temporary measure during an emergency, replaced by a central venous line as soon as possible.
+
+# Strengths
+- Well-constructed literature search with clearly defined population, intervention, and outcomes
+- Assessment of many articles for relevance
+- Authors contacted for more recent articles to acquire specific patient-level data
+
+# Weaknesses
+- Narrative review, so exact numbers are less important
+- Unable to define the denominator, so event rates or incidence of complications cannot be calculated
+- Reporting bias may lead to overestimation of risk with peripheral lines and underestimation with central lines
+
+# Bottom Line
+This narrative review provides no firm conclusion. From the distribution of events described, it is reasonable to conclude that using proximal venous catheters for not more than 6 hours in emergencies, while a central venous catheter is inserted, is acceptable. This work should form a base for subsequent trials if the question remains clinically relevant.
+
+# External Links
+- **Original article:** [A systematic review of extravasation and local tissue injury from administration of vasopressors through peripheral intravenous catheters and central venous catheters](https://www.thebottomline.org.uk/summaries/icm/loubani/)
+- **Further reading:**
+  - Central or Peripheral Catheters for Initial Venous Access of ICU Patients: A Randomized Controlled Trial
+  - Inotropes, vasopressors, and other vasoactive agents by LITFL
+  - Safety of the Peripheral Administration of Vasopressor Agents
+  - Risk of Major Complications After Perioperative Norepinephrine Infusion Through Peripheral Intravenous Lines in a Multicenter Study
+  - Complication of vasopressor infusion through peripheral venous catheter: A systematic review and meta-analysis

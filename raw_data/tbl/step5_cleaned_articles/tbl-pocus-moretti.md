@@ -1,0 +1,94 @@
+---
+source: The Bottom Line
+title: POCUS: Moretti
+original_url: https://www.thebottomline.org.uk/summaries/icm/pocus-moretti/
+scrape_date: 2025-07-17
+summary_author: David Slessor
+summary_date: 2016-10-25
+peer_review_editor: Duncan Chambler
+summary: |
+  In a prospective observational study conducted in a single intensive care unit in Italy, the distensibility of the inferior vena cava (IVC) was evaluated as a predictor of fluid responsiveness in mechanically ventilated patients with subarachnoid hemorrhage (SAH) and low cardiac index. The study included adult patients with SAH requiring advanced hemodynamic monitoring and excluded those with pre-existing heart conditions or high extravascular lung water. IVC sonography was performed by experienced intensivists, and fluid responsiveness was determined by a ≥15% increase in cardiac index post-fluid challenge. The study found that the IVC distensibility index (dIVC) was a reliable predictor of fluid responsiveness, with an area under the ROC curve of 0.902. The study's strengths included blinding and appropriate methodology, though it was limited by a small sample size and single-center design. The findings suggest that dIVC is a useful tool for predicting fluid responsiveness in this patient population, though further research is needed to confirm its applicability in broader settings.
+
+---
+
+# Inferior Vena Cava Distensibility as a Predictor of Fluid Responsiveness in Patients with Subarachnoid Hemorrhage
+
+## Clinical Question
+In mechanically ventilated patients with subarachnoid hemorrhage (SAH) and a low cardiac index, does the distensibility of the inferior vena cava (IVC) on ultrasound predict fluid responsiveness?
+
+## Design
+- Prospective observational study
+- Consecutive patients
+- Blinded ultrasonographers
+- Inter- and intra-observer variability assessed
+
+## Setting
+- Single 10-bedded intensive care unit in Italy
+- Study period: August 2008 to July 2009
+
+## Population
+
+**Inclusion Criteria:**
+- Adult patients with SAH (Fisher Grade 3/4)
+- Requiring advanced hemodynamic monitoring, sedation, and mechanical ventilation
+- Hemodynamic instability: Cardiac index (CI) < 2.5 L/min/m² or cerebral perfusion pressure (CPP) < 60 mmHg
+
+**Exclusion Criteria:**
+- Pre-existing heart failure, cardiac arrhythmias, ARDS
+- Extravascular lung water (ELWI) > 14 mL/kg
+- Inability to perform femoral artery cannulation or ultrasonography
+
+**Enrollment:**
+- 31 patients recruited; 2 excluded due to suboptimal IVC visualization and ELWI > 14 mL/kg
+
+## Intervention
+
+**Test of Interest:**
+- IVC sonography performed by two intensivists with >3 years (60+ scans) ultrasound experience
+- 3.5-MHz ultrasound probe used
+- Patients supine, ventilated with standardized settings
+- IVC diameter measured in M-mode, 2 cm upstream of the suprahepatic vein origin
+- IVC distensibility index (dIVC) calculated: (IVCDi - IVCDe) / IVCDe
+
+**Gold Standard Investigation:**
+- Thermodilution-derived cardiac index via femoral PICCO line
+- Patients classified as fluid responsive if CI increased ≥15% post-fluid challenge
+
+## Outcomes
+
+### Primary Outcome
+- Reliability of dIVC as a predictor of fluid responsiveness
+  - Area under the ROC curve for dIVC: 0.902 (95% CI: 0.73–0.98)
+
+### Secondary Outcomes
+- 17 patients classified as fluid responders (FR), 12 as non-responders (NR)
+- Baseline dIVC (%) significantly higher in FR than NR (16 vs. 10, p < 0.0001)
+- Post-fluid bolus, significant decrease in dIVC and SVV in FR, no significant change in NR
+
+## Authors’ Conclusions
+IVC distensibility is a reliable measure for predicting fluid responsiveness in critically ill patients with SAH.
+
+## Strengths and Weaknesses
+- **Strengths**
+  - Blinding of ultrasonographers
+  - Appropriate gold standard investigation
+  - Clear methodology for test performance
+  - Assessment of inter- and intra-observer variability
+- **Weaknesses**
+  - No sample size calculation; small patient numbers
+  - Limited external validity due to restrictive criteria
+  - PEEP set to zero for dIVC measurement, not feasible for all patients
+  - Single-center study
+
+## Bottom Line
+In patients with grade 3/4 SAH and low cardiac index, mechanically ventilated with tidal volumes of 8 mL/kg, dIVC is a useful predictor of fluid responsiveness. Further trials are needed to determine applicability to other populations.
+
+## External Links
+- **Original article**: [Inferior vena cava distensibility as a predictor of fluid responsiveness in patients with subarachnoid hemorrhage](https://www.thebottomline.org.uk/summaries/icm/pocus-moretti/)
+- **Further listening**: EMCrit – Assessing Fluid Responsiveness
+- **Further listening**: SMACC Debate – Predicting Fluid Responsiveness is a Waste of Time
+- **Further reading**: LITFL Fluid Responsiveness
+- **Further listening**: EMCrit – IVC Ultrasound for Fluid Tolerance in Spontaneously Breathing Patients
+- **Further listening**: SMACC: The Dark Art of IVC Ultrasound
+- **Further watching**: Ultrasound Podcast: IVC
+```

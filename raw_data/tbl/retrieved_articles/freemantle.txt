@@ -1,0 +1,192 @@
+# Metadata
+- Source: The Bottom Line
+- Title: Freemantle
+- Original URL: https://www.thebottomline.org.uk/summaries/icm/weekend-hospitalization-and-additional-risk-of-death-an-analysis-of-inpatient-data/
+- Scrape Date: 2025-07-17
+- Summary Date: AUTO_FILL_IF_AVAILABLE
+
+Weekend hospitalization and additional risk of death: an analysis of inpatient data
+Freemantle. J R Soc Med 2012; 105: 74-84. doi: 10.1258/jrsm.2012.120009
+Clinical Question
+Do patients admitted to English NHS hospitals on weekend days,
+compared to those admitted during week days,
+have an increased 30-day mortality?
+Design
+Retrospective cohort study
+Data on mortality obtained via Office of National Statistics statutory death reporting
+Cox models developed to account for differences in risk of death
+Covariates included: age, day of the year (seasonality), previous admissions (complex and emergency), Charlson Comorbidity Index, gender, ethnicity, nature of admission (emergency or elective), source of admission (home or another institution), social deprivation, diagnostic category, hospital trust, day of admission, day of death
+Two analyses presented with subgroup
+Mortality dependant on
+day of admission
+Patients followed up for 30 days after admission
+Mortality dependant on
+day of in-patients stay
+This is the analysis of what day of the week in-patients died on
+It does not include the day of admission
+Setting
+All NHS hospitals in England
+April 2009 – March 2010
+Population
+Inclusion: all admissions to NHS hospitals
+Exclusion: none
+14,217,640 cases included out of 15,061,472 reported admissions
+Incomplete data for 5.6% of patients and therefore not included
+Weekend days cohort
+Day of admission
+analysis: Patients admitted on Saturday or Sunday
+Day of in-patient stay
+analysis: Patients already in hospital on Saturday or Sunday
+Week days cohort
+Day of admission
+analysis: Patients admitted on Monday, Tuesday, Wednesday, Thursday or Friday
+Day of in-patient stay
+analysis: Patients already in hospital on Monday, Tuesday, Wednesday, Thursday or Friday
+Outcome
+Descriptive Statistics
+Total 30-day mortality = 284,852 (2.00% of 14,217,640 analysed admissions)
+Died in-hospital, within 30 days of admission = 187,337 (1.32%)
+Weekend day vs Week day
+Weekend day mortality = 46,591 (25% of in-hospital deaths)
+Week day mortality = 140746 (75% of in-hospital deaths)
+Early vs Late
+Within 3 days of admission (early deaths) = 56,786 (30% of in-hospital deaths)
+Between 3 and 30 days after admission (late deaths) = 130,551 (70% of in-hospital deaths)
+Emergency vs Elective
+After emergency admission = 175,511 (94% of in-hospital deaths)
+After elective admission = 11,826 (6% of in-hospital deaths)
+Died post-discharge from hospital, within 30 days of admission = 97,515 (0.686%)
+Day of Admission
+Analysis
+Weekend days
+Admission was associated with a statistically significant
+increase
+in risk of subsequent death at 30 days (in or out of hospital) compared with admission on week days
+Sat vs. Wed
+hazard ratio [HR] 1.11 (95% Confidence Interval [C.I] 1.14–1.18), P<0.0001
+Relative risk [RR] increase of 11%
+Sun vs. Wed
+HR 1.16 (1.09–1.13), P<0.0001
+RR increase of 16%
+Equates to 2 additional deaths per 1000 admissions compared to a week day*
+Week days
+Admission on Monday was associated with a statistically significant
+increase
+in risk of subsequent death at 30 days (in or out of hospital) compared with admission on other weekdays
+Mon vs. Wed
+HR 1.02 (1.01–1.04)
+RR increase of 2%
+Tues, Thurs and Fri vs. Wed
+No difference found
+Day of In-patient Stay
+Analysis
+Weekend days
+Being an in-patient on a weekend day was associated with a statistically significant
+reduction
+in the risk of death whilst in hospital
+Sat vs. Wed
+HR 0.95 (0.93–0.96), P<0.0001
+RR reduction of 5%
+Sun vs. Wed
+HR 0.92 (0.91–0.94), P<0.0001
+RR reduction of 8%
+Week days
+Being an in-patient on a week day was associated with the following differences in risk of death whilst in hospital
+Mon and Tues vs. Wed
+No significant difference
+Thurs vs. Wed
+HR 0.96 (0.95–0.98), P<0.0001
+RR reduction of 4%
+Fri vs. Wed
+HR 0.95 (0.93–0.96), P<0.0001
+RR reduction of 5%
+Subgroup Analyses
+Weekend Day vs Week Day Admission
+Hazard ratio of death on a weekend day was reduced compared to a week day irrespective of whether the admission occurred on a weekend day or a week day
+If a patient is admitted on a weekend day and later dies, they are most likely to die on a week day
+If a patient is admitted on a week day and later dies, they are most likely to die on a week day
+Elective vs Emergency
+Day of admission
+analysis
+Hazard ratio of death within 30 days of admission was
+increased
+for admissions on a weekend day for both elective and emergency patients compared to Wednesday
+The risk was greater for elective than for emergency patients
+Sun vs. Wed
+Emergency HR 1.14 (1.12–1.16)
+Elective HR 1.62 (1.50–1.75), RR increase of 62%
+4.4-fold increase in risk as an elective patient compared to emergency patient
+Day of in-patient stay
+analysis
+Hazard ratio of death on a Thursday, Friday, Saturday or Sunday was
+reduced
+compared to Wednesday for only emergency patients
+No statistical differences were identified for elective in-patients
+Early (within 3 days of admission) vs Late (between 3 and 30 days in-hospital)
+Data for early deaths are not provided
+Late deaths followed the same pattern as all in-hospital deaths with statistically significant
+increased
+hazard ratio on Saturday (1.07), Sunday (1.11) and Monday (1.04)
+Diagnostic categories
+For the 10 most frequent diagnostic categories
+6 were associated with
+increased
+weekend risk: stroke (7.5% of all in-hospital deaths), heart failure (3.9%), heart attack (3.2%), chronic obstructive pulmonary disease (3.1%), lung cancer (3.0%), acute kidney injury (2.6%)
+4 were not associated with increased weekend risk: pneumonia (14%), sepsis (3.0%), urinary tract infections (2.4%), fractured hips (2.3%)
+University vs Non-university
+Both university and non-university affiliated hospitals demonstrate the same pattern, with statistically significant increased hazard ratio on Saturday, Sunday and Monday for death at 30-days following admission
+Only Saturday demonstrated a difference between university and non-university affiliated hospitals
+University Hospitals: Sat vs. Wed—HR 1.16 (1.12–1.20)
+Non-university Hospitals: Sat vs. Wed—HR 1.10 (1.08–1.12)
+Authors’ Conclusions
+Being admitted at a weekend is associated with a significantly increased risk of death; but being an in-patient at the weekend is associated with a reduced risk of death
+Strengths
+Multi-centre including every NHS England trust
+Very large number of patients included
+Appropriate statistical analysis (Cox Regression Model) with attempt at controlling for known covariates
+Follow-up beyond hospital stay to include out-of-hospital deaths, which reduces bias
+Supportive analysis performed to confirm their results
+Included analysis of US healthcare centres as comparison
+Low loss to follow up
+Weaknesses
+The major weakness of this trial is that it shows association only. It cannot demonstrate a causal relationship and therefore any further interpretation is simply hypothesis generating. An important reminder that correlation should not imply causation.
+Absolute numbers of patients and the proportions within the subgroups (e.g emergency vs. elective) are not provided. This limits how much we can understand the results and how sure we can be about the conclusion.
+Whilst some of this data is represented in histograms, the absolute numbers are currently not available [SM: personal communication with Professor Pagano)
+Although the Cox Model has attempted to control for 14 covariates, these are over simplified and there are many others that are intrinsically related to mortality that are not included.
+It is not clear how the researchers adjusted severity of illness in their analysis. The adjustment for severity of illness could also have included other prognostic scores which are associated with mortality such as
+APACHE or SOFA scores
+, and whether the patient needed intensive care or organ support. This would allow a more robust comparison of severity of illness between patients admitted on weekdays compared to weekends.
+The authors suggest that the reason elective patients who are admitted on a Sunday have higher mortality rates than those admitted during the week, may be due to those patients having high risk operations on the Monday. As the Cox model could not account for these differences it suggests that the model missed a number of important aspects. Therefore, there may also be differences in baseline characteristics between emergency patients who are admitted at the weekend vs. weekday that the model did not account for; and these may be responsible for the differences in mortality found.
+The time of day that patients were admitted was not recorded. This may be more relevant than what day a patient was admitted as patients who get admitted overnight are likely to be very different to patients admitted during the day. Staffing levels are likely to be the same at 11pm on Wednesday as they are at 11pm on Sunday and therefore any differences in mortality in patients who are admitted overnight on a Sunday vs Wednesday are unlikely to be due to differences in staffing levels. Similarly, it would be useful if there was data comparing early death rate in those admitted on the weekend vs those admitted during the week.
+The Bottom Line
+This study confirms an association between weekend day admissions and increased mortality within 30-days. However, in-patients are less likely to die on a weekend day than on a week day.
+The many confounding variables limit the conclusions that can be drawn and it should be considered hypothesis generating only. It is likely that differences in baseline characteristics between patients who are admitted at the weekend vs. weekday, account for at least part of the mortality difference found.
+There is no evidence presented in this study to firmly support the hypothesis that increasing senior presence and elective weekend work will reduce mortality.
+Notes
+* This statistic is taken from NHS Choices review (see link below). It is derived from the in-hospital 30-day mortality rate of 1.3%. This is the average mortality across all days of the week. The calculation assumes this 1.3% to be the Wednesday baseline mortality rate (which it likely approximates) and multiplies this by the 1.16 hazard ratio for Sunday admissions. This equals a mortality rate of 1.5%. Per 1000 patients, this equates to 13 deaths on Wednesdays and 15 deaths on Sundays (2 extra per 1000 patients admitted). Without the absolute mortality values, which the paper does not provide, the assumption made in this calculation cannot be cross-checked and the statistic should be used with caution.
+External Links
+[article]
+Weekend hospitalization and additional risk of death: an analysis of inpatient data
+[further reading]
+Sunday hospital admissions ‘a bigger risk’. NHS Choices
+[further reading]
+Increased risk of death for patients admitted to hospital at weekend but patients less likely to die in hospital at the weekend. The Royal Society of Medicine
+[blog]
+We need to talk about Jeremy
+[further reading]
+What are the Costs and Benefits of Providing Comprehensive Seven-day services for Emergency Hospital Admissions?
+[further reading]
+The zombie statistic behind the push for seven day working
+Metadata
+Summary author:
+@stevemathieu75
+,
+@davidslessor
+and
+@duncanchambler
+Summary date: 31 July 2015
+Peer-review editor:
+@celiabradford
+Conflicts of interest
+SM, DC and DS are all intensive care doctors. SM is a consultant and DC and DS are senior registrars. All participate in a rota for weekend working, with the same number of consultants working on a weekend vs. weekday. All three run this website as a free educational resource, funding it themselves, and writing reviews on their days off.
+CB is a consultant in intensive care medicine in Australia

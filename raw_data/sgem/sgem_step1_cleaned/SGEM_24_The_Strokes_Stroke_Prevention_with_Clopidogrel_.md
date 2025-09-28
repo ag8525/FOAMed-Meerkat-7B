@@ -1,0 +1,66 @@
+---
+url: https://thesgem.com/2013/02/sgem24-the-strokes/
+title: "SGEM#24: The Strokes (Stroke Prevention with Clopidogrel)"
+date: 2013-02-17
+audio_url: https://media.blubrry.com/thesgem/content.blubrry.com/thesgem/SGEM24.mp3
+download_date: 2025-08-11
+---
+
+
+**Case Scenario:**A 68 year old man arrives to the emergency department (ED) with 15 minutes of tingling in his right arm and leg. He has a history of hypertension and previous transient ischemic attack (TIA). The examination is completely normal. He is already taking ASA 325mg daily.
+
+**Background:** Stroke is a leading cause of disability. It is the third most common cause of death in the USA. Twenty-five percent of ischemic strokes are lacunar. ASA has been the accepted standard of care. Dual therapy for cardiovascular problems like ACS and stenting has shown to be of benefit in other studies (ex: [CURE Trial](http://www.nejm.org/doi/full/10.1056/NEJMoa010746)). Clopidogrel in Unstable Angina to Prevent Recurrent Events
+
+---
+
+### **Question:**Should you add clopidogrel to prevent a stroke for someone already taking ASA?
+
+---
+
+**Reference:** Benavente et al. Effects of clopidogrel added to aspirin in patients with recent lacunar stroke: SPS3 Trial. [NEJM 2012](https://www.nejm.org/doi/full/10.1056/nejmoa1204133)
+
+* **Population:** 3020 patients from 82 centres in North America, Latin America, and Spain with recent symptomatic lacunar infarcts identified by MRI
+* **Intervention:** Clopidogrel 75mg and ASA 325mg
+* **Comparison:** Placebo and ASA 325mg
+* **Outcome:** Recurrent stroke (ischemic or intra-cranial hemorrhage)
+
+**Results:**
+
+* **NO BENEFIT (efficacy)**
+  + Recurrent CVA 2.5%/yr C+ASA vs. 2.7%/yr ASA (HR 0.92; 95% CI,0.72 to 1.16)
+  + Recurrent ischemic CVA (HR 0.82; 95% CI, 0.63 to 1.09)
+  + Disabling or fatal CVA (HR 1.06; 95% CI, 0.69 to 1.64)
+
+[![Screen Shot 2013-02-17 at 9.00.22 AM](https://i0.wp.com/thesgem.com/wp-content/uploads/2013/02/Screen-Shot-2013-02-17-at-9.00.22-AM.png?resize=727%2C535)](https://i0.wp.com/thesgem.com/wp-content/uploads/2013/02/Screen-Shot-2013-02-17-at-9.00.22-AM.png)
+
+* **MORE HARM (bleed and death)**
+  + Major hemorrhage doubled 2.1%/yr C+ASA vs. 1.1%/yr ASA (HR 1.97; 95% CI, 1.41 to 2.71; P<0.001)
+  + All-cause mortality increased n=113 C+ASAvs. n=77 ASA (HR 1.52; 95% CI, 1.14 to 2.04; P=0.004)
+
+[![Screen Shot 2013-02-17 at 9.00.38 AM](https://i0.wp.com/thesgem.com/wp-content/uploads/2013/02/Screen-Shot-2013-02-17-at-9.00.38-AM.png?resize=724%2C369)](https://i0.wp.com/thesgem.com/wp-content/uploads/2013/02/Screen-Shot-2013-02-17-at-9.00.38-AM.png)
+
+> **Authors’ Conclusions:** *“Among patients with recent lacunar strokes, the addition of clopidogrel to aspirin did not significantly reduce the risk of recurrent stroke and did significantly increase the risk of bleeding and death.”*
+
+**BEEM Commentary:** This was a large 2×2 factorial design randomized control trial. It showed adding clopidogrel to ASA did NOT reduce recurrent CVA and DID increase risk of bleed and death. The study was stopped early due to harm and lack of efficacy.
+
+---
+
+### **BEEM Bottom Line:** The risk of adding clopidogrel to patients already on ASA for secondary CVA prevention exceeds the benefits.
+
+---
+
+[![Screen Shot 2013-02-17 at 9.03.57 AM](https://i0.wp.com/thesgem.com/wp-content/uploads/2013/02/Screen-Shot-2013-02-17-at-9.03.57-AM.png?resize=589%2C224)](https://i0.wp.com/thesgem.com/wp-content/uploads/2013/02/Screen-Shot-2013-02-17-at-9.03.57-AM.png)
+
+**KEENER KONTEST:** Last weeks winner wasAlain-Remi Lajeunesse from Hamilton, Ontario. He knew that the BEEM conference in Hamilton was called SteelBEEM because of its large steel industry.
+
+Be sure to listen to the podcast to hear this weeks Keener Kontest question. Email your answer to **TheSGEM@gmail.com**. Use ***“Keener Kontest”*** in the subject line. First one to email me the correct answer will win a cool skeptical prize:)
+
+Don’t Panic, there is still time to sign up for [SteeleBEEM 2013](http://fhs.mcmaster.ca/emergmed/beem_dates.htm) Feb 21st and 22nd in Hamilton, Ontario. Just contact Teresa.
+
+---
+
+### Remember to be skeptical of anything you learn, even if you heard it on The Skeptics’ Guide to Emergency Medicine.
+
+---
+
+[![beem-logo](https://i0.wp.com/thesgem.com/wp-content/uploads/2012/11/beem-logo1.jpg?resize=408%2C92)](https://i0.wp.com/thesgem.com/wp-content/uploads/2012/11/beem-logo1.jpg)

@@ -1,0 +1,133 @@
+---
+source: The Bottom Line
+title: CRASH-3
+original_url: https://www.thebottomline.org.uk/summaries/crash-3/
+scrape_date: 2025-07-17
+summary_author: George Walker @hgmwalker89
+summary_date: 2019-10-31
+peer_review_editor: @davidslessor
+summary: |
+  The CRASH-3 trial investigated the effects of tranexamic acid (TXA) on mortality and morbidity in patients with traumatic brain injury (TBI) when administered within 3 hours of injury. This large, randomized, placebo-controlled trial included 12,737 patients across 175 hospitals in 29 countries. The primary outcome was 28-day in-hospital mortality associated with head injury, which showed no significant difference between the TXA and placebo groups. However, a subgroup analysis indicated a potential benefit in patients with mild to moderate TBI. The study concluded that TXA is safe for use in TBI, but its impact on reducing mortality within 28 days is not statistically significant. The trial's strengths include its large sample size and diverse settings, while limitations involve potential biases in outcome classification and the primary outcome's sensitivity. Further research is needed to explore long-term outcomes and specific patient subgroups.
+
+---
+
+# Effects of Tranexamic Acid on Death, Disability, Vascular Occlusive Events, and Other Morbidities in Patients with Acute Traumatic Brain Injury (CRASH-3)
+
+## Clinical Point
+In patients with traumatic brain injury (TBI), does the administration of tranexamic acid (TXA) within 3 hours of injury, compared with placebo, reduce head injury-associated in-hospital mortality within 28 days?
+
+## Background
+- Limited trials have evaluated TXA in TBI, a common cause of mortality and morbidity.
+- TICH-2 studied TXA in spontaneous intracranial hemorrhage, not traumatic bleeds.
+- Previous small trials in India, Colombia, and Thailand (n=508) showed no statistical improvement in mortality.
+- A meta-analysis indicated a reduction in mortality (risk ratio 0.63, CI 0.40–0.99).
+- A smaller recent trial in the USA (ROC-TXA) is yet to be fully published.
+
+## Design
+- Randomised, placebo-controlled trial
+- Random allocation via lowest numbered treatment pack
+- Identical pack labels for TXA and placebo; contents verified by random testing
+- Blinded participants and study staff
+- Initial power calculations required 10,000 patients for 90% power to detect a 15% relative reduction in mortality
+- Sample size increased to 13,000 due to changes in primary outcome and recruitment criteria
+- Pre-specified subgroups: head injury severity, time to TXA, age
+- Multi-variable model controlled for age, systolic BP, TBI severity
+- Primary outcome assessed by responsible clinician; adverse events required radiographic or post-mortem evidence
+- Outcome data collected at day 28, discharge, or death
+- 19% of hospital records monitored, including 67% of head injury deaths
+- Intention-to-treat analysis
+
+## Setting
+- 175 hospitals in 29 countries
+- Study period: July 2012 to January 2019
+
+## Population
+
+**Inclusion Criteria:**
+- Adults with TBI within 3 hours of injury (changed from 8 hours in Sep 2016)
+- GCS ≤12 or intracranial bleeding on CT
+- No major external bleeding
+- Clinician uncertainty regarding TXA appropriateness
+
+**Exclusion Criteria:**
+- None listed
+
+**Enrollment:**
+- 12,737 patients randomised
+  - 6,406 to TXA (4,649 randomised < 3 hours)
+  - 4,613/4,649 analysed (13 withdrew consent, 7 data unavailable, 29 lost to follow-up)
+  - 6,331 to placebo (4,553 randomised < 3 hours)
+  - 4,514/4,553 analysed (19 withdrew consent, 14 data unavailable, 25 lost to follow-up)
+- Baseline characteristics well-matched
+
+## Intervention
+
+**TXA Group:**
+- 1g TXA over 10 minutes, followed by 1g IV infusion over 8 hours
+
+## Control
+
+**Placebo Group:**
+- 0.9% NaCl, otherwise identical
+
+## Outcomes
+
+### Primary Outcome
+- 28-day in-hospital head injury-associated mortality (no significant difference)
+  - TXA: 855/4,613 (18.5%)
+  - Placebo: 892/4,514 (19.8%)
+  - RR 0.94 (95% CI 0.86–1.02)
+  - ARR 1.23% (95% CI -0.39–2.84%)
+
+### Pre-specified Subgroup Analysis
+- Excluding GCS 3 or bilateral unreactive pupils (no significant difference)
+  - TXA: 485/3,880 (12.5%)
+  - Placebo: 525/3,757 (14.0%)
+  - RR 0.89 (95% CI 0.80–1.00)
+  - ARR 1.47% (95% CI -0.05–2.99%)
+
+- Mild to Moderate TBI (GCS 9-15) (significantly reduced in TXA group)
+  - TXA: 166/2,846 (5.8%)
+  - Placebo: 207/2,769 (7.5%)
+  - RR 0.78 (95% CI 0.64–0.95)
+  - ARR 1.64% (95% CI 0.34–2.95%)
+
+### Secondary Outcomes
+- Timing of TXA:
+  - <1 hr RR 0.96 (95% CI 0.79–1.17)
+  - 1-3 hr RR 0.93 (95% CI 0.85–1.02)
+  - Early treatment more effective in mild-moderate injury (p=0.005)
+- No statistical difference in high vs low/middle-income countries
+- Disability Rating Scale similar (TXA 4.99 vs placebo 5.03)
+- No increased risk of vaso-occlusive events or seizures
+
+## Authors’ Conclusions
+TXA is safe in TBI, and treatment within three hours reduces head injury-associated deaths.
+
+## Strengths and Weaknesses
+- **Strengths**
+  - Large, multi-centre trial across diverse countries enhances external validity
+  - Well-balanced baseline characteristics minimize selection bias
+  - Randomisation and blinding protocols reduce detection bias
+  - Minimal loss to follow-up reduces attrition bias
+  - Pragmatic design allows timely intervention access
+  - Consideration of patient-focused outcomes
+- **Weaknesses**
+  - Primary outcome may miss certain patient cohorts
+  - Some deaths beyond 28 days may be TBI-related
+  - Classification of primary outcome by clinician may introduce bias
+  - No mention of pre-hospital interventions common to both groups
+  - Conclusion does not align with statistical analysis (95% CI crosses zero)
+
+## Bottom Line
+This large, well-designed trial addresses a Point with limited evidence. TXA appears safe but does not significantly reduce in-hospital TBI-associated death at 28 days when administered within 3 hours. Further long-term data is anticipated.
+
+## External Links
+- **CRASH-2 Trial**
+- **Pulm Crit:** Tranexamic Acid for Traumatic Brain Injury (CRASH-3)
+- **Prehospital TXA Use for TBI**
+- **St Emlyn’s:** JC: Tranexamic Acid in Head Injury (CRASH-3 results)
+- **EM Nerd:** The Case of the Indecisive Antidote
+- **SGEM#270:** CRASH-3 TXA for Traumatic Head Bleeds?
+- **badEM:** Crash 3
+```

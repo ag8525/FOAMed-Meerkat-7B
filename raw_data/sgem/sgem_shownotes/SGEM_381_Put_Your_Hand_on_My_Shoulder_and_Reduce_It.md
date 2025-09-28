@@ -1,0 +1,194 @@
+---
+url: https://thesgem.com/2022/11/sgem381-put-your-hand-on-my-shoulder-and-reduce-it/
+title: "SGEM#381: Put Your Hand on My Shoulder and Reduce It"
+date: 2022-11-01
+audio_url: https://media.blubrry.com/thesgem/content.blubrry.com/thesgem/SGEM381.mp3
+download_date: 2025-08-11
+---
+**Date:** October 27th, 2022
+
+**Reference:** Hayashi et al. Comparative efficacy of sedation or analgesia methods for reduction of anterior shoulder dislocation: A systematic review and network meta-analysis. [AEM October 2022](https://onlinelibrary.wiley.com/doi/abs/10.1111/acem.14568)
+
+**Guest Skeptic:**Dr. Justin Morgenstern is an emergency physician and the creator of the #FOAMed project called [First10EM.com](http://www.First10EM.com) 
+
+**Case:** A 19-year-old man presents to the emergency department (ED) with his first time anterior should dislocation after trying to recreate one of his favourite scenes in the movie [Lethal Weapon](https://www.imdb.com/title/tt0093409/). He is in significant pain, but your charge nurse informs us that, like most days since the pandemic started, the department is completely full of admitted patients, and there is nowhere safe to perform a procedural sedation, let alone have the staff to do it. The patient asks, through clenched teeth, whether there are any other options to get his shoulder back in.
+
+![](https://i0.wp.com/thesgem.com/wp-content/uploads/2022/10/NearFairBactrian-size_restricted.gif?resize=579%2C251&ssl=1)
+
+**Background:** We have covered shoulder issues a few times on the SGEM. There was an episode looking at diagnosing rotator cuff injuries ([SGEM#74](https://thesgem.com/2014/05/sgem74-broken-arms-diagnosing-rotator-cuff-disease/)), the best position post-dislocation immobilization ([SGEM#121](https://thesgem.com/2015/05/sgem121-internal-or-external-shoulder-immobilization-it-dont-matter-to-me/)) and using point of care ultrasound (POCUS) to diagnose shoulder dislocations ([SGEM#288](https://thesgem.com/2020/03/sgem288-crazy-game-of-pocus-to-diagnose-shoulder-dislocations/)).
+
+![](https://i0.wp.com/thesgem.com/wp-content/uploads/2015/05/dislocated-shoulders.jpg?resize=300%2C240&ssl=1)The shoulder joint has the widest range of motion of any joint in the human body. This makes it very useful and very susceptible being dislocated. The vast majority of shoulder dislocations are anterior. Young active men are at greatest risk for dislocating their shoulder.
+
+There is also a wide range of options to diagnose shoulder dislocations (clinically, POCUS, x-ray) and dozens of reduction techniques. Some clinicians perform reductions without any analgesics at all, while others choose from a variety of options, including peripheral nerve blocks, intra-articular anesthesia, and full procedural sedation.
+
+Procedural sedation might represent one of the greatest advancements for the practice of emergency medicine, allowing us to perform a large variety of necessary but painful procedures without causing our patients pain. Although minor adverse events, such as brief apnea or hypoxia, are common, significant adverse events are very rare, and the benefits are clear (Bellolio 2016). However, for most departments, procedural sedation represents a logistical challenge that can increase a patient’s length of stay.
+
+Peripheral nerve blocks (PNBs) can be very effective at controlling pain, but require a degree of practitioner skill. The use of ultrasound to guide these procedures has increased their popularity in recent years. There have been a few randomized control trials (RCTs) of peripheral nerve blocks for shoulder dislocation, but without definitive results (Raeyat Doost 2017; Blaivas 2011).
+
+Intra-articular anesthetic (IAA) injections are another option, and seem like they should be incredibly easy, considering that the humeral head is not sitting in the glenoid fossa, and so the joint is wide open and supposedly easy to access. Intra-articular injection has been compared with procedural sedation (PS) for shoulder dislocation, with some potential benefits (Wakai 2011).  However, in one study, emergency physicians missed the joint space almost half the time when performing landmark-based shoulder injections (Omer 2021).
+
+Therefore, uncertainty remains about the ideal technique to provide analgesia and/or sedation for the reduction of anterior shoulder dislocations.
+
+---
+
+### **Clinical Question:** What is the safety and efficacy of intravenous sedation, intra-articular injection, and peripheral nerve block for the reduction of anterior shoulder dislocations.
+
+---
+
+**Reference:** Hayashi et al. Comparative efficacy of sedation or analgesia methods for reduction of anterior shoulder dislocation: A systematic review and network meta-analysis. [AEM October 2022](https://onlinelibrary.wiley.com/doi/abs/10.1111/acem.14568)
+
+* **Population:** RCTs that assessed sedation of analgesia methods for the reduction of anterior shoulder dislocations diagnosed on either physical exam or x-ray in patients older than 15 years of age.
+  + **Exclusions:** Allergies to study medications, multiple traumas, fractures (except Hill-Sachs and Bankart lesions), hemodynamic instability, or respiratory distress.
+* **Intervention:** Intravenous (IV) sedation, intra-articular anesthetic (IAA) injection, and peripheral nerve blocks (PNB).
+* **Comparison:** Patients who received either a placebo or no sedation.
+* **Outcome:**
+  + **Primary Outcome:** There were three primary outcomes – Immediate success rate, patient satisfaction, and ED length of stay (LOS)
+  + **Secondary Outcomes**: Adverse events, pain score, time required for reduction, number of reduction attempts, and total success rate of the reduction.
+
+![](https://i0.wp.com/thesgem.com/wp-content/uploads/2022/10/swrs-prg.png?resize=208%2C300&ssl=1)This is an [SGEMHOP](http://thesgem.com/the-sgem-hot-off-the-press/) episode. Normally we have one of the authors on the show. This time we have the corresponding author who is an orthopedic trauma surgeon in Japan. Dr. Yamamoto was kind enough to give a shout out to his co-investigators and send responses to our ten nerdy questions. I can understand how hard it would be to talk nerdy in another language.
+
+Dr. Yamamoto’s co-authors incliuded Minoru Hayashi, Kenichi Kano, Naoto Kuroda, Akihiro Shiroshita and Yuki Kataoka who are member of Scientific Research WorkS Peer Support Group ([***SRWS***–***PSG***](https://pubmed.ncbi.nlm.nih.gov/?term=SRWS+PSG+systematic+review*&sort=date)). SRWS-PSG is a scientific research group mainly conducting systematic reviews
+
+> **Authors’ Conclusions:** *“The results of our NMA indicated that three sedation or analgesia methods (IVS, IAA, and PNB) might result in little to no difference in the success rate of reduction and patient satisfaction. IAA and PNB had no adverse respiratory events.”*
+
+**![](https://i0.wp.com/thesgem.com/wp-content/uploads/2014/04/checklist-cartoon.gif?resize=150%2C150&ssl=1)Quality Checklist** **for Therapeutic Systematic Reviews**:
+
+1. The clinical question is sensible and answerable. Yes
+2. The search for studies was detailed and exhaustive. Yes
+3. The primary studies were of high methodological quality. No
+4. The assessment of studies were reproducible. Yes
+5. The outcomes were clinically relevant. Yes
+6. There was low statistical heterogeneity for the primary outcomes. **Unsure**
+7. The treatment effect was large enough and precise enough to be clinically significant. No
+
+**Results:** After full-text review, they identified 16 RCTs that fulfilled their inclusion and exclusion criteria. These trials encompass a total of 957 patients. Of the 16 studies, 11 compared IV sedation to intra-articular injection, four compared nerve blocks to sedation, and one compared intra-articular injection to nothing.
+
+---
+
+### **Key Result:** There were no statistical differences in immediate success rate between techniques, uncertainty regarding patient satisfaction and intra-articular anesthetic had the shortest length-of-stay.
+
+---
+
+* **Primary Outcomes:** 
+  + **Immediate Success:** There were no statistical differences
+    - IAA vs IVS: RR 0.93, 95% CI 0.84 to 1.02
+    - PNB vs IVS: RR 1.13, 95% CI 0.84 to 1.52
+  + **Patient Satisfaction:** The evidence was uncertain, with no statistical differences
+    - IAA vs IVS: SMD -0.47, 95% CI -1.41 to 0.48
+    - PNB vs IVS: SMD -0.60, 95% CI -1.43 to 0.23
+  + **ED Length of Stay**: The evidence was classified as very uncertain, but IAA had statistically shorter length of stays than IVS, whereas there was not a statistical difference between PNB and IVS
+    - IAA vs IVS: MD -107 minutes, 95% CI -203 to -13
+    - PNB vs IVS: SMD -26 minutes, 95% CI -149 to 96
+
+* **Secondary Outcomes:**
+  + **Adverse events:** Two of the studies reported no adverse events. Respiratory events were the most common in the IVS group. Psychological agitation and drowsiness were reported in the IAA group, and mild local anesthetic systemic toxicity was reported in the PNB group.
+  + **Pain score**: IAA might be lower than PNB (SMD -1.8), but there were not differences noted between either IAA or PNB and IVS.
+  + **Time for reduction:** Both IAA and PNB might take longer than IVS (by 5 and 15 minutes respectively).
+  + **Number of reduction attempts:** Very uncertain, but no clear differences between the groups.
+  + **Total success rate of reduction:** No clear differences.
+
+![](https://i0.wp.com/thesgem.com/wp-content/uploads/2015/04/Screen-Shot-2015-04-25-at-3.11.12-PM.png?resize=889%2C162&ssl=1)
+
+We asked Dr. Yamamoto and his team of co-authors ten nerdy questions. They sent their written responses which are listed below:
+
+**1) Uncertainty:** Rather than just focusing on statistical significance, you use the language of uncertainty throughout your results, with almost all the results being very uncertain. This language is not used in all meta-analyses. Can you comment on why you phrased your results this way?
+
+> ![](https://i0.wp.com/thesgem.com/wp-content/uploads/2022/10/swrs-prg.png?resize=208%2C300&ssl=1)*It is a very important point. We used “uncertain” as a result of evaluating the confidence of the evidence using the* [CINeMA](https://training.cochrane.org/resource/cinema-confidence-nma) *tool. The confidence is the credibility of results from NMA and covers six domains: (i) within-study bias, (ii) reporting bias, (iii) indirectness, (iv) imprecision, (v) heterogeneity, and (vi) incoherence [[Nikolakopoulou et al](https://pubmed.ncbi.nlm.nih.gov/32243458/)**PLoS**Med 2020].**The concept of imprecision includes statistical significance. We believe that our evaluation using confidence is more appropriate in assessing the credibility of the evidence.*
+>
+> ![](https://i0.wp.com/thesgem.com/wp-content/uploads/2022/10/Yamamoto.png?resize=150%2C150&ssl=1)
+>
+> Dr. Yamamoto
+>
+> *Considering both certainty of evidence and effect size are important for readers. Therefore, clinicians should not judge the effectiveness of interventions based on effect size alone, but should also consider the certainty of the evidence.*
+
+**2) Accounting for Bias in the Meta-Analyses:** I always find it difficult to appropriately account for the potential bias of individual studies when reading a meta-analysis. If I wouldn’t trust the results of a single RCT, it doesn’t help to mix it in with a bunch of other trials with similar methodologic issues. This is the classic GIGO – garbage in garbage out – problem. You perform a secondary analysis that focuses only on studies with the lowest risk of bias, and in that analysis IV sedation actually was statistically better than intra-articular injections. How do you account for bias in a meta-analysis, and which of these outcomes do you trust?
+
+> *A meta-analysis including only RCTs with low risk of bias is more reliable than the others. However, we included too few RCTs with low risk of bias to conduct NMA.*
+>
+> *In the sensitivity analysis of NMA in our review, IAA resulted in a slightly reduced immediate success rate compared with sedation in the low ROB studies (risk ratio [RR] 0.85, 95% CI 0.77 to 0.94; Figures S2e). It was consistent with the main results (Figure 2). However, in the sensitivity analysis of pairwise MA, the effect size was not significantly different (RR 0.96, 95% CI 0.80 to 1.14; Figures S3h), meaning that the results were not robust. In addition, the confidence intervals of the RR were 0.5 to 1.5, meaning that the efficacy was no or trivial or small.*
+>
+> *The confidence rating in our review was low (Table S5a). Therefore, the IAA method might result in little to no difference in immediate success rate compared with sedation.*
+
+**3) Network Meta-Analysis:** One of the weaknesses of network meta-analyses is they do not directly compare one treatment to another. How much confidence should we have in your results because of this limitation?
+
+> *NMA can directly compare one treatment to the other treatments if the original study shows data between the two groups. In addition, NMA can indirectly compare one treatment to the other treatments without the data of direct comparison. When direct and indirect results are not consistent, we regard the results of NMA as not credible. We have already shown confidence of our results.*
+>
+> *The results in NMA with low risk of bias are reliable to some degree. However, it is better for readers to understand the limitations of NMA, such as heterogeneity among studies* ([Phillips et al Eye 2022](https://pubmed.ncbi.nlm.nih.gov/35145277/)).
+
+**4) Not All Procedural Sedation is Created Equal.** Although I don’t believe the claim is verified, we often state that the success of a shoulder reduction lies more in the hands of the anesthetist than in the clinician performing the procedure. Appropriate muscle relaxation makes the procedure simple, while under-sedation can doom you to failure. Furthermore, the choice of sedative may impact adverse events. In my career, I have essentially only used ketamine and propofol as sedatives. This systematic review accepted all types and doses of sedatives, but the studies were essentially all of a combination of benzodiazepine and opioid which is almost never seen in modern practice. Might that impact the results?
+
+> *As you pointed out, accepting all types and doses of sedatives is not clinically appropriate and should be separated. In addition, since our review included old studies without the restriction of the published period, our results included sedatives different from modern practice.*
+>
+> *Recently, ketamine and propofol were recommended as procedural sedation and analgesia in the emergency department* ([Godwin et al Ann Emerg Med 2014](https://pubmed.ncbi.nlm.nih.gov/24438649/)).*When older drugs are included in NMA, it is possible to estimate the indirect effect of modern sedatives against older drugs as the advantage of NMA. The judgment does not affect the estimated efficacy of new drugs.*
+
+**5) Clinician Skill May Vary.** Much like the quality of procedural sedation may vary from patient to patient, the skill of individual clinicians may have significant impact on the success of intra-articular injections and nerve blocks. For example, all of the intra-articular injections were done using landmark technique, and the pain scores varied dramatically from 0/10 in one study to 7/10 in another.
+
+> *Individual clinicians’ sedation or analgesia skill may impact the success reduction. However, the necessary degree is the moderate required during reduction for dislocation, not complete analgesia and sedation* [(Miller et al J Bone Joint Surgery Am 2002](https://pubmed.ncbi.nlm.nih.gov/12473699/)*, [Hames et al CJEM 2011](https://pubmed.ncbi.nlm.nih.gov/22436475/)).**Therefore, we assume that the impact, if any, will not be large.*
+
+**6) Varying Reduction Techniques:** Although I am not away of any literature that would indicate that any reduction technique is superior to any other, the use of different techniques could be a confounder in these studies. There are some techniques that I would generally avoid when patients are awake, and other techniques that perform better when patients are co-operating, so one might guess that the techniques would vary between groups. Were the techniques reported, and do you think that might impact the results?
+
+> *In included studies, the most common reduction technique was traction-countertraction (Table 1). A systematic review on reduction methods reported that there was no difference in overall reduction success rate between any of the groups (traction-countertraction, leverage, and scapular manipulation)* ([Dong et al](https://pubmed.ncbi.nlm.nih.gov/32607775/)Our J Trauma Emerg Surg 2021)*.* *As a result, we presume that the impact, if any, won’t be substantial.*
+
+**7) Adverse Events:** Although the definitions were variable enough that you decided not to perform a meta-analysis, there seem to be significantly more adverse events in the intravenous sedation group. However, not all adverse events are created equal. Prior sedation literature has often considered brief apnea, as seen by capnography, with no change in oxygen saturation as an adverse event, despite the fact that absolutely nothing bad happened to the patient. We know that true adverse events are extremely rare with procedural sedation, but they do occur. Do you have a sense of whether the adverse events seen in these trials were events that clinicians or patients would actually care about?
+
+> *We defined adverse events as ‘any untoward medical occurrence that may present during treatment with a pharmaceutical product but which does not necessarily have a causal relationship with this treatment’ (*[Edward and Biriell Drug Safety 1994](https://pubmed.ncbi.nlm.nih.gov/8011183/)*).**The number of adverse events is underestimated when considering those that the assessors were not aware of or could not evaluate ([Hanlon et al Lancet Healthy Longev 2021](https://pubmed.ncbi.nlm.nih.gov/34240062/)).*
+>
+> *As you pointed out, there were a few clinically severe adverse events in our review (Table 2). Since IAA and PNB had no adverse respiratory events, we concluded that sedation is not the first option in terms of adverse events.*
+
+**8) Impact of Individual Hospital Systems**: I have worked in many different hospital systems, and the ease of procedural sedation varies dramatically. In some systems, it can be done almost immediately for all patients. In other patients, it is next to impossible, with extremely long delays. The system in which these studies were performed could significantly impact the results seen. For example, although the intra-articular injections had statistically shorted ED lengths of stays, the mean ED length of stay in the procedural sedation group seems very long, with a minimum of three hours and the longest length of stay reaching eight hours. COVID has hurt patient flow a little, but I had never seen ED lengths of stay that long for simple anterior shoulder dislocations prior to the pandemic. (I wonder whether some of these departments were adhering to unnecessary NPO times prior to sedation, which would make the sedation group look artificially worse.) Can you comment on how variation in health system might have impacted your result, and also how those same variation might impact your application of the results.
+
+> *Variations in health system might influence on our results, especially patient satisfaction and ED length of stay. Health system vary in each country and hospital. Please see our response to No. 9 in your questions.*
+
+**9) Balancing Times:** When talking about length of stay and efficiency, I have trouble directly comparing these techniques. A procedural sedation might take more time for the patient and the department, as it can be difficult to gather all the needed resources. However, from a physician’s standpoint, the sedation is incredibly quick. On the other hand, when I perform peripheral nerve blocks, I have to spend a lot more time with the patient, which means that other patients wait longer to be seen. I imagine the answer will be specific to each individual department, but I wonder how you balance those conflicting interests?
+
+> *Our results showed that sedation was not recommended, considering effectiveness and safety.*
+>
+> *We think that the following situation is simple, smooth, and ideal; An ER doctor performs analgesia (IAA) for a reduction in an emergency room after diagnosis of shoulder dislocation, reduces the dislocation at one attempt, and judges discharge of the patient soon.*
+
+**![](https://i0.wp.com/thesgem.com/wp-content/uploads/2021/07/EBM-Venn2-e1639267234801-300x216.png?resize=300%2C216&ssl=1)10) The complete EBM picture:** Critical appraisal often gets really focused on methodology and statistics, but evidence-based medicine is about a lot more than that. When defined by David Sacket, evidence-based medicine must account for both the values of our patients, and for clinical judgement. However, we rarely talk about the impact of clinical judgement in journal club type settings. I was wondering, having spent a lot of time on this topic, if you could talk about factors that might impact your clinical judgement when deciding on the best approach to sedation and analgesia for shoulder  dislocations?
+
+> *Recently, I have selected PNB for pain relief because PNB is trendy now. However, PNB resulted in a long stay in the emergency room. In addition, our review reported that IAA might have a lower pain score than PNB.*
+>
+> *Therefore, I changed my practice after our review. Clinically, IAA is a better choice because of its simplicity, low incidence of adverse events, and a short stay in the emergency room. In contrast, sedation is a good alternative for uncooperative patients, patients with allergies to local anesthetics, and patients who have difficulty in reduction, as sedation facilitates the procedure for the operators.*
+
+**Comment on Authors’ Conclusion Compared to SGEM Conclusion:** We agree with the authors’ conclusion that the available data does not suggest a difference in rate of reduction success or patient satisfaction. It is important to emphasize the uncertainty remaining based on this data, and the need to high quality trials to guide care.
+
+---
+
+### **SGEM Bottom Line:** It is important to embrace the full definition of EBM. Although there isn’t a clear winner based on the literature, clinicians will have to use their clinical judgement to determine which approach might be best in their healthcare setting, and for their specific patients. Furthermore, it will be important to determine patient values, and involve them in shared decision making.
+
+---
+
+**Case Resolution:** Although the patient is afraid of needles, he decides that an intra-articular injection is preferable to waiting for a sedation bed. The procedure goes smoothly, and the shoulder slips back in before you even start your reduction technique.
+
+![](https://i0.wp.com/thesgem.com/wp-content/uploads/2019/01/Justin-Morgenstern-e1547853552685-150x150.jpg?resize=150%2C150&ssl=1)
+
+Dr. Justin Morgenstern
+
+**Clinical Application:** There is significant uncertainty with regards to the best approach for sedation and analgesia for the reduction of anterior should dislocations. Intra-articular anesthesia, peripheral nerve blocks, and intravenous sedation are all reasonable approaches.
+
+**What Do I Tell My Patient?** You have a shoulder dislocation, which means you need my help to get you arm back into your shoulder joint. We have many options. For some people, there are techniques that cause almost no pain, and therefore we can try to reduce your shoulder without any pain medication at all. However, there are also many options to control your pain, including an injection into the joint itself, an injection that will numb the nerves to the shoulder, and intravenous medication that will put you to sleep do you don’t feel or remember anything.
+
+**![](https://i0.wp.com/thesgem.com/wp-content/uploads/2022/11/4-2.png?resize=150%2C150&ssl=1)Keener Kontest:**Last weeks’ winner was Madison Osentoski. She knew [Thumper](https://en.wikipedia.org/wiki/Thumper_(Bambi)) Is the rabbit from the Disney movie [Bambi](https://www.imdb.com/title/tt0034492/) that shares the name of the automated [CPR device](https://www.michiganinstruments.com/automated-cpr/thumper/) that was first manufactured in the mid 1970s.
+
+Listen to the SGEM podcast this week to hear the keener question. If you think you know the answer then send and email to [TheSGEM@Gmail.com](mailto:TheSGEM@Gmail.com) with “*keener*” in the subject line. The first correct answer will receive a cool skeptical prize.
+
+**![](https://i0.wp.com/thesgem.com/wp-content/uploads/2018/03/AEM-Podcasts-logo2-1.png?resize=300%2C192&ssl=1)SGEMHOP:**Now it is your turn SGEMers. What do you think of these REaL issues in the ED with pediatric pain management? What questions do you have Emily? Tweet your comments using #SGEMHOP or post your feedback on the SGEM blog. The best social media feedback will be published in AEM.
+
+---
+
+### **Remember to be skeptical of anything you learn, even if you heard it on the Skeptics’ Guide to Emergency Medicine.**
+
+---
+
+**References:**
+
+Bellolio MF, Gilani WI, Barrionuevo P, Murad MH, Erwin PJ, Anderson JR, Miner JR, Hess EP. Incidence of Adverse Events in Adults Undergoing Procedural Sedation in the Emergency Department: A Systematic Review and Meta-analysis. Acad Emerg Med. 2016 Feb;23(2):119-34. doi: 10.1111/acem.12875. Epub 2016 Jan 22. PMID: 26801209; PMCID: PMC4755157.
+
+Raeyat Doost E, Heiran MM, Movahedi M, Mirafzal A. Ultrasound-guided interscalene nerve block vs procedural sedation by propofol and fentanyl for anterior shoulder dislocations. Am J Emerg Med. 2017 Oct;35(10):1435-1439. doi: 10.1016/j.ajem.2017.04.032. Epub 2017 Apr 14. PMID: 28460809.
+
+Blaivas M, Adhikari S, Lander L. A prospective comparison of procedural sedation and ultrasound-guided interscalene nerve block for shoulder reduction in the emergency department. Acad Emerg Med. 2011 Sep;18(9):922-7. doi: 10.1111/j.1553-2712.2011.01140.x. Epub 2011 Aug 30. PMID: 21883635.
+
+Wakai A, O’Sullivan R, McCabe A. Intra-articular lignocaine versus intravenous analgesia with or without sedation for manual reduction of acute anterior shoulder dislocation in adults. Cochrane Database Syst Rev. 2011 Apr 13;2011(4):CD004919. doi: 10.1002/14651858.CD004919.pub2. PMID: 21491392; PMCID: PMC8859829.
+
+Omer T, Perez M, Berona K, Lam CN, Sajed D, Brandon C, Falkenstein J, Kang T, Mailhot T. Accuracy of Landmark-guided Glenohumeral Joint Injections as Assessed by Ultrasound in Anterior Shoulder Dislocations. West J Emerg Med. 2021 Nov 5;22(6):1335-1340. doi: 10.5811/westjem.2021.3.50266. PMID: 34787559; PMCID: PMC859769

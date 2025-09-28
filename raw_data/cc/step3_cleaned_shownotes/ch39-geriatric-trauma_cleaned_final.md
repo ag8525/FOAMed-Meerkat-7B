@@ -1,0 +1,260 @@
+```yaml
+title: "CrackCast Episode 186: Geriatric Trauma"
+url: "https://canadiem.org/crackcast/"
+date: 2016-09
+source: "CanadiEM – CrackCast"
+original_file: "Ch.39 Geriatric Trauma.pdf"
+summary: |
+  Geriatric trauma is increasingly prevalent and associated with higher morbidity and mortality, necessitating specialized management strategies. Falls are the leading cause of injury, with other mechanisms including motor vehicle collisions and elder abuse. Key risk factors for falls include cognitive impairment, sensory deficits, and medication effects. Physiological changes in the elderly, such as decreased functional reserve and comorbidities, complicate trauma management, requiring modifications in assessment and treatment. Vital signs may be misleading, and a low threshold for imaging is advised. Management includes careful airway control, cautious fluid resuscitation, and reversal of anticoagulation. Specific injuries like traumatic brain injury and thoracic trauma require prompt recognition and intervention, with a focus on preventing complications such as cerebral hypoxia and pneumonia. End-of-life discussions are crucial given the poor prognosis associated with severe injuries and comorbidities.
+```
+
+## Overview
+
+### Rosens in Perspective
+
+- GERIATRIC trauma is on the rise.
+- Have increased morbidity and mortality.
+- ATLS recommends that patients older than 55 yrs. be transferred to a trauma centre regardless of injury severity score.
+- Mechanism of injury:
+  - Falls - #1
+  - MVCs
+  - Ped. struck
+  - Elder abuse
+  - Suicide attempts
+  - Burns
+
+- We need to think about whether a medical problem CAUSED the crash!
+
+## Core Questions
+
+### 1) 5 Risk Factors for falls in the elderly?
+
+So many to list! Think about it going from head to toe….
+
+1. Cognitive impairment
+2. Vision and hearing loss
+3. Impaired thirst mechanism - dehydration, orthostatic hypotension
+4. Reduced respiratory reserve
+5. Cardiac disease - arrhythmias, poor CO, etc.
+6. Osteophyte-arthritis anywhere - joint pain, immobility, decreased ROM
+7. Loss of fine motor skills and sensation
+8. Pharmacy - medications affecting cognition, balance, cardiac function
+
+### 2) What anatomic and physiologic changes in the elderly patient are important for the management of trauma in the elderly patient. (changes in the CVS, CNS, reap, MSK, skin) Explain why these are important?
+
+Distinguishing principles of disease:
+
+- Effects of aging:
+  - Decreased Functional residual reserve [organs have less capacity?]
+  - Multiple comorbidities
+- Decreased physiologic reserve:
+  - Less able to compensate for hypovolemia and stress
+  - Tissue hypoxia and organ failure
+- Comorbidities:
+  - Arthritis / CAD / COPD / CVA / DM
+- Effect of medications:
+  - 30% have >5 meds including ASA and BB and hypnotics
+
+Now let's go through the basic trauma assessment approach - and what specific things differ with our geriatric patients.
+
+Modifications of the Trauma Assessment of older adults:
+
+- Same primary and secondary survey approach
+- Usual vital sign abnormalities are absent:
+  - Hypotension / tachycardia / pain
+  - Normal vital signs should NOT be reassuring
+
+Primary assessment and resuscitation:
+
+**AIRWAY**
+
+- Have multiple predictors of difficult airway:
+  - Dentures, stiff neck
+- Consider early intubation
+- Consider VL rather than DL given reduced Cspine and jaw mobility
+  - “Denture less ness” will help you out here!!
+- At higher risk for hypotension
+- Reduced dosages of RSI meds (3/4 to 1/2 dose)
+- Careful use (if any at all) of succinylcholine given risk for hyperkalemia
+  - Rocuronium 1mg/kg is preferred
+
+**BREATHING**
+
+- High flow O2 recommended given reduced FRV
+- More prone to tire easily
+
+**CIRCULATION**
+
+- Blunted stress response with less physiologic reserve and medications alter normal response to shock
+- Normotension may indicate hypotension given baseline hypertension.
+- Control bleeding (e.g. scalp)
+- Catheter to monitor urine output
+- Small 500 ml boluses with reassessments, GIVE BLOOD asap if needed
+
+**REVERSAL of anticoagulation**
+
+- PCCs
+- FFP
+- Vit K.
+- Octaplex.
+
+**DISABILITY**
+
+Assessment for TBI / Spinal cord injury / Vertebral fractures:
+
+- Components:
+  - GCS (any score <15 = likely TBI)
+  - Pupils
+  - Mental alertness / headache (may have VERY subtle signs of TBI)
+- At high risk for Cspine fractures - to be discussed shortly
+- No rules exist to exclude the elderly from imaging, so imaging should be performed
+- Canadian cspine - excludes >65
+- Nexus included all ages, but most elderly people have Cspine tenderness
+- At increased risk for T, L, S spine fractures which are best imaged on CT
+- At higher risk for SCIWORA due to spinal stenosis and kyphosis
+  - ***High risk for central and anterior cord syndromes***
+
+**EXPOSURE**
+
+At risk for hypothermia because:
+
+- Skin thinning
+- Decreased muscle, increased fat
+- Impaired thermoregulatory mechanisms
+- Prolonged exposure
+
+Remove from backboards ASAP
+
+Tetanus
+
+Secondary assessment:
+
+- Complete hx
+- Screen for alcohol and substance abuse or elder abuse
+- LAB TESTING
+- Trauma labs WITH troponin
+- IMAGING
+  - CT!
+
+NOW: what specific disorders should we watch out for?
+
+**Specific disorders**
+
+**Traumatic brain injury**
+
+- Common, may be asymptomatic (more space for blood to go)
+
+Pathophysiology:
+
+- Frequent anticoagulant use
+- Brain size decreases by 10%
+- Less tortuous bridging veins and increased intracranial free space
+  - Mobile brain
+  - ICH
+- Pre-existing cognitive impairment
+
+Assessment and Dx:
+
+- CT, INR
+
+***Clinical variables alone are insufficient to rule out injuries***
+
+- All excluded from the New Orleans or CT head rule (<65)
+
+Treatment:
+
+- Supportive care
+- Reversal of anticoagulation
+- Surgical decompression
+
+Avoid:
+
+- Cerebral hypoxia
+- Hypoperfusion
+  - Get early invasive hemodynamic monitoring
+  - Get early neurosurgical consultation to inquire re: ICP monitoring and decompression
+  - Reverse coagulopathy
+
+Prognosis and disposition:
+
+- Morbidity increased with comorbidities, anticoagulation, low GCS, etc.
+- If normal INR and CT may be discharged to a reliable home for observation
+
+**Thoracic Trauma**
+
+- Higher risk for rib, sternal #, pulm contusions, pneumothorax (due to COPD)
+- Risk for pneumonia
+  - Due to pain, and splinting --> atelectasis
+  - Need admission for pain control and chest physio/incentive spirometry
+
+**Abdominal Trauma**
+
+- Goal is early dx and close monitoring
+- Physical exam is UNRELIABLE
+- Grade III splenic injuries usually fail non-operative management
+- May have a role for angiography for blush or extravasation
+
+**Extremities**
+
+Order of fracture frequency:
+
+- Upper ext: distal radius > proximal humerus > elbow
+- Lower ext: ankle # > hip and pelvic > tibial plateau
+
+Pelvis # : usually lateral compression - > at higher risk for hemorrhage
+
+- 80% mortality rate if open
+- Need resus, binding, blood, angio.
+
+Hip fractures:
+
+- 15% 1 yr mortality
+- Plain X-ray : 90% sensitive
+
+End of life decisions:
+
+- Grave prognosis if:
+  - GCS < 8 with anticoagulation
+  - GCS 3
+
+Initial injury in the ED does not accurately predict long-term prognosis
+
+Need to have discussions with family members re: goals of care, life support, life support measures, etc.
+
+## Summary
+
+- OCCULT injuries with low force are the norm!
+- Vital signs are unreliable
+  - Look for other indicators:
+    - Mental status, urine output, skin perfusion
+  - Use invasive monitoring
+- Low threshold for imaging
+
+### 3) What is the most common c-spine injury in the geriatric patient?
+
+Vertebral fractures and spinal cord injuries:
+
+- Age changes put seniors at higher risk: OA; spinal stenosis:
+  - Sx of spinal stenosis:
+    - Myelopathy, impaired coordination, gait, bowel/bladder dysfunction, abnormal motor/sensory function
+    - “Shopping cart sign”
+  - Are more likely to have partial neurologic injuries
+  - Three main types of injuries:
+    1. Central cord syndrome: "hyperextension injury"
+       - J- Mechanism is buckling of ligamentum flavum
+       - Weakness in Arms > legs
+       - Often have NO fracture, but have pre-existing spinal stenosis
+       - Painful hyperesthesias
+       - Usually stable, need immobilization
+       - May need surgery
+    2. Cervical extension-distraction injuries: "hyperextension: face or forehead trauma"
+       - Caused by reduced ROM -- degenerative spondylolysis/disk space collapse/osteophyte formation
+       - Pt. may report that they are able to extend their neck more than they used to = "open book" fracture
+       - Unstable
+    3. Odontoid fractures:
+       - Fall with impact to head
+       - <10% cause neuro deficits
+       - ****Type II (base of the dens) are the most common***
+         - Type I – up through the neck to the head
+         - Type III – down through the vertebral bodies
+```

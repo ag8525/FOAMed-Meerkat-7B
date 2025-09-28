@@ -1,0 +1,285 @@
+# Metadata
+- topic: 1.1 - Critical Management Principles - 2 Mechanical Ventilation
+- source_folder: 1.1 - Critical Management Principles
+- original_file: Ch.2 Mechanical Ventilation.pdf
+
+Crack Cast Show Notes ­ Jan­2016. 
+www.crackcast.org 
+principles 
+●
+spontaneous ventilation: 
+○
+venous return and preload are augmented, pressure gradient between LV and aorta 
+●
+Pos. pressure ventilation issues: 
+○
+decreased venous return, dec. Cardiac Output, less pressure gradient LV <­­> aorta 
+○
+exacerbates hypotension 
+●
+invasive mechanical ventilation: 
+○
+control variable 
+■
+Pressure controlled 
+●
+set amount of pressure applied to lungs 
+●
+set inspiratory time 
+●
+Useful to prevent barotrauma or high resp. reserve 
+○
+Asthma, COPD 
+○
+salicylate overdose 
+●
+unable to control volume 
+■
+volume controlled 
+●
+peak insp. pressures vary based on Tidal volume 
+●
+Risky when poor resp. system compliance 
+●
+Useful in volume restricted diseases: 
+○
+ALI 
+○
+ARDS 
+○
+obesity 
+○
+dual control ventilation 
+■
+PRVC 
+○
+Ventilator mode: 
+■
+Continuous mechanical ventilation (CMV) 
+●
+Assist/control ­ P or V control.  
+○
+fixed breaths per min, assists fixed vol. breaths with pts triggering 
+breathing.  
+○
+deeply sedated or paralysed pts. ***standard ED setting**** 
+■
+Intermittent mech. vent. (IMV) 
+●
+SIMV 
+●
+patients with weak, intermittent breaths 
+●
+preset breaths, promotes patient comfort, avoids  hypervent.  
+■
+Continuous spont vent. (CSV)  ****(all patient determined)**** 
+●
+PSV: awake interactive patients 
+●
+CPAP­ set PEEP 
+○
+PEEP: is the maintenance of pos. airway press. AFTER the completion 
+of passive exhalation  
+■
+increases FRC, oxygenation, dec. intrapulm shunt 
+●
+BiPAP­ set IPAP and EPAP 
+non­invasive techniques 
+●
+NIPPV 
+Crack Cast Show Notes ­ Jan­2016. 
+www.crackcast.org 
+○
+CPAP: constant pos, pressuring during the resp. 
+cycle 
+○
+BiPAP: alternates between iPAP and ePAP (alveolar recruitment) 
+ 
+MANAGEMENT: 
+NIPPV vs. Invasive: 
+●
+NIPPV can obviate intubation in many "DNR" situations or for reversible conditions 
+ 
+Ideal pt. popultn. 
+Contraindications 
+notes 
+NIPPV 
+●
+COPD 
+●
+cardiogenic pulm 
+edema w. fatigue 
+●
+hypercapnic 
+acidosis 
+●
+?asthma 
+●
+?pneumonia 
+●
+decreased LOC 
+●
+no resp. drive 
+●
+increased 
+secretions 
+●
+Actively vomiting 
+patient/or about to 
+vomit 
+●
+hemodynamic 
+instability 
+●
+facial 
+trauma/deformity 
+●
+agitated or 
+combative patient 
+leads to afterload reduction: 
+causes elevations of 
+intrathoracic pressure and 
+decreases LV ejection 
+pressure; decreases RV 
+preload 
+approach to initial vent. settings: 
+●
+systematic questions to talk through: 
+1) could NIPPV help? 
+●
+CPAP: 
+○
+IPAP at 10 cm H20 
+○
+EPAP at 5 cm H20 
+○
+increase each by 1 cm at a time.  
+○
+max IPAP is 20 cm h20 
+2) Intubation needed? 
+●
+Mode: A/C 
+●
+tidal Vol: 6­8 ml/kg 
+●
+rate: 12­14 bpm 
+●
+pressure targets < 30 cm h20 
+●
+Fi02: @ 1.0, then titrated DOWN to maintain sp02 > 90% 
+●
+PeeP: at 5 cm h20 
+ongoing management: 
+●
+regular titration of settings based on blood gases 
+●
+VBG's good for pH and Pc02 
+●
+PIP / peak airway pressures = the amount of airway pressure in the alveoli at end inspiration 
+ 
+●
+Must also address analgesia and sedation​
+! 
+○
+RASS score from ­5 <­> +4; ideal emerg level is ­2 
+○
+Morphine ­ has active metabolites that accumulate in the system 
+Crack Cast Show Notes ­ Jan­2016. 
+www.crackcast.org 
+○
+Benzo's ­ when infused have tissue accumulating 
+properties leading to prolonged delirium and 
+sedation 
+■
+boluses are much better if absolutely needed 
+○
+Propofol ­ better given as an infusion: 0.1mg/kg/min 
+○
+Dexmedetomidine ­ great drug for sedation and for ICU delirium 
+○
+***Haldol ­ useful adjunct who are acutely agitated after large doses of other sedatives** 
+○
+VAP prevention: 
+■
+Suctioning 
+■
+HOB >30 deg.  
+■
+OG/NG to suction 
+■
+Chlorhexidine mouthwashes 
+Complications of PPV: 
+●
+Lung barotrauma and volutrauma 
+○
+max end­inspiratory pressures at 30 cm H2O 
+○
+risk of pneumothorax, pneumomediastinum 
+●
+breath stacking in obstructive lung disease leading to hyperinflation 
+○
+decrease resp rate and I:E ratio 
+***Troubleshooting the ventilator​
+:*** 
+ 
+●
+first step: "Disconnect the Ventilator system and Bag with 100% 02" 
+●
+Acute diagnoses not to miss: 
+○
+physiologic things: 
+■
+tension pneumothorax 
+■
+acute PE 
+■
+inadequate sedation 
+○
+mechanical things: 
+■
+dislodged tube or mucous plug 
+■
+cuff leak or vent circuit problem 
+special clinical circumstances: any existing lung disease: 
+"treat them like BABY lungs" 
+ 
+Disease 
+Acute exac. COPD 
+Status Asthmaticus 
+ALI / ARDS 
+notes 
+minimize IPEEP: 
+●
+bronchodilators, 
+steroids 
+●
+long expiratory time, 
+low RR 
+●
+low TV 
+●
+"permissive 
+hypercapnia"  
+●
+I:E of 1:4 
+●
+deep sedation! 
+similar to COPD 
+●
+low RR,  
+●
+long Exp. times 
+●
+NO PEEP 
+●
+low tidal Vol.  
+●
+decreased tidal Vol.  
+○
+below 7 
+ml/kg 
+○
+ 
+Crack Cast Show Notes ­ Jan­2016. 
+www.crackcast.org 
+ 

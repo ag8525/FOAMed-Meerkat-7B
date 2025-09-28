@@ -1,0 +1,110 @@
+# Metadata
+- Source: The Bottom Line
+- Title: POKER
+- Original URL: https://www.thebottomline.org.uk/summaries/em/poker/
+- Scrape Date: 2025-07-17
+- Summary Date: AUTO_FILL_IF_AVAILABLE
+
+Propofol or Ketofol for Procedural Sedation and Analgesia in Emergency Medicine: The POKER Study
+Ferguson (
+@ketaminest
+) et al. Ann Emerg Med 2016; 68:574-582. doi:10.1016/j.annemergmed.2016.05.024
+Clinical Question
+In adult Emergency Department patients requiring intravenous sedation for noxious procedures, does a combination of propofol and ketamine (ketofol), compared with single-agent propofol, cause fewer adverse respiratory events?
+Design
+A randomised, double blinded clinical trial
+Convenience sample
+Block randomisation in blocks of four was performed using a web-based program
+Study packs were pre-prepared and medical staff were blinded to the contents
+The study was powered to demonstrate a reduction in the primary endpoint from 20 to 10%, with a calculated sample size of 526 (263 in each arm)
+Intention to treat analysis
+Analysis was with chi-squared or Fisher’s exact test
+Setting
+Three Australian Emergency Departments, incorporating urban, rural and tertiary hospitals
+April 2013 – April 2015
+Population
+Inclusion criteria: Adult patients who required deep procedural sedation to facilitate the performance of a painful procedure in the Emergency Department
+Exclusion criteria: Unable to provide informed consent; pregnant; allergic to study medications; reduced level of consciousness; BP >160/90mmHg; severe cardiac or systemic disease
+591 patients randomised from 1028 patients who were screened for inclusion
+14 patients excluded post randomisation because they met exclusion criteria
+Baseline characteristics of ketofol and propofol groups similar at baseline. Comparing ketofol vs. propofol groups:
+Age, median: 50 vs. 46
+Weight, median: 78kg vs. 82kg
+Fasted >3h hours: 95% vs. 95%
+Procedure
+Fracture reduction: 37% vs. 31%
+Joint reduction: 26% vs. 29%
+Abscess incision & drainage: 20% vs. 20%
+Cardioversion: 10% vs. 9%
+Other: 8% vs. 11%
+Prophylactic oxygen use: 99.6% vs. 98.6%
+Oxygen Flow rate, median: 4l/min vs. 4l/min
+Patients received morphine: 22% vs. 16%
+Patients received fentanyl: 11% vs. 11%
+Intervention
+Ketofol
+100mg ketamine and 100mg propofol in 20ml syringe, given as an initial bolus of 0.05 ml/kg
+Additional injections of 0.025 ml/kg were then administered no more frequently than every 60 seconds at discretion of treating physician
+Control
+Propofol
+200mg in 20 ml syringe given as an initial bolus of 0.05 ml/kg
+Additional injections of 0.025 ml/kg were then administered no more frequently that every 60 second at discretion of treating physician
+Common to both groups
+Titrated IV opiates encouraged for pain prior to randomisation
+The procedure commenced at individual physician discretion
+Vital signs and depth of sedation were recorded every three minutes
+Open label propofol was used if additional doses of sedation were required and patient had received 20mls of study medication
+Administration of prophylactic oxygen at discretion of treating physician
+Outcome
+Primary outcome: The occurrence of an adverse respiratory event
+Defined as any of the following
+SpO2 <93%
+Respiratory rate <8
+Apnoea (no etCO2 production for >15 seconds)
+Laryngospasm
+Aspiration
+Need for rescue intervention (increase in oxygen flow rate, airway repositioning, use of an airway adjunct or bag valve mask ventilation)
+Comparing ketofol vs. propofol group – no significant difference
+7% vs. 9% (difference 2%, 95% C.I. -2 to 6%)
+Secondary outcomes: comparing ketofol vs. propofol group
+BP <90 – significantly more common in propofol group
+1% vs. 8% (difference 7%, 95% C.I. 4-10%)
+Time to reach discharge key score of 7 – significantly longer in ketofol group
+33min vs. 24min, difference 9min (95% C.I. 7-11)
+This discharge score is on a scale of 0–8 and includes 4 domains: neurological, respiratory, cardiovascular and musculoskeletal
+Emergence delirium – significantly more likely in ketofol group
+27% vs. 20%, difference 7% (95% C.I. 4-10)
+No difference in pain during procedure, recall or patient satisfaction
+Pain score 30 minutes post-procedure – significantly higher in propofol group
+0/10 vs. 3/10, difference 3 (95% C.I. 2-3)
+Authors’ Conclusions
+Adult procedural sedation using ketofol versus propofol alone results in similar frequency of adverse respiratory events requiring intervention. Propofol was associated with a slightly higher incidence of hypotension, which is of dubious clinical consequence, and patients were highly satisfied with both agents
+Strengths
+Investigated an important clinical question on a procedure that is performed on a daily basis in most Emergency Departments
+The study was largely conducted in the Australian metropolitan area, making the results generalisable to the UK population
+Robust efforts were made to conceal the study drug and an appropriate randomisation process meant that bias was reduced as much as possible
+Appropriate primary outcomes were chosen, with clinically significant endpoints
+The multiple secondary endpoints were relevant and may be useful for future research
+Weaknesses
+Selection bias may have occurred due to convenience sampling- the authors acknowledged this at the end of the paper
+Initial doses of sedative agents (0.05mg/kg) was lower than what would routinely be used in clinical practice, potentially lowering the complication rate.
+More patients in the ketofol group received opiates prior to study inclusion (22 vs 16%), however pain scores were reported as similar in both groups
+Clinical effects of ketamine (eg. ocular manifestations) may have been detectable by physicians, potentially introducing bias
+The increased frequency of hypotension in the control group may not be as clinically benign as the authors suggest
+Preoxygenation was left to the discretion of the treating physician. At a median flow rate of 4 l/min, this seems lower than I would have expected
+The Bottom Line
+This study suggests that ketofol and propofol are equally safe, with regards to respiratory complications, for procedural sedation in the emergency department, providing that patients receive adequate analgesia and are sedated using an appropriate protocol.
+Clinicians should continue to use the agent that they are most familiar with.
+External Links
+[abstract]
+The POKER trial
+[further reading]
+REBELEM: POKER trial
+[further reading]
+St Emlyns journal club
+Metadata
+Summary author:
+Fraser Magee
+Summary date: 31/10/16
+Peer-review editor:
+David Slessor
