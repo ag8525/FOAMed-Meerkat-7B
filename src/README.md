@@ -1,15 +1,17 @@
-# FOAMed-Meerkat-7B ó RAG Pipelines (`src`)
+> **Disclaimer:** All code, models, and outputs in this repository are intended **only** for research purposes. They are **not validated for clinical, diagnostic, or real-world operational use** and should not be relied upon in any setting involving patient care or safety-critical 
+
+# FOAMed-Meerkat-7B ‚Äî RAG Pipelines (`src`)
 
 Welcome to **FOAMed-Meerkat-7B**.
 
-This folder contained the code I used to build vector stores and run multiple Retrieval-Augmented Generation (RAG) variants with the Meerkat-7B model, available on [Hugging Face](https://huggingface.co/dmis-lab/meerkat-7b-v1.0) and described in the May 2025 paper, ì[Small Language Models Learn Enhanced Reasoning Skills from Medical Textbooks](https://www.nature.com/articles/s41746-025-01653-8).î
+This folder contained the code I used to build vector stores and run multiple Retrieval-Augmented Generation (RAG) variants with the Meerkat-7B model, available on [Hugging Face](https://huggingface.co/dmis-lab/meerkat-7b-v1.0) and described in the May 2025 paper, ‚Äú[Small Language Models Learn Enhanced Reasoning Skills from Medical Textbooks](https://www.nature.com/articles/s41746-025-01653-8).‚Äù
 
 ## Contents
 
-- `create_vectorstore.py` ó builds a FAISS vector store from Markdown sources using either fixed-size splitting or Markdown-aware splitting.
-- `experiment.py` ó runs evaluations in four modes: `base`, `naive_rag`, `rerank_rag`, and `stepback_rag`; saves per-question results and accuracy.
-- `utils.py` ó helpers for loading models, building pipelines, formatting questions, parsing model outputs, retrieval, and cross-encoder reranking.
-- `prompts.py` ó system prompts for base, RAG, and step-back question generation, plus few-shot examples for the step-back variant.
+- `create_vectorstore.py` ‚Äî builds a FAISS vector store from Markdown sources using either fixed-size splitting or Markdown-aware splitting.
+- `experiment.py` ‚Äî runs evaluations in four modes: `base`, `naive_rag`, `rerank_rag`, and `stepback_rag`; saves per-question results and accuracy.
+- `utils.py` ‚Äî helpers for loading models, building pipelines, formatting questions, parsing model outputs, retrieval, and cross-encoder reranking.
+- `prompts.py` ‚Äî system prompts for base, RAG, and step-back question generation, plus few-shot examples for the step-back variant.
 
 ## Data Preparation & Provenance (outside `src/`)
 
@@ -51,7 +53,7 @@ All runs write results into `--output_dir/<auto_named_experiment>/results_<name>
 python src/experiment.py   --mode base   --output_dir results/   --dataset_path dataset/data_clean/questions/US/test_em_gpt_filtered.jsonl   --batch_size 5 --limit 100
 ```
 
-#### NaÔve RAG (retrieval + threshold)
+#### Na√Øve RAG (retrieval + threshold)
 ```bash
 python src/experiment.py   --mode naive_rag   --output_dir results/   --dataset_path dataset/data_clean/questions/US/test_em_gpt_filtered.jsonl   --vector_db_path norm_md_vector_store/   --threshold 0.8   --retrieval_top_k 10   --user_message_type 1   --batch_size 5 --limit 100
 ```
@@ -89,7 +91,7 @@ Key CLI flags:
   - `base`: no retrieval; just prompt and answer.
   - `naive_rag`: retrieves `k`, filters by `--threshold` (similarity score), builds context.
   - `rerank_rag`: retrieves `k`, cross-encoder scores each (question, chunk), keeps top-N = threshold.
-  - `stepback_rag`: 1st model call generates 1ñ3 step-back questions; retrieve+rerank per SB Q; dedupe/merge; 2nd model call answers.
+  - `stepback_rag`: 1st model call generates 1‚Äì3 step-back questions; retrieve+rerank per SB Q; dedupe/merge; 2nd model call answers.
 - Optional **sibling-chunk** enrichment (source-aware add-ons by filename and target headers) via `--use_sib_chunks` (use only where you intend it).
 - Saves a row per question with correctness flag, context filenames, and basic score stats; prints accuracy at the end.
 
@@ -106,7 +108,7 @@ Important flags:
 ### `utils.py`
 - **Formatting/parsing**:  
   - `format_question_text()` converts dataset JSON to the MCQ+options text block expected by the prompts.  
-  - `parse_final_answer()` extracts the final letter from model output (ìthe answer is (X) Öî).  
+  - `parse_final_answer()` extracts the final letter from model output (‚Äúthe answer is (X) ‚Ä¶‚Äù).  
   - `parse_stepback_questions()` robustly parses numbered step-back questions from model text.
 - **Models**:  
   - `load_slm_and_tokenizer()` loads the base SLM with bitsandbytes 4-bit quantization.  
@@ -116,9 +118,9 @@ Important flags:
   - `get_retriever()` loads the FAISS index with PubMedBERT embeddings (normalized).
 
 ### `prompts.py`
-- **`BASE_PROMPT`**: Standard MCQ solver with required ìthe answer is (X) Öî format.  
+- **`BASE_PROMPT`**: Standard MCQ solver with required ‚Äúthe answer is (X) ‚Ä¶‚Äù format.  
 - **`RAG_PROMPT`**: Same as base, but explicitly treats retrieved text as optional evidence (ignore if irrelevant).  
-- **`STEPBACK_PROMPT`**: Generates 1ñ3 principle-level prompts with explicit medical ìanchor termsî and task keywords; strict numbered output format.  
+- **`STEPBACK_PROMPT`**: Generates 1‚Äì3 principle-level prompts with explicit medical ‚Äúanchor terms‚Äù and task keywords; strict numbered output format.  
 - **`FEW_SHOT_EXAMPLES`**: optional user/assistant exemplars for step-back generation.
 
 ## Outputs
@@ -146,7 +148,7 @@ Experiment names are auto-generated from mode + key flags (e.g., `rerank_rag_md_
 
 ## Troubleshooting
 
-- **ìvector_db_path must include 'md' or 'size'.î**  
+- **‚Äúvector_db_path must include 'md' or 'size'.‚Äù**  
   Name your FAISS folder `norm_md_vector_store/` or `norm_size_vector_store/` (created by `create_vectorstore.py`).
 
 - **Empty or tiny context**  
