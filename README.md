@@ -1,7 +1,7 @@
 ## Overview
 
 <p align="center">
-  <img src="assets/meerkat_foam.png" alt="Dr. Meerkat with foam" width="300">
+  <img src="assets/FOAMed-Meerkat-7B.png" alt="Dr. Meerkat with foam" width="300">
 </p>
 
 <p align="center">
