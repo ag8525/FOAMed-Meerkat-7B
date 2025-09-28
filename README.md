@@ -19,21 +19,21 @@ Welcome to **FOAMed-Meerkat-7B** — let’s get foamy!
 <table>
 <tr>
   <td align="center">
-    <img src="assets/naive_rag.png" alt="Naïve RAG" width="700"><br/>
+    <img src="assets/naive_rag.png" alt="Naïve RAG" width="1700"><br/>
     <b>Naïve RAG.</b> Retrieve top-<i>k</i> chunks from the vector DB, filter by relevance, assemble context, and answer with the SLM.
   </td>
   <td align="center">
-    <img src="assets/rerank_rag.png" alt="Rerank RAG" width="700"><br/>
+    <img src="assets/rerank_rag.png" alt="Rerank RAG" width="1700"><br/>
     <b>Rerank RAG.</b> Retrieve candidates, score each (question, chunk) pair with a cross-encoder, keep top-N, then answer.
   </td>
 </tr>
 <tr>
   <td align="center">
-    <img src="assets/stepback_rag.png" alt="Step-Back RAG" width="700"><br/>
+    <img src="assets/stepback_rag.png" alt="Step-Back RAG" width="1700"><br/>
     <b>Step-Back RAG.</b> First call: generate 1–3 higher-level step-back questions; retrieve and rerank per SB query; merge context. Second call: answer.
   </td>
   <td align="center">
-    <img src="assets/sib_rag.png" alt="Sibling-Chunks" width="700"><br/>
+    <img src="assets/sib_rag.png" alt="Sibling-Chunks" width="1700"><br/>
     <b>Sibling-Chunks.</b> Expand each hit with adjacent chunks from the same source before answering.
   </td>
 </tr>
