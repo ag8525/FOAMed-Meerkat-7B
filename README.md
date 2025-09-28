@@ -4,9 +4,37 @@
   <img src="assets/FOAMed-Meerkat-7B.png" alt="Dr. Meerkat with foam" width="300">
 </p>
 
+Welcome to **FOAMed-Meerkat-7B** — let’s get foamy!
+
 <p align="center">
-  <!-- Put your image at assets/rag_overview.png (or change the path below) -->
   <img src="assets/rag_overview.png" alt="RAG pipelines overview" width="800">
 </p>
 
 **Project aim.** FOAMed-Meerkat-7B evaluated whether a small language model (Meerkat-7B) can answer emergency-medicine MCQs more reliably using Retrieval-Augmented Generation (RAG). I built and compared several pipelines—naïve retrieval, cross-encoder reranking, step-back question generation, and sibling-chunk enrichment—on the EM-MedQA dataset derived from FOAMed sources. The repo includes reproducible code for vector-store creation and batched evaluation; raw data cleaning and EM-MedQA preparation (which involved GPT-4o assistance and some manual steps) are documented separately in `raw_data/` and `dataset/`.
+
+---
+
+## RAG variants at a glance
+
+<table>
+<tr>
+  <td align="center">
+    <img src="assets/naive_rag.png" alt="Naïve RAG" width="260"><br/>
+    <b>Naïve RAG.</b> Retrieve top-<i>k</i> chunks from the vector DB, filter by relevance, assemble context, and answer with the SLM.
+  </td>
+  <td align="center">
+    <img src="assets/rerank_rag.png" alt="Rerank RAG" width="260"><br/>
+    <b>Rerank RAG.</b> Retrieve candidates, score each (question, chunk) pair with a cross-encoder, keep top-N, then answer.
+  </td>
+</tr>
+<tr>
+  <td align="center">
+    <img src="assets/stepback_rag.png" alt="Step-Back RAG" width="260"><br/>
+    <b>Step-Back RAG.</b> First call: generate 1–3 higher-level step-back questions; retrieve (optionally rerank) per SB query; merge context. Second call: answer.
+  </td>
+  <td align="center">
+    <img src="assets/sib_rag.png" alt="Sibling-Chunks" width="260"><br/>
+    <b>Sibling-Chunks.</b> Expand each hit with adjacent chunks from the same source to preserve local continuity before answering.
+  </td>
+</tr>
+</table>
