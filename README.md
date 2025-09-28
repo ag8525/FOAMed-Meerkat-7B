@@ -6,6 +6,8 @@
 
 Welcome to **FOAMed-Meerkat-7B** — let’s get foamy!
 
+> **Disclaimer:** All code, models, and outputs in this repository are intended **only** for research and educational purposes. They are **not validated for clinical, diagnostic, or real-world operational use** and should not be relied upon in any setting involving patient care or safety-critical decisions.
+
 <p align="center">
   <img src="assets/rag_overview.png" alt="RAG pipelines overview" width="800">
 </p>
